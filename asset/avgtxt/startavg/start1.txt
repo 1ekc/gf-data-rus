@@ -1,7 +1,7 @@
-()||<BGM>BGM_War</BGM>:Ten minutes later...
-M4A1(0)<Speaker>M4A1</Speaker>||:It is fine. The tactical maps are intact. What about the comms system?
-VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:Comms are functioning normally! We're hearing you loud and clear!
-M4A1(2)<Speaker>M4A1</Speaker>||:...I am so sorry, but you will have to bring up the rear.
-PPSh41(0)<Speaker>PPSh-41</Speaker><通讯框>||:No problem, comrade. It's our duty.
-M4A1(0)<Speaker>M4A1</Speaker>||:...Thank you. We shall finish evacuating as soon as possible.
-StG44(0)<Speaker>StG44</Speaker><通讯框>||:Let's move out! AR Team, can you guys see the entire field from where you are?
+()||<BGM>BGM_War</BGM>:Десять минут спустя ...
+M4A1(0)<Speaker>M4A1</Speaker>||:Это нормально. Тактические карты в порядке. Как насчет системы связи?
+VZ61(0)<Speaker>Скорпион</Speaker><通讯框>||:Связь функционируют нормально! Мы слышим вас громко и чётко!
+M4A1(2)<Speaker>M4A1</Speaker>||:... Мне очень жаль, но вам придется прикрывать отход.
+PPSh41(0)<Speaker>PPSh-41</Speaker><通讯框>||:Нет проблем, товарищ. Это наш долг.
+M4A1(0)<Speaker>M4A1</Speaker>||:...Спасибо. Мы закончим эвакуацию как можно скорее.
+StG44(0)<Speaker>StG44</Speaker><通讯框>||:Давай выдвигайтесь! Команда АК, девчата,вы можете видеть все область, откуда вы находитесь?
