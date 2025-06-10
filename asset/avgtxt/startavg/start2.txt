@@ -1,5 +1,5 @@
-M4A1(3)<Speaker>M4A1</Speaker>||:Hmm, I see Sangvis reinforcements fast approaching. Get into position as fast as you can!
-PPSh41(0)<Speaker>PPSh-41</Speaker><通讯框>||:Roger! Griffin back-up squad is ready!
-VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:Here we go! I'm not gonna lose to those monsters!
-StG44(0)<Speaker>StG44</Speaker><通讯框>||:AR Team, all of us are in position. Get ready to move yourself!
-M4A1(3)<Speaker>M4A1</Speaker>||:Understood. One last check on our destination, then we are moving out!
+M4A1(3)<Speaker>M4A1</Speaker>||:Хм, я вижу, как быстро приближается подкрепление Cангвиса. Займите позиции как можно быстрее!
+PPSh41(0)<Speaker>PPSh-41</Speaker><通讯框>||:Принято! Отряд прикрытия Грифона готов!
+VZ61(0)<Speaker>Скорпион</Speaker><通讯框>||:Вот так! Я не проиграю этим гадам!
+StG44(0)<Speaker>StG44</Speaker><通讯框>||:Команда AR, мы на позиции. Готовьтесь выдвигаться!
+M4A1(3)<Speaker>M4A1</Speaker>||:Принято. Последняя проверка нашей точки назначения, и мы выступаем!
