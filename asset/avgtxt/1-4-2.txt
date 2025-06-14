@@ -1,12 +1,12 @@
-()||<BGM>BGM_Room</BGM><BIN>8</BIN>:Sangvis command post successfully invaded. Relevant data uploaded.+Waiting for analysis from HQ. A moment later...
-NPC-Kalin(2)<Speaker>Kalin</Speaker>||:Commander, the analysis is out!
-NPC-Kalin(4)<Speaker>Kalin</Speaker>||<黑屏1>:While HQ was compiling the data, they recovered some useful information.+The good news is, VZ-61 is still alive, but is in a really tight spot...+In any case, please take a look at this video feed first.
-()||<BIN>2</BIN><BGM>BGM_Boss</BGM><黑屏2>:Video feed starts playing.+In the ruins near the battlefield, VZ-61 is being interrogated by a Sangvis T-Doll.
-BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Your cunning slightly exceeds my calculations, VZ-61 of Griffin.
-VZ61(1)<Speaker>Skorpion</Speaker>||:All I did...was provide the possible location...
-BOSS-1(0)<Speaker>Scarecrow</Speaker>||:All you did...was stall for time.+Poor thing. You're going through this interrogation because of your friends, but they've already left you for dead.
-VZ61(1)<Speaker>Skorpion</Speaker>||:That's not true. They're gonna get help and come back for me! She promised!
-BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Then let me remind you again, you pathetic piece of junk.+They are the AR Team, cold and highly efficient elite T-Dolls.+You are nothing more than disposable goods to them.
-VZ61(1)<Speaker>Skorpion</Speaker>||:No... Not true!+I won't believe your lies! M4A1 is my companion!
-BOSS-1(0)<Speaker>Scarecrow</Speaker>||<黑屏1>0,3</黑屏1>:She isn't your companion, pitiful thing!+Tell me where she is, and I'll be kind and let you rot on the roadside like the piece of junk that you are...+Just as your 'companions' have done.
-Scarecrow()<Speaker>Scarecrow</Speaker>||<黑屏2>0,3</黑屏2><BIN>9</BIN><黑屏1>:Your emotions are merely fabricated lies.+I'm asking you one last time... Tell me where she is.
+()||<BGM>BGM_Room</BGM><BIN>8</BIN>:Командный пункт Сангвиса успешно захвачен. Необходимые данные загружены.+Ждем анализа из штаб-квартиры. Мгновение спустя...
+NPC-Kalin(2)<Speaker>Калин</Speaker>||:Командир, анализ готов!
+NPC-Kalin(4)<Speaker>Калин</Speaker>||<黑屏1>:Пока штаб занимался сбором данных, они добыли несколько полезных сведений.+Хорошая новость: VZ-61 все еще жива, но находится в очень затруднительном положении...+В любом случае, сначала посмотрите этот видеоматериал.
+()||<BIN>2</BIN><BGM>BGM_Boss</BGM><黑屏2>:Начинается воспроизведение видео.+В руинах рядом с полем боя VZ-61 допрашивает Т-Кукла из Сангвиса.
+BOSS-1(0)<Speaker>Пугало</Speaker>||:Ваша изворотливость несколько превосходит мои расчеты, VZ-61 из Грифона.
+VZ61(1)<Speaker>Skorpion</Speaker>||:Все, что я сделала... это указала возможное местоположение...
+BOSS-1(0)<Speaker>Пугало</Speaker>||:Все, что вы делали... это тянули время.+Бедняжка. Ты проходишь через этот допрос из-за своих друзей, но они уже оставили тебя умирать.
+VZ61(1)<Speaker>Skorpion</Speaker>||:Это неправда. Они получат необходимую поддержку и вернутся за мной! Она обещала!
+BOSS-1(0)<Speaker>Пугало</Speaker>||:Тогда позволь мне еще раз напомнить тебе, жалкий кусок мусора.+Они - команда AR, бесстрастные и высокоэффективные элитные Т-Куклы.+Вы для них не более чем одноразовый товар.
+VZ61(1)<Speaker>Skorpion</Speaker>||:Нет... Неправда!+Я не поверю в твою ложь! M4A1 - мой товарищ!
+BOSS-1(0)<Speaker>Пугало</Speaker>||<黑屏1>0,3</黑屏1>:Она не твой товарищ, жалкая тварь!+Скажи мне, где она, и я буду любезна и позволю тебе гнить на обочине, как кусок хлама, которым ты и являешься...+Так же, как и твои «компаньоны».
+Scarecrow()<Speaker>Пугало</Speaker>||<黑屏2>0,3</黑屏2><BIN>9</BIN><黑屏1>:Ваши эмоции - всего лишь надуманная ложь.+Я спрашиваю тебя в последний раз... Скажи мне, где она.
