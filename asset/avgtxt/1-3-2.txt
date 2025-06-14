@@ -1,18 +1,18 @@
-()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:Sangvis outpost successfully shut down. Transport route safety confirmed.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:Well done, Commander. The injured T-Dolls should arrive any minute.+These T-Dolls are especially valued because they are possible witnesses to some intel.+If the intel proves to be true, it might mean open war between us and Sangvis Ferri.+...Yes, 'us', and that includes your troops, Commander.
- ()||:...Click.+A ping comes from behind Helian.
-NPC-Helian(0)<Speaker>Helian</Speaker>||<黑屏1>:Oh? Looks like the T-Dolls are back.+Please excuse me.
- ()||<BIN>22</BIN><BGM>BGM_Room</BGM><黑屏2>:Griffin Headquarters. The damaged T-Dolls have arrived at the Factory.
-MAC10(1)<Speaker>Ingram</Speaker>||:Humph, so we're back already...+Not the slightest bit of fun during the whole thing. I was bored to tears.
-NPC-Helian(0)<Speaker>Helian</Speaker>;MAC10(1)||:Save it, Ingram.+If it hadn't been for the T-Dolls that came to HQ's aid, you'd be in big trouble.
-NPC-Helian(0);MAC10(1)<Speaker>Ingram</Speaker>||:Tsk. It was a chance for me to risk my life.+After all, the riskier it is, the more I revel in combat.
-NPC-Helian(0)<Speaker>Helian</Speaker>;MAC10(1)||:Not this time, Ingram.+You're one of the few survivors still capable of speech. There are some things I have to confirm with you.
-NPC-Helian(0);MAC10(1)<Speaker>Ingram</Speaker>||:Fine, you're the boss. Whatever you say.
-NPC-Helian(0)<Speaker>Helian</Speaker>;MAC10(1)||:What happened to STG-44 and PPSh-41, do you remember?
-NPC-Helian(0);MAC10(1)<Speaker>Ingram</Speaker>||:I only know that Agent got there. She seemed to be in a hurry chasing something.+We only made it out alive because we weren't her targets.
-NPC-Helian(0)<Speaker>Helian</Speaker>;MAC10(1)||:Hmm...+VZ-61 is the only one still missing. You two are close, aren't you? Do you know her whereabouts?
-NPC-Helian(0);MAC10(1)<Speaker>Ingram</Speaker>||:(Shrugs) Sorry, but I wasn't on the frontline back then.+However...if she's still alive, she'll probably find a way to leave behind clues.+That gal...can be very sharp when it counts.
-NPC-Helian(0)<Speaker>Helian</Speaker>;MAC10(1)||:...Understood.+That's all I need from you. Go and get repaired.
-NPC-Helian(0);MAC10(1)<Speaker>Ingram</Speaker>||:...Miss Helian.+Will we have our vengeance...for Skorpion, and all the other T-Dolls?
-NPC-Helian(0)<Speaker>Helian</Speaker>;MAC10(1)||:...+Hurry up and get yourself patched up, Ingram.+Very soon...you can have your share of fun.
-MAC10(1)<Speaker>Ingram</Speaker>||<黑屏1>:(Grins) ...Understood.+That's exactly what I want to hear.
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:Аванпост Сангвис успешно ликвидирован. Безопасность транспортного маршрута подтверждена.
+NPC-Helian(0)<Speaker>Хелиан</Speaker><通讯框>||:Отличная работа, Командир. Раненые Т-Куклы должны прибыть с минуты на минуту.+Эти Т-Куклы особенно ценны, потому что они могут быть свидетелями определенных разведданных.+Если сведения окажутся верными, это может означать открытую войну между нами и Сангвис Ферри.+...Да, «мы», и в том числе ваши отряды, Командир.
+ ()||:...Клик.+Сзади Хелиана раздается сигнал.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||<黑屏1>:О? Похоже, Т-Куклы вернулись.+Пожалуйста, извините меня.
+ ()||<BIN>22</BIN><BGM>BGM_Room</BGM><黑屏2>:Штаб-квартира Грифона. Поврежденные Т-Куклы прибыли на Фабрику.
+MAC10(1)<Speaker>Ингрэм</Speaker>||:Хм, значит, мы уже вернулись...+Ни малейшего развлечения за все время. Мне было скучно до слез.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;MAC10(1)||:Оставь это, Ингрэм.+Если бы не Т-Куклы, пришедшие на помощь штабу, у вас были бы большие проблемы.
+NPC-Helian(0);MAC10(1)<Speaker>Ингрэм</Speaker>||:Тск. Для меня это был шанс подвергнуть свою жизнь риску..+В конце концов, чем рискованнее, тем больше я получаю удовольствия от боя.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;MAC10(1)||:Не в этот раз, Ингрэм.+Вы одни из немногих выживших, кто еще способен говорить. Мне нужно кое-что подтвердить.
+NPC-Helian(0);MAC10(1)<Speaker>Ингрэм</Speaker>||:Отлично, ты босс. Как скажешь.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;MAC10(1)||:Что случилось с СТГ-44 и ППШ-41, вы помните?
+NPC-Helian(0);MAC10(1)<Speaker>Ингрэм</Speaker>||:Я знаю только то, что Агент добрался туда. Похоже, она спешила, преследуя что-то.+Нам удалось выбраться живыми только потому, что мы не были ее целью.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;MAC10(1)||:Хм...+VZ-61 - единственный, кто до сих пор не обнаружен. Вы двое близки, не так ли? Ты знаешь ее местонахождение?
+NPC-Helian(0);MAC10(1)<Speaker>Ингрэм</Speaker>||:(Пожатие плечами) Простите, но тогда я не была на передовой.+Однако... если она еще жива, то наверняка найдет способ оставить после себя какие-нибудь зацепки.+Эта девушка... может быть очень проницательной, когда это важно.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;MAC10(1)||:...Понятно.+Это все, что мне от тебя нужно. Иди и займись восстановлением.
+NPC-Helian(0);MAC10(1)<Speaker>Ингрэм</Speaker>||:...мисс Хелиан.+Сможем ли мы отомстить... за Skorpion и всех остальных Т-Кукол?
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;MAC10(1)||:...+Поторопись и подлатай себя, Ингрэм.+Очень скоро... вы сможете получить свою порцию удовольствия.
+MAC10(1)<Speaker>Ингрэм</Speaker>||<黑屏1>:(Улыбается) ...Понятно.+Это именно то, что я хотела бы услышать.
