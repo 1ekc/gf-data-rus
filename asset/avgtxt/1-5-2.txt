@@ -1,17 +1,17 @@
-()||<BGM>BGM_Empty</BGM><BIN>9</BIN>:Sangvis recon base secured. Our rescue team seized the chance and moved in quickly.+...Half an hour later, the team arrived at the coordinates.
-Grifon T-Doll()<Speaker>Griffin T-Doll</Speaker>||:(Gestures) Ready...+(Gestures) 3...2...1...
-()||<BIN>9</BIN><震屏><SE1>Gunfight</SE1>:Engage in battle.
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN>:Разведбаза Сангвиса захвачена. Наша спасательная группа воспользовалась шансом и быстро выдвинулась на место.+...Через полчаса команда прибыла к указанным координатам.
+Grifon T-Doll()<Speaker>Т-Кукла Грифона</Speaker>||:(Жестами) Готовность...+(Жестами) 3...2...1...
+()||<BIN>9</BIN><震屏><SE1>Gunfight</SE1>:Примите участие в сражении.
 ()||:...+......
-PPSh41(0)<Speaker>PPSh-41</Speaker>||:...All clear.
-VZ61(1)<Speaker>Skorpion</Speaker>||:...+P...Papasha?
-PPSh41(0)<Speaker>PPSh-41</Speaker>||:It's me, Skorpion. We're here to get you.
-VZ61(1)<Speaker>Skorpion</Speaker>||<BGM>BGM_Sad</BGM>:Papasha... You're still alive...?+Am I dreaming...?
-PPSh41(0)<Speaker>PPSh-41</Speaker>||:(Smiles) Don't be silly. Can we even dream?+Don't worry. Everything's fine now.
-()||<黑屏1>:...Mission accomplished.
-()||<BIN>22</BIN><黑屏2>:...An hour later, VZ-61 returned to the control center safely.
-NPC-Helian(0)<Speaker>Helian</Speaker>||:...+So you didn't disclose the AR Team's whereabouts?
-VZ61(0)<Speaker>Skorpion</Speaker>||:Yep, in the end, I only gave her false information.+For the sake of my companions, even those I thought I'd lost, I'd never surrender to someone like that!
-NPC-Helian(0)<Speaker>Helian</Speaker>||:I believe you, VZ-61.+As for Scarecrow's objective, we'll have to find out by capturing her.
-VZ61(0)<Speaker>Skorpion</Speaker>||:Miss Helian, please count me in on the hunt for Scarecrow.
-NPC-Helian(0)<Speaker>Helian</Speaker>||:I don't have any vacancies here.+If you want revenge, I can assign you to a new commander.+This commander contributed greatly to the success of your rescue mission. Don't disappoint.
-VZ61(0)<Speaker>Skorpion</Speaker>||<黑屏1>:OK! No matter where I go, I'll do my best as long as I'm with Griffin!
+PPSh41(0)<Speaker>ППШ-41</Speaker>||:...Все чисто.
+VZ61(1)<Speaker>Скорпион</Speaker>||:...+P...Папаша?
+PPSh41(0)<Speaker>ППШ-41</Speaker>||:Это я, Скорпион. Мы здесь, чтобы забрать тебя.
+VZ61(1)<Speaker>Скорпион</Speaker>||<BGM>BGM_Sad</BGM>:Папаша... Ты еще жива...?+Я сплю...?
+PPSh41(0)<Speaker>ППШ-41</Speaker>||:(Улыбается) Не говори глупостей. Мы можем хотя бы помечтать?+Don't worry. Everything's fine now.
+()||<黑屏1>:...Миссия выполнена.
+()||<BIN>22</BIN><黑屏2>:...Через час VZ-61 благополучно вернулась в центр управления.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||:...+Так вы не раскрыли информации о местонахождении команды AR?
+VZ61(0)<Speaker>Скорпион</Speaker>||:Да, в конце концов, я лишь сообщила ей неверную информацию.+Ради своих товарищей, даже тех, кого я считал пропавшими, я никогда не поддамся такому человеку!
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Я верю тебе, VZ-61.+Что касается цели Пугала, то нам придется выяснить это, захватив ее в плен.
+VZ61(0)<Speaker>Скорпион</Speaker>||:Мисс Хелиан, пожалуйста, возьмите меня в качестве участника поиска Пугала.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||:У меня здесь нет свободных мест.+Если ты хочешь отомстить, я могу назначить тебя к новому Командиру.+Он внес большой вклад в успех твоей спасательной операции. Не разочаруй его.
+VZ61(0)<Speaker>Скорпион</Speaker>||<黑屏1>:ОК! Куда бы я ни отправилась, я сделаю все, что в моих силах, лишь бы быть с Грифоном!
