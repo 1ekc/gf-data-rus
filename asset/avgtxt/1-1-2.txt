@@ -1,13 +1,13 @@
-()||<BIN>1</BIN><BGM>BGM_Sunshine</BGM>:...Drill operation successful. Commencing final wrap-ups.+At that moment...
-MK2(0)<Speaker>STEN Mk Ⅱ</Speaker>||<黑屏1>:Excuse me... Are you Griffin troops?+Oh, thank goodness! Safe at last! Could you take me with you?+Thank you so much, Commander! I'll do my best!
-()||<黑屏2><BIN>8</BIN>:...We seem to have come across a stranded T-Doll manufactured by Griffin,+so we've brought her back along with our troops.
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh? A stranded T-Doll?+Thank goodness you took her in, that poor thing.
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||:Sangvis attacks have intensified all of a sudden in the last few days.+We've lost a few command posts, and lots of T-Dolls were either stranded or left behind...
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:So if it's possible, please save as many of 'em as you can.+Not just to expand our forces, but also to save HQ some manufacturing orders.
-NPC-Kalin(1)<Speaker>Kalina</Speaker>||:And more importantly, these T-Dolls are all hella cute!+...I know right? I just knew you'd love 'em!+Human or T-Doll, we all have our own missions, and are all irreplaceable members of Griffin.+With that in mind, I'm sure you'll rock this job!
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑点1>:Now to give you a better idea of your job, Commander...
-()<Speaker>Kalina</Speaker>||<黑点2><BIN>17</BIN><黑点1>:Griffin Security Contractor is a private military organization comprised mainly of Tactical Dolls.+It is our duty to accept commissions from financial groups and other organizations and safeguard human settlements.+As of now, the biggest threats to our territories are rogue T-Dolls manufactured by Sangvis Ferri.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑点2><BIN>8</BIN>:And your job is to manage and direct T-Doll troops in repelling Sangvis forces in the area.
-NPC-Kalin(1)<Speaker>Kalina</Speaker>||:I'm sure you'll do great. The drill result speaks for itself, right?+Then that settles it! For the sake of everyone at Griffin, please make good use of your talent!
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:And that's the end of this operation, Commander.
-NPC-Kalin(1)<Speaker>Kalina</Speaker>||<黑屏1>:Oh, remember to check your list of 【Quests】 and accept that T-Doll's enlistment!
+()||<BIN>1</BIN><BGM>BGM_Sunshine</BGM>:...Учебка прошла успешно. Приступаем к заключительным подведениям итогов.+В этот момент...
+MK2(0)<Speaker>STEN Mk Ⅱ</Speaker>||<黑屏1>:Извините... Вы - войска Грифона?+О, слава богу! Наконец-то, в безопасности! Не могли бы вы взять меня с собой?+Большое спасибо, командир! Я сделаю все, что в моих силах!
+()||<黑屏2><BIN>8</BIN>:...Похоже, что мы наткнулись на потерянную Т-Куклу производства компании «Грифон».,+поэтому мы вернули ее вместе с нашими войсками.
+NPC-Kalin(2)<Speaker>Калин</Speaker>||:А? Заблудившаяся Т-Кукла?+Слава богу, что вы приютили ее, бедняжку.
+NPC-Kalin(7)<Speaker>Калин</Speaker>||:В последние несколько дней нападения Сангвис внезапно усилились.+Мы потеряли несколько командных пунктов, и многие Т-Куклы либо застряли, либо были брошены....
+NPC-Kalin(4)<Speaker>Калин</Speaker>||:Поэтому, если это возможно, пожалуйста, спасите их как можно больше.+Не только для того, чтобы расширить наши силы, но и для того, чтобы сохранить штабу несколько производственных заказов.
+NPC-Kalin(1)<Speaker>Калин</Speaker>||:А главное, все эти Т-Куклы чертовски милы!+...Я знаю, правда? Я просто знала, что они тебе понравятся!+Человек или Т-кукла, у каждого из нас своя миссия, и все мы незаменимые члены "Грифона".+Я уверен, что вы справитесь с этой работой!
+NPC-Kalin(0)<Speaker>Калин</Speaker>||<黑点1>:Теперь, чтобы вы лучше представляли себе свою работу, Командир...
+()<Speaker>Калин</Speaker>||<黑点2><BIN>17</BIN><黑点1>:Griffin Security Contractor - частная военная организация, состоящая в основном из тактических кукол.+Мы обязаны принимать заказы от финансовых групп и других организаций и защищать населенные пункты.+На данный момент наибольшую угрозу для наших территорий представляют Т-Куклы-враги, произведенные Сангвисом Ферри.
+NPC-Kalin(0)<Speaker>Калин</Speaker>||<黑点2><BIN>8</BIN>:А ваша задача - управлять и направлять войска Т-Кукол на отпор силам Сангвиса в этом районе.
+NPC-Kalin(1)<Speaker>Калин</Speaker>||:Я уверена, что у вас все получится. Результат учений говорит сам за себя, не так ли?+Тогда все решено! Ради всех в Грифоне, пожалуйста, используйте свой талант с пользой!
+NPC-Kalin(0)<Speaker>Калин</Speaker>||:На этом операция закончена, командир.
+NPC-Kalin(1)<Speaker>Калин</Speaker>||<黑屏1>:Не забудьте проверить список 【Заданий】 и принять Т-Кукол в свои ряды!
