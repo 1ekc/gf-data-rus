@@ -1,8 +1,8 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-NPC-MorridowNew(1)<Speaker>Morridow</Speaker>||<BGM>GF_22W_BGM_3</BGM><黑屏2><BIN>510</BIN>:Haha, pitiful creatures. Watch how they struggle so pointlessly.+What a shame that such resistance means absolutely nothing to Paradeus.
+NPC-MorridowNew(1)<Speaker>Морридоу</Speaker>||<BGM>GF_22W_BGM_3</BGM><黑屏2><BIN>510</BIN>:Хаха, жалкие создания. Смотрите, как они бессмысленно борются.+Как жаль, что такое сопротивление абсолютно ничего не значит для Парадеуса.
 ()||<黑屏1>:
-()<Speaker>Morridow</Speaker>||<黑屏2><BIN>682</BIN>:Paradeus is a secret organization forged by Father single-handedly.+Paradeus exists for the purpose of fulfilling your final wish.+We may be faced with some inconsequential obstacles, but with you here, they will all be obliterated.
+()<Speaker>Морридоу</Speaker>||<黑屏2><BIN>682</BIN>:Парадеус - тайная организация, созданная отцом в одиночку.+Парадеус существует для того, чтобы исполнить ваше последнее желание.+Мы можем столкнуться с некоторыми несущественными препятствиями, но с появлением тебя все они будут уничтожены.
 ()||<黑屏1>:
-NPC-MorridowNew(1)<Speaker>Morridow</Speaker>||<黑屏2><BIN>510</BIN>:You simply have to destroy the occasional groups of Tactical Dolls.
-NPC-MorridowNew(1)<Speaker>Morridow</Speaker>||:I'm sure this will be a piece of cake for you, Father. The result just now speaks for itself.+Now, for the sake of your final wish, please unleash your power!
+NPC-MorridowNew(1)<Speaker>Морридоу</Speaker>||<黑屏2><BIN>510</BIN>:Вам нужно просто уничтожать периодически появляющиеся группы тактических кукол.
+NPC-MorridowNew(1)<Speaker>Морридоу</Speaker>||:Я уверена, что для вас это будет проще простого, отец. Результат говорит сам за себя.+А теперь, ради вашего последнего желания, пожалуйста, раскройте свою силу!
 ()||<黑点1>:
