@@ -1,6 +1,6 @@
-()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:In a tactical control center in Area S09 under Griffin jurisdiction...
-NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Commander, I'm back!
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Gosh, I've been working at the warehouse all this time. I'm dead tired.
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh? Who am I?
-NPC-Kalin(3)<Speaker>Kalina</Speaker>||<黑点1>:C'mon, Commander, stop pulling my leg. We just said hi at the mall, didn't we?!+Back to business. After Miss Helian left, HQ sent us a new assignment. Please take a look.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<黑点2><BIN>10</BIN>:Though Scarecrow's destruction has been confirmed, a Griffin command post is still under Sangvis control.+Our squad in the area is surrounded by Sangvis troops. We must bust them out as soon as possible.
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:В центре тактического управления в зоне S09 под юрисдикцией Грифона....
+NPC-Kalin(1)<Speaker>Калин</Speaker>||:Командир, я вернулась!
+NPC-Kalin(0)<Speaker>Калин</Speaker>||:Боже, я все это время работала на складе. Я смертельно устала.
+NPC-Kalin(2)<Speaker>Калин</Speaker>||:А? Кто я?
+NPC-Kalin(3)<Speaker>Калин</Speaker>||<黑点1>:Командир, перестань морочить мне голову. Мы ведь просто так поздоровались в молле, не так ли?!+Возвращаемся к делу. После ухода мисс Хелиан, штаб прислал нам новое задание. Пожалуйста, взгляните.
+NPC-Kalin(0)<Speaker>Калин</Speaker><通讯框>||<黑点2><BIN>10</BIN>:Хотя уничтожение Пугала подтверждено, командный пункт Грифонов все еще находится под контролем Сангвиса.+Наш отряд в этом районе окружен войсками Сангвиса. Мы должны выбить их как можно скорее.
