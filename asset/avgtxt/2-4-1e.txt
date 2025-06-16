@@ -1,4 +1,4 @@
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<BIN>10</BIN>:This mission will be the last...+Please refer to the map...
-NPC-Persica(3)<Speaker>Persica</Speaker>||:Ah, sorry. My channel seems to be in the way...+But...it's roughly around here.
-NPC-Persica(0)<Speaker>Persica</Speaker>||:...Hmm? What samples?
-NPC-Persica(2)<Speaker>Persica</Speaker>||:I'll tell you later. It doesn't matter for now.+Do your best, Commander. I'll leave it all to you.
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||<BIN>10</BIN>:Эта миссия будет последней...+Пожалуйста, ознакомьтесь с картой...
+NPC-Persica(3)<Speaker>Персика</Speaker>||:Ах, простите. Мой канал, кажется, будет мешать...+Но... это примерно здесь.
+NPC-Persica(0)<Speaker>Персика</Speaker>||:...Хм? Какие образцы?
+NPC-Persica(2)<Speaker>Персика</Speaker>||:Я скажу вам позже. Сейчас это неважно.+Постарайтесь, Командир. Я предоставляю все это вам.
