@@ -1,4 +1,4 @@
-()||<BIN>8</BIN><BGM>BGM_Room</BGM>:In a tactical control center in Area S09 under Griffin jurisdiction...
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Ah, Commander... We meet again...+I'm calling today because I need you to take care of something.+First of all, don't worry - this is a closed channel.+Second of all, don't worry - I'm not asking you to do bad things.
-NPC-Persica(2)<Speaker>Persica</Speaker>||<黑点1>:The thing is...I need some samples of dummy units.+Sangvis...and Griffin units. I need both.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<黑点2><BIN>10</BIN>:They've been fighting all this time, there must be quite a lot of scattered parts.+Please get me some - for research purposes.+There...might be Sangvis Ringleaders lurking about...+Those are a Ringleader's dummies. They're activated when a Ringleader is destroyed...+Be careful, and...thank you.
+()||<BIN>8</BIN><BGM>BGM_Room</BGM>:В центре тактического контроля в зоне S09 под юрисдикцией Грифона...
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||:А, Командир... Мы снова встретились...+Я звоню сегодня, потому что мне нужно, чтобы вы кое о чем позаботились.+Во-первых, не волнуйтесь - это закрытый канал.+Во-вторых, не волнуйтесь - я не прошу вас делать что-то плохое.
+NPC-Persica(2)<Speaker>Персика</Speaker>||<黑点1>:Дело в том, что... мне нужны образцы болванок + Сангвис... и Грифона. Мне нужно и то, и другое.
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||<黑点2><BIN>10</BIN>:Они сражались все это время, должно быть много разбросанных частей.+Пожалуйста, принесите мне немного - для исследований.+Возможно, здесь скрываются командиры Сангвиса...+Эти болванчики - манекены командира. Они активируются, когда командир уничтожен...+Будьте осторожны и...спасибо.
