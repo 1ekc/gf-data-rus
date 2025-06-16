@@ -1,2 +1,2 @@
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<BIN>10</BIN>:The mission this time...mostly concerns Sangvis samples.+The Sangvis troops here have been upgraded...+But that's not gonna be a problem, Commander, is it?
-NPC-Persica(2)<Speaker>Persica</Speaker>||:Do your best. I'll be waiting for good news!
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||<BIN>10</BIN>:Задание на этот раз... в основном касается образцов Сангвиса.+Войска Сангвиса здесь были модернизированы...+Но это не будет проблемой, Командир, не так ли?
+NPC-Persica(2)<Speaker>Персика</Speaker>||:Сделайте все, что в ваших силах. Я буду ждать хороших новостей!
