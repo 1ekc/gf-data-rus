@@ -1,11 +1,11 @@
-()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:...Combat over.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Oh, Commander. Well d...
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(1)||:Why so shocked, Miss Persica?
-M4A1(0);NPC-Persica(1)<Speaker>Persica</Speaker>||:Ah! M...M4!
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(1)||:Commander told me, so I have come to see you.
-M4A1(0);NPC-Persica(0)<Speaker>Persica</Speaker>||:I'm sorry... It was all because of me that you...
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(0)||:Please do not say that.+We were merely carrying out our employer's orders as T-Dolls.
-M4A1(0);NPC-Persica(0)<Speaker>Persica</Speaker>||:Hmm...+Well, you're safe now. Applause applause.
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(0)||:Yes. Commander is very good to me. I will continue serving under Griffin.
-M4A1(0);NPC-Persica(2)<Speaker>Persica</Speaker>||:By the way...+M4A1, I'm so happy...to see you again...
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(2)||<黑屏1>:... (Smiles)+Yes, so am I, Miss Persica.
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:...Сражение завершено.
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||:Командир. Очень...
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(1)||:Почему вы так удивлены, мисс Персика?
+M4A1(0);NPC-Persica(1)<Speaker>Персика</Speaker>||:А! М... М4!
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(1)||:Командир сказал мне, и я пришла увидеться с вами.
+M4A1(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:Мне жаль... Это все из-за меня, что ты...
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(0)||:Пожалуйста, не говорите так.+Мы просто выполняли приказ нашего нанимателя в качестве Т-Кукол.
+M4A1(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:Хм...+Ну, теперь вы в безопасности. Бурные аплодисменты.
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(0)||:Да. Командир очень хорошо ко мне относится. Я буду продолжать служить под началом Грифона.
+M4A1(0);NPC-Persica(2)<Speaker>Персика</Speaker>||:Кстати...+M4A1, я так рада...видеть тебя снова...
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(2)||<黑屏1>:... (Улыбается)+Да, я тоже, мисс Персика.
