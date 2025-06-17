@@ -1,7 +1,7 @@
-()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:...Combat over.
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Uh... Why...are there so many enemy units...?+...Could it be a new Ringleader?!
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||:I'm sorry... I shouldn't have taken a job without your permission, Commander.+I didn't expect this to happen...
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Huh? It's okay?
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:It's an opportunity...?
-NPC-Kalin(1)<Speaker>Kalina</Speaker>||:You're right, it's an opportunity! An opportunity to get stronger!+Never thought you'd be the one to encourage me.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:We can take it one step at a time. Let's do our best together!
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:...Сражение завершено.
+NPC-Kalin(2)<Speaker>Калин</Speaker>||:А... Почему... так много вражеских отрядов...? +... Может, там новый командир?!
+NPC-Kalin(7)<Speaker>Калин</Speaker>||:Простите... Я не должна была соглашаться на работу без вашего разрешения, Командир.+Я не ожидала, что это произойдет...
+NPC-Kalin(2)<Speaker>Калин</Speaker>||:А? Все в порядке?
+NPC-Kalin(4)<Speaker>Калин</Speaker>||:Это возможность...?
+NPC-Kalin(1)<Speaker>Калин</Speaker>||:Ты прав, это возможность! Возможность стать сильнее!+Никогда не думала, что ты будешь тем, кто воодушевит меня.
+NPC-Kalin(0)<Speaker>Калин</Speaker>||<黑屏1>:Мы можем сделать один шаг за раз. Давайте постараемся вместе!
