@@ -1,6 +1,6 @@
-NPC-Kalin(1)<Speaker>Kalina</Speaker>||<BIN>8</BIN><BGM>BGM_Empty</BGM><黑点1>:Great! That's the last of them.+Now we just have to wait for our teams to transport the hard drives here, and we're done.
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||<黑点2><BGM>BGM_Sneak</BGM><SE1>Alarm</SE1>:Huh? What's that alarm...?+...W-What?!
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Oh no, Commander!+A unit just reported a Sangvis ambush on their way back to base!+Our T-Dolls are uninjured, but all our spoils were taken away by a Sangvis convoy!
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||:What...do we do now?
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:...Yeah. Our only choice is to track their movements for now. We'll think about the rest later.+But...as you've said, it's a bit odd.
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||<黑屏1>:What exactly...is so important that Sangvis Ferri would guard with such heavy forces...?
+NPC-Kalin(1)<Speaker>Калин</Speaker>||<BIN>8</BIN><BGM>BGM_Empty</BGM><黑点1>: Отлично! Это последний.+ Теперь осталось дождаться, пока наши команды доставят жесткие диски, и все готово.
+NPC-Kalin(2)<Speaker>Калин</Speaker>||<黑点2><BGM>BGM_Sneak</BGM><SE1>Alarm</SE1>:А? Что это за сигнал...?... Ч-что?!
+NPC-Kalin(4)<Speaker>Калин</Speaker>||:О нет, Командир!+Только что поступило сообщение о засаде Сангвиса, когда они возвращались на базу!+Наши Т-Куклы не пострадали, но все наши трофеи были унесены конвоем Сангвиса!
+NPC-Kalin(7)<Speaker>Калин</Speaker>||:Что... нам теперь делать?
+NPC-Kalin(4)<Speaker>Калин</Speaker>||:...Да. Единственное, что мы можем сделать, это пока отследить их перемещения. Об остальном мы подумаем позже.+Но... как вы сказали, это немного странно.
+NPC-Kalin(7)<Speaker>Калин</Speaker>||<黑屏1>:Что именно... настолько важно, что Сангвис Ферри будет охранять с помощью таких крупных сил?
