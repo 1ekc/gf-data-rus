@@ -1,18 +1,18 @@
-()||<BIN>4</BIN><BGM>BGM_Sneak</BGM>:Somewhere at Griffin Control...+...Click.
-AR15(2)<Speaker>ST AR-15</Speaker><通讯框>||:Do you copy, M4? This is AR-15.
-M4A1(3)<Speaker>M4A1</Speaker>;AR15(2)||:Copy! Are you all right, AR-15?
-M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:What about me, M4?! I was worried sick about you but you didn't even ask about me!
-M4A1(3)<Speaker>M4A1</Speaker>;SOPII(0)||:SOP-II! Are you there too?
-M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:We're both fine. We've come to rendezvous after receiving your signal.
-M4A1(0)<Speaker>M4A1</Speaker>;SOPII(0)||:Good. M16 is still on the way, so we are to focus on getting to you first.+AR-15, shall we make this our rendezvous point?
+()||<BIN>4</BIN><BGM>BGM_Sneak</BGM>:Где-то в контрольном центре Грифона...+... Клик.
+AR15(2)<Speaker>ST AR-15</Speaker><通讯框>||:Как слышно, M4? Это AR-15.
+M4A1(3)<Speaker>M4A1</Speaker>;AR15(2)||:Слушаю! Ты в порядке, AR-15?
+M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:А как же я, М4?! Я так волновалась за тебя, а ты даже не спросила обо мне!
+M4A1(3)<Speaker>M4A1</Speaker>;SOPII(0)||:SOP-II! Ты тоже там?
+M4A1(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Мы обе в безопасности. Мы прибыли на место встречи после получения твоего сигнала.
+M4A1(0)<Speaker>M4A1</Speaker>;SOPII(0)||:Хорошо. М16 все еще в пути, так что мы должны в первую очередь добраться до тебя. +AR-15, сделаем это местом встречи?
 M4A1(0);AR15(2)<Speaker>ST AR-15</Speaker><通讯框>||:...
 M4A1(2)<Speaker>M4A1</Speaker>;AR15(2)||:AR-15? 
-M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:...Ah, sure. Over.
-M4A1(2);SOPII(2)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑点1>:What? Wait, wait, wait! I haven't finished talki...
-()||<黑点2><BIN>3</BIN>:AR-15's hiding place...
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Sheesh, AR-15! We finally got in touch with M4!
-AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(2)||:Shut up. You can talk all you want after you meet up.+Also, now isn't the time...to keep up communication.
-AR15(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Huh?+AR-15... You mean...
-AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(3)||:That's right... Our call was being monitored.+We're targeted...by someone dangerous...
-AR15(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Wait! Where are you going?
-AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(2)||<黑屏1>:Don't follow me, SOP-II.+You have your own mission - to meet up with M4.+While I...have something else to settle.
+M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:..Конечно. Конец связи.
+M4A1(2);SOPII(2)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑点1>:Что? Подожди, подожди, подожди! Я еще не договор...
+()||<黑点2><BIN>3</BIN>:Убежище AR-15...
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:О черт, AR-15! Мы наконец-то связались с M4!
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(2)||:Заткнись. Ты можешь говорить сколько угодно после того, как встретишься.+К тому же, сейчас не время... чтобы продолжать общение.
+AR15(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:А? +AR-15... Ты имеешь в виду...
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(3)||:Именно так... За нашим звонком установили наблюдение.+На нас охотится... кто-то опасный...
+AR15(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Стой! Куда ты собралась?
+AR15(0)<Speaker>ST AR-15</Speaker>;SOPII(2)||<黑屏1>:Не ходи за мной, SOP-II.+ У тебя своя миссия - встретиться с М4.+ А у меня... есть еще кое-что, что нужно успеть сделать.
