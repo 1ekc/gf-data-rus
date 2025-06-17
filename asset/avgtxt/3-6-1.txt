@@ -1,9 +1,9 @@
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BIN>9</BIN><BGM>BGM_Sad</BGM>:Have you made up you mind, M4?
-M4A1(0)<Speaker>M4A1</Speaker>;SOPII(3)||:I cannot abandon my companion...+If it were AR-15, she'd do the same.
-M4A1(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:She definitely would, but you're not her.+You're the commander of the AR Team. You have the responsibility to lead us, don't you?
-M4A1(2)<Speaker>M4A1</Speaker>;SOPII(3)||<黑屏1>:I...
-()||<SE>Alarm</SE><黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:...!! An alarm went off in the control center.
-M4A1(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Danger</BGM>:That is...the emergency assemble signal!
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Hmm? What could it be at a time like this?
-()||<BIN>8</BIN><黑屏2>:Meanwhile, Griffin Control, Area S09.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||<黑屏1>:...So that's the gist of it, Commander.+The Sangvis troops suddenly went out of control, taking most of their units out of action.+We don't know the cause of their malfunction, but this is undoubtedly the perfect chance to attack.+Move out immediately. Find Hunter and finish her!+It's up to you to deal a fatal blow on Sangvis Ferri, Commander!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BIN>9</BIN><BGM>BGM_Sad</BGM>:Ты уже все решила, М4?
+M4A1(0)<Speaker>M4A1</Speaker>;SOPII(3)||:Я не могу бросить свою спутницу... +Если бы это была AR-15, она поступила бы так же.
+M4A1(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Она, конечно, могла бы, но ты - не она.+Ты - лидер команды AR. Ты обязана вести нас за собой, не так ли?
+M4A1(2)<Speaker>M4A1</Speaker>;SOPII(3)||<黑屏1>:Я...
+()||<SE>Alarm</SE><黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:...!! В центре управления сработала сигнализация.
+M4A1(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Danger</BGM>:Это... сигнал экстренной готовности!
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:А? Что это может случиться в такой момент?
+()||<BIN>8</BIN><黑屏2>:Тем временем, контрольный пункт Грифон, зона S09.
+NPC-Helian(0)<Speaker>Хелиан</Speaker><通讯框>||<黑屏1>:...Итак, основная задача, Командир.+ Войска Сангвиса внезапно вышли из-под контроля, выведя из строя большую часть своих подразделений.+ Мы не знаем причину их сбоя, но это, несомненно, идеальный шанс для атаки.+ Выдвигайтесь немедленно. Найдите Охотницу и прикончите ее!+Вам предстоит нанести смертельный удар по Сангвис Ферри, Командир!
