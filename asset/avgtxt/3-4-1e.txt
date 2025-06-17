@@ -1,3 +1,3 @@
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<BIN>10</BIN>:Commander, we've got a hold on enemy movement.
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Oddly enough, they haven't gone very far. They've actually set up camp somewhere close by.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:We've defended against their attack here before, do you remember?+In any case, it's time to take back our trophies!+Give the order, Commander!
+NPC-Kalin(0)<Speaker>Калин</Speaker><通讯框>||<BIN>10</BIN>:Командир, мы засекли передвижение противника.
+NPC-Kalin(4)<Speaker>Калин</Speaker>||:Как ни странно, они ушли не очень далеко. Они разбили лагерь где-то неподалеку.
+NPC-Kalin(0)<Speaker>Калин</Speaker>||:Мы уже оборонялись от их нападения здесь, вы помните?+В любом случае, пришло время вернуть наши трофеи!+Командир, отдайте приказ!
