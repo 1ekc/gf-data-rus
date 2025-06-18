@@ -1,32 +1,32 @@
- ()||<BGM>BGM_Sneak</BGM><BIN>18</BIN>:Five hours after the end of the operation, outside the conference room at Griffin HQ.
-OTs14(0)<Speaker>OTs-14</Speaker>||:They're still rambling on in there. How are you doing, Mosin-Nagant?
-M1891(0)<Speaker>Mosin-Nagant</Speaker>;OTs14(0)||:Hmm. I...I'll be fine.
-M1891(0);OTs14(0)<Speaker>OTs-14</Speaker>||:You must be bored out of your mind standing here like a china doll...while worrying about your sister...
-M1891(0)<Speaker>Mosin-Nagant</Speaker>;OTs14(0)||:Makarov's on it so I have no reason to worry. But there's still no news...
-M1891(0);OTs14(0)<Speaker>OTs-14</Speaker>||:That area used to be an important base for Sangvis. It'd take time to figure it out.+Don't worry. Helian has even sent a commander to help them...
-M1891(0)<Speaker>Mosin-Nagant</Speaker>;OTs14(0)||:Hush... If the military catch wind of this...
-M1891(0);OTs14(0)<Speaker>OTs-14</Speaker>||:You're right. They won't want us to use the commander for something like this.+Still... Helian actually dispatched a commander to save Nagant.
-M1891(0)<Speaker>Mosin-Nagant</Speaker>;OTs14(0)||:Da, I'm very grateful for her decision.+No matter why she did it or how it turns out...
-M1891(0)<Speaker>M1895</Speaker>;OTs14(0)||<BGM>BGM_Empty</BGM>:Haha, there you are, Mosin-Nagant!
-M1891(0)<Speaker>Mosin-Nagant</Speaker>;OTs14(0)||:Huh...?
-M1891(0);M1895(0)<Speaker>M1895</Speaker>||<BGM>BGM_Sunshine</BGM>:I made it back! Did you miss me?
-OTs14(0)<Speaker>OTs-14</Speaker>;M1895(0)||:Humph. Things seem to have turned out pretty well.
-OTs14(0);AK47(0)<Speaker>AK-47</Speaker>||:Gosh... We're dead beat.
-SKS(0)<Speaker>SKS</Speaker>;AK47(0)||:But this reunion scene makes it all worthwhile.
-SKS(0);M1891(0)<Speaker>Mosin-Nagant</Speaker>||:Bolshoe spasibo, AK47, SKS...+And...where's Makarov?
-M1895(0)<Speaker>M1895</Speaker>;M1891(0)||:She's off to see Helian. Got something important to report, I think.
-M1895(0);AK47(0)<Speaker>AK-47</Speaker>||:Is it the thingie you had in your hand? She took it with her.
-M1895(0);SKS(0)<Speaker>SKS</Speaker>||:What on earth is it? Is it really that valuable?
-M1895(0)<Speaker>M1895</Speaker>||<黑屏1>:That...+Is just a normal communicator, as far as I know.
- ()||<BGM>BGM_Room</BGM><BIN>8</BIN><黑屏2>:Meanwhile, in Helian's office.
-NPC-Helian(0)<Speaker>Helian</Speaker>||:The operation was a huge success. You and the commander will receive your commendations very soon.
-PM(0)<Speaker>Makarov</Speaker>;NPC-Helian(0)||:Spasibo.+Forgive me for being presumptuous, but is there something special with this communication device?
-PM(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:Oh? You don't usually ask such questions.
-PM(0)<Speaker>Makarov</Speaker>;NPC-Helian(0)||:I'm just a little intrigued...by the order we received.
-PM(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:This is an item left behind by AR-15. We have reason to believe that Sangvis might have tampered with it.+16Lab wishes to study it. It might just...become the key to our victory.
-PM(0)<Speaker>Makarov</Speaker>;NPC-Helian(0)||:...I see.+We couldn't have succeeded this time without the commander's guidance.
-PM(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:I expected as much. So?
-PM(0)<Speaker>Makarov</Speaker>;NPC-Helian(0)||:If...+If Nagant hadn't been in possession of this item, would you still have sent the commander to help us?
-PM(0);NPC-Helian(0)<Speaker>Helian</Speaker>||<黑屏1>:...+Makarov, you...
-Helian()<Speaker>Helian</Speaker>||<BIN>9</BIN><黑屏2>:(Smiles) You seem to have gained an interest in your own purpose.
-Makarov()<Speaker>Makarov</Speaker>||:Da...+Or you could say, I have gained an interest...in ourselves.
+ ()||<BGM>BGM_Sneak</BGM><BIN>18</BIN>:Через пять часов после окончания операции, у конференц-зала штаб-квартиры "Грифона".
+OTs14(0)<Speaker>OTs-14</Speaker>||:Они до сих пор там болтают. Как поживаешь, Мосинка?
+M1891(0)<Speaker>Мосинка</Speaker>;OTs14(0)||:Хм. Я... я в порядке.
+M1891(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Тебе, должно быть, скучно до безумия стоять здесь, как фарфоровая кукла... и беспокоиться о своей сестре...
+M1891(0)<Speaker>Мосинка</Speaker>;OTs14(0)||:Макаров уже там, так что у меня нет причин для беспокойства. Но новостей по-прежнему нет...
+M1891(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Раньше этот район был важной базой для Сангвиса. Потребуется время, чтобы все выяснить.+Не волнуйся. Хелиан даже прислала командира, чтобы помочь им...
+M1891(0)<Speaker>Мосинка</Speaker>;OTs14(0)||:Тише... Если военные узнают об этом...
+M1891(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Ты права. Они не захотят, чтобы мы использовали командира для чего-то подобного.+И все же... Хелиан действительно отправила командира, чтобы спасти Наганта.
+M1891(0)<Speaker>Мосинка</Speaker>;OTs14(0)||:Ага,я очень благодарна ей за это решение.+Неважно почему она это сделала и как все обернулось...
+M1891(0)<Speaker>M1895</Speaker>;OTs14(0)||<BGM>BGM_Empty</BGM>:Хаха, вот ты где, Мосинка!
+M1891(0)<Speaker>Мосинка</Speaker>;OTs14(0)||:А...?
+M1891(0);M1895(0)<Speaker>M1895</Speaker>||<BGM>BGM_Sunshine</BGM>:Я вернулась! Ты скучала по мне?
+OTs14(0)<Speaker>OTs-14</Speaker>;M1895(0)||:Хмф. Кажется, все прошло довольно неплохо.
+OTs14(0);AK47(0)<Speaker>AK-47</Speaker>||:Господи... Мы не успеваем.
+SKS(0)<Speaker>SKS</Speaker>;AK47(0)||:Но эта сцена воссоединения оправдывает все.
+SKS(0);M1891(0)<Speaker>Мосинка</Speaker>||:Большое спасибо, АК47, СКС...+А...где Макаров?
+M1895(0)<Speaker>M1895</Speaker>;M1891(0)||:Она отправилась к Хелиан. Думаю, ей нужно сообщить что-то важное.
+M1895(0);AK47(0)<Speaker>AK-47</Speaker>||:Это та штука, которая была у нее в руке? Она взяла ее с собой.
+M1895(0);SKS(0)<Speaker>СКС</Speaker>||:Что же это такое? Действительно ли оно настолько ценно?
+M1895(0)<Speaker>M1895</Speaker>||<黑屏1>:Это...+Насколько я знаю, это... обычный коммуникатор.
+ ()||<BGM>BGM_Room</BGM><BIN>8</BIN><黑屏2>:Тем временем в офисе Хелиан.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Операция прошла с огромным успехом. Вас с Командиром очень скоро ждут благодарности.
+PM(0)<Speaker>Макарок</Speaker>;NPC-Helian(0)||:Спасибо.+Простите меня за излишнюю бесцеремонность, но есть ли что-то особенное в этом устройстве связи?
+PM(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:О? Обычно ты не задаешь таких вопросов.
+PM(0)<Speaker>Макарок</Speaker>;NPC-Helian(0)||:Я просто немного заинтригована... тем заказом, который мы получили.
+PM(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Это предмет, оставленный AR-15. У нас есть основания полагать, что Сангвис мог его повредить.+16Лаборатория хочет изучить его. Это может стать ключом к нашей победе.
+PM(0)<Speaker>Макарок</Speaker>;NPC-Helian(0)||:...Ясно.+Мы бы не смогли добиться успеха в этот раз без руководства Командира.
+PM(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Я этого и ожидала. И что?
+PM(0)<Speaker>Макарок</Speaker>;NPC-Helian(0)||:Если бы... +Если бы у Нагант не было этого предмета, вы бы все равно послали Командира нам на помощь?
+PM(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||<黑屏1>:...+Макаров, ты...
+Helian()<Speaker>Хелиан</Speaker>||<BIN>9</BIN><黑屏2>:(Улыбается) Кажется, ты заинтересовалась собственной целью.
+Makarov()<Speaker>Макарок</Speaker>||:Да...+Или, можно сказать, у меня появился интерес... к нам самим.
