@@ -1,11 +1,11 @@
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><BIN>4</BIN>:M4... Still no news from M16?
-M4A1(2)<Speaker>M4A1</Speaker>;SOPII(2)||:She...
-M4A1(2);AR15(2)<Speaker>ST AR-15</Speaker>||:...Hold on. Someone's making a public broadcast!
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><BIN>4</BIN>:M4... До сих пор нет новостей от M16?
+M4A1(2)<Speaker>M4A1</Speaker>;SOPII(2)||:Она...
+M4A1(2);AR15(2)<Speaker>ST AR-15</Speaker>||:...Погоди. Кто-то ведет открытую трансляцию!
 M4A1(3)<Speaker>M4A1</Speaker>;AR15(2)||<黑屏1>:...!
-BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>||<黑屏2><BIN>9</BIN><BGM>BGM_Boss</BGM>:Pleased to meet you, everyone.+Still awaiting news from your companion? Perhaps you should focus on what's at hand.
-AR15(0)<Speaker>ST AR-15</Speaker>;BOSS-4(0)||:Intruder... I didn't expect you to make an appearance so soon.
-AR15(0);BOSS-4(0)<Speaker>Intruder</Speaker>||:It would be discourteous of me if I didn't entertain guests who grace my land with their presence.+First of all, I need to congratulate you on cutting off my reinforcements in our last battle.+But that was only one of my many supply lines so I'm not offended in the slightest.
-M4A1(0)<Speaker>M4A1</Speaker>;BOSS-4(0)||<黑屏1>:That was just the beginning, Sangvis...
-M4A1(0)<Speaker>M4A1</Speaker>||<黑屏2><BIN>10</BIN>:We will be targeting your defenses next. Prepare to surrender.
-BOSS-4(0)<Speaker>Intruder</Speaker>||:I'm afraid Master will object, but I'm more than glad to welcome you.+Please inform your commander, it's officially show time.
-M4A1(0)<Speaker>M4A1</Speaker>||:There will be no need for that, Intruder.+...We are already at your door.+Commander, please give the order.
+BOSS-4(0)<Speaker>Нарушительница</Speaker><通讯框>||<黑屏2><BIN>9</BIN><BGM>BGM_Boss</BGM>:Приятно познакомиться со всеми.+Все еще ждете новостей от своей спутницы? Возможно, вам стоит сосредоточиться на том, что находится рядом.
+AR15(0)<Speaker>ST AR-15</Speaker>;BOSS-4(0)||:Нарушительница... Я не ожидала, что ты появишься так скоро.
+AR15(0);BOSS-4(0)<Speaker>Нарушительница</Speaker>||:С моей стороны было бы невежливо не принимать гостей, которые осчастливили мою землю своим присутствием.+Прежде всего, я должна поздравить вас с тем, что вы лишили меня подкреплений в нашей последней битве.+Но это была лишь одна из моих многочисленных линий снабжения, так что я ни капли не обижена.
+M4A1(0)<Speaker>M4A1</Speaker>;BOSS-4(0)||<黑屏1>:Это было только начало, Сангвис...
+M4A1(0)<Speaker>M4A1</Speaker>||<黑屏2><BIN>10</BIN>:В следующий раз мы нацелимся на твою защиту. Приготовьтесь к поражению.
+BOSS-4(0)<Speaker>Нарушительница</Speaker>||:Боюсь, Мастер будет возражать, но я с радостью приму вас.+Пожалуйста, сообщите своему Командиру, что официально наступило время выступления.
+M4A1(0)<Speaker>M4A1</Speaker>||:В этом нет необходимости, Нарушительница.+Мы уже у твоего порога.+Командир, отдайте приказ.
