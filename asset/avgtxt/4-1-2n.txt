@@ -1,19 +1,19 @@
-()||<BIN>3</BIN><BGM>BGM_NightOPS</BGM><Night>:Rescue mission accomplished. Type92 successfully rendezvous with the trapped teammate.
-92type(0)<Speaker>Type92</Speaker>||:RO, I've reached the destination. About to meet up with her any second now.
-RO()<Speaker>RO</Speaker>||:Good. Let me see who on earth...
-AAT52(0)<Speaker>AAT-52</Speaker>;92type(0)||:Merci! Merci!+I knew you wouldn't just leave me, Mademoiselle Type92!
-RO()<Speaker>RO</Speaker>||:...+If you call this a 7, what's 10 for you?
-AAT52(0);92type(0)<Speaker>Type92</Speaker>||:10 is if we came too late and all there's left to rescue was a squashed tomato.+And if we go by common sense, a squashed tomato can't spit out any information.
-AAT52(0)<Speaker>AAT-52</Speaker>;92type(0)||:Non, non, even a tomato that hasn't been squashed can't speak!+Uhh wait... You're talking about me?
-RO()<Speaker>RO</Speaker>||:（(Sighs) At least tomatoes don't talk nonsense and have us running after things like butterflies and taxis...
-AAT52(0)<Speaker>AAT-52</Speaker>;92type(0)||:Hey! I really found actual information this time, alright?!+Listen, I know where Document 36 is!+It's currently in the safekeeping of a human that has stayed behind!
-AAT52(0);92type(0)<Speaker>Type92</Speaker>||:A human that has stayed behind? ...Are you sure you're not mistaken?+All human residents have been evacuated. That's why we could slip in to look for you.
-RO()<Speaker>RO</Speaker>||:No... It actually is possible.+A few humans have gone missing during the evacuation. Judging by the information, these people couldn't have missed the evacuation notice.+They must've stayed behind deliberately to move those documents before Sangvis Ferri made it here...
-92type(0)<Speaker>Type92</Speaker>||:Then it gets tricky. Even if we find them, we can't just fight them for the document.
-RO()<Speaker>RO</Speaker>||:Uh... Why can't we?
-92type(0)<Speaker>Type92</Speaker>||:Have you forgotten, RO?+Unless given special permission by a superior, Griffin automatons can't exercise violence of any kind against any human being.
-AAT52(0)<Speaker>AAT-52</Speaker>||:Not even verbal abuse!+Bien sûr, if they request this kind of service, we are more than welcome to deliver it.
-92type(0)<Speaker>Type92</Speaker>||:What? Don't tell me you don't know about that...
-RO()<Speaker>RO</Speaker>||:Ah... Working at Griffin still takes some getting used to...
-92type(0)<Speaker>Type92</Speaker>||:I know. You came back not long ago, after all. There must be many things you're unfamiliar with.+You returned just for Document  right? Don't get too excited and botch it.
-RO()<Speaker>RO</Speaker>||:Don't worry. I know what I have to do.+First things first, find the human in possession of Document 36. We'll deal with whatever comes next.
+()||<BIN>3</BIN><BGM>BGM_NightOPS</BGM><Night>:Спасательная миссия завершена. Type92 успешно встретился с попавшим в ловушку товарищем по команде.
+92type(0)<Speaker>Type92</Speaker>||:RO, я достигла места назначения. Я собираюсь встретиться с ней в любую секунду.
+RO()<Speaker>RO</Speaker>||:Хорошо. Дай-ка я посмотрю, кто на земле...
+AAT52(0)<Speaker>AAT-52</Speaker>;92type(0)||:Merci! Merci! Я знала, что вы не оставите меня просто так, мадемуазель Type92!
+RO()<Speaker>RO</Speaker>||:...+Если ты оценила это на 7, то что для тебя 10?
+AAT52(0);92type(0)<Speaker>Type92</Speaker>||:10 - это если мы пришли слишком поздно и все, что осталось для спасения, - это раздавленный помидор.+ А если руководствоваться здравым смыслом, раздавленный помидор не может выплюнуть никакой информации.
+AAT52(0)<Speaker>AAT-52</Speaker>;92type(0)||:Нет, нет, даже помидор, который не был раздавлен, не может говорить!+Ум.. стой...Ты говоришь обо мне?
+RO()<Speaker>RO</Speaker>||:(Вздох) По крайней мере, помидоры не несут всякую чушь и не заставляют нас бегать за всякими бабочками и машинами...
+AAT52(0)<Speaker>AAT-52</Speaker>;92type(0)||:Эй! На этот раз я действительно нашла актуальную информацию, ясно?! +Слушайте, я знаю, где находится Документ 36! +В настоящее время он находится в руках у человека, который остался!
+AAT52(0);92type(0)<Speaker>Type92</Speaker>||:Человек, который остался? ... Ты уверена, что не ошибаешься? +Все жители были эвакуированы. Поэтому мы можем незаметно пробраться и поискать его для тебя.
+RO()<Speaker>RO</Speaker>||:Нет... Это возможно.+Несколько человек пропали во время эвакуации. Судя по информации, эти люди не могли пропустить уведомление об эвакуации.+Должно быть, они специально остались, чтобы перевезти документы до того, как Сангвис Ферри добрался сюда...
+92type(0)<Speaker>Type92</Speaker>||:Тогда все становится сложнее. Даже если мы их найдем, мы не сможем просто так взять и забрать документ.
+RO()<Speaker>RO</Speaker>||:А... Почему мы не можем?
+92type(0)<Speaker>Type92</Speaker>||:Ты забыла, RO? +Юниты Грифона не могут применять насилие по отношению к человеку без специального разрешения.
+AAT52(0)<Speaker>AAT-52</Speaker>||:Даже словесного оскорбления не будет! +Правда, если они попросят о такой услуге, мы с удовольствием ее окажем.
+92type(0)<Speaker>Type92</Speaker>||:Что? Только не говори мне, что ты не знаешь об этом...
+RO()<Speaker>RO</Speaker>||:А... К работе в Грифоне все еще нужно привыкнуть...
+92type(0)<Speaker>Type92</Speaker>||:Я знаю. Ты ведь вернулся не так давно. Должно быть, многие вещи для тебя незнакомы. +Ты ведь приехала только ради Документа? Не стоит слишком волноваться и переживать.
+RO()<Speaker>RO</Speaker>||:Не парься. Я знаю, что мне делать.+Прежде всего, найдите человека, у которого находится Документ 36. Мы разберемся с тем, что будет дальше.
