@@ -1,24 +1,24 @@
-M4A1(0)<Speaker>M4A1</Speaker>||<BIN>8</BIN><黑屏1><BGM>BGM_Empty</BGM>:This...is the third recording.+Then, I shall play it...
-()||<黑屏2><BIN>9</BIN><黑屏1>:Audio starts playing...+'They...are...'+'...in the skies...'+...End of recording.
-M4A1(0)<Speaker>M4A1</Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Sneak</BGM>:'They are...in the skies'? +What on earth does that mean?
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:Nothing. Just some random verse.
-AR15(0)<Speaker>ST AR-15</Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Sad</BGM>:Can't believe you guys are actually studying them so seriously.
-M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:AR-15, you are here.
-M4A1(0);AR15(0)<Speaker>ST AR-15</Speaker>||:Just wanna see what we're risking our lives for.
-M4A1(2)<Speaker>M4A1</Speaker>;AR15(0)||:This operation is issued and directed by none other than the commander. We should not have any objections.
-M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:I don't have any objections whatsoever, but if all we get in the end are these mystifying recordings...it'll be a waste of effort.
-M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:There is still one last recording left. Once we have it, everything will be clear.
-M4A1(0);AR15(0)<Speaker>ST AR-15</Speaker>||:Better be careful, M4A1. As you know, our neural clouds can't be backed up to Griffin's server.+If we're destroyed, we'll... (shrugs)
-M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:Rest assured. Now that we are all finally reunited, I will not lose a single one of you again.
-M4A1(0);AR15(0)<Speaker>ST AR-15</Speaker>||:Humph. Getting confident, aren't we, M4A1? You'd have started doubting yourself if it was before.
-M4A1(2)<Speaker>M4A1</Speaker>;AR15(0)||:This is because...our last separation made me realize what it is like to lose you.+I do not know if I have indeed become more confident, but I must fulfil my responsibilities in order to avoid making the same mistakes again.
-M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:That's good, but don't push yourself too hard.+For us T-Dolls, the worst nightmare isn't death, but disappointment.
-M4A1(2)<Speaker>M4A1</Speaker>;AR15(0)||:AR-15...+Have you actually experienced...'death'...?
-M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:...+What meaning is there...to an T-Doll's 'death'?+If these recordings are really left behind by a T-Doll, does her feelings matter all that much, compared to the truth?
-M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:AR-15... We are already very lucky to have the commander take us in and care for us. It is like...having a home.
-M4A1(0);AR15(0)<Speaker>ST AR-15</Speaker>||:Sorry, Commander. I didn't mean to bring this up...+But we're just a bunch of AIs. Tools made for fighting. That's all we are.+Now let's finish our mission, M4A1.
-M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:Okay. Miss Kalina has sent us the coordinates. I am going to confirm the location...
-M4A1(0);AR15(2)<Speaker>ST AR-15</Speaker>||<黑屏1>:...Hold on.
-AR15(2)<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏2>:These coordinates...+Can it be...that place from before?
-M4A1(2)<Speaker>M4A1</Speaker>;AR15(2)||:Before?
-M4A1(2);AR15(2)<Speaker>ST AR-15</Speaker>||<黑屏1>:Where we ran into Agent in Area S09.
+M4A1(0)<Speaker>M4A1</Speaker>||<BIN>8</BIN><黑屏1><BGM>BGM_Empty</BGM>:Это... третья запись.+Тогда я воспроизведу ее...
+()||<黑屏2><BIN>9</BIN><黑屏1>:Начинается воспроизведение аудиозаписи...+"...они...+...в небе..."+...Конец записи.
+M4A1(0)<Speaker>M4A1</Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Sneak</BGM>:«Они... в небесах»? +Что это значит?
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:Ничего. Просто рандомный текст.
+AR15(0)<Speaker>ST AR-15</Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Sad</BGM>:Не могу поверить, что ты так серьезно занимаешься их изучением.
+M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:AR-15, ты здесь.
+M4A1(0);AR15(0)<Speaker>ST AR-15</Speaker>||:Просто хочу понять, ради чего мы рискуем жизнью.
+M4A1(2)<Speaker>M4A1</Speaker>;AR15(0)||:Этой операцией руководит не кто иной, как Командир. У нас не должно быть никаких возражений.
+M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:У меня нет возражений, но если в итоге мы получим только эти загадочные записи... это будет пустая трата сил.
+M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:Осталась последняя запись. Как только мы ее получим, все станет ясно.
+M4A1(0);AR15(0)<Speaker>ST AR-15</Speaker>||:Будь осторожна, M4A1. Как ты знаешь, наши нейронные облака не могут быть перенесены на сервер Грифона. Если нас уничтожат, мы...(пожимает плечами)
+M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:Будьте уверены. Теперь, когда мы все наконец воссоединились, я больше не потеряю ни кого из вас.
+M4A1(0);AR15(0)<Speaker>ST AR-15</Speaker>||:Хмф. Становишься уверенней, не так ли, M4A1? Если бы это было раньше, ты бы уже сомневалась.
+M4A1(2)<Speaker>M4A1</Speaker>;AR15(0)||:Потому что... наше последнее расставание заставило меня понять, каково это - потерять тебя.+Не знаю, стала ли я действительно увереннее в себе, но я должна выполнять свои обязанности, чтобы не повторять ошибок.
+M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:Это хорошо, но не стоит слишком сильно себя загоняться.+Для нас, Т-Кукол, самый страшный кошмар - это не смерть, а разочарование.
+M4A1(2)<Speaker>M4A1</Speaker>;AR15(0)||:AR-15...+Ты действительно пережила... «смерть»...?
+M4A1(2);AR15(0)<Speaker>ST AR-15</Speaker>||:...+Какое значение имеет... «смерть» для Т-Куклы? +Если эти записи действительно оставлены Т-Куклой, так ли важны ее чувства по сравнению с правдой?
+M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:AR-15... Нам очень повезло, что Командир приютил нас и заботится о нас. Это как... будто у нас есть дом.
+M4A1(0);AR15(0)<Speaker>ST AR-15</Speaker>||:Простите, Командир. Я не хотела поднимать эту тему...+Но мы всего лишь кучка ИИ. Инструменты, созданные для борьбы. Вот кто мы.+А теперь давай закончим нашу миссию, M4A1.
+M4A1(0)<Speaker>M4A1</Speaker>;AR15(0)||:Хорошо. Мисс Калина отправила нам координаты. Я собираюсь подтвердить местоположение...
+M4A1(0);AR15(2)<Speaker>ST AR-15</Speaker>||<黑屏1>:...Подожди.
+AR15(2)<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏2>:Эти координаты...+Может ли это быть... тем местом, в котором были раньше?
+M4A1(2)<Speaker>M4A1</Speaker>;AR15(2)||:Раньше?
+M4A1(2);AR15(2)<Speaker>ST AR-15</Speaker>||<黑屏1>:Где мы столкнулись с Агентом в Зоне S09.
