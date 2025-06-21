@@ -1,21 +1,21 @@
-()||<BIN>4</BIN><BGM>BGM_Sneak</BGM>:Combat over. Assembled at the camp.
-M4A1(0)<Speaker>M4A1</Speaker>||:Commander, Miss Kalin. This is what we discovered at the coordinates.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>;M4A1(0)||:That's...an audio file?
-NPC-Kalin(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:Yes. I will play it now.
-()||<黑屏2><BIN>9</BIN><黑屏1>:Audio starts playing...+'They...'+'...are..'+'...in your...'+'...house.'+...End of recording.
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||<BIN>4</BIN><黑屏2>:'They...are in your...house?'
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:What does that mean? Who's in my house?
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(4)||:It makes no sense. Could it be some kind of code?
-M4A1(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||<黑屏1>:Hmm... It does seem to be encrypted at first glance.+Hold on a sec. I'll go take a look...
-NPC-Kalin(1)<Speaker>Kalina</Speaker><BIN>8</BIN>||<BGM>BGM_Room</BGM><黑屏2>:Done! Looks like we've got ourselves a new set of coordinates!
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(1)||:I did not expect...Miss Kalin to be so capable.
-M4A1(0);NPC-Kalin(3)<Speaker>Kalina</Speaker>||:What? You're practically calling me an idiot!+But of course you wouldn't know such an archaic encryption method!+Still... we can hardly learn anything from just a set of coordinates and some nonsense like 'your house'.
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(3)||:...'Neural cloud'.+The so-called 'neural cloud' is the host of our memories for us T-Dolls...+Even though the original body can create a large number of dummies to protect itself through dummy links.
-M4A1(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:But even so, the original body is still at risk of being destroyed under extreme circumstances.
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(0)||:Indeed. Once the original body is annihilated, the T-Doll loses all its memories and is reverted back to its factory settings.+Which is why when network connection and logistics allow, T-Dolls always backup their own neural clouds before deployment.+Or in our language, upload our memories to the server.
-M4A1(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Backing up neural clouds takes a really long time, but it's definitely worth it for the sake of preserving your battle experience.
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(0)||:During infiltrations, though, T-Dolls cannot upload any data to the server back at base in order to remain undetected.+In this case, we backup our memories to video logs to constitute easy recovery in the future and to provide information for others.
-M4A1(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Right... So you suspect this to be a backup copy of someone's neural cloud?
-M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(4)||:It is just a wild guess. We need more information.
-M4A1(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:In any case, we seem to have stumbled across something intriguing. Don't you agree, Commander?
-M4A1(0);NPC-Kalin(1)<Speaker>Kalina</Speaker>||<黑屏1>:Exactly! Then let's hurry towards our next coordinates! I wonder what we'll find there.
+()||<BIN>4</BIN><BGM>BGM_Sneak</BGM>:Сражение завершено. Сбор в лагере.
+M4A1(0)<Speaker>M4A1</Speaker>||:Командир, мисс Калин. Вот что мы обнаружили по координатам.
+NPC-Kalin(0)<Speaker>Калин</Speaker>;M4A1(0)||:Это... аудиофайл?
+NPC-Kalin(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:Да. Я включу его сейчас.
+()||<黑屏2><BIN>9</BIN><黑屏1>:Начинается прослушивание аудиозаписи...+'Они...+...находятся...+...в вашем...+...доме...'+...Конец записи.
+NPC-Kalin(2)<Speaker>Калин</Speaker>||<BIN>4</BIN><黑屏2>:'Они... в вашем... доме?'
+NPC-Kalin(4)<Speaker>Калин</Speaker>||:Что это значит? Что значит,  в нашем доме?
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(4)||:Это бессмысленно. Может быть, это какой-то код?
+M4A1(0);NPC-Kalin(4)<Speaker>Калин</Speaker>||<黑屏1>:Хм... На первый взгляд, оно зашифровано.+Подождите секунду. Я пойду посмотрю...
+NPC-Kalin(1)<Speaker>Калин</Speaker><BIN>8</BIN>||<BGM>BGM_Room</BGM><黑屏2>:Готово! Похоже, мы получили новый список координат!
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(1)||:Я не думала, что... мисс Калин окажется такой способной.
+M4A1(0);NPC-Kalin(3)<Speaker>Калин</Speaker>||:Что? Ты практически называешь меня дурой!+Но, конечно, ты не знаешь такого устаревшего метода шифрования!+И все же... мы вряд ли сможем что-то узнать из набора координат и какой-то ерунды вроде «твой дом».
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(3)||:..."Нейронное облако".+Так называемое "нейронное облако" является носителем наших воспоминаний для нас, Т-Кукол...+Несмотря на то, что оригинальное тело может создавать большое количество манекенов, чтобы защитить себя через связи с манекенами.
+M4A1(0);NPC-Kalin(0)<Speaker>Калин</Speaker>||:Но даже в этом случае оригинальное тело все равно рискует быть разрушенным при определенных обстоятельствах.
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(0)||:Именно так. После уничтожения оригинального тела Т-Кукла теряет все свои воспоминания и возвращается к заводским настройкам.+Поэтому, если позволяет сетевое соединение и логистика, Т-Куклы всегда создают резервные копии своих нейро-облаков перед внедрением.+Или, говоря нашим языком, загружают свои воспоминания на сервер.
+M4A1(0);NPC-Kalin(0)<Speaker>Калин</Speaker>||:Резервное копирование нейро-облаков занимает очень много времени, но это определенно стоит того, чтобы сохранить свой боевой опыт.
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(0)||:Однако во время операций по проникновению Т-Куклы не могут загружать данные на сервер на базе, чтобы остаться незамеченными.+ В этом случае мы сохраняем свои воспоминания в видеозаписях, чтобы в будущем легко вернуть их и предоставить информацию остальным.
+M4A1(0);NPC-Kalin(4)<Speaker>Калин</Speaker>||:Понятно... Значит, ты предполагаешь, что это резервная копия чьего-то нейронного облака?
+M4A1(0)<Speaker>M4A1</Speaker>;NPC-Kalin(4)||:Это всего лишь предположение. Нам нужно больше информации.
+M4A1(0);NPC-Kalin(0)<Speaker>Калин</Speaker>||:В любом случае, похоже, мы наткнулись на нечто интригующее. Вы согласны, Командир?
+M4A1(0);NPC-Kalin(1)<Speaker>Калин</Speaker>||<黑屏1>:Точно! Тогда давайте поспешим к нашим следующим координатам! Интересно, что мы там найдем?
