@@ -1,17 +1,17 @@
-()||<BGM>BGM_NightOPS</BGM><BIN>10</BIN>:Ten minutes later.
-PM(0)<Speaker>Makarov</Speaker><通讯框>||:Silence everywhere. Sangvis Ferri haven't made their move yet.
-RO()<Speaker>RO</Speaker>||:They're running tests on some sort of artillery weapon with this city.+The attack wasn't directed at us, so the possibility of 92 and co.'s survival is very high.
-PM(0)<Speaker>Makarov</Speaker>||:Oh? How do you know?
-RO()<Speaker>RO</Speaker>||:Someone's looking into it. I got word just now.
-PM(0)<Speaker>Makarov</Speaker>||:Just now? After you cried into my shoulder?
-RO()<Speaker>RO</Speaker>||:Don't put it in such an embarrassing way! I was just venting a little!
-PM(0)<Speaker>Makarov</Speaker>||:I see...+By the way, my way of venting is spreading words of how others vent.+I've recorded the whole thing. Look forward to tomorrow's Fatebook.
-RO()<Speaker>RO</Speaker>||<黑屏1>:...+This is why I wanted 92 as my adjutant...+Alright, back to business. Let's get started.
-PM(0)<Speaker>RO</Speaker>||<黑屏2><BIN>8</BIN>:Makarov, you're at the control panel, right?+I'm sending you the commands that'll guide you on drawing Sangvis fire with our troops.+I'll go in to check up on everyone's status myself, and bring them all back if possible.
-PM(0)<Speaker>Makarov</Speaker>||<黑屏1>:(Sighs) Understood.+You wouldn't willingly stay in the control room even if I told you to.+But I'm still obliged to tell you that this is too risky.
-RO()<Speaker>RO</Speaker>||<黑屏2><BIN>9</BIN>:Thank you for the reminder, but do your part, Makarov.+If anything happens to me, take our troops and return on your own.
-PM(0)<Speaker>Makarov</Speaker>||:...+RO, I just came back from Helian and have learned quite a few things.+Including what you want to know - what AR-15 has left behind...
+()||<BGM>BGM_NightOPS</BGM><BIN>10</BIN>:Десять минут спустя.
+PM(0)<Speaker>Макаров</Speaker><通讯框>||:Везде тишина. Сангвис Ферри еще не предприняли никаких действий.
+RO()<Speaker>RO</Speaker>||:Они проводят испытания какого-то артиллерийского орудия в этом городке.+Нападение было направлено не на нас, так что вероятность того, что 92-ая и остальные выживут, очень высока.
+PM(0)<Speaker>Макаров</Speaker>||:О? С чего ты это взяла?
+RO()<Speaker>RO</Speaker>||:Кто-то в этом разбирается. Мне только что передали.
+PM(0)<Speaker>Макаров</Speaker>||:Только что? После того, как ты поплакала у меня на плече?
+RO()<Speaker>RO</Speaker>||:Не нужно говорить об этом в такой неловкой форме! Я просто немного выпустила пар!
+PM(0)<Speaker>Макаров</Speaker>||:Понятненько... +Кстати, мой способ выплеснуть эмоции - это распространить информацию о том, как выплескивают эмоции другие. +Я все это записала. С нетерпением жду завтрашнего «Fatebook».
+RO()<Speaker>RO</Speaker>||<黑屏1>:...+Вот почему я хотел, чтобы 92-ая стала моим адъютантом...+Ладно, вернемся к делу. Давайте начнем.
+PM(0)<Speaker>RO</Speaker>||<黑屏2><BIN>8</BIN>:Макаров, ты у пульта управления, верно?+Я передаю тебе инструкции как отвлечь отряды Сангвиса.+Я сама пойду проверю состояние всех и по возможности верну их обратно.
+PM(0)<Speaker>Макаров</Speaker>||<黑屏1>:(Вздох) Поняла.+ Ты не захочешь оставаться в комнате управления, даже если я тебе это посоветую.+ Но я все равно обязана сказать тебе, что это слишком рискованно.
+RO()<Speaker>RO</Speaker>||<黑屏2><BIN>9</BIN>:Спасибо за предупреждение, но делай свое дело, Макаров.+Если со мной что-нибудь случится, забирай наши отряды и возвращайся сама.
+PM(0)<Speaker>Макаров</Speaker>||:...+RO, я только что вернулась от Хелиан и узнала много нового.+В том числе и то, что ты хочешь узнать - что AR-15 оставила после себя...
 RO()<Speaker>RO</Speaker>||:...
-PM(0)<Speaker>Makarov</Speaker>||:Make it back alive, and I'll tell you, got it?
-RO()<Speaker>RO</Speaker>||<黑屏1>:...+Deal.+Think about where to start before I come back.
-RO()<Speaker>RO</Speaker>||<黑屏2><BIN>10</BIN>:Then let's begin.+I'm handing ops to you, Makarov.+First, deploy our forces here...
+PM(0)<Speaker>Макаров</Speaker>||:Вернешься живым, и я тебе все расскажу, поняла?
+RO()<Speaker>RO</Speaker>||<黑屏1>:...+Договорились.+Подумай, с чего начнеш, прежде чем я вернусь.
+RO()<Speaker>RO</Speaker>||<黑屏2><BIN>10</BIN>:Тогда начнем. Я передаю управление тебе, Макаров.+Сначала разверни наши силы здесь...
