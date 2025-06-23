@@ -1,6 +1,6 @@
-M4A1(3)<Speaker>M4A1</Speaker>||<BIN>8</BIN><BGM>BGM_Battle</BGM>:They have surrounded the safe house! Get into positions and prepare for battle!
-M16(3)<Speaker>M16A1</Speaker>;M4A1(3)||:There are too many of them! Mind your surroundings and save ammo, especially you, SOP-II!
-M16(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:I will! AR-15, watch my back!
-AR15(2)<Speaker>ST AR-15</Speaker>;SOPII(3)||:Leave it to me! M4, will that affect your ability to issue commands?
-AR15(2);M4A1(3)<Speaker>M4A1</Speaker>||:No, the transfer does not take up too much RAM. Still, you will have to keep an eye on enemy movements for me, M16.
-M16(0)<Speaker>M16A1</Speaker>;M4A1(3)||<黑屏1>:Piece of cake. Just hang on for a little longer, and we'll all go home together!
+M4A1(3)<Speaker>M4A1</Speaker>||<BIN>8</BIN><BGM>BGM_Battle</BGM>:Они окружают убежище! Занимайте позиции и готовьтесь к бою!
+M16(3)<Speaker>M16A1</Speaker>;M4A1(3)||:Их слишком много! Следи за окружением и береги патроны, особенно ты, SOP-II!
+M16(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Буду! AR-15, прикрой меня!
+AR15(2)<Speaker>ST AR-15</Speaker>;SOPII(3)||:Положись на меня! М4, это повлияет на твою способность отдавать команды?
+AR15(2);M4A1(3)<Speaker>M4A1</Speaker>||:Нет, перенос не занимает слишком много оперативки. Тем не менее, тебе придется следить за перемещениями противника за меня, M16.
+M16(0)<Speaker>M16A1</Speaker>;M4A1(3)||<黑屏1>:Пара пустяков. Просто потерпите еще немного, и мы все вместе отправимся домой!
