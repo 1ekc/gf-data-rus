@@ -1,5 +1,5 @@
-M16(0)<Speaker>M16A1</Speaker>||<BIN>10</BIN>:Oh? There are Griffin T-Dolls nearby. Looks like they're having a go at Sangvis Ferri.
-M4A1(0)<Speaker>M4A1</Speaker>||:They are at a disadvantage, but there is nothing we can do.
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Hmm? Can't we pop over and lend a hand?
-AR15(2)<Speaker>ST AR-15</Speaker>||:Save it, SOP-II. You only want to debone some Sangvis.
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Heheh♪ Busted.
+M16(0)<Speaker>M16A1</Speaker>||<BIN>10</BIN>:О? Тут неподалеку есть Т-Куклы Грифона. Похоже, они решили сражаться с Сангвис Ферри.
+M4A1(0)<Speaker>M4A1</Speaker>||:Они находятся в затруднительном положении, но мы ничего не можем сделать.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:А? Может, заглянем к ним и поможем?
+AR15(2)<Speaker>ST AR-15</Speaker>||:Оставь это, SOP-II. Ты всего лишь хочешь разобрать Сангвиса на части.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Хехех♪ Попалась.
