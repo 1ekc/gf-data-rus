@@ -1,18 +1,18 @@
-()||<BGM>BGM_Danger</BGM><BIN>9</BIN><SE1>Battlefield</SE1>:Video file.
-()||:26 minutes after the AR Team commenced pursuit on Destroyer...
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:There's too much firepower ahead! Dammit, we can't make it through!
-M16(3)<Speaker>M16A1</Speaker>||:Don't rush it! Wait for the reloading gap before we charge!
+()||<BGM>BGM_Danger</BGM><BIN>9</BIN><SE1>Battlefield</SE1>:Видеофайл.
+()||:Через 26 минут после того, как Команда AR начала преследование Разрушительницы...
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Впереди слишком много огневых точек! Проклятье, нам не прорваться!
+M16(3)<Speaker>M16A1</Speaker>||:Не торопись! Дождись промежутка между перезарядками, прежде чем атаковать!
 ()||:...
-M4A1(2)<Speaker>M4A1</Speaker>||:Wait. Listen to that...
-M16(3)<Speaker>M16A1</Speaker>||:Now! Run for it!
-M4A1(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:M16, watch out!!
+M4A1(2)<Speaker>M4A1</Speaker>||:Стой. Слушай...
+M16(3)<Speaker>M16A1</Speaker>||:Сейчас! Бежим!
+M4A1(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:M16, осторожно!!!
 M16(3)<Speaker>M16A1</Speaker>||:...?!
 ()||<震屏><SE1>Explode</SE1><黑屏1>:...BOOM!!
-M16(3)<Speaker>M16A1</Speaker>||<黑屏2><BIN>6</BIN>:...!!+W-What was that...just now?
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:You've gotta be joking. Sangvis can actually use...a weapon of that scale?
-M4A1(2)<Speaker>M4A1</Speaker>||<BGM>BGM_Boss</BGM><SE1>Alarm</SE1>:...+...Guys, I just received a report from Helian. We have suffered heavy losses.+HQ is ordering all troops to abort the pursuit and retreat from the area immediately.
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:But AR-15...
-M16(3)<Speaker>M16A1</Speaker>||:We don't know what the enemy have up their sleeve. We can't go in rashly.+AR-15 will be fine. As long as we live, we'll have a chance of finding her.
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Yeah...
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>10</BIN>:...But the attack just now has cut us off from the other teams.+And Sangvis troops are charging this way!
-M4A1(3)<Speaker>M4A1</Speaker>||:Do not worry. Commander is still online and will lead us away from danger!
+M16(3)<Speaker>M16A1</Speaker>||<黑屏2><BIN>6</BIN>:...!!+Что это было... сейчас?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Это, наверное, шутка. Сангвис действительно может использовать... оружие такого масштаба?
+M4A1(2)<Speaker>M4A1</Speaker>||<BGM>BGM_Boss</BGM><SE1>Alarm</SE1>:...+...Девчат, я только что получила сообщение от Хелиан. Мы несем тяжелые потери.+Штаб приказывает всем войскам прекратить преследование и немедленно отступить из этого района.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Но AR-15...
+M16(3)<Speaker>M16A1</Speaker>||:Мы не знаем, что у врага в запасе. Мы не можем действовать опрометчиво.+AR-15 будет в порядке. Пока мы живы, у нас есть шанс найти ее.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Ага...
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>10</BIN>:...Но это нападение отрезало нас от других отрядов.+А войска Сангвиса идут сюда!
+M4A1(3)<Speaker>M4A1</Speaker>||:Не волнуйся. Командир все еще на связи и отведет нас от опасностей!
