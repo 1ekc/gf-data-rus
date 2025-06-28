@@ -1,16 +1,16 @@
-()||<BIN>6</BIN><BGM>BGM_Sad</BGM>:Arrived at the destination. Starting data retrieval...
-M16(3)<Speaker>M16A1</Speaker>||:M4, have you started retrieving the data?
-M4A1(2)<Speaker>M4A1</Speaker>||:Yes, I am recovering AR-15's neural cloud. Please stand guard.
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:This is...where we collected data before...+Dammit! So we almost got them last time!
-M16(3)<Speaker>M16A1</Speaker>;SOPII(3)||:That's precisely why Sangvis Ferri is doing everything to stop us.
-M16(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:...AR-15.+Why...can't we at least know her whereabouts...?+She's our companion, right?!
-M16(3)<Speaker>M16A1</Speaker>;SOPII(3)||:...+You once asked me...+Why we're equipped with emotion modules despite being tools of combat.+The thing is, having emotions is a flaw in itself, SOP-II.+T-Dolls or humans, we are all defective beings.+Never expect sympathy from them. Especially not now.
-M16(3);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:M16...+(Sighs) Somehow you always come up with these oddly reasonable arguments.
-M16(0)<Speaker>M16A1</Speaker>;SOPII(2)||:It's a logic of reasoning designed especially for convincing AIs of Griffin T-Dolls.
-M4A1(2)<Speaker>M4A1</Speaker>||:Document retrieved. Let us make our retreat.
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Oh...
-M4A1(2)<Speaker>M4A1</Speaker>||:SOP-II... I heard everything...
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:Sorry, M4A1. I kinda lost it just now...
-SOPII(2);M4A1(2)<Speaker>M4A1</Speaker>||:It is all right, SOP-II.+To be honest, I am also very confused right now...+But I believe that AR-15 has not deserted us, nor we her, do you not agree?+So long as we do not desert each other, then one day, we shall meet again.
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:...+M4A1, you seem to have matured? ...But you're just an T-Doll.
-SOPII(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:(Smiles) You said it yourself.+I am the commander of the AR Team. I have the responsibility of lead you.
+()||<BIN>6</BIN><BGM>BGM_Sad</BGM>:Прибытие к месту назначения. Начинаем поиск данных...
+M16(3)<Speaker>M16A1</Speaker>||:M4, вы уже начали восстановление данных?
+M4A1(2)<Speaker>M4A1</Speaker>||:Да, я восстанавливаю нейронное облако AR-15. Пожалуйста, охраняйте меня.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Это... место, где мы собирали данные раньше... +Проклятье! Так мы почти получили их в прошлый раз!
+M16(3)<Speaker>M16A1</Speaker>;SOPII(3)||:Именно поэтому Сангвисс Ферри делает все, чтобы остановить нас.
+M16(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:...AR-15.+Почему... мы не можем хотя бы узнать ее местонахождение...? +Она ведь наша соратница, верно?!
+M16(3)<Speaker>M16A1</Speaker>;SOPII(3)||:...+Ты как-то спросила меня... Почему мы оснащены модулями эмоций, несмотря на то, что являемся боевыми единицами.+Дело в том, что наличие эмоций само по себе является недостатком, SOP-II.+Т-Куклы или люди, мы все дефектные существа. Никогда не жди от них сочувствия. Особенно не сейчас.
+M16(3);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:M16...+(Вздох) Зачем-то ты всегда приводишь эти странные и разумные аргументы.
+M16(0)<Speaker>M16A1</Speaker>;SOPII(2)||:Это такая логика рассуждений, разработанная специально для убеждения ИИ Грифонов Т-Кукол.
+M4A1(2)<Speaker>M4A1</Speaker>||:Документ найден. Давайте возвращаться.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Ох...
+M4A1(2)<Speaker>M4A1</Speaker>||:SOP-II... Я все слышу...
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:Прости, M4A1. Я вроде как только что потеряла её...
+SOPII(2);M4A1(2)<Speaker>M4A1</Speaker>||:Все в порядке, SOP-II.+Честно говоря, я тоже сейчас в замешательстве...+Но я верю, что AR-15 не бросила нас, как и мы ее, вы согласны? +Пока мы не бросим друг друга, однажды мы встретимся снова.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:...+M4A1, ты, кажется, уже повзрослела? ...Но ты всего лишь Т-Кукла.
+SOPII(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:(Улыбается) Вы сами это сказали. Я возглавляю Команду AR. Я должна вести вас за собой.
