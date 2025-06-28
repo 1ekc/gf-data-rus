@@ -1,6 +1,6 @@
-()||<BIN>8</BIN>:In a tactical control center in Area S09 under Griffin jurisdiction...
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Oh, Commander, you're still waiting for your orders?
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||<黑点1>:Sorry... Miss Helian has left on some urgent business.+Anyway, she's left it to me to issue your mission.
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||<黑点2><BIN>10</BIN>:According to information acquired by the AR Team and some other T-Dolls, Sangvis Ferri is hatching a plot that poses tremendous threat to Griffin.+We must take the initiative to strike first so as to stop this unprecedented crisis.+Well... That's what Miss Helian said.
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||:Though I simply can't imagine why they hate us so much...+But whatever the case, many Sangvis elite units are still prowling around this area, making things dangerous for us.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Please clear the area to ensure the smooth operation of our counterattack.+This is the last battle before the counterattack. Please begin, Commander.+No matter how great the difficulty, we will surely overcome it!
+()||<BIN>8</BIN>:В центре тактического контроля в зоне S09 под юрисдикцией Грифона...
+NPC-Kalin(0)<Speaker>Калин</Speaker>||:О, Командир, вы все еще ждете приказов?
+NPC-Kalin(4)<Speaker>Калин</Speaker>||<黑点1>:Простите... Госпожа Хелиан ушла по срочным делам.+В любом случае, она доверила мне выполнение вашего задания.
+NPC-Kalin(4)<Speaker>Калин</Speaker><通讯框>||<黑点2><BIN>10</BIN>:Согласно информации, полученной Командой AR и некоторыми другими Т-Куклами, Сангвисс Ферри готовит заговор, представляющий огромную угрозу для Грифона.+ Мы должны первыми нанести удар, чтобы остановить этот разразившийся кризис.+ Ну... Так сказала мисс Хелиан.
+NPC-Kalin(7)<Speaker>Калин</Speaker>||:Хотя я просто не могу понять, почему они нас так возненавидели...+Но как бы то ни было, многие элитные подразделения Сангвиса все еще орудуют в этом районе, делая его опасным для нас.
+NPC-Kalin(0)<Speaker>Калин</Speaker>||:Пожалуйста, очистите территорию, чтобы обеспечить гладкую работу для нашей контратаки.+Это последняя битва перед контратакой. Пожалуйста, начинайте, Командир.+Независимо от того, насколько велики трудности, мы обязательно их преодолеем!
