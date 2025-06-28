@@ -1,5 +1,5 @@
-()||<BGM>BGM_Sneak</BGM><BIN>8</BIN>:Griffin temporary control room.
-NPC-Helian(0)<Speaker>Helian</Speaker>||:The result of the preliminary investigation is out, Mr. Kryuger.+But... (Looks sideways in this direction)
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Go on, Helian.
-NPC-Helian(0)<Speaker>Helian</Speaker>||:Yes, sir. We have traced the leak to an abandoned command post in the vicinity of HQ.+It is certain this is where the Sangvis Ringleader receives intel and directs the attack.+We have already pinpointed its coordinates. We can raid it anytime.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||<黑屏1>:Now you know what you have to do.+Mount an immediate raid on this command post. Capture or destroy the Sangvis Ringleader.
+()||<BGM>BGM_Sneak</BGM><BIN>8</BIN>:Временный пункт управления Грифона.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Результаты предварительного расследования готовы, мистер Крюгер.+Но...(Отводит взгляд в сторону)
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>||:Продолжай, Хелиан.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Да, сэр. Мы отследили утечку до заброшенного командного пункта в окрестностях штаба.+Мы уверены, что именно там командир Сангвиса получает информацию и руководит атакой.+Мы уже определили его координаты и можем совершить налет в любое время.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>||<黑屏1>:Теперь ты знаешь, что нужно делать. Немедленно организуйте вылазку на этот командный пункт. Захватите или уничтожьте командира Сангвиса.
