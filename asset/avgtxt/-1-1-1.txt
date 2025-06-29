@@ -1,39 +1,39 @@
- ()||<BGM>BGM_Room</BGM><BIN>27</BIN><边框>2</边框>:Five days after AR-15 has gone missing.
-赫丽安()<Speaker>Helian</Speaker>||<边框>2</边框>:...That is our latest information on AR-15, Mr. Kryuger. The Commander and AR Team are still actively searching for her.+In addition, I have approved the [Emergency Command Authority] for Squad 404.
-克鲁格()<Speaker>Kryuger</Speaker>||<边框>2</边框>:...You should've only given them the authority as a last resort.
-赫丽安()<Speaker>Helian</Speaker>||<边框>2</边框>:The threat 404 faced was far more serious than expected.+Perhaps that jammer really is related to Parapluie.
-克鲁格()<Speaker>Kryuger</Speaker>||<边框>2</边框><黑屏1>:Hm...+Where are they now?
-赫丽安()<Speaker>Helian</Speaker>||<BIN>9</BIN>:They are currently operating in Area S06.+We'll have to wait for them to come back alive for further information.
- ()||<BGM>BGM_Empty</BGM><SE2>Alarm</SE2>:Meanwhile at the territory of dispute in Area S06.
-UMP9()<Speaker>UMP9</Speaker>||<SE1>Battlefield</SE1>:Hey, wake up.+416, wake up~!+Heyyyy~~!
-HK416()<Speaker>416</Speaker>||<BGM>BGM_NightOPS</BGM>:Ugh...+...Shut up.
-UMP9(3)<Speaker>UMP9</Speaker>||<睁眼><BIN>3</BIN><Night>:Hey! You doing okay, 416?
-HK416()<Speaker>416</Speaker>||:If you want me to say "I'm doing great" then help me move this rock...
-UMP9(3)<Speaker>UMP9</Speaker>||<黑屏1>:Alright. We have three minutes until the S.F. clean-up teams arrive, so I'll help you out.
-UMP9(0)<Speaker>UMP9</Speaker>||<SE1>Battlefield</SE1><黑屏2>:(Moving rock) Do you hear that gunfire in the distance? I'm out of here if I see trouble.
-HK416(0)<Speaker>416</Speaker>;UMP9(0)||:I'll twist your head off if you dare turn your back on me.
-HK416(0);UMP9(3)<Speaker>UMP9</Speaker>||:Don't be so vicious. It's not my fault that the Sangvis are prepared.
-HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:It's only a communications jammer. Do they really need to be defending it this desperately?
-HK416(0)<Speaker>416</Speaker>;UMP9(0)||:We underestimated the situation. There's a reason why Helian gave us such a high offer.
-HK416(0);UMP9(2)<Speaker>UMP9</Speaker>||:Yeah, and this place is full of radar stations. We'll get spotted as soon as we poke our heads out.
-HK416(0)<Speaker>416</Speaker>;UMP9(2)||:Then let's quickly capture those radar stations since we're engaging in night battle, otherwise we won't even have vision of the area.
-HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:I don't think we can do it with just the two of us. The Sangvis have armored units this time.
-HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Is that so...+No wonder our bullets are useless. Can we somehow get armor piercing ammo?
-HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:45 is trying to come up with a solution, but I don't know if she has figured anything out yet...
-HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Quit pulling my leg, 9. 45's already got it figured out, hasn't she?
-HK416(0);UMP9(2)<Speaker>UMP9</Speaker>||:(Stop) Eh? How do you know...?
-HK416(0)<Speaker>416</Speaker>;UMP9(2)||:Because it's been three minutes and you still haven't ran yet.
-UMP9(3)<Speaker>UMP9</Speaker>||<黑屏1>:Ha...♪+This is the last of them. Count yourself lucky.
-UMP9()<Speaker>UMP9</Speaker>||<BIN>9</BIN><黑屏2>:I'll contact 45 now. You find a spot to set up an ambush.+But seriously though, the Sangvis are gonna be here very soon. You sure you don't wanna pray first?
-HK416()<Speaker>416</Speaker>||<黑屏1>:The Sangvis are the ones who will be praying if everything goes well with 45's plan.
-UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<黑屏2><BIN>3</BIN><Night><SE1>Battlefield</SE1>:Calling UMP9, is 416 dead yet?
-HK416(2)<Speaker>416</Speaker>;UMP45(0)||:Sorry to disappoint. Tell me you're going to withdraw us now.
-HK416(2);UMP45(0)<Speaker>UMP45</Speaker>||:Don't be in such a rush to leave, 416. I don't plan on losing.+I'll break you guys out. 9 will then group up with me for a new objective.+Gr G11 is gathering intel in enemy territory, so you'll need to meet up with her and act as her bodyguard, 416. We'll pick you two up after.
-HK416(2)<Speaker>416</Speaker>;UMP45(0)||:(Sigh) Don't be in such a rush to give us orders when we're not even prepared to go against armored enemies.
-UMP9(2)<Speaker>UMP9</Speaker>;UMP45(0)||:(Quietly) And we have to find the jammer in the dark as well...
-UMP9(2);UMP45(0)<Speaker>UMP45</Speaker>||:Don't worry, Helian just granted me the [Emergency Command Authority].+Griffin has also given us the authority to use equipment, so you don't need to worry about your problem anymore.
-UMP9(3)<Speaker>UMP9</Speaker>;UMP45(0)||:That's great! With Griffin's resources, our squad and AP ammo problems are now solved!
-HK416(2)<Speaker>416</Speaker>;UMP45(0)||:What about our limited vision? We can't even see the enemies right now.
-HK416(2);UMP45(0)<Speaker>UMP45</Speaker>||:We can rely on a HG T-Doll to provide our squad with enhanced vision in the dark.+Moreover, I will have our squad seize control of the radar stations to gain even more vision.
-UMP9(3)<Speaker>UMP9</Speaker>;UMP45(0)||:AP ammo, HG T-Doll, and radar stations! Victory is ours as long as we have all three!
-UMP9(3);UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:We'll need to be extra careful as we have limited vision.+Move out when you are ready and try not to draw enemy attention.
+ ()||<BGM>BGM_Room</BGM><BIN>27</BIN><边框>2</边框>:Через пять дней после исчезновения AR-15.
+赫丽安()<Speaker>Хелиан</Speaker>||<边框>2</边框>:...Это наша последняя информация о AR-15, мистер Крюгер. Командир и Команда AR продолжают активные поиски.+ Кроме того, я утвердила [Полномочия Чрезвычайного Командования] для Отряда 404.
+克鲁格()<Speaker>Крюгер</Speaker>||<边框>2</边框>:...Ты должна была дать им полномочия только в крайнем случае.
+赫丽安()<Speaker>Хелиан</Speaker>||<边框>2</边框>:Угроза, с которой столкнулся отряд 404, оказалась гораздо серьезнее, чем ожидалось.+ Возможно, эта глушилка действительно связана с Параплюй.
+克鲁格()<Speaker>Крюгер</Speaker>||<边框>2</边框><黑屏1>:Хм... +Где они сейчас?
+赫丽安()<Speaker>Хелиан</Speaker>||<BIN>9</BIN>:В настоящее время они действуют в зоне S06.+Для получения дополнительной информации нам придется подождать, пока они вернутся обратно.
+ ()||<BGM>BGM_Empty</BGM><SE2>Alarm</SE2>:Тем временем на спорной территории в зоне S06.
+UMP9()<Speaker>UMP9</Speaker>||<SE1>Battlefield</SE1>:Эй, проснись.+416, проснись~!+Эйй~~!
+HK416()<Speaker>416</Speaker>||<BGM>BGM_NightOPS</BGM>:Ух...+...Заткнись.
+UMP9(3)<Speaker>UMP9</Speaker>||<睁眼><BIN>3</BIN><Night>:Эй! Ты как, 416?
+HK416()<Speaker>416</Speaker>||:Если ты хочешь, чтобы я сказала «у меня все отлично», тогда помоги мне отодвинуть этот камень...
+UMP9(3)<Speaker>UMP9</Speaker>||<黑屏1>:Хорошо. У нас есть три минуты, пока не прибудут команды уборщиков из С.Ф., так что я помогу.
+UMP9(0)<Speaker>UMP9</Speaker>||<SE1>Battlefield</SE1><黑屏2>:(Перемещение камня) Ты слышишь выстрелы вдалеке? Я свалю отсюда, если увижу проблемы.
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Я откручу тебе голову, если ты посмеешь повернуться ко мне спиной.
+HK416(0);UMP9(3)<Speaker>UMP9</Speaker>||:Не будь такой злюкой. Я не виновата, что Сангвис подготовился.
+HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:Это всего лишь глушилка. Неужели им нужно так отчаянно защищать её?
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Мы недооценили ситуацию. Не зря Хелиан предложила нам такую высокую стоимость.
+HK416(0);UMP9(2)<Speaker>UMP9</Speaker>||:Да, и здесь полно радарных станций. Нас засекут, как только мы высунем голову.
+HK416(0)<Speaker>416</Speaker>;UMP9(2)||:Тогда давайте быстро захватим эти станции, раз уж мы участвуем в ночном бою, иначе у нас не будет даже представления о местности.
+HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:Не думаю, что мы справимся с этим вдвоем. На этот раз у Сангвиса есть бронетехника.
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Вот как...+Неудивительно, что наши патроны бесполезны. Мы можем как-то получить бронебойный боезопас?
+HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:45-я пытается найти решение, но я не знаю, удалось ли ей что-нибудь придумать...
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Не тяни время, 9-я. 45-ая уже все выяснила, не так ли?
+HK416(0);UMP9(2)<Speaker>UMP9</Speaker>||:(Остановилась) А? Как ты узнала...?
+HK416(0)<Speaker>416</Speaker>;UMP9(2)||:Потому что прошло уже три минуты, а ты все еще не свалила.
+UMP9(3)<Speaker>UMP9</Speaker>||<黑屏1>:Ха...♪+Это последняя из них. Считай, что тебе крупно повезло.
+UMP9()<Speaker>UMP9</Speaker>||<BIN>9</BIN><黑屏2>:Сейчас я свяжусь с 45-ой. А ты найди место для укрытия.+Но если серьезно, то Сангвис будет здесь очень скоро. Ты уверена, что не хочешь сначала помолиться?
+HK416()<Speaker>416</Speaker>||<黑屏1>:Сангвис - вот кто будет молиться, если все пойдет по плану 45-ой.
+UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<黑屏2><BIN>3</BIN><Night><SE1>Battlefield</SE1>:Звонок UMP9, 416 еще не померла?
+HK416(2)<Speaker>416</Speaker>;UMP45(0)||:Жаль разочаровывать. Теперь скажи, что ты нас заберешь.
+HK416(2);UMP45(0)<Speaker>UMP45</Speaker>||:Не спеши уходить, 416. Я не планирую сдаваться.+Я выведу тебя из игры. 9-я объединится со мной для новой цели.+Gr G11 собирает сведения на вражеской территории, так что тебе нужно будет встретиться с ней и выступить в роли ее телохранителя, 416. Мы заберем вас двоих после.
+HK416(2)<Speaker>416</Speaker>;UMP45(0)||:(Вздох) Не торопись раздавать мне приказы, когда мы даже не можем разобраться с бронированными врагами.
+UMP9(2)<Speaker>UMP9</Speaker>;UMP45(0)||:(Тихо) А еще нужно найти глушилку в темноте...
+UMP9(2);UMP45(0)<Speaker>UMP45</Speaker>||:Не парься, Хелиан только что выдала мне [Полномочия Чрезвычайного Командования].+Грифон также дал мне полномочия на использование снаряжения, так что тебе больше не нужно беспокоиться о возникшей проблеме.
+UMP9(3)<Speaker>UMP9</Speaker>;UMP45(0)||:Это здорово! С ресурсами Грифона наши проблемы с отрядом и бронебойными патронами теперь решены!
+HK416(2)<Speaker>416</Speaker>;UMP45(0)||:А как же наше ограничение на обзор? Сейчас мы даже не видим врагов.
+HK416(2);UMP45(0)<Speaker>UMP45</Speaker>||:Мы можем положиться на Т-Куклу, которая обеспечит нашему отряду улучшения для зрения в темноте.+Более того, я поручаю нашему отряду захватить контроль над станциями, чтобы получить еще лучший обзор.
+UMP9(3)<Speaker>UMP9</Speaker>;UMP45(0)||:ББ патроны, Т-Кукла HG и радарные станции! Победа будет за нами, пока у нас есть все эти три вещи!
+UMP9(3);UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:Нам нужно быть очень осторожными, так как у нас ограничено зрение.+Выдвигайтесь, когда будете готовы, и старайтесь не привлекать внимания противника.
