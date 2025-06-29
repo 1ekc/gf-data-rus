@@ -1,19 +1,19 @@
- ()||<BGM>BGM_NightOPS</BGM><BIN>1</BIN><Night>:...Infiltration success. UMP9 and 416 have split off to their target locations.
-HK416(0)<Speaker>416</Speaker>||:This is 416. I've reached my destination. Currently seaching for Gr G11.
-UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:Huh? According to the radar, shouldn't Gr G11 be right beside you?
-HK416(0)<Speaker>416</Speaker>||:It's all trees here. I don't know where she is hiding...+...Oh, nevermind.+Wake up, Gr G11.
-G11()<Speaker>Gr G11</Speaker>||:No... I don't wanna...
-HK416(0)<Speaker>416</Speaker>||<震屏>:Wake up, we don't have time.
-G11()<Speaker>Gr G11</Speaker>||<黑屏1>:Uuuu... Don't kick...
-G11(0)<Speaker>Gr G11</Speaker>||<黑屏2>:Ah, 416... What are you doing here?
-HK416(0)<Speaker>416</Speaker>;G11(0)||:Are you still dreaming?+You said you needed protection, didn't you?
-HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Oh... 45 said you might've kicked the bucket.+That's why I was gonna nap 'til after midnight and then sneak out.
-HK416(0);G11(0)<Speaker>UMP45</Speaker>||:Sorry to bother you while you were napping, Gr G11 ♪. 416 insisted that she came.
-HK416(0)<Speaker>416</Speaker>;G11(0)||:...You guys.
-HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Don't get violent, 416... Aren't you here to protect me?
-HK416(0)<Speaker>416</Speaker>;G11(0)||:(Deep breath) ...This area is full of enemies. Let's find a place to hide first.
-HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Uuuu... Hold on.+I fell asleep earlier... Let me check the sound recording first.
-HK416(0)<Speaker>416</Speaker>;G11(0)||<黑屏1>:......+You got one minute, otherwise I'll bring you back in six different pieces.
+ ()||<BGM>BGM_NightOPS</BGM><BIN>1</BIN><Night>:...Проникновение удалось. UMP9 и 416 разошлись по намеченным местам.
+HK416(0)<Speaker>416</Speaker>||:Это 416-я. Я добралась до места назначения. Сейчас ищу Gr G11.
+UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:А? Судя по радару, Gr G11 должна быть рядом с вами?
+HK416(0)<Speaker>416</Speaker>||:Здесь одни деревья. Я не знаю, где она прячется... +... О, забудь. +Просыпайся, Gr G11.
+G11()<Speaker>Gr G11</Speaker>||:Нет... Я не хочу...
+HK416(0)<Speaker>416</Speaker>||<震屏>:Проснись, у нас нет времени.
+G11()<Speaker>Gr G11</Speaker>||<黑屏1>:Уууу... Не пинайся...
+G11(0)<Speaker>Gr G11</Speaker>||<黑屏2>:А, 416... Что ты здесь делаешь?
+HK416(0)<Speaker>416</Speaker>;G11(0)||:Ты все ещё спишь?+Ты сказала, что тебе нужна защита, не так ли?
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:О... 45-я сказала, что ты, возможно, откинула копыта.+Вот почему я хотела вздремнуть до полуночи, а потом незаметно уйти.
+HK416(0);G11(0)<Speaker>UMP45</Speaker>||:Жаль, что придется отвлечь тебя, пока ты дрыхнешь, Gr G11 ♪. 416-я настояла, чтобы прийти.
+HK416(0)<Speaker>416</Speaker>;G11(0)||:...Ну, девчат.
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Не кипятись, 416-ая... Разве ты здесь не для того, чтобы охранять меня?
+HK416(0)<Speaker>416</Speaker>;G11(0)||:(Глубокий вдох) ...В этой области много врагов. Сначала найдем место, где можно спрятаться.
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Уууу... Погоди. Я уснула раньше... Дай мне сначала прослушать аудиозапись.
+HK416(0)<Speaker>416</Speaker>;G11(0)||<黑屏1>:......+У тебя одна минута, иначе я верну тебя в шестью частями.
  ()||<BIN>9</BIN><黑屏2>:Recording playback starts...
 ？？()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:...Good evening.+Welcome to Area S06, my dear friends from Griffin.
 HK416(3)<Speaker>416</Speaker>||<BGM>BGM_Sneak</BGM>:Hey, what's going on!
