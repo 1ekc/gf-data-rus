@@ -1,12 +1,12 @@
-()||<BGM>BGM_Battle</BGM><BIN>5</BIN><Night><SE1>Battlefield</SE1><SE2>Gunfight</SE2>:Squad 404 is engaging in heavy firefight with Executioner near the location of the jammer.
-ExcutionerElite(1)<Speaker>Executioner</Speaker>||:You're here...the rumored Squad 404, you're finally here!+I want you to tremble and fear before I cut you apart!+I will deal unto your corpses the shame and humiliation that I received from M4A1!
-HK416(3)<Speaker>416</Speaker>||<SE2>Gunfight</SE2>:That name again!+Gr G11, can you shut her mouth up for good?!
-G11(3)<Speaker>Gr G11</Speaker>||<SE1>Battlefield</SE1>:Uuu...sca-scared...+I wanna...I wanna go home...
-UMP9(4)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:Gr G11 is scared witless! 416, bring her farther away!
-HK416(3)<Speaker>416</Speaker>||:I can't, we'll be out of range.+If we keep this up, Gr G11's neural cloud will...
-UMP45(2)<Speaker>UMP45</Speaker>||<SE1>Battlefield</SE1>:Let's withdraw for now. We'll deal with her like we did with Hunter, by exhausting her of her supplies!
-HK416(3)<Speaker>416</Speaker>||<SE2>Gunfight</SE2>:Roger! Gr G11, we're throwing our smoke grenades!
-G11(3)<Speaker>Gr G11</Speaker>;HK416(0)||:Uuu... Thr-thr-throw...+Is it time to throw out the trash, master...?
-G11(3);UMP9(4)<Speaker>UMP9</Speaker>||<黑屏1><SE2>Gunfight</SE2>:Throw her grenade for her, hurry!
+()||<BGM>BGM_Battle</BGM><BIN>5</BIN><Night><SE1>Battlefield</SE1><SE2>Gunfight</SE2>:Отряд 404 вступил в ожесточенную перестрелку с «Палачом» в районе расположения глушилки.
+ExcutionerElite(1)<Speaker>Палач</Speaker>||:Вы здесь... Отряд 404, о котором ходят разные слухи, наконец-то вы здесь!+Я хочу, чтобы вы стали трепетать и бояться, прежде чем я разрежу вас на части!+Я сделаю с вашими трупами ту же пытку и унижение, которую я получила от чертовой M4A1!
+HK416(3)<Speaker>416</Speaker>||<SE2>Gunfight</SE2>:Опять это имя! +Gr G11, ты сможешь заткнуть ей рот окончательно?!
+G11(3)<Speaker>Gr G11</Speaker>||<SE1>Battlefield</SE1>:Ууу...страшно...+Я хочу...я хочу домой...
+UMP9(4)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:Gr G11 испугалась до смерти! 416-ая, отведи ее как можно дальше!
+HK416(3)<Speaker>416</Speaker>||:Я не могу, мы окажемся за пределами области действия.+Если мы будем продолжать в том же духе, нейрооблако Gr G11...
+UMP45(2)<Speaker>UMP45</Speaker>||<SE1>Battlefield</SE1>:Пока отступим. Мы разделаемся с ней, как с Охотницей, сначала истощив ее запасы!
+HK416(3)<Speaker>416</Speaker>||<SE2>Gunfight</SE2>:Принято! Gr G11, швыряй дымовую гранату!
+G11(3)<Speaker>Gr G11</Speaker>;HK416(0)||:Уууу... Тр-тр-тр-тр...+Не пора ли выкинуть хлам, мастер...?
+G11(3);UMP9(4)<Speaker>UMP9</Speaker>||<黑屏1><SE2>Gunfight</SE2>:Бросай за нее гранату, живо!
 ()||<黑屏2><SE1>Battlefield</SE1>:...
-ExcutionerElite(0)<Speaker>Executioner</Speaker>||<黑屏1>:Hmph, you bunch of cowards, I already know what you plan to do.+Struggle all you want, but you'll soon realize that...+Ouroboros has already planned everything out...including your death.
+ExcutionerElite(0)<Speaker>Палач</Speaker>||<黑屏1>:Хмф, кучка трусов, я уже знаю, что вы планируете сделать.+ Сопротивляйтесь сколько угодно, но скоро вы поймете, что...+ Уроборос уже все распланировала... включая вашу гибель.
