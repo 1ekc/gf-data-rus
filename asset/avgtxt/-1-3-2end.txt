@@ -1,35 +1,35 @@
  ()||<BIN>3</BIN><Night><BGM>BGM_NightOPS</BGM><SE1>Battlefield</SE1>:...Сражение подходит к концу.
 G11(0)<Speaker>Gr G11</Speaker>||:Цель выполнена. Я разрушила все четыре конечности Палача.
 HK416(0)<Speaker>416</Speaker>;G11(0)||:Похоже, ты вполне оправилась, Gr G11.
-HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:I'm feeling much safer with you being my meat shield.
-HK416(0)<Speaker>416</Speaker>;G11(0)||:Be grateful. You would never have received this sort of generosity in the past.
-HK416(0);UMP9(3)<Speaker>UMP9</Speaker>||:Hey, we're all family now, don't sweat the formalities.
-HK416(0)<Speaker>416</Speaker>;UMP9(3)||:I would love to believe you if you weren't produced unconventionally.
-HK416(0);UMP9(3)<Speaker>UMP9</Speaker>||:Haha, what's the difference? Aren't we living a pretty good life?
-G11(0)<Speaker>Gr G11</Speaker>;UMP9(3)||:It's not good at all. I wanna go home...
-G11(0);HK416(0)<Speaker>416</Speaker>||:Just accept reality. You lost your home a long time ago...
-UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:You guys, quit chatting and help me inspect Executioner.
-UMP9(0)<Speaker>UMP9</Speaker>||<黑屏2>:Hehe, with communications blocked by the jammer, we can ask questions "nicely".
-UMP9(0)<Speaker>UMP9</Speaker>||<震屏>:(Kicks) Hey, any last words? We can pass a message to your boss for you once we move the jammer out of here.
-ExcutionerElite(1)<Speaker>Палач</Speaker>||:I'm afraid you won't be passing out any messages...
-ExcutionerElite(1)<Speaker>Палач</Speaker>||<BGM>BGM_Sneak</BGM>:Because this whole place is rigged with explosives!
-G11(2)<Speaker>Gr G11</Speaker>||:...?! Explosives?
-ExcutionerElite(1)<Speaker>Палач</Speaker>||:There's no escape for you! With the press of a button, Squad 404, the jammer, and everything else will be turned to dust.
-UMP9(4)<Speaker>UMP9</Speaker>||:Wait a minute! Aren't you guys supposed to be protecting the jammer?!
-ExcutionerElite(0)<Speaker>Палач</Speaker>||<黑屏1>:That's why Ouroboros is someone that does whatever she wants...
-Weaver(0)<Speaker>Палач</Speaker>||<BIN>9</BIN><黑屏2>:This was her plan all along. Hunter bought us time while explosives were placed all around the jammer.+It doesn't matter what happens along the way, because as long as you reach this point, the ending for you will be all the same...
-Weaver(0)<Speaker>416</Speaker>||:Ouroboros... Why would you go along with a suicidal plan like this?
-Weaver(0)<Speaker>Палач</Speaker>||<黑屏1>:Squad 404, do the Griffin squads in your hands have a choice when it comes to orders?
-ExcutionerElite(0)<Speaker>Палач</Speaker>||<BIN>3</BIN><黑屏2><Night>:When you send them to their death to accomplish a goal, will you consider their feelings?
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Я чувствую себя гораздо спокойнее, когда ты - моя защита.
+HK416(0)<Speaker>416</Speaker>;G11(0)||:Будь благодарна. Прежде ты никогда бы не ощутила такого великодушия.
+HK416(0);UMP9(3)<Speaker>UMP9</Speaker>||:Эй, мы теперь все одна семья, не стоит заморачиваться с формальностями.
+HK416(0)<Speaker>416</Speaker>;UMP9(3)||:Я бы с поверила тебе, если бы ты не была сделана так нестандартно.
+HK416(0);UMP9(3)<Speaker>UMP9</Speaker>||:Хаха, а в чем разница? Неужели мы живем не очень хорошо?
+G11(0)<Speaker>Gr G11</Speaker>;UMP9(3)||:Совсем хреново. Я хочу домой...
+G11(0);HK416(0)<Speaker>416</Speaker>||:Просто прими реальность. Ты давно покинула свой собственный дом...
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Девчата, хватит болтать и помогите мне осмотреть Палача.
+UMP9(0)<Speaker>UMP9</Speaker>||<黑屏2>:Хехе, если связь блокируется глушилкой, мы можем задать вопросы «по-хорошему».
+UMP9(0)<Speaker>UMP9</Speaker>||<震屏>:(Пинок) Эй, твои последние слова? Мы можем передать сообщение твоему начальнику, как только вытащим отсюда глушилку.
+ExcutionerElite(1)<Speaker>Палач</Speaker>||:Боюсь, что вы не сможете передать никаких сообщений...
+ExcutionerElite(1)<Speaker>Палач</Speaker>||<BGM>BGM_Sneak</BGM>:Потому что здесь все заминировано!
+G11(2)<Speaker>Gr G11</Speaker>||:...?! Заминировано?
+ExcutionerElite(1)<Speaker>Палач</Speaker>||:Вам не спастись! Одним только нажатием кнопки Отряд 404, глушилка и все остальные превратятся в пыль.
+UMP9(4)<Speaker>UMP9</Speaker>||:Минутку! Разве ты не должна защищать глушилку?!
+ExcutionerElite(0)<Speaker>Палач</Speaker>||<黑屏1>:Вот почему Уроборос - это та, кто делает все, что пожелает...
+Weaver(0)<Speaker>Палач</Speaker>||<BIN>9</BIN><黑屏2>:Это был ее план с самого начала. Охотница выиграла время, пока вокруг глушилки закладывали взрывчатку.+Неважно, что произойдет по пути, ведь пока вы дойдете до этой точки, финал для вас будет один и тот же...
+Weaver(0)<Speaker>416</Speaker>||:Уроборос... Почему ты решилась на такой самоубийственный план?
+Weaver(0)<Speaker>Палач</Speaker>||<黑屏1>:Отряд 404, есть ли у подразделений Грифона выбор, когда речь идет о приказе?
+ExcutionerElite(0)<Speaker>Палач</Speaker>||<BIN>3</BIN><黑屏2><Night>:Когда ты отправляешь их на смерть ради достижения цели, будешь ли ты думать об их чувствах?
 UMP45(2)<Speaker>UMP45</Speaker>||:...
-UMP9(2)<Speaker>UMP9</Speaker>||:45...
-G11(0)<Speaker>Gr G11</Speaker>||:So...we can't go home anymore?
-HK416(0)<Speaker>416</Speaker>||:(Bitter laugh) Get on your knees and apologize, 45. I've been waiting for this for far too long.
-ExcutionerElite(1)<Speaker>Палач</Speaker>||<黑屏1>:What awaits Dolls like us is neither heaven nor hell.+Squad 404...+You will disappear from this world along with me...
- ()||<BIN>8</BIN><黑屏2><Night><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:...At Area S06 Sangvis command center.
-Weaver(0)<Speaker>Уроборос</Speaker>||<BGM>BGM_Boss</BGM>:Agent...+I regret to inform you that our jammer has been destroyed in the explosion just now.+Executioner placed the explosives without my authorization and she seems to have destroyed herself along with Squad 404 in the explosion.
-BOSS-8(0)<Speaker>Агент</Speaker><通讯框>;Weaver(0)||:That jammer was instrumental in carrying out Parapluie. To exchange it for only four measly lives of ragtag T-Dolls...
-BOSS-8(0);Weaver(0)<Speaker>Уроборос</Speaker>||:I apologize for ignoring the instabilities in the AIs of Hunter and Executioner and not being able to detect their dereliction of duty in a timely matter.+I have already dispatched teams toward the site of the explosion to confirm their deaths.
-BOSS-8(0)<Speaker>Агент</Speaker>;Weaver(0)||:What is even there to confirm, Ouroboros?+Withdraw immediately. I want a detailed report, do you understand?
-BOSS-8(0);Weaver(0)<Speaker>Уроборос</Speaker>||<黑屏1>:Yes... Your wish is my command, Agent.
-Weaver(1)<Speaker>Уроборос</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:To all Sangvis units in Area S06...+...Expand your search area for 404 and pick up the pace.+Immediately converge on and destroy any Griffin T-Dolls found!+...Do not rely on the mech units, you must verify their deaths with your own eyes.+Nobody is leaving until Squad 404's corpses have been confirmed!
+UMP9(2)<Speaker>UMP9</Speaker>||:45-ая...
+G11(0)<Speaker>Gr G11</Speaker>||:То есть... мы больше не вернемся домой?
+HK416(0)<Speaker>416</Speaker>||:(Горький смех) На колени и извиняйся, 45-ая. Я ждала этого слишком долго.
+ExcutionerElite(1)<Speaker>Палач</Speaker>||<黑屏1>:То, что ждет таких кукол, как мы, - не рай и не ад.+ Отряд 404...+ Вы исчезнете из этого мира вместе со мной...
+ ()||<BIN>8</BIN><黑屏2><Night><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:...В командном пункте Сангвиса в зоне S06.
+Weaver(0)<Speaker>Уроборос</Speaker>||<BGM>BGM_Boss</BGM>:Агент... +Я с грустью сообщаю вам, что наша глушилка была уничтожена во время взрыва. +Разрушительница заложила взрывчатку без моего разрешения и, похоже, уничтожила себя вместе с отрядом 404 во время взрыва.
+BOSS-8(0)<Speaker>Агент</Speaker><通讯框>;Weaver(0)||:Этот прибор сыграл важную роль в осуществлении Параплюй. Обменять его всего на жалкие жизни четырёх Т-Кукол...
+BOSS-8(0);Weaver(0)<Speaker>Уроборос</Speaker>||:Я извиняюсь за то, что не обратила внимания на нестабильность ИИ Охотницы и Палача и не смогла своевременно обнаружить их пренебрежение долгом.+ Я уже отправила отряды на месту взрыва, чтобы убедиться в их гибели.
+BOSS-8(0)<Speaker>Агент</Speaker>;Weaver(0)||:Что ты хочешь этим сказать, Уроборос?+Срочно возвращайся. Мне нужен подробный отчет, ты меня поняла?
+BOSS-8(0);Weaver(0)<Speaker>Уроборос</Speaker>||<黑屏1>:Да... Ваше желание - закон, Агент.
+Weaver(1)<Speaker>Уроборос</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Всем отрядам Сангвиса в зоне S06...+...Расширьте зону поиска отряда 404 и ускорьте поиски.+...Немедленно выдвигайтесь и уничтожайте всех найденных Грифонов Т-Кукла! +...Не полагайтесь на подразделения мехов, вы должны убедиться в их гибели своими глазами.+...Никто не уйдет, пока не будут обнаружены тела отряда 404!
