@@ -1,27 +1,27 @@
-()||<BIN>2</BIN><BGM>BGM_Room</BGM>:Squad Negev reached their destination.
-NEGEV(0)<Speaker>Negev</Speaker>||:We've arrived. There's a Griffin base here.+I'll stay and watch the radar. Galil, stand guard in the back.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Got it. Leave it to me.
-NEGEV(0)<Speaker>Negev</Speaker>||:Tavor, have you started looking for clues?
-TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Not yet, I'm still checking my equipment.
-TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:I told you to turn it on beforehand. It doesn't eat much battery anyway.
-TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:It doesn't hurt to save whatever I can. After all, we'll be moving into our new dorm once we go back. We should make it a good start.
-TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||<黑屏1>:Up to you. But we can't rest until we find AR-15, you hear?
-AR15(0)<Speaker>TAR-21</Speaker>||<BIN>9</BIN><黑屏2>:Still, why is Helian wasting so much effort just to find a so-called 'traitor'?
-Negev()<Speaker>Negev</Speaker>||:She's just unlucky enough to be planted with the Parapluie program. That's how she leaked the location of our secret base without even knowing.+She probably ran off out of guilt. She must understand her own position very well to be able to do that.+In any case, our job is to find her, and 16Lab will try to recover her.
-TAR-21()<Speaker>TAR-21</Speaker>||<黑屏1>:Parapluie... Is it really the Parapluie program that she's been planted with?+If it's just some data leakage, it doesn't sound as terrible as they say...+But is there any point in letting a T-Doll that has made such a mistake live?
-NPC-Persica(0)<Speaker>Negev</Speaker>||<黑屏1>:The T-Dolls on the AR Team are all developed and produced by 16Lab. We need to show them some due respect.+And their neural clouds are rather different than ours. If they die, it's really game over for them.+Let's report the situation of this base to the commander first and request for more reinforcement.
+()||<BIN>2</BIN><BGM>BGM_Room</BGM>:Отряд Негева достиг места назначения.
+NEGEV(0)<Speaker>Negev</Speaker>||:Мы прибыли. База Грифона находится здесь.+Я останусь и буду следить за радаром. Galil, будь на чеку .
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Есть. Предоставьте это мне.
+NEGEV(0)<Speaker>Negev</Speaker>||:Tavor, вы уже начала искать подсказки?
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Пока нет, я еще проверяю свое оборудование.
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:Я же говорила тебе заранее включить его. По крайней мере, он не съедает много заряда .
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Главное - сэкономить как можно больше. В конце концов, после возвращения мы переедем в новое здание. Для начала нужно сделать все возможное.
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||<黑屏1>:Решать только тебе. Но мы не успокоимся, пока не найдем AR-15, понимаешь?
+AR15(0)<Speaker>TAR-21</Speaker>||<BIN>9</BIN><黑屏2>:И все же, почему Хелиан тратит столько сил, чтобы найти так называемого «предателя»?
+Negev()<Speaker>Negev</Speaker>||:Ей просто не повезло, что в нее внедрили программу «Параплюй». Вот как она, сама того не зная, слила информацию о местонахождении нашей секретной базы.+Вероятно, она сбежала из-за чувства вины. В любом случае, наша задача - найти ее, а 16Lab попытается ее восстановить.
+TAR-21()<Speaker>TAR-21</Speaker>||<黑屏1>:Параплюй... Неужели ей действительно подсунули программу Параплюй? +Если это просто утечка данных, то все не так ужасно, как говорят...+Но есть ли смысл позволять жить Т-Кукле, совершившей такую ошибку?
+NPC-Persica(0)<Speaker>Negev</Speaker>||<黑屏1>:Все Т-Куклы, входящие в Команду AR, разработаны и произведены 16Lab. Мы должны относиться к ним с определенным уважением.+К тому же их нейронные облака отличаются от наших. Если они умрут, для них игра закончится.+Давайте сначала доложим Командиру о ситуации на этой базе и запросим подкрепление.
 TAR21(0)<Speaker>TAR-21</Speaker>||<黑屏2><BIN>2</BIN><BGM>BGM_Empty</BGM>:...
-NEGEV(0)<Speaker>Negev</Speaker>||:What is it, Tavor?
-TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Strange... I think something's wrong with my comms module.+No good... It's completely down.
-TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:(Sighs) That's why you should turn your equipment on frequently to check them. It really doesn't take that much bat...+Although I guess...it isn't a problem with the equipment this time...
-NEGEV(0)<Speaker>Negev</Speaker>||:Am I right, Sangvis lady?
+NEGEV(0)<Speaker>Negev</Speaker>||:Что это, Tavor?
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Странно... Кажется, что-то не так с моим модулем связи.+Не работает... Он полностью неисправен.
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:(Вздох) Поэтому нужно часто проверять оборудование. Это не занимает так много времени...+Хотя я думаю... что на этот раз это не проблема с оборудованием...
+NEGEV(0)<Speaker>Negev</Speaker>||:Я права, госпожа Сангвис?
 NEGEV(0)<Speaker>??</Speaker>||<黑屏1>:...
-Negev()<Speaker>Negev</Speaker>||<黑屏2><BIN>9</BIN>:Tavor, now!
+Negev()<Speaker>Negev</Speaker>||<黑屏2><BIN>9</BIN>:Tavor, сейчас!
 ()||<SE2>Gunfight</SE2>:...!!
-TAR-21()<Speaker>TAR-21</Speaker>||:The target has withdrawn from the base. We're safe for now!
-Negev()<Speaker>Negev</Speaker>||<黑屏1><BGM>BGM_Boss</BGM>:That's 'Alchemist'. She's a tricky one! Keep an eye on your surroundings!
-BOSS-5(0)<Speaker>Alchemist</Speaker><通讯框>||<黑屏2><BIN>2</BIN>:Heheh... Such a shame...+I could've caressed that lovely throat of yours in another three seconds.
-NEGEV(0)<Speaker>Negev</Speaker>;BOSS-5(0)||:So you're the one jamming our signal?
-NEGEV(0);BOSS-5(0)<Speaker>Alchemist</Speaker>||:Well... That really has nothing to do with me.+I just came all the way here hungrily following the scent given off by fresh and tender fruit.+If you want to find out more... I can tell you slowly as I tear your bodies into shreds!
-NEGEV(0)<Speaker>Negev</Speaker>;BOSS-5(0)||:Tavor, smoke grenade!+Guys, defend this base to the death! Don't let Sangvis troops anywhere near!+(Whispers) I'm counting the rest on you, Galil...
-BOSS-5(0)<Speaker>Alchemist</Speaker>||<黑屏1>:Hahahahahahahaha!+I don't see the point in fighting to such bitter end, but this is always the best!+Keep struggling. When your despair is at its ripest, I'll savor you one bite at a time!
+TAR-21()<Speaker>TAR-21</Speaker>||:Цель покинула базу. На данный момент мы в безопасности!
+Negev()<Speaker>Negev</Speaker>||<黑屏1><BGM>BGM_Boss</BGM>:Это «Алхимик». Она очень коварная! Следите за своим окружением!
+BOSS-5(0)<Speaker>Алхимик</Speaker><通讯框>||<黑屏2><BIN>2</BIN>:Хехе... Как жаль...+Я бы могла потрепать твое прекрасное горлышко еще три секундочки.
+NEGEV(0)<Speaker>Negev</Speaker>;BOSS-5(0)||:Так это ты глушишь наш сигнал?
+NEGEV(0);BOSS-5(0)<Speaker>Алхимик</Speaker>||:Ну... Я тут ни при чем. Я просто пришла сюда, жадно вдыхая аромат свежих и нежных фруктов.+Если хочешь узнать больше... То я расскажу не спеша, пока буду кромсать ваши тела на куски!
+NEGEV(0)<Speaker>Negev</Speaker>;BOSS-5(0)||:Tavor, дымовую гранату!+Девчат, защищайте эту базу до конца! Не подпускайте солдат Сангвиса близко!+(Шепотом) Я рассчитываю на тебя, Galil...
+BOSS-5(0)<Speaker>Алхимик</Speaker>||<黑屏1>:Хахахахахахахахахаха! +Я не вижу смысла бороться до такого мучительного конца, но это все равно лучше всего! +Продолжайте бороться. Когда ваше отчаяние будет в самом разгаре, я буду наслаждаться каждым оторванным кусочком!
