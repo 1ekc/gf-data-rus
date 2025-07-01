@@ -1,20 +1,20 @@
- ()||<BGM>BGM_Empty</BGM><BIN>9</BIN>:Some time later, near the Sangvis Ferri jammer in Area S06.
-衔尾蛇()<Speaker>Ouroboros</Speaker>||<黑屏1>:Found you, 404.
-UMP9(1)<Speaker>UMP9</Speaker>||<BIN>3</BIN><Night><黑屏2><BGM>BGM_Battle</BGM>:Uwaa!
-Weaver(0)<Speaker>Ouroboros</Speaker>||:Stop hiding. Your legs...have already given up on you, haven't they?
-UMP9(1)<Speaker>UMP9</Speaker>||:Y-y-y-you're Ouroboros?!+H-h-h-h-h-how did you find me?!
-Weaver(0)<Speaker>Ouroboros</Speaker>||:Your ability to hide is no longer effective. Griffin's identification signals are all over the map now.
-UMP9(1)<Speaker>UMP9</Speaker>||:How could this be...? It was hard enough for us to escape back there, and now...
-Weaver(1)<Speaker>Ouroboros</Speaker>||<黑屏1>:Don't get me wrong, I'm actually very grateful that you survived the explosion...+What a pity it would be if I couldn't turn you into delectable corpses with my own hands!
-衔尾蛇()<Speaker>Ouroboros</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:...Damn it! This is just a dummy!+Squad 404...where are you?!!+I will find you, whether you're still alive or a corpse!+You slum rats! You radioactive worms!+I will deliver you death by a thousand cuts with my nails! I will simulate a thousand different vicious executions in your neural clouds!!
- ()||<黑屏2><BIN>1</BIN><Night><BGM>BGM_NightOPS</BGM>:Meanwhile at an area farther away from Area S06.
-UMP9(2)<Speaker>UMP9</Speaker>||:Phew...+That banshee scares me with her shrieks even from several kilometers away.
-G11(0)<Speaker>Gr G11</Speaker>;UMP9(2)||:Thank goodness she went crazy, otherwise she would've seen through your terrible acting.
-G11(0);HK416(2)<Speaker>416</Speaker>||:I thought this was supposed to be a covert operation... Do we really have to fight her?
-G11(2)<Speaker>Gr G11</Speaker>;HK416(2)||:With enemy squads everywhere, I don't think we can make a sneaky getaway...
-G11(2);UMP9(0)<Speaker>UMP9</Speaker>||:You two are a bunch of scaredy-cats. Take a leaf out of my book and just have faith in 45.
-UMP45(0)<Speaker>UMP45</Speaker>;UMP9(0)||:You can't rely on me all the time. Trusting each other is our only hope.
-UMP45(0);HK416(0)<Speaker>416</Speaker>||<黑屏1>:Quit saying things that you don't even believe in yourself. Make good use of us so we can all escape.
-UMP45(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>10</BIN>:Ouroboros is dying to chomp us down, so we cannot let her know that we're still alive.+We must first figure out where her command center is before I come up with the next step of the plan.+This will be our final objective of the entire mission so take it seriously.
-HK416(0)<Speaker>416</Speaker>||:Is that your way of encouraging us, 45?
-UMP45(0)<Speaker>UMP45</Speaker>||:No, it's my way of threatening you.+Get a move on if you want to live ♪
+ ()||<BGM>BGM_Empty</BGM><BIN>9</BIN>:Некоторое время спустя, рядом с глушилкой Сангвисс Ферри в зоне S06.
+衔尾蛇()<Speaker>Уроборос</Speaker>||<黑屏1>:Нашла тебя, 404.
+UMP9(1)<Speaker>UMP9</Speaker>||<BIN>3</BIN><Night><黑屏2><BGM>BGM_Battle</BGM>:Уваа!
+Weaver(0)<Speaker>Уроборос</Speaker>||:Хватит прятаться. Твои ноги... уже перестали тебя слушаться, не так ли?
+UMP9(1)<Speaker>UMP9</Speaker>||:Т-т-т-ты Уроборос?! К-к-к-как ты меня нашла?!
+Weaver(0)<Speaker>Уроборос</Speaker>||:Твоя способность прятаться больше не работает. Сигналы распознавания Грифона теперь работают со всеми.
+UMP9(1)<Speaker>UMP9</Speaker>||:Как это могло случиться...? Мы и так с трудом свалили оттуда, а теперь...
+Weaver(1)<Speaker>Уроборос</Speaker>||<黑屏1>:Не подумай неправильно, я очень признательна тебе за то, что ты выжила после взрыва... +Как жаль, что я не могу своими руками превратить тебя в восхитительные кусочки металла!
+衔尾蛇()<Speaker>Уроборос</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:...Проклятье! Это просто болванка! Отряд 404... где вы?!+Я найду вас, независимо от того, живы вы или сдохли!+Вы канализационные крысы! Вы радиоактивные глисты!+Я буду убивать вас тысячей порезов своими ногтями! +Я смоделирую тысячу различных зверских пыток в ваших нейронных облаках!!!
+ ()||<黑屏2><BIN>1</BIN><Night><BGM>BGM_NightOPS</BGM>:В это время в районе, удаленном от зоны S06.
+UMP9(2)<Speaker>UMP9</Speaker>||:Фух... +Эта баньши пугает меня своими воплями даже с расстояния в несколько километров.
+G11(0)<Speaker>Gr G11</Speaker>;UMP9(2)||:Слава богу, что она долбанулась, иначе она бы заметила твою ужасную игру.
+G11(0);HK416(2)<Speaker>416</Speaker>||:Я думала, это должна быть скрытая операция... Неужели нам придется сразиться с ней?
+G11(2)<Speaker>Gr G11</Speaker>;HK416(2)||:Поскольку повсюду вражеские отряды, не думаю, что нам удастся скрыться так легко...
+G11(2);UMP9(0)<Speaker>UMP9</Speaker>||:Вы двое - кучка зашуганных котят. Возьмите пример с меня и просто верьте в 45-ю.
+UMP45(0)<Speaker>UMP45</Speaker>;UMP9(0)||:Ты не должна постоянно полагаться на меня. Доверие друг к другу - наша главная надежда.
+UMP45(0);HK416(0)<Speaker>416</Speaker>||<黑屏1>:Хватит болтать о том, в то, во что ты сама не веришь. Лучше распорядись нами, чтобы мы все могли свалить.
+UMP45(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>10</BIN>:Уроборос хочет нас растерзать, поэтому нельзя дать ей понять, что мы еще живы.+Мы должны выяснить, где находится ее командный центр, прежде чем я придумаю дальнейший план.+Это будет наша последняя цель в этом задании, поэтому отнеситесь к ней серьезно.
+HK416(0)<Speaker>416</Speaker>||:Ты так нас подбадриваешь, 45-я?
+UMP45(0)<Speaker>UMP45</Speaker>||:Нет, это мой способ запугать тебя. Давай, шевелись, если хочешь жить.
