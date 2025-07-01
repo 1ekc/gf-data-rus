@@ -1,18 +1,18 @@
- ()||<BGM>BGM_War</BGM><BIN>1</BIN><Night><SE1>Battlefield</SE1>:A Griffin squad raids the Sangvis command center and is fighting head-to-head with Ouroboros.
-Weaver(2)<Speaker>Ouroboros</Speaker>||<SE2>Gunfight</SE2>:Damn it, an attack by Griffin!+They must be under the command of Squad 404... So, they're alive after all!
-？？()<Speaker>???</Speaker>||:Guess again, Ouroboros.
-OTs14(0)<Speaker>Ots-14</Speaker><通讯框>||<SE1>Battlefield</SE1>:That undignified look of distress on your face... It doesn't suit you.
-Weaver(2)<Speaker>Ouroboros</Speaker>;OTs14(0)||<SE2>Gunfight</SE2>:OTs-14, you're still alive?
-Weaver(2);OTs14(0)<Speaker>OTs14</Speaker>||:This is how life is, Ouroboros, not everything will go your way.
-Weaver(1)<Speaker>Ouroboros</Speaker>;OTs14(0)||<SE1>Battlefield</SE1>:......+You're right. Savoring your deaths without having to do any work myself isn't very likely to happen...
-Weaver(1);OTs14(0)<Speaker>OTs14</Speaker>||<SE2>Gunfight</SE2>:Your mission has already failed in that explosion. Do you still intend to fight to the death?
-Weaver(1)<Speaker>Ouroboros</Speaker>;OTs14(0)||<SE1>Battlefield</SE1>:For my self-worth and dignity... Slaves like you will not understand...
-Weaver(2)<Speaker>Ouroboros</Speaker>;OTs14(0)||<SE2>Gunfight</SE2><黑屏1>:I can destroy you and every T-Doll under Griffin's command!+Including AR Team, Squad 404, and elites like you.+I will prove to the Mastermind that I am infinitely more valuable than any jammer could ever be!
-UMP9(3)<Speaker>UMP9</Speaker>||<SE1>Battlefield</SE1><黑屏2><BIN>2</BIN><Night>:So it was OTs-14 that was with SPP-1! Helian really helped us out this time!
-HK416(0)<Speaker>416</Speaker>||<SE2>Gunfight</SE2>:So, there's our victory condition. What's the plan, 45?
-UMP45(0)<Speaker>UMP45</Speaker>||:We'll move out while she's dealing with Ouroboros's main forces.+UMP9, continue to use your dummies as bait to delay the enemies that are after us.
-UMP9(3)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:Leave it to me. I'll initiate all the simulated signals!
-UMP45(0)<Speaker>UMP45</Speaker>||<SE1>Battlefield</SE1>:416, carry Gr G11 to an elevated point at target area R13 to cover our withdrawal.
-G11(0)<Speaker>Gr G11</Speaker>||:Roger... 416, be gentle, I don't want to wake up on the way there.
-HK416(2)<Speaker>416</Speaker>||:No problem, I'll knock you out before I drag you over there.
-UMP45(0)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2><SE1>Battlefield</SE1>:After setting up Gr G11, 416 will head over to assist OTs-14. She'll be leaving with us.+We will wear out Ouroboros until we can destroy its command center.+Keep your comms open, ladies, and let's move out.
+ ()||<BGM>BGM_War</BGM><BIN>1</BIN><Night><SE1>Battlefield</SE1>:Отряд Грифона совершил набег на командный центр Сангвиса и сражается с Уроборосом лицом к лицу.
+Weaver(2)<Speaker>Уроборос</Speaker>||<SE2>Gunfight</SE2>:Чёрт, Грифон атакует! Должно быть, они в подчинении у 404-го отряда... Значит, они все-таки живы!
+？？()<Speaker>???</Speaker>||:Попробуй угадать еще раз, Уроборос.
+OTs14(0)<Speaker>Ots-14</Speaker><通讯框>||<SE1>Battlefield</SE1>:Это недовольное выражение страданий на твоем лице... Оно тебе не очень идет.
+Weaver(2)<Speaker>Уроборос</Speaker>;OTs14(0)||<SE2>Gunfight</SE2>:OTs-14, ты еще жива?
+Weaver(2);OTs14(0)<Speaker>OTs14</Speaker>||:Так уж устроена жизнь, Уроборос, не все идет по твоему сценарию.
+Weaver(1)<Speaker>Уроборос</Speaker>;OTs14(0)||<SE1>Battlefield</SE1>:......+Ты прав. Смаковать твою смерть, не прилагая никаких усилий, вряд ли получится...
+Weaver(1);OTs14(0)<Speaker>OTs14</Speaker>||<SE2>Gunfight</SE2>:Твоя миссия уже провалилась из-за этого взрыва. Ты все еще намерен сражаться до конца?
+Weaver(1)<Speaker>Уроборос</Speaker>;OTs14(0)||<SE1>Battlefield</SE1>:Ради собственной выгоды и гордости...+Такие рабы, как ты, не смогут понять...
+Weaver(2)<Speaker>Уроборос</Speaker>;OTs14(0)||<SE2>Gunfight</SE2><黑屏1>:Я могу уничтожить тебя и всех Т-Кукол под командованием Грифона, включая Команду AR, Отряд 404 и элиту вроде тебя.+Я докажу Мастеру, что я гораздо ценнее, чем любая глушилка!
+UMP9(3)<Speaker>UMP9</Speaker>||<SE1>Battlefield</SE1><黑屏2><BIN>2</BIN><Night>:Значит, это OTs-14 была с SPP-1! Хелиан действительно очень помогла нам в этот раз!
+HK416(0)<Speaker>416</Speaker>||<SE2>Gunfight</SE2>:Итак, это условие для победы. Каков план, 45-я?
+UMP45(0)<Speaker>UMP45</Speaker>||:Мы отступим, пока они будут разбираться с основными силами Уробороса.+UMP9, используй своих болванчиков в качестве приманки, чтобы задержать преследующих нас врагов.
+UMP9(3)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:Оставь это мне. Я буду передавать и имитировать все сигналы!
+UMP45(0)<Speaker>UMP45</Speaker>||<SE1>Battlefield</SE1>:416-я, отнеси Gr G11 на возвышенность в районе точки R13, чтобы прикрыть наше отступление.
+G11(0)<Speaker>Gr G11</Speaker>||:Принято... 416-я, будь нежнее, я не хочу проснуться пока ты не дойдешь.
+HK416(2)<Speaker>416</Speaker>||:Нет проблем, но я вырублю тебя, прежде чем потащу туда.
+UMP45(0)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2><SE1>Battlefield</SE1>:После подготовки Gr G11, 416-я отправится на помощь OTs-14. Она будет уходить с нами.+Мы будем изматывать Уроборос, до тех пор пока не сможем уничтожим командный пункт.+Девушки, поддерживайте связь, и давайте выдвигаться.
