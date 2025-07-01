@@ -32,28 +32,28 @@ UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>35</BIN>:Куклы Сангви�
 衔尾蛇()<Speaker>Уроборос</Speaker>||:Как ты можешь знать все это? Ты даже знаешь о приоритетности полномочий Сангвиса больше, чем я...
 UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Вообще, нет. Я попросту поставила на кон. Возможно... это страховка от Агента, чтобы удержать вас в узде.
 UMP45()<Speaker>UMP45</Speaker>||<BIN>32</BIN><黑屏2>:Чувствуешь ли ты себя проигравшей? Мы обе отказались от своих первоначальных миссий, но в итоге добились диаметрально противоположных результатов.
-衔尾蛇()<Speaker>Уроборос</Speaker>||:Я всегда хотела проявить себя, но в итоге ты меня использовала.+You...are a stain on me, 404...
-UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Sorry.+We are a stain on everyone.
-UMP45()<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:But too bad those that want to erase us and not rely on us...+...End up being erased themselves.
+衔尾蛇()<Speaker>Уроборос</Speaker>||:Я всегда хотела проявить себя, но в итоге ты меня использовала.+Ты... оставила за собой клеймо, 404...
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Извини. Мы - клеймо для всех.
+UMP45()<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:Но жаль, что те, кто хочет вычеркнуть нас и не рассчитывать на нас... +... В итоге сами оказываются выброшенными.
  ()||:...
-UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:Hey, 45, done yet?
-UMP45(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Sunshine</BGM>:It's finished. Where are the others?
-HK416(0)<通讯框><Speaker>416</Speaker>;UMP45(0)||:OTs-14 is already on her way back to HQ. I'll go retrieve Gr G11 now.
-G11(0)<通讯框><Speaker>Gr G11</Speaker>;UMP45(0)||:You're taking too long, 416... Did you forget about me...?
-HK416(0)<Speaker>416</Speaker><通讯框>;UMP45(0)||:Thank you for reminding me. I actually did forget.+Why don't you take a nap and come back by yourself later?
-HK416(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:Uwaa... Come get me... It's too cold here...
-HK416(0)<Speaker>416</Speaker>;UMP45(0)||:The mission is finally complete, but it's a bit of a shame that we weren't able to capture the jammer.
-HK416(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:416... Are you listening? Come get me...
-HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:With Ouroboros's corpse and all the intel we've gathered throughout the entire mission, I think it'll be enough to satisfy Helian.
-UMP9(3)<Speaker>UMP9</Speaker><通讯框>;UMP45(0)||:It's definitely enough. Let's get out of here before the Commander shows up~
-UMP45(0)<Speaker>UMP45</Speaker>||:Good job everyone. Let's go home.
+UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:Эй, 45-я, ты уже закончила?
+UMP45(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Sunshine</BGM>:Все сделано. Где остальные?
+HK416(0)<通讯框><Speaker>416</Speaker>;UMP45(0)||:OTs-14 уже возвращается в штаб. Я пойду за Gr G11.
+G11(0)<通讯框><Speaker>Gr G11</Speaker>;UMP45(0)||:Ты слишком долго, 416-я... Ты забыла обо мне...?
+HK416(0)<Speaker>416</Speaker><通讯框>;UMP45(0)||:Спасибо, за напоминание. Я и правда забыла.+Почему бы тебе не поспать и не прийти позже?
+HK416(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:Уваа... Забери меня... Здесь слишком холодно...
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||:Миссия наконец-то завершена, но немного жаль, что мы не смогли захватить глушилку.
+HK416(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:416-я... Ты меня слышишь? Забери меня...
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:С учетом трупа Уробороса и всех сведений, которые мы собрали за все время, думаю, этого будет достаточно, чтобы угодить Хелиан.
+UMP9(3)<Speaker>UMP9</Speaker><通讯框>;UMP45(0)||:Этого точно достаточно. Давайте-ка уберемся отсюда, пока не появился командир~
+UMP45(0)<Speaker>UMP45</Speaker>||:Все молодцы. Возвращаемся домой.
 ()||:...
-G11(2)<Speaker>Gr G11</Speaker>||:Umm...guys? Are you still there?+Don't leave me here... I wanna go home...
+G11(2)<Speaker>Gr G11</Speaker>||:Эмм... девчата? Вы еще там? Не оставляйте меня здесь... Я хочу домой...
 ()||:...
-()||<BGM>BGM_Empty</BGM>:Ten minutes after the conclusion of Griffin's Operation Cube.+In Area S06 Sangvis command center...
-梦想家()<Speaker>Мечтательница</Speaker>||<黑屏1>:Hello, anyone still here?+Heyyyy~!+Ah...everyone's gone...+Agent, they're all gone. You sure your eyes weren't playing tricks on you?
-BOSS-8(0)<Speaker>Агент</Speaker>||<BIN>34</BIN><黑屏2><BGM>BGM_Boss</BGM>:I can confirm in the video recording that Squad 404 came into contact with the jammer.+The "program" has indeed infected that Doll.+Parapluie can finally be moved on to the next phase.
-BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-8(0)||:So the entire point of this operation was to infect a T-Doll with the "program".+Having gone to such great lengths to hide it, I doubt anyone will notice...+I'm truly no match for you, Agent.
-BOSS-11(0);BOSS-8(0)<Speaker>Агент</Speaker>||:Do what you're supposed to do, unless you want to end up like Ouroboros.
-BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-8(0)||:Hehe, it was a pity that this happened with Ouroboros.+I thought she was quite promising. I didn't expect her to cause such a big racket.
-BOSS-11(0);BOSS-8(0)<Speaker>Агент</Speaker>||<黑屏1>:...The incompetent will always be destroyed by their own ignorance.+There is no need to be responsible for their failure if they cannot even reflect on this point.+The night is coming to an end. Let it all vanish to darkness.
+()||<BGM>BGM_Empty</BGM>:Через десять минут после завершения операции Грифона «Куб».+В командном пункте зоны S06 Сангвис...
+梦想家()<Speaker>Мечтательница</Speaker>||<黑屏1>:Эй, кто-нибудь еще здесь?+Эй~!+Ах... все ушли...+Агент, они все ушли. Ты уверена, что твои глазки тебя не обманывают?
+BOSS-8(0)<Speaker>Агент</Speaker>||<BIN>34</BIN><黑屏2><BGM>BGM_Boss</BGM>:Я могу показать на видеозаписи, что Отряд 404 вступил в контакт с глушилкой.+ «Программа» действительно заразила эту Куклу.+ «Параплюй» наконец-то может перейти к следующей фазе.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-8(0)||:Значит, вся суть операции заключалась в том, чтобы заразить Т-Куклу «программой»...+Приложив столько усилий, чтобы все это спрятать, я сомневаюсь, что кто-нибудь заметит...+Я действительно не сравнюсь с тобой, Агент.
+BOSS-11(0);BOSS-8(0)<Speaker>Агент</Speaker>||:Если не хочешь закончить жизнь, как Уроборос, делай то, что от тебя требуется.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-8(0)||:Жаль, что это произошло с Уроборосом.+Я считала ее весьма перспективной. Я не ожидала, что она поднимет такой шум.
+BOSS-11(0);BOSS-8(0)<Speaker>Агент</Speaker>||<黑屏1>:...Бездарных всегда погубит их собственное невежество.+Не нужно держать ответ за их провал, если они не могут даже задуматься об этом.+Ночь близится к завершению. Пусть все растворится во тьме.
