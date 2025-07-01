@@ -1,10 +1,10 @@
-()||<BIN>2</BIN><BGM>BGM_Frontline</BGM>:The AR Team arrived at the destination.
-AR(0)<Speaker>Galil</Speaker>||:Hey! Hey, AR Team! I'm over here!
-M4A1(0)<Speaker>M4A1</Speaker>||:Relax, Galil. You are safe now.
-AR(0)<Speaker>Galil</Speaker>;M4A1(0)||:Phew... Thanks a bunch. A few more minutes and Sangvis would've got me.
-AR(0);M16(3)<Speaker>M16A1</Speaker>||:Of all the places you could call for help, you just had to pick an open battlefield full of Sangvis forces...
-AR(0)<Speaker>Galil</Speaker>;M16(3)||:Well... Communication with Griffin is jammed where we got ambushed.+I ran for ages before I finally found somewhere with signal. It's not like I was spoiled for choice, you know.
-AR(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Can you explain what exactly happened?
-AR(0)<Speaker>Galil</Speaker>;SOPII(0)||:When we were investigating the base where AR-15 had stayed, Negev noticed a Sangvis Ringleader hiding in ambush.+She gestured for me to slip out and call for help while the enemy was still busy deploying her forces.+I only realized there was a signal jam when I was running out. God knows what's going on over there now...
-M16(3)<Speaker>M16A1</Speaker>;SOPII(0)||:What should we do, M4? We can't fight off a Ringleader in Sangvis territory on our own.+But we probably don't have time to retreat and ask the commander for help, right?
-M16(3);M4A1(0)<Speaker>M4A1</Speaker>||:...We split up.+M16, contact the commander and guide the troops in aiding us.+Galil, take me and SOP-II to the base. We will stir up their forces from the rear and draw some fire away from Negev.
+()||<BIN>2</BIN><BGM>BGM_Frontline</BGM>:Команда AR прибыла к месту назначения.
+AR(0)<Speaker>Galil</Speaker>||:Эй! Эй, Команда AR! Я здесь!
+M4A1(0)<Speaker>M4A1</Speaker>||:Успокойся, Галил. Сейчас ты в безопасности.
+AR(0)<Speaker>Galil</Speaker>;M4A1(0)||:Фух... Спасибо огромное. Еще несколько минут, и Сангвис бы меня достала.
+AR(0);M16(3)<Speaker>M16A1</Speaker>||:Из всех мест, где можно было запросить помощь, нужно было выбрать открытое пространство , кишащее силами Сангвиса...
+AR(0)<Speaker>Galil</Speaker>;M16(3)||:Ну... Связь с Грифоном глушится в том месте, где мы попали в засаду.+ Я бежала целую вечность, пока наконец не нашла место, где появился сигнал. + Не сказать, чтобы я был сильно искушен в выборе, знаешь ли.
+AR(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Ты можешь рассказать, что именно произошло?
+AR(0)<Speaker>Galil</Speaker>;SOPII(0)||:Когда мы исследовали базу, где остановилась AR-15, Negev заметила командира Сангвиса, сидевшего в засаде.+Она жестом велела мне выбраться и позвать на помощь, пока враг еще занят переброской своих сил.+Я поняла, что сигнал не работает, только когда уже бежала к выходу. Бог знает, что там сейчас творится...
+M16(3)<Speaker>M16A1</Speaker>;SOPII(0)||:Что нам делать, М4? Мы не можем в одиночку отбиться от командира на её же территории.+Но у нас, наверное, нет времени отступать и просить помощи у Командира, верно?
+M16(3);M4A1(0)<Speaker>M4A1</Speaker>||:...Мы разделимся.+М16, свяжись с Командиром и отправь войска на помощь нам.+Galil, отведи меня и SOP-II на базу. Мы отвлечем их силы на себя и перетянем на себя часть огня с Negev.
