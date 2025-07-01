@@ -1,6 +1,6 @@
-()||<BIN>2</BIN>:Border of T7, Area S08, several minutes later.
-M16(3)<Speaker>M16A1</Speaker>||:We're here.+This is where a member of Squad Negev sent out the distress signal.+SOP-II, test the comms.
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:Communication signal functioning as usual. We're already connected to the commander's channel.+M4, go on and call the commander.
-M4A1(0)<Speaker>M4A1</Speaker>||<BIN>10</BIN><黑点2>:It has been a while, Commander.+Negev's search team entered this zone and lost contact with us 20 minutes ago.+But we picked up a member's distress signal just now.+Our mission is to rendezvous with this member and determine the situation.
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Geez. And here I thought we finally got some help. Turns out they're only dragging us down...
-M16(0)<Speaker>M16A1</Speaker>||:If even Negev ran into trouble, we wouldn't have come off any better if it had been us.+Commander, please help us reach our destination. Thanks man.
+()||<BIN>2</BIN>:На границе сектора T7, зона S08, несколько минут спустя.
+M16(3)<Speaker>M16A1</Speaker>||:Мы прибыли.+Это место, где член отряда Negev отправил сигнал бедствия.+SOP-II, проверьте связь.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:Сигнал связи работает как обычно. Мы уже подключились к каналу Командира.+M4, вызывайте Командира.
+M4A1(0)<Speaker>M4A1</Speaker>||<BIN>10</BIN><黑点2>:Прошло немного времени, Командир.+Поисковая отряд Negev вошли в эту область и потеряла связь с нами 20 минут назад.+Но мы только что засекли сигнал бедствия одного из членов этой команды.+Наша задача - встретиться с ним и определить ситуацию.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Ну и дела. А я-то думала, что мы наконец-то получили помощь. Оказывается, они только увлекают нас за собой...
+M16(0)<Speaker>M16A1</Speaker>||:Если даже Negev попала в беду, то мы бы на ее месте не смогли выкрутиться лучше.+Командир, пожалуйста, помогите нам добраться до места назначения. Спасибо.
