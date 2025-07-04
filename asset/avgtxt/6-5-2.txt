@@ -1,33 +1,33 @@
-()||<BIN>2</BIN><BGM>BGM_Battle</BGM>:Combat over. Squad Negev safe for the time being.
-NEGEV(0)<Speaker>Negev</Speaker>||:Phew... Finally, it's over.+Thanks, Commander. We've troubled you many times already.+But this area is still filled with Sangvis forces. Don't let down your guard, guys.
-AR(0)<Speaker>Galil</Speaker>||:Hey... Has any of you seen M16?+She should've collected SOP-II long ago, right? Why isn't she back yet?
-TAR21(0)<Speaker>TAR-21</Speaker>||:She must've got information on M4 or AR-15 and didn't want us to get involved?
-NEGEV(0)<Speaker>Negev</Speaker>||:Dammit! All these rule breakers!+Turn on your comms and search for them!
-TAR21(0)<Speaker>TAR-21</Speaker>||:Sorry... I'm not reading any of their signals.+Seriously... It's so dangerous here. She should've moved out the moment she realized comms are being jammed...
+()||<BIN>2</BIN><BGM>BGM_Battle</BGM>:Сражение завершено. Отряд «Negev» пока в безопасности.
+NEGEV(0)<Speaker>Negev</Speaker>||:Фух... Наконец-то все закончилось.+Спасибо, Командир. Мы уже много раз беспокоили вас.+Но в этом районе все еще полно сил Сангвиса. Не теряйте бдительности, девчата.
+AR(0)<Speaker>Galil</Speaker>||:Эй... Кто-нибудь из вас видел М16?+Она уже давно должна была забрать SOP-II, верно? Почему она до сих пор не вернулась?
+TAR21(0)<Speaker>TAR-21</Speaker>||:Наверное, она получила информацию о M4 или AR-15 и не хотела, чтобы мы вмешивались?
+NEGEV(0)<Speaker>Negev</Speaker>||:Твою жеж! Все эти любители нарушать правила!+Включайте связь и ищите их!
+TAR21(0)<Speaker>TAR-21</Speaker>||:Извините... Я не в состоянии считать их сигналы.+Если серьезно... Здесь очень опасно. Она должна была свалить, как только поняла, что связь глушится...
 NEGEV(0)<Speaker>Negev</Speaker>||<黑屏1>:...
-Negev()<Speaker>Negev</Speaker>||<黑屏2><BIN>9</BIN>:Unless...the jam happens to be what she's after...
-()||<BGM>BGM_Truth</BGM><黑屏1>:Meanwhile...+...
-AR15()<Speaker>ST AR-15</Speaker>||<BIN>38</BIN><黑屏2>:In that case, I'm your first friend.+Argh... This sucks.
-M4A1()<Speaker>M4A1</Speaker>||:You are...AR-15?
-AR15()<Speaker>ST AR-15</Speaker>||:Oh? You know me?
-M4A1()<Speaker>M4A1</Speaker>||:Your firearm...matches the description of T-Doll AR-15's in my memory module.
-AR15()<Speaker>ST AR-15</Speaker>||:Is that so...
-M4A1()<Speaker>M4A1</Speaker>||:You do not...seem very happy?
-AR15()<Speaker>ST AR-15</Speaker>||:I'm not unhappy.+Making friends with you is the first order I was given. Displaying enthusiasm is also part of the order.
-M4A1()<Speaker>M4A1</Speaker>||:But...if you are happy, should you not smile?
-AR15()<Speaker>ST AR-15</Speaker>||:...+Then order me to smile. Give me an order, and I'll do it.
-M4A1()<Speaker>M4A1</Speaker>||:You want me to...give you an order?
-AR15()<Speaker>ST AR-15</Speaker>||:Give me an order. Order me to do whatever you want me to do.+This is your prerogative, M4A1. Everything is prepared for your sake.
+Negev()<Speaker>Negev</Speaker>||<黑屏2><BIN>9</BIN>:Если только... это не импровизация, на которую она рассчитывает...
+()||<BGM>BGM_Truth</BGM><黑屏1>:Тем временем...+...
+AR15()<Speaker>ST AR-15</Speaker>||<BIN>38</BIN><黑屏2>:Если так, значит, я твоя первая подруга.+Аргх... Это отстой.
+M4A1()<Speaker>M4A1</Speaker>||:Ты...AR-15?
+AR15()<Speaker>ST AR-15</Speaker>||:О? Ты знаешь меня?
+M4A1()<Speaker>M4A1</Speaker>||:Твое оружие... соответствует описанию Т-Куклы AR-15 в моем модуле памяти.
+AR15()<Speaker>ST AR-15</Speaker>||:Неужели...
+M4A1()<Speaker>M4A1</Speaker>||:Ты... не выглядишь довольной?
+AR15()<Speaker>ST AR-15</Speaker>||:Я не испытываю несчастья..+Сдружиться с тобой - это первый приказ, который я получила. Проявление интереса - тоже часть приказа.
+M4A1()<Speaker>M4A1</Speaker>||:НО...если ты счастлива, то почему не улыбаешься?
+AR15()<Speaker>ST AR-15</Speaker>||:...+Тогда прикажи мне улыбнуться. Прикажи и я сделаю это.
+M4A1()<Speaker>M4A1</Speaker>||:Ты хочешь...получить этот приказ?
+AR15()<Speaker>ST AR-15</Speaker>||:Отдай мне приказ. Прикажи мне сделать все, что захочешь.+Это твоя привилегия, M4A1. Все это сделано для тебя.
 M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:...
 ()||<BIN>9</BIN><黑屏2>:...
-M4A1()<Speaker>M4A1</Speaker>||:This is...my memory?
-??()<Speaker>??</Speaker>||<BGM>BGM_Brain</BGM>:Yes, M4A1 of Griffin.
-??()<Speaker>??</Speaker>||<黑屏2><BIN>16</BIN>:This is your very first memory.
-M4A1()<Speaker>M4A1</Speaker>||:Who are you?! What are you doing?!
-??()<Speaker>??</Speaker>||:Looking for the answer to the question just now.+The answer to the question...of who you really are.
-M4A1()<Speaker>M4A1</Speaker>||:I am a T-Doll under the employment of Griffin and a member of the AR Team.+Other than that, I do not know how else to answer.
-??()<Speaker>??</Speaker>||:Sure enough, the memory in your neural cloud completely mirrors that of AR-15.+But this isn't what I want. So c'mon, tell me the answer.
-M4A1()<Speaker>M4A1</Speaker>||:I told you. I do not know...
+M4A1()<Speaker>M4A1</Speaker>||:Это... мои воспоминания?
+??()<Speaker>??</Speaker>||<BGM>BGM_Brain</BGM>:Да, M4A1 из Грифона.
+??()<Speaker>??</Speaker>||<黑屏2><BIN>16</BIN>:Это твое самое первое воспоминание.
+M4A1()<Speaker>M4A1</Speaker>||:Кто ты?! Что ты делаешь?!
+??()<Speaker>??</Speaker>||:Сейчас ищу ответ на вопрос.+На вопрос... о том, кто же ты на самом деле.
+M4A1()<Speaker>M4A1</Speaker>||:Я Т-Кукла, работающая на Грифон, и участник Команды AR.+ Кроме этого, я не представляю, что еще ответить.
+??()<Speaker>??</Speaker>||:Несомненно, воспоминания в твоем нейро-облаке полностью повторяют воспоминания AR-15.+ Но это не то, что нужно. Так что давай, скажи мне ответ.
+M4A1()<Speaker>M4A1</Speaker>||:Я уже сказала тебе. Я не знаю...
 ??()<Speaker>??</Speaker>||:How can you not know the reason you were made?+Tell me! C'mon, tell me!
 M4A1()<Speaker>M4A1</Speaker>||<震屏><BIN>9</BIN>:I do not know!+I don't know the freaking answer! You jerk! Freak!+Who the hell are you?! Leave me alone!!
 ??()<Speaker>??</Speaker>||:Why are you angry?+Why can't you treat me nicely like everyone else?
