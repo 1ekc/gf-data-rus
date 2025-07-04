@@ -1,6 +1,6 @@
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||<BIN>8</BIN>:As you see, Commander, the Sangvis attack is far from over.+The T-Dolls may have started withdrawing in groups, but the battlefield is still in chaos...+Especially when we still can't determine the number of T-Dolls trapped within the jam.
-NEGEV(0)<Speaker>Negev</Speaker><通讯框>;NPC-Helian(0)||:Sorry I'm late.
-NEGEV(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:Still alive then, Negev?
-NEGEV(0)<Speaker>Negev</Speaker><通讯框>;NPC-Helian(0)||:Still got a breath left in me, but that's not enough to kill all the enemies.+A few scouts are still in the jam, as well as what's left of the AR Team.+I've pointed them to a base so they're relatively safe for now...+But that's only temporary, as the center of the jam is the heart of the Sangvis camp, which is surrounded by Sangvis units!
-NEGEV(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:Understood. Hold the base for now. We will send a carrier to get you.
-NPC-Helian(0)<Speaker>Helian</Speaker>||<黑屏1>:Commander, we need your troops to seize the sentry post in the area to clear and safeguard the course of our aircraft.+Please move with haste and ensure the safe retreat of the last batch of our T-Dolls!
+NPC-Helian(0)<Speaker>Хелиан</Speaker><通讯框>||<BIN>8</BIN>:Как видите, Командир, атака Сангвиса еще не закончена.+Т-Куклы, возможно, начали отходить отдельными группами, но на поле боя все еще царит хаос...+В особенности, когда мы до сих пор не можем определить количество Т-Кукол, запертых в ловушке.
+NEGEV(0)<Speaker>Negev</Speaker><通讯框>;NPC-Helian(0)||:Простите за опоздание.
+NEGEV(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Все ещё жива, Negev?
+NEGEV(0)<Speaker>Negev</Speaker><通讯框>;NPC-Helian(0)||:У меня еще есть второе дыхание, но этого недостаточно, чтобы уничтожить всех врагов.+ Несколько разведчиков все еще находятся в ловушке, как и то, что осталось от Команды AR.+ Я отправила их на базу, так что пока они в относительной безопасности...+ Но это временно, так как центр ловушки - это центр лагеря Сангвиса, который окружен их подразделениями!
+NEGEV(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Понятно. Пока удерживайте позицию. Мы пришлем за вами транспортер.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||<黑屏1>:Командир, нам нужны ваши отряды, чтобы захватить сторожевой пост в этом районе, и защитить маршрут нашего транспорта.+Пожалуйста, двигайтесь с максимальной эффективностью и обеспечьте безопасное отступление последней группы наших Т-Кукол!
