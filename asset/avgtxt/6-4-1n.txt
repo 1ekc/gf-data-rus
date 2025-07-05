@@ -1,39 +1,39 @@
- ()||<BGM>BGM_Empty</BGM><Night><BIN>3</BIN>:Twenty minutes later, the remaining members of Team FF rendezvous at the temporary outpost.
-FN57(0)<Speaker>Five-seven</Speaker>||:FF FNC still hasn't returned with T91?
-FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:Let's wait just a bit longer... She said she'd be here in ten minutes max. +And I'm sorry, 57, but to be honest... +I'm not entirely sure...whether our targets are actually safe at the moment...
-FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:I know, but don't worry about things that haven't happened yet. We should focus on the task at hand. +Oh right. Mark down all the locations T91 mentioned before and prepare a report for our next correspondence with the Commander.
-FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:Already on it. We've...run into this kind of situation a lot.
-FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Well done, 49. You really ARE experienced. +Once they've confirmed the final location, we'll be off. +The night is almost over. It's game over if we alert the main forces of S.F. again.
-FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||<BGM>BGM_Sad</BGM>:I envy you, 57. You're unexpectedly chill even now.
-FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:It's just that I'm a sore loser. It's clearly something I can do. I don't want to give up just like that.
-FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:Haha, how reliable. Sometimes I think you're also a suitable candidate for the position of team leader...
-FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Are you serious? Well, not that I disagree... +Besides, FAL's careless and frivolous ways don't really sit well with me.
-FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:But Team FF wouldn't have achieved so much without the support you have for each other, right?
-FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Oh? What makes you think so?
-FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:I have a feeling that I'm only doing better than I usually do precisely because FAL is the leader... +Because she fills in the missing piece of my neural cloud...the piece that I yearn for so badly but can never possess. +Could that also be the case for you, 57?
-FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Humph... +You may be all meek and demure, but you actually have quite a lot to say, don't you?
-FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:(Chuckles) I'm sorry. I've said too much. +Besides...I know full well that I won't ever participate in Team FF's operations again after this one...
-FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Do you like Team FF, 49? Would you like to keep working with us?
-FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:Of course I'd love to experience more interesting things. But a T-Doll like me is hardly qualified...
-FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Heheh, rein in that self-consciousness, 49. You're the one to decide whether you're qualified.
- ()||:Five-seven rests a hand on FF FN49's shoulder.
-FN57(0)<Speaker>Five-seven</Speaker>||:Not to mention, our recruitment policy isn't based on whether you're qualified, but whether we need you. +Think about living through the night first. I'll see what I can do for you and FF FNC afterwards.
-FNFNC(0)<Speaker>FF FNC</Speaker>||<BGM>BGM_Empty</BGM>:Hey, we're back! Are you ready? +The last location was a bit hard to find, but thanks to T91, all locations have been confirmed!
-T91(0)<Speaker>T91</Speaker><通讯框>||:Don't mention it. I'm very glad my experience from the time I spent in hiding proves useful. However... +I've lost my weapon in my previous battle and all my energy is pretty much spent. +I'm afraid you're on your own from now on.
-FN57(0)<Speaker>Five-seven</Speaker>;T91(0)||<BGM>BGM_Sneak</BGM>:No problem, T91. Merci beaucoup. We're extremely fortunate to have run into you tonight.
-FN57(0);T91(0)<Speaker>T91</Speaker>||:I don't think it's a matter of fortune. +I couldn't have escaped if it weren't for a companion on our team.
-FN57(0)<Speaker>Five-seven</Speaker>;T91(0)||:Oh? Who is she? What happened?
-FN57(0);T91(0)<Speaker>T91</Speaker>||:Well... +Don't worry about it. It doesn't matter now. It's just that I want to thank her in person. +So please, get everyone out!
-FN57(0)<Speaker>Five-seven</Speaker>||:We will, T91. Thanks for all your hard work. Take a proper rest. +49, FF FNC, report everything we've learned to the Commander and come back with a battle plan ASAP. +I'm gonna make some adjustment on my command module to maximize my efficiency in leading this operation.
-FNFNC(0)<Speaker>FF FNC</Speaker>||:Will FAL...be okay?
-FN57(0)<Speaker>Five-seven</Speaker>||<黑屏1>:Don't think about unnecessary things. We just have to complete the mission she's assigned us. +Get ready and let's go.
-()||<黑屏2><BIN>9</BIN>:Five minutes later.
-FNFNC()<Speaker>FF FNC</Speaker>||:Commander! Commander! Commander!!
-FN49()<Speaker>FF FN49</Speaker>||:Hey, don't scare the Commander.
-FNFNC()<Speaker>FF FNC</Speaker>||:Is this really the time to worry about such things?! +Commander-der-der-der-der-der-der-der-der!!!
-FN49()<Speaker>FF FN49</Speaker>||:Why are you stuttering, FF FNC...?
-FNFNC()<Speaker>FF FNC</Speaker>||:Quoi?! It was just an echo! +See? That woke the Commander!
-FN49()<Speaker>FF FN49</Speaker>||:I don't think it's because of the echo...
+ ()||<BGM>BGM_Empty</BGM><Night><BIN>3</BIN>:Двадцать минут спустя оставшиеся члены команды FF встретились на временном аванпосте.
+FN57(0)<Speaker>Five-seven</Speaker>||:FF FNC все еще не вернулась с T91?
+FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:Давайте подождем еще немного... Она сказала, что будет здесь максимум через десять минут. +Извините, 57-я, но, честно говоря... +Я не совсем уверена... что наши объекты сейчас в безопасности...
+FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Я знаю, но не стоит беспокоиться о том, что еще не произошло. Мы должны сконцентрироваться на текущей задаче. +Хорошо. Отметьте все места, о которых рассказывала Т91, и подготовьте отчет для нашей следующей связи с Командиром.
+FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:Уже занимаюсь этим. Мы... часто сталкиваемся с подобными обстоятельствами.
+FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Молодец, 49-я. Ты действительно опытна. +Как только они подтвердят окончательное местоположение, мы отправимся в путь. +Ночь почти закончилась. Если мы снова потревожим основные силы С.Ф., игра будет окончена.
+FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||<BGM>BGM_Sad</BGM>:Я завидую тебе, 57-я. Ты даже сейчас выглядишь неожиданно невозмутимым.
+FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Просто я - обиженная неудачница. Видимо, это то, что я могу попробовать сделать. Я не хочу сдаваться вот так просто.
+FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:Хаха, как убедительно. Иногда мне кажется, что ты тоже подходишь на роль лидера команды...
+FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Ты серьезно? Ну, не то чтобы я была не согласна... +К тому же, беспечность и несерьезность FAL мне не по душе.
+FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:Но команда FF не добилась бы столь многого без поддержки, которую вы оказываете друг другу, верно?
+FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:О? С чего ты это взяла?
+FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:У меня такое чувство, что я делаю все лучше, чем обычно, только потому, что FAL - лидер... +Потому что она заполняет недостающую часть моего нейронного облака... часть, которой я так жажду, но никогда не смогу обладать. +Может быть, это касается и тебя, 57-я?
+FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Хмф... +Может, ты такая скромная и сдержанная, но на самом деле тебе есть что сказать?
+FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:(Хихиканье) Простите. Я сказала слишком многое. +К тому же... я прекрасно знаю, что после этой операции я больше никогда не буду участвовать в операциях команды FF...
+FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Тебе нравится команда FF, 49-я? Хочешь ли и дальше работать с нами?
+FN49(0)<Speaker>FF FN49</Speaker>;FN57(0)||:Конечно, я бы с удовольствием испытала более интересные вещи. Но такая Т-Кукла, как я, вряд ли подходит для этого...
+FN49(0);FN57(0)<Speaker>Five-seven</Speaker>||:Хехе, попридержие свое самомнение, 49-я. Только тебе решать, насколько ты компетентна.
+ ()||:Five-seven кладет руку на плечо FF FN49.
+FN57(0)<Speaker>Five-seven</Speaker>||:Не говоря уже о том, что наша политика найма основана не на том, насколько ты компетентна, а на том, нужна ли ты нам. +Сначала подумай о том, как пережить эту ночь. Я посмотрю, что смогу сделать для тебя и FF FNC после этого.
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BGM>BGM_Empty</BGM>:Эй, мы вернулись! Вы готовы? +Прошлую точку было трудно найти, но благодаря T91 все позиции были подтверждены!
+T91(0)<Speaker>T91</Speaker><通讯框>||:Не стоит об этом. Я очень рада, что мой опыт, полученный за то время, что я провела в подполье, оказался полезным. Однако... +Я потеряла оружие в предыдущей битве, и вся моя энергия практически израсходована. +Боюсь, отныне вы сами по себе.
+FN57(0)<Speaker>Five-seven</Speaker>;T91(0)||<BGM>BGM_Sneak</BGM>:Без проблем, Т91. Мерси. Нам очень повезло, что мы встретились с тобой сегодня.
+FN57(0);T91(0)<Speaker>T91</Speaker>||:Я не думаю, что это зависит от судьбы. +Я бы не смог сбежать, если бы не спутница из своей команды.
+FN57(0)<Speaker>Five-seven</Speaker>;T91(0)||:О? Кто она? Что случилось?
+FN57(0);T91(0)<Speaker>T91</Speaker>||:Ну... +Не волнуйся об этом. Сейчас это не имеет значения. Просто я хочу поблагодарить ее лично. +Так что, пожалуйста, вытаскивайте всех!
+FN57(0)<Speaker>Five-seven</Speaker>||:Так и сделаем, Т91. Спасибо за проделанную работу. Хорошенько отдохни. +49-я, FF FNC, доложите Командиру обо всем, что мы узнали, и как можно скорее возвращайтесь с разработанным планом сражения. +Я собираюсь внести некоторые изменения в свой командный модуль, чтобы максимально эффективно руководить этой операцией.
+FNFNC(0)<Speaker>FF FNC</Speaker>||:С FAL... все будет в порядке?
+FN57(0)<Speaker>Five-seven</Speaker>||<黑屏1>:Не стоит об этом думать. Мы просто должны выполнить задание, которое она нам поручила. +Собирайтесь и пойдемте.
+()||<黑屏2><BIN>9</BIN>:Пять минут спустя.
+FNFNC()<Speaker>FF FNC</Speaker>||:Командир! Командир! Командир!!!
+FN49()<Speaker>FF FN49</Speaker>||:Эй, не напугай Командира.
+FNFNC()<Speaker>FF FNC</Speaker>||:Неужели сейчас самое время беспокоиться о таких вещах?! +Командир-дир-дир-дир-дир-дир-дир-дир-дир!!!
+FN49()<Speaker>FF FN49</Speaker>||:Почему ты заикаешься, FF FNC...?
+FNFNC()<Speaker>FF FNC</Speaker>||:Что?! Это было просто эхо! +Видишь? Оно разбудило Командира!
+FN49()<Speaker>FF FN49</Speaker>||:Я не думаю, что это из-за эха...
 ()||<黑屏1>:...
-FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>10</BIN><黑屏2>:Commander! Got enough sleep? We're about to set off! +We've finished compiling all the locations where missing T-Dolls are being held captive through an infiltration. +Now our objective is to rescue them as quickly as possible, Commander, and that depends on you! +Heheh, you've worked all night with us. To show my gratitude, I'm inviting you to join my next chocolate party!
-FN49()<Speaker>FF FN49</Speaker>||:Umm...Commander... +I beg you to reconsider participating in a party that only involves watching FF FNC wolf things down... +Anyway, thank you for being with us tonight... +We are all set. Please give your final order for the night!
+FNFNC(0)<Speaker>FF FNC</Speaker>||<BIN>10</BIN><黑屏2>:Командир! Выспались? Мы собираемся в путь! +Мы закончили собирать информацию обо всех местах, где содержатся в плену пропавшие Т-Куклы, благодаря разведке. +Теперь наша задача - спасти их как можно быстрее, Командир, и это зависит от вас! +Хехе, вы работали с нами всю ночь. Чтобы выразить свою благодарность, я приглашаю вас на мою следующую шоколадную вечеринку!
+FN49()<Speaker>FF FN49</Speaker>||:Эмм... Командир... +Я прошу вас пересмотреть свое участие в вечеринке, которая включает в себя только наблюдение за тем, как FF FNC волком вылизывает предметы... +В любом случае, спасибо, что были с нами сегодня... +У нас все готово. Пожалуйста, отдайте последний приказ на эту ночь!
