@@ -1,50 +1,50 @@
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:Three hours after mobilization.
-FN57()<Speaker>Five-seven</Speaker>||:FAL... +That bitch... How dare she leave me at a godforsaken place like this... +It's wet and cold, and the wind is blowing sand all over my shoulders... +Arghhhhh screw everything! That tasteless and tyrannical witch! How could she do this to me?! +One day...one day, I'll take the position of team leader from her and teach her a lesson! +Calm down, 57, calm down... +I can't take this anymore. I'll just calmly make another suggestion to FAL... +Stay strong, 57. Keep up your reputation and be nice to FF FNC and FF FN49... +Right...I must also pull the Commander to my side and make a good impression...
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:Через три часа после перемещения.
+FN57()<Speaker>Five-seven</Speaker>||:FAL... +Эта сука... Как она посмела бросить меня в таком богом забытом месте... +Здесь влажно и холодно, а ветер раздувает песок по моим волосам... +Архххх к черту все! Эта мерзкая и тираничная ведьма! Как она могла так поступить со мной?! +Однажды... однажды я отниму у нее пост лидера команды и проучу ее! +Фух... успокойся, 57-я, успокойся... +Я больше так не смогу. Я только спокойно сделаю еще одно предложение FAL... +Держись, 57-я. Сохрани свою репутацию и будь приветлива с FF FNC и FF FN49... +Правильно... Я также должна перетянуть Командира на свою сторону и произвести хорошее впечатление...
 ()||:...
-FN57()<Speaker>Five-seven</Speaker>||<黑屏1>:Huh? You're still here, Commander?
-FN57(0)<Speaker>Five-seven</Speaker>||<BIN>3</BIN><Night><黑屏2>:Ah...right. It was I who asked you not to wander off... +I'm okay. Just a teeny-tiny complaint about the cold... +Oh, now that you mentioned it, Commander, I didn't even realize how long I've actually been hanging around here. +Thank you for your concern. I'll contact FAL now and ask for further directives.
-()||:Five-seven walks over to a spot where she can't be overheard and calls FAL.
-FN57(0)<Speaker>Five-seven</Speaker>||<BGM>BGM_Sneak</BGM>:FAL. +Haven't we waited long enough? Alchemist wont' be coming.
-FAL(0)<Speaker>FAL</Speaker><通讯框>;FN57(0)||:Already at your limit?
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:I'm just making a suggestion. I personally don't mind waiting a bit longer...
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Come off it. Look at yourself. How are you different than the newbies?
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Quoi?
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:You're not speaking your mind, are you, 57?
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:... +I've never tried to hide my thoughts, FAL. I'm just politely pointing out that you won't be the team leader forever.
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Perhaps, 57. You know we're a freshly formed team, and I do make mistakes... +Perhaps this time...
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Oh? What's happening? Not every day that you admit your mistakes. +Are you admitting that it was wrong to leave your trusty adjutant to rot in a wasteland for three hours?
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:That, and what I did to the newbies, as well as what's going to happen... +But it can't be helped, 57. I simply love trying to do what other T-Dolls can't.
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:I know. This is exactly why we're always put on all those bizarre cases. +But you've really gone too far. Helian will not look kindly on an operation where subordinates are left for dead.
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:I'm not doing this to leave you for dead, 57. +Judging by Alchemist's disposition and the report we received, she won't target just any regular T-Doll. +Which leads me to believe that her target has probably been me all along.
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Is this really the moment for such narcissism, FAL?
-FN57(0)<Speaker>Five-seven</Speaker>||<黑屏1>:But...if that's the case, then your plan is to...
-FAL()<Speaker>FAL</Speaker>||<黑屏2><BIN>9</BIN>:That's right, 57. I'll be the final bait.
-FN57()<Speaker>Five-seven</Speaker>||:... +That's the mistake you're admitting?
-FAL()<Speaker>FAL</Speaker>||:Just preparing myself for the unexpected.
-FN57()<Speaker>Five-seven</Speaker>||:... +This won't do! It's too risky! What are we gonna do if you get caught?!
-FAL()<Speaker>FAL</Speaker>||:Non, this is the safest way. This is the best opportunity to rescue the captured T-Dolls. +As for our team, that depends on you, 57...
-FN57()<Speaker>Five-seven</Speaker>||:Me...?
-()||:Click.
-FAL()<Speaker>FAL</Speaker>||:57, I hereby hand over all authorizations of the team leader of Team FF to you. +Isn't this what you've always wanted?
-FN57()<Speaker>Five-seven</Speaker>||:So you want to just die and dump all your responsibilities on me?!
-FAL()<Speaker>FAL</Speaker>||:I did NOT say that. However, if I'm ever compromised, you're the only one who can keep Team FF operating. +You have the patience that I'll never hope to possess. +FF FNC and FF FN49 also have strong points that you don't. Make good use of them.
-FN57()<Speaker>Five-seven</Speaker>||:This is happening way too fast, FAL. I'm not ready yet.
-FAL()<Speaker>FAL</Speaker>||:We never are. Hurry, 57, while there's still time...
-()||<BGM>BGM_Empty</BGM>:At that moment, the door opens behind FAL.
-FAL()<Speaker>FAL</Speaker>||<黑屏1>:And do something you've never done before. Au revoir.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||<黑屏2>:Griffin's door lock really is a bit underwhelming. +Though I did think it could be a trap when I saw this outpost is practically empty.
-FAL(0)<Speaker>FAL</Speaker>||:But you came in anyway.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:Just so I can watch you put up a fight, but in the end...you haven't even prepared a welcoming party for me, FAL.
-FAL(0)<Speaker>FAL</Speaker>||:Sorry to disappoint, Alchemist. +It just so happened that I've sent off all my subordinates on errands and inadvertently left myself defenseless against you.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:Humph, perhaps we're the same kind of Doll. We have all the time to confirm this. +You won't resist, I trust? After all, Griffin's firepower can't hope to measure up to me in a one-to-one.
-FAL(0)<Speaker>FAL</Speaker>||:Then what exactly are you going to do, Alchemist? Where's your weapon? Aren't you going to load it?
-()||:Alchemist walks slowly into the room and puts her weapon down on the table.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:To be honest, FAL, I don't like guns. +They're too quick. They don't give me time to fully taste all the intricate emotions from your kind. +I want to take it slow. One should make the most out of what they enjoy, right?
-()||:Alchemist drags a chair over from the table and sits down cross-legged.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||<BGM>BGM_Boss</BGM>:Sit, FAL, and let's have a chat. +If I find you interesting, I might let you live.
-FAL(0)<Speaker>FAL</Speaker>||:Is that what you do to your other prey?
-BOSS-5(0)<Speaker>Alchemist</Speaker>;FAL(0)||:You'll find out after your friends rescue them, won't you?
+FN57()<Speaker>Five-seven</Speaker>||<黑屏1>:А? Вы все еще здесь, Командир?
+FN57(0)<Speaker>Five-seven</Speaker>||<BIN>3</BIN><Night><黑屏2>:А... точно. Это же я попросила тебя не отключаться... +Я в порядке. Только маленькая претензия к холоду... +Командир, я даже не знаю, как давно я здесь. +Спасибо за заботу. Я сейчас же свяжусь с FAL и попрошу дальнейших указаний.
+()||:Five-seven подходит к месту, где ее не могут подслушать, и вызывает FAL.
+FN57(0)<Speaker>Five-seven</Speaker>||<BGM>BGM_Sneak</BGM>:FAL. +Не ужели мы так долго прождали? Алхимик не придет.
+FAL(0)<Speaker>FAL</Speaker><通讯框>;FN57(0)||:Ты уже достигла своего лимита?
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Я просто делаю предложение. Лично я не против подождать еще немного...
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Перестань. Взгляни на себя. Чем ты отличаешься от новичков?
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Я?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Ты ведь говоришь не свои мысли, 57-я?
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:... +Я никогда не пыталась скрыть свои мысли, FAL. Я просто вежливо указываю на то, что ты не будешь лидером команды вечно.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Возможно, 57-я. Ты же знаешь, мы только что созданная команда, и я действительно совершаю ошибки... +Возможно, в этот раз...
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:О? Что случилось? Не каждый день ты признаешь свои ошибки. +Ты согласна с тем, что было неправильно оставить своего верного адъютанта гнить в пустоши на три часа?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Это и то, что я сделала с новичками, а также то, что произойдёт... +Но уже ничего не поделаешь, 57-я. Мне просто нравится делать то, что не могут другие Т-Куклы.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Я знаю. Именно поэтому нам всегда поручают все эти странные дела. +Но ты зашла слишком далеко. Хелиан не будет снисходительно смотреть на операции, в которых подчиненных оставляют умирать.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Я делаю это не для того, чтобы бросить тебя умирать, 57-я. +Судя по поведению Алхимика и полученному нами отчету, она не станет нападать на обычную Т-Куклу. +А это наводит меня на мысль, что ее целью, скорее всего, все это время была я.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Сейчас действительно подходящий момент для самолюбования, FAL?
+FN57(0)<Speaker>Five-seven</Speaker>||<黑屏1>:Но... если это и так, то твой план состоит в том, чтобы...
+FAL()<Speaker>FAL</Speaker>||<黑屏2><BIN>9</BIN>:Верно, 57-я. Я буду финальной приманкой.
+FN57()<Speaker>Five-seven</Speaker>||:... +Это и есть та ошибка, которую ты признаешь?
+FAL()<Speaker>FAL</Speaker>||:Просто готовлюсь к любым неожиданностям.
+FN57()<Speaker>Five-seven</Speaker>||:... +Так не пойдет! Это слишком рискованно! Что мы будем делать, если тебя поймают?!
+FAL()<Speaker>FAL</Speaker>||:Нет, это самый безопасный способ. Это лучшая возможность спасти пойманных Т-Кукол. +Что касается нашей команды, то это зависит от тебя, 57-я...
+FN57()<Speaker>Five-seven</Speaker>||:От меня...?
+()||:Клик.
+FAL()<Speaker>FAL</Speaker>||:57-я, все полномочия лидера команды FF я передаю тебе. +Разве это не то, чего ты всегда хотела?
+FN57()<Speaker>Five-seven</Speaker>||:Значит, ты хочешь просто умереть и свалить все свои обязанности на меня?!
+FAL()<Speaker>FAL</Speaker>||:Я НЕ говорила этого. Однако, если меня когда-нибудь уничтожат, ты единственная, кто сможет сохранить команду FF в работоспособном состоянии. +У тебя есть терпение, которого мне не занимать. +У FF FNC и FF FN49 тоже есть сильные стороны, которых нет у тебя. Используй их с пользой.
+FN57()<Speaker>Five-seven</Speaker>||:Все происходит слишком быстро, FAL. Я еще не готова.
+FAL()<Speaker>FAL</Speaker>||:Мы никогда не будем готовы. Поторопись, 57-я, пока еще есть время...
+()||<BGM>BGM_Empty</BGM>:В этот момент за FAL открывается дверь.
+FAL()<Speaker>FAL</Speaker>||<黑屏1>:И делайте то, чего никогда не делала раньше. Оревуар.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||<黑屏2>:Замок на двери у Грифона и впрямь не очень удачный. +Хотя я подумала, что это может быть ловушка, когда увидела, что форпост практически пуст.
+FAL(0)<Speaker>FAL</Speaker>||:Но ты все равно пришла.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Просто чтобы посмотреть, как ты будешь сопротивляться, но в итоге... ты даже не подготовила для меня приветствие, FAL.
+FAL(0)<Speaker>FAL</Speaker>||:Прости, что разочаровываю, Алхимик. +Так получилось, что я разослала всех своих подчиненных по поручениям и нечаянно оставила себя беззащитной против тебя.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Хмф, возможно, мы - одинаковые куклы. У нас есть все время, чтобы это подтвердить. +Надеюсь, ты не станешь сопротивляться? В конце концов, огневая мощь Грифона не может сравниться со мной в бою один на один.
+FAL(0)<Speaker>FAL</Speaker>||:И что же ты собираешься делать, Алхимик? Где твое оружие? Разве ты не собираешься его зарядить?
+()||:Алхимик медленно входит в комнату и кладет оружие на стол.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Честно говоря, FAL, я не люблю пистолеты. +Они слишком быстро действуют. И не дают мне в полной мере ощутить все сложные эмоции твоего лица. +Я хочу не спешить. Человек должен получать максимум удовольствия от того, что ему нравится, верно?
+()||:Алхимик подтащила стул поближе к столу и уселась, скрестив ноги.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||<BGM>BGM_Boss</BGM>:Садись, FAL, и давай поболтаем. +Если ты покажешься мне интересной, я, возможно, оставлю тебя в живых.
+FAL(0)<Speaker>FAL</Speaker>||:Вот что ты делаешь со своей очередной добычей?
+BOSS-5(0)<Speaker>Алхимик</Speaker>;FAL(0)||:Ты ведь узнаешь об этом только после того, как твои друзья спасут их, не так ли?
 BOSS-5(0);FAL(0)<Speaker>FAL</Speaker>||:...
-BOSS-5(0)<Speaker>Alchemist</Speaker>||<黑屏1>:I know what you're planning, but I don't care. +They'll have to do their utmost best and pray for good luck if they want to get away from the dummies and subordinates I've left there. +But don't worry about them. We should focus on enjoying ourselves.
-炼金术士()<Speaker>Alchemist</Speaker>||<黑屏2>:Now, I'm gonna start first. +FAL...do you like shoes?
-FAL()<Speaker>FAL</Speaker>||<黑屏1>:... +You have the right person, Alchemist.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||<黑屏1>:Я знаю, что ты задумала, но мне все равно. +Им придется приложить максимум усилий и молиться об удаче, если они хотят скрыться от болванчиков и подопечных, которых я там оставила. +Но не стоит о них беспокоиться. Мы должны сосредоточиться на получении удовольствия.
+炼金术士()<Speaker>Алхимик</Speaker>||<黑屏2>:Итак, я начну первой. +FAL... ты любишь обувь?
+FAL()<Speaker>FAL</Speaker>||<黑屏1>:... +Ты нашла подходящего собеседника, Алхимик.
