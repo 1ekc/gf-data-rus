@@ -1042,7 +1042,7 @@
     scripts: 7-1-1,7-1-2
     campaign: 7
     bgm: BGM_Frontline
-    title: New Job
+    title: Новая работа
     is_util: 1
     start: 7-1-1
     first: 7-1-2
@@ -1055,7 +1055,7 @@
     scripts: 7-2-1,7-2-2
     campaign: 7
     bgm: BGM_Frontline
-    title: Sabotage
+    title: Саботаж
     is_util: 1
     start: 7-2-1
     first: 7-2-2
@@ -1068,7 +1068,7 @@
     scripts: 7-3-1,7-3-2
     campaign: 7
     bgm: BGM_Frontline
-    title: Daily Patrols
+    title: Ежедневный патруль
     is_util: 1
     start: 7-3-1
     first: 7-3-2
@@ -1081,7 +1081,7 @@
     scripts: 7-4-1,7-4-2
     campaign: 7
     bgm: BGM_Frontline
-    title: Ambush
+    title: Засада
     is_util: 1
     start: 7-4-1
     first: 7-4-2
@@ -1094,7 +1094,7 @@
     scripts: 7-5-1,7-5-2
     campaign: 7
     bgm: BGM_Frontline
-    title: Cat and Mouse
+    title: Кошка и Мышка
     is_util: 1
     start: 7-5-1
     first: 7-5-2
@@ -1107,7 +1107,7 @@
     scripts: 7-6-1,7-6-2
     campaign: 7
     bgm: BGM_Frontline
-    title: Reunion
+    title: Воссоединение
     is_util: 1
     start: 7-6-1
     first: 7-6-2
@@ -1120,7 +1120,7 @@
     scripts: 7-1-1E,7-1-2E
     campaign: 7
     bgm: BGM_Frontline
-    title: Retrieval I
+    title: Поиск I
     is_util: 1
     start: 7-1-1E
     first: 7-1-2E
@@ -1133,7 +1133,7 @@
     scripts: 7-2-1E,7-2-2E
     campaign: 7
     bgm: BGM_Frontline
-    title: Retrieval II
+    title: Поиск II
     is_util: 1
     start: 7-2-1E
     first: 7-2-2E
@@ -1146,7 +1146,7 @@
     scripts: 7-3-1E,7-3-2E
     campaign: 7
     bgm: BGM_Frontline
-    title: Retrieval III
+    title: Поиск III
     is_util: 1
     start: 7-3-1E
     first: 7-3-2E
@@ -1159,7 +1159,7 @@
     scripts: 7-4-1E,7-4-2E
     campaign: 7
     bgm: BGM_Frontline
-    title: Retrieval IV
+    title: Поиск IV
     is_util: 1
     start: 7-4-1E
     first: 7-4-2E
@@ -1172,7 +1172,7 @@
     scripts: 5-1-1N,5-1-2N
     campaign: 5
     bgm: BGM_Frontline
-    title: Peculiar Vendor I
+    title: Особый поставщик I
     is_util: 1
     start: 5-1-1N
     first: 5-1-2N
@@ -1185,7 +1185,7 @@
     scripts: 5-2-1N,5-2-2N
     campaign: 5
     bgm: BGM_Frontline
-    title: Peculiar Vendor II
+    title: Особый поставщик II
     is_util: 1
     start: 5-2-1N
     first: 5-2-2N
@@ -1198,7 +1198,7 @@
     scripts: 5-3-1N,5-3-2N
     campaign: 5
     bgm: BGM_Frontline
-    title: Peculiar Vendor III
+    title: Особый поставщик III
     is_util: 1
     start: 5-3-1N
     first: 5-3-2N
@@ -1211,7 +1211,7 @@
     scripts: 5-4-1N,5-4-2N
     campaign: 5
     bgm: BGM_Frontline
-    title: Peculiar Vendor IV
+    title: Особый поставщик IV
     is_util: 1
     start: 5-4-1N
     first: 5-4-2N
@@ -1224,7 +1224,7 @@
     scripts: -1-1-1,-1-1-2
     campaign: -1
     bgm: BGM_Frontline
-    title: Seven-Step Puzzle
+    title: Семиступенчатая головоломка
     is_util: 1
     start: -1-1-1
     first: -1-1-2
@@ -1237,7 +1237,7 @@
     scripts: -1-2-1,-1-2-2First,-1-2-2End
     campaign: -1
     bgm: BGM_Frontline
-    title: Corner Breaker
+    title: Угловой выключатель
     is_util: 1
     start: -1-2-1
     first: -1-2-2First
@@ -1250,7 +1250,7 @@
     scripts: -1-3-1,-1-3-2First,-1-3-2End
     campaign: -1
     bgm: BGM_Frontline
-    title: Layer Reversal
+    title: Обратный слой
     is_util: 1
     start: -1-3-1
     first: -1-3-2First
@@ -1263,7 +1263,7 @@
     scripts: -1-4-1,-1-4-2First,-1-4-2End
     campaign: -1
     bgm: BGM_Frontline
-    title: Side Collapse
+    title: Побочный распад
     is_util: 1
     start: -1-4-1
     first: -1-4-2First
@@ -1622,7 +1622,7 @@
     scripts: 6-1-1N,6-1-2N
     campaign: 6
     bgm: BGM_Frontline
-    title: People in the Flask I
+    title: Люди в аквариуме I
     is_util: 1
     start: 6-1-1N
     first: 6-1-2N
@@ -1635,7 +1635,7 @@
     scripts: 6-2-1N,6-2-2N
     campaign: 6
     bgm: BGM_Frontline
-    title: People in the Flask II
+    title: Люди в аквариуме II
     is_util: 1
     start: 6-2-1N
     first: 6-2-2N
@@ -1648,7 +1648,7 @@
     scripts: 6-3-1N,6-3-2N
     campaign: 6
     bgm: BGM_Frontline
-    title: People in the Flask III
+    title: Люди в аквариуме III
     is_util: 1
     start: 6-3-1N
     first: 6-3-2N
@@ -1661,7 +1661,7 @@
     scripts: 6-4-1N,6-4-2N
     campaign: 6
     bgm: BGM_Frontline
-    title: People in the Flask IV
+    title: Люди в аквариуме IV
     is_util: 1
     start: 6-4-1N
     first: 6-4-2N
@@ -2101,7 +2101,7 @@
     scripts: 7-1-1N,7-1-2N
     campaign: 7
     bgm: BGM_Frontline
-    title: One-Sided Memory I
+    title: Одностороннее воспоминание I
     is_util: 1
     start: 7-1-1N
     first: 7-1-2N
@@ -2114,7 +2114,7 @@
     scripts: 7-2-1N,7-2-2N
     campaign: 7
     bgm: BGM_Frontline
-    title: One-Sided Memory II
+    title: Одностороннее воспоминание II
     is_util: 1
     start: 7-2-1N
     first: 7-2-2N
@@ -2127,7 +2127,7 @@
     scripts: 7-3-1N,7-3-2N
     campaign: 7
     bgm: BGM_Frontline
-    title: One-Sided Memory III
+    title: Одностороннее воспоминание III
     is_util: 1
     start: 7-3-1N
     first: 7-3-2N
@@ -2140,7 +2140,7 @@
     scripts: 7-4-1N,7-4-2N
     campaign: 7
     bgm: BGM_Frontline
-    title: One-Sided Memory IV
+    title: Одностороннее воспоминание IV
     is_util: 1
     start: 7-4-1N
     first: 7-4-2N
