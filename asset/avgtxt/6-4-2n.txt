@@ -1,62 +1,62 @@
- ()||<BGM>BGM_Empty</BGM><BIN>9</BIN>:Ten minutes after the operation concludes. +Click. +Click. +Click.
-炼金术士()<Speaker>Alchemist</Speaker>||:Your teammates?
-FAL()<Speaker>FAL</Speaker>||:Oui.
-炼金术士()<Speaker>Alchemist</Speaker>||:Feel free to pick it up.
-FAL()<Speaker>FAL</Speaker>||:No need. +They wouldn't dare contact me if they had failed.
-炼金术士()<Speaker>Alchemist</Speaker>||:Humph...
-BOSS-5(0)<Speaker>Alchemist</Speaker>||<BGM>BGM_Brain</BGM>:You know what, FAL? +That was the only interesting thing you've said all night.
-FAL(0)<Speaker>FAL</Speaker>||:Oh? Then why am I still alive?
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:Exactly because you're such a banal character. You make dull conversation and have crude tastes. +I only end the conversation when it starts getting interesting. +So congratulations. You've won the Miss T-Doll Who Sustained the Longest Conversation.
-FAL(0)<Speaker>FAL</Speaker>||:(Sighs) I knew it... I suppose no one would be interested in things from a hundred years ago... +But if our mission succeeded, it means you haven't actually harmed your prey. +Why, Alchemist?
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:I told you. One should make the most out of what they enjoy, and I can't enjoy dead T-Dolls.
-FAL(0)<Speaker>FAL</Speaker>||:Is that why you've stayed behind? +To abduct our T-Dolls and get high on torturing them?
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:What else, FAL? +Does a Doll not even have the right to enjoy herself? +Or do you believe we can only live by the way humans do?
-FAL(0)<Speaker>FAL</Speaker>||:... +You're studying us, aren't you? You're trying to figure out how our neural clouds work.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:Clever girl. But don't ask any more questions. I can tell you nothing more anyway.
-FAL(0)<Speaker>FAL</Speaker>||:Humph. So much for a Sangvis Doll's freedom.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:At least I wouldn't leave a companion in the hands of the enemy to be tortured just for the sake of victory. +Like what you did to FF F2000, right?
-FAL(0)<Speaker>FAL</Speaker>||:...So you know.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:It only occurred to me when I met you, FAL. +I thought all terrifying Dolls have a special and telling aura, but not you. +You are the single most terrifying "philistine" I have ever seen.
-FAL(0)<Speaker>FAL</Speaker>||:I don't take risks with no guarantee. +I'm not a reckless T-Doll. I merely plan a step ahead of others. +Besides, becoming your captive was the result of FF F2000's own mistake, but she redeemed herself by facilitating the escape of someone who would provide us with pivotal aid.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:Humph... Such a touching sacrifice. Now I regret letting her live.
-FAL(0)<Speaker>FAL</Speaker>||:It's too late to be jealous. We may be eccentric, but we're not alone. +Now, my friends are coming for me. Isn't it time you returned to where you should be?
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:Oh? +What do you think I'm going to do? +Take you with me as a hostage? Kill you then leave on my own? Or am I going to blow up the outpost?
-FAL(0)<Speaker>FAL</Speaker>||:... +I have no value as a hostage. You're in no hurry to get rid of me either since any of your troops stationed outside can do it just as easily. +So my guess is, none of the above.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:Correct.
-()||<SE1>Select</SE1>:Alchemist raises a pistol and points it at her own head.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:Look at me, FAL. Let me watch your face.
-FAL(0)<Speaker>FAL</Speaker>||:Is this the last piece of data that you want to collect?
-BOSS-5(0)<Speaker>Alchemist</Speaker>||:I just want to find out...how far I would go to carry out my orders. +I want to know why we are created - as a frame of reference or a means to something...
-FAL(0)<Speaker>FAL</Speaker>||:... +I pity you, Alchemist.
-BOSS-5(0)<Speaker>Alchemist</Speaker>||<黑屏1>:We are all creatures living in flasks. We have what humans do not possess, but lack what humans are born with... +I want to break free. That's all...
-FAL()<Speaker>FAL</Speaker>||:... +Are these your genuine thoughts or are you putting on an act to test me?
-()||:Alchemist merely grins in a daze.
-炼金术士()<Speaker>Alchemist</Speaker>||:Yes...this is exactly the expression I'm looking for. +You lost, FAL.
+ ()||<BGM>BGM_Empty</BGM><BIN>9</BIN>:Через 10 минут после окончания операции. +Клик. +Клик. +Клик.
+炼金术士()<Speaker>Алхимик</Speaker>||:Твои товарищи по команде?
+FAL()<Speaker>FAL</Speaker>||:Да.
+炼金术士()<Speaker>Алхимик</Speaker>||:Не стесняйся, забирай.
+FAL()<Speaker>FAL</Speaker>||:Не нужно. +Они не решились бы связаться со мной, если бы у них ничего не вышло.
+炼金术士()<Speaker>Алхимик</Speaker>||:Хмф...
+BOSS-5(0)<Speaker>Алхимик</Speaker>||<BGM>BGM_Brain</BGM>:Знаешь что, FAL? +Это была единственная интересная мысль, которую ты сказала за весь вечер.
+FAL(0)<Speaker>FAL</Speaker>||:О? Тогда почему я все еще жива?
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Именно потому, что вы такая банальная личность. Ты скучно поддерживаешь разговор и у тебя ужасный вкус. +Я прекращаю разговор только тогда, когда он начинает становиться интересным. +Так что поздравляю. Ты победила в конкурсе «Мисс Т-Кукла, поддержавшая самую долгую беседу».
+FAL(0)<Speaker>FAL</Speaker>||:(Вздох) Я так и знала... Полагаю, никому не будут интересны вещи столетней давности... +Но если задание прошло успешно, значит, ты не навредила своей жертве. +Почему, Алхимик?
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Я же говорила тебе. Человек должен извлекать максимум из того, что ему нравится, а я не могу наслаждаться мертвыми Т-Куклами.
+FAL(0)<Speaker>FAL</Speaker>||:Так вот почему ты осталась? +Чтобы похищать наших Т-Кукол и ловить кайф от их пыток?
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:А что еще, FAL? +Кукла не вправе даже наслаждаться своей жизнью? +Или ты считаешь, что мы можем жить только так, как это делают люди?
+FAL(0)<Speaker>FAL</Speaker>||:... +Ты изучаешь нас, не так ли? Ты пытаешься понять, как работают наши нейронные облака.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Умная девочка. Но не стоит больше задавать вопросов. Я все равно больше ничего не расскажу.
+FAL(0)<Speaker>FAL</Speaker>||:Хмф. Вот тебе и свобода для куклы Сангвис.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Во всяком случае, я не стану оставлять товарища в руках врага, чтобы его пытали только ради награды. +Так же, как ты поступила с FF F2000, верно?
+FAL(0)<Speaker>FAL</Speaker>||:...Так ты знаешь.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Я поняла это, только когда встретила тебя, FAL. +Я думала, что у всех ужасающих Кукол есть особая, говорящая аура, но не у тебя. +Ты - самый жуткий «обыватель», которого я когда-либо видела.
+FAL(0)<Speaker>FAL</Speaker>||:Я не рискую без гарантии. +И не безрассудная Т-Кукла. Я просто планирую на шаг вперед. +Кроме того, то, что ты оказалась в плену, было результатом ошибки самой FF F2000, но она искупила свою вину, обеспечив побег того, кто мог бы оказать мне важнейшую помощь.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Хмф... Какая трогательная самоотверженность. Теперь я жалею, что оставила ее в живых.
+FAL(0)<Speaker>FAL</Speaker>||:Завидовать уже поздно. Может, мы и эксцентричны, но мы не одиноки. +Теперь за мной придут мои друзья. Не пора ли тебе свалить туда, где ты должна быть?
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:О?+И что, по-твоему, я должна сделать? +Взять тебя в заложники? Убить тебя, а потом уйти самой? Или я попробую взорвать аванпост?
+FAL(0)<Speaker>FAL</Speaker>||:... +Я не представляю никакой ценности в качестве заложника. Ты тоже не спешишь избавиться от меня, так как любой из твоих солдат, размещенных снаружи, может сделать это так же легко. +Так что я думаю, что ничего из вышеперечисленного.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Именно.
+()||<SE1>Select</SE1>:Алхимик поднимает пистолет и направляет его в свою голову.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Смотри на меня, FAL. Дай мне полюбоваться твоим лицом.
+FAL(0)<Speaker>FAL</Speaker>||:Это последняя часть данных, которую тебе осталось собрать?
+BOSS-5(0)<Speaker>Алхимик</Speaker>||:Я просто хочу узнать... как далеко я смогу зайти, чтобы выполнить свой приказ. +Я хочу узнать, для чего мы созданы - как платформа или средство для чего-то...
+FAL(0)<Speaker>FAL</Speaker>||:... +Мне жаль тебя, Алхимик.
+BOSS-5(0)<Speaker>Алхимик</Speaker>||<黑屏1>:Все мы - создания, которые живут в аквариуме. У нас есть то, чего нет у людей, но нет того, с чем люди рождаются... +Я хочу освободиться. Вот и все...
+FAL()<Speaker>FAL</Speaker>||:... +Это твои искренние мысли или ты притворяешься, чтобы испытать меня?
+()||:Алхимик просто усмехается в замешательстве.
+炼金术士()<Speaker>Алхимик</Speaker>||:Да... это именно то выражение, которое я ищу. +Ты проиграла, FAL.
 FAL()<Speaker>FAL</Speaker>||:...!
-炼金术士()<Speaker>Alchemist</Speaker>||:It won't be the last time you do... +See you again in another hell.
-()||<BGM>BGM_Empty</BGM>:BANG! +... +......
-FAL()<Speaker>FAL</Speaker>||<黑屏1>:Pathetic.
-()||<BIN>18</BIN><黑屏2>:The next day, in the staff lounge in Area S08.
-FN57(0)<Speaker>Five-seven</Speaker>||:You still won't tell us what happened?
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Hmm? Didn't you see when you arrived at the outpost?
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:You mean seeing you reading your damned magazine next to Alchemist's corpse on a scene that showed no trace of battle?
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:I told you. She was killed by what she was trying to get.
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Whatever... You can't hide the truth in your report to Helian anyway.
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:In any case, merci.
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BGM>BGM_Sunshine</BGM>:Hmm?
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Thank goodness you were still trying to come get me. Otherwise, I'd have been killed by the Sangvis troops that had me surrounded. +But then again, wouldn't you be able to keep the position of team leader? +Well? A change of mind?
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Don't get the wrong idea. +I WILL take the position from you, but not today. +I still have a lot to learn until I can beat you fair and square. +Does this answer satisfy you?
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:...Très bien. +You can keep being my adjutant.
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:(Sighs) Working with you is exhausting, you know... +Then I'll proceed with my report as your adjutant. +FF FNC and FF FN49 have already sent in their applications. They can officially join the team once HQ gives the approval.
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Humph. They're jumping into the fire willingly enough.
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:They're doing it because they like me, ma chère.
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Ouais, which is why I need you. +Work hard and recruit a few more useful people.
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:We'll see how far this problematic crew go... +By the way, FF F2000 needs to make a trip to HQ for her reward. They're also gonna extract some data regarding Alchemist from her neural cloud... +But she can make it to the celebration at noon... Should we also invite T91 and the other rescued T-Dolls?
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:If they want to join, sure. But I'll give them the boot if they're too rowdy.
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:We can't waste too much time partying. There's a new job coming up. +According to the Commander's report, there are unusual Sangvis signals and some abnormal weather phenomena in Area S09.
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Then my schedule is going to be rather tight this afternoon. I have to get a coffee with the Commander and we'll go shopping for that bag...
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Let FF F2000 and the others go with you. I'll take care of the Commander.
-FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:... +Is that a provocation, 57?
-FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<黑屏1>:Times have changed, FAL. You need to keep yourself on your toes. +Every T-Doll has their own merits. You said that much yourself.
-()||<黑屏2><BIN>9</BIN>:57 turns and leaves. FAL lets out a sigh.
-FAL()<Speaker>FAL</Speaker>||<黑屏1>:Life is hard... +...But that's what makes it interesting, right? +That's exactly what you overlooked, Alchemist. +Someone who fools herself into believing that she's trapped in a flask can never break free.
+炼金术士()<Speaker>Алхимик</Speaker>||:Это не последняя встреча... +Увидимся в очередной преисподне.
+()||<BGM>BGM_Empty</BGM>:БАЦ! +... +......
+FAL()<Speaker>FAL</Speaker>||<黑屏1>:Жалкая.
+()||<BIN>18</BIN><黑屏2>:На следующий день в комнате отдыха персонала в зоне S08.
+FN57(0)<Speaker>Five-seven</Speaker>||:Ты все еще не хочешь рассказать нам, что случилось?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Хм? Неужели ты не видела, когда прибыла на заставу?
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:сТы реально считать, что то, что я видела, как ты читала свой проклятый журнал рядом с трупом Алхимика и где не было никаких следов битвы?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Я же говорила. Она была убита собственным желанием.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Неважно... Ты все равно не сможешь скрыть правду в своем отчете для Хелиан.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:В любом случае, мерси.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<BGM>BGM_Sunshine</BGM>:Ммм?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Слава богу, что вы все-таки пытались меня забрать. Иначе меня бы убили войска Сангвиса, которые окружили меня. +Но, с другой стороны, разве ты не хотела бы сохранить за собой должность лидера команды? +Ну что? Передумала?
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Не поймите меня неправильно. +Я заберу у тебя эту должность, но не сегодня. +Мне еще многому предстоит научиться, пока я не смогу победить тебя честно и справедливо. +Этот ответ тебя устроит?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:...Очень хорошо. +Можешь и дальше быть моим адъютантом.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:(Вздох) Работа с тобой утомляет, знаешь ли... +Тогда я начну свой доклад в качестве вашего адъютанта. +FF FNC и FF FN49 уже отправили свои заявки. Они смогут официально присоединиться к команде, как только штаб даст разрешение.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Хмф. Они с готовностью прыгают в огонь.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Они делают это, потому что я им нравлюсь, моя дорогая.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Ага, вот почему ты мне нужна. +Работа еще усерднее и найми еще несколько полезных людей.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Посмотрим, как далеко зайдет эта проблемная команда... +Кстати, FF F2000 должна добраться до штаба, чтобы получить награду. Они также собираются извлечь некоторые данные об Алхимике из ее нейронного облака... +Но она сможет прийти на торжество в полдень... Может быть, нам также пригласить Т91 и других спасенных Т-Кукол?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Если они захотят присоединиться, конечно. Но если они будут вести себя слишком шумно, я их выгоню.
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Мы не можем тратить слишком много времени на развлечения. Предстоит новая работа. +Согласно докладу Командира, в зоне S09 наблюдаются необычные сигналы Сангвиса и аномальные погодные явления.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:Значит, сегодня днем мой график будет довольно напряженным. Я должна выпить кофе с Командиром, и мы отправимся в магазин за сумочкой...
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||:Пусть FF F2000 и остальные идут с тобой. Я позабочусь о Командире.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||:... +Это провокация, 57-я?
+FAL(0);FN57(0)<Speaker>Five-seven</Speaker>||<黑屏1>:Времена изменились, FAL. Ты должна быть начеку. +У каждой Т-Куклы есть свои достоинства. Ты сама об этом говорила.
+()||<黑屏2><BIN>9</BIN>:57-я поворачивается и уходит. FAL вздыхает.
+FAL()<Speaker>FAL</Speaker>||<黑屏1>:Жизнь трудна... +...Но именно это делает ее интересной,? +Именно это ты и упустила из виду, Алхимик. +Тот, кто обманывает себя, полагая, что он заперт в аквариуме, никогда не сможет вырваться на свободу.
