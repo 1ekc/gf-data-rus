@@ -1,45 +1,45 @@
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM>：35 minutes after exchanging fire with Dreamer's troops.+...LG2/F, Detention Center "Mario's Princess".+...
-Mastermind()<Speaker>Mastermind</Speaker>||：Why...+Why can't I decrypt it?+Guess I'll have to bring her with me...+(Clap) Come, M4A1.+Let's go back together...
-RO635()<Speaker>RO635</Speaker>||：You're not bringing anyone with you today, Mastermind...
-Mastermind()<Speaker>Mastermind</Speaker>||<黑屏1>：...+Explosives?
-RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_War</BGM><SE1>Explode</SE1><黑屏2><BIN>47</BIN>：Everyone, fire!
-M16(3)<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>：Grenade!
-NEGEV(0)<Speaker>Negev</Speaker>||<SE2>Gunfight</SE2>：Ahahaha! Run, midget! Let's see how far you can run!
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>：Через 35 минут после начала столкновений с войсками Мечтательницы.+...2 этаж, Центр содержания под стражей «Принцесса Марио».+...
+Mastermind()<Speaker>Владыка</Speaker>||：Почему...+Почему я не могу его расшифровать?+Думаю, мне придется взять ее с собой...+(Хлопок) Идем, M4A1.+Давай вернемся вместе...
+RO635()<Speaker>RO635</Speaker>||：Сегодня ты уже никого не захватишь с собой, Владыка...
+Mastermind()<Speaker>Владыка</Speaker>||<黑屏1>：...+Взрывчатка?
+RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_War</BGM><SE1>Explode</SE1><黑屏2><BIN>47</BIN>：Всем открыть огонь!
+M16(3)<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>：Граната!
+NEGEV(0)<Speaker>Negev</Speaker>||<SE2>Gunfight</SE2>：Ахахаха! Беги, малявка! Проверим, как далеко ты сможешь убежать!
 ()||：...
-Mastermind()<Speaker>Mastermind</Speaker>||：How are you lot up again?
-RO635(4)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>：This device is prepared for you, Mastermind...+More specifically, for neutralizing the jammer on you!
-Mastermind()<Speaker>Mastermind</Speaker>||：That won't last very long.
-RO635(4)<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>：I don't need very long...
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：RO! I've got M4!
-Mastermind()<Speaker>Mastermind</Speaker>||<SE2>Gunfight</SE2>：...!
-RO635(5)<Speaker>RO635</Speaker>||：Good! Retreat! Get to the air-raid shelter!
-Mastermind()<Speaker>Mastermind</Speaker>||：You...!
-VZ61(0)<Speaker>Skorpion</Speaker>||<SE1>Battlefield</SE1>：Guys! Smoke grenades, now!
-FNFNC(0)<Speaker>FF FNC</Speaker>||<黑屏1>：FF FN49, shut the door!
-()||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>：...A dull thud.
-Mastermind()<Speaker>Mastermind</Speaker>||：...+Weapon... Where's my weapon?
-BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||<BGM>BGM_Boss</BGM>：Don't you remember, Master, that you'd decided against bringing a weapon?+That's why I've allocated part of my troops to you.
-Mastermind()<Speaker>Mastermind</Speaker>||：...+Then can you come?+They've barricaded themselves behind a big iron door. I can't get in.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||：Ah... An "air-raid shelter", isn't it?+I'm afraid my hands are tied, too. My troops are being held down by that human commander.
-Mastermind()<Speaker>Mastermind</Speaker>||：...+You really aren't as useful as Agent...
-BOSS-11(0)<Speaker>Dreamer</Speaker>||：Heheh... Things don't always go your way, you see...+So should we withdraw, Master?
-Mastermind()<Speaker>Mastermind</Speaker>||<黑屏1>：...+I'll be waiting outside. Come pick me up.
-()||<黑屏2><BIN>46</BIN><BGM>BGM_Empty</BGM>：...20 minutes later, Dreamer's troops suddenly withdraw from the battlefield.+...15 minutes later, evacuation of the detention center is almost complete.
-m45(0)<Speaker>m45</Speaker>||<BGM>BGM_Empty</BGM>：Ah, Miss M16.
-M16(3)<Speaker>M16A1</Speaker>||：How's your injury, m45?
-m45(0)<Speaker>m45</Speaker>||：I'm fine after undergoing emergency repairs...+Are you here to check on Miss M4?
-M16(2)<Speaker>M16A1</Speaker>||：Yeah...+What's her condition?
+Mastermind()<Speaker>Владыка</Speaker>||：Как ты справляешься со всеми?
+RO635(4)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>：Это устройство подготовлено специально для тебя, Владыка...+ А точнее, для нейтрализации помех от тебя!
+Mastermind()<Speaker>Владыка</Speaker>||：Это не будет длиться долго.
+RO635(4)<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>：Мне не нужно так много времени...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：RO! У нашла M4!
+Mastermind()<Speaker>Владыка</Speaker>||<SE2>Gunfight</SE2>：...!
+RO635(5)<Speaker>RO635</Speaker>||：Хорошо! Отступаем! В убежище!
+Mastermind()<Speaker>Владыка</Speaker>||：Ты...!
+VZ61(0)<Speaker>Skorpion</Speaker>||<SE1>Battlefield</SE1>：Девчата! Дымовые гранаты, быстро!
+FNFNC(0)<Speaker>FF FNC</Speaker>||<黑屏1>：FF FN49, закрой дверь!
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>：...Глухой удар.
+Mastermind()<Speaker>Владыка</Speaker>||：...+Оружие... Где мое оружие?
+BOSS-11(0)<Speaker>Мечтательница</Speaker><通讯框>||<BGM>BGM_Boss</BGM>：Разве ты не помнишь, Мастер, что ты решила не брать с собой оружие?+ Именно поэтому я предоставила тебе часть своих войск.
+Mastermind()<Speaker>Владыка</Speaker>||：...+Может, ты тогда придешь? Они забаррикадировались за огромной железной дверью. Я не смогу войти.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||：А... «бомбоубежище», не так ли? +Боюсь, у меня тоже связаны руки. Мои войска сдерживает этот человеческий Командир.
+Mastermind()<Speaker>Владыка</Speaker>||：...+Ты и правда не так полезна, как Агент...
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||：Хехе... Не всегда все идет по твоему сценарию, как видишь...+Так нам следует отступить, Мастер?
+Mastermind()<Speaker>Владыка</Speaker>||<黑屏1>：...+Я буду ждать снаружи. Забери меня.
+()||<黑屏2><BIN>46</BIN><BGM>BGM_Empty</BGM>：...Через 20 минут войска Мечтательницы неожиданно отступают с поля боя.+...Через 15 минут эвакуация центра заключения почти завершена.
+m45(0)<Speaker>m45</Speaker>||<BGM>BGM_Empty</BGM>：А, мисс М16.
+M16(3)<Speaker>M16A1</Speaker>||：Как твое ранение, m45?
+m45(0)<Speaker>m45</Speaker>||：После экстренного ремонта я в порядке... +Ты здесь, чтобы проведать мисс М4?
+M16(2)<Speaker>M16A1</Speaker>||：Да... В каком она состоянии?
 m45(0)<Speaker>m45</Speaker>||<黑屏1><BGM>BGM_Truth</BGM>：...
-m45()<Speaker>m45</Speaker>||<BIN>44</BIN><黑屏2>：I'm sorry, but it's not looking good...+Miss M4A1 has been in this state for a while...+Muttering to herself, not communicating with anyone else...
-M16A1()<Speaker>M16A1</Speaker>||：...+M4...+What the hell did that chit do to you...
-m45()<Speaker>m45</Speaker>||：What do we do now, Miss M16?
+m45()<Speaker>m45</Speaker>||<BIN>44</BIN><黑屏2>：Извини, но дела выглядят не лучшим образом...+Мисс M4A1 находится в таком состоянии уже некоторое время...+Бормочет про себя, не общается ни с кем другим...
+M16A1()<Speaker>M16A1</Speaker>||：...+M4...+Что, черт возьми, эта дрянь с тобой сделала...
+m45()<Speaker>m45</Speaker>||：Что нам теперь делать, мисс М16?
 M16A1()<Speaker>M16A1</Speaker>||<黑屏1>：...
-M16(2)<Speaker>M16A1</Speaker>||<BIN>46</BIN><黑屏2>：Let's get her onto the conveyer with the other injured first...+The commander has already laid down the plan for retreat. We need to leave as soon as possible.
-m45(0)<Speaker>m45</Speaker>||：Oh? Is the commander coming?
-M16(0)<Speaker>M16A1</Speaker>||：Already here, in fact.+Sangvis Ferri has destroyed our power source and communication system, so Helian has given the commander special authorization to come and inspect the situation first.+The commander is currently on the way to the garden on the first floor to get some information from RO.
-m45(0)<Speaker>m45</Speaker>||<黑屏1>：RO635... The new T-Doll...?
-M16A1()<Speaker>M16A1</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>：Yeah... They should've met each other by now.
-()||<黑屏1>：Meanwhile, 1/F.+...After giving the order for all T-Dolls to retreat, I push open the door leading to the garden.+...
-RO635()<Speaker>RO635</Speaker>||<黑屏2><BIN>45</BIN><BGM>BGM_Room</BGM><黑屏1>：Hush...+Sorry, it took a while to coax SOPII to sleep. You wouldn't want her to disturb us, would you?+Allow me to introduce myself again. I am Tactical Doll RO635 from 16LAB.+I'm sure you want answers to a lot of questions.+But first, I must make it clear that I'm only here to assist you on Persica's personal request. If possible, please do not inform HQ of my involvement.+You don't have to worry about M4 for now either. Persica is doing everything she can to solve the problem.+Before a solution can be found, I'll be taking her place in leading the AR Team to investigate Sangvis Ferri...
-RO635()<Speaker>RO635</Speaker>||<BIN>16</BIN><黑屏2><黑屏1>：On another note, the Ringleader who invaded the detention center and caused this tragedy...+...Has been confirmed to be none other than the highest being in command of Sangvis Ferri, a T-Doll designated "Mastermind".+...Surely you know what this means?
-RO635()<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2>：Please be prepared, Commander.+We're about the settle the score with S.F. for good...
+M16(2)<Speaker>M16A1</Speaker>||<BIN>46</BIN><黑屏2>：Давайте сначала перенесем ее на транспортер вместе с другими ранеными... +Командир уже разработал план отступления. Нам нужно уходить как можно скорее.
+m45(0)<Speaker>m45</Speaker>||：О? Командир будет?
+M16(0)<Speaker>M16A1</Speaker>||：Уже здесь.+ Сангвис Ферри уничтожил наш источник электропитания и систему связи, поэтому Хелиан дала Командиру специальное разрешение прибыть и проверить ситуацию.+ Командир сейчас направляется в сад на втором этаже, чтобы получить информацию от RO.
+m45(0)<Speaker>m45</Speaker>||<黑屏1>：RO635... Новая Т-Кукла...?
+M16A1()<Speaker>M16A1</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>：Да... Они должны были уже встретиться здесь.
+()||<黑屏1>：Между тем, на первом этаже.+...Отдав приказ всем Т-Куклам отступить, я открываю дверь, ведущую в сад.+...
+RO635()<Speaker>RO635</Speaker>||<黑屏2><BIN>45</BIN><BGM>BGM_Room</BGM><黑屏1>：Тише... Извините, пришлось долго уговаривать SOPII поспать. Вы же не хотите, чтобы она волновалась?+Позвольте мне снова представиться. Я Тактическая Кукла RO635 из 16LAB.+Уверена, что вы хотите получить ответы на многие вопросы.+Но прежде, я должна уточнить, что я здесь только для того, чтобы помочь вам по личной просьбе Персики. По возможности не сообщайте в штаб о моем участии.+Вы можете пока не беспокоиться о М4. Персика сделает все возможное, чтобы решить проблему.+До того, как решение будет найдено, я займу ее место в команде AR по розыску Сангвис Ферри...
+RO635()<Speaker>RO635</Speaker>||<BIN>16</BIN><黑屏2><黑屏1>：И еще: командиром, вторгшимся в центр заключения и вызвавшим эту трагедию... +... Было установлено, что это никто иной, как высшее существо, командующее Сангвисом Ферри, Т-Кукла по прозвищу «Владыка».+... Вы, конечно, знаете, что это значит?
+RO635()<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2>：Будьте готовы, Командир. Мы собираемся окончательно расправиться с С.Ф...
