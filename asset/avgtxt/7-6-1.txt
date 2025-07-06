@@ -1,14 +1,14 @@
-()||<BIN>8</BIN><SE1>Battlefield</SE1><BGM>BGM_Empty</BGM>：Five minutes after sabotaging the Sangvis communication outpost.
-NPC-Kalin(4)<Speaker>Kalin</Speaker>||：Commander, we're being hailed on a public channel!+It bears the identification of Sangvis Ferri. Most probably the Ringleader behind this attack.+What do we do? Should I answer the call?
-()||<BGM>BGM_Boss</BGM>：...Sangvis call accepted.
-BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||：Good morning, Griffin Commander.+I don't know how exactly you located my communication outpost. Someone's probably been cheating.+But then again, it's dull to strategize by the rules. Variables like this are what makes things fun.+So...allow me to join in on this little game...
-NPC-Kalin(2)<Speaker>Kalin</Speaker>||：Commander! Massive amount of Sangvis unit signals incoming at 4 o'clock position from the detention center!
-BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||：I'm targeting that detention center. Make no mistake, I'm much more lethal than the little bugs from before...+I'll kill every single Griffin T-Doll in sight with my own hands.+Well? Would you like some time to come up with a countermeasure?
-NPC-Kalin(4)<Speaker>Kalin</Speaker>||：What do we do, Commander?+If we intercept Dreamer, we won't be able to defend the detention center.+Besides, we don't even know what's going on inside the establishment. We have no way of breaking in to get them out...
-RO635(0)<Speaker>RO635</Speaker><通讯框>;NPC-Kalin(4)||：Commander, Miss Kalin, please leave the mission to me.+I have already reached the detention center and am about to infiltrate the building.+I shall follow the preset stratagem and rescue all trapped T-Dolls, including M4A1.
-RO635(0);NPC-Kalin(2)<Speaker>Kalin</Speaker>||：Can it be done, RO?+But...signal is completely jammed by Parapluie within the detention center.
-RO635(0)<Speaker>RO635</Speaker>;NPC-Kalin(2)||：Parapluie isn't the cause of the jam. It's something much more terrifying.+But don't worry. I've brought a device to neutralize the threat.+I'm also equipped with a basic command module, which enables me to issue simple commands in the building.
-RO635(0);NPC-Kalin(4)<Speaker>Kalin</Speaker>||：Should I transfer all control of the detention center to her?
+()||<BIN>8</BIN><SE1>Battlefield</SE1><BGM>BGM_Empty</BGM>：Через пять минут после диверсии на коммуникационном пункте Сангвиса.
+NPC-Kalin(4)<Speaker>Калин</Speaker>||：Командир, нас вызывают по публичному каналу!+На нем идентификатор Сангвис Ферри. Скорее всего, командир этой атаки.+Что нам делать?Мне ответить на вызов?
+()||<BGM>BGM_Boss</BGM>：...Звонок из Сангвиса принят.
+BOSS-11(0)<Speaker>Мечтательница</Speaker><通讯框>||：Доброе утро, Командир Грифона.+Я не знаю, как вы определили местонахождение моего коммуникационного поста. Возможно, кто-то схитрил.+Но, с другой стороны, скучно выстраивать стратегию по правилам. + Такие переменные, как эта, делают вещи забавными.+ Так что... позвольте мне присоединиться к этой маленькой игре...
+NPC-Kalin(2)<Speaker>Калин</Speaker>||：Командир! Массивные сигналы подразделений Сангвис поступают в районе 4 часов от центра задержания!
+BOSS-11(0)<Speaker>Мечтательница</Speaker><通讯框>||：Я выбираю этот центр заключения. Не ошибитесь, я гораздо кровожаднее, чем те маленькие букашки, что были раньше...+Я убью всех Т-Кукол Грифона своими руками.+Хотите немного времени, чтобы придумать контрмеры?
+NPC-Kalin(4)<Speaker>Калин</Speaker>||：Что нам делать, Командир?+ Если мы перехватим Мечтательницу, мы не сможем защитить центр задержания.+ Кроме того, мы даже не знаем, что происходит внутри здания. У нас нет возможности проникнуть туда, чтобы вытащить их...
+RO635(0)<Speaker>RO635</Speaker><通讯框>;NPC-Kalin(4)||：Командир, мисс Калин, поручите эту миссию мне.+ Я уже добралась до центра заключения и собираюсь проникнуть в здание.+ Я буду следовать намеченной стратегии и спасу всех попавших в ловушку Т-Кукол, включая M4A1.
+RO635(0);NPC-Kalin(2)<Speaker>Калин</Speaker>||：Это можно сделать, RO?+ Но... сигнал полностью заглушен Параплюй внутри центра заключения.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Kalin(2)||：Параплюй - не причина глушения сигнала. Это нечто гораздо более страшное.+Но не волнуйтесь. Я прихватила с собой устройство для нейтрализации этой угрозы.+Я также оснащена базовым командным модулем, который позволяет мне отдавать простые приказы в здании.
+RO635(0);NPC-Kalin(4)<Speaker>Калин</Speaker>||：Мне переложить на нее весь контроль над центром заключения?
 RO635(0)<Speaker>RO635</Speaker>||：...
-RO635(2)<Speaker>RO635</Speaker>||<黑屏1>：Thank you for your recognition, Commander.+Please concentrate on intercepting Dreamer, and leave the rescue of the AR Team and the others to me.+Rest assured, it shall be done.
-BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>10</BIN>：Time is running out. Have you gathered your wits and forces to stop me...?+...Splendid. Then let the game begin...+I look forward to your warm reception, Lord Commander ♪.
+RO635(2)<Speaker>RO635</Speaker>||<黑屏1>：Спасибо за признательность, Командир.+Пожалуйста, сосредоточьтесь на перехвате Мечтательницы, а спасение Команды AR и остальных предоставьте мне.+Будьте уверены, все будет сделано.
+BOSS-11(0)<Speaker>Мечтательница</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>10</BIN>：Время на исходе. Вы собрались с мыслями, чтобы остановить меня...? +...Великолепно. Тогда начнем игру...+Я с нетерпением жду вашего теплого приема, Командир ♪.
