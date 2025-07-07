@@ -1,8 +1,8 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...
-<Speaker>???</Speaker>()||:...Let's put it this way, Negev. +If today was to be your last day... If it's gonna be over for you today, what would you do?
-<Speaker>Negev</Speaker>()||:I... +I'm not sure... +I'd probably give myself a holiday. Read in the dorm, listen to some music, and water my flowers.
-<Speaker>???</Speaker>()||:Water your flowers... So you like flowers too?
-<Speaker>Negev</Speaker>()||:Well, I'm not crazy about them. It's just a hobby.
+<Speaker>???</Speaker>()||:...Давай представим, Negev. +Если бы сегодня был твой последний день... Если сегодня для тебя все закончится, что ты сделаешь?
+<Speaker>Negev</Speaker>()||:Я... +Я не уверена... +Я бы, наверное, устроила себе выходной. Читала бы в общежитии, слушала музыку и поливала цветы.
+<Speaker>???</Speaker>()||:Поливала цветы... тебе нравятся цветы?
+<Speaker>Negev</Speaker>()||:Ну, я не помешана на них. Это просто увлечение.
 <Speaker>???</Speaker>()||:How leisurely of you... Wouldn't you want to make up for some of your regrets?
 <Speaker>Negev</Speaker>()||:Regrets? With the precious little time I have left? Why?
 <Speaker>???</Speaker>()||:Don't you have any regrets?
