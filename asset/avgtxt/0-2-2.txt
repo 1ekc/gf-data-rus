@@ -1,4 +1,4 @@
-M4A1(0)<Speaker>M4A1</Speaker>||<BIN>8</BIN><BGM>BGM_Room</BGM>:Calling Persica. The operation is going smoothly. The AR Team has reached Safe House 3.Вызываю Персику. Операция проходит гладко. Команда AR достигла «Безопасного дома 3».
+M4A1(0)<Speaker>M4A1</Speaker>||<BIN>8</BIN><BGM>BGM_Room</BGM>:Calling Persica. The operation is going smoothly. The AR Team has reached Safe House 3.Вызываю Персику. Операция проходит гладко. Команда AR достигла Убежище №3.
 NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>;M4A1(0)||:WО-о-о! Ты можешь найти вещи Лайко?
 NPC-Persica(0);M4A1(0)<Speaker>M4A1</Speaker>||:Мы исследовали информацию в интерфейсе, но система настолько архаична, что мы не можем взломать конструкцию верификации.+ Нам понадобится код доступа, чтобы быстро активировать систему.
 NPC-Persica(0)<Speaker>Персика</Speaker>;M4A1(0)||:Хм... А попробуй «90WISHROCK», а затем букву «X», все заглавными буквами.
