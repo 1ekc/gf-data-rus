@@ -1,10 +1,10 @@
-()||<BIN>18</BIN><BGM>BGM_Sunshine</BGM>：The morning after the rescue mission.+...
-PM(0)<Speaker>Makarov</Speaker>||：According to 16LAB's analysis, Dreamer has been operating through her dummy this whole time.
-RO635(3)<Speaker>RO635</Speaker>||：As expected... She still has a lot of aces up her sleeve...
-RO635(2)<Speaker>RO635</Speaker>||：Still...she's nothing but a hypocritical coward...+In any case, we made it back, so it's a job well done. We can all relax for the time being.
-AAT52(0)<Speaker>AAT-52</Speaker>||：We're heading out for a big dinner tonight. You coming, RO?
-RO635(0)<Speaker>RO635</Speaker>||：Uh... You guys go on ahead. I have to talk to M16 and SOP-II.+Let's say our goodbyes here. See you around.
-MK2(0)<Speaker>Sten MK-2</Speaker>||：Hmm... So our squad won't be dissolved, right?+Even though Miss RO is in another team, we're still members of Squad Palette, aren't we?
+()||<BIN>18</BIN><BGM>BGM_Sunshine</BGM>：Наутро после спасательной операции.+...
+PM(0)<Speaker>Макаров</Speaker>||：Согласно исследованиям 16LAB, Мечтательница все это время действовала через своего болванчика.
+RO635(3)<Speaker>RO635</Speaker>||：Как и предполагалось... У нее еще много козырей в рукаве...
+RO635(2)<Speaker>RO635</Speaker>||：Все равно... она всего лишь двуличная трусиха...+В любом случае, мы смогли выбраться обратно, так что дело сделано. Теперь мы можно и расслабиться.
+AAT52(0)<Speaker>AAT-52</Speaker>||：Мы собираемся сегодня на шикарный ужин. Ты идешь, RO?
+RO635(0)<Speaker>RO635</Speaker>||：Э... Вы, ребята, идите. Мне нужно поговорить с M16 и SOP-II.+Увидимся позже.
+MK2(0)<Speaker>Sten MK-2</Speaker>||：Хм... Значит, наш отряд не будет распущен?+Даже если RO в другой команде, мы все равно члены Отряда Палитра, не так ли?
 RO635(2)<Speaker>RO635</Speaker>||：That's right, we are companions for life.+The higher-ups have promised to preserve the serving records of Squad Palette for us.+And if I ever need help, you'll be the first to know.
 RO635(2)<Speaker>RO635</Speaker>||<黑屏1>：I know.+I'm not a T-Doll that only acts on orders...+I know my own responsibilities.
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>：...Midnight, three hours after RO635 finished reporting to the commander.+...Click.
