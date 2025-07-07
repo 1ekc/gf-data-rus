@@ -7,8 +7,8 @@ Makarov()<Speaker>Макаров</Speaker>||：(Вздох) Удивительн
 RO635()<Speaker>RO635</Speaker>||<SE1>Battlefield</SE1>：Я бы сказала - Carpe diem. На этот раз нам удалось поймать момент.
 Makarov()<Speaker>Макаров</Speaker>||：Хах, еле-еле. Но ты стала полезной в качестве лидера команды.
 RO635()<Speaker>RO635</Speaker>||：(Вздох) YТы даже не представляешь, насколько проблемной была наша операция... +Хвала небесам, программа взлома Персики работает. Дульная скорость последнего выстрела действительно была значительно ослаблена.+Спасибо всем. Sten и AAT, спасибо, что помогли нам захватить все базы вокруг миномета.
-AAT52()<Speaker>AAT-52</Speaker>||：Heheh. With that, The Jupiter mortar's power will be greatly impaired.+So Sangvis Ferri's new toy isn't invincible after all!
-MK2 ()<Speaker>STEN MkⅡ</Speaker>||：But...what about Makarov and the others?+They're hurt and pinned down, not to mention Dreamer's troops are still searching for them...
-RO635()<Speaker>RO635</Speaker>||<黑屏1>：(Stands up) Let's meet up with them first, and I'll contact the commander.+Don't worry. Everyone will be fine.
-RO635(2)<Speaker>RO635</Speaker>||<黑屏2><BIN>10</BIN><BGM>BGM_Empty</BGM>：Commander, this is RO635.+We have successfully neutralized Sangvis Ferri's mortar. It poses no more threat to us.
-RO635(0)<Speaker>RO635</Speaker>||：However, we might encounter Dreamer and her forces along our retreat route.+Please keep us safe, Commander. I'll see you back at Griffin Control.
+AAT52()<Speaker>AAT-52</Speaker>||：Хехе. С такой силой миномет Юпитера сильно пострадает.+ Значит, новая игрушка Сангвис Ферри не так уж и непобедима!
+MK2 ()<Speaker>STEN MkⅡ</Speaker>||：Но... как же Макаров и остальные? Они ранены и окружены, а отряды Мечтательницы все еще ищут их...
+RO635()<Speaker>RO635</Speaker>||<黑屏1>：(Поднимается) Давайте встретимся с ними сначала, и я свяжусь с Командиром.+Не переживайте. Они все будут в порядке.
+RO635(2)<Speaker>RO635</Speaker>||<黑屏2><BIN>10</BIN><BGM>BGM_Empty</BGM>：Командир, это RO635.+Мы успешно обезвредили миномет Сангвис Ферри. Он больше не представляет для нас угрозы.
+RO635(0)<Speaker>RO635</Speaker>||：Однако на пути нашего отступления мы можем встретить Мечтательницу и ее силы.+Пожалуйста, позаботьтесь о нашей сохранности, Командир. Увидимся на КП Грифона.
