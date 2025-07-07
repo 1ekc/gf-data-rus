@@ -5,22 +5,22 @@ RO635(2)<Speaker>RO635</Speaker>||：Все равно... она всего ли
 AAT52(0)<Speaker>AAT-52</Speaker>||：Мы собираемся сегодня на шикарный ужин. Ты идешь, RO?
 RO635(0)<Speaker>RO635</Speaker>||：Э... Вы, ребята, идите. Мне нужно поговорить с M16 и SOP-II.+Увидимся позже.
 MK2(0)<Speaker>Sten MK-2</Speaker>||：Хм... Значит, наш отряд не будет распущен?+Даже если RO в другой команде, мы все равно члены Отряда Палитра, не так ли?
-RO635(2)<Speaker>RO635</Speaker>||：That's right, we are companions for life.+The higher-ups have promised to preserve the serving records of Squad Palette for us.+And if I ever need help, you'll be the first to know.
-RO635(2)<Speaker>RO635</Speaker>||<黑屏1>：I know.+I'm not a T-Doll that only acts on orders...+I know my own responsibilities.
-()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>：...Midnight, three hours after RO635 finished reporting to the commander.+...Click.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||：RO. Hey, RO...+RO, do you copy?
-RO635()<Speaker>RO635</Speaker>||：...+Hello?+Oh...Miss Persica...?
-NPC-Persica(0)<Speaker>Persica</Speaker>||<BGM>BGM_Room</BGM>：So...+I read the report. How was the program? Did it work?
+RO635(2)<Speaker>RO635</Speaker>||：Верно, мы - товарищи на всю оставшуюся жизнь.+ Начальство обещало сохранить для нас послужной список Отряда Палитра.+ И если мне когда-нибудь понадобится помощь, вы будете первым, кто об этом узнает.
+RO635(2)<Speaker>RO635</Speaker>||<黑屏1>：Я знаю.+Я ведь не Т-Кукла, которая действует только по приказу...+Я сама знаю свои обязанности.
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>：...Полночь, через три часа после того, как RO635 завершила доклад Командиру.+...Клик.
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||：RO. Эй, RO...+RO, ты меня слышишь?
+RO635()<Speaker>RO635</Speaker>||：...+Добрый ночи?+О... мисс Персика...?
+NPC-Persica(0)<Speaker>Персика</Speaker>||<BGM>BGM_Room</BGM>：Итак... +Я прочитала отчет. Как работает программа? Получилось?
 RO635()<Speaker>RO635</Speaker>||：Uh...+Sort of... It was a bit awkward to work with, but we got the hang of it.
-NPC-Persica(3)<Speaker>Persica</Speaker>||：That hacking program...was coded from a Sangvis authorization module.+We only managed to crack it last month...
+NPC-Persica(3)<Speaker>Персика</Speaker>||：That hacking program...was coded from a Sangvis authorization module.+We only managed to crack it last month...
 RO635()<Speaker>RO635</Speaker>||：Ah...now that you mention it...+That's what the AR Team risked their lives to get in Safe House 3, isn't it?
-NPC-Persica(3)<Speaker>Persica</Speaker>||：Hmm... Kind of...+They're all...relics from the past...
+NPC-Persica(3)<Speaker>Персика</Speaker>||：Hmm... Kind of...+They're all...relics from the past...
 RO635()<Speaker>RO635</Speaker>||：Relics...? You humans are such troublemakers...+That's why we're having so much trouble...
-NPC-Persica(2)<Speaker>Persica</Speaker>||：(Chuckles) Solving our trouble is what motivated us to develop Doll-making technology in the first place.+By the way...why is your voice all mumbly?
+NPC-Persica(2)<Speaker>Персика</Speaker>||：(Chuckles) Solving our trouble is what motivated us to develop Doll-making technology in the first place.+By the way...why is your voice all mumbly?
 RO635()<Speaker>RO635</Speaker>||：Mmm...+I had a couple of drinks with M16...+Would you like to talk to her?
-NPC-Persica(3)<Speaker>Persica</Speaker>||：Not now...+Are they safe?
+NPC-Persica(3)<Speaker>Персика</Speaker>||：Not now...+Are they safe?
 RO635()<Speaker>RO635</Speaker>||：Yes. SOP-II's neural system has stabilized. She's undergoing repairs right now.+M16 and I have been chatting about stuff at the bar...+Like work...Griffin...Sangvis Ferri...M4...+And AR-15...
-NPC-Persica(0)<Speaker>Persica</Speaker>||：...+I'm sure M4 will be fine...+As for AR-15... I'm still working on it...+What about you, RO? Are you okay?+I was really worried...you know...
+NPC-Persica(0)<Speaker>Персика</Speaker>||：...+I'm sure M4 will be fine...+As for AR-15... I'm still working on it...+What about you, RO? Are you okay?+I was really worried...you know...
 RO635()<Speaker>RO635</Speaker>||<黑屏1>：I know...+I must become even stronger than AR-15 in order to avenge her.+I can't wait to prove myself...
 ()||<黑屏2><BIN>18</BIN><Night>：...
 M16(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Sunshine</BGM>：Ah, finally. That was quite a long call.
