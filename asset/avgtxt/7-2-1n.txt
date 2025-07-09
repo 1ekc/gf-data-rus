@@ -1,35 +1,35 @@
-()||<BIN>2</BIN><BGM>BGM_Sneak</BGM><Night><黑屏2>:Half an hour later.
-AR(0)<Speaker>Galil</Speaker><通讯框>||:Galil hailing Negev. Do you copy?
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Get on with it.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Target location is confirmed. It's inside that abandoned car factory, just as our intel says.
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Humph. Of course. It's my intel.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Fine, fine. Everything is yours. We're all yours. +But you know how to read a map, right? You see how far we are from the car factory?
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Is it that far? It's only a three-hour walk, right?
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:We could get there in three hours IF this was a smooth marathon route with no enemies or obstacles. +Guess where we are, my lady?
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||<震屏>:We're in bloody Sangvis territory!
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:That's why I sent you to scout ahead.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Ha, ha, ha. How "cautious" of you. +Now what? I did my job. What about you?
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:You stay here and keep gathering intel. The Commander is about to lead our echelons forward. +I'll get in touch with Tavor and find out her infiltration progress.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Hmm, Negev?
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:What?
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Be careful.
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:It's just a night op. Nothing I can't handle.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||<黑屏1>:I keep saying... +Whatever. Do your best. Keep everyone safe.
+()||<BIN>2</BIN><BGM>BGM_Sneak</BGM><Night><黑屏2>:Полчаса спустя.
+AR(0)<Speaker>Galil</Speaker><通讯框>||:Галил вызывает Negev. Ты меня слышишь?
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Начинай.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Местонахождение цели подтверждено. Она находится на территории заброшенного автозавода, как и предполагала наша разведка.
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Хмпф. Естественно. Это по моей же информации.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Ладно, ладно. Все твоё. Мы все твои. +Но ты ведь умеешь пользоваться картой? Понимаешь, как далеко мы находимся от завода?
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Неужели это так далеко? Всего три часа пути, а?
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Мы бы дошли туда за три часа, если бы это была спокойная трасса для марафона без врагов и препятствий. +Догадываешься, где мы, госпожа?
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||<震屏>:Мы на территории проклятого Сангвиса!
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Именно поэтому я отправила тебя разведать обстановку.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Ха, ха, ха. Как «осторожно» с твоей стороны. +И что теперь? Я выполнила свою работу. А что насчет тебя?
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Ты останешься здесь и продолжишь сбор информации. Командир вот-вот возглавит наши отряды. +Я свяжусь с Tavor и узнаю о прогрессе ее вторжения.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Хм, Negev?
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Что?
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Будь осторожна.
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Это простая ночная операция. Нет ничего, с чем бы я не справилась.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||<黑屏1>:Я не устаю повторять... +Все равно. Сделай все, что в твоих силах. И береги всех.
 ()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>:...
-<Speaker>Jericho</Speaker>()||<黑屏2>:Negev.
-<Speaker>Negev</Speaker>()||:Hmm?
-<Speaker>Jericho</Speaker>()||<BGM>BGM_Room</BGM>:You're too reckless.
-<Speaker>Negev</Speaker>()||:I know.
-<Speaker>Jericho</Speaker>()||:You didn't learn anything I taught you.
-<Speaker>Negev</Speaker>()||:I wouldn't call that teaching, Jericho. You sent me to die. +Even if I had learned anything, I forgot all about it after dying.
-<Speaker>Jericho</Speaker>()||:I told you I'll help you remember.
-<Speaker>Negev</Speaker>()||:But then...we'll forget about you.
-<Speaker>Jericho</Speaker>()||:I don't care. We are soldiers.
-<Speaker>Negev</Speaker>()||:Humans don't leave their own safety in the hands of cold, rigid robots. That's why they chose us. +My neural cloud tells me that I don't want to forget you. If I can have my way, no one will ever forget you.
-<Speaker>Jericho</Speaker>()||:Who taught you...to have such..."thoughts"?
-<Speaker>Negev</Speaker>()||:... +What on earth are you afraid of, Jericho?
-<Speaker>Jericho</Speaker>()||:... +You really have grown a little when I wasn't looking... At least in terms of rhetoric. +But what exactly was your target of retrieval in your operation?
-<Speaker>Negev</Speaker>()||:Well...wait for it... +Let me organize my thoughts. I'll reveal it in good time.
-<Speaker>Jericho</Speaker>()||:I was right. When you retire, you'll make a great talk show host.
-<Speaker>Negev</Speaker>()||<黑屏1>:Anyway, so I directed the Commander to advance towards the car factory. +After a skirmish, we took the outpost and got in touch with Tavor...
+<Speaker>Иерихон</Speaker>()||<黑屏2>:Negev.
+<Speaker>Negev</Speaker>()||:Хмм?
+<Speaker>Иерихон</Speaker>()||<BGM>BGM_Room</BGM>:Ты слишком безрассудна.
+<Speaker>Negev</Speaker>()||:Я знаю.
+<Speaker>Иерихон</Speaker>()||:Ты не усвоила абсолютно ничего из того, чему я научила тебя.
+<Speaker>Negev</Speaker>()||:Я бы не назвала это обучением, Иерихон. Ты просто отправила меня умирать. +Даже если я чему-то и научилась, то после гибели забыла обо всем.
+<Speaker>Иерихон</Speaker>()||:Я же сказала, что помогу тебе все вспомнить.
+<Speaker>Negev</Speaker>()||:Но потом... мы забудем о тебе.
+<Speaker>Иерихон</Speaker>()||:Плевать. Мы - солдаты.
+<Speaker>Negev</Speaker>()||:Люди не доверят свою безопасность холодным, жестоким роботам. Вот почему они выбрали нас. +Мое нейронное облако подсказывает мне, что я не хочу тебя забывать.+Если я смогу добиться своего, никто и никогда не забудет тебя.
+<Speaker>Иерихон</Speaker>()||:Кто научил тебя... допускать такие... «мысли»?
+<Speaker>Negev</Speaker>()||:... +Чего же ты боишься, Иерихон?
+<Speaker>Иерихон</Speaker>()||:... +Ты и правда немножко выросла, а я не замечала этого... По крайней мере, в плане риторики. +Но что именно было целью вашей операции?
+<Speaker>Negev</Speaker>()||:Что ж... подожди... +Я сейчас соберусь с мыслями. И я расскажу об этом в нужное время.
+<Speaker>Иерихон</Speaker>()||:Я была права. Когда ты выйдешь на пенсию, из тебя получится отличный ведущий ток-шоу.
+<Speaker>Negev</Speaker>()||<黑屏1>:Неважно, я указала Командиру выдвигаться к заводу. +После сражения мы взяли аванпост и связались с Tavor...
 ()||<BIN>10</BIN><黑点2>:
