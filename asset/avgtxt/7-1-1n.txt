@@ -6,73 +6,74 @@
 <Speaker>???</Speaker>()||:Какая беззаботность... Неужели ты не хочешь преодолеть свои сожаления?
 <Speaker>Negev</Speaker>()||:Сожаления? Когда у меня осталось так мало времени? Зачем?
 <Speaker>???</Speaker>()||:Ты ни капельки не сожалеешь?
-<Speaker>Negev</Speaker>()||:She once said... +"If someone tells the whole world 'I love you' on their very last day, they're lying."
-<Speaker>???</Speaker>()||:But you never know how to lie, I know.
-<Speaker>Negev</Speaker>()||:I just want to be myself, Jericho... The closer I am to dying, the more I want that.
-()||:...Jericho chuckles with great difficulty in the shadows.
-<Speaker>Иерихон</Speaker>()||<BGM>BGM_Room</BGM>:That's exactly why I chose you... +To be my adjutant...over them...
-<Speaker>Negev</Speaker>()||:I don't know... +If I've actually made myself useful...
-<Speaker>Иерихон</Speaker>()||:Goes without saying that you've only been dragging us down ever since you joined us.
-<Speaker>Negev</Speaker>()||:Yeah, I'm "a piece of junk with zero self-control". Your exact words.
-<Speaker>Иерихон</Speaker>()||:Humph... +Let's talk about something else. Something lighter.
-<Speaker>Negev</Speaker>()||:Is the 【Test】 still not over? +Is this really necessary, Jericho? It's been two hours. If the rescue party still can't get to us, we'll...
-<Speaker>Иерихон</Speaker>()||:The rescue party can't get to us. That's exactly why we should have a chat.
-()||:...Negev takes a slow, deep breath.
-<Speaker>Negev</Speaker>()||:... +Could this be...the final step of the 【Test】?
-<Speaker>Иерихон</Speaker>()||:Is there any other choice? Even I can't think of anything else, not to mention you. +So, how have you been doing at Griffin recently?
-<Speaker>Negev</Speaker>()||:(Sighs) You said you wanted to discuss a lighter subject...
-<Speaker>Иерихон</Speaker>()||:I'm sure you're keeping something from me.
-()||:...Negev falls silent for a while and finally sighs.
-<Speaker>Negev</Speaker>()||:Fine. There's no hiding from you. I was planning to tell you at a more proper occasion. +A week ago, my squad carried out a major operation for the Commander.
-<Speaker>Иерихон</Speaker>()||:Wait, YOUR squad? You're my adjutant.
-<Speaker>Negev</Speaker>()||<黑屏1>:It was temporary. I was ordered to lead a mission in Area S05 during your last recovery.
-<Speaker>Иерихон</Speaker>()||<BIN>46</BIN><黑屏2>:Area S05? That's not a very nice place.
-<Speaker>Negev</Speaker>()||:Well, it was no better than the hellholes you've led us into. +Plus, I've taken an enemy head-on that even you would find surprising.
-<Speaker>Иерихон</Speaker>()||:You encountered the Mastermind?
-BOSS-11(0)<Speaker>Negev</Speaker><通讯框>||:One of her aces.
-BOSS-11(0)<Speaker>Иерихон</Speaker>()||:And you lived? You expect me to believe a little girl like you defeated a Sangvis Elite and survived? +Go on then, tell me all about it. I want to know.
-BOSS-11(0)<Speaker>Negev</Speaker>()||:Ah, there it is again. Miss Jericho's infamous "not really the best time".
-BOSS-11(0)<Speaker>Иерихон</Speaker>()||:I'm still your leader here. I won't go easy on you.
-BOSS-11(0)<Speaker>Negev</Speaker>()||:Yeah, you've always been terrifying, even with your body like this...
-BOSS-11(0)<Speaker>Иерихон</Speaker>()||:Even if there's nothing left of it but my head, you have to obey me. As I've said before -
-BOSS-11(0)<Speaker>Negev</Speaker>()||:I know, I know. "You're mine. All my subordinates are mine."
-BOSS-11(0)<Speaker>Иерихон</Speaker>()||:And come closer. I can't hear you very well anymore.
-()||<黑屏1>:...Negev sits up and shifts over.
-<Speaker>Negev</Speaker>()||<BIN>9</BIN><黑屏2>:Now, where do we start?
-<Speaker>Иерихон</Speaker>()||:Start from when you hopped off the carrier. Skip over the part where you received your orders like a hotshot.
-<Speaker>Negev</Speaker>()||:Tsk... Shame... +After receiving my orders, I led my subordinates off the carrier... Then... +Let me think...
-<Speaker>Иерихон</Speaker>()||:You must've made a fool of yourself.
-<Speaker>Negev</Speaker>()||:No, back then...I was...
+<Speaker>Negev</Speaker>()||:Однажды она сказала. +Если кто-то говорит всему миру что любит его в свой последний день, он лжет.
+<Speaker>???</Speaker>()||:Но ты никогда не умела врать, я-то знаю.
+<Speaker>Negev</Speaker>()||:Я просто хочу быть самой собой, Иерихон... Чем ближе я к собственной смерти, тем сильнее хочу этого.
+()||:...В тени еле слышно хихикает Иерихон.
+<Speaker>Иерихон</Speaker>()||<BGM>BGM_Room</BGM>:Именно поэтому я выбрала тебя... +Чтобы ты стала моим адъютантом... над ними...
+<Speaker>Negev</Speaker>()||:Даже не знаю... +Если я на самом деле приносила пользу...
+<Speaker>Иерихон</Speaker>()||:Конечно же, с тех пор как ты присоединилась к нам, ты только и делаешь, что тянешь нас вниз.
+<Speaker>Negev</Speaker>()||:Да, я "кусок хлама с нулевым самоконтролем". Это именно твои слова.
+<Speaker>Иерихон</Speaker>()||:Хм... +Поговорим о чем-нибудь другом. О чем-нибудь более... веселом.
+<Speaker>Negev</Speaker>()||:【Тест】 все еще не закончен? +Это действительно необходимо, Иерихон? Прошло уже два часа. Если спасательная команда так и не сможет добраться до нас, мы...
+<Speaker>Иерихон</Speaker>()||:Спасатели не смогут добраться до нас. Именно поэтому мы должны поговорить.
+()||:...Negev делает медленный и глубокий вдох.
+<Speaker>Negev</Speaker>()||:... +Может ли это быть... последним этапом 【Теста】?
+<Speaker>Иерихон</Speaker>()||:Разве есть иной выход? Даже я не могу придумать ничего другого, не говоря уже о тебе. +Как у тебя дела в Грифоне в последнее время?
+<Speaker>Negev</Speaker>()||:(Вздохи Ты сказала, что хочешь поговорить на более веселую тему...
+<Speaker>Иерихон</Speaker>()||:Я уверена, что вы что-то от меня скрываешь.
+()||:...Negev некоторое время молчит и наконец вздыхает.
+<Speaker>Negev</Speaker>()||:Чудно. От тебя не спрячешься. Я думала рассказать вам об этом в более подходящем случае. +Неделю назад мой отряд участвовал в крупной операции для Командира.
+<Speaker>Иерихон</Speaker>()||:Подождите, ТВОЙ отряд? Ты мой адъютант.
+<Speaker>Negev</Speaker>()||<黑屏1>:Это было временно. Мне было приказано руководить миссией в зоне S05 во время твоего восстановления.
+<Speaker>Иерихон</Speaker>()||<BIN>46</BIN><黑屏2>:Зона S05? Это не очень хорошее место.
+<Speaker>Negev</Speaker>()||:Ну, это не лучше тех дыр, в которые ты нас заводила. +Плюс, я столкнулась с врагом лицом к лицу, что даже тебе показалось бы неожиданным.
+<Speaker>Иерихон</Speaker>()||:Ты встретила Владыку?
+BOSS-11(0)<Speaker>Negev</Speaker><通讯框>||:Это был один из ее козырей.
+BOSS-11(0)<Speaker>Иерихон</Speaker>()||:И ты выжила? Ты думаешь, я поверю, что такая малышка, как ты, победила Элиту Сангвиса и выжила? +Тогда давай, расскажи мне об этом. Я хочу узнать.
+BOSS-11(0)<Speaker>Negev</Speaker>()||:Ах, вот оно что. Мисс Иерихон с ее пресловутым «не самым удачным моментом».
+BOSS-11(0)<Speaker>Иерихон</Speaker>()||:Я все еще твой лидер. Я не буду с мириться с этой новостью.
+BOSS-11(0)<Speaker>Negev</Speaker>()||:Да, ты всегда внушала ужас, даже с подобным состоянием тела...
+BOSS-11(0)<Speaker>Иерихон</Speaker>()||:Пусть от него останется только моя голова, но ты обязана мне подчиняться. Как я уже говорила...
+BOSS-11(0)<Speaker>Negev</Speaker>()||:Я знаю, знаю. "Ты моя. Все подчиненные - только мои".
+BOSS-11(0)<Speaker>Иерихон</Speaker>()||:Подойди ближе. Я уже плохо тебя слышу.
+()||<黑屏1>:...Negev приподнимается и переворачивается.
+<Speaker>Negev</Speaker>()||<BIN>9</BIN><黑屏2>:Итак, с чего начнем?
+<Speaker>Иерихон</Speaker>()||:Начинай с того момента, когда ты спрыгнула с транспортера. + Пропусти ту часть, где ты получила приказ, как и подобает новобранцу.
+<Speaker>Negev</Speaker>()||:Тц... Досадно... +Получив приказ, я повела своих подчиненных подальше от транспорта... Потом... +Дай подумать...
+<Speaker>Иерихон</Speaker>()||:Ты, видимо, выставила себя на всеобщее посмешище.
+<Speaker>Negev</Speaker>()||:Нет, тогда... я была...
 ()<Speaker>Galil</Speaker>||<BGM>BGM_Empty</BGM>:Negev?
-()<Speaker>Negev</Speaker>||<黑屏1>:Oh, right. Galil called my name...
+()<Speaker>Negev</Speaker>||<黑屏1>:О, точно. Галил позвала меня по имени...
 AR(0)<Speaker></Speaker>||<睁眼><BIN>1</BIN><Night>:...
 AR(0)<Speaker>Galil</Speaker>||:...Negev. Negev?
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:...Huh?
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||<黑屏1><BGM>BGM_Sneak</BGM>:Don't "huh" me. What are you spacing out for?
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:...а?
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||<黑屏1><BGM>BGM_Sneak</BGM>:Не надо меня «ахать». Что ты делаешь?
 ()||<BIN>9</BIN><黑屏2>:...
-<Speaker>Negev</Speaker>()||:Back then, I was spacing out.
-<Speaker>Иерихон</Speaker>()||:See? Told ya.
-<Speaker>Negev</Speaker>()||:I like thinking. Or have you forgotten?
-<Speaker>Иерихон</Speaker>()||:Yeah, I have. What happened then? What did Galil say?
-<Speaker>Negev</Speaker>()||<黑屏1>:Same old things. Rambling on and worrying about everything. And ended up being right about everything.
+<Speaker>Negev</Speaker>()||:В то время я находилась в задумчивости.
+<Speaker>Иерихон</Speaker>()||:Видишь? Я же говорила.
+<Speaker>Negev</Speaker>()||:Я люблю размышлять. Или ты забыла?
+<Speaker>Иерихон</Speaker>()||:Было дело. Что же произошло? Что сказала Галил?
+<Speaker>Negev</Speaker>()||<黑屏1>:Все то же самое. Размышления и беспокойство обо всех и каждой мелочи. И в итоге оказалась права во всем.
 ()||<黑屏2><BIN>1</BIN><Night>:...
-AR(0)<Speaker>Galil</Speaker>||:Focus, Negev. Can't you take this a bit more seriously?
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Ha, I was just thinking about something.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Huh? Even you "think"? What was it that you said? That famous quote of yours? "Thinking..."
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:"Thinking is for idiots. Prodigies need only their ingenuity." +But this is an important mission. I'm just being extra cautious.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Cautious? Ha, ha. Look at me, Negev. +Let me see how you define "cautious".
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Being cautious means I want you to help me with recon.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Give me a route that'll allow me to finish mapping out the area without dying. Then I'll go.
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Humph, you make it sound like a challenge for me.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Might not be for you, not sure about our superior. Don't make trouble for the Commander.
-AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Everything is up to fate. I'm just an enforcer.
-AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||<黑屏1>:Lovely. More Negev-esque quotes... Yep, you're still you. +I'm off to make my prep. Contact the Commander.
+AR(0)<Speaker>Galil</Speaker>||:Сфокусируйся, Negev. Разве ты не можешь отнестись к этому более серьезно?
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Ха, я просто подумала кое о чем.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:А? Неужели даже ты «думаешь»? Это ты так сказала? Та твоя знаменитая цитата? «Думать...»
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:" Думать - это для глупцов. Гениальным людям нужна только их сообразительность". +Но это важная миссия. Я просто соблюдаю повышенную осторожность.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Осторожность? Ха, ха. Посмотри на меня, Negev. +Покажи мне, КАК ты понимаешь, что такое «осторожность».
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Осторожность подразумевает, что я хочу, чтобы ты помогла мне с разведкой.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Составь маршрут, который позволит мне завершить изучение местности, не погибнув. Тогда я пойду.
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Хмпф, ты так говоришь, будто для меня это непростая задачка.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Может быть, это будет просто не для тебя, но для твоего начальника.+Не доставляй проблем Командиру.
+AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Все зависит от судьбы. Я всего лишь ее проводник.
+AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||<黑屏1>:Прекрасно. Опять цитаты в стиле Negev... Да, это все еще ты. +Я пошла готовиться.Свяжись с Командиром.
 ()||<BIN>9</BIN><黑屏2>:...
-<Speaker>Иерихон</Speaker>()||:I didn't know you can be so cocky.
-<Speaker>Negev</Speaker>()||:Being self-assured and being cocky are two different things. +Any T-Doll will become an elite under your hellish training.
-<Speaker>Иерихон</Speaker>()||:IF she survives it.
-<Speaker>Negev</Speaker>()||<黑屏1>:That's why I'm the only elite. +As I've promised, I'll make it till the very end.
+<Speaker>Иерихон</Speaker>()||:Я и не знала, что ты можешь быть такой самоуверенной.
+<Speaker>Negev</Speaker>()||:Быть уверенным в себе и быть самоуверенным - две разные вещи. +Любая Т-Кукла станет элитой под твоей адской подготовкой.
+<Speaker>Иерихон</Speaker>()||:ЕСЛИ она выживет.
+<Speaker>Negev</Speaker>()||<黑屏1>:Именно поэтому я - Элита. +Как я и обещала, я доберусь до самого конца.
 ()||<BIN>8</BIN><黑屏2>:...
-NEGEV(0)<Speaker>Negev</Speaker><通讯框>||:Good evening, Commander. Did you sleep well? I hope you've adjusted your biorhythm properly. +Have you finished reading the mission brief? +...Hey, is that a yawn? I told you to fix your body clock, didn't I? +...I don't want to hear your excuses. Go wash your face and let's begin the operation.
+NEGEV(0)<Speaker>Negev</Speaker><通讯框>||:Добрый вечер, Командир. Вы выспались?
+ Надеюсь, вы скорректировали свой рабочий график. +Дочитали краткое описание миссии? +... Эй, это что, зевок? Я же говорила тебе, что нужно подкорректировать биоритмы? +...Я не хочу выслушивать твои отговорки. Умойтесь и начнем операцию.
 ()||<黑点1>:...
-NEGEV(0)<Speaker>Negev</Speaker><通讯框>||<BIN>10</BIN><黑点2>:Feeling better, Commander? Can we start? +This mission is highly dangerous. We're heading deep into Sangvis territory to retrieve something. Conflict with S.F. is probable. +The Ringleader presiding over the area is still unidentified, but don't worry. Just listen to my advice. +As a Griffin elite, it's my job to help you achieve victory. Trust me. +Now let's be on our way!
+NEGEV(0)<Speaker>Negev</Speaker><通讯框>||<BIN>10</BIN><黑点2>:Вам полегчало, Командир? Мы можем начинать? +Эта миссия очень опасна. Мы направляемся вглубь территории Сангвиса, чтобы кое-что забрать. Вероятен конфликт с С.Ф. +Командирша, возглавляющий эту зону, до сих пор не определена, но не волнуйтесь. Просто придерживайтесь моих советов. +Как Элита Грифонов, я должна помочь вам добиться успеха. Доверьтесь мне. +А теперь в путь!
