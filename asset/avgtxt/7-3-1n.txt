@@ -1,25 +1,25 @@
 ()||<BIN>9</BIN><BGM>BGM_Room</BGM>:...
-<Speaker>Jericho</Speaker>()||:So you abandoned your friends?
-<Speaker>Negev</Speaker>()||:I didn't forget what you'd taught me, Jericho. +My mission is more important than my friends because...
-<Speaker>Jericho</Speaker>()||:Because T-Doll friends can be rebuilt, but a failed mission is failed. +Looks like you stick to this principle better than I do.
-<Speaker>Negev</Speaker>()||:Someone has to keep your flair alive. And someone has to be play the villain.
-<Speaker>Jericho</Speaker>()||:... +You have your own path to walk, Negev.
-<Speaker>Negev</Speaker>()||:Perhaps you've pointed me to the wrong way.
-<Speaker>Jericho</Speaker>()||:Oh, I've compiled a list of what's wrong with you. +But this... +If Griffin's okay with this, then I have nothing to say.
-<Speaker>Negev</Speaker>()||<黑屏1>:Then let me continue. The next part is crucial.
+<Speaker>Иерихон</Speaker>()||:Значит, ты бросила своих друзей?
+<Speaker>Negev</Speaker>()||:Я не забыла, чему ты меня научила, Иерихон. +Моя миссия важнее, чем мои друзья, потому что...
+<Speaker>Иерихон</Speaker>()||:Потому что Т-Кукол можно восстановить, а невыполненная миссия - это провал. +Похоже, ты следуешь этому принципу лучше, чем я.
+<Speaker>Negev</Speaker>()||:Кто-то же должен сохранить твое мастерство. И кто-то должен играть роль злодея.
+<Speaker>Иерихон</Speaker>()||:... +У тебя свой путь, Negev.
+<Speaker>Negev</Speaker>()||:Возможно, ты направила меня по неверному пути.
+<Speaker>Иерихон</Speaker>()||:О, я составила список того, что с тобой не так. +Но это... +Если Грифон не против, то и мне нечего сказать.
+<Speaker>Negev</Speaker>()||<黑屏1>:Тогда я продолжу. Следующая деталь имеет решающее значение.
 ()||<黑屏2><BGM>BGM_Empty</BGM><黑屏1>:...
-TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||<BIN>85</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Negev, are you leaving Galil behind?
-TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:Don't worry about her. +We can only choose a side, so we're choosing the more important one.
-TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:You're right. This is more "worth it". +Did the Commander say anything?
-TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:I've reported my whole plan. The Commander trusts me. +Can you handle what's inside of the factory, Tavor?
-TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:I can only keep the gates open for three minutes. Will that be enough?
-TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:Three minutes? That's stretching it a bit...
-TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Well, that's your problem, my lady.
-TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:Ha. Aren't you worried that I won't come get you?
-TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:You said your mission is more important than your friends. Or was that a lie?
-TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:...Alright, I shouldn't have tried to haggle. +On my mark. Open the gates of the factory when I give the order.
-TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Ready whenever you are.
-NEGEV(0)<Speaker></Speaker>||:...Click. Transmission terminated.
-NEGEV(0)<Speaker>Negev</Speaker><通讯框>||<黑点1>:The clock is ticking, Commander. We gotta pick up the pace. +...Hold on, did you fall asleep? +Jeez... I put some energy drinks in the fridge. Grab a can and down it all now. +Okay? Then hurry. I'll be waiting.
-()||<黑点2><震屏>:...Crack! +...Gulp. Gulp...
-NEGEV(0)<Speaker>Negev</Speaker><通讯框>||<黑屏1>:Well? Feeling better? +Seriously, just imagine if I weren't your adjutant. +Now buckle up. It'll be bad news if we miss the chance and run into the Ringleader. +...What? I'm not afraid. Isn't it my job as your adjutant to find the best solution for you? +...That's right. We can't let all our efforts and sacrifices be in vain. Let's go!
+TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||<BIN>85</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Negev, ты бросила Galil?
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:Не переживай за нее. +Мы выбираем только одну из сторон, поэтому мы выбираем наиболее важную.
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Ты права. Это «стоит того». +Командир что-нибудь сказал?
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:Я рассказала обо своем плане. Командир доверяет мне. +Ты сможешь справиться с тем, что находится внутри завода, Tavor?
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Я смогу удерживать ворота открытыми только три минуты. Этого будет достаточно?
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:Три минуты? Это несколько чересчур...
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Ну, это твоя проблема, госпожа.
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:Ха. Ты не боишься, что я не приду за тобой?
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Ты сказала, что миссия важнее, чем твои друзья. Или ты соврала?
+TAR21(0);NEGEV(0)<Speaker>Negev</Speaker>||:...Ладно, не нужно было спорить. +По моей команде. Откроешь ворота завода, когда я отдам приказ.
+TAR21(0)<Speaker>TAR-21</Speaker>;NEGEV(0)||:Всегда готова.
+NEGEV(0)<Speaker></Speaker>||:...Клик. Связь закончена.
+NEGEV(0)<Speaker>Negev</Speaker><通讯框>||<黑点1>:Время поджимает, Командир. Мы должны ускориться. +... Погоди, ты уснул? +Боже... Я положила в холодильник энергетик. Возьми банку и выпей сейчас же. +Хорошо? Тогда поторопись. Я буду ждать.
+()||<黑点2><震屏>:...Треск! +...Хлюп. Хлюп...
+NEGEV(0)<Speaker>Negev</Speaker><通讯框>||<黑屏1>:Ну как? Полегчало?+ Серьезно, только представь, если бы я не была твоим адъютантом.+ А теперь крепись. Будет плохо, если мы упустим шанс и столкнемся с командиршой.+...Что? Я не боюсь. Разве это не моя работа как твоего адъютанта - найти для тебя лучшее решение?+...Правильно. Мы не можем позволить, чтобы все наши усилия и жертвы были напрасными.+ Поехали!
