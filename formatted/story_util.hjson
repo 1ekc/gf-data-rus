@@ -2101,7 +2101,7 @@
     scripts: 7-1-1N,7-1-2N
     campaign: 7
     bgm: BGM_Frontline
-    title: Одностороннее воспоминание I
+    title: Одна сторона воспоминаний I
     is_util: 1
     start: 7-1-1N
     first: 7-1-2N
@@ -2114,7 +2114,7 @@
     scripts: 7-2-1N,7-2-2N
     campaign: 7
     bgm: BGM_Frontline
-    title: Одностороннее воспоминание II
+    title: Одна сторона воспоминаний II
     is_util: 1
     start: 7-2-1N
     first: 7-2-2N
@@ -2127,7 +2127,7 @@
     scripts: 7-3-1N,7-3-2N
     campaign: 7
     bgm: BGM_Frontline
-    title: Одностороннее воспоминание III
+    title: Одна сторона воспоминаний III
     is_util: 1
     start: 7-3-1N
     first: 7-3-2N
@@ -2140,7 +2140,7 @@
     scripts: 7-4-1N,7-4-2N
     campaign: 7
     bgm: BGM_Frontline
-    title: Одностороннее воспоминание IV
+    title: Одна сторона воспоминаний IV
     is_util: 1
     start: 7-4-1N
     first: 7-4-2N
