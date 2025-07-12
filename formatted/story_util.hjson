@@ -1272,11 +1272,11 @@
   {
     id: 99
     mission_id: "10005"
-    description: Dozens of days after the mind breaking of M4A1, the AR Team is attacked by a Jupiter Cannon bombardment while coming back from a visit. They must find a way out in this world of ice and snow.
+    description: Спустя десятки дней после взлома сознания M4A1, команда AR, возвращаясь с визита, подвергается бомбардировке Юпитером. Они должны найти выход в этом мире льда и снега.
     scripts: -2-1-1,-2-1-4-Point2007,-2-1-4-Point2179,-2-1-2First
     campaign: -2
     bgm: BGM_Frontline
-    title: The Wolves Gather I
+    title: Волки в сборе I
     is_util: 1
     start: -2-1-1
     point: 2007:-2-1-4-Point2007,2179:-2-1-4-Point2179
@@ -1286,11 +1286,11 @@
   {
     id: 100
     mission_id: "10006"
-    description: After confirming the current situation of being hungry, cold, and deep in enemy territory, the AR Team continues their search for a comms station in an attempt to establish contact with Helian...
+    description: Подтвердив, что сейчас Команда AR голодна, мерзнет и находится на вражеской территории, она все еще продолжает поиски станции связи, пытаясь установить контакт с Хелиан...
     scripts: -2-2-1,-2-2-4-Point2204,-2-2-2First
     campaign: -2
     bgm: BGM_Frontline
-    title: The Wolves Gather II
+    title: Волки в сборе II
     is_util: 1
     start: -2-2-1
     point: 2204:-2-2-4-Point2204
@@ -1300,11 +1300,11 @@
   {
     id: 101
     mission_id: "10007"
-    description: The AR Team struggles to find a resupply station in this terrible weather. Coincidentally, they receive a new mission: search for an important T-Doll survivor.
+    description: Команда AR изо всех сил пытается найти пункт пополнения припасов в такую ужасную погоду. По стечению обстоятельств они получают новое задание: найти выжившую Т-Куклу.
     scripts: -2-3-1,-2-3-4-Point2215,-2-3-4-Point2058,-2-3-2First
     campaign: -2
     bgm: BGM_Frontline
-    title: The Wolves Gather III
+    title: Волки в сборе III
     is_util: 1
     start: -2-3-1
     point: 2215:-2-3-4-Point2215,2058:-2-3-4-Point2058
@@ -1314,11 +1314,11 @@
   {
     id: 102
     mission_id: "10008"
-    description: Sangvis Ringleader Gager discovers the AR Team and places the entire area on lockdown. With the darkness of the night quickly approaching, the AR Team begins their final breakthrough...
+    description: Командир Сангвиса Гагер обнаруживает Команду AR и оцепляет весь район. С наступлением темноты команда AR начинает свой последний прорыв...
     scripts: -2-4-1,-2-4-2First,-2-4-2End
     campaign: -2
     bgm: BGM_Frontline
-    title: The Wolves Gather IV
+    title: Волки в сборе IV
     is_util: 1
     start: -2-4-1
     first: -2-4-2First
@@ -1327,11 +1327,11 @@
   {
     id: 103
     mission_id: "10009"
-    description: That night, UMP45 received an assignment from Helian. The task is to head towards the Sangvis Ferri Jupiter Cannon testing grounds to rescue the AR Team that has been MIA until now.
+    description: Этой ночью UMP45 получила задание от Хелиан. Задача - отправиться на полигон для испытаний пушек Сангвис Ферри, чтобы спасти команду AR, которая до сих пор оставалась в розыске.
     scripts: -3-1-1,-3-1-2First
     campaign: -3
     bgm: BGM_Frontline
-    title: Lighting Curfew I
+    title: Комендантский час I
     is_util: 1
     start: -3-1-1
     first: -3-1-2First
@@ -1340,11 +1340,11 @@
   {
     id: 104
     mission_id: "10010"
-    description: On the other side, HK416 and G11 have also started their operation. Their task is to provide cover for 45 and 9 and then link up afterwards.
+    description: С другой стороны, HK416 и G11 также начали свою операцию. Их задача - обеспечить прикрытие 45-ой и 9-ой, а затем объединиться.
     scripts: -3-2-1,-3-2-2First
     campaign: -3
     bgm: BGM_Frontline
-    title: Lighting Curfew II
+    title: Комендантский час II
     is_util: 1
     start: -3-2-1
     first: -3-2-2First
@@ -1353,11 +1353,11 @@
   {
     id: 105
     mission_id: "10011"
-    description: Under the cover of darkness, the members of the 404 Squad regroups together. 45 prepares to investigate a safe house that was used by the AR Team to assess the current situation.
+    description: Под покровом темноты участники Отряда 404 собираются вместе. 45-я готовится к исследованию убежища, которое использовала Команда AR, чтобы оценить текущую ситуацию.
     scripts: -3-3-1,-3-3-2First
     campaign: -3
     bgm: BGM_Frontline
-    title: Lighting Curfew III
+    title: Комендантский час III
     is_util: 1
     start: -3-3-1
     first: -3-3-2First
@@ -1366,11 +1366,11 @@
   {
     id: 106
     mission_id: "10012"
-    description: Another Sangvis Ringleader, Architect, discovered the whereabouts of the 404 Squad, exactly as 45 had planned. Operation Breakthrough and Rescue starts now.
+    description: Другой командир Сангвиса, Архитектор, обнаружил местонахождение Отряда 404, как и запланировала 45-я. Операция «Прорыв и спасение» начинается прямо сейчас.
     scripts: -3-4-1,-3-4-4-Point2499,-3-4-2First,-3-4-2End
     campaign: -3
     bgm: BGM_Frontline
-    title: Lighting Curfew IV
+    title: Комендантский час IV
     is_util: 1
     start: -3-4-1
     point: 2499:-3-4-4-Point2499
@@ -1380,11 +1380,11 @@
   {
     id: 107
     mission_id: "10013"
-    description: The AR Team and the 404 Squad have successfully linked up, but the crisis is still far from being resolved. Commander RO has decided to find a safe location to reestablish communications with Grifon first.
+    description: Команда AR и отряд 404 успешно объединились, но кризис еще далек от разрешения. Командир RO решила сначала найти безопасное место, чтобы восстановить связь с Грифоном.
     scripts: -4-1-1,-4-1-2First
     campaign: -4
     bgm: BGM_Frontline
-    title: Operation Homecoming I
+    title: Операция «Прорыв и спасение» I
     is_util: 1
     start: -4-1-1
     first: -4-1-2First
@@ -1393,11 +1393,11 @@
   {
     id: 108
     mission_id: "10014"
-    description: We are still very far off from the exfil Heliport. 45 suggests we eliminate Sangvis Ferri's ability to monitor the area first to ensure that we can get away safely.
+    description: Команда все еще очень далеко от вертолетной площадки. 45-я предлагает сначала устранить возможность Сангвиса Ферри следить за местностью, чтобы безопасно уйти.
     scripts: -4-2-1,-4-2-2First
     campaign: -4
     bgm: BGM_Frontline
-    title: Operation Homecoming II
+    title: Операция «Прорыв и спасение» II
     is_util: 1
     start: -4-2-1
     first: -4-2-2First
@@ -1406,11 +1406,11 @@
   {
     id: 109
     mission_id: "10015"
-    description: Sangvis has stepped up their encirclement operations. The AR Team must seize the moment to collect enough supplies to evacuate.
+    description: Сангвис усилил свои действия по окружению. Команда AR должна воспользоваться моментом и успеть собрать достаточно припасов для эвакуации.
     scripts: -4-3-1,-4-3-2First
     campaign: -4
     bgm: BGM_Frontline
-    title: Operation Homecoming III
+    title: Операция «Прорыв и спасение» III
     is_util: 1
     start: -4-3-1
     first: -4-3-2First
@@ -1419,11 +1419,11 @@
   {
     id: 110
     mission_id: "10016"
-    description: RO accepts 45's plan for evacuation under worsening conditions. But...do things really always go as planned?
+    description: RO поддерживает план 45-ой по эвакуации при ухудшающихся условиях. Но... всегда ли все идет по плану?
     scripts: -4-4-1,-4-4-2First,-4-4-2End
     campaign: -4
     bgm: BGM_Frontline
-    title: Operation Homecoming IV
+    title: Операция «Прорыв и спасение» IV
     is_util: 1
     start: -4-4-1
     first: -4-4-2First
@@ -1432,7 +1432,7 @@
   {
     id: 112
     mission_id: "10022"
-    description: M4A1's Report: ......Where...am I?
+    description: Отчет M4A1: ......Где... я?
     scripts: -7-1-1,-7-1-3Round1,-7-1-2First,-7-1-2End
     campaign: -7
     bgm: BGM_Frontline
@@ -1446,7 +1446,7 @@
   {
     id: 113
     mission_id: "10023"
-    description: M4A1's Report: I hate responsibility, yet it has found me once again. P08, I will lead everyone here to safety.
+    description: Отчет M4A1: Я ненавижу ответственность, но она снова настигла меня. P08, я выведу всех в безопасное место.
     scripts: -7-2-1,-7-2-3Round1,-7-2-2First,-7-2-2End
     campaign: -7
     bgm: BGM_Frontline
@@ -1460,7 +1460,7 @@
   {
     id: 114
     mission_id: "10024"
-    description: M4A1's Report: Why is Architect here of all places? ...I can't get psyched out. I must achieve victory…
+    description: Отчет M4A1: Почему Архитектор именно здесь? ...Я не должна психовать. Я должна добиться победы...
     scripts: -7-3-1,-7-3-3Round1,-7-3-2First,-7-3-2End
     campaign: -7
     bgm: BGM_Frontline
@@ -1474,7 +1474,7 @@
   {
     id: 115
     mission_id: "10025"
-    description: M4A1's Report: Ouroboros...what in the world is going on...what...is this place...can we...survive…
+    description: Отчет M4A1: Уроборос... что в мире происходит... что... это за место... сможем ли мы... выжить...
     scripts: -7-4-1,-7-4-3Round1,-7-4-2First,-7-4-2End
     campaign: -7
     bgm: BGM_Frontline
@@ -2336,11 +2336,11 @@
   {
     id: 192
     mission_id: "10017,10105"
-    description: Though the AR Team survived the crisis, Persica has made a final request - to capture a Jupiter mortar. Defend against the Sangvis onslaught while the mission is underway!
+    description: Несмотря на то, что Команда AR пережила кризис, Персика обратилась с последней просьбой - захватить миномет Юпитера. Защититесь от натиска Сангвиса, пока выполняется миссия!
     scripts: -5-1-1,-5-1-3Round10
     campaign: -5
     bgm: BGM_Frontline
-    title: Down the Rabbit Hole
+    title: Спуститься в кроличью нору
     is_util: 1
     start: -5-1-1
     round: 5:-5-1-3Round10
