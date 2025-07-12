@@ -1,29 +1,29 @@
 ()||<BIN>6</BIN><BGM>BGM_Sneak</BGM>:...
-RO635(0)<Speaker>RO635</Speaker>||:Guys, we're about to get to the outpost!
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Hey, over there!
+RO635(0)<Speaker>RO635</Speaker>||:Девочки, мы почти добрались до аванпоста!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Эй, там!
 RO635(4)<Speaker>RO635</Speaker>||:...!
-()||<SE1>Explode</SE1>:BOOM!
-M16(3)<Speaker>M16A1</Speaker>||:Hey, that's a Jupiter, isn't it?! +They've got one even here?!
-()||<SE1>Explode</SE1>:BOOM!
-RO635(4)<Speaker>RO635</Speaker>||:Not just one... +I think we just happened to have crashed in a really bad place.
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:What the heck?! The cannon blew the outpost to smithereens! +Now what?!
-RO635(5)<Speaker>RO635</Speaker>||:Change of plan. We go around and keep moving! +Keep your eyes open. S.F. has already noticed our presence!
-M16(3)<Speaker>M16A1</Speaker>||:We've been very careful the whole way. How did they find us?
-RO635(4)<Speaker>RO635</Speaker>||:No clue. Perhaps the Ringleader here is something else.
-M16(3)<Speaker>M16A1</Speaker>||:You mean there are other dolls like Dreamer?
-RO635(0)<Speaker>RO635</Speaker>||:Don't worry too much for now. Sangvis forces haven't completely surrounded us yet, which means they don't have our precise location. +Let's just change our course of action and go around first.
-M16(3)<Speaker>M16A1</Speaker>||:There's a forest to the west. It may be safer to take cover in there.
-RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Can't be helped. We'll have to give it a shot... +Helian said another freighter was shot down in this area. +We might be able to find resources and survivors on the way. Hopefully we'll make it in time... +Before we're discovered by this unfathomable Sangvis T-Doll...
-()||<BGM>BGM_Empty</BGM><BIN>34</BIN><黑屏2>:Meanwhile, in a Sangvis Ferri command post.
-BOSS-9(0)<Speaker>Architect</Speaker>||<BGM>BGM_Boss</BGM>:Haha! Yes! I got it! +Bull's-eye! Bull's-eye!
-Gager()<Speaker>Gager</Speaker>||:It's early in the morning... Pipe down...
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:So...what bull's-eye?
-BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Hey! Gager, look! +I just hit that communication outpost!
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:... +And...why did you do that?
-BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Hmm...no reason at all. +It was just situated on a super irritating spot and I felt like testing my aim, tee-hee!
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:Jeez... +Don't waste your OCD on such trivial matters. +If you have the time, why don't you search for Griffin survivors?
-BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Huh? There are survivors?
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:Your shell only grazed that aircraft. The probability that they managed to crash-land safely is extremely high.
-BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Hmm... Since the data is from you... +But we're here to test these cannons, right? If both of us move out, who's gonna guard them?
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:I'll go look for survivors. You just stay here and keep the base secure... +And stop firing random shots. You might end up hitting friendly units.
-BOSS-9(0)<Speaker>Architect</Speaker>||<黑屏1>:Alright, alright, I get it. +Then I'm leaving them to you. Move along!
+()||<SE1>Explode</SE1>:БА-БАХ!
+M16(3)<Speaker>M16A1</Speaker>||:Эй, это же Юпитер?! +Они есть даже здесь?!
+()||<SE1>Explode</SE1>:БА-БАХ!
+RO635(4)<Speaker>RO635</Speaker>||:И не один... +Я думаю, что мы потерпели крушение в самом неудачном месте.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Что за хрень?! Пушка разнесла аванпост на кусочки! +А что теперь?!
+RO635(5)<Speaker>RO635</Speaker>||:Меняем план. Мы идем в обход и продолжаем движение! +Не отвлекайтесь. С.Ф. уже заметил наше присутствие!
+M16(3)<Speaker>M16A1</Speaker>||:Мы всю дорогу были очень осторожными. Как они нас нашли?
+RO635(4)<Speaker>RO635</Speaker>||:ХЗ. Возможно, командиром здесь является какая-то другая личность.
+M16(3)<Speaker>M16A1</Speaker>||:Ты подразумеваешь, что есть и другие куклы, похожие на Мечтательницу?
+RO635(0)<Speaker>RO635</Speaker>||:Не стоит сильно опасаться. Силы Сангвиса еще не до конца окружили нас, а значит, они не знают нашего точного местоположения. +Давайте изменим наш план действий и обойдем их в первую очередь.
+M16(3)<Speaker>M16A1</Speaker>||:На западе есть лес. Возможно, там будет надежнее укрыться.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Других вариантов не вижу. Придется попробовать... +Хелиан рассказывала, что в этом районе был сбит еще один грузовой самолет. +Возможно, по пути нам удастся найти ресурсы и выживших. Надеюсь, мы успеем... +Пока нас не обнаружил эта загадочная Т-Кукла Сангвиса...
+()||<BGM>BGM_Empty</BGM><BIN>34</BIN><黑屏2>:Тем временем в командном пункте Сангвис Ферри.
+BOSS-9(0)<Speaker>Архитектор</Speaker>||<BGM>BGM_Boss</BGM>:Хаха! Да! Я попала! +Точный выстрел! Прямо в яблочко!
+Gager()<Speaker>Замерщица</Speaker>||:Сейчас раннее утро... Умолкни...
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-9(0)||:Итак... в какое же яблочко?
+BOSS-7(0);BOSS-9(0)<Speaker>Архитектор</Speaker>||:Эй! Замерщица, смотри! +Я только что расфигачила тот аванпост связи!
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-9(0)||:... +И... зачем ты это сделала?
+BOSS-7(0);BOSS-9(0)<Speaker>Архитектор</Speaker>||:Хм... да так, просто для разнообразия. +Он просто был расположен на очень раздражающем месте, и мне захотелось проверить свой прицел, ти-хи-хи!
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-9(0)||:Боже... +Не трать свои ресурсы на такие пустяки. +Если у тебя есть время, почему бы тебе не заняться поиском выживших Грифонов?
+BOSS-7(0);BOSS-9(0)<Speaker>Архитектор</Speaker>||:А? Кто-то выжил?
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-9(0)||:Твой снаряд только задел этот самолет. Высока вероятность того, что им удалось приземлиться невредимыми.
+BOSS-7(0);BOSS-9(0)<Speaker>Архитектор</Speaker>||:Хм... Раз ты так говоришь... +Но мы здесь, чтобы испытать эти пушки, верно? Если мы оба уйдем, кто будет их охранять?
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-9(0)||:Я пойду искать выживших. А ты оставайся здесь и охраняй базу... +И перестань стрелять наугад. Ты можешь попасть в дружественные отряды.
+BOSS-9(0)<Speaker>Архитектор</Speaker>||<黑屏1>:Хорошо, хорошо, я поняла. +Тогда я оставляю их тебе. Иди!
