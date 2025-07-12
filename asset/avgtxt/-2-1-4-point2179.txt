@@ -1,6 +1,6 @@
-M16(3)<Speaker>M16A1</Speaker>||<BIN>10</BIN>:RO, there are multiple Sangvis outposts ahead. +Their defense isn't too strong judging by visual assessment, but we're currently low on supplies so breaking through will still be tough.
-RO635(0)<Speaker>RO635</Speaker>||:Hmm... Anything on your end, SOP II?
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:I just saw a supply checkpoint over there. Maybe we can top up first? 
-M16(3)<Speaker>M16A1</Speaker>||:Must be the supplies from the Griffin freighter that got shot down... +RO, that checkpoint can only provide supplies once. It'll be no different than regular checkpoints afterward. +We should plan ahead and only use it when the situation calls for it.
-RO635(0)<Speaker>RO635</Speaker>||:Understood. I'll take that into consideration as I plan our moves.
-()||:【HINT】The resupply nodes in this area are consumptive utility nodes. They revert to normal nodes after single use.
+M16(3)<Speaker>M16A1</Speaker>||<BIN>10</BIN>:RO, впереди несколько аванпостов Сангвиса. +Их оборона не очень надежна, судя по видимой оценке, но у нас сейчас мало БК, так что прорваться будет непросто.
+RO635(0)<Speaker>RO635</Speaker>||:Хм... Есть что-нибудь с твоей стороны, SOP-II?
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Я видела там контрольный пункт снабжения. Может, сначала пополним запасы? 
+M16(3)<Speaker>M16A1</Speaker>||:Должно быть, это припасы с подбитого грузового корабля «Грифон»... +RO, забрать ресурсы можно только один раз. Потом ничего полезного мы из них уже не достанем. +Мы должны планировать заранее и использовать его только тогда, когда этого потребует ситуация.
+RO635(0)<Speaker>RO635</Speaker>||:Поняла. Я учту это при планировании наших действий.
+()||:【СОВЕТ】Узлы пополнения запасов в этой области представляют собой расходные места использования. После однократного посещения они превращаются в обычные узлы.
