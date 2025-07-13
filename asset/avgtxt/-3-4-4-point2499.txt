@@ -1,8 +1,8 @@
-UMP9(0)<Speaker>UMP9</Speaker>||<BIN>10</BIN>:What are you looking at, 45?
-UMP45(0)<Speaker>UMP45</Speaker>||:Some...new discovery. +Look, that artillery station there only has a single Jupiter cannon installed.
-G11(0)<Speaker>Gr G11</Speaker>||:How come...? Did S.F. go on strike halfway through the construction?
-UMP45(0)<Speaker>UMP45</Speaker>||:Simple. The AR Team accidentally wandered into the Sangvis cannon testing ground. +Many cannons aren't installed in time...
-HK416(0)<Speaker>416</Speaker>||:New idea, 45?
-UMP45(0)<Speaker>UMP45</Speaker>||:I think we can break through those incomplete cannons with what we have. +That's gonna save us a lot of time and resources.
-UMP9(0)<Speaker>UMP9</Speaker>||:Sure, let's do it. +But make proper observation beforehand and don't go charging at full-fledged cannons!
-()||:【HINT】Some cannon nodes are significantly impaired and easier to confront directly. Observe and strategize accordingly.
+UMP9(0)<Speaker>UMP9</Speaker>||<BIN>10</BIN>:На что ты смотришь, 45-я?
+UMP45(0)<Speaker>UMP45</Speaker>||:Какое-то... свежее открытие. +Посмотри, на этой артиллерийской станции установлена только одна пушка «Юпитер».
+G11(0)<Speaker>Gr G11</Speaker>||:Как же так...? Разве С.Ф. остановал  обустройство на полпути?
+UMP45(0)<Speaker>UMP45</Speaker>||:Все просто. Команда AR случайно забрела на этот полигон для испытания орудий Сангвиса. +Многие орудия не успевают установить...
+HK416(0)<Speaker>416</Speaker>||:Новая идея, 45-я?
+UMP45(0)<Speaker>UMP45</Speaker>||:Думаю, мы сможем сломать эти незаконченные пушки с теми силами, что у нас есть. +Это сэкономит нам кучу времени и ресурсов.
+UMP9(0)<Speaker>UMP9</Speaker>||:Хорошо, давай сделаем это. +Но предварительно нужно как следует понаблюдать и не нарваться на полноценные посты с артиллерией!
+()||:【СОВЕТ】Некоторые артиллерийские узлы значительно ослаблены, и им легче противостоять напрямую. Наблюдайте и выстраивайте стратегию соответственно.
