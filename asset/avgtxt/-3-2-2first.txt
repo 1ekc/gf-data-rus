@@ -1,29 +1,30 @@
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:...Bang! Bang!
-G11(0)<Speaker>Gr G11</Speaker>||:There. Everything is down.
-HK416(0)<Speaker>416</Speaker>||<黑屏1>:Good. That's the last of the patrols. +I'm heading into the communication outpost. You stay here and wait for 45 and 9.
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:...Бах! Бах!
+G11(0)<Speaker>Gr G11</Speaker>||:Тут. Все разрушено.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:Отлично. Это последний патруль. +Я направляюсь на аванпост связи. Ты останешься здесь и будешь ждать 45 и 9.
 ()||<BIN>34</BIN><黑屏2>:... +......
-G11(2)<Speaker>Gr G11</Speaker>||:Um...416?
-HK416(0)<Speaker>416</Speaker>||:What?
-G11(2)<Speaker>Gr G11</Speaker>||:Are you in control...of that camera over there?
-HK416(2)<Speaker>416</Speaker>||:I'm not touching any camera.
-G11(3)<Speaker>Gr G11</Speaker>||:But...it's moving... +Could this place be haunted...?
-HK416(3)<Speaker>416</Speaker>||:What?!
-HK416(3)<Speaker>416</Speaker>||<BGM>BGM_Boss</BGM>:Hey, speak up. Don't be sneaky!
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:Ah... +Don't mind me. I'm just doing a surveillance check and looking around.
-HK416(0)<Speaker>416</Speaker>;BOSS-9(0)||:Looking around? (Snickers) Have Sangvis neural clouds finally evolved to the point where they don't have to kill us to survive?
-HK416(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Sangvis Ferri Manufacture SPzh3000 "Architect"! +My objective is to find the AR Team. Others don't matter. +(Flipping noise) And there doesn't seem to be any enemy target to attack...for my test runs today... +But who are you? You're not on the list.
-HK416(0)<Speaker>416</Speaker>;BOSS-9(0)||:Not your targets, in any case. +But...why do you want the AR Team so badly? +What on earth do they mean to you?
-HK416(0);BOSS-9(0)<Speaker>Architect</Speaker>||<黑屏1>:Welll...actually, only...
+G11(2)<Speaker>Gr G11</Speaker>||:Эм...416?
+HK416(0)<Speaker>416</Speaker>||:Что?
+G11(2)<Speaker>Gr G11</Speaker>||:А ты контролируешь... вон ту камеру?
+HK416(2)<Speaker>416</Speaker>||:Я не прикасалась ни к одной камере.
+G11(3)<Speaker>Gr G11</Speaker>||:Но... она движется... +Может быть, здесь водятся привидения...?
+HK416(3)<Speaker>416</Speaker>||:Чего?!
+HK416(3)<Speaker>416</Speaker>||<BGM>BGM_Boss</BGM>:Эй, говори громче. Хватит трусить!
+BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:А...+Не обращайте на меня внимания. Я просто посмотрю и понаблюдаю.
+HK416(0)<Speaker>416</Speaker>;BOSS-9(0)||:Осматриваешься? (Хихиканье) Неужто нейрооблака Сангвиса наконец-то эволюционировали до такой степени, что им не нужно убивать нас, чтобы выжить?
+HK416(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Производство Сангвис Ферри SPzh3000 «Архитектор»! +Моя цель - найти Команду AR. Остальное не имеет значения. +(Искаженный шум) И, похоже, здесь нет ни одной цели , которую можно было бы атаковать... для моих сегодняшних испытаний... +Но кто ты? Тебя нет в списках.
+HK416(0)<Speaker>416</Speaker>;BOSS-9(0)||:В общем, не твоя цель. +Но... зачем тебе так нужна Команда AR? +Что они значат для тебя?
+HK416(0);BOSS-9(0)<Speaker>Architect</Speaker>||<黑屏1>:Ну... на самом деле, только...
 ()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:...!
 HK416()<Speaker>416</Speaker>||:...?!
-UMP45()<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_NightOPS</BGM>:Fraternizing with Sangvis Ferri. That's quite a serious crime, 416.
-HK416(0)<Speaker>416</Speaker>||<黑屏2><BIN>34</BIN>:...UMP45. +What are you doing? I almost pried important intel from her.
-UMP45(0)<Speaker>UMP45</Speaker>||:That's not part of the job, 416. Don't go looking for trouble.
-UMP9(3)<Speaker>UMP9</Speaker>||:Heheh, how's everybody doing? +Did you miss me, Gr G11? (Pinches)
-G11(3)<Speaker>Gr G11</Speaker>||:Ughhhhh...
-HK416(0)<Speaker>416</Speaker>||:Well, we've regrouped.
-UMP45(0)<Speaker>UMP45</Speaker>||:Ja, and it's time to go rescue the AR Team. +Happy, 416?
-HK416(0)<Speaker>416</Speaker>||:...You know too well what I really want to say.
-UMP45(0)<Speaker>UMP45</Speaker>||:Heheh, go on. Put your joy into words.
-HK416(0)<Speaker>416</Speaker>||<黑屏1>:Fine. Here I go...
-HK416()<Speaker>416</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:Screw you to hell, UMP45.
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_NightOPS</BGM>:Дружба с Сангвисом Ферри. Это довольно серьезное преступление, 416-я.
+HK416(0)<Speaker>416</Speaker>||<黑屏2><BIN>34</BIN>:...UMP45. +Что ты нахрен делаешь? Я почти выудила у нее важную информацию.
+UMP45(0)<Speaker>UMP45</Speaker>||:Это не входит в твою работу, 416-я. Не ищи проблем.
+UMP9(3)<Speaker>UMP9</Speaker>||:Хехе, как у всех дела? +Ты скучала по мне, Gr G11? (Ущипнула)
+G11(3)<Speaker>Gr G11</Speaker>||:Ухххх...
+HK416(0)<Speaker>416</Speaker>||:Что ж, мы объединились.
+UMP45(0)<Speaker>UMP45</Speaker>||:Йа, и пришло время спасать Команду AR.
+ +Счастлива, 416-я?
+HK416(0)<Speaker>416</Speaker>||:...Ты слишком хорошо знаешь, что я на самом деле хочу сказать.
+UMP45(0)<Speaker>UMP45</Speaker>||:Хехе, продолжай. Выразите свою радость в словах.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:Отлично. Вот я говорю...
+HK416()<Speaker>416</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:Пошел ты нахер, UMP45.
