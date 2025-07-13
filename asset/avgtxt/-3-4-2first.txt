@@ -1,18 +1,18 @@
 ()||<BIN>6</BIN><Night><BGM>BGM_War</BGM><SE2>Gunfight</SE2>:...
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<SE1>Battlefield</SE1>:Hey, what is going on?! +When did these black shirts get around me?!
-UMP45(2)<Speaker>UMP45</Speaker>||:Now, 9! Cut off the power!
-UMP9(4)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:Roger!
+BOSS-9(0)<Speaker>Архитектор</Speaker><通讯框>||<SE1>Battlefield</SE1>:Эй, что происходит?! +Когда эти черные рубашки стали меня окружать?!
+UMP45(2)<Speaker>UMP45</Speaker>||:Сейчас, 9-я! Вырубай питание!
+UMP9(4)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:Принято!
 ()||<SE1>Battlefield</SE1>:...!
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<黑屏1>:Hey! The power is out again?! +But don't celebrate just yet! I've found the command for the auxiliary power already!
-建筑师()<Speaker>Architect</Speaker>||<黑屏2><BIN>9</BIN>:... +Uh, I can't really see during nighttime! +Let me find a light switch first!
-UMP45(2)<Speaker>UMP45</Speaker>||:This is our chance! Retreat!
-UMP9(2)<Speaker>UMP9</Speaker>||:Huh? We're not going in while she's confused?
-UMP45(2)<Speaker>UMP45</Speaker>||<黑屏1>:Our objective isn't to infiltrate the base. We'll be in danger once the power comes back online.
-M1887(0)<Speaker>M1887</Speaker><通讯框>||<黑屏2><BIN>6</BIN><Night>:I see the power has been cut off, 45. Nicely done.
-HK416(0)<Speaker>416</Speaker>||:Sangvis signal... +Who is this, 45?
-UMP45(0)<Speaker>UMP45</Speaker>||:Tactical Doll M1887, our informant. +She has a low-level Sangvis signal, which she's been using to aid us covertly. +And just so you know, the AR Team is also with her.
-UMP9(0)<Speaker>UMP9</Speaker>||:Tee-hee. Since both sides make use of Sangvis signals, our communications are completely off the radar.
-G11(0)<Speaker>Gr G11</Speaker>||:Who'd have thought...that we're not the only ones who have mastered this trick.
-M1887(0)<Speaker>M1887</Speaker><通讯框>||:It's merely an expedient. +You have bought time for the AR Team to slip away, but the battle is still underway. +Please keep distracting Architect. This is the only way for us to throw Gager off our trail.
-HK416(0)<Speaker>416</Speaker>||:We're not very well-stocked ourselves, 45. How long is this operation gonna last?
-UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:Not too long, 416. +I have a different plan...
+BOSS-9(0)<Speaker>Архитектор</Speaker><通讯框>||<黑屏1>:Эй! Опять отключили электричество?! +Рано празднуете! Я уже нашла дополнительную энергию!
+建筑师()<Speaker>Архитектор</Speaker>||<黑屏2><BIN>9</BIN>:... +Ночью я ничего не вижу! +Давай я сначала найду светильник!
+UMP45(2)<Speaker>UMP45</Speaker>||:Это наш шанс! Отступаем!
+UMP9(2)<Speaker>UMP9</Speaker>||:А? Мы не пойдем внутрь, пока она в замешательстве?
+UMP45(2)<Speaker>UMP45</Speaker>||<黑屏1>:Наша цель - не проникнуть на базу. Мы окажемся в опасности, как только вернется электричество.
+M1887(0)<Speaker>M1887</Speaker><通讯框>||<黑屏2><BIN>6</BIN><Night>:Я вижу, что электричество отключили, 45-я. Отлично сделано.
+HK416(0)<Speaker>416</Speaker>||:Сигнал Сангвиса... +Кто это, 45-я?
+UMP45(0)<Speaker>UMP45</Speaker>||:Тактическая Кукла M1887, наш информатор. +У нее есть низкоуровневый сигнал Сангвиса, который она использует, чтобы тайно помогать нам. +И, чтобы вы знали, команда AR тоже с ней.
+UMP9(0)<Speaker>UMP9</Speaker>||:Хе-хе. Поскольку с обеих сторон используются сигналы Сангвиса, наша связь остается полностью вне поля зрения радара.
+G11(0)<Speaker>Gr G11</Speaker>||:Кто бы мог подумать... что мы не единственные, кто освоил этот прием.
+M1887(0)<Speaker>M1887</Speaker><通讯框>||:Это всего лишь средство. +Вы выиграли время, чтобы Команда AR смогла ускользнуть, но сражение все еще продолжается. +Пожалуйста, продолжайте отвлекать Архитектора. Только так мы сможем сбить Замерщицу со следа.
+HK416(0)<Speaker>416</Speaker>||:Мы сами не очень хорошо обеспечены, 45-я. Как долго продлится эта операция?
+UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:Не так уж и долго, 416-я. +У меня есть другой план...
