@@ -1,5 +1,5 @@
 ()||<BIN>6</BIN><Night><BGM>BGM_War</BGM><SE2>Gunfight</SE2>:...
-BOSS-9(0)<Speaker>Архитектор</Speaker><通讯框>||<SE1>Battlefield</SE1>:Эй, что происходит?! +Когда эти черные рубашки стали меня окружать?!
+BOSS-9(0)<Speaker>Архитектор</Speaker><通讯框>||<SE1>Battlefield</SE1>:Эй, что происходит?! +Когда эти чернорубашечники стали меня окружать?!
 UMP45(2)<Speaker>UMP45</Speaker>||:Сейчас, 9-я! Вырубай питание!
 UMP9(4)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:Принято!
 ()||<SE1>Battlefield</SE1>:...!
