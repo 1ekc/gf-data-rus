@@ -1,4 +1,4 @@
-RO635(0)<Speaker>RO635</Speaker>||<BIN>10</BIN>:M16, what did Helian say about that heliport?
-M16(0)<Speaker>M16A1</Speaker>||:According to Helian's intel, the flurry lets up about every fifteen hours. +The heliport will open for five hours during the down time for us to top up our supplies. +We must time it perfectly in order to do that.
-RO635(0)<Speaker>RO635</Speaker>||:Understood. I'll keep that in mind.
-()||:【HINT】The heliport in this area opens once every three turns. It stays open for an extra turn before closing.
+RO635(0)<Speaker>RO635</Speaker>||<BIN>10</BIN>:M16, что Хелиан сказала об этой вертолетной площадке?
+M16(0)<Speaker>M16A1</Speaker>||:По данным Хелиан, шторм проходит примерно каждые пятнадцать часов. +Вертолетная площадка будет открыта в течение пяти часов, чтобы мы могли пополнить запасы. +Для этого мы должны идеально рассчитать время.
+RO635(0)<Speaker>RO635</Speaker>||:Ясно. Буду иметь это в виду.
+()||:【СОВЕТ】Вертолетная площадка в этой зоне открывается раз в три хода. Перед закрытием она остается открытой еще на один круг.
