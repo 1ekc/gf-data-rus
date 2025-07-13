@@ -1,21 +1,21 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:... +......
-UMP45()<Speaker>UMP45</Speaker>||:Hmm, got it. +Rescuing the AR Team is our priority, correct?
-赫丽安()<Speaker>Helian</Speaker>||:Yes. Remember our informant's comms channel and watch out for the cannons. +Mr Kryuger wants to see them alive.
-UMP45()<Speaker>UMP45</Speaker>||:We've never disappointed him... +Not since the very beginning, have we?
-()||:Transmission terminated.
-UMP9()<Speaker>UMP9</Speaker>||<黑屏1>:Hmm...
-UMP45(0)<Speaker>UMP45</Speaker>||<BIN>6</BIN><黑屏2><Night><BGM>BGM_NightOPS</BGM>:Oh, you awake?
-UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Was that...a call from Miss Helian?
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:We have the last piece of intel. Time to set off.
-UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Can't believe you actually took the job.
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:Huh? Is that strange?
-UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Nah, not really. +But it's pretty cold. This is gonna take some getting used to.
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:Humph. We already have it way better than the AR Team. +They're still going in circles, waiting for the heliport to open.
-UMP9(2)<Speaker>UMP9</Speaker>;UMP45(0)||:(Sighs) We'll have to do the same thing once the operation begins. +And 416 isn't gonna be happy about rescuing the AR Team...
-UMP9(2);UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:Tee-hee. Since when have we received jobs that make us happy? +Alright, rub the sleep off your face. I'm doing the briefing.
-UMP45(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>10</BIN>:We'll need to enter from the east and take over an outpost in the north to give 416 and Gr G11 the chance to infiltrate the battlefield.
-UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Are they already there?
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:They're on standby at the outpost in the north, studying the terrain. +9, have our maps been updated?
-UMP9(3)<Speaker>UMP9</Speaker>;UMP45(0)||:Ja! All updated!
-UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:There are two routes to go north...up here... +The one above is too heavily fortified. It'll be the safest bet to sneak in from the side.
-UMP45(0)<Speaker>UMP45</Speaker>||:Understood. I'll take that into consideration. +Now let's start moving. ♪
+UMP45()<Speaker>UMP45</Speaker>||:Хм, поняла. +Спасение Команды AR - в приоритете, верно?
+赫丽安()<Speaker>Хелиан</Speaker>||:Да. Запомните канал связи нашего информатора и следите за орудиями. +Господин Крюгер хочет видеть их живыми.
+UMP45()<Speaker>UMP45</Speaker>||:Мы никогда не разочаровывали его... +И не стоит начинать, верно?
+()||:Передача завершена.
+UMP9()<Speaker>UMP9</Speaker>||<黑屏1>:Хмм...
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>6</BIN><黑屏2><Night><BGM>BGM_NightOPS</BGM>:О, уже проснулась?
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Это был... звонок от мисс Хелиан?
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:У нас есть последние сведения. Пора отправляться.
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Не могу поверить, что ты реально согласилась на эту работу.
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:А? Разве это странно?
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Ну, не совсем. +Но здесь чертовски холодно. Придется привыкать.
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:Хмпф. У нас дела намного лучше, чем у Команды AR. +Они все еще ходят кругами, ожидая, когда будет доступна вертолетная площадка.
+UMP9(2)<Speaker>UMP9</Speaker>;UMP45(0)||:(Вздох) Нам придется делать то же самое, когда начнется операция. +И 416 не будет в восторге от спасения Команды AR...
+UMP9(2);UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:Хе-хе. С каких это пор мы получаем задания, которые нас радуют? +Ладно, протри лицо от сна. Я проведу инструктаж.
+UMP45(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>10</BIN>:Нам нужно зайти с востока и захватить аванпост на севере, чтобы дать 416 и Gr G11 возможность проникнуть на поле сражения.
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Они уже здесь?
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:Они в резерве на северном аванпосте, изучают местность. +9-я, наши карты обновлены?
+UMP9(3)<Speaker>UMP9</Speaker>;UMP45(0)||:Йа йа! Все обновлено!
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Есть два пути на север... здесь... +Тот, что выше, слишком сильно укреплен. Безопаснее всего будет пробраться сбоку.
+UMP45(0)<Speaker>UMP45</Speaker>||:Поняла. Я приму это к сведению. +А теперь давайте начнем движение. ♪
