@@ -1,2 +1,2 @@
 ()||<BIN>10</BIN>:...
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:Griffin buggers, I have the feeling...that you've already started making your move. +The question is, do you have the guts to fight me head-on, or are you gonna sneak in here? +Whichever you choose, you will be very warmly received. +So do keep up your efforts and do your best in committing suicide. Hahahahahahaha!
+BOSS-9(0)<Speaker>Архитектор</Speaker><通讯框>||:Грифон, у меня такое чувство... что ты уже начал действовать. +Вопрос в том, хватит ли у тебя смелости сразиться со мной в лоб, или ты собираешься проникнуть сюда тайком? +Что бы вы ни выбрали, то вас очень тепло примут. +Так что не останавливайтесь на достигнутом и сделайте все возможное, чтобы совершить самоубийство. Хахахахахахаха!
