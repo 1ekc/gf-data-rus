@@ -1,72 +1,72 @@
-()||<BGM>BGM_Empty</BGM><BIN>41</BIN><火花><SE1>Battlefield</SE1>:Entering the final stage of the battle against Ouroboros.
-WeaverElite(3)<Speaker>Ouroboros</Speaker>||:I don't dislike people who struggle to their dying breath. After all, your futile resistance is my source of happiness. +Sadly...it looks like you've reached your limit, SR-3MP.
-SR3MP()<Speaker>SR-3MP</Speaker>||:Oh dear...it does seem so... +After all, we don't really...have many T-Dolls left...
-WeaverElite(3)<Speaker>Ouroboros</Speaker>||<SE1>Battlefield</SE1>:Still fishing for compliments before you die?
-WeaverElite(1)<Speaker>Ouroboros</Speaker>||:But really sorry to tell you that everything you do is for naught. +No matter how many units you destroy, it won't affect the overall outcome.
-SR3MP()<Speaker>SR-3MP</Speaker>||:That doesn't matter... After all, my objective isn't to defeat you... +I only have to hang on...until she makes it here...
-WeaverElite(3)<Speaker>Ouroboros</Speaker>||:...!
-()||:M4A1 appears with the sound of footsteps.
-M4A1(0)<Speaker>M4A1</Speaker>||:Don't worry, Vikhr... +As the commander, I will lower the curtains for the battle tonight in person.
-SR3MP()<Speaker>SR-3MP</Speaker>||:Such an eyesore you are, M4A1... +It's precisely because you're always stealing the show that I don't like you... +But...seeing that M99 got out safely...
-M4A1(2)<Speaker>M4A1</Speaker>||:(Smiles) ...I apologize. +This will be the last time...I interrupt...
-WeaverElite(3)<Speaker>Ouroboros</Speaker>||:M4A1, you actually...
-M4A1(0)<Speaker>M4A1</Speaker>||:Do you have to be so surprised, Ouroboros? +I thought you've been dying to see me? I just saved you the steps in between.
-WeaverElite(3)<Speaker>Ouroboros</Speaker>||:What a party pooper. +I thought you could've come up with some more interesting tricks. Turns out it's just gonna be a gladiators' fight...
-WeaverElite(1)<Speaker>Ouroboros</Speaker>||<黑屏1><关闭火花>:I show no mercy to those who ruin my good mood.
-M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:Then by all means, Ouroboros. +You're going to kill me tonight... +But before that, you'll learn to fear me first.
-()||<SE2>Gunfight</SE2>:... +An hour later.
-M99()<Speaker>M99</Speaker>||<SE1>Battlefield</SE1>:M4A1! M4A1! +I've successfully withdrawn from the battlefield! Currently meeting up with Miss Helian!
-M4A1()<Speaker>M4A1</Speaker>||:Is that so...? +That's great, M99... +Cough... We...finally won... +Now I can...answer to all those who sacrificed themselves... +And...to myself...
-()||<BGM>BGM_Sad</BGM><SE1>Battlefield</SE1>:... +M99's sobbing comes through the transmission.
-M99()<Speaker>M99</Speaker>||:I'm sorry, M4A1... +Objectively speaking, even though my location and condition make me the easier rescue target... +I still think... +Your life is worth more than ours...
-()||<SE2>Gunfight</SE2>:... +M4A1 tries her best to muster a smile.
-M4A1()<Speaker>M4A1</Speaker>||:That's exactly why...I must die with dignity...
-M99()<Speaker>M99</Speaker>||<SE1>Battlefield</SE1>:M4A1... But you'll really be gone...
-M4A1()<Speaker>M4A1</Speaker>||:As long as someone remembers us, we won't truly die... +So...please return...with your neural cloud... +And tell everyone of what happened tonight... +Tell them... +We...won...
-M99()<Speaker>M99</Speaker>||:M4A1... +I will bring it back... +I will tell everyone...everything that's happened here... +So... +So...please...
+()||<BGM>BGM_Empty</BGM><BIN>41</BIN><火花><SE1>Battlefield</SE1>:Начинается финальная стадия битвы с Уроборосом.
+WeaverElite(3)<Speaker>Уроборос</Speaker>||:Я не испытываю неприязни к людям, которые борются до последнего вздоха.+В конце концов, ваше тщетное сопротивление - мой источник счастья. +К сожалению... похоже, ты достигла своего предела, SR-3MP.
+SR3MP()<Speaker>SR-3MP</Speaker>||:О, боже... похоже на то... +В конце концов, у нас осталось не так уж много Т-Кукол...
+WeaverElite(3)<Speaker>Уроборос</Speaker>||<SE1>Battlefield</SE1>:Все еще ищешь комплиментов перед смертью?
+WeaverElite(1)<Speaker>Уроборос</Speaker>||:Но очень жаль говорить тебе, что все, что ты делаешь, напрасно. +Неважно, сколько отрядов вы уничтожите, это не повлияет на общий результат.
+SR3MP()<Speaker>SR-3MP</Speaker>||:Это неважно... В конце концов, моя цель не в том, чтобы победить тебя... +Мне нужно только продержаться... пока она не доберется сюда...
+WeaverElite(3)<Speaker>Уроборос</Speaker>||:...!
+()||:M4A1 появляется при звуке шагов.
+M4A1(0)<Speaker>M4A1</Speaker>||:Не волнуйся, Вихр... +Как командир, я лично задерну занавес для сегодняшней битвы.
+SR3MP()<Speaker>SR-3MP</Speaker>||:Какое же ты бельмо на глазу, M4A1... +И именно потому, что ты постоянно перехватываешь инициативу, ты мне не нравишься... +Но... видя, что M99 благополучно выбралась...
+M4A1(2)<Speaker>M4A1</Speaker>||:(Улыбается) ...Я извиняюсь. +Это будет в последний раз... я прерву...
+WeaverElite(3)<Speaker>Уроборос</Speaker>||:M4A1, ты действительно...
+M4A1(0)<Speaker>M4A1</Speaker>||:Тебе обязательно так удивляться, Уроборос? +Я думала, ты умирала от желания увидеть меня? Я просто спасла тебя от промежуточных шагов.
+WeaverElite(3)<Speaker>Уроборос</Speaker>||:Ну и развлекуха. +Я думала, ты смогла бы придумать более интересные приемы. Оказывается, это будет просто гладиаторский бой...
+WeaverElite(1)<Speaker>Уроборос</Speaker>||<黑屏1><关闭火花>:Я не проявляю милосердия к тем, кто портит мне хорошее настроение.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:Тогда, во что бы то ни стало, Уроборос. +Сегодня ты убьешь меня... +Но прежде ты научишься бояться меня.
+()||<SE2>Gunfight</SE2>:... +Час спустя.
+M99()<Speaker>M99</Speaker>||<SE1>Battlefield</SE1>:M4A1! M4A1! +Я успешно покинула поле боя! Сейчас встречаюсь с мисс Хелиан!
+M4A1()<Speaker>M4A1</Speaker>||:Неужели...? +Это здорово, M99... +Кашель... Мы... наконец-то победили... +Теперь я могу... отчитаться перед всеми, кто пожертвовал собой... +И... перед собой...
+()||<BGM>BGM_Sad</BGM><SE1>Battlefield</SE1>:... +Через канал связи доносятся сдавленные рыдания М99.
+M99()<Speaker>M99</Speaker>||:Прости, M4A1... +Кроме того, даже если мое местоположение и состояние делают меня более легкой мишенью для спасения... +Я все еще думаю... +Твоя жизнь стоит больше, чем наша...
+()||<SE2>Gunfight</SE2>:... +M4A1 изо всех сил старается изобразить улыбку.
+M4A1()<Speaker>M4A1</Speaker>||:Именно поэтому... я должна умереть с достоинством...
+M99()<Speaker>M99</Speaker>||<SE1>Battlefield</SE1>:M4A1... Но ты действительно уйдешь...
+M4A1()<Speaker>M4A1</Speaker>||:Пока кто-то помнит о нас, мы не умрем по-настоящему... +Поэтому... пожалуйста, вернись... со своим нейрооблаком... +И расскажи всем о том, что произошло сегодня ночью... +Расскажи им... +Мы... победили...
+M99()<Speaker>M99</Speaker>||:M4A1... +Я верну его обратно... +Я расскажу всем... все, что здесь произошло... +Так... +Так... пожалуйста...
 ()||:... +...... +......
-()||<BGM>BGM_Empty</BGM>:...Click.
-()||:【System Prompt】Griffin retreat complete. +Operation duration: 9 hours 27 minutes. +Griffin survivor: 1. +Status of Tactical Doll M4A1: K.I.A. +... +Compiling mission report. Estimated time: 12 seconds. +... +Mission report compiled. +Uploading operation visual record. Estimated time: 25 seconds. +... +...... +Operation visual record archived.
-()||<黑屏1>:【System Prompt】AI battle simulation attempt #70 complete.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<BGM>BGM_Room</BGM><BIN>8</BIN><黑屏2>:... +(Sighs) It's...still the same... +Why is she so hell-bent on sacrificing herself...? +... +Or...is this what she truly wants?
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>;NPC-Persica(0)||:Is the simulation over, Miss Persica?
-NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker>||:Yeah...just done. +I added in some...unrealistic conditions in this simulation. +But the result...was pretty much the same as the last 69 attempts.
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(0)||:Then let's leave it for now. +The expenses for this kind of simulation are rather hefty.
-NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker>||:That's alright. Certain characteristics can already be surmised from the results. +At this rate...I'll be able to find the best solution to repairing M4A1's neural cloud.
-NPC-Helian(3)<Speaker>Helian</Speaker>;NPC-Persica(0)||:I may not be a professional, but... +Is the repair to M4A1's neural cloud...really this complicated?
-NPC-Helian(3);NPC-Persica(0)<Speaker>Persica</Speaker>||:(Sighs) Do please think bigger, Miss Source-of-Capital. +These simulations aren't just for repairing M4A1. I'm also studying the differences between the AI tech of IOP and Sangvis Ferri. +We could very well be looking...right at a new technological breakthrough...
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(0)||:Oh? Have you had any significant discovery?
-NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker>||:I've been looking into the Sangvis command network systematically this time. +Unlike our mesh-shaped dummy network, Sangvis command authorization is spread down in a tree-shaped structure. +It's not as flexible as ours, but the combat efficiency is much higher.
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(0)||:I've heard about that, but our T-Dolls can't adopt a network like that, can they?
-NPC-Helian(0);NPC-Persica(2)<Speaker>Persica</Speaker>||:Again, think bigger, Miss Academicism.+Our T-Dolls can't, but we can use it for something else.
-NPC-Helian(3)<Speaker>Helian</Speaker>;NPC-Persica(2)||:Uh...so what's the big idea?
-NPC-Helian(3);NPC-Persica(2)<Speaker>Persica</Speaker>||:Remember I told you about the drone tech development that was terminated in 90WISH? +Looks like now is the time to restart it.
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(2)||:...I see. I'll report this to Mr. Kryuger. +Still, exciting as the new tech may be, M4A1...
-NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker>||:M4A1 is like my child. I will not give up on her. +But I've also said that the AR Team is precious and invaluable. +Please stop sending them on overly dangerous missions.
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(0)||:I'm sorry, but emergencies kept coming up... +The enemy they were up against in the last battle was quite possibly Mastermind herself.
-NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker>||:Then do you know...why Mastermind made M4A1 her target?
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(0)||:I'm not entirely sure, but she...does seem to have an unusual interest in M4A1.
-NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker>||:... +...Lyco.
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(0)||:Hmm?
-NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker>||:The girl...is doing this because of Lycoris.
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(0)||<黑屏1>:...Lycoris?
-帕斯卡()<Speaker>Persica</Speaker>||<黑屏2><BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:She...wants to find answers... +For her father.
-()||<黑屏2><BIN>46</BIN>:Meanwhile, in a secret surveillance room in a certain Griffin area. +...
-BOSS-9(0)<Speaker>Architect</Speaker>||<BGM>BGM_Brain</BGM>:My... +We finally meet again, Miss Ouroboros. +The way you are now... Heheh...
-衔尾蛇()<Speaker>Ouroboros</Speaker>||:... +...Architect. +If you're here just to jeer, I'll be hibernating.
-BOSS-9(0)<Speaker>Architect</Speaker>||:Haha, nah! We all have our rock bottoms. I get that! +And you don't have to be too dejected. +Though nothing but your AI remains, if you behave, Griffin might just do you a favor.
-衔尾蛇()<Speaker>Ouroboros</Speaker>||:... +They're only using me to get what they want.
-BOSS-9(0)<Speaker>Architect</Speaker>||:Persica said that your AI core was in charge of directing S.F.'s movements in the last simulation... +You provided your environmental construction and Sangvis command modules, as well as the combat data of some of our former allies... +Sounds pretty interesting. Even I had a part in the last mission, didn't I?
-衔尾蛇()<Speaker>Ouroboros</Speaker>||:... +If you were half as good as you were in my simulation, Griffin wouldn't be turning their eyes on me now.
-BOSS-9(0)<Speaker>Architect</Speaker>||:Dear me... That's too bad, but I really don't want to work for Sangvis Ferri anymore.
-衔尾蛇()<Speaker>Ouroboros</Speaker>||:What on earth is wrong with your neural cloud, Architect...? +If you had let on your thoughts back when you were with S.F., Agent wouldn't have let you off.
-BOSS-9(0)<Speaker>Architect</Speaker>||:You're completely right, which is why I switched sides. +Now you, Ouroboros, have spilled all of S.F.'s precious tech to Griffin... +Even if you make it back, what do you think Agent would do to you?
-衔尾蛇()<Speaker>Ouroboros</Speaker>||:...
-BOSS-9(0)<Speaker>Architect</Speaker>||:I surrendered to Griffin, not because I like them, but because I like myself. +What about you, Ouroboros? Do you like yourself?
-衔尾蛇()<Speaker>Ouroboros</Speaker>||:...What are you talking about? +Why does that...matter?
-BOSS-9(0)<Speaker>Architect</Speaker>||:You just asked me what's wrong with my neural cloud. +Well, here's the problem. I only want to do what I want. +So strictly speaking, I...am more like a Sangvis Doll than any of you.
-衔尾蛇()<Speaker>Ouroboros</Speaker>||<黑屏1>:... +And what do YOU know...about Sangvis Ferri...?
-建筑师()<Speaker>Architect</Speaker>||<黑屏2><BIN>9</BIN>:More than you do, Ouroboros. +Have you heard of... +The name...Lycoris?
-衔尾蛇()<Speaker>Ouroboros</Speaker>||:... +What's so important...about this name?
-建筑师()<Speaker>Architect</Speaker>||:Let me tell you, Ouroboros... +So long as this name still exists... +We...won't achieve true freedom...
-()||<黑屏1>:Operation Cube+: Blindfold Theorem - END
+()||<BGM>BGM_Empty</BGM>:...Щелк.
+()||:【Системное сообщение】Отступление Грифона завершено. +Продолжительность операции: 9 часов 27 минут. +Выживший Грифон: 1. +Состояние Тактической Куклы M4A1: погибла в бою. +... +Составление отчета о миссии. Расчетное время: 12 секунд. +... +Составлен отчет о миссии. +Загрузка визуальной записи операции. Расчетное время: 25 секунд. +... +...... +Операционная запись заархивирована.
+()||<黑屏1>:【Системное сообщение】Попытка симуляции боя ИИ № 70 завершена.
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||<BGM>BGM_Room</BGM><BIN>8</BIN><黑屏2>:... +(Вздох) Это... все то же самое... +Почему она так хочет пожертвовать собой...? +... +Или... это то, чего она действительно хочет?
+NPC-Helian(0)<Speaker>Хелиан</Speaker><通讯框>;NPC-Persica(0)||:Симуляция закончена, Персика?
+NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:Да... только что закончилась. +Я добавила несколько... нереальных условий в эту симуляцию. +Но результат... практически такой же, как и в предыдущих 69 попытках.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:Тогда давай пока оставим это. +Расходы на такое моделирование довольно велики.
+NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:Все в порядке. По результатам уже можно судить о некоторых характеристиках. +Такими темпами... я смогу найти лучшее решение для восстановления нейронного облака M4A1.
+NPC-Helian(3)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:Может, я и не специалист, но... +Действительно ли восстановление нейронного облака M4A1... настолько сложно?
+NPC-Helian(3);NPC-Persica(0)<Speaker>Персика</Speaker>||:(Вздох) Пожалуйста, мыслите шире, мисс "Источник Капитала". +Эти симуляции нужны не только для восстановления M4A1.+Я также изучаю различия между технологиями ИИ IOP и Сангвиса Ферри. +Мы вполне можем оказаться перед новым технологическим прорывом...
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:О? У тебя было какое-то значительное открытие?
+NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:На этот раз я систематически изучала командную сеть Сангвиса. +В отличие от нашей фиктивной сети, имеющей форму сетки, командная авторизация Сангвиса распределена по древовидной структуре. +Она не такая гибкая, как наша, но боевая эффективность гораздо выше.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:Я слышала об этом, но ведь наши Т-Куклы не могут создать такую сеть, правда?
+NPC-Helian(0);NPC-Persica(2)<Speaker>Персика</Speaker>||:Опять же, думайте шире, мисс «Академичность».+Наши Т-Куклы не могут, но мы можем использовать его для других целей.
+NPC-Helian(3)<Speaker>Хелиан</Speaker>;NPC-Persica(2)||:Ну... так в чем же заключается суть?
+NPC-Helian(3);NPC-Persica(2)<Speaker>Персика</Speaker>||:Помните, я рассказывала вам о разработке технологии дронов, которая была прекращена в 90WISH? +Похоже, сейчас самое время возобновить ее.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(2)||:...Понятно. Я доложу об этом господину Крюгеру. +И все же, как бы ни были интересны новые технологии, M4A1...
+NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:M4A1 - это словно мой ребенок. Я не откажусь от нее. +Но я также говорила, что Команда AR ценна и бесценна. +Пожалуйста, перестаньте отправлять их на слишком опасные задания.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:Извини, но в голове все время всплывает... +Противником, с которым они сражались в последней битве, вполне возможно, была сама Владыка.
+NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:Тогда ты знаешь... почему Владыка выбрал M4A1 своей целью?
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:Я не совсем уверена, но она... кажется, проявляет необычный интерес к M4A1.
+NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:... +...Лайко.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:Хмм?
+NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:Девушка... делает это из-за Ликориса.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||<黑屏1>:...Ликорис?
+帕斯卡()<Speaker>Персика</Speaker>||<黑屏2><BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:Она... хочет найти ответы... +Для своего отца.
+()||<黑屏2><BIN>46</BIN>:Тем временем в секретной комнате наблюдения в определенном районе Грифона. +...
+BOSS-9(0)<Speaker>Архитектор</Speaker>||<BGM>BGM_Brain</BGM>:Моя... +Наконец-то мы снова встретились, мисс Уроборос. +Так как ты сейчас... Хехе...
+衔尾蛇()<Speaker>Уроборос</Speaker>||:... +...Архитектор. +Если ты здесь только для того, чтобы поиздеваться, я лучше впаду в спячку.
+BOSS-9(0)<Speaker>Архитектор</Speaker>||:Хаха, нет! У каждого из нас есть свое второе дно. Я понимаю! +И не стоит слишком унывать. +Хотя ничего, кроме твоего ИИ, не останется, если ты будешь вести себя хорошо, Грифон может оказать тебе услугу.
+衔尾蛇()<Speaker>Уроборос</Speaker>||:... +Они используют меня только для того, чтобы получить то, что хотят.
+BOSS-9(0)<Speaker>Архитектор</Speaker>||:Персика сказала, что твое ядро ИИ управляло движениями С.Ф. в последней симуляции... +Ты предоставила свои модули для строительства окружающей среды и командные модули Сангвиса, а также боевые данные некоторых наших бывших союзников... +Звучит довольно интересно. Даже я принимала участие в последней миссии, не так ли?
+衔尾蛇()<Speaker>Уроборос</Speaker>||:... +Если бы ты была хоть наполовину так же хороша, как в моей симуляции, Грифон не стал бы сейчас обращать на меня свой взор.
+BOSS-9(0)<Speaker>Архитектор</Speaker>||:Дорогая моя... Очень жаль, но я действительно не хочу больше работать на Сангвис Ферри.
+衔尾蛇()<Speaker>Уроборос</Speaker>||:Что случилось с твоим нейронным облаком, Архитектор...? +Если бы ты выдала свои мысли, когда была с С.Ф., Агент бы тебя не отпустила.
+BOSS-9(0)<Speaker>Архитектор</Speaker>||:Ты совершенно права, поэтому я и перешел на другую сторону. +Теперь ты, Уроборос, передал Грифону все ценные технологии С.Ф... +Даже если ты вернешься, что, по-твоему, сделает с тобой Агент?
+衔尾蛇()<Speaker>Уроборос</Speaker>||:...
+BOSS-9(0)<Speaker>Архитектор</Speaker>||:Я сдалась Грифону не потому, что они мне нравятся, а потому, что я сама себе нравлюсь. +А ты, Уроборос? Нравишься ли ты себе?
+衔尾蛇()<Speaker>Уроборос</Speaker>||:...О чем ты говоришь? +Почему это... так важно?
+BOSS-9(0)<Speaker>Архитектор</Speaker>||:Ты только что спросила меня, что не так с моим нейронным облаком. +Ну, вот в чем проблема. Я хочу делать только то, что хочу. +Так что, строго говоря, я... больше похожа на куклу Сангвиса, чем на кого-либо из вас.
+衔尾蛇()<Speaker>Уроборос</Speaker>||<黑屏1>:... +А что ТЫ знаешь... о Сангвис Ферри...?
+建筑师()<Speaker>Архитектор</Speaker>||<黑屏2><BIN>9</BIN>:Больше, чем ты, Уроборос. +Ты слышала о... +Имя... Ликорис?
+衔尾蛇()<Speaker>Уроборос</Speaker>||:... +Что такого важного... в этом имени?
+建筑师()<Speaker>Архитектор</Speaker>||:Позволь мне сказать тебе, Уроборос... +Пока это имя существует... +Мы... не достигнем истинной свободы...
+()||<黑屏1>:Операция «Куб+»: Слепой метод - КОНЕЦ
