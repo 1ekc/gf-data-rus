@@ -1,97 +1,97 @@
 ()||<BIN>34</BIN><BGM>BGM_NightOPS</BGM>:... +......
-UMP45(2)<Speaker>UMP45</Speaker>||:Too long... +Why are they taking so long...
-UMP9(2)<Speaker>UMP9</Speaker>||:We can't afford to wait any longer, 45. +Their power supply and comms are coming back online in three minutes max. +Once they have auxiliary power, none of us will make it out!
-UMP45(2)<Speaker>UMP45</Speaker>||:We're running out of time. Let's withdraw.
-G11(2)<Speaker>Gr G11</Speaker>||:Huh? Are we abandoning the mission?
-UMP45(2)<Speaker>UMP45</Speaker>||:We've cleared the way. +If everything is going according to the plan, the AR Team is on standby somewhere close. They'll find a chance to make their way through.
-HK416(0)<Speaker>416</Speaker>||:Hey, 45! +What about the others? M1887 and her troops are still in the field.
-UMP45(2)<Speaker>UMP45</Speaker>||:That's not our objective, 416.
-HK416(2)<Speaker>416</Speaker>||:... +What about you, 9? +What do you think?
-UMP9(2)<Speaker>UMP9</Speaker>||:I...I only listen to 45... +I don't have anything personal against the AR Team... +But...business is business, right?
+UMP45(2)<Speaker>UMP45</Speaker>||:Слишком долго... +Почему они так долго...
+UMP9(2)<Speaker>UMP9</Speaker>||:Мы не можем позволить себе больше ждать, 45-я. +Их энергоснабжение и связь восстановятся максимум через три минуты. +Как только у них появится дополнительная энергия, никто из нас не сможет выбраться!
+UMP45(2)<Speaker>UMP45</Speaker>||:У нас заканчивается время. Давайте выходить из игры.
+G11(2)<Speaker>Gr G11</Speaker>||:А? Мы отказываемся от миссии?
+UMP45(2)<Speaker>UMP45</Speaker>||:Мы расчистили путь. +Если все идет по плану, команда AR будет находиться наготове где-то поблизости. Они найдут возможность пробиться.
+HK416(0)<Speaker>416</Speaker>||:Эй, 45-я! +А что с остальными? M1887 и ее отряды все еще на поле.
+UMP45(2)<Speaker>UMP45</Speaker>||:Это не является нашей задачей, 416-я.
+HK416(2)<Speaker>416</Speaker>||:... +А вы, 9-я? +Что ты думаешь?
+UMP9(2)<Speaker>UMP9</Speaker>||:Я... я прислушиваюсь только к 45-ой... +Я не имею ничего личного против Команды AR... +Но... дело есть дело, верно?
 HK416(0)<Speaker>416</Speaker>||:...
-G11(2)<Speaker>Gr G11</Speaker>||:I...I just take orders. Don't ask my opinion.
-HK416(0)<Speaker>416</Speaker>||:But the AR Team won't agree to this. They're not like us.
-UMP45(2)<Speaker>UMP45</Speaker>||:They can't say no. This is their only chance. +Either they leave with us alive, or die here with them. We can't save everyone.
-HK416(0)<Speaker>416</Speaker>||:Has this been your plan all along?
-UMP45(2)<Speaker>UMP45</Speaker>||:Is there a problem, 416? +You yourself don't plan on staying behind either, right? +Mind you, you can't go back to M16. That "squad" no longer exists!
+G11(2)<Speaker>Gr G11</Speaker>||:Я... я просто выполняю приказы. Не спрашивай моего мнения.
+HK416(0)<Speaker>416</Speaker>||:Но Команда AR на это не согласится. Они не такие, как мы.
+UMP45(2)<Speaker>UMP45</Speaker>||:Они не смогут отказаться. Это их единственный шанс. +Либо они уйдут с нами живыми, либо умрут здесь вместе с ними. Мы не можем спасти всех.
+HK416(0)<Speaker>416</Speaker>||:Это был твой план с самого начала?
+UMP45(2)<Speaker>UMP45</Speaker>||:Какие-то проблемы, 416-я? +Ты ведь тоже не собираешься оставаться, верно? +Запомни, ты не можешь вернуться к М16. Того «отряда» больше не существует!
 HK416(0)<Speaker>416</Speaker>||:...!
-UMP45(2)<Speaker>UMP45</Speaker>||:Let go of your pathetic pride and join us for real... +Only if we be their stain will they truly value us.
-G11(0)<Speaker>Gr G11</Speaker>||:45...
-UMP9(2)<Speaker>UMP9</Speaker>||:45... +The three minutes are almost up, but RO still hasn't responded...
-UMP45(2)<Speaker>UMP45</Speaker>||:...? Check their coordinates. They should be nearby.
-UMP9(2)<Speaker>UMP9</Speaker>||:No, they're not even in our surveillance area...
-G11(2)<Speaker>Gr G11</Speaker>||:What? Are they...not coming?
-RO635(0)<Speaker>RO635</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:Sorry to keep you waiting, 45. +There's been a slight change of plan. +We didn't raid Architect's base and went for an outpost in the other direction instead.
-UMP45(2)<Speaker>UMP45</Speaker>;RO635(0)||:What...the hell are you doing? +Doesn't that put us in grave danger? +Once the power comes back online, we're gonna be the first to die. +Have you considered the feelings of your saviors, RO635?
-UMP45(2);RO635(0)<Speaker>RO635</Speaker>||:Don't worry, 45. +Someone will be taking our place. We won't be putting anyone at risk.
-UMP45(2)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2>:...! +Gunfire behind the door!
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:Dear me, looks like we've barely made it in time. +Time to clean up. Make sure you keep the dirt away from me...
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:Save your breath, Thompson. +I'll kill everything that gets in our way. Focus on your job.
+UMP45(2)<Speaker>UMP45</Speaker>||:Оставь свою жалкую гордость и присоединяйся к нам по-настоящему... +Только если мы станем их клеймом, они будут по-настоящему ценить нас.
+G11(0)<Speaker>Gr G11</Speaker>||:45-я...
+UMP9(2)<Speaker>UMP9</Speaker>||:45-я... +Три минуты почти истекли, но RO все еще не отвечает...
+UMP45(2)<Speaker>UMP45</Speaker>||:...? Проверь их координаты. Они должны быть неподалеку.
+UMP9(2)<Speaker>UMP9</Speaker>||:Нет, они даже не в зоне нашего наблюдения...
+G11(2)<Speaker>Gr G11</Speaker>||:Что? Они... не придут?
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:Извини, что заставила тебя ждать, 45-я. +План немного изменился. +Мы не стали нападать на базу Архитектора и отправились на аванпост с другой стороны.
+UMP45(2)<Speaker>UMP45</Speaker>;RO635(0)||:Что... какого хрена ты делаешь? +Разве это не подвергает нас смертельной опасности? +Когда электричество вернется в сеть, мы сдохнем первыми. +Ты подумала о том, что почувствуют твои спасители, RO635?
+UMP45(2);RO635(0)<Speaker>RO635</Speaker>||:Не волнуйся, 45-я. +Кто-нибудь заменит нас. Мы не будем подвергать никого риску.
+UMP45(2)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2>:...! +За дверью стрельба!
+M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:Дорогая моя, похоже, мы едва успели. +Пора убираться. Убедись, что держишь от меня подальше всю эту грязь...
+WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:Побереги дыхание, Thompson. +Я уничтожу все, что встанет у нас на пути. Сосредоточься на своей работе.
 ()||<黑屏1><SE2>Gunfight</SE2>:...!
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<BGM>BGM_Danger</BGM><BIN>6</BIN><黑屏2>:YESSSSSS! My power is finally back online! +Gager, did you hear me?! Now's the time to flush out the rats!
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:Architect! Do you copy?! +Large Griffin reinforcement incoming from behind the base! Withdraw at once! Hurry!
-BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Huh... +Huhhhhhhh?! Why are there so many of them?! +Hey, my lady knight! You can't just ignore your superior officer when she's in danger!
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-9(0)||:You're strong. You'll make it out alive. +I'll meet you outside, so just get out of the base. Quick!
-BOSS-9(0)<Speaker>Architect</Speaker>||<黑屏1>:Alright, I'm running! +But you hurry up yourself, 'cause I might get lost in-
-()||<黑屏2><BIN>9</BIN><SE2>Gunfight</SE2>:Bang!
-BOSS-7(0)<Speaker>Gager</Speaker>||:Architect?! +Answer me, Architect!
-BOSS-8(0)<Speaker>Agent</Speaker><通讯框>||:Save it. She failed. +Griffin has dispatched a field commander. Their troops have already started mobilizing. +Your cannon installation drones are no match against those T-Dolls.
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-8(0)||:Agent... +You found out...
-BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker>||:I never expected much from Architect, but... +If you had notified me sooner, it would not have come to this.
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-8(0)||:I didn't expect them to be so swift. +This is all we could do...
-BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker>||:This was my mistake in job delegation... +I had hoped the two of you could acquire more experience in this operation, but my plan was ruined by these trespassing rats... +Thank you for everything you have done. Leave the rest to me.
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-8(0)||:...Understood. +I am handing my command authorization to you, Agent. +But as you said, these troops are no match against the Griffin field commander...
-BOSS-8(0)<Speaker>Agent</Speaker>||<黑屏1>:Don't forget that I have my own forces... +Hundreds and thousands of units... +It is time to make your acquaintance, Griffin Commander...
-()||<黑屏2><BIN>34</BIN>:Meanwhile, in the Sangvis command post.
-BOSS-9(0)<Speaker>Architect</Speaker>||:Whoa! Why are comms down?! +Huh? Don't tell me...they wrecked the equipment?!
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:Quiet, Architect. +If you so much as twitch a hair, the next thing to be wrecked is your head.
-BOSS-9(0)<Speaker>Architect</Speaker>||:... +Jeez, so the sniper is already in position? +But don't underestimate me. I can pack quite a punch!
-M1928A1(0)<Speaker>Thompson</Speaker>;BOSS-9(0)||:Really? Perfect... +I was just thinking this job is way too easy.
-M1928A1(0);BOSS-9(0)<Speaker>Architect</Speaker>||:W-Who the hell are you?! +You have so many T-Dolls with you! That's not fair!
-M1928A1(0)<Speaker>Thompson</Speaker>;BOSS-9(0)||:I'm just a lowly wall plasterer. +But I can't really start working until I see what's been splashed onto the wall.
-M1928A1(0);BOSS-9(0)<Speaker>Architect</Speaker>||<黑屏1>:...
-建筑师()<Speaker>Architect</Speaker>||<BIN>50</BIN><黑屏2>:Fine. Happy?
-M1928A1()<Speaker>Thompson</Speaker>||:Oh? Surrendering just like that?
-建筑师()<Speaker>Architect</Speaker>||:I'm not obliged to fight to the bitter end anyway. +So long as I have food and water, I don't care where I go. +Well? I'll cooperate, so don't worry!
-赫丽安()<Speaker>Helian</Speaker>||:Capture her first. Have her completely restrained, then bring her back!
-WA2000()<Speaker>WA2000</Speaker>||:Careful, Thompson. This could be a trap.
-M1928A1()<Speaker>Thompson</Speaker>||:I've never seen any trap. All I've seen are a bunch of corpses who tried to be clever. +You're not very clever though, are you, Architect?
-建筑师()<Speaker>Architect</Speaker>||:Ahaha... That's right, I'm an idiot!
-WA2000()<Speaker>WA2000</Speaker>||:This is the first time I've seen a Sangvis turncoat... +Who the hell are you? Why do you have such ludicrous authorization?
-建筑师()<Speaker>Architect</Speaker>||<黑屏1>:Uh... Well...
-建筑师()<Speaker>Architect</Speaker>||<黑屏2><BIN>9</BIN>:There must be something wrong with me...? +So please be nice to me. I know a lot of interesting things.
-()||<黑屏1><BGM>BGM_Sad</BGM>:... +RO635 and all T-Dolls have regrouped safely and are withdrawing to the heliport with the Commander's aid...
-UMP45(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>7</BIN>:... +You finally showed up, RO.
-RO635(0)<Speaker>RO635</Speaker>;UMP45(0)||:... +Should I apologize, 45?
-RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||:Why should you? You were in command. +It's just that... +How is your choice any different from M4A1's?
-RO635(0)<Speaker>RO635</Speaker>;UMP45(0)||:You mean contacting Helian?
-RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||:I mean trying to save everyone. +If the Commander hadn't listened to you and rushed here at all cost... +All our deaths would've been on you.
-RO635(0)<Speaker>RO635</Speaker>;UMP45(0)||:I think I now know... +...why you always do things your way.
-UMP45(2)<Speaker>UMP45</Speaker>||:... +Then are you content to just lose your sense of self and become someone else's substitute?
-RO635(0)<Speaker>RO635</Speaker>;UMP45(2)||:But...what exactly is my "sense of self"?
+BOSS-9(0)<Speaker>Архитектор</Speaker><通讯框>||<BGM>BGM_Danger</BGM><BIN>6</BIN><黑屏2>:ДААААА! Мое электропитание наконец-то снова подключено! +Замерщица, ты меня слышала?! Сейчас самое время уничтожить этих крысенышей!
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-9(0)||:Архитектор! Ты слышишь?! +Крупное подкрепление Грифона прибывает к базе! Немедленно отступай! Быстрее!
+BOSS-7(0);BOSS-9(0)<Speaker>Архитектор</Speaker>||:А... +Хуххххх?! Почему их так много?! +Эй, моя миледи рыцарь! Ты не можешь просто игнорировать своего руководителя, когда она в опасности!
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-9(0)||:Ты сильная. Ты сможешь выбраться живой. +Я встречу тебя снаружи, так что просто выходи с базы. Быстрее!
+BOSS-9(0)<Speaker>Архитектор</Speaker>||<黑屏1>:Хорошо, я побежала! +Но ты поторопись, а то я могу заблудиться-
+()||<黑屏2><BIN>9</BIN><SE2>Gunfight</SE2>:Бах!
+BOSS-7(0)<Speaker>Замерщица</Speaker>||:Архитектор?! +Отвечай, Архитектор!
+BOSS-8(0)<Speaker>Агент</Speaker><通讯框>||:Оставь это. Она потерпела неудачу. +Грифон отправил полевого командира. Их войска уже начали мобилизацию. +Ваши беспилотники с орудийными установками не сравнятся с Т-Куклами.
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-8(0)||:Агент... + Ты узнала...
+BOSS-7(0);BOSS-8(0)<Speaker>Агент</Speaker>||:Я никогда не ожидала многого от Архитектора, но... +Если бы ты сообщила мне раньше, до этого бы не дошло.
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-8(0)||:Я не ожидала, что они окажутся такими шустрыми. +Это все, что мы могли сделать...
+BOSS-7(0);BOSS-8(0)<Speaker>Агент</Speaker>||:Это была моя ошибка в делегировании обязанностей... +Я надеялась, что вы вдвоем приобретете больше опыта в этой операции, но мой план был разрушен этими вторгшимися крысами... +Благодарю за все, что ты сделала. Остальное предоставьте мне.
+BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-8(0)||:...Поняла. +Я передаю свои полномочия по командованию тебе, Агент. +Но, как ты и сказала, наши войска не сравнятся с полевым командиром Грифоном...
+BOSS-8(0)<Speaker>Агент</Speaker>||<黑屏1>:Не стоит забывать, что и у меня есть свои войска... +Сотни и тысячи единиц... +Пришло время познакомиться с вами, Командир Грифона...
+()||<黑屏2><BIN>34</BIN>:Тем временем в командном пункте Сангвиса.
+BOSS-9(0)<Speaker>Архитектор</Speaker>||:Ух ты! Почему связь прервалась?! +А? Только не говорите мне... что они сломали оборудование?!
+WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:Тихо, Архитектор. +Если ты дернешься хоть на волосок, следующей вещью, которая будет разрушена, станет твоя голова.
+BOSS-9(0)<Speaker>Архитектор</Speaker>||:... +О Боже, значит, снайпер уже на позиции? +Но не стоит меня недооценивать. Я могу нанести неплохой удар!
+M1928A1(0)<Speaker>Thompson</Speaker>;BOSS-9(0)||:Правда? Отлично... +Я тут подумала, что эта работа слишком уж легкая.
+M1928A1(0);BOSS-9(0)<Speaker>Архитектор</Speaker>||:К-кто ты, черт возьми, такая?! +С тобой так много Т-Кукол! Это нечестно!
+M1928A1(0)<Speaker>Thompson</Speaker>;BOSS-9(0)||:Я всего лишь скромная штукатурщица. +Но я не могу приступить к работе, пока не увижу, что размазано по стене.
+M1928A1(0);BOSS-9(0)<Speaker>Архитектор</Speaker>||<黑屏1>:...
+建筑师()<Speaker>Архитектор</Speaker>||<BIN>50</BIN><黑屏2>:Прекрасно. Довольна?
+M1928A1()<Speaker>Thompson</Speaker>||:О? Сдаешься вот так просто?
+建筑师()<Speaker>Архитектор</Speaker>||:Я не обязана сражаться до конца. +Пока меня обеспечивают едой и водой, мне все равно, куда идти. +Ну что? Я буду сотрудничать, так что не волнуйся!
+赫丽安()<Speaker>Хелиан</Speaker>||:Сначала захватите ее. Полностью зафиксируйте ее, а затем приведите ее обратно!
+WA2000()<Speaker>WA2000</Speaker>||:Осторожней, Thompson. Это может быть ловушка.
+M1928A1()<Speaker>Thompson</Speaker>||:Я не видела никаких ловушек. Все, что я встречала, - это куча трупов, которые пытались быть умными. +А ты не очень-то умна, правда, Архитектор?
+建筑师()<Speaker>Архитектор</Speaker>||:Ахаха... Точно, я же идиотка!
+WA2000()<Speaker>WA2000</Speaker>||:Это первый раз, когда я вижу предателя Сангвиса... +Кто ты, черт возьми, такая? Почему у тебя такие смехотворные полномочия?
+建筑师()<Speaker>Архитектор</Speaker>||<黑屏1>:Э-э... Ну...
+建筑师()<Speaker>Архитектор</Speaker>||<黑屏2><BIN>9</BIN>:Видимо, со мной что-то не так...? +Пожалуйста, будь со мной поласковей. Я знаю много интересного.
+()||<黑屏1><BGM>BGM_Sad</BGM>:... +RO635 и все Т-Куклы благополучно перегруппировались и отходят к вертолетной площадке с помощью Командира...
+UMP45(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>7</BIN>:... +Наконец-то ты появилась, RO.
+RO635(0)<Speaker>RO635</Speaker>;UMP45(0)||:... +Мне стоит извиниться, 45-я?
+RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||:Почему же ты должна? Ты ведь командовала. +Просто... +Чем твой выбор отличается от выбора M4A1?
+RO635(0)<Speaker>RO635</Speaker>;UMP45(0)||:Ты имеешь в виду обращение к Хелиан?
+RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||:Я имею в виду попытку спасти всех. +Если бы Командир не послушал тебя и не бросился сюда во что бы то ни стало... +Все наши смерти были бы на твоей совести.
+RO635(0)<Speaker>RO635</Speaker>;UMP45(0)||:Кажется, теперь я знаю... +...почему ты всегда делаешь все по-своему.
+UMP45(2)<Speaker>UMP45</Speaker>||:... +Тогда получается, что тебе достаточно просто отказаться от чувства собственного достоинства и стать чьей-то заменой?
+RO635(0)<Speaker>RO635</Speaker>;UMP45(2)||:Но... что именно является моим «чувством собственного достоинства»?
 RO635(0);UMP45(2)<Speaker>UMP45</Speaker>||:...
-RO635(0)<Speaker>RO635</Speaker>;UMP45(2)||:I was...created for this to begin with. +I will not abandon those who M4 wants to protect. +And I will believe in those who M4 believes in.
-UMP45(0)<Speaker>UMP45</Speaker>||:... +In any case, you did the right thing in this operation. +Congratulations, AR Team. We may not be able to celebrate with you, but surely we can have a handshake at the very least.
-RO635(2)<Speaker>RO635</Speaker>||<黑屏1>:Of course. I also think you are all exceptional T-Dolls. +It is an honor knowing you, UMP45.
-UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:Really? But unfortunately... +You won't know us anymore very soon.
-RO635()<Speaker>RO635</Speaker>||:...! +What is that in your hand?!
-UMP45(0)<Speaker>UMP45</Speaker>||:No reason to fear. Just a small authorization program...+...that will access your neural cloud and delete something... +...about us...
-RO635()<Speaker>RO635</Speaker>||:UMP45, so this is how...
-UMP45(0)<Speaker>UMP45</Speaker>||:Ja, this is how Squad 404 have survived this long... +Can't be helped. Even if we didn't do this, HQ would... +While we still remember each other, RO635, let me tell you one last thing...
+RO635(0)<Speaker>RO635</Speaker>;UMP45(2)||:Я была... создана для этого. +Я не брошу тех, кого М4 хотела бы защитить. +И я буду верить в тех, в кого верит М4.
+UMP45(0)<Speaker>UMP45</Speaker>||:... +В любом случае, ты все сделала правильно, завершив эту операцию. +Поздравляю вас, Команда AR. Может быть, мы и не сможем отпраздновать вместе с вами, но уж точно сможем хотя бы пожать вам руки.
+RO635(2)<Speaker>RO635</Speaker>||<黑屏1>:Конечно. Я также считаю вас всех выдающимися Т-Куклами. +Для меня большая честь познакомиться с тобой, UMP45.
+UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:Правда? Но, к сожалению... +Вы скоро перестанете нас узнавать.
+RO635()<Speaker>RO635</Speaker>||:...! +Что это у тебя в руке?!
+UMP45(0)<Speaker>UMP45</Speaker>||:Нет причины бояться. Просто небольшая программа авторизации...+...которая получит доступ к вашему нейронному облаку и удалит кое-что... +...о нас...
+RO635()<Speaker>RO635</Speaker>||:UMP45, так вот как...
+UMP45(0)<Speaker>UMP45</Speaker>||:Йа, вот как Отряд 404 выживает так долго... +Ничего не поделаешь. Даже если бы мы не сделали этого, штаб бы сделал... +Пока мы еще помним друг друга, RO635, позволь мне сказать тебе последнюю вещь...
 ()||:...
-UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Plan Parapluie is far from over... +Goodbye then, young autonomous Doll... +I envy you, truly...
-()||<黑屏2><BIN>7</BIN>:... +Ten minutes later.
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:План Параплюй еще далек от завершения... +Прощай, юная автономная Кукла... +Я завидую тебе, правда...
+()||<黑屏2><BIN>7</BIN>:... +Десять минут спустя.
 SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:RO! RO!
-RO635(3)<Speaker>RO635</Speaker>;SOPII(3)||:Huh?
-RO635(3);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Frontline</BGM>:What are you still doing here?! The operation is about to begin!
-RO635(3)<Speaker>RO635</Speaker>;SOPII(2)||:Operation? What operation?
-RO635(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Agent is launching a counteroffensive with a large force! We must repel them!
-RO635(0)<Speaker>RO635</Speaker>||:Repel? +Aren't we withdrawing?
-M16(3)<Speaker>M16A1</Speaker>||:Change of plan, RO. +We have to hold on until the large freighters arrive to carry that thingy away.
-RO635(0)<Speaker>RO635</Speaker>||:Thingy? What thingy?
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:The thingy! +Jupiter, duh!
-RO635(4)<Speaker>RO635</Speaker>||<黑屏1>:Ju...piter...?!
-RO635()<Speaker>RO635</Speaker>||<黑屏2><BIN>48</BIN>:Are you...kidding me...?
-M16A1()<Speaker>M16A1</Speaker>||:I'll explain later. Agent's forces are coming!
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:The Commander is also here! +Let's have a proper brawl and bring that thing home with us!
-()||<黑屏1>:【HINT】Operation Arctic Warfare concluded. Hidden stage unlocked.
+RO635(3)<Speaker>RO635</Speaker>;SOPII(3)||:А?
+RO635(3);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Frontline</BGM>:Что ты здесь делаешь?! Операция вот-вот начнется!
+RO635(3)<Speaker>RO635</Speaker>;SOPII(2)||:Операция? Какая операция?
+RO635(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Агент начинает контрнаступление с крупными силами! Мы должны отразить их!
+RO635(0)<Speaker>RO635</Speaker>||:Отбивать? +А разве мы не отступаем?
+M16(3)<Speaker>M16A1</Speaker>||:План меняется, RO. +Мы должны продержаться до прибытия больших грузовых кораблей, чтобы увезти эту хрень.
+RO635(0)<Speaker>RO635</Speaker>||:Хрень? Что за штуковина?
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Эта хренотень! +Юпитер!
+RO635(4)<Speaker>RO635</Speaker>||<黑屏1>:Ю...питер...?!
+RO635()<Speaker>RO635</Speaker>||<黑屏2><BIN>48</BIN>:Ты... шутишь...?
+M16A1()<Speaker>M16A1</Speaker>||:Я все объясню позже. Силы Агента приближаются!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:Командир тоже здесь! +Давайте устроим настоящую резню и вернем эту тварь домой!
+()||<黑屏1>:【СОВЕТ】Операция "Арктическая война" завершена. Скрытый этап разблокирован.
