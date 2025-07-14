@@ -1,10 +1,10 @@
-()||<BIN>55</BIN><BGM>BGM_Sneak</BGM>：...End of operation. The AR Team has reached the exterior of Base 0.
-RO635(0)<Speaker>RO635</Speaker>||：Commander, we're in the vicinity of Base 0.+We shall proceed to enter the base and set up a temporary camp for the search of File No. 7.
-M16(0)<Speaker>M16A1</Speaker>||：Let's talk about how we split the work, RO.
-RO635(0)<Speaker>RO635</Speaker>||：I'll remain in command of the team as I establish the anti-jamming system and track down File No. 7 as well as Sangvis movement.+SOP-II will be on stand-by, alerting us immediately of enemies in close vicinity.+We can just leave those in the outlying area to the Commander's forces.+M16, you're to screen and revise your operation stratagems according to the situation and aid me in completing the mission.
-M16(0)<Speaker>M16A1</Speaker>||：Dear me... I guess competent people do get more work...
-RO635(0)<Speaker>RO635</Speaker>||：Miss Persica, is File No. 7 our sole objective for this mission?
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||：Well... The authorization is hard to come by, so I'd also want to keep an eye out for something else.
-RO635(0)<Speaker>RO635</Speaker>||：Apologies, Miss Persica...+But according to my calculations, investigating other matters beside File No. 7 will increase the risk of the mission exponentially.
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||：Ah...you're right.+Anyway, get moving. I'll give more directives when something comes up.
-RO635(0)<Speaker>RO635</Speaker>||<黑屏1>：Understood. Then let's continue with the operation.
+()||<BIN>55</BIN><BGM>BGM_Sneak</BGM>：...Конец операции. Команда AR достигла внешней стороны базы 0.
+RO635(0)<Speaker>RO635</Speaker>||：Командир, мы находимся в окрестностях Базы 0. Мы должны проникнуть туда и разбить временный лагерь для поиска Файла № 7.
+M16(0)<Speaker>M16A1</Speaker>||：Так что давайте обсудим, как мы разделим работу, RO.
+RO635(0)<Speaker>RO635</Speaker>||：Я останусь командиром группы, пока буду устанавливать систему защиты от помех и отслеживать файл № 7, а также передвижения Сангвиса.+ SOP-II будет в режиме ожидания, немедленно предупреждая нас о врагах в непосредственной близости.+ Мы можем просто оставить тех, кто находится в отдалении, в распоряжение Командира.+M16, ты должна проверить и пересмотреть свои методы действий в соответствии с ситуацией и помочь мне в выполнении задания.
+M16(0)<Speaker>M16A1</Speaker>||：Дорогая моя... Наверное, грамотные люди получают больше возможностей...
+RO635(0)<Speaker>RO635</Speaker>||：Мисс Персика, Файл № 7 - наша единственная цель в этой миссии?
+NPC-Persica(3)<Speaker>Персика</Speaker><通讯框>||：Ну... Получить авторизацию сложно, так что я бы еще присмотрела что-нибудь еще.
+RO635(0)<Speaker>RO635</Speaker>||：Прошу прощения, мисс Персика... +Но, по моим расчетам, изучение других вопросов, помимо Файла № 7, увеличит риск миссии в геометрической прогрессии.
+NPC-Persica(3)<Speaker>Персика</Speaker><通讯框>||：А... да, ты права. В любом случае, выдвигайтесь. Я дам больше указаний, когда что-то прояснится.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>：Понятно. Тогда продолжаем операцию.
