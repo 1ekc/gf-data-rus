@@ -1,28 +1,28 @@
-()||<BIN>46</BIN><Night><BGM>BGM_NightOPS</BGM>:AAT-52 reaches the highlands.
-AAT52(0)<Speaker>AAT-52</Speaker><通讯框>||:Psst...M4? You still there?
-AAT52(0);M4A1(0)<通讯框><Speaker>M4A1</Speaker>||:Any discovery, AAT?
-AAT52(0)<Speaker>AAT-52</Speaker>;M4A1(0)||:I'm currently in the Highland Archive and detecting Executioner's transmission signal. +Executioner should still be miles away in the command post, which means her transmission device is right here!
-AAT52(0);M4A1(0)<Speaker>M4A1</Speaker>||:Understood. Can you pinpoint its precise location?
-AAT52(0)<Speaker>AAT-52</Speaker>||:I'm feeling my way forward...
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...Poof!
-AAT52()<Speaker>AAT-52</Speaker>||:Whoa!
-M4A1()<Speaker>M4A1</Speaker>||:What is it, AAT?!
-AAT52()<Speaker>AAT-52</Speaker>||<BGM>BGM_Sneak</BGM>:The lights... +The lights in the archive have all suddenly gone out!
-M4A1()<Speaker>M4A1</Speaker>||:Don't panic. Assess the situation first. +Do you have a flashlight or night vision goggles with you?
-AAT52()<Speaker>AAT-52</Speaker>||:I do, but neither is working...
-M4A1()<Speaker>M4A1</Speaker>||:Could this be an enemy electromagnetic attack...? +Any sign of Sangvis movement?
-AAT52()<Speaker>AAT-52</Speaker>||:Uhh...nothing seems out of the ordinary... +But there are way too many of them. I'm kinda stuck. +There's no way I can find the device this way. Anyone wanna give me a hand?
-M4A1()<Speaker>M4A1</Speaker>||:It's too dangerous to continue the search. This could very well be what the enemy is waiting for. +AAT, you are advised to retreat.
-AAT52()<Speaker>AAT-52</Speaker>||:That'll be too much of a challenge in the dark... +Ughh... Am I gonna die in such a cold, dark place...?
-M1873(0)<Speaker>SAA</Speaker><通讯框>||:Does AAT need help? +I'm pretty close. Why don't I give it a try?
-SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>||:No, let me do it. I specialize in disarming explosives.
-M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:Do you think this is a good idea, M99?
-M99(0)<Speaker>M99</Speaker><通讯框>||:Hmm...we are running low on both time and manpower. I think we should take a more proactive approach. +Besides, opportunities of putting Executioner out of action are hard to come by...
-M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:There will be other opportunities. It doesn't have to be now. +If we alert her to our presence...
-SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>||:It'll be fine. She's still on patrol, and I doubt she'll be quicker than me.
-M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:(That's right. Even if Executioner starts moving, I can intercept her, so she can't make it to the highlands right away.) +(Also, Hunter and Executioner both seem to be deprived of their own consciousness, so they shouldn't notice the infiltration too soon...) +(However...have I really taken everything into consideration?)
-AAT52()<Speaker>AAT-52</Speaker>||:Hey, how long are you gonna keep deliberating? Come get me!
-M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:... +(Does it all come down to my decision again...?) +(I suppose I should have faith in their ability...) +Super SASS, you go rescue AAT-52.
-SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>||:Roger that! +AAT-52, I'll be there soon!
+()||<BIN>46</BIN><Night><BGM>BGM_NightOPS</BGM>:AAT-52 достила возвышенности.
+AAT52(0)<Speaker>AAT-52</Speaker><通讯框>||:Пссс... М4? Ты все еще тут?
+AAT52(0);M4A1(0)<通讯框><Speaker>M4A1</Speaker>||:Есть какие-нибудь сведения, AAT?
+AAT52(0)<Speaker>AAT-52</Speaker>;M4A1(0)||:Сейчас я нахожусь в высокогорном архиве а и наблюдаю сигнал передатчика Палача. +Палач все еще должна быть за много миль от командного пункта, а значит, ее передающее устройство находится прямо здесь!
+AAT52(0);M4A1(0)<Speaker>M4A1</Speaker>||:Поняла. Ты можешь определить его местоположение?
+AAT52(0)<Speaker>AAT-52</Speaker>||:Я почувтсвую, как только продвинусь вперед...
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...Пуф!
+AAT52()<Speaker>AAT-52</Speaker>||:Ого!
+M4A1()<Speaker>M4A1</Speaker>||:Что такое, AAT?!
+AAT52()<Speaker>AAT-52</Speaker>||<BGM>BGM_Sneak</BGM>:Свет... +Все лампы в архиве внезапно погасли!
+M4A1()<Speaker>M4A1</Speaker>||:Не паникуй. Сначала нужно оценить ситуацию. +Есть ли у тебя с собой фонарик или очки ночного видения?
+AAT52()<Speaker>AAT-52</Speaker>||:Есть, но ни то, ни другое не работает...
+M4A1()<Speaker>M4A1</Speaker>||:Может быть, это вражеская электромагнитная атака...? +Есть признаки движения Сангвиса?
+AAT52()<Speaker>AAT-52</Speaker>||:Вроде бы ничего необычного... +Но их слишком много. Я в некотором роде в тупике. +Я никак не могу найти устройство таким способом. Кто-нибудь может мне помочь?
+M4A1()<Speaker>M4A1</Speaker>||:Продолжать поиски слишком опасно. Вполне возможно, что враг только этого и ждет. +ААТ, тебе следует отступить.
+AAT52()<Speaker>AAT-52</Speaker>||:В темноте это будет слишком сложно... +Уф... Неужели я погибну в таком холодном и темном месте...?
+M1873(0)<Speaker>SAA</Speaker><通讯框>||:Требуется поддержка AAT? +Я достаточно близко. Почему бы мне не попробовать?
+SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>||:Нет, дай мне это сделать. Я специализируюсь на обезвреживании взрывчатки.
+M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:Как вы думаете, M99, это хорошая идея?
+M99(0)<Speaker>M99</Speaker><通讯框>||:Хм... у нас не хватает ни времени, ни людей. Думаю, нам следует действовать более активно. +К тому же, найти возможность вывести Палача из строя не так-то просто ...
+M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:Будут и другие возможности. Не обязательно сейчас. +Если мы ее насторожим своим присутствием...
+SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>||:Все будет в полном порядке. Она все еще в патруле, и я сомневаюсь, что она будет быстрее меня.
+M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:(Так и есть. Даже если Палач начнет движение, я смогу перехватить ее, так что она не сможет сразу добраться до возвышенности.) +(Кроме того, Охотница и Палач, похоже, лишены собственного сознания, так что они не должны заметить проникновение слишком быстро...) +(Однако... действительно ли я все предусмотрела?)
+AAT52()<Speaker>AAT-52</Speaker>||:Эй, как долго ты собираешься размышлять? Давай, забирай меня!
+M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:... +(Неужели все снова сводится к тому, что я решаю...?) +(Полагаю, я должна поверить в их способности...) +Super SASS, ты идешь спасать AAT-52.
+SuperSASS(0)<Speaker>Super SASS</Speaker><通讯框>||:Вас поняла! +AAT-52, я скоро буду там!
 ()||:...
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:(Will this do?) +(Perhaps making some decision is better than making none at all...) +I just...have to think about it this way, right...?
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:(Этого хватит?) +(Возможно, принять какое-то решение лучше, чем не принимать никакого...) +Я просто... должна думать об этом с другой стороны, верно?
