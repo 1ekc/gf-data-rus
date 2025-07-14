@@ -1,18 +1,18 @@
-()||<BIN>22</BIN><BGM>BGM_Room</BGM>:Meanwhile, in the Factory at Griffin HQ.
-NPC-Helian(0)<Speaker>Helian</Speaker>||:Mr. Kryuger, our freighters have completed the cannon extraction.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:Fantastic. Serendipity never fails to cheer me up.
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:(Chuckles) Perhaps this has something to do with your previous job?
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:I don't deny that. +Besides, not many contractors can get their hands on the Military's technology.
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:By the way, the Commander is still on the frontline. Should we give the order to withdraw?
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:Not yet. +If the Commander's team is still holding up, keep the operation going. +Reward them according to their performance in battle after the withdrawal.
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:Are you...testing the Commander's limit?
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||<BGM>BGM_Empty</BGM>:Not testing. Exploring. +We'll need that knowledge one day. +Regarding Squad 404, Have the neural clouds of all witnesses been wiped?
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:Yes. However, there is still some leftover memory in M16A1...
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:I know. Things from before the creation of 404 don't matter. +Give them a holiday. They need it. +Perhaps we need one, too.
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||<BGM>BGM_Sunshine</BGM>:When the Commander returns, perhaps we should organize a banquet... +Something...warm. +To celebrate spring, festivities, victory, and all things bright and beautiful... +To give thanks to the Commander as well as the T-Dolls. They have all worked hard.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:No problem. You're in charge.
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:Play your part too, Mr. Kryuger. Try to come up with a speech that isn't so rigid.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:That's gonna be tough. +I'm not sure if I can finish it before the Commander makes it back.
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker>||:Don't worry. The Commander is going to last very long. +How about a bet? On who's the first to finish their job?
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)||:Well, let's wait and see...
-()||<黑屏1>:【HINT】Keep defending against Sangvis attacks to earn more rewards.
+()||<BIN>22</BIN><BGM>BGM_Room</BGM>:Тем временем на заводе в штабе Грифона.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Мистер Крюгер, наши грузовые самолеты завершили доставку орудий.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Helian(0)||:Фантастика. Эта случайности не перестают меня радовать.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:(Слегка смеется) Возможно, это как-то связано с вашей предыдущей должностью?
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Helian(0)||:Я этого не отрицаю. +Кроме того, не многие подрядчики могут получить в свои руки военные технологии.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Кстати, Командир все еще на передовой. Должны ли мы отдать приказ об отступлении?
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Helian(0)||:Пока нет. +Если группа Командира еще держится, продолжайте операцию. +Вознаградите их в соответствии с результатами их деятельности в бою после отступления.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Вы... испытываете Командира на прочность?
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Helian(0)||<BGM>BGM_Empty</BGM>:Не проверяю. Изучаю. +Когда-нибудь это знание нам понадобится. +Что касается отряда 404, нейронные облака всех свидетелей были стерты?
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Да. Однако в M16A1 еще остались воспоминания.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Helian(0)||:Я знаю. То, что было до создания 404, не имеет значения. +Предоставьте им отпуск. Он им нужен. +Возможно, нам он тоже нужен.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||<BGM>BGM_Sunshine</BGM>:Когда Командир вернется, возможно, нам стоит организовать банкет... +Что-нибудь... душевное. +В честь весны, праздника, победы и всего светлого и прекрасного... +Поблагодарить Командира, а также Т-Кукол. Они все хорошо потрудились.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Helian(0)||:Нет проблем. Ты за все отвечаешь.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Исполните и вы свою роль, мистер Крюгер. Попробуйте придумать не такую строгую речь.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Helian(0)||:Это будет непросто. +Я не уверен, что успею закончить до того, как Командир вернется.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||:Не волнуйтесь. Командир продержится очень долго. +Как насчет пари? Кто первым закончит свою работу?
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Helian(0)||:Что ж, подождем и увидим...
+()||<黑屏1>:【СОВЕТ】Продолжайте защищаться от атак Сангвиса, чтобы заработать больше наград.
