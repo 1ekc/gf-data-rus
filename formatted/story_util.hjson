@@ -1384,7 +1384,7 @@
     scripts: -4-1-1,-4-1-2First
     campaign: -4
     bgm: BGM_Frontline
-    title: Операция «Прорыв и спасение» I
+    title: Операция «Гипотермия» I
     is_util: 1
     start: -4-1-1
     first: -4-1-2First
@@ -1397,7 +1397,7 @@
     scripts: -4-2-1,-4-2-2First
     campaign: -4
     bgm: BGM_Frontline
-    title: Операция «Прорыв и спасение» II
+    title: Операция «Гипотермия» II
     is_util: 1
     start: -4-2-1
     first: -4-2-2First
@@ -1410,7 +1410,7 @@
     scripts: -4-3-1,-4-3-2First
     campaign: -4
     bgm: BGM_Frontline
-    title: Операция «Прорыв и спасение» III
+    title: Операция «Гипотермия» III
     is_util: 1
     start: -4-3-1
     first: -4-3-2First
@@ -1423,7 +1423,7 @@
     scripts: -4-4-1,-4-4-2First,-4-4-2End
     campaign: -4
     bgm: BGM_Frontline
-    title: Операция «Прорыв и спасение» IV
+    title: Операция «Гипотермия» IV
     is_util: 1
     start: -4-4-1
     first: -4-4-2First
@@ -1436,7 +1436,7 @@
     scripts: -7-1-1,-7-1-3Round1,-7-1-2First,-7-1-2End
     campaign: -7
     bgm: BGM_Frontline
-    title: Cross Base
+    title: Перекрестное основание
     is_util: 1
     start: -7-1-1
     round: 1:-7-1-3Round1
@@ -1450,7 +1450,7 @@
     scripts: -7-2-1,-7-2-3Round1,-7-2-2First,-7-2-2End
     campaign: -7
     bgm: BGM_Frontline
-    title: Bearing Miscalculation
+    title: Ошибочное определение
     is_util: 1
     start: -7-2-1
     round: 1:-7-2-3Round1
@@ -1464,7 +1464,7 @@
     scripts: -7-3-1,-7-3-3Round1,-7-3-2First,-7-3-2End
     campaign: -7
     bgm: BGM_Frontline
-    title: Directional Algorithm
+    title: Определяющий алгоритм
     is_util: 1
     start: -7-3-1
     round: 1:-7-3-3Round1
@@ -1478,7 +1478,7 @@
     scripts: -7-4-1,-7-4-3Round1,-7-4-2First,-7-4-2End
     campaign: -7
     bgm: BGM_Frontline
-    title: Reverse Sequence
+    title: Обратная последовательность
     is_util: 1
     start: -7-4-1
     round: 1:-7-4-3Round1
