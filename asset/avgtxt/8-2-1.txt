@@ -1,10 +1,10 @@
-()||<BIN>55</BIN><BGM>BGM_Sneak</BGM>：...Some time later, Area S02.
-RO635(0)<Speaker>RO635</Speaker>||：There. The jamming signal has been eliminated.+We'll now enter Base 0...
-M16(3)<Speaker>M16A1</Speaker>||：Hold on, RO.+I suggest tapping into the Sangvis communication channel just to be safe.+We might be able to acquire important information while we're still undetected.
-RO635(0)<Speaker>RO635</Speaker>||：Hacking into their network might expose our location. I don't recommend this course of action.
-M16(3)<Speaker>M16A1</Speaker>||：RO, if S.F. has been waiting for us all along, it's total annihilation we're talking about.
-RO635(3)<Speaker>RO635</Speaker>||：...+Fine. I suppose this is necessary.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||：Uh...RO, sync the signal to the public encrypted channel.
+()||<BIN>55</BIN><BGM>BGM_Sneak</BGM>：...Некоторое время спустя, Зона S02.
+RO635(0)<Speaker>RO635</Speaker>||：Вот. Сигнал помех устранен.+Мы входим на Базу 0...
+M16(3)<Speaker>M16A1</Speaker>||：Погоди, RO.+ Я предлагаю подключиться к каналу связи Сангвиса на всякий случай.+ Возможно, мы сможем получить важную информацию, оставаясь незамеченными.
+RO635(0)<Speaker>RO635</Speaker>||：Взлом их сети может раскрыть наше местоположение. Я не советую так поступать.
+M16(3)<Speaker>M16A1</Speaker>||：RO, если С.Ф. все это время ждет нас, то речь идет о полном уничтожении.
+RO635(3)<Speaker>RO635</Speaker>||：...+Ясно. Наверное, это необходимо.
+NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||：RO, синхронизируй сигнал с открытым кодированным каналом.
 RO635(0)<Speaker>RO635</Speaker>||：These are all merely battle signals, Miss Persica. They won't be useful to you.
 NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||：(Sighs) If you won't let me do extra things, then at least let me listen in...+ It'd be nice to save unexpected discoveries for the future.
 M16(3)<Speaker>M16A1</Speaker>||：Do as Persica says, RO. The Commander needs those information too, after all.
