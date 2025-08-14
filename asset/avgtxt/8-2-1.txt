@@ -4,20 +4,21 @@ M16(3)<Speaker>M16A1</Speaker>||：Погоди, RO.+ Я предлагаю по
 RO635(0)<Speaker>RO635</Speaker>||：Взлом их сети может раскрыть наше местоположение. Я не советую так поступать.
 M16(3)<Speaker>M16A1</Speaker>||：RO, если С.Ф. все это время ждет нас, то речь идет о полном уничтожении.
 RO635(3)<Speaker>RO635</Speaker>||：...+Ясно. Наверное, это необходимо.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||：RO, синхронизируй сигнал с открытым кодированным каналом.
-RO635(0)<Speaker>RO635</Speaker>||：These are all merely battle signals, Miss Persica. They won't be useful to you.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||：(Sighs) If you won't let me do extra things, then at least let me listen in...+ It'd be nice to save unexpected discoveries for the future.
-M16(3)<Speaker>M16A1</Speaker>||：Do as Persica says, RO. The Commander needs those information too, after all.
-RO635(3)<Speaker>RO635</Speaker>||<黑屏1>：...Understood.+Signal bait ejected. Syncing with S.F. network complete.+Receiving. Keep your ears perked...
-()||<BGM>BGM_Empty</BGM><黑屏2>：...A lively melody comes through.
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：What's...this? Music?
-M16(3)<Speaker>M16A1</Speaker>||<BGM>BGM_Room</BGM>："Ciocârlia", or "The Lark". That's an old Romanian children's folk song.
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Wow! How did you know that?! M16 sure is amazing!
-RO635(4)<Speaker>RO635</Speaker>||：The point is...why is there music?
-M16(3)<Speaker>M16A1</Speaker>||：Sangvis Ringleaders are also equipped with some kind of emotion module. If she's listening to music, she must have entered mandatory sleep mode to clear up her cache.
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Then it's the perfect chance. We can move freely for now.
-RO635(3)<Speaker>RO635</Speaker>||：But unless she says something...we won't know who we're dealing with.
-M16(3)<Speaker>M16A1</Speaker>||：S.F. can't possibly put an inexperienced rookie T-Doll in charge of such an important guard duty.+Someone who's crossed swords with Griffin several times, whose mental age is relatively young...
-RO635(0)<Speaker>RO635</Speaker>||：...Destroyer. It can only be her.
-M16(3)<Speaker>M16A1</Speaker>||：Humph. That's not bad news, is it?
-RO635(0)<Speaker>RO635</Speaker>||<黑屏1>：Commander, do you copy?+The Ringleader stationed at Area S02 is very likely to be Destroyer. Please adjust your battle strategies accordingly.+Now would you please help us go further in till we find a suitable base to launch the search.
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||：RO, синхронизируй сигнал с открытым кодированным каналом.
+RO635(0)<Speaker>RO635</Speaker>||：Это всего просто боевые переговоры, мисс Персика. Они бесполезны для вас.
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||：(Вздох) Если ты не позволяешь мне вмешиваться, то хотя бы позволь мне послушать.+Было бы неплохо приберечь неожиданные находки на будущее.
+M16(3)<Speaker>M16A1</Speaker>||：Слушай Персику, RO. Командиру тоже нужна эта информация.
+RO635(3)<Speaker>RO635</Speaker>||<黑屏1>：...Поняла.+Сигнал-приманка запущен. Синхронизация с сетью С.Ф. завершена.+Прием данных. Слушайте внимательно...
+()||<BGM>BGM_Empty</BGM><黑屏2>：...Звучит веселая мелодия.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Что... это? Музыка?
+M16(3)<Speaker>M16A1</Speaker>||<BGM>BGM_Room</BGM>：«Ciocârlia», или по другому «Жаворонок». Это старая румынская детская народная песня.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Вау! Откуда ты это знаешь?! M16 — это действительно потрясающе!
+RO635(4)<Speaker>RO635</Speaker>||：Вопрос в том... зачем нужна музыка?
+M16(3)<Speaker>M16A1</Speaker>||：Главари Сангвисов также оснащены неким модулем эмоций. Если она слушает музыку, значит, она перешла в вынужденный режим сна, чтобы очистить кэш.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Тогда это отличный шанс. Сейчас мы можем свободно передвигаться.
+RO635(3)<Speaker>RO635</Speaker>||：Но если она ничего не скажет... мы не узнаем, с кем имеем дело.
+M16(3)<Speaker>M16A1</Speaker>||：С.Ф. не может же поручить неопытной новой Т-Кукле такую важную задачу по охране.+Кто-то, с кем Грифон несколько раз сталкивался в бою, кто по возрасту относительно молод...
+RO635(0)<Speaker>RO635</Speaker>||：...Разрушительница. Это может быть только она.
+M16(3)<Speaker>M16A1</Speaker>||：Хмф. Неплохие новости, правда?
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>：Командир, вы меня слышите?+Главарь, находящийся в зоне S02, скорее всего, Разрушительница. Пожалуйста, скорректируйте тактику боя.+Теперь пожалуйста, помогите нам продвинуться дальше, пока мы не найдем подходящую базу для начала поисков.
+
