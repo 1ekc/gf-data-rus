@@ -1,20 +1,21 @@
-()||<BIN>34</BIN><BGM>BGM_Room</BGM>：Combat over. The AR Team has reached the database where File No. 7 is stored.
-RO635(0)<Speaker>RO635</Speaker>||：Miss Persica, Commander, we've entered the designated database.
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>;RO635(0)||：Ohh... That's easier than expected.+So have you found File No. 7?
-NPC-Persica(2);RO635(0)<Speaker>RO635</Speaker>||：SOP-II has made it past the identity verification and is in the process of browsing through the files.+I'll release a signal to trick the mainframe into activating its security system when she establishes the connection.+Once File No. 7 is located, download will commence immediately.
-NPC-Persica(2)<Speaker>Persica</Speaker>;RO635(0)||：I see... Thank you so much.+Especially you, RO... You helped M4A1 achieve what she couldn't...
-NPC-Persica(2);RO635(2)<Speaker>RO635</Speaker>||：I appreciate the praise, Miss Persica.+But I'm merely following orders. It's all thanks to the Commander and the AR Team.
-NPC-Persica(2);RO635(0)<Speaker>RO635</Speaker>||：Besides, the operation is still ongoing. We can't let down our guards yet.
-NPC-Persica(3)<Speaker>Persica</Speaker>;RO635(0)||：Uh... I thought you've already found the file?
-NPC-Persica(3);RO635(0)<Speaker>RO635</Speaker>||：Downloading the file will take up a lot of SOP-II's RAM, and I won't be capable of acting independently once I enter the mainframe.+We will all be extremely vulnerable during this period except for M16.+S.F. can sniff us out anytime, so the Commander will have to keep buying us time.
-NPC-Persica(3)<Speaker>Persica</Speaker>;RO635(0)||：In that case...+RO, why not listen in on the Sangvis channel again?
-NPC-Persica(3);RO635(0)<Speaker>RO635</Speaker>||：I do not recommend it. The anti-jamming system will keep running to facilitate the commander's maneuvers.+But hacking into Sangvis comms right now would make it possible for the enemy to reverse trace our location, especially when we don't know the extent of the enemy's technological capabilities...
-NPC-Persica(3)<Speaker>Persica</Speaker>;RO635(0)||：Ugh... Well...you do have a point...
-RO635(3)<Speaker>RO635</Speaker>||：(Sighs) I think you've had too much coffee. I suggest you go into mandatory sleep mode with the help of devices.
-M16(3)<Speaker>M16A1</Speaker>||：RO, SOP-II has found File No. 7. We can start downloading whenever you're ready.+But there is a lot of data, and the file size is huge, so this is gonna take a while.
-RO635(0)<Speaker>RO635</Speaker>||：Stay here, M16, and don't do anything to alert the enemy scouts.+I'll leave everything outside to the Commander.
-M16(0)<Speaker>M16A1</Speaker>||：What, feeling squeamish without me?
-RO635(3)<Speaker>RO635</Speaker>||：I'm merely making reasonable judgments based on the situation.
-M16(0)<Speaker>M16A1</Speaker>||：Haha, sure...+I'll stay here to protect you two. But as part of the deal, do NOT leave the database no matter what happens.+I'm speaking from experience. You'd better listen to me.
-RO635(3)<Speaker>RO635</Speaker>||：I have no idea where you got your experience...but fine. I promise I won't.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<黑屏1>：Alright, I'm leaving the rest to you, RO. +I think I really should...take a little nap...
+()||<BIN>34</BIN><BGM>BGM_Room</BGM>：Сражение завершено. Команда AR добралась до места хранения файла № 7.
+RO635(0)<Speaker>RO635</Speaker>||：Мисс Персика, Командир, мы вошли в искомую базу данных.
+NPC-Persica(2)<Speaker>Персика</Speaker><通讯框>;RO635(0)||：О... Это проще, чем я думала.+Так ты уже нашла файл № 7?
+NPC-Persica(2);RO635(0)<Speaker>RO635</Speaker>||：SOP-II прошла идентификацию и сейчас просматривает файлы.+Я отправлю сигнал, чтобы обманом заставить главный компьютер активировать систему безопасности, когда она установит соединение.+Как только файл № 7 будет найден, загрузка начнется немедленно.
+NPC-Persica(2)<Speaker>Персика</Speaker>;RO635(0)||：Понятно... Большое спасибо. Особенно тебе, RO... Ты помогла M4A1 достичь того, чего она не смогла.
+NPC-Persica(2);RO635(2)<Speaker>RO635</Speaker>||：Спасибо за похвалу, мисс Персика.+Но я просто выполняю приказы. Все это благодаря Командиру и Команде AR.
+NPC-Persica(2);RO635(0)<Speaker>RO635</Speaker>||：Кроме того, операция еще не закончена. Мы не можем терять бдительность.
+NPC-Persica(3)<Speaker>Персика</Speaker>;RO635(0)||：Э-э... Я думала, ты уже нашла файл?
+NPC-Persica(3);RO635(0)<Speaker>RO635</Speaker>||：Загрузка файла займет много оперативной памяти SOP-II, и я не смогу действовать независимо, как только войду в мэйнфрейм.+В это время все мы будем крайне уязвимы, кроме M16.+С.Ф. может выследить нас в любой момент, поэтому Командир должен будет выиграть для нас время.
+NPC-Persica(3)<Speaker>Персика</Speaker>;RO635(0)||：В таком случае... +RO, почему бы не подслушать канал Сангвиса еще раз?
+NPC-Persica(3);RO635(0)<Speaker>RO635</Speaker>||：Я не рекомендуюэто делать. Система противодействия помехам будет работать, чтобы облегчить действия Командира.+Но взлом связи «Сангвиса» прямо сейчас позволит врагу отследить наше местонахождение, особенно учитывая, что мы не знаем, на что способны технологии противника...
+NPC-Persica(3)<Speaker>Персика</Speaker>;RO635(0)||：Эх... Ну... в твоих словах есть смысл...
+RO635(3)<Speaker>RO635</Speaker>||：(Вздох) Я думаю, вы выпили слишком много кофе.+Предлагаю вам прибегнуть к помощи устройств и перейти в режим принудительного сна.
+M16(3)<Speaker>M16A1</Speaker>||：RO, SOP-II нашла файл № 7. Мы можем начать загрузку, когда ты будешь готова.+Но данных много, и файл огромный, так что это займет некоторое время.
+RO635(0)<Speaker>RO635</Speaker>||：Оставайся здесь, М16, и не делай ничего, чтобы не привлечь внимание вражеских разведчиков. Я оставлю все снаружи Командиру.
+M16(0)<Speaker>M16A1</Speaker>||：Что, без меня тебе стало хреново?
+RO635(3)<Speaker>RO635</Speaker>||：Я всего лишь выражаю разумное предположение, основанное на ситуации.
+M16(0)<Speaker>M16A1</Speaker>||：Ха-ха, конечно... + Я останусь здесь, чтобы защитить вас двоих. Но в качестве условия, не отходи от базы данных, что бы ни случилось. + Говорю по собственному опыту. Лучше послушайся меня.
+RO635(3)<Speaker>RO635</Speaker>||：Я понятия не имею, откуда у тебя такой опыт... но ладно. Обещаю, что не уйду.
+NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||<黑屏1>：Ладно, остальное оставлю тебе, RO. +Думаю, мне действительно нужно... немного вздремнуть...
+
