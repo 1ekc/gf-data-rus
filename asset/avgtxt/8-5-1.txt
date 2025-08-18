@@ -1,2 +1,4 @@
-()||<BIN>10</BIN>：Three minutes later.
-RO635(5)<Speaker>RO635</Speaker><通讯框>||：Commander, as you know from my report, we're in a state of emergency.+The Sangvis Ringleader that has been newly stationed at Area S02, Dreamer, is bombing the whole area!+We can't retreat immediately as we must stay where we are till SOP-II's download is complete...+Please direct your troops to ambush the Sangvis command post and hold off their vanguard.+If the Sangvis command system isn't destroyed, their drones will destroy this database.+The success of this entire operation hinges on you and your forces, Commander!
+()||<BIN>10</BIN>：Три минуты спустя.
+RO635(5)<Speaker>RO635</Speaker><通讯框>||：Командир, как вы знаете из моего доклада, мы находимся в критической ситуации.+Главарь Сангвис, недавно прибывший в зону S02, Мечтательница, бомбардирует всю территорию!+Мы не можем сразу отступить, так как жде загрузки файла SOP-II...
++Пожалуйста, направьте ваши войска в обход на командный пункт Сангвиса и сдержите их передовой отряд.+Если система управления Сангвиса не будет разрушена, их дроны уничтожат эту базу данных.+Успех всей операции зависит от вас и ваших сил, Командир!
+
