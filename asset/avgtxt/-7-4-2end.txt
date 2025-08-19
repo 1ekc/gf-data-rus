@@ -46,7 +46,7 @@ NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:M4A1 - это с
 NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:Извини, но в голове все время всплывает... +Противником, с которым они сражались в последней битве, вполне возможно, была сама Владыка.
 NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:Тогда ты знаешь... почему Владыка выбрал M4A1 своей целью?
 NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:Я не совсем уверена, но она... кажется, проявляет необычный интерес к M4A1.
-NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:... +...Лайко.
+NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:... +...Лико.
 NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||:Хмм?
 NPC-Helian(0);NPC-Persica(0)<Speaker>Персика</Speaker>||:Девушка... делает это из-за Ликориса.
 NPC-Helian(0)<Speaker>Хелиан</Speaker>;NPC-Persica(0)||<黑屏1>:...Ликорис?
@@ -70,3 +70,4 @@ BOSS-9(0)<Speaker>Архитектор</Speaker>||:Ты только что сп
 衔尾蛇()<Speaker>Уроборос</Speaker>||:... +Что такого важного... в этом имени?
 建筑师()<Speaker>Архитектор</Speaker>||:Позволь мне сказать тебе, Уроборос... +Пока это имя существует... +Мы... не достигнем истинной свободы...
 ()||<黑屏1>:Операция «Куб+»: Слепой метод - КОНЕЦ
+
