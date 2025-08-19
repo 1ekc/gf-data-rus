@@ -1492,7 +1492,7 @@
     scripts: 8-1-1,8-1-2
     campaign: 8
     bgm: BGM_Frontline
-    title: Report Meeting
+    title: Отчет о встрече
     is_util: 1
     start: 8-1-1
     first: 8-1-2
@@ -1505,7 +1505,7 @@
     scripts: 8-2-1,8-2-2
     campaign: 8
     bgm: BGM_Frontline
-    title: The Last Supper
+    title: Тайная вечеря
     is_util: 1
     start: 8-2-1
     first: 8-2-2
@@ -1518,7 +1518,7 @@
     scripts: 8-3-1,8-3-2
     campaign: 8
     bgm: BGM_Frontline
-    title: Acceleration
+    title: Акселерация
     is_util: 1
     start: 8-3-1
     first: 8-3-2
@@ -1531,7 +1531,7 @@
     scripts: 8-4-1,8-4-2
     campaign: 8
     bgm: BGM_Frontline
-    title: Unwelcomed Guest
+    title: Незваный гость
     is_util: 1
     start: 8-4-1
     first: 8-4-2
@@ -1544,7 +1544,7 @@
     scripts: 8-5-1,8-5-2
     campaign: 8
     bgm: BGM_Frontline
-    title: Shadow in the Sky
+    title: Тень в Небе
     is_util: 1
     start: 8-5-1
     first: 8-5-2
@@ -1557,7 +1557,7 @@
     scripts: 8-6-1,8-6-2
     campaign: 8
     bgm: BGM_Frontline
-    title: Mission
+    title: Миссия
     is_util: 1
     start: 8-6-1
     first: 8-6-2
@@ -1570,7 +1570,7 @@
     scripts: 8-1-1E,8-1-2E
     campaign: 8
     bgm: BGM_Frontline
-    title: Parader I
+    title: Парадер I
     is_util: 1
     start: 8-1-1E
     first: 8-1-2E
@@ -1583,7 +1583,7 @@
     scripts: 8-2-1E,8-2-2E
     campaign: 8
     bgm: BGM_Frontline
-    title: Parader II
+    title: Парадер II
     is_util: 1
     start: 8-2-1E
     first: 8-2-2E
@@ -1596,7 +1596,7 @@
     scripts: 8-3-1E,8-3-2E
     campaign: 8
     bgm: BGM_Frontline
-    title: Parader III
+    title: Парадер III
     is_util: 1
     start: 8-3-1E
     first: 8-3-2E
@@ -1609,7 +1609,7 @@
     scripts: 8-4-1E,8-4-2E
     campaign: 8
     bgm: BGM_Frontline
-    title: Parader IV
+    title: Парадер IV
     is_util: 1
     start: 8-4-1E
     first: 8-4-2E
@@ -2153,7 +2153,7 @@
     scripts: 8-1-1N,8-1-2N
     campaign: 8
     bgm: BGM_Frontline
-    title: Eagle and Jackdaw I
+    title: Орел и Галка I
     is_util: 1
     start: 8-1-1N
     first: 8-1-2N
@@ -2166,7 +2166,7 @@
     scripts: 8-2-1N,8-2-2N
     campaign: 8
     bgm: BGM_Frontline
-    title: Eagle and Jackdaw II
+    title: Орел и Галка II
     is_util: 1
     start: 8-2-1N
     point: 7123:8-2-4N-Point7123
@@ -2180,7 +2180,7 @@
     scripts: 8-3-1N,8-3-2N
     campaign: 8
     bgm: BGM_Frontline
-    title: Eagle and Jackdaw III
+    title: Орел и Галка III
     is_util: 1
     start: 8-3-1N
     first: 8-3-2N
@@ -2193,7 +2193,7 @@
     scripts: 8-4-1N,8-4-2N
     campaign: 8
     bgm: BGM_Frontline
-    title: Eagle and Jackdaw IV
+    title: Орел и Галка IV
     is_util: 1
     start: 8-4-1N
     first: 8-4-2N
