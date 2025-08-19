@@ -7,15 +7,15 @@ IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:�
 ()||<BIN>54</BIN>:...Бззт...
 AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>54</BIN>:Повторная авторизация сигнала в процессе... +Ты... мой враг?
 IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Это не должно было так закончиться... +AUG, я обещала, что не буду...
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>54</BIN>:...I don't believe you.
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Please, I beg you...
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>54</BIN><SE1>Select</SE1>:We are out of options, it seems. This was your first mistake.
-()<Speaker>IWS 2000</Speaker>||<BIN>54</BIN><黑屏1>:And it won't... be our last. 
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>54</BIN>:...Я тебе не верю.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>54</BIN>:Пожалуйста, я прошу тебя...
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>54</BIN><SE1>Select</SE1>:Похоже, у нас нет выбора. Это была твоя первая ошибка.
+()<Speaker>IWS 2000</Speaker>||<BIN>54</BIN><黑屏1>:И она не будет... последней.
 ()||<SE2>MachineGunBurst</SE2><BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>2,1</黑屏2>:... +......
-系统语音()<Speaker>System Prompt</Speaker>||<BIN>9</BIN><黑屏1>:Neural Cloud backup download has been completed. Repair sequence has concluded. We wish you the best of health.
-()<Speaker>IWS 2000</Speaker>||<黑屏2><BIN>22</BIN>:... +...Was that...a dream...?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN><BGM>BGM_Moon</BGM>:Finally awake? +It looks like someone here struggles to get out of bed.
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>22</BIN>:AUG... have you been waiting here the whole time? Where's the others?
+系统语音()<Speaker>Системный запрос</Speaker>||<BIN>9</BIN><黑屏1>:Загрузка резервной копии Neural Cloud завершена. Процедура восстановления завершена. Желаем вам крепкого здоровья.
+()<Speaker>IWS 2000</Speaker>||<黑屏2><BIN>22</BIN>:... +...Это был... сон...?
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN><BGM>BGM_Moon</BGM>:Наконец проснулась? +Похоже, кто-то здесь с трудом встает с постели.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>22</BIN>:AUG... ты все это время ждала здесь? Где остальные?
 AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Both G17 and SSG lack the habit of lazing around in the repair bay. They're both outside.
 IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Repair bay... Were we completely annihilated? Did we fail our mission?
 IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:I don't like utilizing the word "run", but that was the last thing you ordered me to do.
@@ -80,4 +80,5 @@ IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:A
 AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Don't mention it. +The location of this Sangvis outpost, though...
 IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:...What about it?
 AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Nothing. Judging from the wind, it's going to rain soon. +Let's get started whenever you're ready, and tie up some loose ends.
+
 
