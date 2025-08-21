@@ -16,13 +16,13 @@ AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>54</BIN><SE1>Selec
 ()<Speaker>IWS 2000</Speaker>||<黑屏2><BIN>22</BIN>:... +...Это был... сон...?
 AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN><BGM>BGM_Moon</BGM>:Наконец проснулась? +Похоже, кто-то здесь с трудом встает с постели.
 IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>22</BIN>:AUG... ты все это время ждала здесь? Где остальные?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Both G17 and SSG lack the habit of lazing around in the repair bay. They're both outside.
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Repair bay... Were we completely annihilated? Did we fail our mission?
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:I don't like utilizing the word "run", but that was the last thing you ordered me to do.
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Then did we... successfully intercept the Sangvis cargo?
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:We've acquired a lot of intel.
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:So we did fail...
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:What's there to be upset about? Your team didn't get completely wiped out. Your worst fear has not come to life.
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:И G17, и SSG не имеют привычки бездельничать в ремонтной мастерской. Они оба находятся снаружи.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Ремонтная мастерская... Мы были полностью уничтожены? Мы провалили миссию?
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Я не люблю использовать слово «бежать», но это было последнее, что ты мне приказал сделать.
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Так мы... успешно перехватили груз Сангвиса?
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Мы собрали много информации.
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Значит мы провалились...
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Из-за чего тут расстраиваться? Твоя команда не была полностью уничтожена. Твои худшие опасения не оправдались.
 IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Still... I can't seem to get over it at all...
 IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Keep lying in there for all you want. +As the humans are so fond of telling each other, "Sleep. In your dreams, anything is possible."
 IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Dream... +AUG... I actually... just had a dream.
@@ -80,6 +80,7 @@ IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:A
 AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Don't mention it. +The location of this Sangvis outpost, though...
 IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:...What about it?
 AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Nothing. Judging from the wind, it's going to rain soon. +Let's get started whenever you're ready, and tie up some loose ends.
+
 
 
 
