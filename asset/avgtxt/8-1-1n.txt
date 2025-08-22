@@ -23,63 +23,64 @@ IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22
 IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Мы собрали много информации.
 IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Значит мы провалились...
 IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Из-за чего тут расстраиваться? Твоя команда не была полностью уничтожена. Твои худшие опасения не оправдались.
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Still... I can't seem to get over it at all...
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Keep lying in there for all you want. +As the humans are so fond of telling each other, "Sleep. In your dreams, anything is possible."
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Dream... +AUG... I actually... just had a dream.
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Allow me to remind you that T-Dolls cannot dream. +I believe the proper term for it was "computational tests that the Neural Cloud undergoes during reconfiguration".
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:I know it wasn't real! Cut me some slack, okay?!
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Mhmm? So what did you dream about? +A sea of flowers in full bloom or World War IV?
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:It wasn't anything that grand... +My dream was probably about... another possible outcome of our most recent mission...
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:So your neural cloud was actively trying to figure out what could be worse than being helpless as Sangvis Ferri plans to massacre people by the millions?
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Have you experienced something like this before?
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:I never need to. +Sentences that start with an "if" serve no purpose other than grate on the ears.
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:(Sighs) I even promised the Commander I wouldn't return empty-handed before we set off... +I just can't let it all go so easily like you...
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:I have nothing to say if the victories in your dreams bring you satisfaction.
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Dreamland is a place where you can have it all without losing anything. A true marvel to behold... +But a wholly unrealistic one.
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:It's good that you're back from there. +Now with your feet firmly grounded in reality, it's time that I give you some bad news to strike at your heart, dear leader.
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:UgUgh... I don't want to hear any of it... +We've never had a mission turn out so disastrously before. I don't want to know what the others are saying about us... +Especially that... nasty anonymous dissing forum or something...
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:What is it that you want?
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Everyone has collected so much intel about this crisis, but we can't even find the cargo...
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:So do you want to find this legendary weapon of mass destruction, or do you think it's better if we never find it?
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:What I want... is to do whatever possible to prevent Sangvis Ferri from wreaking havoc with such a devastating weapon... +For the sake of those who we've sworn to protect... and ourselves.
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Spoken just like the leader of a team which was nearly wiped out. +See to it that you can uphold such an oath before speaking of such things. +Oh, by the way, here's a perfunctory reminder that we have just received our next mission.
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Huh...? Wait. I literally just woke up in the repair bay...
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Did I also mention that while we were having this conversation, the Commander was having an emergency meeting with all the team leaders?
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN><震屏>:Why didn't you tell me something this important?!
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:You couldn't have made it anyway. +The discussion we had about dreams was also very interesting.
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Even if I couldn't have made it, we can't just not go entirely! I thought the vice-leader could attend in my place?
-IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:I left early. +As a member on the team that screwed up their mission, my only purpose is to convey the Commander's commendation.
-IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Commendation...? For what? +...Are you making fun of me?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:I just told you, didn't I? We acquired a lot of intel.
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BGM>BGM_Empty</BGM><BIN>22</BIN>:... +...What have we... No, AUG... +What did YOU bring back from the mission?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN><黑屏1>:My team leader's greatest regret.
-Glock17(0)<Speaker>G17</Speaker>||<BGM>BGM_Room</BGM><黑屏2><BIN>97</BIN>:Yellowcake?! +So the intel brought back by the other teams is true?
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>97</BIN>:Ja... AUG's video recording of the sealed container inside of the cargo hold... +Taking the radioactive remains of the convoy into consideration, that is the logical conclusion to come to. +I suppose... we did achieve something during our last mission.
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>97</BIN>:Huh? Don't tell me... what we were seeking was a batch of nuclear missiles?
-SSG69(0);IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>97</BIN>:They weren't fully assembled. It was most likely the raw materials, but we don't know for sure what exactly was inside that container. +However, taking the recent stalemate that we've had with S.F. into consideration, the Commander cannot rule out the possibility that they are attempting to produce such destructive weapons...
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>97</BIN>:Well, obviously... Biological weapons that would cause epidemics and poison gas are ineffective on us, after all...
-Glock17(0)<Speaker>G17</Speaker>||<BIN>97</BIN>:No need to be so frightened, SSG. +Who knows, maybe they're facing some hard times and can only make a living by selling ores.
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>97</BIN>:...Enough with this irrelevant discussion. +The Commander has just made this information confidential to prevent Dolls like you from panicking.
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>97</BIN>:That takes the fun out of everything... Now I can't complain about it to the others... +I even just saw a thread discussing this on the "Griffin Anonymous Dissing Forum"...
-SSG69(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>97</BIN>:MDR made the best out of the timing. +But now all that's left on the page is posts hard-selling the advantages of bullpup rifles.
-Glock17(0)<Speaker>G17</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>97</BIN>:You yourself are a bullpup rifle, Fräulein AUG...
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>97</BIN>:Fishing for appreciation is something I have no interest in. Whether I'm liked or not by others doesn't concern me.
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:И все же... Я никак не могу прийти в себя...
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Лежи там сколько хочешь. +Как люди любят говорить друг другу: «Спи. Во сне все возможно».
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Сон... +AUG... Я на самом деле... только что видела сон.
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Позволь напомнить, что Т-Куклы не могут видеть сны. +Я считаю, что правильный термин для этого — «вычислительные тесты, которые проходит нейронное облако во время перенастройки».
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Я знаю, что это было не по-настоящему! Оставь меня в покое, ладно?!
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:М-м-м? Так что же тебе снилось? +Море цветов в расцвете или Четвертая мировая война?
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Ничего такого особенного... +Мой сон, наверное, был о... другом возможном исходе нашей последней миссии...
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Так твое нейронное облако активно пыталось понять, что может быть хуже, чем беспомощность, когда Сангвис Ферри планирует убить миллионы людей?
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Ты когда-нибудь сталкивалась с чем-то подобным?
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Я никогда не испытывала такой необходимости. +Предложения, начинающиеся со слова «если», не несут никакой смысловой нагрузки и только раздражают слух.
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:(Вздыхает) Я даже обещала Командиру, что не вернусь с пустыми руками, прежде чем мы вышли... +Я просто не могу так легко все бросить, как ты...
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Мне нечего сказать, если победа в твоем сне приносит тебе радость.
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Страну грез — это место, где можно иметь все, не теряя ничего. Настоящее чудо... +Но совершенно нереальное.
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Хорошо, что ты вернулась оттуда. +Теперь, когда ты твердо стоишь на земле, пришло время сообщить тебе плохую новость, которая поразит твое сердце, дорогая лидер.
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Угх... Я не хочу ничего слышать... +У нас еще никогда миссия не заканчивалась так хреново. Я не хочу знать, что о нас говорят другие... +Особенно на том... мерзком анонимном форуме или что это там...
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:К чему ты стремишься?
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Все уже собрали столько информации об этом кризисе, но мы не можем найти груз...
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Так ты хочешь найти это легендарное оружие массового уничтожения, или считаешь, что лучше, если мы его никогда не найдем?
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Я хочу... сделать все возможное, чтобы Сангвис Ферри не смог нанести ущерб с помощью такого разрушительного оружия... +Ради тех, кого мы поклялись защищать... и ради нас самих.
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Говоришь как лидер команды, которая была почти уничтожена. +Позаботься о том, чтобы ты смогла сдержать подобную клятву, прежде чем говорить о таких вещах. +О, кстати, вот формальное напоминание о том, что мы только что получили наше следующее задание.
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Э...? Подожди. Я буквально только что очнулась в ремонтной мастерской...
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Я уже упоминала, что пока мы разговаривали, Командир созвал экстренное совещание всех лидеров групп?
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN><震屏>:Почему ты не сказала мне о таком важном деле?!
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Ты все равно не смогла бы участвовать. +Наша беседа о снах тоже была очень интересной.
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Даже если я не смогла бы прийти, мы не можем просто не пойти!+Я думала, что заместитель лидера мог бы прийти вместо меня?
+IWS2000(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Я рано ушла. +Как член команды, провалившей миссию, моя единственная цель — передать благодарность Командира.
+IWS2000(0)<Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>22</BIN>:Благодарность...? За что? +...Ты надо мной смеешься?
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN>:Я же тебе только что говорила? Мы получили много информации.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BGM>BGM_Empty</BGM><BIN>22</BIN>:... +...Что мы... Нет, AUG... +Что ТЫ принесла с миссии?
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>22</BIN><黑屏1>:Самое большое сожаление лидера моей команды.
+Glock17(0)<Speaker>G17</Speaker>||<BGM>BGM_Room</BGM><黑屏2><BIN>97</BIN>:Урановый концентрат?! +Значит, информация, добытая другими командами, верна?
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>97</BIN>:Ага... Видеозапись AUG из запечатанного контейнера в грузовом отсеке... +Учитывая радиоактивные останки конвоя, это логичный вывод. +Полагаю... мы все-таки чего-то добились во время последней миссии.
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>97</BIN>:Что? Не говори мне... что мы искали партию ядерных ракет?
+SSG69(0);IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>97</BIN>:Они не были полностью собраны. Скорее всего, это было сырье, но мы не знаем наверняка, что именно находилось в том контейнере. +Однако, учитывая недавнюю патовую ситуацию, в которой мы оказались с С.Ф., Командир не может исключить вероятность того, что они пытаются создать такое разрушительное оружие...
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>97</BIN>:Ну, очевидно... Биологическое оружие, которое вызывает эпидемии и ядовитый газ, на нас не действует, в конце концов...
+Glock17(0)<Speaker>G17</Speaker>||<BIN>97</BIN>:Не нужно так бояться, SSG. +Кто знает, может, у них сейчас тяжелые времена и они могут заработать на жизнь только продажей проклятой руды.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>97</BIN>:...Хватит этой бессмысленной дискуссии. +Командир только что сделал эту информацию конфиденциальной, чтобы такие куклы, как ты, не запаниковали.
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>97</BIN>:Это отнимает все веселье... Теперь я не могу пожаловаться на это другим... +Я даже видела тему, где обсуждали это на «Анонимном форуме Грифонов»...
+SSG69(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>97</BIN>:MDR максимально использовала момент. +Но теперь на странице остались только посты, в которых настойчиво рекламируются преимущества винтовок с буллпап-компоновкой.
+Glock17(0)<Speaker>G17</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>97</BIN>:Ты сама похожа на винтовку с буллпапом, фройляйн AUG...
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>97</BIN>:Я не заинтересована в том, чтобы завоевать признание. Мне не важно, нравлюсь я другим или нет.
 IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>97</BIN>:...
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>97</BIN>:IWS, is there something on my face?
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>97</BIN><黑屏1>1.5</黑屏1>:No... It's nothing. +We'll form up after sorting our gear. Our teams have been assigned to engage with all suspicious Sangvis outposts. +We'll be working with Squad Welrod, and will be heading out to sortie any minute now. +Our mission must be completed without fail this time...
-IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN>:That's right, this time...
-()||<BIN>9</BIN>:... +...Six hours later.
-格洛克17()<Speaker>G17</Speaker>||<BIN>9</BIN>:The Sangvis defense ahead is stronger than what our scouts have reported. They don't seem to have noticed us yet.
-IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN>:Roger that. How are things on your end, SSG?
-SSG69()<Speaker>SSG 69</Speaker>||<BIN>9</BIN>:The view is clear. Squad Welrod is waiting for our signal.
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<黑屏2><BIN>10</BIN>:Their security is tighter than what's been reported... I should've anticipated this...
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Are you sure you're getting a reading from your radiation detector?
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:I did think of that. I even... +Huh? Where did I put it...?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:It's with me. You left it on the table after checking it.
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:Ah... Um... Danke... and sorry about it...
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Don't mention it. +The location of this Sangvis outpost, though...
-IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:...What about it?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Nothing. Judging from the wind, it's going to rain soon. +Let's get started whenever you're ready, and tie up some loose ends.
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>97</BIN>:IWS, у меня что-то на лице?
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>97</BIN><黑屏1>1.5</黑屏1>:Нет... Ничего. +После того, как отсортируем снаряжение, объединимся. Нашим отрядам поручено уничтожить все подозрительные аванпосты Сангвис. +Мы будем работать вместе с отрядом « Welrod» и отправимся в бой в любой момент. +На этот раз наша миссия должна быть выполнена без ошибок...
+IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN>:Верно, на этот раз...
+()||<BIN>9</BIN>:... +...Шесть часов спустя.
+格洛克17()<Speaker>G17</Speaker>||<BIN>9</BIN>:Оборона Сангвиса впереди сильнее, чем сообщали наши разведчики. Похоже, они нас еще не заметили.
+IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN>:Принято. Как дела у тебя, SSG?
+SSG69()<Speaker>SSG 69</Speaker>||<BIN>9</BIN>:Обзор хороший. Отряд Welrod ждет сигнала.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<黑屏2><BIN>10</BIN>:Их охрана более серьезная, чем говорили... Я должна была это предвидеть...
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Ты уверена, что показания детектора радиации верны?
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:Я об этом подумала. Я даже... +Э? Куда я это положила...?
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Оно у меня. Ты забыла его на столе после проверки.
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:А... Эм... Спасибо... и извини за это...
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Не за что. +Но местоположение этого аванпоста Сангвиса...
+IWS2000(0)<Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>10</BIN>:...О чем ты?
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>10</BIN>:Ничего. Судя по ветру, скоро будет дождь. +Начнем, когда будешь готова, и закончим дела.
+
 
 
 
