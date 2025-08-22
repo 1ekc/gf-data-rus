@@ -1,33 +1,34 @@
-()||<BIN>46</BIN><BGM>BGM_Room</BGM>:Combat concluded. Griffin forces storm the Sangvis outpost.
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Clear. Squad Welrod, we'll hold our positions and cover you.
-Welrod(0)<Speaker>Welrod</Speaker><通讯框>||<BIN>46</BIN>:Victory shall accompany those who trust in it. We'll leave it to you, then.
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Phew... Hopefully everything will go well.
-Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:You look relaxed for the first time tonight, Leader.
-Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Oh? How did I look like before?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>46</BIN>:Distaste had encompassed your entire face.
-AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>46</BIN>:I wasn't aware... +Hmm... I hope Fräulein Welrod and her team didn't notice that...
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>46</BIN>:Are you not satisfied with the Commander's arrangements to have us work with Squad Welrod?
-AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>46</BIN>:The only thing I'm dissatisfied with is... my own inexperience.
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>46</BIN>:Your self-reflection lifts my spirits. +Seeing as how things turned out in our most recent mission, that is definitely a good takeaway from it.
-AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>46</BIN>:With Squad Welrod with us this time... perhaps I don't have to be too worried. +It just bothers me so much that we suffered a bitter defeat at the end of the line because of my foolish mistake.
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN>:... +Being bothered by that is fine. However, you're trying too hard to do everything perfectly. Your relentless pursuit for that ideal is only going to drown you.
-Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:Everyone seemed pretty at ease on the helicopter. You were the only one on edge.
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>46</BIN>:Heheh... We can totally steal the show if we just make an effort.
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:That's not the point. We have absolutely no room for failure this time...
-Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:But isn't it odd for a PMC to be put in charge of dealing with something as serious as Yellowcake? +What about the Military?
-Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:According to the top brass, "It serves no purpose to involve the Military without presenting actual evidence." +After all, it's only our conjecture that Sangvis Ferri are in possession of Yellowcake.
-Glock17(0)<Speaker>G17</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>46</BIN>:Isn't the footage of their container enough evidence?
-Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>46</BIN>:They said that could be anything... +In any case, we can't simply sit here and wait for a crisis to happen.
-Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:Sigh. Those up there won't ever understand the kind of crap we have to go through...
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN>:The world's grim enough as is.
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>46</BIN>:Hmph... Who cares. This is the perfect opportunity for us T-Dolls to shine! +Radiation, poison gas, Collapse Fluid - we can brave them all and remain steadfast. We were made for this, don't you think?
-SSG69(0);Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:Just how much do you want to kill your audience...?
-SSG69(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN>:May I have a word in private, SSG?
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>46</BIN>:Huh? Hold on. I was just kidding... As if I'd actually gas myself and walk on stage...
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Where are you going?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN><黑屏1>:I'll make good use of the additional authorization you've given me.
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN><黑屏2>:SSG, this outpost isn't far from where you were destroyed last time.
-SSG69(0)<Speaker>SSG 69</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>46</BIN>:Eh? So we chased after the convoy all the way here...? +No, wait... this hardly counts as "not far"!
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN><黑屏1>:That doesn't matter. There's something I need you to do.
-()||<BIN>46</BIN><黑屏2>0.6</黑屏2><BGM>BGM_Empty</BGM>:...Click.
-Welrod(0)<Speaker>Welrod</Speaker><通讯框>||<BIN>46</BIN>:Miss IWS... we're onto something. +We've detected faint traces of radiation residue. The convoy should be up ahead.
+()||<BIN>46</BIN><BGM>BGM_Room</BGM>:Сражение завершено. Войска Грифона штурмуют аванпост Сангвис.
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Ясно. Отряд Welrod, мы будем держать позиции и прикрывать вас.
+Welrod(0)<Speaker>Welrod</Speaker><通讯框>||<BIN>46</BIN>:Победа будет за теми, кто в нее верит. Тогда мы оставляем это на твое попечение.
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Фух... Надеюсь, все пройдет хорошо.
+Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:Ты выглядишь расслабленной впервые за весь вечер, Лидер.
+Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:О? А как я выглядела прежде?
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>46</BIN>:Беспокойство отразилось на всем твоем лице.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>46</BIN>:Я не знала... +Хм... Надеюсь, фройляйн Welrod и ее команда этого не заметили...
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>46</BIN>:Ты не согласна с решением Командира о том, чтобы мы работали с отрядом «Welrod»?
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>46</BIN>:Единственное, чем я недовольна, — это... собственная некомпетентность.
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>46</BIN>:Твоя самокритика поднимает мне настроение. +Учитывая, как сложилась наша последняя миссия, это определенно хороший вывод.
+AUG(0)<Position>0,-100</Position>;IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>46</BIN>:С отрядом Welrod на этот раз... возможно, мне не стоит слишком волноваться. +Меня просто очень беспокоит, что из-за моей глупой ошибки мы потерпели обидное поражение в самом конце.
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN>:... +Беспокоиться об этом – это нормально. Однако ты слишком стараешься сделать все идеально. Твое неустанное стремление к идеалу только погубит тебя.
+Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:Все в вертолете казались довольно расслабленными. Только ты одна была на взводе.
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>46</BIN>:Хе-хе... Мы можем полностью украсть представление, если только постараемся.
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Дело не в этом. На этот раз у нас нет права на ошибку...
+Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:Но разве не странно, что ЧВК поручают заниматься таким серьезным делом, как урановый концентрат? +А как же военные?
+Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:По словам высшего руководства, «нет смысла привлекать военных, не имея реальных доказательств». +В конце концов, это всего лишь наши предположения, что Сангвис Ферри обладает урановым концентратом.
+Glock17(0)<Speaker>G17</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>46</BIN>:Разве видеозапись их контейнера не является достаточным доказательством?
+Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>46</BIN>:Они сказали, что это может быть что угодно... +В любом случае, мы не можем просто сидеть здесь и ждать, пока произойдет какой-либо пи... кризис.
+Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:Вздох. Те, кто наверху, никогда не поймут, через какую ерунду нам приходится проходить...
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN>:Мир и без того достаточно ужасен.
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>46</BIN>:Хм... Какая разница. Это идеальная возможность для нас, Т-кукол, проявить себя! +Радиация, ядовитый газ, жидкость коллапса — мы можем противостоять всему этому и остаться невредимыми. Мы созданы для этого, не так ли?
+SSG69(0);Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:Насколько сильно ты хочешь убить своих зрителей...?
+SSG69(0);AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN>:Могу я переговорить с тобой наедине, SSG?
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>46</BIN>:Что? Погоди. Я просто пошутила... Как будто я действительно могла бы наполнить себя задушнить и выйти на сцену...
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Куда ты идешь?
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN><黑屏1>:Я использую предоставленные мне дополнительные полномочия с толком.
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN><黑屏2>:SSG, этот форпост находится недалеко от того места, где тебя уничтожили в прошлый раз.
+SSG69(0)<Speaker>SSG 69</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>46</BIN>:Э? Так мы гнались за конвоем всю дорогу досюда...? +Нет, погоди... это вряд ли можно считать «недалеко»!
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN><黑屏1>:Неважно. Мне нужно, чтобы ты кое-что сделала.
+()||<BIN>46</BIN><黑屏2>0.6</黑屏2><BGM>BGM_Empty</BGM>:...Щелк.
+Welrod(0)<Speaker>Welrod</Speaker><通讯框>||<BIN>46</BIN>:Мисс IWS... мы нашли кое-что интересное. +Мы обнаружили слабые следы радиации. Конвой должен быть впереди.
+
