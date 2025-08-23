@@ -1,55 +1,55 @@
 ()||<BIN>1</BIN><Night><BGM>BGM_Brain</BGM>:...
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:These... are our remains...
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Are they... attracted to the rations we had on our bodies? +How are there so many of them?
-()||<BIN>1</BIN><Night>:...A swarm of rodents mill about the T-Doll remains, scattering the moment the beam from the flashlight washes over them.
-Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Is there any mention of something like this in our past combat records?
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:I've studied everyone's records in detail back at the base, but none of us has ever seen anything like this...
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Don't let the fear get to your head. There's no way military equipment can be outdone by Sangvis units. +Got anything, G17?
-Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:We don't have specialized equipment to check... but those animals were definitely lured here by something.
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:That can't be right. Our rations couldn't possibly have lasted this long.
-IWS2000(0)<Position>0,100</Position>;AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:...Our remains weren't necessarily the cause. I don't think our rations could've attracted this many rats either.
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>1</BIN><Night>:It just makes no sense for such a huge pack of animals to swarm around some T-Doll remains.
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:The answer is pretty obvious at this point. +Is there any unidentified substance on the remains, G17?
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Don't tell me this is S.F.'s doing... But why...?
-Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:I've already checked, but nothing seems out of the ordina— +... +No, wait a sec...
-()||<BIN>1</BIN><Night>:G17 squats before IWS2000's body.
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:...Is that mine?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Seems so.
-Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:It's become barely noticeable as time goes by, but something can be found on the remains... +I've listed all substances that share its chemical composition in everyone's recognition system.
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:I got it. It can be found on the leader's body... and the animals... +As well as... +... +Hold on... Hmm...? No way... Wait a second!
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:What's... going on...?
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:Это... наши останки...
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Их привлекли наши запасы продовольствия? +Как их так много?
+()||<BIN>1</BIN><Night>:...Стая грызунов роется вокруг останков Т-Кукол, разбегаясь, когда на них падает луч фонаря.
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Есть ли упоминание о чем-то подобном в наших прошлых отчетах?
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Я тщательно изучила все записи на базе, но никто из нас никогда не видел ничего подобного...
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Не поддавайся страху. Военная техника не может сравниться с отрядами Сангвиса. +Есть что-нибудь, G17?
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:У нас нет специального оборудования для тестирования... но эти животные определенно были привлечены сюда чем-то.
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Это невозможно. Наши запасы не могли сохраниться так долго.
+IWS2000(0)<Position>0,100</Position>;AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:...Наши останки не обязательно являются причиной. Не думаю, что наши пайки могли привлечь столько крыс.
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>1</BIN><Night>:Просто не имеет смысла, чтобы такая огромная стая животных кишела вокруг останков Т-кукол.
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Ответ на этот вопрос в общем-то очевиден. +Есть ли на останках какие-нибудь неизвестные вещества, G17?
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Не говори мне, что это дело рук С.Ф... Но почему...?
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Я уже проверяла, но ничего необычного не заметила... +... +Нет, подождите...
+()||<BIN>1</BIN><Night>:G17 присаживается перед телом IWS2000.
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:...Это моё?
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Похоже на то.
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Со временем это стало едва заметно, но на останках можно обнаружить нечто... +Я перечислила все вещества, имеющие такой же химический состав, в системе распознавания всех пользователей.
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:Я нашла. Его можно найти на теле лидера... и на животных... +А также... +... +Подожди... Хм...? Не может быть... Подожди-ка!
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Что... происходит...?
 AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night><黑屏1>:...
-IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Why is it... all over us now?
+IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Почему это... теперь повсюду?
 ()||<BIN>1</BIN><Night><黑屏2>0.5</黑屏2>:...
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:Ugh... It's all over me... It's even inside my clothes! +How the heck did it get in there?
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Colorless and odorless... No T-Doll would notice even if she's covered in it... +I knew something wasn't right about the AC in the Sangvis outpost just now.
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Our equipment can only detect radiation... +The Yellowcake was just a red herring! It diverted all our attention...! +We've been played by Sangvis Ferri. Squad Welrod are also covered in this substance, just like us!
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:It's a trap. Their true objective is to– 
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Fräulein Welrod, do you copy? +...Fräulein Welrod? +Hold on... Why can't I...
-<Speaker>???</Speaker>()||<BGM>BGM_Empty</BGM><BIN>1</BIN><Night>:Isn't it natural for saboteurs to be silenced?
-()||<BIN>1</BIN><Night>:...Click.
-BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||<BGM>BGM_Boss</BGM><BIN>1</BIN><Night>:Again, we find ourselves face to face with one another so soon, IWS. So soon. +Will you be the first to run away again this time?
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Dreamer...?! +What... are you talking about? What do you mean... I ran away?
-BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:Oh, now I remember. Griffin T-Dolls tend to forget all about how I killed them. +Heheh ♪... That's fine. I'm more than happy to describe how terrified you were again and again.
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:IWS, where's Welrod?
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>1</BIN><Night>:I...I can't reach her... The signal is completely jammed!
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:That can only mean... Parapluie.
-BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||<BIN>1</BIN><Night>:Ah... AUG, you've returned with her. How foolish of you.
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:... +Well, we planned your funeral, so it would only be proper of us... to come back and deliver an invitation.
-AUG(0)<Position>0,-100</Position>;BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:Those are some big words. You only returned alive the last time because you earned my admiration. +Talent like yours doesn't deserve to be wasted by serving under a leader like that. You should've replaced her long ago.
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Enough with the nonsense, Dreamer!
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Stop letting her distract you, IWS!
-SSG69(0)<Speaker>SSG 69</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Oi, Baldy! Are you the one who ruined my exquisite clothes with that disgusting thing?!
-SSG69(0);BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||<BIN>1</BIN><Night>:Why so serious? +Judging from your performance just now, most wouldn't even notice this stuff. +Let's put a smile on that face. Go home, and snuggle up with your friends.
-SSG69(0)<Speaker>SSG 69</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:What a dastardly plan. Aren't you gonna fight us fair and square?
-BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:Fighting you like that, gets old real quick. +After coming across such an interesting toy in that abandoned facility, I couldn't just leave it there. +That canister now contains something much more thrilling for humans. I'm sure you're dying to go bring it home.
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:You sprayed us with poison... and the cargo isn't actually...!
-IWS2000(0)<Position>0,100</Position>;BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:If that Griffin Commander of yours was wise enough to keep an appropriate distance from their precious T-Dolls, or if you dimwits had grown some brains, this little trick wouldn't have worked at all. +All of the pieces fell in place. I really have you to thank!
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Sangvis Ferri is in such a sorry state because you don't understand the bonds between humans and T-Dolls.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||<BIN>1</BIN><Night>:Really? Then let me show you which side gets it right. +Sadly, you lot most probably won't live to learn that lesson.
-()||<BIN>1</BIN><Night>:...Transmission terminated.
-Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Sorry for this warning on such short notice, but Sangvis forces are closing in!
-Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:That's not our priority right now. We must somehow get in touch with Fräulein Welrod first...!
-AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:Wake up, IWS! You're the only one who can stop the whole thing! +We can still make it as long as we don't get done in by Dreamer. Can't you see that?
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night><黑点1>:...Scheiße!
-IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>10</BIN><黑点2>:The current terrain is not ideal for a counterstrike. Our greatest priority is to regroup at these coordinates. +I know we're still shocked and full of uncertainty, but we can't fall here. Let's go!
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:Фу... Это все на мне... Даже на одежде! +Как это туда попало?
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Без цвета и запаха... Ни одна Т-Кукла не заметит, даже если будет вся в этом... +Я знала, что что-то не так с кондиционером в аванпосте Сангвис.
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Наше оборудование может обнаруживать только радиацию... +Урановый концентрат был просто отвлекающим маневром! Он отвлек все наше внимание...! +Нас обманул Сангвис Ферри. Отряд Welrod тоже покрыт этим веществом, как и мы!
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Это ловушка. Их настоящая цель —
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Фройляйн Welrod, вы меня слышите? +...Фройляйн Welrod? +Подождите... Почему я не могу...
+<Speaker>???</Speaker>()||<BGM>BGM_Empty</BGM><BIN>1</BIN><Night>:Разве это не естественно, что диверсантов надо заставить замолчать?
+()||<BIN>1</BIN><Night>:...Щелк.
+BOSS-11(0)<Speaker>Мечтательница</Speaker><通讯框>||<BGM>BGM_Boss</BGM><BIN>1</BIN><Night>:И снова мы так скоро встретились, IWS. Очень скоро. +Ты снова будешь первой, кто убежит?
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Мечтательница...?! +Что... о чем ты говоришь? Что ты имеешь в виду... я сбежала?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||<BIN>1</BIN><Night>:А, я вспомнила. Т-Куклы Грифона обычно забывают, как я их убила. +Хе-хе... Ничего страшного. Я с удовольствием буду снова и снова описывать, как вы были напуганы.
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:IWS, где Welrod?
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>1</BIN><Night>:Я... я не могу до нее дозвониться... Сигнал полностью заглушен!
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Это может означать только... Параплюй.
+BOSS-11(0)<Speaker>Мечтательница</Speaker><通讯框>||<BIN>1</BIN><Night>:Ах... AUG, ты вернулась с ней. Как глупо с твоей стороны.
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:... +Ну, мы запланировали твои похороны, так что было бы правильно... вернуться и вручить приглашение.
+AUG(0)<Position>0,-100</Position>;BOSS-11(0)<Speaker>Мечтательница</Speaker>||<BIN>1</BIN><Night>:Какие громкие слова. В прошлый раз ты вернулась живой только потому, что заслужила мое уважение. +Такой талант, как твой, не заслуживает того, чтобы пропадать в подручных такого лидера. Ты должна была заменить ее уже давно.
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Хватит нести хрень, Мечтательница!
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Хватит отвлекаться на нее, IWS!
+SSG69(0)<Speaker>SSG 69</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Эй, лысая! Это ты испортила мою прекрасную одежду этой отвратительной хреновиной?!
+SSG69(0);BOSS-11(0)<Speaker>Мечтательница</Speaker><通讯框>||<BIN>1</BIN><Night>:Почему ты так серьезна?+Судя по тому, как ты себя вела, большинство даже не заметили бы этого.+Улыбнись. Иди домой и обнимись со своими друзьям.
+SSG69(0)<Speaker>SSG 69</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Какой мерзкий план. Ты не собираешься сражаться с нами честно?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||<BIN>1</BIN><Night>:Сражаться с тобой так быстро надоедает. +Увидев такую интересную игрушку в заброшенном здании, я не могла просто так оставить ее там. +Теперь в этой канистре находится нечто гораздо более интересное для людей. Уверена, ты очень хочешь забрать ее домой.
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Ты опрыскала нас ядом... а груз на самом деле не...!
+IWS2000(0)<Position>0,100</Position>;BOSS-11(0)<Speaker>Мечтательница</Speaker>||<BIN>1</BIN><Night>:Если бы ваш командир Грифона был достаточно умен, чтобы держаться на достаточном расстоянии от своих драгоценных Т-Кукол +Или если бы вы, тупицы, наконец-то обзавелись мозгами, этот маленький трюк не сработал бы.+Все кусочки сложились в единое целое. Я действительно должна вас поблагодарить!
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>;BOSS-11(0)||<BIN>1</BIN><Night>:Сангвис Ферри находится в таком плачевном состоянии, потому что ты не понимаешь связь между людьми и Т-Куклами.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||<BIN>1</BIN><Night>:Правда? Тогда я покажу вам, кто из нас права. +К сожалению, вы, скорее всего, не доживете до того момента, когда поймете этот урок.
+()||<BIN>1</BIN><Night>:...Передача прервана.
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Простите за столь краткое предупреждение, но войска Сангвиса приближаются!
+Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Сейчас это не входит в наши приоритеты. Сначала нужно как-то связаться с фройляйн Welrod...!
+AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:Очнись, IWS! Только ты можешь все остановить! +Мы еще можем успеть, если только Мечтательница нас не прикончит. Разве ты не видишь?
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night><黑点1>:...Ять!
+IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>10</BIN><黑点2>:Текущая местность не подходит для контратаки. Наша главная задача — перегруппироваться в этих координатах. +Я знаю, что мы все еще в шоке и полны неуверенности, но мы не можем сдаться здесь. Вперед!
