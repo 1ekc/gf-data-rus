@@ -1,28 +1,29 @@
-()||<BIN>1</BIN><Night><BGM>BGM_Danger</BGM>:Combat concluded.
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Is everyone alright?
-Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Phew... We're safe...
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:Damn that Baldy. Now I'm covered in mud on top of that gross stuff!
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:...AUG, what did Dreamer mean... when she said I was the first to run last time?
-IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Mulling so hard over what Dreamer said, huh? Have you forgotten what we need to do?
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:... +You said we can still make it, but what can we do when all communications are down?
-IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Reactivate the mortar we just disabled and lock onto Griffin's helicopter.
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:What are you planning, AUG?
-AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:There's no way for us to warn the airborne Squad Welrod. +Our only choice is to physically prevent the contents of the canister from reaching the Commander and the base.
-SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:You must be joking!
-Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Fräulein AUG most definitely isn't joking. She is dead serious... +And this IS the most effective option...
-AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:I hope you finally realize how dire the situation really is. Your order, please.
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:To destroy another squad for this... I can't give an order like that...!
-IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:What bothers you more, their partial memory loss, or the severe consequences of not doing so?
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:Enough! +Welrod entrusted us with their safety, and they must bring the evidence back. +There must be another way!
-IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:The facts are right before you. We have no other choice. +If Welrod were in your position, she would do the same.
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:I'm not Welrod. I don't know what she'd do...
-IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Now you know why your missions always end in failure.
-Glock17(0)<Speaker>G17</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:It'll be fine as long as we can warn them, right...?! +Is there any way we can neutralize the signal interference caused by Parapluie?
-Glock17(0);AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:We don't have the time to track down which communication outpost the virus originates from.
-SSG69(0)<Speaker>SSG 69</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:There must be some way we can warn the Commander. What about an eye-catching signal flare?
-AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:It'll be too late by the time a drone picks it up.
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Communication outpost... +Something... eye-catching...
-AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Reactivate the mortar now when the helicopter is still within range. +Haven't you always wanted to be more reliable? +No one would blame you for choosing this, IWS.
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Nein... That's it!
-AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:What?
-IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:There IS another way... +No matter what, AUG, I will never open fire on an ally. This is my answer.
+()||<BIN>1</BIN><Night><BGM>BGM_Danger</BGM>:Сражение завершено.
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Все в порядке?
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Фух... Мы в безопасности...
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:Будь проклята, Лысая! Теперь я вся в грязи, да еще и в этой отвратительной дряни!
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:...AUG, что имела в виду Мечтательница... когда сказала, что я была первой, кто сбежала в прошлый раз?
+IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Так сильно задумываешься над словами Мечтательницы, да? Ты забыла, что нам нужно делать?
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:... +Ты сказала, что мы еще можем успеть, но что мы можем сделать, когда все коммуникации отключены?
+IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Повторно запусти только что отключенный миномет и прицелься в вертолет Грифона.
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:Что ты задумала, AUG?
+AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Мы не можем предупредить отряд «Welrod», находящийся в воздухе. Наш единственный выбор — физически не дать содержимому канистры попасть к Командиру и на базу.
+SSG69(0)<Speaker>SSG 69</Speaker>||<BIN>1</BIN><Night>:Да ты должно быть шутишь!
+Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Фройляйн AUG совершенно не шутит. Она совершенно серьезна... +И это ДЕЙСТВИТЕЛЬНО самый эффективный вариант...
+AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Надеюсь, ты наконец-то осознала, насколько серьезна ситуация. Твой приказ, пожалуйста.
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:Уничтожить еще один отряд ради... Я не могу отдать такой приказ...!
+IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Что тебя беспокоит больше: их частичная потеря памяти или серьезные последствия, если этого не сделать?
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:Хватит! +Welrod доверила нам их безопасность, и они должны доставить доказательства обратно. +Должен быть другой способ!
+IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Факты налицо. У нас нет другого выбора. +Если бы Welrod была на твоем месте, она поступила бы так же.
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:Я не Welrod. Я не знаю, что бы она сделала...
+IWS2000(0)<Position>0,100</Position> ;AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Теперь ты знаешь, почему твои миссии всегда заканчиваются провалом.
+Glock17(0)<Speaker>G17</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:Все будет в порядке, если мы сможем их предупредить, правда...?! +Есть ли способ нейтрализовать помехи сигнала, вызванные Параплюй?
+Glock17(0);AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:У нас нет времени выяснять, из какого именно коммуникационного узла происходит вирус.
+SSG69(0)<Speaker>SSG 69</Speaker>;AUG(0)<Position>0,-100</Position> ||<BIN>1</BIN><Night>:Должен быть какой-то способ предупредить Командира. Как насчет яркой сигнальной ракеты?
+AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:К тому времени, когда дрон его найдет, будет уже слишком поздно.
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Коммуникационный пост... +Что-то... привлекающее внимание...
+AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Активируй миномет сейчас, пока вертолет еще находится в пределах досягаемости. +Ты всегда хотела быть более надежной? +Никто не будет винить тебя за такой выбор, IWS.
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Нет... Вот оно!
+AUG(0)<Position>0,-100</Position> <Speaker>AUG</Speaker>||<BIN>1</BIN><Night>:Что?
+IWS2000(0)<Position>0,100</Position> <Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:ЕСТЬ другой способ... +Что бы ни случилось, AUG, я никогда не открою огонь по союзнику. Это мой ответ.
+
