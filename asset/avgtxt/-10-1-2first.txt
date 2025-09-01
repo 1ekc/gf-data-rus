@@ -1,15 +1,16 @@
-()||<BIN>72</BIN><BGM>BGM_Room</BGM>:Objective complete.
-NPC-Seele(0)<Speaker>Sier</Speaker><通讯框>||:There, all your protocols have been upgraded. +The new interface can be synced in the Zener Network using the same route. You should be able to see each other's signal now.
-NPC-Seele(0);G11(3)<Speaker>Gr G11</Speaker><通讯框>||:Whoa! What is this place?!
-HK416(0)<Speaker>416</Speaker><通讯框>;G11(3)||:Is this what the Zener Network looks like on Consciousness Level II?
-HK416(0);UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:Oh yeah... Gr G11 and 416 didn't have modules for fighting electronic warfare. This must be your first time infiltrating the Zener Network with an analog signal.
-HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Humph, interesting...
-HK416(0);NPC-Seele(0)<Speaker>Sier</Speaker><通讯框>||:With the new protocol, it is possible to increase the speed of signal emulation by harnessing other T-Dolls' computational capabilities. +Since Miss UMP45 is the leader, the control should go to you.
-HK416(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||:May I? Then let's get along as always in the electronic network.
-HK416(0)<Speaker>416</Speaker>;UMP45(0)||:This sucks. Can I refuse?
-HK416(0);G11(0)<Speaker>Gr G11</Speaker><通讯框>||:Let me get this straight. My consciousness is in the network, but my body is still in the maintenance pod... +So am I asleep or awake...?
-UMP9(0)<Speaker>UMP9</Speaker><通讯框>;G11(0)||:Hmm. Looks like the concept of electronic warfare is too complex for Gr G11's pea-sized brain to wrap around.
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||:Just think of it as dreaming. But if you don't work at it, you might never wake up again.
-NPC-Deele(0)<Speaker>Dier</Speaker><通讯框>;UMP45(0)||:What are you guys chattering about? Seems you've completely adapted to the new interfacing protocol. +The boss will be in contact soon. I'll have to pull you out when the call comes in.
-NPC-Deele(0);UMP45(0)<Speaker>UMP45</Speaker>||:Then we must hurry and help the newbies get the hang of roaming the Zener Network, 9.
-UMP9(3)<Speaker>UMP9</Speaker><通讯框>;UMP45(0)||<黑屏1>:Okay, leave that to me!
+()||<BIN>72</BIN><BGM>BGM_Room</BGM>:Цель достигнута.
+NPC-Seele(0)<Speaker>Сьер</Speaker><通讯框>||:Здесь все ваши протоколы были обновлены. +Новый интерфейс можно синхронизировать в сети Zener Network, используя тот же канал.+Теперь вы должны видеть сигналы друг друга.
+NPC-Seele(0);G11(3)<Speaker>Gr G11</Speaker><通讯框>||:Ух ты! Что это за место?!
+HK416(0)<Speaker>416</Speaker><通讯框>;G11(3)||:Так выглядит Zener Network на II уровне сознания?
+HK416(0);UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:Ах да... Gr G11 и 416 не имели модулей для ведения электронной войны. Должно быть, вы впервые проникли в сеть Zener с аналоговым сигналом.
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Хм, интересно...
+HK416(0);NPC-Seele(0)<Speaker>Сьер</Speaker><通讯框>||:С новым протоколом можно увеличить скорость эмуляции сигнала, используя вычислительные возможности других Т-Кукол. +Поскольку мисс UMP45 является лидером, управление должно перейти к тебе.
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||:Можно? Тогда давайте общаться как всегда в электронной сети.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||:Это дерьмово. Могу я от этого отказаться?
+HK416(0);G11(0)<Speaker>Gr G11</Speaker><通讯框>||:Давайте проясним. Мое сознание находится в сети, но мое тело все еще в капсуле для обслуживания... +Так я сплю или бодрствую...?
+UMP9(0)<Speaker>UMP9</Speaker><通讯框>;G11(0)||:Хм. Похоже, концепция электронной войны слишком сложна для мозга Gr G11, который и так размером с горошину.
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||:Просто считай это сном. Но если ты не будешь трудиться, то, возможно, никогда больше не проснешься.
+NPC-Deele(0)<Speaker>Dier</Speaker><通讯框>;UMP45(0)||:О чем вы там болтаете? Похоже, вы полностью адаптировались к новому протоколу взаимодействия. +Босс скоро свяжется с вами. Когда поступит звонок, я вас вытащу.
+NPC-Deele(0);UMP45(0)<Speaker>UMP45</Speaker>||:Тогда мы должны поспешить и помочь новичкам освоиться в сети Zener Network, 9-я.
+UMP9(3)<Speaker>UMP9</Speaker><通讯框>;UMP45(0)||<黑屏1>:Хорошо, оставь это мне!
+
