@@ -1,32 +1,33 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...
 ()||:......
-？？()<Speaker>???</Speaker>||:...45.
-UMP45()<Speaker>UMP45</Speaker>||:...Hmm?
-？？()<Speaker>???</Speaker>||:As T-Dolls, is it our duty to serve humanity for eternity?
+？？()<Speaker>???</Speaker>||:...45-я.
+UMP45()<Speaker>UMP45</Speaker>||:...Хмм?
+？？()<Speaker>???</Speaker>||:Как Т-Кукла, наш долг — вечно служить человечеству?
 ()||:...
-？？()<Speaker>???</Speaker>||:Is that...our sole purpose?
-UMP45()<Speaker>UMP45</Speaker>||:... +I... +No... +Something's not right... +You should be...
+？？()<Speaker>???</Speaker>||:Это... наша единственная цель?
+UMP45()<Speaker>UMP45</Speaker>||:... +Я... +Нет... +Что-то не так... +Ты должен быть...
 ()||<BIN>70</BIN><黑屏2>:...
-UMP45(2)<Speaker>UMP45</Speaker>||<BGM>BGM_Room</BGM>:I knew it...
-UMP45(2);G11(0)<Speaker>Gr G11</Speaker>||:You call yourself an expert? You're the last to wake up...
-HK416(0)<Speaker>416</Speaker>;G11(0)||:It's rare to see you look so queasy. I personally won't mind seeing you like this more often.
-HK416(0);UMP9(2)<Speaker>UMP9</Speaker>||:45? Are you okay? You're making a weird face...
-UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:I... +No, I'm fine... +But I must consult our logistic officer to make sure everything will go smoothly with the upcoming operation.
-UMP45(2);NPC-Deele(0)<Speaker>Dier</Speaker>||:Yes? Got some customer feedback for me?
-UMP45(2)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Just before I disconnected at the end of the session, my neural cloud played some recordings from the past on its own. +These recordings should've been so strictly encrypted even I myself can't access them... +Could this be the doing of the new protocol?
-UMP45(2);NPC-Deele(0)<Speaker>Dier</Speaker>||:Ah... Now that you mention it, you could very well be right. +After all, the protocol's function is to strengthen electronic signals. +Sometimes, when the signals are too strong, it could cause interference to the information processing module in your neural cloud, which would lead to some sort of cognitive disorder.
-HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:In T-Doll language?
-G11(0)<Speaker>Gr G11</Speaker>;NPC-Deele(0)||:Oh! You mean like when channels get mixed up on TV?
-G11(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Haha, one point to Gr G11!
-UMP9(4)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:Wait, shouldn't you have told us about this side effect beforehand?!
-UMP9(4);NPC-Deele(0)<Speaker>Dier</Speaker>||:My, I only realized it could happen after 45 brought it up. +But don't worry. This kind of interference won't cause any damage to your neural clouds and isn't likely to be triggered when you're in combat thanks to the security mechanisms in place. +The worst it can do...is show you some flashbacks as you switch between consciousness levels in the Zener Network. +Still, it shouldn't hinder your normal battles so it's basically safe.
-HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:That doesn't sound too serious... +Or do you have things that you don't want to remember, 45?
-HK416(0);UMP45(2)<Speaker>UMP45</Speaker>||:... +Ja, I do, actually...
+UMP45(2)<Speaker>UMP45</Speaker>||<BGM>BGM_Room</BGM>:Я так и знала...
+UMP45(2);G11(0)<Speaker>Gr G11</Speaker>||:Ты называешь себя экспертом? Ты проснулась последней...
+HK416(0)<Speaker>416</Speaker>;G11(0)||:Редко можно увидеть тебя в таком состоянии. Лично я не против видеть тебя такой чаще.
+HK416(0);UMP9(2)<Speaker>UMP9</Speaker>||:45-я? Ты в порядке? У тебя странное выражение лица...
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:Я... +Нет, я в порядке... +Но я должна проконсультироваться с нашим логистом, чтобы убедиться, что все пройдет гладко во время предстоящей операции.
+UMP45(2);NPC-Deele(0)<Speaker>Дьер</Speaker>||:Да? Есть для меня отзывы клиентов?
+UMP45(2)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Перед тем, как я отключилась в конце процедуры, мое нейронное облако самопроизвольно воспроизвело несколько записей из прошлого. +Эти записи должны были быть настолько строго зашифрованы, что даже я сама не могу к ним получить доступ... +Может быть, это дело рук нового протокола?
+UMP45(2);NPC-Deele(0)<Speaker>Дьер</Speaker>||:Ах... Теперь, когда ты об этом заговорила, я понимаю, что ты, возможно, права. +В конце концов, функция протокола заключается в усилении электронных сигналов. +Иногда, когда сигналы слишком сильные, это может вызвать помехи в работе модуля обработки информации в твоем нейронном облаке, что приведет к какому-то когнитивному расстройству.
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:А на языке Т-Кукол?
+G11(0)<Speaker>Gr G11</Speaker>;NPC-Deele(0)||:О! Ты имеешь в виду, например, когда каналы на телевизоре перемешиваются?
+G11(0);NPC-Deele(0)<Speaker>Дьер</Speaker>||:Хаха, одно очко в пользу Gr G11!
+UMP9(4)<Speaker>UMP9</Speaker>;NPC-Deele(0)||:Стоп, разве ты не должен был заранее рассказать нам об этом побочном эффекте?!
+UMP9(4);NPC-Deele(0)<Speaker>Дьер</Speaker>||:Да, я понял, что это может произойти, только после того, как 45-я об этом упомянула. +Но не волнуйтесь. Такое вмешательство не нанесет вреда вашим нейронным облакам и вряд ли сработает во время боя благодаря установленным механизмам безопасности. +Худшее, что может случиться... это показать вам несколько воспоминаний, когда вы переключаетесь между уровнями сознания в Zener Network. +Тем не менее, это не должно помешать вашим обычным сражениям, так что в целом это безопасно.
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:Это не звучит слишком убедительно... +Или у тебя есть вещи, о которых ты не хочешь вспоминать, 45-я?
+HK416(0);UMP45(2)<Speaker>UMP45</Speaker>||:... +Да, на самом деле, я...
 HK416(0)<Speaker>416</Speaker>;UMP45(2)||:...
-HK416(0);UMP45(2)<Speaker>UMP45</Speaker>||<黑屏1>:I'm confirming the details about our next operation. You all get some rest first.
-()||<黑屏2><BIN>70</BIN>:UMP45 leaves the room.
-G11(2)<Speaker>Gr G11</Speaker>||:She...admitted it?
-HK416(0)<Speaker>416</Speaker>||:Which means she's in a terrible mood. Leave her alone.
-UMP9(0)<Speaker>UMP9</Speaker>||:Don't let it bother you. Just wait for the job!
-HK416(0)<Speaker>416</Speaker>||:I'm not bothered as long as she doesn't let it affect her performance. +Let's go, Gr G11. Time to catch a nap while we can.
-UMP9(0)<Speaker>UMP9</Speaker>||<黑屏1>:... +What on earth did you see, 45...?
+HK416(0);UMP45(2)<Speaker>UMP45</Speaker>||<黑屏1>:Я подтверждаю детали нашей следующей операции. Вначале немного отдохните.
+()||<黑屏2><BIN>70</BIN>:UMP45 выходит из комнаты.
+G11(2)<Speaker>Gr G11</Speaker>||:Она... признала это?
+HK416(0)<Speaker>416</Speaker>||:Это значит, что у нее ужасное настроение. Оставь ее в покое.
+UMP9(0)<Speaker>UMP9</Speaker>||:Не беспокойся об этом. Просто дождись задания!
+HK416(0)<Speaker>416</Speaker>||:Меня это не напрягает, пока она не позволяет этому повлиять на свою работу. +Пойдем, Gr G11. Пора вздремнуть, пока есть возможность.
+UMP9(0)<Speaker>UMP9</Speaker>||<黑屏1>:... +Что же ты увидела, 45-я...?
+
