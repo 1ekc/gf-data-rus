@@ -1,2 +1,3 @@
-()||<BIN>10</BIN>:...Click.
-NPC-Seele(0)<Speaker>Sier</Speaker><通讯框>||:Miss 45, we'll be readjusting the emission structure of your analog signal shortly. Please keep the signal plugged in the network for a while. +Also, be careful of the offensive firewall. Dier didn't shut it down to save time, so if you run into it, feel free to destroy it.
+()||<BIN>10</BIN>:...Щёлк.
+NPC-Seele(0)<Speaker>Сьер</Speaker><通讯框>||:Мисс 45-я, в ближайшее время мы будем перенастраивать структуру излучения вашего аналогового сигнала.+Пожалуйста, оставьте сигнал подключенным к сети на некоторое время. +Кроме того, будьте осторожны с агрессивным брандмауэром. Дьер не отключил его, чтобы сэкономить время, поэтому, если вы столкнетесь с ним, не стесняйтесь уничтожить его.
+
