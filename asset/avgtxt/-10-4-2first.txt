@@ -1,6 +1,7 @@
 ()||<BIN>72</BIN><BGM>BGM_Sneak</BGM>:...
-KLIN(0)<Speaker>KLIN</Speaker><通讯框>||:Hey! Yo! Anybody there?! +Guys! You can't just leave Griffin's No.1 fighter in a place like this! +What's the matter with the commander here?! At least offer some juice even if nobody's free to serve me!
-HK416(0)<Speaker>416</Speaker><通讯框>||:Her consciousness still seems to be drifting. Should we get her out now?
-G11(2)<Speaker>Gr G11</Speaker><通讯框>||:Tsk. She's annoying. Can't we just leave her here?
-UMP45(0)<Speaker>UMP45</Speaker><通讯框>||:Get rid of the Ringleader first or the area in lockdown won't be accessible.
-UMP9(0)<Speaker>UMP9</Speaker><通讯框>||<黑屏1>:Keep at it, girls.+It may just be a simulation, but that doesn't make it any less dangerous. +Take it slow, 45. We must not alert the enemy to our presence.
+KLIN(0)<Speaker>KLIN</Speaker><通讯框>||:Эй! Йо! Есть кто-нибудь?! +Ребята! Вы не можете просто оставить лучшего бойца Грифона в таком месте! +Что с Командиром?! Хотя бы сок предложите, раз уж никто не может меня обслужить!
+HK416(0)<Speaker>416</Speaker><通讯框>||:Ее сознание, похоже, все еще дрейфует. Может, вытащить ее сейчас?
+G11(2)<Speaker>Gr G11</Speaker><通讯框>||:Тцк. Она раздражает. Может, просто оставим ее здесь?
+UMP45(0)<Speaker>UMP45</Speaker><通讯框>||:Сначала избавьтесь от Главаря, иначе территория, находящаяся в режиме изоляции, будет недоступна.
+UMP9(0)<Speaker>UMP9</Speaker><通讯框>||<黑屏1>:Продолжайте, девочки. +Это может быть всего лишь симуляция, но от этого она не становится менее опасной. +Не торопись, 45-я. Мы не должны предупредить врага о нашем присутствии.
+
