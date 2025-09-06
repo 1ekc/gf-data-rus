@@ -1,31 +1,32 @@
 ()||<BIN>9</BIN><BGM>BGM_Sneak</BGM>:...
-？？()<Speaker>???</Speaker>||<黑屏1>:...45? +Wake up! UMP45!
-UMP45()<Speaker>UMP45</Speaker>||<BIN>70</BIN><黑屏2>:Hmm...
-UMP45(2)<Speaker>UMP45</Speaker>||:How...long was I asleep?
-UMP45(2);UMP9(2)<Speaker>UMP9</Speaker>||:Not too long. Sier told us your readjustments were complete and asked us to come get you, but...
-UMP45(2);HK416(0)<Speaker>416</Speaker>||:But it's pretty interesting how you were sleeping with your eyes wide open. Never seen that on you before.
-UMP45(2);G11(0)<Speaker>Gr G11</Speaker>||:You looked like your system had crashed.
-UMP45(2)<Speaker>UMP45</Speaker>;G11(0)||:... +I was just a bit disoriented from being disconnected abruptly... I don't think I managed to finish the battle.
-UMP45(2);NPC-Seele(0)<Speaker>Sier</Speaker>||:Apologies, Miss 45, but there was an emergency... +An unknown T-Doll's signal was suddenly detected while I was inspecting the network.
-HK416(2)<Speaker>416</Speaker>;NPC-Seele(0)||:A party crasher? Could it be Sangvis Ferri?
-HK416(2);NPC-Seele(0)<Speaker>Sier</Speaker>||:No, it was a Griffin signal. A T-Doll must have accidentally stumbled into the network. +I'm guessing some new T-Doll must've connected through the wrong port when getting her enrollment authorization. +Dier probably mixed up the ports while he was spacing out.
-G11(2)<Speaker>Gr G11</Speaker>;NPC-Seele(0)||:Then...we could be exposed anytime...
-G11(2);NPC-Deele(0)<Speaker>Dier</Speaker>||:Nonsense! It was my mistake, alright, but it's not that serious. +Once she entered the network, the security protocol would've locked down her neural cloud due to her being unauthorized. +She wouldn't have been able to access anything and naturally has no chance of discovering you. Just relax!
-G11(2);UMP9(2)<Speaker>UMP9</Speaker>||:Hey, this is hardly reassuring! +If Griffin finds out a T-Doll's neural cloud has gone missing, they'll come asking questions sooner or later!
-UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:...Can you find out who she is?
-UMP45(2);NPC-Deele(0)<Speaker>Dier</Speaker>||:I couldn't find a match from the database, so she's probably a new recruit. +But that doesn't matter! I'm gonna kick her out of the network. I just need some time to locate her. Now's your chance to rest up.
-UMP45(2)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:... +Let's make the most out of the situation and try to find her in the network.
-UMP45(2);NPC-Deele(0)<Speaker>Dier</Speaker>||:Oh? You wanna make this part of the training?
-UMP45(2)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:We'll be searching for target signals anyway. There's no harm in getting some actual experience. +We can also acquire data about Griffin's newest T-Doll model and help you update your database while we're at it.
-UMP45(2);G11(3)<Speaker>Gr G11</Speaker>||:Uh...so there goes my nap?
-UMP45(2);UMP9(2)<Speaker>UMP9</Speaker>||:Is this really a good idea, 45? If we're exposed...
-UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:The real operation will be much more dangerous than being exposed. Instead of worrying about the risks, we should think about how to go about it. +With me here, you guys just have to follow my orders, got it?
-UMP45(2);HK416(0)<Speaker>416</Speaker>||:You're precisely what I'm worried about, 45. We're all worried about your current condition.
-UMP45(2)<Speaker>UMP45</Speaker>;HK416(0)||:Don't sweat it. I value myself more than anyone else, but there's really no need to worry for now.
-UMP45(2);UMP9(0)<Speaker>UMP9</Speaker>||<黑屏1>:... +Hmm, if that's what you believe, then let's be off!
-UMP9(0)<Speaker>UMP9</Speaker><通讯框>||<BIN>72</BIN><黑屏2>:Locating a signal, huh... Guess we should start with collecting data regarding this party crasher's neural cloud.
-HK416(0)<Speaker>416</Speaker><通讯框>||:How exactly are we gonna do that?
-UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:It's very simple actually... Just as how we used the camouflage key just now, we simply have to approach her and bring back the data. +Though it seems like her signal got smashed up so we'll have to find all the fragments.
-G11(0)<Speaker>Gr G11</Speaker><通讯框>||:Sounds like a drag... Can't we just bring one back?
-UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:It's not like we can't, but that's horrible... +A T-Doll with missing neural cloud data is like a mentally-challenged human.
-UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<黑点1>:It may just be another training, but don't let down your guard. Let's quickly find all the neural cloud data and bring them back.
+？？()<Speaker>???</Speaker>||<黑屏1>:...45-я? Проснись! UMP45!
+UMP45()<Speaker>UMP45</Speaker>||<BIN>70</BIN><黑屏2>:Хмм...
+UMP45(2)<Speaker>UMP45</Speaker>||:Как... долго я спала?
+UMP45(2);UMP9(2)<Speaker>UMP9</Speaker>||:Не слишком долго. Сьер сказала нам, что твоя перенастройка завершена, и попросила нас забрать тебя, но...
+UMP45(2);HK416(0)<Speaker>416</Speaker>||:Но очень интересно, что ты спала с широко открытыми глазами. Никогда раньше такого не видела.
+UMP45(2);G11(0)<Speaker>Gr G11</Speaker>||:Выглядело так, будто твоя система вышла из строя.
+UMP45(2)<Speaker>UMP45</Speaker>;G11(0)||:... +Я была немного дезориентирована из-за внезапного отключения... Думаю, я не успела закончить битву.
+UMP45(2);NPC-Seele(0)<Speaker>Сьер</Speaker>||:Извините, мисс 45-я, но произошла чрезвычайная ситуация... +Во время проверки сети внезапно был обнаружен сигнал неизвестной Т-Куклы.
+HK416(2)<Speaker>416</Speaker>;NPC-Seele(0)||:Незваный гость? Может быть, это Сангвис Ферри?
+HK416(2);NPC-Seele(0)<Speaker>Сьер</Speaker>||:Нет, это был сигнал Грифона. Какая-то Т-Кукла, наверное, случайно попала в сеть. +Думаю, какая-то новая Т-Кукла, наверное, подключилась не к тому порту, когда получала разрешение на регистрацию. +Дьер, наверное, перепутал порты, когда был в отключке.
+G11(2)<Speaker>Gr G11</Speaker>;NPC-Seele(0)||:Тогда... мы можем быть раскрыты в любой момент...
+G11(2);NPC-Deele(0)<Speaker>Дьер</Speaker>||:Чушь! Да, я совершил ошибку, но это не так уж и серьезно. +Как только она вошла в сеть, протокол безопасности заблокировал бы ее нейронное облако из-за отсутствия у нее разрешения. +Она не смогла бы получить доступ ни к чему и, естественно, не имела бы возможности обнаружить тебя. Просто успокойся!
+G11(2);UMP9(2)<Speaker>UMP9</Speaker>||:Эй, это не очень обнадеживает! +Если Грифон обнаружит, что нейронное облако Т- Куклы пропало, рано или поздно они придут с вопросами!
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:...Можете ли вы выяснить, кто она?
+UMP45(2);NPC-Deele(0)<Speaker>Дьер</Speaker>||:Я не нашел совпадений в базе данных, так что, скорее всего, она новенькая. +Но это не имеет значения! Я выгоню ее из сети. Мне просто нужно немного времени, чтобы ее найти. А ты пока можешь отдохнуть.
+UMP45(2)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:... +Давайте извлечем из ситуации максимум пользы и попробуем найти ее в сети.
+UMP45(2);NPC-Deele(0)<Speaker>Дьер</Speaker>||:О? Хочешь включить это в тренировку?
+UMP45(2)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Мы все равно будем искать сигналы цели. Не помешает получить реальный опыт. +Мы также можем собрать данные о новейшей модели Т-Куклы от Грифона и помочь тебе обновить базу данных, пока мы этим занимаемся.
+UMP45(2);G11(3)<Speaker>Gr G11</Speaker>||:А... так что, я уже не сплю?
+UMP45(2);UMP9(2)<Speaker>UMP9</Speaker>||:Это действительно хорошая идея, 45-я? Если нас обнаружат...
+UMP45(2)<Speaker>UMP45</Speaker>;UMP9(2)||:Реальная операция будет гораздо опаснее, чем разоблачение. Вместо того, чтобы беспокоиться о рисках, мы должны подумать о том, как это сделать. +Пока я здесь, вам, ребята, нужно просто выполнять мои приказы, понятно?
+UMP45(2);HK416(0)<Speaker>416</Speaker>||:Ты именно то, о чем я беспокоюсь, 45-я. Мы все беспокоимся о твоем текущем состоянии.
+UMP45(2)<Speaker>UMP45</Speaker>;HK416(0)||:Не переживай. Я ценю себя больше, чем кто-либо другой, но пока действительно нет повода для беспокойства.
+UMP45(2);UMP9(0)<Speaker>UMP9</Speaker>||<黑屏1>:... +Хм, если ты так считаешь, то давай уходим!
+UMP9(0)<Speaker>UMP9</Speaker><通讯框>||<BIN>72</BIN><黑屏2>:Найти сигнал, да... Пожалуй, нам следует начать с сбора данных о нейронном облаке этого незваного гостя.
+HK416(0)<Speaker>416</Speaker><通讯框>||:Как именно мы это сделаем?
+UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:На самом деле все очень просто... Так же, как мы только что использовали маскировочный ключ, нам просто нужно подойти к ней и забрать данные. +Хотя, похоже, ее сигнал был разрушен, поэтому нам придется найти все фрагменты.
+G11(0)<Speaker>Gr G11</Speaker><通讯框>||:Звучит скучно... Может, просто вернем одного?
+UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:Не то чтобы мы не могли, но это ужасно... +Т-Кукла с утраченными данными нейронного облака похожа на человека с умственными отклонениями.
+UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<黑点1>:Это может быть просто очередное обучение, но не теряйте бдительность. Давайте быстро найдем все данные нейронного облака и вернем их обратно.
+
