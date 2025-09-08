@@ -1,23 +1,24 @@
-()||<BIN>55</BIN><Night><BGM>BGM_Sneak</BGM>:Fifteen minutes later.
-UMP9(4)<Speaker>UMP9</Speaker>||:45, do you copy?! We must abort the mission! +Even Sier advices us to retreat to the perimeter for the time being and think of something else!
-UMP45(2)<Speaker>UMP45</Speaker>||:No, listen to me. We stick to the plan.
-UMP45(2);HK416(3)<Speaker>416</Speaker><通讯框>||:What are you thinking, 45? S.F. knows our every move. +No matter how we proceed, it's suicide if we go any further.
-UMP45(2)<Speaker>UMP45</Speaker>;HK416(3)||:No... S.F. doesn't know our every move. +All they know is MY move.
-UMP45(2);HK416(2)<Speaker>416</Speaker>||:What? What makes you think so?
-UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:Think about it... +Destroyer only made the two broadcasts after I said something. +And judging from what she said, she couldn't hear you guys.
-UMP9(4)<Speaker>UMP9</Speaker>;HK416(2)||:But she can hear your voice, right? She can find out what you're doing any time!
-UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:I think she can indeed hear my voice, but not "any time". +Otherwise, she would've just blown us right up rather than only making two broadcasts this whole time. +Besides, her new body must still be incomplete, or we would've found her by now.
-UMP45(2);HK416(2)<Speaker>416</Speaker>||:So you plan on getting back the drone while the window is still open?
-UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:This is our best shot. +If we retreat now, there won't be another attempt. +The drone will be theirs - mission failed.
-UMP9(4)<Speaker>UMP9</Speaker>;HK416(2)||:But how do we know you're making the right call? If this is a Sangvis trap...
-UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:Have I ever been wrong?
-UMP9(2)<Speaker>UMP9</Speaker>;HK416(2)||:...Understood. +But 416 and Gr G11 are still out there. We have to meet up with them.
-UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:That won't be necessary. 9, go get the drone. I'll cover you with my echelons. +416, head to scouting point eins. Gr G11, scouting point zwei. The two of you monitor every single junction within sight. Report immediately if you detect any signal of a Sangvis Ringleader!
-UMP45(2);HK416(0)<Speaker>416</Speaker>||:I sure hope your lucky guess is right. Get up, Gr G11. We're going!
-UMP45(2);G11(2)<Speaker>Gr G11</Speaker><通讯框>||:Ugh... I have to do this...on my own?
-UMP45(2)<Speaker>UMP45</Speaker>;G11(2)||:Don't worry. I'll give you cover.
-UMP9(2)<Speaker>UMP9</Speaker>;G11(2)||:What about you, 45? +If you're right, then aren't you their primary target?
-UMP45(2)<Speaker>UMP45</Speaker>;G11(2)||:True. I'm not sure why, but it doesn't help dwelling on it. +Keep calm. We only have a tighter deadline. It'll be fine as long as you're snappy. +I'll only be safe if you get the drone ASAP.
-UMP45(2)<Speaker></Speaker>||:45 claps her hands twice.
-UMP45(2)<Speaker>UMP45</Speaker>||<黑屏1>:Chop chop, girls. +Get your hands on the drone and let's all go home!
+()||<BIN>55</BIN><Night><BGM>BGM_Sneak</BGM>:Пятнадцать минут спустя.
+UMP9(4)<Speaker>UMP9</Speaker>||:45-я, ты меня слышишь?! Мы должны прервать миссию! Даже Сьера советует нам на время отступить к периметру и придумать что-нибудь другое!
+UMP45(2)<Speaker>UMP45</Speaker>||:Нет, слушайте меня. Мы придерживаемся плана.
+UMP45(2);HK416(3)<Speaker>416</Speaker><通讯框>||:О чем ты думаешь, 45-я? С.Ф. знает о каждом нашем шаге. +Независимо от того, как мы поступим, если мы пойдем дальше, это будет самоубийством.
+UMP45(2)<Speaker>UMP45</Speaker>;HK416(3)||:Нет... С.Ф. не знает о каждом нашем шаге. +Все, что они знают, это МОИ шаги.
+UMP45(2);HK416(2)<Speaker>416</Speaker>||:Что? Почему ты так думаешь?
+UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:Только подумай... +Разрушительница сделала эти две трансляции только после того, как я что-то произнесла. +И, судя по тому, что она сказала, она вас не слышала.
+UMP9(4)<Speaker>UMP9</Speaker>;HK416(2)||:Но она слышит твой голос, верно? Она может в любой момент узнать, чем ты занимаешься!
+UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:Я думаю, что она действительно слышит мой голос, но не «в любое время». +В противном случае она бы просто взорвала нас, а не сделала всего две трансляции за все это время. +Кроме того, ее новое тело, должно быть, еще не готово, иначе мы бы уже нашли ее.
+UMP45(2);HK416(2)<Speaker>416</Speaker>||:Так ты планируешь вернуть дрон, пока окно еще открыто?
+UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:Это наш лучший шанс. +Если мы отступим сейчас, другой попытки не будет. +Дрон останется у них — миссия провалится.
+UMP9(4)<Speaker>UMP9</Speaker>;HK416(2)||:Но откуда нам знать, что ты принимаешь правильное решение? Если это ловушка Сангвиса...
+UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:Я когда-нибудь ошибалась?
+UMP9(2)<Speaker>UMP9</Speaker>;HK416(2)||:...Понятно. +Но 416-я и Gr G11 все еще там. Мы должны встретиться с ними.
+UMP45(2)<Speaker>UMP45</Speaker>;HK416(2)||:В этом нет необходимости. 9-я, иди за дроном. Я прикрою тебя своими силами. +416-я, направляйся к точке наблюдения №1. Gr G11, точка наблюдения №2.+Вы двое следите за каждым перекрестком в пределах видимости. Немедленно докладывайте, если обнаружите какие-либо признаки главаря Sangvis!
+UMP45(2);HK416(0)<Speaker>416</Speaker>||:Надеюсь, твое предположение верно. Вставай, Gr G11. Пора!
+UMP45(2);G11(2)<Speaker>Gr G11</Speaker><通讯框>||:Уф... Я должна сделать это... сама?
+UMP45(2)<Speaker>UMP45</Speaker>;G11(2)||:Не волнуйся. Я тебя прикрою.
+UMP9(2)<Speaker>UMP9</Speaker>;G11(2)||:А как насчет тебя, 45-я? +Если ты права, то разве ты не их главная цель?
+UMP45(2)<Speaker>UMP45</Speaker>;G11(2)||:Верно. Не знаю почему, но беспокоиться об этом бесполезно. +Сохраняй спокойствие. У нас просто сроки стали более жесткими. Все будет хорошо, если ты будешь действовать быстро. +Я буду в безопасности, только если ты как можно скорее достанешь дрон.
+UMP45(2)<Speaker></Speaker>||:45-я дважды хлопает в ладоши.
+UMP45(2)<Speaker>UMP45</Speaker>||<黑屏1>:Ну-ка, девочки. +Захватите дрон и пойдемте все домой!
 ()||<BIN>10</BIN><黑点2>:
+
