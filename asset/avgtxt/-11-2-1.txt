@@ -1,19 +1,20 @@
-()||<BIN>55</BIN><Night><BGM>BGM_Sneak</BGM>:Two minutes later.
-UMP9(0)<Speaker>UMP9</Speaker>||:Now what? +Destroyer's broadcast is...bad news, right?
-UMP9(0);HK416(0)<Speaker>416</Speaker>||:The point is...how bad it actually is... +How does Destroyer know we're here? Did she come prepared or did she just discover us by chance? +And her new form...
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:I think she's just bluffing. +If she knows we're here, why didn't she just call us by our names?
-UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:But Destroyer did say she's onto our tracks.
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:What if she's just broadcasting every once in a while to scare the intruders into exposing themselves?
-UMP9(2)<Speaker>UMP9</Speaker>;UMP45(0)||:Huh? You mean...
-UMP9(2);UMP45(0)<Speaker>UMP45</Speaker>||:Surely you don't believe we're coming up against Destroyer on her own, do you? +That broadcast was pretty much reminding us to stay hidden. +Keep your cool. We'll only disorient ourselves if we deviate from the plan.
-G11(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:So...what are we gonna do? Ignore them?
-G11(0);UMP45(0)<Speaker>UMP45</Speaker>||:Ja, if they still don't know who exactly we are, then we're safe for the time being.
-UMP9(2)<Speaker>UMP9</Speaker>;UMP45(0)||:45, you mentioned a small problem. What did you mean...
-UMP9(2);UMP45(0)<Speaker>UMP45</Speaker>||:It just so happens that a Sangvis signal jammer nearby is severely hindering our search progress. +We have to destroy it in order to proceed.
-HK416(0)<Speaker>416</Speaker>;UMP45(0)||:Bluff or not, S.F. is on the lookout for us. Play it safe, 45.
-HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:Don't worry. We've had plenty of experience removing jammers, haven't we?
-UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Haha, you're right. That was exactly a year ago.
-UMP9(0);G11(0)<Speaker>Gr G11</Speaker>||:I hope we won't have to run all over the place this time...
-HK416(0)<Speaker>416</Speaker>;G11(0)||:Only I was doing the running, okay?
-HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:There, are we all relaxed? Then let's move out.
+()||<BIN>55</BIN><Night><BGM>BGM_Sneak</BGM>:Две минуты спустя.
+UMP9(0)<Speaker>UMP9</Speaker>||:Что теперь? +Трансляция Разрушительницы — это... плохая новость, да?
+UMP9(0);HK416(0)<Speaker>416</Speaker>||:Дело в том... насколько это действительно плохо... +Откуда Разрушительница знает, что мы здесь? Она пришла подготовленной или просто случайно нас обнаружила? +И ее новая форма...
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:Я думаю, она просто блефует. +Если она знает, что мы здесь, почему она просто не назвала нас по именам?
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Но Разрушительница сказала, что она идет по нашим следам.
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||:А что, если она просто время от времени включает трансляцию, чтобы запугать злоумышленников и заставить их раскрыть себя?
+UMP9(2)<Speaker>UMP9</Speaker>;UMP45(0)||:А? Ты имеешь в виду...
+UMP9(2);UMP45(0)<Speaker>UMP45</Speaker>||:Ты же не думаешь, что мы будем сражаться с Разрушительницей в одиночку, правда? +Эта трансляция была скорее напоминанием о том, что нам нужно оставаться в тени. +Сохраняй спокойствие. Если мы отклонимся от плана, то только собьемся с толку.
+G11(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:И... что нам делать? Игнорировать их?
+G11(0);UMP45(0)<Speaker>UMP45</Speaker>||:Да, если они до сих пор не знают, кто мы такие, то пока что мы в безопасности.
+UMP9(2)<Speaker>UMP9</Speaker>;UMP45(0)||:45-я, ты упомянула о небольшой проблеме. Что ты имела в виду...
+UMP9(2);UMP45(0)<Speaker>UMP45</Speaker>||:Так вышло, что расположенный поблизости глушитель сигналов Сангвиса серьезно мешает нашему поиску. +Мы должны уничтожить его, чтобы продолжить.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||:Блеф это или нет, но С.Ф. нас ищет. Будь осторожна, 45-я.
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:Не волнуйся. У нас же есть большой опыт в устранении помех, не так ли?
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||:Ха-ха, ты права. Это было ровно год назад.
+UMP9(0);G11(0)<Speaker>Gr G11</Speaker>||:Надеюсь, на этот раз нам не придется бегать по всему городу...
+HK416(0)<Speaker>416</Speaker>;G11(0)||:Только я бегала, ясно?
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1>:Все готовы? Тогда вперед!
 ()||<BIN>10</BIN><黑点2>:
+
