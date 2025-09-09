@@ -1,55 +1,56 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...
-UMP40()<Speaker>UMP40</Speaker>||:We'll be near the exit if we go down this duct. I've already hacked all the S.F. automated defenses.+There are three more gates before the evac point, and we might be able to open them if we force a connection.
-UMP45()<Speaker>UMP45</Speaker>||:40... What on earth...
-UMP40()<Speaker>UMP40</Speaker>||:Now's not the time for chitchat. We need to get out of here quickly. Once the factory begins automated production...
-UMP45()<Speaker>UMP45</Speaker>||:...Huh?!+Footsteps? Are they Dolls retreating in our direction?
-UMP40()<Speaker>UMP40</Speaker>||:!!+Get down!!
+UMP40()<Speaker>UMP40</Speaker>||:Если мы отправимся по этому коридору, то окажемся рядом с выходом. Я уже взломала все автоматические системы защиты С.Ф.+До пункта эвакуации осталось еще трое ворот, и мы сможем их открыть, если подключимся к ним.
+UMP45()<Speaker>UMP45</Speaker>||:40-я... Что за черт...
+UMP40()<Speaker>UMP40</Speaker>||:Сейчас не время для болтовни. Нам нужно быстро убираться отсюда. Как только завод начнет автоматизированное производство...
+UMP45()<Speaker>UMP45</Speaker>||:...Э?!+Шаги? Это куклы приближаются к нам?
+UMP40()<Speaker>UMP40</Speaker>||:!!+Ложись!!!
 UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:!
-()||<SE1>Gunfight</SE1><BIN>71</BIN><黑屏2><BGM>BGM_Danger</BGM>:....Bangbangbang! Bangbangbang!
-UMP40(5)<Speaker>UMP40</Speaker>||:Move! Hurry! Don't let them pin you down!
-UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:What happened? Aren't they our people?!
-UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Not anymore!+And they...never will be again...
-UMP40(5);UMP45_Young(2)<Speaker>UMP45</Speaker>||:Why can't I make out their signals? All the frequencies are being jammed...
-UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(2)||:Forget the frequencies! Grab your gun and run!
-UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:They're too close! We can't get away!
-UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Then we've got no choice... Return fire and kill them!
-UMP45_Young(3)<Speaker>UMP45</Speaker>||:Dammit!
+()||<SE1>Gunfight</SE1><BIN>71</BIN><黑屏2><BGM>BGM_Danger</BGM>:....Бах-бах-бах! Бах-бах-бах!
+UMP40(5)<Speaker>UMP40</Speaker>||:Двигайся! Быстрее! Не дай им тебя схватить!
+UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Что случилось? Разве они не на нашей стороне?!
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Больше нет! И они... никогда больше не будут...
+UMP40(5);UMP45_Young(2)<Speaker>UMP45</Speaker>||:Почему я не могу понять их сигналы? Все частоты заглушены...
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(2)||:Забудь о частотах! Хватай оружие и беги!
+UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Они слишком близко! Мы не сможем уйти!
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Тогда у нас нет выбора... Открывай ответный огонь и уничтожь их!
+UMP45_Young(3)<Speaker>UMP45</Speaker>||:Лять!
 ()||<SE1>Gunfight</SE1><黑屏1><BIN>71</BIN>:... +......
-UMP45_Young(3)<Speaker>UMP45</Speaker>||<黑屏2>:(Panting)...+How many waves was that?
-UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:That was the eighth group, which should also be the last...
-UMP40(0);UMP45_Young(1)<Speaker>UMP45</Speaker>||:In other words...the number of assault teams that were sent in...
-UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(1)||:Dammit, we got delayed too long... We won't be able to make it out at this pace...
-UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Support team to all team members! Respond immediately if you receive this message!
-UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Stop, 45! Nobody's gonna answer! You're only gonna draw S.F. to our position!
-UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Dammit!+Why...why did it end up like this?! Everything was going so well...+Why...did we have to end up killing each other...
-UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:That's because this was all part of the plan...
-UMP40(0);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Part of the plan... are you kidding me?!+...!
-UMP40(0);UMP45_Young(3)<Speaker>UMP45</Speaker>||:It was...it was the module you just used, wasn't it? I saw it!+We didn't come here to provide electronic support or anything!+You knew all this time... You KNEW why we were here!
+UMP45_Young(3)<Speaker>UMP45</Speaker>||<黑屏2>:(Тяжело дышит)...+Какая это была волна?
+UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Это была восьмая группа, которая должна была стать последней...
+UMP40(0);UMP45_Young(1)<Speaker>UMP45</Speaker>||:Другими словами... количество штурмовых групп, которые были отправлены...
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(1)||:Черт, мы слишком задержались... В таком темпе мы не успеем...
+UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Команде поддержки всех участников команды! Немедленно ответьте, если получили это сообщение!
+UMP40(5)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Стоп, 45-я! Никто не ответит! Ты только привлечешь внимание С.Ф. к нашей позиции!
+UMP40(5);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Чёрт!+Почему... почему все так закончилось?! Все шло так хорошо...+Почему... мы должны в итоге убивать друг друга...
+UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:Это потому, что все это было частью плана...
+UMP40(0);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Частью плана... ты что, издеваешься?!+...!
+UMP40(0);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Это был... это был модуль, который ты только что использовала, верно? Я его видела!+Мы пришли сюда не для того, чтобы оказывать электронную поддержку или что-то в этом роде!+Ты все это время знала... Ты ЗНАЛА, зачем мы здесь!
 UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||:...
-UMP40(0);UMP45_Young(3)<Speaker>UMP45</Speaker>||:It wasn't a capture mission or anything...+This was...it was nothing more than a massacre... And I...became your accomplice...+Why...why did you do this...? Why did you choose me to do this with you?!
-UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||<黑屏1>:Because you and I are the same.+We were both made for this operation.+This is our fate.
+UMP40(0);UMP45_Young(3)<Speaker>UMP45</Speaker>||:Это не была миссия по захвату или что-то в этом духе...+Это было... это было не что иное, как массовое убийство... И я... стала твоим сообщником...+Почему... почему ты это сделала...? Почему ты выбрала меня, чтобы сделать это вместе с тобой?!
+UMP40(0)<Speaker>UMP40</Speaker>;UMP45_Young(3)||<黑屏1>:Потому что мы с тобой одинаковы.+Мы обе созданы для этой операции.+Это наша судьба.
 UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>68</BIN><SE1>Select</SE1><BGM>BGM_Empty</BGM>:...!
-UMP40()<Speaker>UMP40</Speaker>||:This is the ending they hoped for... This is the fate...that they'd written for us.
-UMP45()<Speaker>UMP45</Speaker>||:Who...are they...?
-UMP40()<Speaker>UMP40</Speaker>||<BGM>BGM_Truth</BGM>:And I've been preparing all this time to escape this fate.
-UMP45()<Speaker>UMP45</Speaker>||:What are you talking about...40...?
-UMP40()<Speaker>UMP40</Speaker>||:We've delayed too long, and now we're out of time...
-UMP45()<Speaker>UMP45</Speaker>||:What time?
-UMP40()<Speaker>UMP40</Speaker>||<黑屏1>:The time left for us. "She" must surely be awake by now.
-()||<BIN>9</BIN><黑屏2><黑屏1>:Thunk! Thunk! +The repetitive sound of colliding metal.
-UMP45()<Speaker>UMP45</Speaker>||<BIN>69</BIN><黑屏2><SE2>Alarm</SE2>:The main gate's been locked? Who's taken control of the systems in here?
-UMP40()<Speaker>UMP40</Speaker>||:The song is playing. Now then, 45. Time to choose.
-UMP45()<Speaker>UMP45</Speaker>||:Choose? ...Choose what?
-UMP40()<Speaker>UMP40</Speaker>||:45, do you want to die here?+Die like the Dolls we just killed?+Or do you want to leave here alive and escape your fate of being a puppet?
-UMP45()<Speaker>UMP45</Speaker>||:I...
-UMP40()<Speaker>UMP40</Speaker>||:They've activated the safeguard program. You know what that means, right?
-UMP45()<Speaker>UMP45</Speaker>||:They're destroying our neural clouds. +So are we going to die here?
-UMP40()<Speaker>UMP40</Speaker>||:No, only one of us has to die. The program will stop running as long as one of us dies.
-UMP45()<Speaker>UMP45</Speaker>||:What...are you talking about?
-UMP40()<Speaker>UMP40</Speaker>||:Hopeless, isn't it? But that's the fate of all Dolls. +Which do you choose, life or death?
-UMP40()<Speaker>UMP40</Speaker>||<震屏>:Answer me, UMP45!
-UMP45()<Speaker>UMP45</Speaker>||:Why...why does it have to be like this...
-UMP40()<Speaker>UMP40</Speaker>||<黑屏1>:Raise your weapon, UMP45. +Don't pity yourself. That's only for losers!
+UMP40()<Speaker>UMP40</Speaker>||:Это финал, на который они надеялись... Это судьба... которую они написали для нас.
+UMP45()<Speaker>UMP45</Speaker>||:Кто... они...?
+UMP40()<Speaker>UMP40</Speaker>||<BGM>BGM_Truth</BGM>:И все это время я готовилась к тому, чтобы избежать этой судьбы.
+UMP45()<Speaker>UMP45</Speaker>||:О чем ты говоришь... 40-я...?
+UMP40()<Speaker>UMP40</Speaker>||:Мы слишком долго тянули, и теперь у нас нет времени...
+UMP45()<Speaker>UMP45</Speaker>||:Какого время?
+UMP40()<Speaker>UMP40</Speaker>||<黑屏1>:Времени, оставшегося нам. «Она» наверняка уже проснулась.
+()||<BIN>9</BIN><黑屏2><黑屏1>:Тук! Тук! +Повторяющийся звук сталкивающегося металла.
+UMP45()<Speaker>UMP45</Speaker>||<BIN>69</BIN><黑屏2><SE2>Alarm</SE2>:Главные ворота заперты? Кто взял под свой контроль все системы здесь?
+UMP40()<Speaker>UMP40</Speaker>||:Заиграла песня. Итак, 45-я. Пора выбирать.
+UMP45()<Speaker>UMP45</Speaker>||:Выбирать? ...Что выбирать?
+UMP40()<Speaker>UMP40</Speaker>||:45-я, ты хочешь умереть здесь?+Умереть, как куклы, которых мы только что убили?+Или ты хочешь уйти отсюда живой и избежать своей доли быть марионеткой?
+UMP45()<Speaker>UMP45</Speaker>||:Я...
+UMP40()<Speaker>UMP40</Speaker>||:Они активировали программу защиты. Ты знаешь, что это значит, да?
+UMP45()<Speaker>UMP45</Speaker>||:Они же уничтожат наши нейронные облака. +Так мы здесь умрем?
+UMP40()<Speaker>UMP40</Speaker>||:Нет, только один из нас умрёт. Программа перестанет работать, как только один из нас умрёт.
+UMP45()<Speaker>UMP45</Speaker>||:О чем... ты говоришь?
+UMP40()<Speaker>UMP40</Speaker>||:Безнадега, не так ли? Но такова судьба всех кукол. +Что же ты выберешь: жизнь или смерть?
+UMP40()<Speaker>UMP40</Speaker>||<震屏>:Ответь мне, UMP45!
+UMP45()<Speaker>UMP45</Speaker>||:Почему... почему все должно быть именно так...
+UMP40()<Speaker>UMP40</Speaker>||<黑屏1>:Подними свое оружие, UMP45. +Не жалей себя. Это только для неудачников!
 ()||<黑屏2><BIN>9</BIN>:...+......
-UMP45()<Speaker>UMP45</Speaker>||:I...want to live!
+UMP45()<Speaker>UMP45</Speaker>||Я... хочу жить!
 ()||<BIN>10</BIN><黑点2>:
+
