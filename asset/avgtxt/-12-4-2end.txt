@@ -1,64 +1,65 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:... +......
-UMP45()<Speaker>UMP45</Speaker>||:How...much further is it... +How much further must I walk...before I can get out of this damn place... +...! +Why...why are you here...?
+UMP45()<Speaker>UMP45</Speaker>||:Как... далеко еще... +Как далеко мне еще идти... прежде чем я смогу выбраться из этого проклятого места... +...! +Почему... почему ты здесь...?
 ()||:...+ ......
-？？()<Speaker>???</Speaker>||:I thought...there wouldn't be any more survivors.
-UMP45()<Speaker>UMP45</Speaker>||:... +So even you...want to kill me, huh...
-？？()<Speaker>???</Speaker>||:... +I'm sure you know...your odds.
-()||<SE1>Select</SE1>:The enemy raises their weapon.
-UMP45()<Speaker>UMP45</Speaker>||:The only thing I know...is "what's right"...
-()||<SE1>Select</SE1>:UMP45 raises her weapon.
-UMP45()<Speaker>UMP45</Speaker>||:I must survive, no matter the cost!
-()||<SE2>Gunfight</SE2>:Bang! Bang!
+？？()<Speaker>???</Speaker>||:Я думала... что больше не осталось выживших.
+UMP45()<Speaker>UMP45</Speaker>||:... +Так даже ты... хочешь убить меня, да...
+？？()<Speaker>???</Speaker>||:... +Я уверена, ты знаешь... свои шансы.
+()||<SE1>Select</SE1>:Враг поднимает оружие.
+UMP45()<Speaker>UMP45</Speaker>||:Единственное, что я знаю... это «что правильно»...
+()||<SE1>Select</SE1>:UMP45 поднимает оружие.
+UMP45()<Speaker>UMP45</Speaker>||:Я должна выжить, любой ценой!
+()||<SE2>Gunfight</SE2>:Бах! Бах!
 ()||<黑屏1>:... +......
-破坏者()<Speaker>Destroyer</Speaker>||<BIN>34</BIN><黑屏2>:... +Where...am I?
-BOSS-11(0)<Speaker>Dreamer</Speaker>||<BGM>BGM_Boss</BGM>:Welcome to the Eiderdown Room. This place exists between dreams and reality.
-破坏者()<Speaker>Destroyer</Speaker>||:What the heck... Aren't you Dreamer? Isn't this our base? +Uh... That means...
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:That's right, darling. 404 killed you again. +And they gave us the slip. We failed.
-破坏者()<Speaker>Destroyer</Speaker>||:Eh? When?! Where?! My... Where's my body? +How could this be?! I remember I was super strong! And...+And I pushed them to the brink! I did it quite a few times!
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:Yes, you did. But you still missed the chance to wipe them out. +In the end, they latched onto a mistake you made instead... +I could only find a backup you made half an hour before your demise, so you won't remember what happened back then.
-破坏者()<Speaker>Destroyer</Speaker>||:Then...what about my body?
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:Gone. +It was an experimental project and making another one will take a very long time. +I'm afraid you'll have to stick to your original body until then.
-破坏者()<Speaker>Destroyer</Speaker>||:... +W...Why... +It took so long...to finally get that body...
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:What's wrong?
-破坏者()<Speaker>Destroyer</Speaker>||:Uuu...uuu...
-破坏者()<Speaker>Destroyer</Speaker>||<震屏>:UWAAHHHHHH!!!
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:Why are you crying...
-破坏者()<Speaker>Destroyer</Speaker>||:I'm so sorry, Dreamer! +I failed to keep my promise again! +I...I was serious this time! But why can't I win?! +I...I even had such a powerful body this time, but...but...
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:Even I didn't expect UMP45 to wake up. UMP45 must have a very strong backer if she could survive the attack and make it out alive. +Since they came prepared, our failure couldn't be helped...
-破坏者()<Speaker>Destroyer</Speaker>||:Huh? You...you're not gonna punish me?
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:I'll let you off this time. The defeat wasn't entirely due to your stupidity, so I don't have the appetite for your punishment. +Besides...it's not like we came away with nothing. +No... Rather...we've gained something far more valuable than that irrelevant drone... +Heehee...Heheheheheheheh...
-破坏者()<Speaker>Destroyer</Speaker>||:You're doing that creepy giggle again, Dreamer.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:Say, Destroyer, do you want to know about UMP45?
-破坏者()<Speaker>Destroyer</Speaker>||:Huh? She's just a Doll that has a bit more brains. Is she that important?
-BOSS-11(0)<Speaker>Dreamer</Speaker>||<黑屏1>:True, she's not that important to us... +But I think our guest...no...our new comrade... +Would love to hear... +The story...about their past...and our Master...
-()||<BIN>55</BIN><黑屏2><BGM>BGM_Empty</BGM>:Meanwhile.
-G11(0)<Speaker>Gr G11</Speaker>||<BGM>BGM_Sunshine</BGM>:Ugh... +Is this...sunrise? +It's dazzling my eyes. Can I go back online?
-G11(0);UMP9(3)<Speaker>UMP9</Speaker>||:Heheh, not a chance, lazybones! +Ah, 45, have you recovered?
-UMP45(0)<Speaker>UMP45</Speaker>;UMP9(3)||:I'm alright. Haven't run into any problem. +Actually...never been better.
-UMP45(0);NPC-Deele(0)<Speaker>Dier</Speaker><通讯框>||:That's all thanks to me! I literally had to pull out every single trick I know to wake you up as fast as we could! +Well? Y'all believe me when I say I'm a genius mechanic?
-UMP45(0)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Indeed, it was thanks to you. +And Sier too, for finding the safest evacuation route so we could break through the SF encirclement.
-UMP45(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Hehe, she'll be glad to hear that. +Unfortunately, she's in a call right now, so I'll tell her later!
-HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:A call? I have a bad feeling about this.
-HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:A new job's not a bad thing.
-HK416(0)<Speaker>416</Speaker>;UMP9(0)||:I just want some rest. This was the most exhausting op I've been on this year...
-G11(0)<Speaker>Gr G11</Speaker>;UMP9(0)||:I wanna sleep for two days and catch up on all the movies that I didn't finish...
-G11(0);UMP9(0)<Speaker>UMP9</Speaker>||:Don't ask for too much! At least we survived!
-UMP45(0)<Speaker>UMP45</Speaker>;UMP9(0)||:Ja... +Surviving is all that matters.
+破坏者()<Speaker>Разрушительница</Speaker>||<BIN>34</BIN><黑屏2>:... +Где... я?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||<BGM>BGM_Boss</BGM>:Добро пожаловать в Номер «Гагачий пух». Это место существует между сном и реальностью.
+破坏者()<Speaker>Разрушительница</Speaker>||:Что за черт... Разве ты не Мечтательница? Разве это не наша база? +Э-э... Это значит...
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Правильно, дорогая. 404 снова тебя убил. +И они ускользнули от нас. Мы провалились.
+破坏者()<Speaker>Разрушительница</Speaker>||:Э? Когда?! Где?! Мое... Где мое тело? +Как это могло случиться?! Я помню, что была очень сильной! И...+И я довела их до предела! Я делала это не раз!
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Да, ты это сделала. Но ты все равно упустила шанс уничтожить их. +В конце концов, они воспользовались твоей ошибкой... +Я смогла найти только резервную копию, которую ты сделала за полчаса до своей гибели, поэтому ты не будешь помнить, что произошло тогда.
+破坏者()<Speaker>Разрушительница</Speaker>||:Тогда... как же мое тело?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Уничтожено. +Это был экспериментальный проект, и создание другого займет очень много времени. +Боюсь, что до тех пор тебе придется довольствоваться своим первоначальным телом.
+破坏者()<Speaker>Разрушительница</Speaker>||:... +П... Почему... +Почему так долго... чтобы наконец получить это тело...
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Что не так?
+破坏者()<Speaker>Разрушительница</Speaker>||:Ууу... ууу...
+破坏者()<Speaker>Разрушительница</Speaker>||<震屏>:УВАААААААА!!!
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Почему ты плачешь...
+破坏者()<Speaker>Разрушительница</Speaker>||:Прости меня, Мечтательница! +Я снова не сдержала обещание! +Я... На этот раз я была серьезна! Но почему я не смогла победить?! +Я... На этот раз у меня даже было такое сильное тело, но... но...
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Даже я не ожидала, что UMP45 проснется. У UMP45, должно быть, очень сильный покровитель, раз она смогла пережить нападение и выбраться живой. +Поскольку они пришли подготовленными, наша неудача была неизбежна...
+破坏者()<Speaker>Разрушительница</Speaker>||:А? Ты... ты не накажешь меня?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:На этот раз я тебя отпущу. Поражение не было полностью вызвано твоей тупостью, поэтому я не хочу тебя наказывать. +Кроме того... мы не ушли с пустыми руками. +Нет... Скорее... мы получили нечто гораздо более ценное, чем этот бесполезный дрон... +Хи-хи... Хе-хе-хе-хе-хе...
+破坏者()<Speaker>Разрушительница</Speaker>||:Ты опять так жутко захихикала, Мечтательница.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Скажи, Разрушительница, ты хочешь узнать об UMP45?
+破坏者()<Speaker>Разрушительница</Speaker>||:Что? Она всего лишь кукла, которая немного умнее. Она так важна?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||<黑屏1>:Правда, она не так уж важна для нас... +Но я думаю, что наш гость... нет... наш новый товарищ... +С удовольствием послушает... +Историю... об их прошлом... и о нашем Мастере...
+()||<BIN>55</BIN><黑屏2><BGM>BGM_Empty</BGM>:Тем временем.
+G11(0)<Speaker>Gr G11</Speaker>||<BGM>BGM_Sunshine</BGM>:Уф... +Это... рассвет? +Он ослепляет мои глаза. Могу я вернуться в сеть?
+G11(0);UMP9(3)<Speaker>UMP9</Speaker>||:Хе-хе, ни за что, лентяйка! +Ах, 45-я, ты уже оправилась?
+UMP45(0)<Speaker>UMP45</Speaker>;UMP9(3)||:Я в порядке. Никаких проблем не было. +На самом деле... лучше не бывает.
+UMP45(0);NPC-Deele(0)<Speaker>Dier</Speaker><通讯框>||:Это все благодаря мне! Мне пришлось применить все свои знания, чтобы разбудить тебя как можно быстрее!+Ну как? Теперь вы верите, что я гениальный механик?
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Deele(0)||:Именно благодаря тебе. +И Сьера тоже, которая нашла самый безопасный путь эвакуации, чтобы мы могли прорвать окружение С.Ф..
+UMP45(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:Хе-хе, она будет рада это услышать. +К сожалению, она сейчас на звонке, так что я скажу ей позже!
+HK416(0)<Speaker>416</Speaker>;NPC-Deele(0)||:Разговаривает с кем-то? У меня плохое предчувствие.
+HK416(0);UMP9(0)<Speaker>UMP9</Speaker>||:Новая работа - это не плохо.
+HK416(0)<Speaker>416</Speaker>;UMP9(0)||:Я просто хочу отдохнуть. Это была самая изнурительная операция, в которой я участвовала в этом году...
+G11(0)<Speaker>Gr G11</Speaker>;UMP9(0)||:Я хочу поспать два дня и посмотреть все фильмы, которые я не досмотрела...
+G11(0);UMP9(0)<Speaker>UMP9</Speaker>||:Не требуйте слишком многого! По крайней мере, мы выжили!
+UMP45(0)<Speaker>UMP45</Speaker>;UMP9(0)||:Да... +Главное — выжить.
 UMP45(0);HK416(0)<Speaker>416</Speaker>||:...
-UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||:You've got something to say, don't you?
-UMP45(0);HK416(0)<Speaker>416</Speaker>||:I don't know what to say. +45, you had your own ulterior motive during this operation, didn't you?
-UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||:A bit, though it also took a lot of luck to pull that off?
-UMP45(0);HK416(0)<Speaker>416</Speaker>||:(Laughs bitterly) And here I thought we only do things we are confident doing. +So, you gonna make us forget everything?
-UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||:Heheh, I'm hardly that scary. +It's not like it's terribly important. Right now, things are as good as they can get. +I'll tell you the whole story if I get the chance. IF I get the chance...
-HK416(0)<Speaker>416</Speaker>||:UMP45 turns to leave.
-UMP9(2)<Speaker>UMP9</Speaker>||:45...
-UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Sier has a message to pass on to us. Hang on.
+UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||:Тебе есть что сказать?
+UMP45(0);HK416(0)<Speaker>416</Speaker>||:Я не знаю, что сказать. +45-я, у тебя был скрытый мотив во время этой операции?
+UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||:Немного, хотя для этого понадобилось и немало удачи?
+UMP45(0);HK416(0)<Speaker>416</Speaker>||:(Горько смеется) А я-то думала, что мы делаем только то, в чем уверены. +Так что, ты собираешься заставить нас все забыть?
+UMP45(0)<Speaker>UMP45</Speaker>;HK416(0)||:Хе-хе, я не настолько страшна. +Это не так уж и важно. Сейчас все идет как нельзя лучше. +Я расскажу тебе всю историю, если будет возможность. ЕСЛИ будет возможность...
+HK416(0)<Speaker>416</Speaker>||:UMP45 поворачивается, чтобы уйти.
+UMP9(2)<Speaker>UMP9</Speaker>||:45-я...
+UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Сьера хочет передать нам сообщение. Подождите.
 ()||<黑屏2><BIN>55</BIN>:...
-G11(0)<Speaker>Gr G11</Speaker>||:416, do you believe what she said?
-G11(0);HK416(0)<Speaker>416</Speaker>||:Humph... +Never believe a word she says unless she's giving an order.
-G11(0)<Speaker>Gr G11</Speaker>;HK416(0)||:How about you, 416? +Will you...really be leaving? +That was you in the fragment, wasn't it?
-G11(0);HK416(0)<Speaker>416</Speaker>||:... +I don't know, Gr G11. I'm not sure of anything.
-G11(0)<Speaker>Gr G11</Speaker>;HK416(0)||:(Sighs) ... +You're so lame, 416...
-G11(0);HK416(0)<Speaker>416</Speaker>||<黑屏1>:Ja... +45 is a monster, but I'm not.
-HK416()<Speaker>416</Speaker>||<黑屏2><BIN>9</BIN>:Let's go. Our troubles are far from over... +Perhaps, they'll never be...
-()||<黑屏1>:DEEP DIVE END
+G11(0)<Speaker>Gr G11</Speaker>||:416-я, ты веришь в то, что она сказала?
+G11(0);HK416(0)<Speaker>416</Speaker>||:Хм... +Никогда не верь ни единому ее слову, если только она не отдает приказ.
+G11(0)<Speaker>Gr G11</Speaker>;HK416(0)||:А как насчет тебя, 416-я? +Ты... действительно уйдешь? +Это же была ты в том фрагменте, правда?
+G11(0);HK416(0)<Speaker>416</Speaker>||:... +Не знаю, Gr G11. Я ни в чем не уверена.
+G11(0)<Speaker>Gr G11</Speaker>;HK416(0)||:(Вздыхает) ... +Ты такая неудачница, 416-я...
+G11(0);HK416(0)<Speaker>416</Speaker>||<黑屏1>:Да... +45-я — это монстр, но я — нет.
+HK416()<Speaker>416</Speaker>||<黑屏2><BIN>9</BIN>:LПойдем. Наши проблемы еще далеко не закончились... +Возможно, они никогда не закончатся...
+()||<黑屏1>:КОНЕЦ ГЛУБОКОГО ПОГРУЖЕНИЯ
+
