@@ -1,25 +1,26 @@
 ()||<BIN>34</BIN><BGM>BGM_Boss</BGM>:......
-破坏者()<Speaker>Destroyer</Speaker>||:Where is this place?
-？？()<Speaker>???</Speaker>||:Welcome to the future, dear player.+Here you will experience a brand new online virtual reality...+...And the technological legacy of mankind from 40 years ago.
-破坏者()<Speaker>Destroyer</Speaker>||:Dreamer...is that you?+Stop messing around, what are you up to this time?
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:Hehe, I'm just here to congratulate you. Progress on your new body has passed the halfway mark.
-BOSS-11(0);BOSS-6(0)<Speaker>Destroyer</Speaker><通讯框>||:What? Are you for real this time?+It's not going to be some piglet or puppy to mess with me, is it?
-BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||:Hmm...+Probably not, since you won't be going on a pursuit mission.
-BOSS-11(0);BOSS-6(0)<Speaker>Destroyer</Speaker>||:Hah, that's a relief...+Huh, wait, what did you say? So last time...
-BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||:In any case, this time you'll be getting a true remodel. (Destroyer "Hey! Listen to me!")+Rejoice, young lady. Your wish is about to come true.
-BOSS-11(0);BOSS-6(0)<Speaker>Destroyer</Speaker>||:Humph...well, of course I'll be very happy if I can get what I want.+That said, my enthusiasm's been dashed by that big dog earlier...+Not to mention, 404 is already within our grasp, so a powerful body like that won't be too useful anymore.
-BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||:Don't say that. 404 isn't surrendering that easily.
-BOSS-11(0);BOSS-6(0)<Speaker>Destroyer</Speaker>||:Really? I mean look, they've shown no signs of activity for 3 hours already.+Since you said they couldn't have slipped the cordon, they must be cowering in some corner waiting to die, right?
-BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||:Destroyer...how little you understand them.+A death-or-glory attack at a time like this? Squad 404 isn't the type to lose their cool even when they're desperate...+That's why, they're in fact the most dangerous when they're huddled up somewhere.
-()||:...Dreamer sits down on a chair and starts fiddling with her hair.
-BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||:One possibility is that UMP45 might have survived the network attack earlier...+Yes...they must be hiding somewhere, trying to save UMP45, because she's their only hope of escape.
-BOSS-11(0);BOSS-6(0)<Speaker>Destroyer</Speaker>||:Tsk, so they'll fight like cornered rats. What can they even hope to achieve?
-BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||:Don't underestimate them.+Right now, Squad 404 has ample supplies, plenty of help, and a lot of time to organize their echelons. They might even have new weapons and traps.
-BOSS-11(0);BOSS-6(0)<Speaker>Destroyer</Speaker>||:You mean...those little drones?+Despite their meager firepower, all the tricks they can pull make them very annoying.
-BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||:That's why we can't sit around in the base waiting for news, Destroyer. We'll move out once your remodel is complete.
-BOSS-11(0);BOSS-6(0)<Speaker>Destroyer</Speaker>||:Got it!+Oh yes...do you have any more of those big doggies from earlier?
-BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||:What, so you do miss that body after all?
-BOSS-11(0);BOSS-6(0)<Speaker>Destroyer</Speaker>||:Like hell I do!+While it sucked to be one, it'd be pretty reassuring to have one by my side...
-BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||:Heheh, I knew it, the two of you are a good match...+Don't worry, it might still be in the experimental phase, but I can build another one.+Your new body and your new servant will soon be complete.
-BOSS-11(0);BOSS-6(0)<Speaker>Destroyer</Speaker>||:Don't mess it up this time! I'd better become a Doll that surpasses all the other S.F. Dolls in both looks and power!
-BOSS-11(0)<Speaker>Dreamer</Speaker>||<黑屏1>:Your wish is my command, Miss Destroyer. You need only wait a little longer.+In return, I'd like you to annihilate Squad 404...+You can manage that, right?
+破坏者()<Speaker>Разрушительница</Speaker>||:Что это за место?
+？？()<Speaker>???</Speaker>||:Добро пожаловать в будущее, уважаемый игрок.+Здесь вы познакомитесь с совершенно новой виртуальной реальностью...+...и технологическим наследием человечества 40-летней давности.
+破坏者()<Speaker>Разрушительница</Speaker>||:Мечтательница... это ты? + Хватит придуриваться, что ты на этот раз затеяла?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Хе-хе, я просто пришла тебя поздравить. Прогресс в создании твоего нового тела прошел уже половину пути.
+BOSS-11(0);BOSS-6(0)<Speaker>Разрушительница</Speaker><通讯框>||:Что? Ты на этот раз серьезно? Это же не какой-нибудь поросенок или щенок, который будет меня доставать, правда?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-6(0)||:Хм...+ Скорее всего, нет, так как ты не будешь участвовать в преследованиях.
+BOSS-11(0);BOSS-6(0)<Speaker>Разрушительница</Speaker>||:Ха, какое облегчение... +Эй, постой, что ты сказала? Так в прошлый раз...
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-6(0)||:В любом случае, на этот раз ты получишь настоящую реконструкцию. (Разрушительница «Эй! Послушай меня!») + Радуйся, юная леди. Твое желание скоро сбудется.
+BOSS-11(0);BOSS-6(0)<Speaker>Разрушительница</Speaker>||:Хм... конечно, я буду очень рада, если смогу получить то, что хочу.+Тем не менее, мой энтузиазм был перечеркнут тем большим псом, которым я была раньше...+Не говоря уже о том, что 404 уже в наших руках, так что такое мощное тело больше не будет слишком полезным.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-6(0)||:Не говори так. 404 не сдается так легко.
+BOSS-11(0);BOSS-6(0)<Speaker>Разрушительница</Speaker>||:Правда? Смотри, они уже три часа не проявляют никакой активности.+Поскольку ты сказала, что они не могли прорвать кордон, значит, они, наверное, прячутся в каком-нибудь углу и ждут смерти, верно?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-6(0)||:Разрушительница... как же мало ты их понимаешь.+Атака во имя смерти или славы в такой момент? Отряд 404 не из тех, кто теряет самообладание, даже когда находится в отчаянном положении...+Именно поэтому они на самом деле наиболее опасны, когда прячутся где-то.
+()||:...Мечтательница садится на стул и начинает теребить свои волосы.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-6(0)||:Одно из возможных объяснений заключается в том, что UMP45 могла пережить сетевую атаку ранее...+Да... они, должно быть, где-то прячутся, пытаясь спасти UMP45, потому что она — их единственная надежда на спасение.
+BOSS-11(0);BOSS-6(0)<Speaker>Разрушительница</Speaker>||:Тск, значит, они будут сражаться, как загнанные крысы. Чего они вообще могут достичь?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-6(0)||:Не стоит их недооценивать. Сейчас у отряда 404 есть достаточные запасы, много помощников и много времени для организации своих отрядов. Возможно, у них даже есть новое оружие и ловушки.
+BOSS-11(0);BOSS-6(0)<Speaker>Разрушительница</Speaker>||:Ты имеешь в виду... эти маленькие дроны?+Несмотря на их скудную огневую мощь, все их уловки делают их очень раздражающими.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-6(0)||:Поэтому мы не можем сидеть на базе и ждать новостей, Разрушительница. Мы выдвинемся, как только твоя модификация будет завершена.
+BOSS-11(0);BOSS-6(0)<Speaker>Разрушительница</Speaker>||:Понятно! + Ах да... у тебя есть еще те большие собачки, что были раньше?
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-6(0)||:Значит, все-таки скучаешь по такому телу?
+BOSS-11(0);BOSS-6(0)<Speaker>Разрушительница</Speaker>||:Черт, конечно!+Хотя быть таковой было ужасно, но иметь такого рядом было бы довольно успокаивающе...
+BOSS-11(0)<Speaker>Мечтательница</Speaker>;BOSS-6(0)||:Хе-хе, я так и знала, вы двое хорошо подходите друг другу... +Не волнуйся, он все еще может находиться в экспериментальной фазе, но я могу построить еще один. +Твое новое тело и твой новый слуга скоро будут готовы.
+BOSS-11(0);BOSS-6(0)<Speaker>Разрушительница</Speaker>||:На этот раз не испорть все! Лучше стать куклой, которая превосходит все другие куклы С.Ф. как по внешнему виду, так и по силе!
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||<黑屏1>:Твое желание для меня закон, мисс Разрушительница. Тебе нужно только немного подождать.+Взамен я хочу, чтобы ты уничтожила отряд 404...+Ты сможешь это сделать, верно?
+
