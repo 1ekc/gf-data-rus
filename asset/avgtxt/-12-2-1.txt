@@ -1,19 +1,20 @@
 ()||<BIN>72</BIN><BGM>BGM_Sneak</BGM>:
-HK416(0)<Speaker>416</Speaker><通讯框>||:Gr G11? You still alive?
-HK416(0);G11(0)<Speaker>Gr G11</Speaker><通讯框>||:I'm fine... +Wait, why would I be dead...?
-HK416(0)<Speaker>416</Speaker>;G11(0)||:Just making sure if you're still there. You keep staring into space. I was just afraid you're lost in Cyber Wonderland forever.
-HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:I'm just a bit tired. And do I look like an addict...? +"Everything in cyberspace is fictitious; the breath and pulsation of life is what matters most."
-HK416(0)<Speaker>416</Speaker>;G11(0)||:You sleep like a corpse every day. You're one to talk about life.
-HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:That's what it means to enjoy life, 416. +What good is there in running around all day and get exhausted like you?
-HK416(0)<Speaker>416</Speaker>;G11(0)||:I have my own objectives. +Gr G11, I told you. I won't stay here forever.
-HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:We're renegade T-Dolls now, 416. 404 is the last home we have.+But what's so bad about this place...?+Do you hate us? I've never heard you talk about this before.
-HK416(0)<Speaker>416</Speaker>;G11(0)||:The problem lies with me, Gr G11.+I won't give up if there's still something that I can do.
-HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:You're not defined by what you do, 416.
-HK416(2)<Speaker>416</Speaker>;G11(0)||:...+What did you just say, Gr G11? I have a hard time believing you're capable of such wisdom.
-HK416(2);G11(0)<Speaker>Gr G11</Speaker>||:I don't sleep all the time, 416.
-HK416(2)<Speaker>416</Speaker>;G11(0)||:Really now. So you actually...
-HK416(2);G11(0)<Speaker>Gr G11</Speaker>||:I also watch anime.+You don't watch any anime? I've recently learned a very "ka-wai-ee" phrase, it goes "PO..." +Hey, wait up! Don't you want to hear it?
-HK416(0)<Speaker>416</Speaker>;G11(0)||:I don't have time for this.+(Mutters) What am I doing expecting anything out of this idiot...
-HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:What? Did you say something, 416?
-HK416(0)<Speaker>416</Speaker>;G11(0)||<黑屏1>:It's nothing important. Get ready for combat. The echelons are going to clear a path for us soon.+We'll gather as many neural fragments as we can and then get the hell out of this damn place.
+HK416(0)<Speaker>416</Speaker><通讯框>||:Gr G11? Ты еще жива?
+HK416(0);G11(0)<Speaker>Gr G11</Speaker><通讯框>||:Я в порядке... +Погоди, почему я должен быть мертвой...?
+HK416(0)<Speaker>416</Speaker>;G11(0)||:Просто проверяю, ты еще на месте? Ты все время смотришь в никуда. Я просто боялась, что ты навсегда потерялся в кибер-стране чудес.
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Я просто немного устала. И разве я похожа на наркоманку...? +«Все в киберпространстве вымышлено; самое главное — это дыхание и пульсация жизни».
+HK416(0)<Speaker>416</Speaker>;G11(0)||:Ты каждый день спишь как убитая. И это ты говоришь о жизни.
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Вот что значит наслаждаться жизнью, 416-я. +Какой смысл весь день бегать и изнурять себя, как ты?
+HK416(0)<Speaker>416</Speaker>;G11(0)||:У меня есть свои цели. +Gr G11, я тебе уже говорила. Я не буду здесь вечно.
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Мы теперь Т-Куклы-отступники, 416-я. 404-я — последний дом, который у нас остался.+Но что такого плохого в этом месте...?+Ты нас ненавидишь? Я никогда раньше не слышала, чтобы ты об этом говорила.
+HK416(0)<Speaker>416</Speaker>;G11(0)||:Проблема во мне, Gr G11.+Я не сдамся, пока есть что-то, что я могу сделать.
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Ты не определяешься тем, что ты делаешь, 416-я.
+HK416(2)<Speaker>416</Speaker>;G11(0)||:...+Что ты только что сказала, Gr G11? Мне трудно поверить, что ты способна на такие мудрые высказывания.
+HK416(2);G11(0)<Speaker>Gr G11</Speaker>||:Я не сплю все время, 416-я.
+HK416(2)<Speaker>416</Speaker>;G11(0)||:Да ладно тебе. Так ты на самом деле...
+HK416(2);G11(0)<Speaker>Gr G11</Speaker>||:Я тоже смотрю аниме. +Ты не смотришь аниме? Я недавно выучил очень «ka-wai-i» фразу, она звучит так: «ПО...» +Эй, погоди! Ты не хочешь ее услышать?
+HK416(0)<Speaker>416</Speaker>;G11(0)||:У меня нет на это времени. +(Бормочет) Что я делаю, ожидая чего-то от этой идиотки...
+HK416(0);G11(0)<Speaker>Gr G11</Speaker>||:Что? Ты что-то сказала, 416-я?
+HK416(0)<Speaker>416</Speaker>;G11(0)||<黑屏1>:Ничего важного. Готовься к бою. Эшелоны вскоре проложат нам путь.+Мы соберем как можно больше нейронных фрагментов, а потом уберемся из этого проклятого места.
 ()||<BIN>10</BIN><黑点2>:
+
