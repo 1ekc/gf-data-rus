@@ -1932,11 +1932,11 @@
   {
     id: 150
     mission_id: "10030"
-    description: UMP45 has received a new task from her employer. For this task, they will need to undergo a new kind of training.
+    description: UMP45 получила новое задание от своего работодателя. Для выполнения этого задания им необходимо пройти новый вид обучения.
     scripts: -10-1-1,-10-1-2First
     campaign: -10
     bgm: BGM_Frontline
-    title: Cognitive Conundrum I
+    title: Когнитивная загадка I
     is_util: 1
     start: -10-1-1
     first: -10-1-2First
@@ -1945,11 +1945,11 @@
   {
     id: 151
     mission_id: "10031"
-    description: Cyberwarfare training is going smoothly, but UMP45 finds a message from the past…
+    description: Обучение кибервойнам проходит гладко, но UMP45 находит сообщение из прошлого...
     scripts: -10-2-1,-10-2-2First
     campaign: -10
     bgm: BGM_Frontline
-    title: Cognitive Conundrum II
+    title: Когнитивная загадка II
     is_util: 1
     start: -10-2-1
     first: -10-2-2First
@@ -1958,11 +1958,11 @@
   {
     id: 152
     mission_id: "10032"
-    description: As they dive deeper into the training session, UMP45 unlocks a memory that was sealed in her neural system.
+    description: По мере того, как они углубляются в тренировку, UMP45 раскрывает воспоминание, которое было запечатано в ее нейронной системе.
     scripts: -10-3-1,-10-3-2First
     campaign: -10
     bgm: BGM_Frontline
-    title: Cognitive Conundrum III
+    title: Когнитивная загадка III
     is_util: 1
     start: -10-3-1
     point: 4229:-10-3-4-Point4229
@@ -1972,11 +1972,11 @@
   {
     id: 153
     mission_id: "10033"
-    description: A Griffin T-Doll is ensnared in a data trap. The opportunity to put the cyberwarfare training into practice has come.
+    description: Т-Кукла Грифона попала в ловушку данных. Настал момент применить на практике навыки, полученные в ходе обучения кибервойне.
     scripts: -10-4-1,-10-4-2End
     campaign: -10
     bgm: BGM_Frontline
-    title: Cognitive Conundrum IV
+    title: Когнитивная загадка IV
     is_util: 1
     start: -10-4-1
     first: -10-4-2First
@@ -1985,11 +1985,11 @@
   {
     id: 154
     mission_id: "10034"
-    description: The search mission has begun. The keen Sangvis forces have also quickly acted in response.
+    description: Поисковая операция началась. Опытные силы Сангвис также быстро отреагировали на ситуацию.
     scripts: -11-1-1,-11-1-2First
     campaign: -11
     bgm: BGM_Frontline
-    title: Hyperbolic Function I
+    title: Гиперболическая функция  I
     is_util: 1
     start: -11-1-1
     point: 4270:-11-1-4-Point4270
@@ -1999,11 +1999,11 @@
   {
     id: 155
     mission_id: "10035"
-    description: The Sangvis Ringleader unceasingly provokes Squad 404, but UMP45's attention is focused on something else…
+    description: Главарь Сангвиса непрерывно провоцирует отряд 404, но внимание UMP45 сосредоточено на чем-то другом...
     scripts: -11-2-1,-11-2-2First
     campaign: -11
     bgm: BGM_Frontline
-    title: Hyperbolic Function II
+    title: Гиперболическая функция  II
     is_util: 1
     start: -11-2-1
     point: 4292:-11-2-4-Point4292
@@ -2013,11 +2013,11 @@
   {
     id: 156
     mission_id: "10037"
-    description: UMP45 is not afraid of Sangvis Ferri and decides to go on alone. Meanwhile, Destroyer finally reveals her new form in front of everyone...
+    description: UMP45 не боится Сангвис Ферри и решает продолжать в одиночку. Тем временем, Разрушительница наконец-то показывает всем свою новую форму...
     scripts: -11-3-1,-11-3-2First
     campaign: -11
     bgm: BGM_Frontline
-    title: Hyperbolic Function III
+    title: Гиперболическая функция  III
     is_util: 1
     start: -11-3-1
     point: 4411:-11-3-4-Point4411
@@ -2027,11 +2027,11 @@
   {
     id: 157
     mission_id: "10038"
-    description: The decisive battle against Destroyer, or rather, Cerberus, has begun!
+    description: Решающая битва с Разрушительницей, или, вернее, с Цербером, началась!
     scripts: -11-4-1,-11-4-2First,-11-4-2End
     campaign: -11
     bgm: BGM_Frontline
-    title: Hyperbolic Function IV
+    title: Гиперболическая функция  IV
     is_util: 1
     start: -11-4-1
     point: 4431:-11-4-4-Point4431
@@ -2041,11 +2041,11 @@
   {
     id: 158
     mission_id: "10039"
-    description: UMP45's neural system is under Sangvis intrusion. 404 must collect enough pieces of memories to wake her up before Sangvis succeeds in their attack.
+    description: Нейронная система UMP45 подвергается вторжению Сангвиса. 404 должен собрать достаточное количество фрагментов воспоминаний, чтобы разбудить ее, прежде чем Сангвис добьется успеха в своей атаке.
     scripts: -12-1-1,-12-1-2First
     campaign: -12
     bgm: BGM_Frontline
-    title: Relative Behavior I
+    title: Родственное отношение I
     is_util: 1
     start: -12-1-1
     point: 4528:-12-1-4-Point4528,4540:-12-1-4-Point4540,4538:-12-1-4-Point4538
@@ -2055,11 +2055,11 @@
   {
     id: 159
     mission_id: "10040"
-    description: More and more pieces of 45's memories are being uncovered. Dreamer has also begun remodeling Destroyer for the second time…
+    description: Все больше и больше фрагментов воспоминаний 45-ой раскрываются. Мечтательница также приступила ко второй реконструкции Разрушительницы...
     scripts: -12-2-1,-12-2-2First
     campaign: -12
     bgm: BGM_Frontline
-    title: Relative Behavior II
+    title: Родственное отношение II
     is_util: 1
     start: -12-2-1
     point: 4560:-12-2-4-Point4560,4601:-12-2-4-Point4601,4562:-12-2-4-Point4562
@@ -2069,11 +2069,11 @@
   {
     id: 160
     mission_id: "10041"
-    description: The cyberwarfare battles have left 404 exhausted. Yet at this time, Destroyer shows up in a brand new form!
+    description: Кибервойны оставили 404 в изнемождении. Но в этот момент появляется Разрушительница в совершенно новом облике!
     scripts: -12-3-1,-12-3-2First
     campaign: -12
     bgm: BGM_Frontline
-    title: Relative Behavior III
+    title: Родственное отношение III
     is_util: 1
     start: -12-3-1
     point: 4605:-12-3-4-Point4605,4615:-12-3-4-Point4615,4641:-12-3-4-Point4641
@@ -2083,11 +2083,11 @@
   {
     id: 161
     mission_id: "10042"
-    description: The final battle to escape has begun. Can 404 awaken UMP45, shake off Perfect Form (self-proclaimed) Destroyer, and safely escape?
+    description: Началась финальная битва за освобождение. Сможет ли 404 пробудить UMP45, избавиться от самопровозглашенной Идеальной Формы Разрушительницы и благополучно сбежать?
     scripts: -12-4-1,-12-4-2First,-12-4-2End
     campaign: -12
     bgm: BGM_Frontline
-    title: Relative Behavior IV
+    title: Родственное отношение IV
     is_util: 1
     start: -12-4-1
     point: 4723:-12-4-4-Point4723,4724:-12-4-4-Point4724,4671:-12-4-4-Point4671,4518:-12-4-4-Point4518
@@ -2348,11 +2348,11 @@
   {
     id: 197
     mission_id: "10036"
-    description: According to Helian's broadcast, Griffin forces are in grave danger on the battlefield. UMP45 has decided to help with the retreat - for a price, of course...
+    description: Согласно сообщению Хелиан, войска Грифона находятся в смертельной опасности на поле боя. UMP45 решила помочь с отступлением — конечно, за определенную плату...
     scripts: -13-1-1
     campaign: -13
     bgm: BGM_Frontline
-    title: Imaginary Maze
+    title: Мнимый лабиринт
     is_util: 1
     start: -13-1-1
   }
