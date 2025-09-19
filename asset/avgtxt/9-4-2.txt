@@ -1,21 +1,21 @@
-()||<BIN>46</BIN><BGM>BGM_Empty</BGM>：...RO finds SOP's hiding spot.
-RO635(4)<Speaker>RO635</Speaker>||：(Panting)+Is this the place? This should be it according to the tracker...
+()||<BIN>46</BIN><BGM>BGM_Empty</BGM>：...RO находит укрытие, в котором прячется SOP'II.
+RO635(4)<Speaker>RO635</Speaker>||：(Тяжело дышит)+Это то самое место? Если судить по передатчику, то похоже оно...
 RO635(5)<Speaker>RO635</Speaker>||：SOP II!
-RO635(5);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Eh? RO? What are you doing here?
-RO635(5)<Speaker>RO635</Speaker>;SOPII(2)||：You...!+(Sigh) You've really done it this time! Do you have any idea...!+You really scared me. If you disappeared as well...
-RO635(5);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Sorry, but...!
-RO635(5)<Speaker>RO635</Speaker>;SOPII(2)||：You can't use the authorization rights I gave you to leave the team by yourself! Do you know how much effort we spent——
-RO635(5);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Hang on, RO, look at this!
-RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||：What? This is...+M16's...
-RO635(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sad</BGM>：M16's equipment case. I'm sure you recognize it.
-RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||：Of course, but what's inside it? I've asked her several times in the past but she never gave me a proper answer.
-RO635(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||："Nothing good." That's what she had always said.
-RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||：How did you find it?
-RO635(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Persica put a small transmitter on it, which can only be detected at close range.+This was something M16 herself requested...just in case.+She once said that M4 would probably need it more than she does in the future.
-RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||：So the reason you ran off by yourself was to search for this... You being distracted earlier...was it because you were allocating a part of your neural cloud to search for its signal?
-RO635(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：I'm sorry...I thought I'd be able to return before you wake up... Since it wasn't far away, I thought heading out solo might have been safer...
-RO635(4)<Speaker>RO635</Speaker>;SOPII(2)||：So you thought that I'd slow you down?
-RO635(4);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：No...that's not what I meant.+M16 once said that having emotions allow us to make better decisions.+I thought that it'd be better if you rested some more, as I'm capable of doing such a small thing by myself.
+RO635(5);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Эм? RO? Что ты здесь делаешь?
+RO635(5)<Speaker>RO635</Speaker>;SOPII(2)||：Ты...!+(Вздыхает) На сей раз у тебя получилось. Ты хоть представляешь...!+Ты реально очень испугала меня. Если бы ты тоже исчезла...
+RO635(5);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Извини, но...!
+RO635(5)<Speaker>RO635</Speaker>;SOPII(2)||：Ты не можешь использовать доступы к авторизации, которые я тебе дала, для самовольного ухода из команды! Ты знаешь сколько усилий уже потратили——
+RO635(5);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Успокойся, RO, посмотри на это!
+RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||：Что? Это...+ от M16...
+RO635(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Sad</BGM>：Кесй от оборудования М16. Уверена, ты узанала его.
+RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||：Конечно, но что внутри? Я несколько раз её спрашивала в прошлом, но она никогда не давала мне правдивый ответ.
+RO635(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||："Ничего хорошего." Вот, что она отвечала.
+RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||：Как ты его нашла?
+RO635(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Персика установила на него небольшой передатчик, который можно обнаружить только с близкого расстояния.+Это что что просила сделать сама М16...только это кейс.+Однажды она сказала, что в будущем M4, вероятно, будет нуждаться в этом больше, чем она сама.
+RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||：Значит, причина, по которой ты убежала одна, заключалась в том, чтобы найти это... Тебя что-то отвлекало раньше...это потому, что ты выделила часть своего нейронного облака для поиска этого сигнала?
+RO635(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Извини...Я рассчитывала вернуться до того, как ты проснешься... Поскольку это было не очень далеко, я подумала, что будет безопаснее пойти одной...
+RO635(4)<Speaker>RO635</Speaker>;SOPII(2)||：Т.е. ты думала, что я буду тебя тормозить?
+RO635(4);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Нет...я не это имела в виду.+М16 однажды сказала, что наличие эмоций позволяет нам принимать более правильные решения.+Я подумала, что будет лучше, если ты еще немного отдохнешь, потому что я сама способна справиться с такой мелочью.
 RO635(4)<Speaker>RO635</Speaker>;SOPII(2)||：I know that you are concerned about me, but...you should have reported this to me earlier. I wouldn't have refused to let you go.
 RO635(4);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：What about Helian and the Commander? It's not that I don't trust them, but they care for us too much. They wouldn't have allowed me to retrieve M16's stuff with my own two hands.
 RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||：...Retrieving it with your own two hands... Does it matter to you that much?
@@ -42,3 +42,4 @@ RO635(4)<Speaker>RO635</Speaker>;SOPII(2)||：(Sigh) Either way, it seems like i
 RO635(4);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Isn't this perfect, though?+I was just thinking that it'd be too boring to end the day having done nothing besides running some errands.
 RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Ha...that's true. That's certainly more like your style, SOP II.
 RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>：Hehe, looks like you're adapting well to the team!
+
