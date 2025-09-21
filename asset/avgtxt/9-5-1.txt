@@ -1,21 +1,22 @@
-()||<BIN>79</BIN><BGM>BGM_Room</BGM>：Meanwhile at the military banquet.
-NPC-Carter(0)<Speaker>Carter</Speaker>||：Well then, let's get down to business.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Carter(0)||：I'm listening.
-NPC-Kyruger(0);NPC-Carter(0)<Speaker>Carter</Speaker>||：As this will be a PR exercise, the military won't be able to deploy any heavy armored forces.+As such, Captain Yegor will lead three special mixed squadrons consisting of spec ops infantry and Dolls. They will be moving alongside your forces.+Furthermore, we will grant Griffin access to our network so that you may link up with the military's intelligence system.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Carter(0)||：I'm glad to have access to military intelligence, but Sangvis Ferri has previously utilized a virus known as "Parapluie" to infiltrate our T-Dolls' systems.
-NPC-Kyruger(0);NPC-Carter(0)<Speaker>Carter</Speaker>||：Yes...I'm aware of that, and we've already taken appropriate measures.+I will request for an even higher tier of active defense system and utilize our central servers to carry out cyberwarfare countermeasures.+Besides, it's merely a virus created by a private enterprise, I don't believe it'll be a serious threat.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Carter(0)||：Very well, as long as you're prepared.
-NPC-Kyruger(0);NPC-Carter(0)<Speaker>Carter</Speaker>||：Based on the information from File No.7, we can roughly pinpoint the location of where Lyco set up the main computer cluster for that AI of his.+Our main objective - Eliminate everything, meaning all the Sangvis Ferri, aside from "Elisa" the Mastermind, and retrieve her.+The media will be observing for the entire duration of the joint exercise. Although we've imposed some restrictions on the reporters, Yegor's squads still won't be able to act very freely.+Therefore, after the peripheral support is in place, we'll be relying on your T-Dolls to carry out Elisa's capture.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Carter(0)||：Understood. I'll be working on the preparations for the intelligence synchronization process. My Commander here will be in charge of the combat-related details.
-NPC-Kyruger(0);NPC-Carter(0)<Speaker>Carter</Speaker>||：Right, Commander, whether you can restore peace to areas under your jurisdiction will depend upon this operation. I'll leave the specifics for you and Captain Yegor to discuss.+Then, let's... What?
-NPC-Kyruger(0);NPC-Yegor(0)<Speaker></Speaker>||：...Yegor whispers something into Carter's ear.
-NPC-Kyruger(0);NPC-Carter(0)<Speaker>Carter</Speaker>||<黑屏1>：I apologize, something has come up. Please remain here, I'll be right back.
-()||<黑屏2>：Carter and Yegor leave.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||：Restore peace, huh... Were it so easy...
-NPC-Kyruger(0);NPC-Havel(0)<Speaker>Havier</Speaker>||：What's this? Are you starting to doubt the objective of this operation?
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Havel(0)||：Looks like you picked the perfect time to return.
-NPC-Kyruger(0);NPC-Havel(0)<Speaker>Havier</Speaker>||：I've greeted everyone that I should greet, and the chairs downstairs aren't as comfortable as the ones here... The people too.
-NPC-Kyruger(0)<Speaker></Speaker>;NPC-Havel(0)||：Kryuger glances at the doorway.
-NPC-Kyruger(0);NPC-Havel(0)<Speaker>Havier</Speaker>||：Don't worry, Carter won't be back for another five minutes.+Even though Griffin has been continually placing orders with my company, we haven't talked face to face like this for quite a long while now.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Havel(0)||：I believe there was some...misunderstanding earlier.
-NPC-Kyruger(0);NPC-Havel(0)<Speaker>Havier</Speaker>||<黑屏1>：Yup yup, that's right, just a misunderstanding. Why don't we have a nice chat? Perhaps we'll even solve this "misunderstanding" of ours.
+()||<BIN>79</BIN><BGM>BGM_Room</BGM>：Тем временем на банкете военных.
+NPC-Carter(0)<Speaker>Картер</Speaker>||：Что ж, тогда давайте перейдем к делу.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Carter(0)||：Я слушаю.
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>Картер</Speaker>||：Поскольку это будет PR акция, военные не смогут задействовать какие-либо тяжелые бронетанковые силы.+Капитан Егор возглавит три специальных смешанных подразделения, состоящих из пехоты спецназа и Кукол. Они будут передвигаться совместно с вашими войсками.+ Кроме того, мы предоставим Грифону доступ к нашей сети, чтобы вы могли подключиться к системе военной разведки.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Carter(0)||：Я рад, что у меня появится доступ к военной разведке, но Сангвис Ферри ранее использовал вирус, известный как "Параплюй", для проникновения в системы наших Т-Кукол.
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>Картер</Speaker>||：Да...Я знаю об этом, и мы уже приняли соответствующие меры.+ Я попрошу установить систему активной защиты еще более высокого уровня и использовать наши центральные серверы для противодействия кибератакам.+ Кроме того, это всего лишь вирус, созданный частным предприятием, и я не верю, что он будет представлять серьезную угрозу.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Carter(0)||：Очень хорошо, если вы будете подготовлены.
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>Картер</Speaker>||：Основываясь на информации из файла № 7, мы можем приблизительно определить местоположение того места, где Лико установил главный компьютерный кластер для своего искусственного интеллекта.+Наша главная цель - уничтожить всех, то есть всех Сангвис Ферри, за исключением "Элизы", организатора, и вернуть ее.+ СМИ будут наблюдать за ходом совместных действий в течение всего периода их проведения. Несмотря на то, что мы ввели некоторые ограничения для репортеров, отряды Егора все равно не смогут действовать свободно.+ Поэтому, после того, как будет обеспечена периферийная поддержка, мы будем полагаться на ваших Кукол , которые помогут нам захватить Элизу.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Carter(0)||：Понял. Я буду работать над подготовкой к процессу синхронизации разведывательных данных. Мой командир здесь будет отвечать за детали, связанные с боем.
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>Картер</Speaker>||：Итак, Командир, сможете ли вы восстановить мир в районах, находящихся под вашей юрисдикцией, будет зависеть от этой операции. Я оставлю детали для обсуждения вам с капитаном Егором.+Тогда давайте... Что?
+NPC-Kyruger(0);NPC-Yegor(0)<Speaker></Speaker>||：...Егор что-то нашёптывает на ухо Картеру..
+NPC-Kyruger(0);NPC-Carter(0)<Speaker>Картер</Speaker>||<黑屏1>：Прошу прощения, кое-что произошло. Пожалуйста, оставайтесь здесь, я скоро вернусь.
+()||<黑屏2>：Картер и Егор уходят.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>||：Восстановить мир, ха... Если бы это было так просто...
+NPC-Kyruger(0);NPC-Havel(0)<Speaker>Хавьер</Speaker>||：Что это такое? Начинаете сомневаться в цели этой операции?
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Havel(0)||：Похоже, ты выбрал идеальное время для возвращения.
+NPC-Kyruger(0);NPC-Havel(0)<Speaker>Хавьер</Speaker>||：Я поздоровался со всеми, с кем должен был, и стулья внизу не такие удобные, как здесь... Люди тоже.
+NPC-Kyruger(0)<Speaker></Speaker>;NPC-Havel(0)||：Крюгер бросает взгляд на дверной проем.
+NPC-Kyruger(0);NPC-Havel(0)<Speaker>Хавьер</Speaker>||：Не переживай, Картер вернется только через минут пять.+ Несмотря на то, что Грифон постоянно размещает заказы в моей компании, мы уже довольно давно не общались с глазу на глаз.
+NPC-Kyruger(0)<Speaker>Крюгер</Speaker>;NPC-Havel(0)||：Я полагаю, что ранее произошло некоторое... недоразумение.
+NPC-Kyruger(0);NPC-Havel(0)<Speaker>Хавьер</Speaker>||<黑屏1>：Да, да, это так, просто недоразумение. Почему бы нам не поболтать по-хорошему? Возможно, мы даже разрешим это наше "недоразумение".
+
