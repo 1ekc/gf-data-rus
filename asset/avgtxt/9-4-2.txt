@@ -16,30 +16,31 @@ RO635(0)<Speaker>RO635</Speaker>;SOPII(3)||：Значит, причина, по
 RO635(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Извини...Я рассчитывала вернуться до того, как ты проснешься... Поскольку это было не очень далеко, я подумала, что будет безопаснее пойти одной...
 RO635(4)<Speaker>RO635</Speaker>;SOPII(2)||：Т.е. ты думала, что я буду тебя тормозить?
 RO635(4);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Нет...я не это имела в виду.+М16 однажды сказала, что наличие эмоций позволяет нам принимать более правильные решения.+Я подумала, что будет лучше, если ты еще немного отдохнешь, потому что я сама способна справиться с такой мелочью.
-RO635(4)<Speaker>RO635</Speaker>;SOPII(2)||：I know that you are concerned about me, but...you should have reported this to me earlier. I wouldn't have refused to let you go.
-RO635(4);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：What about Helian and the Commander? It's not that I don't trust them, but they care for us too much. They wouldn't have allowed me to retrieve M16's stuff with my own two hands.
-RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||：...Retrieving it with your own two hands... Does it matter to you that much?
-RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：We'll be able to gain some firsthand information on M16's disappearance this way.+Look, there are bullet holes here and indications that it was dropped on its side. It was probably shot down from the air...
+RO635(4)<Speaker>RO635</Speaker>;SOPII(2)||：Я знаю, что ты беспокоишься обо мне, но... тебе следовало сообщить мне об этом раньше. Я бы разрешила тебе отлучиться.
+RO635(4);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：А что Хелиан и Командир? Не то чтобы я им не доверяла, но они слишком заботятся о нас. Они бы не позволили мне забрать вещи М16 самой.
+RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||：...Забрать своими руками... Это дял тебя так важно?
+RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Так, мы сможем получить информацию об исчезновении M16 из первых рук.+Смотри, здесь есть отверстия от пуль и признаки того, что его уронили на бок. Вероятно, он был сбит с воздуха...
 RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||：......
-RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：There aren't any other signs of damage. It seems that at the very least, M16 was safe at the time when she sent this out.+And since she was able to send it out, it probably means that she wasn't in a dangerous area, so...I think we can relax for now.
-RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||<BGM>BGM_Empty</BGM>：SOP II...+You're...unexpectedly smart today.
-RO635(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：W-What is that supposed to mean!+I'm not dumb! I just have a one-track mind, that's all!
-RO635(2)<Speaker>RO635</Speaker>;SOPII(3)||<BGM>BGM_Room</BGM>：I know, I know. AAT-52 once said something similar. "I'm not stupid, I'm just inefficient at multiprocessing."+Though, I'm glad that it's you, SOP II. If any other Doll tried to do the things you did today, I'm sure we wouldn't even be alive right now.+Perhaps I should update my information on the AR Team as I've always thought of you guys as unprofessional goofs...
-RO635(2);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：The AR Team is certainly not as capable as the top elite T-Dolls, but we have far more autonomy.+That's why operating under M4's command allows us to achieve the full potential of our operational efficiency.+RO, if you really want to become a member of the AR Team, then you must think from our perspective and not merely follow orders from above.
-RO635(2)<Speaker>RO635</Speaker>;SOPII(3)||：Being lectured by a serious SOP II... This is my first time seeing you like this. Sorry, for some reason I feel like laughing, haha...
-RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Haha, laugh if you wanna. This is what AR15 taught me back then, and I've always kept it in my mind.+Yeah... AR15... She talked about so many things, but I understood so little.
-RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||：AR15...+Yeah, I'm like that as well...+I understand too little... But...I've also learned a lot.
-RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Yup, everyone is a good person. That's why I like everyone so much.
-RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||：Am I included in that "everyone"?
-RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Of course! I like you too, RO.
-RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Heh... Even though I know what you mean, hearing it like that is a little embarrassing...
-RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Really? I've always talked like this.
-RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||<BGM>BGM_Empty</BGM>：Okay! Let's get out of here first. It'll be dangerous if we stay here for too long.
+RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Других признаков повреждения нет. Похоже, что М16 была в безопасности в то время, когда отправляла это письмо.+И поскольку она смогла отправить его, вероятней всего, что она не была в опасной зоне, так что...Я думаю мы можем слегка расслабиться.
+RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||<BGM>BGM_Empty</BGM>：SOP II...+Ты...неожиданно умна сегодня.
+RO635(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Ч-что ты хочешь этим сказать!+Я не тупая! У меня просто "однобокое" мышление, и только!
+RO635(2)<Speaker>RO635</Speaker>;SOPII(3)||<BGM>BGM_Room</BGM>：Я знаю, я знаю. AAT-52 однажды сказала нечто похожее. "Я не глупая, я просто неэффективно в многолзаданости."+Думаю, у тебя так же, SOP II. Если бы любая другая Кукла пыталась сделать то, что ты сделала сегодня, я уверена, нас бы сейчас уже не было в живых.+Возможно, мне следует обновить свою информацию о команде AR, поскольку я всегда считала вас, ребята, тупыми непрофессионалами...
+RO635(2);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Команда AR, конечно, не так сильна, как элитные Т-Куклы, но у нас гораздо больше автономии.+Именно поэтому работа под руководством M4 позволила нам в полной мере реализовать весь потенциал нашей операционной эффективности.+RO, если ты действительно хочешь быть членом команды AR, то ты должна мыслить с нашей точки зрения, а не просто выполнять приказы сверху.
+RO635(2)<Speaker>RO635</Speaker>;SOPII(3)||：Выслушивать нотации от серьезной SOP-II... Я впервые вижу тебя в таком состоянии. Извини, мне почему-то хочется рассмеяться, ха-ха...
+RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Хаха, смейся сколько хочешь. Это то, чему AR15 научила меня, и я всегда помнила об этом.+Да... AR15... Она говорила о стольких вещах, но я так мало их понимала.
+RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||：AR15...+Да, у меня также...+Я слишком мало понимаю... Но...Я тоже многому научилась.
+RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Да, нас окружают хорошие соратники. Вот почему мне все так нравятся.
+RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||：А я включена в список "всех"?
+RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Кончено! Ты ммне нравишься, RO.
+RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Хех... Даже при том, что я понимаю, что ты имеешь в виду, мне немного неловко это слышать...
+RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Серьезно? Я всегда говорю именно так.
+RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||<BGM>BGM_Empty</BGM>：Ок! Давай сначала выберемся отсюда. Чем дольше здесь остаемся, тем опаснее становится
 RO635(4)<Speaker>RO635</Speaker>;SOPII(0)||<BGM>BGM_Danger</BGM>：......!
-RO635(4)<Speaker>RO635</Speaker>;SOPII(0)||：Hold up! I've detected the signal of an advanced Sangvis T-Doll rapidly approaching in this direction!
-RO635(4);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Were we discovered?
-RO635(4)<Speaker>RO635</Speaker>;SOPII(2)||：(Sigh) Either way, it seems like it won't be easy for us to escape...
-RO635(4);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Isn't this perfect, though?+I was just thinking that it'd be too boring to end the day having done nothing besides running some errands.
-RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Ha...that's true. That's certainly more like your style, SOP II.
-RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>：Hehe, looks like you're adapting well to the team!
+RO635(4)<Speaker>RO635</Speaker>;SOPII(0)||：Стой! Я засекла сигнал от элитной Т-Куклы Сангвиса, быстро приближающейся в этом направлении!
+RO635(4);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Нас засекли?
+RO635(4)<Speaker>RO635</Speaker>;SOPII(2)||：(Вздыхает) В любом случае, похоже, нам будет нелегко сбежать...
+RO635(4);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Разве это не прекрасно?+ Я просто подумала, что было бы слишком скучно заканчивать день, ничего не сделав, кроме выполнения некоторых поручений.
+RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：ХА...верно. Это определенно в твоём стиле, SOP II.
+RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>：Хехе, похоже, ты хорошо адаптируешься к команде!
+
 
