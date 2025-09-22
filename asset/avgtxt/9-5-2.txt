@@ -1,35 +1,36 @@
 ()||<BGM>BGM_Battle</BGM><BIN>2</BIN>：......
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：RO, watch out!
-()||<SE1>Battlefield</SE1>：...Boom!
-RO635(5)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>：...!+That's...+Where's the enemy?! Do you see them?!
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：West 245 degrees, 200 meters away, four of them! Suppress them, quickly!
-RO635(4)<Speaker>RO635</Speaker>||：I can only spare one magazine for suppression. I don't have much ammo left.
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Where's our reinforcements?!
-RO635(4)<Speaker>RO635</Speaker>||：I just contacted the Commander. They're coming for us now!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：RO, берегись!
+()||<SE1>Battlefield</SE1>：...Бабах!
+RO635(5)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>：...!+Что...+Где противник?! Ты их видишь?!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：К западу 245 градусов, 200 метров, четверо! Скорей, уничтожь их!
+RO635(4)<Speaker>RO635</Speaker>||：Я могу потратить только один магазин на подавление. У меня осталось не так много патронов.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Где наше подкрепление?!
+RO635(4)<Speaker>RO635</Speaker>||：Я только что связалась с Командиром. Они уже едут за нами!
 ()||：
-???()<Speaker>???</Speaker>||：Griffin Tactical Dolls RO635 and M4 SOPMOD II! Stop resisting and surrender immediately.+I do not like hide and seek, nor do I like the either of you. Do not expect me to be patient with things I dislike.
-RO635(4)<Speaker>RO635</Speaker>||：That voice must be a Sangvis Ringleader! SOP II, can you locate her?
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：I'm only able to capture a rough projection. She's blocking our retreat route!
-RO635(4)<Speaker>RO635</Speaker>||：...No good, it's too far away. We'll be dead if we abandon cover right now.+The enemy must be a very advanced Doll to be able to see through my disguised signal...
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：But she's blocking our retreat route! It'll be just as dangerous if we stay here!
-RO635(4)<Speaker>RO635</Speaker>||：No, we need to hold out for our reinforcements. They're not too far away!
+???()<Speaker>???</Speaker>||：Тактические Куклы Грифона RO635 и M4 SOPMOD II! Перестаньте сопротивляться и немедленно сдайтесь.+Я очень не люблю прятки, и вы мне тоже не нравитесь. Не рассчитывайте, что я буду терпелива к тому, что мне не нравится.
+RO635(4)<Speaker>RO635</Speaker>||：Этот голос, должно быть, принадлежит главарю Сангвис! SOP II, ты можешь ее найти?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Я могу зафиксировать только приблизительную точку проекции. Она перекрывает нам путь отступления!
+RO635(4)<Speaker>RO635</Speaker>||：...Не годится, это слишком далеко. Если мы сейчас покинем укрытие, то погибнем.+ Противник, должно быть, очень продвинутая кукла, раз смогла раскусить мой замаскированный сигнал...
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Но она блокирует путь к отступлению! Оставаться здесь будет не менее опасно!
+RO635(4)<Speaker>RO635</Speaker>||：Нет, мы должны дождаться подкрепления. Они уже недалеко!
 ()||：
-???()<Speaker>???</Speaker>||：Still no response? In any case, state your intention. Whether you wish to surrender or fight, I'm ready for you.+Escape is impossible though, so do not try anything that will anger me.
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Sounds like an overconfident bastard... Step a little closer and I can pull the trigger on you...
-RO635(5)<Speaker>RO635</Speaker>||：Hold it! Wait until she gets closer!+The enemy is an unidentified Doll and we're not clear on her capabilities, so don't act recklessly.
+???()<Speaker>???</Speaker>||：Все еще не отвечаете? В любом случае, скажите, что вы собираетесь делать. Хотите ли вы сдаться или сражаться, я готова к любому варианту.+Побег невозможен, так что не пытайтесь сделать что-то, что вызовет мою ярость.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Похоже на самоуверенную сучку... Пусть сделает ещё один шаг, и я нажму на курок...
+RO635(5)<Speaker>RO635</Speaker>||：Стой! Подожди, пока она подойдет ближе!+Враг — неопознанная кукла, и мы не знаем, на что она способна, так что не действуй опрометчиво.
 ()||：
-???()<Speaker>???</Speaker>||：I'm not here to eliminate you. At least, not today. I only wish to ask you a few simple questions.+...That Doll, M4A1, is she with you?
-RO635(0)<Speaker>RO635</Speaker>||：...What?!
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：You're asking for it now!!
-RO635(5)<Speaker>RO635</Speaker>||：Don't be reckless! SOP II!
-()||<SE1>Gunfight</SE1>：......!!+...The sounds of gunshots echo through the communicator.
+???()<Speaker>???</Speaker>||：Я здесь не затем, чтобы устранять тебя. Не сегодня, во всяком случае. Я только хочу задать тебе несколько простых вопросов.+...Эта кукла, M4A1, она с тобой?
+RO635(0)<Speaker>RO635</Speaker>||：...Что?!
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Ты сама напросилась!
+RO635(5)<Speaker>RO635</Speaker>||：Успокойся и будь осторожнее! SOP II!
+()||<SE1>Gunfight</SE1>：......!!+...Звуки выстрелов эхом раздаются в коммуникаторе.
 RO635(0)<Speaker>RO635</Speaker>||：......!
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Huh? That wasn't me...right?
-RO635(5)<Speaker>RO635</Speaker>||：You nearly got your head blown off there!+Great news, the Commander's reinforcements are here! Let's make use of this chance now!
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Э? Это была не я... правда?
+RO635(5)<Speaker>RO635</Speaker>||：Тебе чуть не оторвало голову! + Отличная новость, подкрепления Командира уже здесь! Давай воспользуемся этим шансом!
 ()||：
-???()<Speaker>???</Speaker>||：So there are other Griffin T-Dolls? Very well, eliminate them all. It won't be too late to question you after.+...All troops, proceed with plan C.
-RO635(4)<Speaker>RO635</Speaker>||：Damn it, the enemy has reinforcements too!
+???()<Speaker>???</Speaker>||：Так есть еще другие Т-Куклы Грифона? Очень хорошо, устраним их всех. После этого будет еще время задать тебе вопросы.+...Все войска, приступайте к плану C.
+RO635(4)<Speaker>RO635</Speaker>||：Черт, у врага тоже есть подкрепления!
 ()||：
-？？？()<Speaker>？？？</Speaker>||：So you have a human commander on your side. This will certainly be an interesting experience...+Hmm...I will give you some time to consider your options by matching Griffin's number of troops, but don't expect your reinforcements to save you.+My judgment is absolute, and none can defy it.
-RO635(5)<Speaker>RO635</Speaker>||<黑屏1>：...You bastard, who in the world are you?
-BossJustice(0)<Speaker>Judge</Speaker>||<黑屏1><BIN>9</BIN><黑屏2>：Judge, Sangvis Ferri Manufacture.+Perseverance, justice, and fairness. If you do not wish to lose your way on the path of injustice, then give me the answer I seek...+And I will...reconsider the value of your existence.
+？？？()<Speaker>？？？</Speaker>||：Так на вашей стороне есть человеческий командир. Это, безусловно, будет интересный опыт... + Хм... Я дам вам время, чтобы обдумать варианты, уравняв количество войск с Грифоном, но не надейтесь, что подкрепления спасут вас. + Моё решение окончательно, и никто не может ему противостоять.
+RO635(5)<Speaker>RO635</Speaker>||<黑屏1>：...Сука, кто ты ять такая?
+BossJustice(0)<Speaker>Судья</Speaker>||<黑屏1><BIN>9</BIN><黑屏2>：Судья, Производство Сангвис Ферри.+Настойчивость, справедливость и честность. Если ты не хочешь сбиться с пути несправедливости, то дай мне ответ, который я ищу...+И я...пересмотрю ценность твоего существования.
+
