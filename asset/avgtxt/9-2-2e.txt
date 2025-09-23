@@ -1,44 +1,45 @@
-()||<BIN>9</BIN><BGM>BGM_Sneak</BGM>：...Two hours later.
+()||<BIN>9</BIN><BGM>BGM_Sneak</BGM>：...Два часа спустя.
 M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：RO...?
-RO635(0)<Speaker>RO635</Speaker>||：Are you awake?
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：How long has it been?
-RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||：Around...two hours...?
-RO635(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Has it been that long already? ...What are you doing?
-RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||：A small transmitter was installed on M16's case, right?+I'm trying to amplify its signal. The Commander must be looking for us, so if we can get in touch then we'll have a chance at escape.
-RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Really? You can even do stuff like that?
-RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Well I certainly must be better than you in some respects if I'm weaker when it comes to stamina.+Alright, I guess we'll need to wait some time for it to recharge.
-RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：This needs recharging?
-RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Transmitting a powerful signal does require a certain amount of energy.+I'm slowly transferring energy from my backup battery so that I won't collapse while charging it.
-RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：S-Sounds very high tech. The AR Team has never done something like this before; this is probably the first time.
-RO635(2)<Speaker>RO635</Speaker>||<黑屏1>：Haha, then I'm honored to be the first.+Ah right, why don't you tell me some stories about the AR Team? We're gonna have to wait a while anyway.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>：Hmm...+Past stories, huh? Let me think.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>：Ah, I thought of something!+I remember when the AR Team had our first exercise, and it was a complete disaster!
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<BIN>74</BIN><黑屏2><BGM>BGM_Room</BGM>：...We spent a total of five hours.+M4A1 alone wasted us two hours on correcting her orders.+In those two hours, we entered the wrong rooms, spent 20 minutes wading through cold water, shot the wrong targets, and broke three clocks that happened to chime and startle M4.
-RO635()<Speaker>RO635</Speaker>||：Wow... That's really out of my expectations. Even an average T-Doll team leader wouldn't make so many mistakes in one exercise...
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Probably because she was a new model of a command-type T-Doll. You know, we thought we had joined an elite squad only to realize that the leader was such an unreliable person.+And AR15 is...you know, the type to value results the most, and she had hatred written all over her face by the end of it.+M4 was so frightened, so she kept asking M16 what to do since M16 was the only one willing to talk to her.+M16 told M4 to not worry about AR15, because she would make even more mistakes and anger even more people if she dwelled on it.+M4 stayed silent for a while, then told M16 that she couldn't do that because it wouldn't solve the problem.+So she went over to AR15 to apologize and said it wasn't on purpose. AR15 just glared at her and said, "You should've listened to M16" and walked away.+M4 was super frightened and probably wanted to return and explain to M16, so she immediately turned around. She forgot that M16 was right behind her and ended up crashing straight into M16.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<BIN>75</BIN>：The worst part was that M4's gun stock smacked right into M16's stomach!
-RO635()<Speaker>RO635</Speaker>||：Ouch...that must've hurt.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Yeah, pretty sure no one had seen M16 make an expression like that before.+Then, M16 gritted her teeth and said, "Look, now you've made an even bigger mistake of pissing me off."
-RO635()<Speaker>RO635</Speaker>||：Haha, so did you guys manage to complete that exercise?
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：We barely made it. Just that at the end...and this is the best part, you gotta listen to this!
-RO635()<Speaker>RO635</Speaker>||：What?
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：M4 did something so shocking that we all ended up in tears!
-RO635()<Speaker>RO635</Speaker>||：Everyone? Did she do something touching?
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Well...she messed up with the tear gas grenade.+We were about to destroy the final target, but M4 was so nervous...+She made a mistake and tossed that thing out while we were all firing. What's even worse is that she miscalculated the angle, so...it bounced back at us.
-RO635()<Speaker>RO635</Speaker>||：Hey...that's not really a mistake that a Doll is capable of making.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：So we were all up the creek without a paddle. Everyone ended up crying their hearts out in the tear gas.+AR15 was crying while trying to smack M4, you know? She was seriously trying to hit her...+But she couldn't see properly, so she stuck her arm out and yelled "M4! You idiot!"+"You're hopeless! Your brain is biowaste just like a lobster! I'm gonna grab you by the collar and smack that idiocy out of your neural cloud once I catch you! Once I catch you!"+Then M16 said "Now, now, AR15. We got the target at least. Besides, M4's shirt doesn't even have a collar, so you'll only be able to yank her hair like how human females fight."
-RO635()<Speaker>RO635</Speaker>||：Haha, I've seen that happen several times in my old team over a bag of rations or some bottles of water...+Was M16 crying too?
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Of course. This was probably the only time M16 ever cried so hard, but I wasn't able to see clearly.+That's because I was crying too, but I was also laughing at the same time... Yeah, don't you think it was super funny?+Everyone was so serious before the exercise. It was only when everyone was wailing and sniffling that I felt they were just like me.
-RO635()<Speaker>RO635</Speaker>||：What about M4? Did she do anything while she was crying?
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：She didn't do anything at all!+She was the only one seriously crying, and the loudest one as well. She kept saying "It's my fault, it's my fault! I'm sorry!"+She was just like a bullied kid I once saw in a movie. I have no idea how she managed to emulate the look so perfectly!+It was super embarrassing how our leader was so useless! And making fools out of the rest of us as well, hahaha! I would love to see it happen again!+Hahaha...
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<BIN>76</BIN>：Ha...+......+Though...it's probably impossible at this point...
-RO635()<Speaker>RO635</Speaker>||：SOP II...+It's still possible. M16 must be waiting for us somewhere, and AR15... Well, many things are still unconfirmed, right?+As long as we survive, there will surely be a way in the future.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Yeah... RO, why do you think we have emotion modules?
-RO635()<Speaker>RO635</Speaker>||：About that...
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：I once asked M16. She said maybe it is to prove that we aren't simply killing machines.+We possess emotions, so we're different from those cold, emotionless military Dolls...+But some people also said that emotions are our weakness and a proof of our defectiveness...+What do you think? Does the fact that we possess emotions...mean that we are defective?
-RO635()<Speaker>RO635</Speaker>||：I don't know...+But emotion modules are something that humans gave to us. No one would intentionally make their own products defective, right?+So...there must be some meaning to all of this.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Maybe they just thought that it'd be funny to do so. Maybe they don't really care about us.
-RO635()<Speaker>RO635</Speaker>||：Heh, if they really didn't care about us, we'd be free.+Without an objective, there would be no order. That's what Makarov said to me after returning from a night mission one time.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Wow... RO, that's...an interesting way of thinking.+At the very least, I don't regret being equipped with an emotion module. It's thanks to this module that I can keep AR15 and M16 close to my heart and work hard toward reuniting with them.
-RO635()<Speaker>RO635</Speaker>||<黑屏1>：Yeah...+Unfortunately...emotions aren't gonna help right now. What we need to do is survive.
-RO635()<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏1>：We absolutely...have to survive.
+RO635(0)<Speaker>RO635</Speaker>||：Ты проснулась?
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Как долго я спала?
+RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||：Около... двух часов...?
+RO635(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Неужели уже столько прошло? ...Что ты делаешь?
+RO635(0)<Speaker>RO635</Speaker>;SOPII(2)||：На корпусе M16 был установлен небольшой передатчик, верно? Я пытаюсь усилить его сигнал. Командир, наверное, ищет нас, так что, если нам удастся связаться с ним, у нас будет шанс сбежать.
+RO635(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Правда? Ты даже такое можешь проделывать?
+RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Ну, я, конечно, должна быть лучше тебя в некоторых аспектах, если я слабее в плане выносливости.+Ладно, полагаю, нам придется немного подождать, пока он перезарядится.
+RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Ему нужна подзарядка?
+RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Для передачи мощного сигнала требуется определенное количество энергии.+Я постепенно переношу энергию из своей резервной батареи, чтобы не произошел сбой во время зарядки.
+RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：З-звучит очень высокотехнологично. Команда AR никогда раньше не делала ничего подобного; вероятно, это будет впервые.
+RO635(2)<Speaker>RO635</Speaker>||<黑屏1>：Ха-ха, тогда для меня большая честь быть первой. + Ах да, почему бы тебе не рассказать мне несколько историй о Команде AR? В любом случае, нам придется немного подождать.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>：Хм...+Истории из прошлого, да? Дай-ка подумать.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>：Ах, я кое-что вспомнила!+Я помню, когда Команда AR проводила наше первую тренировку, и это было полное фиаско!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<BIN>74</BIN><黑屏2><BGM>BGM_Room</BGM>：...В общей сложности мы потратили пять часов. +M4A1 одна потратила два часа на исправление своих приказов. +За эти два часа мы зашли не в те комнаты, провели 20 минут, бродя по холодной воде, стреляли не в те цели и разбили трое часов, которые случайно прозвонили и напугали M4.
+RO635()<Speaker>RO635</Speaker>||：Вау... Это действительно за пределами моих ожиданий. Даже средний командир команды Т-Кукол не допустил бы столько ошибок в одной тренировке...
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Вероятно, потому что она была новой моделью Т-Куклы командного типа. Знаешь, мы думали, что присоединились к элитной команде, но потом поняли, что ее лидер — совершенно ненадежный персонаж.+А AR15 — это... ну, знаешь, она из тех, кто ценит результат больше всего, и к концу операции на ее лице было написано полное отвращение.+M4 была так напугана, что все время спрашивала M16, что делать, потому что M16 была единственной, кто была готова с ней разговаривать.+M16 сказала M4, чтобы она не беспокоилась об AR15, потому что, если она будет об этом думать, то совершит еще больше ошибок и разозлит еще больше людей. +M4 помолчала, а потом сказала M16, что не может так поступить, потому что это не решит проблему.+Поэтому она подошла к AR15, чтобы извиниться, и сказала, что это было не нарочно. AR15 только гневно посмотрела на нее и сказала: «Тебе следовало послушать M16», — и ушла.+M4 была очень напугана и, вероятно, хотела вернуться и объясниться с M16, поэтому она сразу же развернулась. Она забыла, что M16 была прямо за ней, и в результате столкнулась с M16.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<BIN>75</BIN>：Хуже всего было то, что приклад M4 ударил прямо в живот M16!
+RO635()<Speaker>RO635</Speaker>||：Ой... наверное, больно было.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Да, я уверена, что никто раньше не видел, чтобы М16 делала такое выражение лица.+Затем М16 стиснула зубы и сказала: «Слушай, теперь ты совершила еще большую ошибку, разозлив меня».
+RO635()<Speaker>RO635</Speaker>||：Ха-ха, так вам удалось выполнить эту тренировку?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Мы едва успели. Просто в конце... и это самая лучшая часть, ты должна это услышать!
+RO635()<Speaker>RO635</Speaker>||：Что?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：M4 сделала что-то настолько шокирующее, что мы все прослезились!
+RO635()<Speaker>RO635</Speaker>||：Все? Она сделала что-то трогательное?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Ну... она напортачила с гранатой со слезоточивым газом. Мы собирались уничтожить последнюю цель, но M4 так нервничала... Она ошиблась и бросила эту штуку, пока мы все стреляли. Что еще хуже, она неправильно рассчитала угол, так что... граната отскочила обратно к нам.
+RO635()<Speaker>RO635</Speaker>||：Эй... это не та ошибка, которую Кукла способна совершить.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Так что мы все оказались в безвыходной ситуации. В конце концов, все расплакались под действием слезоточивого газа. +AR15 плакала, пытаясь ударить M4, представляешь? Она действительно пыталась ударить ее... +Но она не видела хорошо, поэтому вытянула руку и закричала: «M4! Ты идиотка!» +«Ты безнадежна! Твой мозг — биологический мусор, как у омара! Я схвачу тебя за воротник и выбью эту тупость из твоей нервной системы, как только поймаю! Как только поймаю!»+Тогда M16 сказала: «Ну-ну, AR15. По крайней мере, мы добрались до цели. К тому же, у M4 даже нет воротника, так что ты сможешь только дергать ее за волосы, как это делают человеческие женщины, когда дерутся».
+RO635()<Speaker>RO635</Speaker>||：Ха-ха, я видела, как это происходило несколько раз в моей старой команде из-за пакета с провизией или нескольких бутылок воды... + М16 тоже заплакала?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Конечно. Это был, наверное, единственный раз, когда М16 так сильно рыдала, но я не смогла это ясно разглядеть.+Это потому, что я тоже плакала, но в то же время я и смеялась... Да, разве это не было супер смешно?+Перед тренировкой все были такие серьезные. Только когда все стали рыдать и хлюпать носом, я почувствовала, что они такие же, как я.
+RO635()<Speaker>RO635</Speaker>||：А что насчет М4? Она что-нибудь сделала, пока плакала?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Она вообще ничего не сделала!+Она была единственной, кто серьезно плакал, и притом громче всех. Она все повторяла: «Это моя вина, это моя вина! Простите меня!»+Она была похожа на ребенка, над которым издевались, которого я однажды видела в фильме. Я понятия не имею, как ей удалось так идеально сымитировать этот взгляд!+Было очень стыдно за нашего бесполезного лидера! И за то, что он выставил нас всех на посмешище, ха-ха-ха! Я бы с удовольствием посмотрела на это еще раз!+Ха-ха-ха...
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<BIN>76</BIN>：Ха...+......+Хотя... на данный момент это, вероятно, невозможно...
+RO635()<Speaker>RO635</Speaker>||：SOP II...+Это все еще возможно. M16, наверное, где-то нас ждет, а AR15... Ну, многое еще не подтверждено, верно?+Пока мы существуем, в будущем обязательно найдется выход.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Да... RO, как ты думаешь, зачем нам нужны эмоциональные модули?
+RO635()<Speaker>RO635</Speaker>||：Об этом...
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Однажды я спросила М16. Она сказала, что, возможно, это для того, чтобы доказать, что мы не просто машины для убийства.+У нас есть эмоции, поэтому мы отличаемся от тех холодных, бесчувственных военных Кукол...+Но некоторые люди также говорили, что эмоции — это наша слабость и доказательство нашей несовершенности...+А что ты думаешь? Тот факт, что у нас есть эмоции... означает, что мы несовершенны?
+RO635()<Speaker>RO635</Speaker>||：Я не знаю...+Но эмоциональные модули — это то, что нам дали люди. Никто же не станет намеренно делать свои продукты бракованными, верно?+Значит... во всем этом должно быть какое-то значение.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Может быть, они просто подумали, что это будет забавно. Может быть, им на самом деле плевать на нас.
+RO635()<Speaker>RO635</Speaker>||：Эх, если бы они действительно наплевали на нас, мы были бы свободны. Без цели не было бы порядка. Так мне сказала Макаров, когда однажды вернулась с ночной миссии.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Вау... RO, это... интересный способ мышления.+По крайней мере, я не жалею, что у меня есть модуль эмоций. Благодаря этому модулю я могу сохранить AR15 и M16 в своем сердце и упорно работать над тем, чтобы воссоединиться с ними.
+RO635()<Speaker>RO635</Speaker>||<黑屏1>：Да... К сожалению... эмоции сейчас не помогут. Нам нужно выжить.
+RO635()<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏1>：Мы просто обязаны... выжить.
+
