@@ -1,23 +1,24 @@
 ()||<BIN>3</BIN><BGM>BGM_Room</BGM>：......
-RO635(3)<Speaker>RO635</Speaker>||：(Panting) We've...lost them...right?
-RO635(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：I think so... I'm not picking up any signals.
-RO635(3)<Speaker>RO635</Speaker>;SOPII(3)||：(Panting) Chasing after Judge on foot... Not only did we fail to capture her, (panting)...we even got lured into a jamming area ourselves. All our communications are completely blocked and there are several hundred Sangvis troops out there looking to kill us...+(Panting) We're almost out of ammo and power...and the worst part is having to carry this big case around... (panting)+If I had known that I would be suffering like this... I would've...would've stayed with Team Palette. At least AAT's nagging isn't fatal...or at least not so soon... (Panting)...
-RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Pfft...hahahahaha!
-RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：How...are you still...(panting) able to laugh...at a time like this...?
-RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Sorry, sorry. It's just that you're rambling on and on! Aren't you supposed to be the shining beacon of excellence, RO635?
-RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：Tch...you got me...
-RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：What? Are you drained of energy already?+You need to exercise more, RO, and do more logistics work.
-RO635(4)<Speaker>RO635</Speaker>;SOPII(0)||：Shush! It's because I'm a command-type T-Doll!+Yet, you... How is your stamina so good?
-RO635(4);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Because this is my specialty.+Within the AR Team, I specialize in long-distance tracking! It's my role!
-RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：(Sigh) And here I thought your role was supposed to be the interrogator after we track a target down, even though you can hardly call it interrogation...
-RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Sorry for making you suffer, but I didn't want to miss the chance at locating M16.+You always sounded so serious before, RO, and it always felt like there was something between us. This side of you is much cuter!
-RO635(4)<Speaker>RO635</Speaker>;SOPII(0)||：Cute? Is this the time to be calling me cute?!
-RO635(4);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：This angry side of you is also very cute.
-RO635(4)<Speaker>RO635</Speaker>;SOPII(0)||：Don't think that you can get through this one with flattery. I've repeatedly told you to follow instructions. Do you understand the consequences of your actions?
-RO635(4);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：I know...but I had to do SOMETHING...+Aren't you the same as well, RO? You could have stayed behind, yet you still decided to come with me.
-RO635(3)<Speaker>RO635</Speaker>;SOPII(2)||：(Sigh) That's because I promised the Commander that I would bring all of you back. Both you and M16.
-RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Mhm...I believe in you, as you've proven that you honor your promises.+You're a true member of the AR Team now.
-RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：I'm very happy to hear you say that...but what should we do now?
-RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：I don't know... I'm feeling very sleepy...
-RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：You must be approaching your limits... You haven't rested for an entire day, after all.+Get some rest now. I'll keep watch.
-RO635(0)<Speaker>RO635</Speaker>||<黑屏1>：I need to think of a way to restore communications... But how...
+RO635(3)<Speaker>RO635</Speaker>||：(Тяжело дышит) Мы... оторвались от них... верно?
+RO635(3);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Думаю, да... Я не улавливаю никаких сигналов.
+RO635(3)<Speaker>RO635</Speaker>;SOPII(3)||：(Тяжело дышит) Преследовать Судью пешком... Мы не только не смогли ее поймать (задыхается), но и сами попали в зону помех. Вся наша связь полностью заблокирована, а нас ищет несколько сотен солдат Сангвиса, чтобы убить... +(Задыхается) У нас почти кончились патроны и энергия... А хуже всего то, что приходится таскать с собой этот большой чемодан... (задыхаясь)... Если бы я знала, что мне придется так мучиться... я бы... я бы осталась с командой Palette. По крайней мере, ворчание AAT не смертельно... или, по крайней мере, не так скоро... (Тяжело дышит)...
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Пфф... хахахаха!
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：Как... ты всё ещё...(тяжело дышит) спосбна смеяться... в такой момент...?
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Прости, прости. Просто ты без конца тараторишь! Разве ты не должен быть ярким примером профессионализма, RO635?
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：Тч... ты подловила меня...
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Что? Ты уже выдохлась?+Тебе нужно больше заниматься спортом, RO, и больше заниматься организацией.
+RO635(4)<Speaker>RO635</Speaker>;SOPII(0)||：Цыц! Это потому, что я Т-Кукла командного типа!+Но ты... Откуда у тебя такая выносливость?
+RO635(4);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Потому что это моя специальность. В команде AR я специализируюсь на выслеживании на больших расстояниях! Это моя роль!
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||：(Вздох) А я-то думала, что твоя роль заключается в допросе после того, как мы выследим цель, хотя это и трудно назвать допросом...
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Извини, что заставляю тебя волноваться, но я не хотела упустить шанс найти M16.+Раньше ты всегда говорила так серьезно, RO, и мне всегда казалось, что между нами была какая-то преграда. А сейчас ты гораздо милее!
+RO635(4)<Speaker>RO635</Speaker>;SOPII(0)||：Милая? Разве сейчас время называть меня милой?!
+RO635(4);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Такая сердитая сторона твоей личности тоже очень милая.
+RO635(4)<Speaker>RO635</Speaker>;SOPII(0)||：Не рассчитывай, что тебе удастся выйти из этой ситуации с помощью лести. Я неоднократно говорила тебе, что нужно следовать инструкциям. Ты понимаешь последствия своих действий?
+RO635(4);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Я знаю... но я должна была ХОТЬ ЧТО-ТО сделать... + Разве ты не такая же, RO? Ты могла бы остаться, но все же решила пойти со мной.
+RO635(3)<Speaker>RO635</Speaker>;SOPII(2)||：(Вздыхает) Это потому, что я обещала командиру, что верну вас всех. И тебя, и М16.
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：М-м... Я верю в тебя, ведь ты доказала, что держишь свои обещания. Теперь ты настоящий член команды AR.
+RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Я очень счастлива услышать это от тебя... но что нам теперь делать?
+RO635(2);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Я не знаю... Мне очень хочется спать...
+RO635(2)<Speaker>RO635</Speaker>;SOPII(0)||：Ты, наверное, уже на пределе... В конце концов, ты не отдыхала целый день.+Отдохни сейчас. Я буду дежурить.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>：Мне нужно придумать способ восстановить связь... Но как...
+
