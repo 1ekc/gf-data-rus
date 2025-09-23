@@ -1,73 +1,74 @@
-()||<BIN>2</BIN><BGM>BGM_Sneak</BGM>：Battle ends.
-BossJustice(0)<Speaker>Judge</Speaker>||：The scent of the AR Team in the air. The ground littered with Sangvis remains. An empty factory with a signal transmitter inside.+What an insult if you're planning to ambush me here.
-RO635(5)<Speaker>RO635</Speaker><通讯框>||：Now!
-NEGEV(0)<Speaker>Negev</Speaker><通讯框>||：Attack! Attack! Kill her here!
-()||<SE2>Gunfight</SE2>：...Griffin focuses their ferocious firepower on Judge, but she remains unscathed.
-BossJustice(0)<Speaker>Judge</Speaker>||：So you're firing from three different directions... Interesting.
-RO635(5)<Speaker>RO635</Speaker><通讯框>||：We can't even damage her like this!? SOP II!
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Taste this grenade!
-()||<SE1>Explode</SE1>：...The grenade strikes Judge's weapons system.
-RO635(5)<Speaker>RO635</Speaker>||：SOP II! Go!
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：That's a little surprise for you! We meet again, midget!
-BossJustice(0)<Speaker>Judge</Speaker>||：Tch...
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Oh my...first time seeing this expression on your face. Looks like you aren't having fun anymore.+If bullets can't hurt you, then I'll defeat you with my hands!
-BossJustice(0)<Speaker>Judge</Speaker>||：I don't know where you're getting your confidence from, but the Mastermind does not wish for your death...so I have no need to take you seriously.
-RO635(5)<Speaker>RO635</Speaker><通讯框>||：Are you still trying to bluff in a situation like this?+Judge, you're under our control now. Surrender immediately and tell us where M16 is!+I will guarantee your safety, or at least ensure that SOP II won't touch you!
-BossJustice(0)<Speaker>Judge</Speaker>||：Control? Surrender? How delusional.+I only came here because I was curious about the AR Team signal, yet it turned out to be you bunch again... What a waste of my time.+Also...it looks like the person picking me up has arrived.
-RO635(4)<Speaker>RO635</Speaker><通讯框>||：Picking you up?
-BossJustice(0)<Speaker>Judge</Speaker>||：Why is it that bastard again... Doesn't Master have anyone else to send?
-RO635(5)<Speaker>RO635</Speaker><通讯框>||：Judge! Didn't you hear me? Surrender immediately!
-()||<黑屏1><BGM>BGM_Empty</BGM>：...Judge glances at RO.
-()||<黑屏2><BIN>9</BIN>：...She suddenly raises her left hand toward the Griffin forces.
-RO635()<Speaker>RO635</Speaker>||<BGM>BGM_Boss</BGM>：...! EMP! Careful!
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Ah!
-Negev()<Speaker>Negev</Speaker>||：Damn! Was she always this fast...?
-()||：...The sound of a motor fills the air.
-Judge()<Speaker>Judge</Speaker>||：Farewell, everyone.+I'll acknowledge your efforts even though you missed your target.+Hopefully you'll still have a chance to find her next time...
-()||：...Judge jumps onto the transport aircraft.
-Dreamer()<Speaker>Dreamer</Speaker>||：Oh my my...+...Maybe she won't be the same "her" next time...
+()||<BIN>2</BIN><BGM>BGM_Sneak</BGM>：Битва закончилась.
+BossJustice(0)<Speaker>Судья</Speaker>||：В воздухе витает стойкий запах команды AR. Земля усыпана останками Sangvis. Пустая фабрика с передатчиком сигнала внутри.+Какое унижение, если ты планируешь устроить мне здесь засаду.
+RO635(5)<Speaker>RO635</Speaker><通讯框>||：Сейчас!
+NEGEV(0)<Speaker>Negev</Speaker><通讯框>||：Атакуйте! Атакуйте! Убейте ее здесь!
+()||<SE2>Gunfight</SE2>：...Грифон направляет всю свою мощь на Судью, но она остается невредимой.
+BossJustice(0)<Speaker>Судья</Speaker>||：Так вы стреляете с трех разных направлений... Интересно.
+RO635(5)<Speaker>RO635</Speaker><通讯框>||：Мы даже не можем повредить ее как следует! SOP-II!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Попробуй эту гранату!
+()||<SE1>Explode</SE1>：...Гранаты поражают систему вооружения Судьи.
+RO635(5)<Speaker>RO635</Speaker>||：SOP II! Вперёд!
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Это небольшой сюрприз для тебя! Мы снова встретились, карлик!
+BossJustice(0)<Speaker>Судья</Speaker>||：Тч...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||：Ой... впервые вижу такое выражение на твоем лице. Похоже, тебе больше не весело.+Если пули не могут тебя ранить, то я одолею тебя голыми руками!
+BossJustice(0)<Speaker>Судья</Speaker>||：Не знаю, откуда у тебя такая уверенность, но Владыка не желает твоей смерти... так что я не вижу причин воспринимать тебя всерьез.
+RO635(5)<Speaker>RO635</Speaker><通讯框>||：Ты все еще пытаешься блефовать в такой ситуации? + Судья, ты теперь под нашим контролем. Сдавайся немедленно и скажи нам, где находится M16! + Я гарантирую твою безопасность или, по крайней мере, обеспечу, чтобы SOP-II не трогала тебя!
+BossJustice(0)<Speaker>Судья</Speaker>||：Контроль? Сдаться? Какая иллюзия. Я пришла сюда только потому, что мне было интересно, что был за сигнал от команды AR, но оказалось, что это снова вы, ребята... Какая трата времени.+К тому же... похоже, приехала еще одна персона, которая должна меня забрать.
+RO635(4)<Speaker>RO635</Speaker><通讯框>||：Забрать тебя?
+BossJustice(0)<Speaker>Судья</Speaker>||：Почему опять эта дрянь... У Мастера больше никого нет, кого можно послать?
+RO635(5)<Speaker>RO635</Speaker><通讯框>||：Судья! Ты меня не слышишь? Сдавайся немедленно!
+()||<黑屏1><BGM>BGM_Empty</BGM>：...Судья бросает взгляд на RO.
+()||<黑屏2><BIN>9</BIN>：...Она внезапно поднимает левую руку в сторону войск Грифона.
+RO635()<Speaker>RO635</Speaker>||<BGM>BGM_Boss</BGM>：...! ЭМИ! Осторожно!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：Ах!
+Negev()<Speaker>Negev</Speaker>||：Лять! Она всегда была такой быстрой...?
+()||：...Воздух наполняет звук мотора.
+Judge()<Speaker>Судья</Speaker>||：Всем до свидания.+Я признаю ваши усилия, даже если вы не достигли своей цели.+Надеюсь, у вас еще будет шанс настичь ее в следующий раз...
+()||：...Судья запрыгивает в транспортный самолет.
+Dreamer()<Speaker>Мечтательница</Speaker>||：Ой-ой...+...Может быть, в следующий раз она будет уже не совсем «той»...
 RO()<Speaker>RO</Speaker>||<黑屏1>：......!
-()||<黑屏2><BIN>9</BIN>：On the Sangvis Ferri transport aircraft.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||：Good work, Miss Judge.
-BossJustice(0)<Speaker>Judge</Speaker>;BOSS-11(0)||：Save it. You never intended to pick me up in the first place.
-BossJustice(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||：How could that be? This is Elisa's order.
-BossJustice(0)<Speaker>Judge</Speaker>;BOSS-11(0)||：Elisa's order should've only been to let the AR Team go free.
-BossJustice(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||：Hehe, and what difference is there between the two?+Besides, Elisa really needs you right now. She personally ordered us to convene.
-BossJustice(0)<Speaker>Judge</Speaker>;BOSS-11(0)||：Tell me what's going on.
-BossJustice(0);BOSS-11(0)<Speaker>Dreamer</Speaker>||：I'm not too sure myself, but Master Elisa said she "saw some dangerous things in the distance."
-BossJustice(0)<Speaker>Judge</Speaker>;BOSS-11(0)||：Something that even Elisa would find "dangerous"...+......+No way...
-BOSS-11(0)<Speaker>Dreamer</Speaker>||<黑屏1>：Our enemies...may not be limited to just the T-Dolls of Griffin anymore.+This party...is finally getting started...
-()||<BIN>2</BIN><黑屏2><BGM>BGM_Empty</BGM>：...Several minutes later, the Griffin T-Dolls begin to regain their consciousness.
-RO635(3)<Speaker>RO635</Speaker>||：Can you guys move?
-NEGEV(0)<Speaker>Negev</Speaker>||：My body is back to normal, but my neural cloud is still hazy. The others should be up now.+If I had known that she'd be this tough, I would've taken stronger measures.
-RO635(3)<Speaker>RO635</Speaker>||：Sorry, I was too hasty.
-NEGEV(0)<Speaker>Negev</Speaker>||：Don't dwell on it. I haven't come across a monster like her in a long time. Not bad at all.+The other reinforcements are arriving now. I'll head over to greet them, then we'll consider our next steps.+Go return now. Someone's waiting for you.
-RO635(3)<Speaker>RO635</Speaker>||：Thanks for your help. We'll leave the perimeter to you...
-RO635(4)<Speaker>RO635</Speaker>||：...Wait. You said someone's waiting for us?
-NEGEV(0)<Speaker>Negev</Speaker>||：It's nothing too important, so don't look forward to it.
-()||：...Negev leaves.
-RO635(0)<Speaker>RO635</Speaker>||：...A strange person indeed.+SOP II, you fine?
-SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Yeah...I'm doing okay... Still, Judge managed to escape us in the end...
-RO635(0)<Speaker>RO635</Speaker>||：Judge was far more formidable than we thought. It's a miracle that no one was hurt this time.
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：RO, do you think...Dreamer was speaking the truth?
+()||<黑屏2><BIN>9</BIN>：На транспортном самолете Сангвис Ферри.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||：Хорошая работа, мисс Судья.
+BossJustice(0)<Speaker>Судья</Speaker>;BOSS-11(0)||：Не надо. Ты и не собиралась меня подбирать.
+BossJustice(0);BOSS-11(0)<Speaker>Мечтательница</Speaker>||：Как же так? Это же приказ Элизы.
+BossJustice(0)<Speaker>Судья</Speaker>;BOSS-11(0)||：Приказ Элизы должен был заключаться только в том, чтобы отпустить команду AR.
+BossJustice(0);BOSS-11(0)<Speaker>Мечтательница</Speaker>||：Хе-хе, а какая разница между ними? К тому же, Элиза сейчас очень в тебе нуждается. Она лично приказала нам собраться.
+BossJustice(0)<Speaker>Судья</Speaker>;BOSS-11(0)||：Говори, что происходит.
+BossJustice(0);BOSS-11(0)<Speaker>Мечтательница</Speaker>||：Я сама не совсем уверена, но Мастер Элиза сказала, что «увидела вдали что-то опасное».
+BossJustice(0)<Speaker>Судья</Speaker>;BOSS-11(0)||：Что-то, что даже Элиза сочла бы «опасным»...+......+Не может быть...
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||<黑屏1>：Наши враги... возможно, больше не ограничиваются только Т-Куклами из Грифона.+Эта вечеринка... наконец-то начинается...
+()||<BIN>2</BIN><黑屏2><BGM>BGM_Empty</BGM>：...Через несколько минут несколько Т-Кукол Грифона начинают приходить в сознание.
+RO635(3)<Speaker>RO635</Speaker>||：Народ, можете двигаться?
+NEGEV(0)<Speaker>Negev</Speaker>||：Мое тело в норме, но в голове все еще туман. Другие уже должны проснуться.+Если бы я знала, что она будет такой сильной, я бы применила более жесткие меры.
+RO635(3)<Speaker>RO635</Speaker>||：Извини, я была слишком поспешна.
+NEGEV(0)<Speaker>Negev</Speaker>||：Не зацикливайся на этом. Давно не встречала такого монстра, как она. Совсем неплохо.+Другие подкрепления уже прибывают. Пойду их встречу, а потом обсудим дальнейшие действия.+А теперь возвращайся. Тебя кто-то ждет.
+RO635(3)<Speaker>RO635</Speaker>||：Спасибо за помощь. Мы оставим периметр на вас...
+RO635(4)<Speaker>RO635</Speaker>||：...Стой. Ты сказала, что кто-то нас ждет?
+NEGEV(0)<Speaker>Negev</Speaker>||：Ничего особо значительного, так что не ждите ничего хорошего.
+()||：...Negev уходит.
+RO635(0)<Speaker>RO635</Speaker>||：...Действительно странная личность. + SOP-II, ты в порядке?
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||：Да... Я в порядке... Но в конце концов Судья все-таки ускользнула от нас...
+RO635(0)<Speaker>RO635</Speaker>||：Судья оказалась гораздо более грозной, чем мы думали. Это чудо, что на этот раз никто не пострадал.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：RO, как ты думаешь... Мечтательница говорила правду?
 RO635(2)<Speaker>RO635</Speaker>||：......
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：I thought that...as long as I worked just a little bit harder and killed just a few more Sangvis, then M16 would be able to return...+But now... Is it...+Not that simple anymore...
-RO635(0)<Speaker>RO635</Speaker>||：I don't know...+I...thought that I was prepared, that I found my direction...+But I didn't... I haven't done anything right at all...+If only someone could tell me what I must do...+Maybe I should talk to the Commander after we get back...
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：Я думал, что... если я буду работать чуть усерднее и убью еще несколько Сангвисов, то М16 сможет вернуться... +Но теперь... Это... +Уже не так просто...
+RO635(0)<Speaker>RO635</Speaker>||：Я не знаю...+Я... думала, что готова, что я нашла свое призвание...+Но я не... Я ничего не сделала правильно...+Если бы только кто-нибудь мог подсказать мне, что я должна делать...+Может быть, я поговорила бы с Командиром, когда мы вернемся...
 SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：......
-RO635(0)<Speaker>RO635</Speaker>||：What's the matter?
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：......+RO, that T-Doll over there...
+RO635(0)<Speaker>RO635</Speaker>||：В чем дело?
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||：......+RO, та Т-Кукла вон там...
 RO635(0)<Speaker>RO635</Speaker>||：......!
-???()<Speaker>???</Speaker>||<黑屏1>：It's been a while...
-M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>77</BIN><BGM>BGM_Truth</BGM>：...SOP II and Miss RO635.
-()||：...For a second I thought SOP II would leap onto M4.+But she did not. She's just standing there, or perhaps some force is preventing her from moving.+I know that she's checking the Doll in front of her against the companion in her memories, just like what I'm doing...+Despite the fact that she is indeed M4A1 in the flesh. An awake M4A1, the leader of the AR Team whom I had always heard about and wanted to meet.+And so, we officially meet under such circumstances.
-RO635()<Speaker>RO635</Speaker>||：Miss M4A1, it's an honor to meet you...
-M4A1()<Speaker>M4A1</Speaker>||<BIN>78</BIN>：There's nothing to be honored about. We're just variants of the same model.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：M4, are you...fine?
-M4A1()<Speaker>M4A1</Speaker>||：I'm fine. You must've worked hard, SOP II.+Is that thing...M16's?
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：M4...sorry, M16 is...
-M4A1()<Speaker>M4A1</Speaker>||：...I heard. Both of you have done very well, thank you.+Get in the car. We're starting an operation soon.
-RO635()<Speaker>RO635</Speaker>||：Operation? What operation?
+???()<Speaker>???</Speaker>||<黑屏1>：Давно не виделись...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>77</BIN><BGM>BGM_Truth</BGM>：...SOP II и мисс RO635.
+()||：...На секунду я подумала, что SOP-II прыгнет на M4. Но она этого не сделала. Она просто стоит на месте, или, возможно, какая-то сила мешает ей двигаться.+Я знаю, что она сравнивает Куклу перед собой с товарищем из своих воспоминаний, точно так же, как и я...+Несмотря на то, что она действительно является M4A1 во плоти. Проснувшаяся M4A1, лидер команды AR, о которой я всегда слышала и которую хотела встретить. И вот, мы официально встречаемся в таких обстоятельствах.
+RO635()<Speaker>RO635</Speaker>||：Мисс M4A1, для меня большая честь познакомиться с вами...
+M4A1()<Speaker>M4A1</Speaker>||<BIN>78</BIN>：Здесь нечего чествовать. Мы просто варианты одной и той же модели.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：М4, ты... в порядке?
+M4A1()<Speaker>M4A1</Speaker>||：Я в порядке. Ты, наверное, много трудилась, SOP-II.+Это что... M16?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||：M4... прости, M16 это...
+M4A1()<Speaker>M4A1</Speaker>||：...Я знаю. Вы обе отлично поработали, спасибо.+Садитесь в машину. Скоро начнем операцию.
+RO635()<Speaker>RO635</Speaker>||：Операцию? Какую операцию?
 M4A1()<Speaker>M4A1</Speaker>||<黑屏1>：......
-()||<黑屏2><BIN>9</BIN>：M4A1 glances at me, and I see a gaze so filled with emotions that it is narrow and ruthless.+I know those eyes. They're the vengeful eyes of those who have lost themselves, just like the occasional glimpses I caught on M16A1.
-M4A1()<Speaker>M4A1</Speaker>||：An operation personally announced by Mr. Kryuger. An operation of the highest priority...+That is...the operation to annihilate the Mastermind.
-()||：......+Episode 9 - Lost. END.
+()||<黑屏2><BIN>9</BIN>：M4A1 бросает на меня взгляд, и я вижу в её глазах столько эмоций, что они кажутся одновременно узкими и безжалостными.+Я знаю эти глаза. Это мстительные глаза тех, кто потерял себя, точно такие же, как те, что я иногда мельком видела в глазах M16A1.
+M4A1()<Speaker>M4A1</Speaker>||：Операция, о которой лично объявил г-н Крюгер. Операция высшей приоритетности... + То есть... операция по уничтожению Владыки.
+()||：......+Эпизод 9 — Потерянный. КОНЕЦ.
+
