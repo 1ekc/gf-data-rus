@@ -1,1 +1,2 @@
-()<Speaker>Hint</Speaker>||:Occupying a radar will disrupt the enemies' operation routes.
+()<Speaker>Подсказка</Speaker>||:Захват радара нарушит маршруты передвижения противника.
+
