@@ -1,74 +1,75 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>99</BIN><BGM>BGM_Danger</BGM><Night>:...
-T65(0)<Speaker>T65</Speaker><Shake>||:Arghhhhhhhhhh! +We're done for!
+T65(0)<Speaker>T65</Speaker><Shake>||:Аргхххххххххххххххххххх! +Нам конец!
 T77(0)<Speaker>T77</Speaker>||:...
-m1(0)<Speaker>M1 Garand</Speaker><Shake>||:It-it's gonna be fine... +Even though Miss AK-47 has been severely injured on the frontlines...and we have nobody to play Miss M16...
-M4A1(0)<Speaker>Actually M3</Speaker>||:Miss Garand, filming can't go on if we lose our M16!
-T65(0)<Speaker>T65</Speaker><Shake>||:What should we do?! +Where can we find a stand-in now? +I know, it's probably stretching it, but T77 will have to play Miss M16.
-T65(0);T77(0)<Speaker>T77</Speaker>||:Are you for real? My figure makes it impossible.
-T65(0)<Speaker>T65</Speaker>;T77(0)||:Then I'll do it myself!!
-T65(0);T77(0)<Speaker>T77</Speaker>||:Are you for real? Your height makes it impossible.
-T65(0)<Speaker>T65</Speaker>;T77(0)||<震屏3>:Then what should we do?!!!
-M4A1(0)<Speaker>Actually M3</Speaker>;T77(0)||:Is it possible to alter my Dummy...to make it look like Miss M16...? +That way, we might still...
-M4A1(0);T77(0)<Speaker>T77</Speaker>||:It does work, but you'll have to play two different characters at the same time. Are you okay with that?
-M4A1(0)<Speaker>Actually M3</Speaker>||:Ugh...
-m1(0)<Speaker>M1 Garand</Speaker>||<BGM>BGM_Empty</BGM>:Don't panic. +It can't be helped, we'll have to switch to Plan B.
-T65(0)<Speaker>T65</Speaker>||<BGM>BGM_Sneak</BGM>:What Plan B?
-M4A1(0)<Speaker>Actually M3</Speaker>||:Huh? Do we even have one?
-m1(0)<Speaker>M1 Garand</Speaker>||:I anticipated a scenario in which a member of the cast can't make it in the last minute...which is why we picked a site so close to the base.
-T65(0)<Speaker>T65</Speaker>||:I'd expect nothing less from Garand!
-T77(0)<Speaker></Speaker>||:T77 shrugs.
+m1(0)<Speaker>M1 Garand</Speaker><Shake>||:Все будет хорошо... +Даже несмотря на то, что мисс АК-47 получила тяжелые ранения на передовой... и у нас нет никого, кто мог бы сыграть мисс М16...
+M4A1(0)<Speaker>Actually M3</Speaker>||:Мисс Garand, съемки не могут продолжаться, если мы потеряем нашу M16!
+T65(0)<Speaker>T65</Speaker><Shake>||:Что нам делать?! +Где мы теперь найдем дублершу? +Я знаю, это, наверное, слишком, но Т77 предстоит сыграть мисс М16.
+T65(0);T77(0)<Speaker>T77</Speaker>||:Ты серьёзно? Моя комплекция не позволит этого сделать.
+T65(0)<Speaker>T65</Speaker>;T77(0)||:Тогда я сделаю это сама!!
+T65(0);T77(0)<Speaker>T77</Speaker>||:Ты серьезно? Твой рост не позволит этого сделать.
+T65(0)<Speaker>T65</Speaker>;T77(0)||<震屏3>:Тогда что же нам делать?!!!
+M4A1(0)<Speaker>Actually M3</Speaker>;T77(0)||:Можно ли изменить мою Болванку... чтобы она стала похожа на мисс M16...? +Так у нас еще может быть...
+M4A1(0);T77(0)<Speaker>T77</Speaker>||:Это сработает, но тогда тебе придется играть за двух разных персонажей одновременно. Ты не против?
+M4A1(0)<Speaker>Actually M3</Speaker>||:Уххх...
+m1(0)<Speaker>M1 Garand</Speaker>||<BGM>BGM_Empty</BGM>:Не паникуйте. +Ничего не поделаешь, придется перейти к плану Б.
+T65(0)<Speaker>T65</Speaker>||<BGM>BGM_Sneak</BGM>:Что за план Б?
+M4A1(0)<Speaker>Actually M3</Speaker>||:Что? А у нас вообще есть такой?
+m1(0)<Speaker>M1 Garand</Speaker>||:Я предполагала, что кто-то из актеров может в последнюю минуту не приехать... поэтому мы и выбрали место так близко к базе.
+T65(0)<Speaker>T65</Speaker>||:Меньшего от Garand я и не ожидала!
+T77(0)<Speaker></Speaker>||:T77 пожимает плечами.
 M4A1(0)<Speaker>Actually M3</Speaker>||:Then what do we do...?
-m1(0)<Speaker>M1 Garand</Speaker>||:M1A1, this is Garand. +Miss AK-47 is absent due to an accident. I need you to contact someone...
-()||:Click...
-M1A1(0)<Speaker>M1A1</Speaker><通讯框>||:<color=#00CCFF>Huh? Without Miss AK-47, what are you going to do about Miss M16's part...?</color>
-m1(0)<Speaker>M1 Garand</Speaker>;M1A1(0)||:Don't worry. +It may be a bit sudden, but could you please get me Miss Thompson?
-m1(0);T65(0)<Speaker>T65</Speaker>||:Miss Thompson...?
-m1(0)<Speaker>M1 Garand</Speaker>;T65(0)||:If you overlook the differences in personal habits... +She makes the most suitable candidate other than Miss AK-47 in terms of her appearance and the way she carries herself.
-m1(0);M1A1(0)<Speaker>M1A1</Speaker><通讯框>||:<color=#00CCFF>Miss Thompson...</color>
-m1(0)<Speaker>M1 Garand</Speaker>;M1A1(0)||:I checked beforehand. She isn't on duty today. +She should be in the dorms now—
-m1(0);M1A1(0)<Speaker>M1A1</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>She isn't here.</color>
-m1(0)<Speaker>M1 Garand</Speaker>;M1A1(0)||<BGM>BGM_Sad</BGM>:Huh?
-m1(0);M1A1(0)<Speaker>M1A1</Speaker>||:<color=#00CCFF>Since another squad ran into some trouble, Miss Thompson's team has set off to extract them.</color> +<color=#00CCFF>Their rescue targets...seem to be Miss AK-47's squad.</color>
-m1(0)<Speaker>M1 Garand</Speaker>||:... +Ugh...
-T77(0)<Speaker>T77</Speaker>||:It's fate.
-T65(0)<Speaker>T65</Speaker><Shake>||:Arghhhhh!! +This can't be happening!!
-M4A1(0)<Speaker>Actually M3</Speaker>||:We've...run out of options, haven't we...?
-T77(0)<Speaker>T77</Speaker>||:Maybe... +...we should just go home tonight.
-T65(0)<Speaker>T65</Speaker>||:How could you say that, T77?!
-T77(0)<Speaker>T77</Speaker>||:We can still film outside some other night. +Rather than hastily doing a slapdash job, isn't it better to go back for now and smooth things out properly?
+m1(0)<Speaker>M1 Garand</Speaker>||:M1A1, это Garand. +Мисс AK-47 отсутствует из-за несчастного случая. Мне нужно, чтобы ты связалась с кое-кем...
+()||:Клик...
+M1A1(0)<Speaker>M1A1</Speaker><通讯框>||:<color=#00CCFF>Э? Без мисс АК-47, что ты будешь делать с ролью мисс М16...?</color>
+m1(0)<Speaker>M1 Garand</Speaker>;M1A1(0)||:Не волнуйся. +Возможно, это немного неожиданно, но не могла бы ты позвать мисс Thompson?
+m1(0);T65(0)<Speaker>T65</Speaker>||:Мисс Thompson...?
+m1(0)<Speaker>M1 Garand</Speaker>;T65(0)||:Если не обращать внимания на различия в личных привычках... +Она является наиболее подходящей кандидаткой, помимо мисс АК-47, с точки зрения внешности и манеры поведения.
+m1(0);M1A1(0)<Speaker>M1A1</Speaker><通讯框>||:<color=#00CCFF>Мисс Thompson...</color>
+m1(0)<Speaker>M1 Garand</Speaker>;M1A1(0)||:Я заранее всё проверила. Сегодня она не на дежурстве. +Сейчас она должна быть в общежитии...
+m1(0);M1A1(0)<Speaker>M1A1</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Её здесь нет.</color>
+m1(0)<Speaker>M1 Garand</Speaker>;M1A1(0)||<BGM>BGM_Sad</BGM>:Ээээ?
+m1(0);M1A1(0)<Speaker>M1A1</Speaker>||:<color=#00CCFF>Поскольку другая группа столкнулась с некоторыми проблемами, команда мисс Thompson отправилась на их спасение.</color> +<color=#00CCFF>Их цель спасения... похоже, отряд мисс АК-47.</color>
+m1(0)<Speaker>M1 Garand</Speaker>||:... +Ух...
+T77(0)<Speaker>T77</Speaker>||:Это судьба.
+T65(0)<Speaker>T65</Speaker><Shake>||:Агхххх!! +Этого не может быть!
+M4A1(0)<Speaker>Actually M3</Speaker>||:У нас... нет других вариантов, не так ли...?
+T77(0)<Speaker>T77</Speaker>||:Может быть... +...нам просто стоит пойти домой сегодня вечером.
+T65(0)<Speaker>T65</Speaker>||:Как ты можешь так говорить, T77?!
+T77(0)<Speaker>T77</Speaker>||:Мы можем продолжить съемки на улице в другой вечер. +Вместо того, чтобы поспешно делать работу на скорую руку, не лучше ли вернуться и все как следует доработать?
 ()||:...
-m1(0)<Speaker>M1 Garand</Speaker>||:... +You're right, we don't have to film tonight...but there's no telling what is going to happen in the future... +...when it comes to T91 and Miss M16...
+m1(0)<Speaker>M1 Garand</Speaker>||:... +Ты права, сегодня вечером нам не нужно снимать... но кто знает, что будет завтра... +... когда дело касается T91 и мисс M16...
 T77(0)<Speaker>T77</Speaker>;m1(0)||:...
-T77(0);m1(0)<Speaker>M1 Garand</Speaker>||:We haven't done everything we can yet. We mustn't give up on any possibility.
-T77(0)<Speaker>T77</Speaker>;m1(0)||:But now we're missing our main cast...
-T77(0);T65(0)<Speaker>T65</Speaker>||:If our cast can't make it here, then we'll go find them and take our camera with us! +We must bring good news from Miss M16 to T91 today even if my blood runs dry!
-T77(0)<Speaker>T77</Speaker>;T65(0)||:Even if the good news is fake...?
-T77(0);m1(0)<Speaker>M1 Garand</Speaker>||<BGM>BGM_Empty</BGM>:It's still too early to go home now. The night has barely started.
-m1(0)<Speaker>M1 Garand</Speaker>||<BGM>BGM_War</BGM>:M1A1, can you give us Miss Thompson's current location?
-m1(0);M1A1(0)<Speaker>M1A1</Speaker><通讯框>||:<color=#00CCFF>I can...</color> +<color=#00CCFF>But to reach her from your position, you'll have to cross the Sangvis defense line on foot.</color>
-T65(0)<Speaker>T65</Speaker>;M1A1(0)||:If that's what it takes, fine. You think I'd be afraid?! +Fighting a Manticore head-on to cheer up our troublesome junior isn't so scary!
-T65(0);M1A1(0)<Speaker>M1A1</Speaker>||:<color=#00CCFF>According the intel provided by the Commander, there are S.F. armored forces in your way...</color> +<color=#00CCFF>Including but not limited to a large number of Manticores.</color>
-T65(0)<Speaker>T65</Speaker>||:Garand, I think we should return to the base for now. +T91 can probably hang on for a little longer.
-m1(0)<Speaker>M1 Garand</Speaker>||:Miss T65...please stop holding onto me like this...can't breathe...
-M4A1(0)<Speaker>Actually M3</Speaker>||:Can't we go around them?
-M4A1(0);M1A1(0)<Speaker>M1A1</Speaker><通讯框>||:<color=#00CCFF>Even if you can find a weak spot in their defenses...there's no guarantee you won't run into any patrols.</color> 
-M4A1(0)<Speaker>Actually M3</Speaker>||:Hmm... If Miss M4 were here...what would she do...?
-m1(0)<Speaker>M1 Garand</Speaker>||:We can't back down... +In any case, we've got to give it a try...
-T65(0)<Speaker>T65</Speaker>||:Exactly! I refuse to believe we're gonna be that unlucky! +Patrols tend to just wander around; as if we'd come across them that easily!
-T77(0)<Speaker>T77</Speaker>||:...Are you for real? +All for the sake of... +Whatever.
-M1A1(0)<Speaker>M1A1</Speaker><通讯框>||<黑点1>:<color=#00CCFF>If you're certain...I'm sending you the coordinates.</color> 
-()||<黑点2><BIN>10</BIN><BGM>BGM_Empty</BGM>:... +Whirrrrr...
-T65(0)<Speaker>T65</Speaker>||<BGM>BGM_Sneak</BGM>:Was that... +The sound of Manticores firing up their motors...?
-m1(0)<Speaker>M1 Garand</Speaker>||:Don't worry, our position hasn't been exposed yet. They're simply making their rounds.
-T65(0)<Speaker>T65</Speaker>||:But what if we find ourselves surrounded by patrolling Manticores as we go along?
-T77(0)<Speaker>T77</Speaker>||:Hmm? +Where has the bold and valiant T65 gone?
-T65(0)<Speaker>T65</Speaker>||:Scary things are scary, okay? It can't be helped.
-M3(0)<Speaker>M3</Speaker>||:Look at the S.F. patrols... +Judging from the intel, most of them are just thoughtlessly moving along a pre-programmed route, right?
-m1(0)<Speaker>M1 Garand</Speaker>||:That does seem to be the case... +Still, even if their route is fixed, it's no use if we don't know their numbers and positions...
-M3(0)<Speaker>M3</Speaker>||:But what if we can somehow overwrite their command and alter the preset route...? +Won't that lead the large Sangvis units away?
-T65(0)<Speaker>T65</Speaker>||:Can that actually be done? +Meddling with Sangvis equipment could infect us!
-M3(0)<Speaker>M3</Speaker>||:We can manually set up a false signal at a relay station that transmits Sangvis commands... +We won't get the virus as long as we don't access any comms systems... That's what's written on the anti-virus precautions leaflet issued by the Commander...
-m1(0)<Speaker>M1 Garand</Speaker>||:Have the enemies make way for us...? +Miss M3's suggestion might actually give us a chance...!
-M3(0)<Speaker>M3</Speaker>||:I-I was just thinking what kind of strategy Miss M4 would come up with if she were here...
-T77(0)<Speaker>T77</Speaker>||<黑点1>:Whether it'll work or not, it's still a lot better than headbutting strong and formidable Sangvis units. +Might as well try our luck.
+T77(0);m1(0)<Speaker>M1 Garand</Speaker>||:Мы еще не сделали все, что могли. Мы не должны отказываться от любой возможности.
+T77(0)<Speaker>T77</Speaker>;m1(0)||:Но сейчас нам не хватает основных актеров...
+T77(0);T65(0)<Speaker>T65</Speaker>||:Если наши актеры не могут приехать сюда, то мы отправимся на их поиски и возьмем с собой камеру! +Сегодня мы должны донести хорошие новости от мисс M16 до T91, даже если для этого придется пролить всю свою кровь!
+T77(0)<Speaker>T77</Speaker>;T65(0)||:Даже если хорошие новости фальшивые...?
+T77(0);m1(0)<Speaker>M1 Garand</Speaker>||<BGM>BGM_Empty</BGM>:Сейчас еще слишком рано возвращаться домой. Ночь только началась.
+m1(0)<Speaker>M1 Garand</Speaker>||<BGM>BGM_War</BGM>:M1A1, можешь сообщить нам текущее местонахождение мисс Thompson?
+m1(0);M1A1(0)<Speaker>M1A1</Speaker><通讯框>||:<color=#00CCFF>Я мог...</color> +<color=#00CCFF>Но чтобы добраться до неё со своей позиции, тебе придётся пешком пересечь линию обороны Сангвиса.</color>
+T65(0)<Speaker>T65</Speaker>;M1A1(0)||:Если это потребуется, ладно. Думаешь, я испугаюсь?! +Сражаться с Мантикорой, чтобы приободрить нашего проблемного младшего товарища, не так уж и страшно!
+T65(0);M1A1(0)<Speaker>M1A1</Speaker>||:<color=#00CCFF>Согласно информации, предоставленной Командиром, на твоем пути находятся бронетанковые войска С.Ф. ...</color> +<color=#00CCFF>Включая, конечно, множество Мантикор.</color>
+T65(0)<Speaker>T65</Speaker>||:Garand, Думаю, нам следует вернуться на базу. +T91, вероятно, сможет продержаться еще немного.
+m1(0)<Speaker>M1 Garand</Speaker>||:Мисс T65... пожалуйста, перестаньте так меня сжимать... я не могу дышать...
+M4A1(0)<Speaker>Actually M3</Speaker>||:Разве мы не можем обойти их?
+M4A1(0);M1A1(0)<Speaker>M1A1</Speaker><通讯框>||:<color=#00CCFF>Даже если тебе удастся найти слабое место в их обороне... нет гарантии, что ты не наткнешься на патрули.</color> 
+M4A1(0)<Speaker>Actually M3</Speaker>||:Хм... Если бы мисс М4 была здесь... что бы она сделала...?
+m1(0)<Speaker>M1 Garand</Speaker>||:Мы не можем отступить... +В любом случае, мы должны попробовать...
+T65(0)<Speaker>T65</Speaker>||:Именно! Я отказываюсь верить, что нам так не повезет! +Патрули обычно просто бродят по окрестностям; как будто мы так легко на них наткнемся!
+T77(0)<Speaker>T77</Speaker>||:...Ты серьезно? +Все ради... +Неважно.
+M1A1(0)<Speaker>M1A1</Speaker><通讯框>||<黑点1>:<color=#00CCFF>Если ты уверена... Я пошлю тебе координаты.</color> 
+()||<黑点2><BIN>10</BIN><BGM>BGM_Empty</BGM>:... +Ур-р-р-р...
+T65(0)<Speaker>T65</Speaker>||<BGM>BGM_Sneak</BGM>:Это был... +звук запуска моторов Мантикор...?
+m1(0)<Speaker>M1 Garand</Speaker>||:Не бойся, наше местоположение пока не раскрыто. Они просто патрулируют территорию.
+T65(0)<Speaker>T65</Speaker>||:Но что, если по пути мы окажемся в окружении патрулирующих Мантикор?
+T77(0)<Speaker>T77</Speaker>||:Хм? +Куда подевалась смелая и отважная T65?
+T65(0)<Speaker>T65</Speaker>||:Страшные вещи вызывают страх, понятно? Ничего не поделаешь.
+M3(0)<Speaker>M3</Speaker>||:Взгляни на патрули С.Ф... +Судя по разведданным, большинство из них просто бездумно движутся по заранее запрограммированному маршруту, верно?
+m1(0)<Speaker>M1 Garand</Speaker>||:Похоже, что это действительно так... +Тем не менее, даже если их маршрут известен, это бесполезно, если мы не знаем их численность и позиции...
+M3(0)<Speaker>M3</Speaker>||:Но что, если мы сможем перезаписать их команду и изменить заданный маршрут...? +Разве это не отвлечет большие подразделения Сангвиса?
+T65(0)<Speaker>T65</Speaker>||:Это действительно возможно? +Вмешательство в оборудование Сангвиса может заразить нас!
+M3(0)<Speaker>M3</Speaker>||:Мы можем вручную настроить ложный сигнал на ретрансляторе, который передает команды для Сангвис... +Мы не заразимся вирусом, пока не подключимся к каким-либо системам связи... Так написано в памятке по антивирусным мерам предосторожности, выпущенной Командиром...
+m1(0)<Speaker>M1 Garand</Speaker>||:Заставить врагов уступить нам дорогу...? +Предложение мисс М3 может действительно дать нам шанс...!
+M3(0)<Speaker>M3</Speaker>||:Я-я просто думала, какую стратегию предложила бы мисс М4, если бы она была здесь...
+T77(0)<Speaker>T77</Speaker>||<黑点1>:Неважно, сработает это или нет, но это гораздо лучше, чем сражаться с сильными и грозными отрядами Сангвиса. +Можно испытать удачу.
+
