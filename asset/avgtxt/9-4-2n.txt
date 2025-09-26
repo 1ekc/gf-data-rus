@@ -1,28 +1,28 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
 ()||<BIN>99</BIN><Night><SE2>Gunfight</SE2><黑屏2>:...
-M1928A1(0)<Speaker>Thompson</Speaker>||<BGM>BGM_Boss</BGM>:Keep firing!
-BossJustice(0)<Speaker>Judge</Speaker>||:Hmm... +This is getting a bit too far. +But I applaud you for returning to face your enemy, M4A1.
-M4A1(3)<Speaker>Actually M3</Speaker>||:If you want me, come and get me! +Look at you! Weren't you really full of it just now?!
-T65(0)<Speaker>T65</Speaker>||:We have her pinned down!
-BossJustice(0)<Speaker>Judge</Speaker>||:... +Pinned down...?
-()||<SE1>Explode</SE1><震屏>:...Boom. +...Judge unleashes a barrage of incomparable firepower, forcing everyone back.
-m1(0)<Speaker>M1 Garand</Speaker>||:Ugh...it isn't enough... +We were so close...
-M14(0)<Speaker>M14</Speaker>||<SE2>Gunfight</SE2>:Miss Garand, leave it to M14.
-T77(0)<Speaker>T77</Speaker>||:Her attacks are very monotonous and predictable.
-T65(0)<Speaker>T65</Speaker>||:Spill, where have you taken Miss M16?!
-BossJustice(0)<Speaker>Judge</Speaker>||:Still living in your delusional little world, Griffin T-Dolls? +Tsk, I was going to keep things from going way out of hand out of courtesy to M4A1... +... +Don't interrupt me right now, Dreamer. M4A1 is standing right in front of me. +...
-BossJustice(0);M4A1(3)<Speaker>Actually M3</Speaker>||:I'm right here. Why don't you call in your Sangvis friends and capture me?
-BossJustice(0)<Speaker>Judge</Speaker>;M4A1(3)||:True...I also find it highly suspicious that she isn't operating with other members of the AR Team. +Still, this doesn't get in the way of... +... +The other two from the AR Team... Got it. I'll handle it.
+M1928A1(0)<Speaker>Thompson</Speaker>||<BGM>BGM_Boss</BGM>:Продолжаем стрелять!
+BossJustice(0)<Speaker>Судья</Speaker>||:Хм... +Это уже зашло слишком далеко. +Но я восхищаюсь тем, что ты вернулась, чтобы сразиться со своим врагом, M4A1.
+M4A1(3)<Speaker>Actually M3</Speaker>||:Если хочешь взять меня, то приди и возьми! +Посмотри на себя! Разве ты не был полна энергии только что?!
+T65(0)<Speaker>T65</Speaker>||:Мы прижали ее к стене!
+BossJustice(0)<Speaker>Судья</Speaker>||:... +Прижата...?
+()||<SE1>Explode</SE1><震屏>:...Бах! +...Судья выпускает шквал невероятной огневой мощи, отбрасывая всех назад.
+m1(0)<Speaker>M1 Garand</Speaker>||:Уф... этого недостаточно... +Мы были так близки...
+M14(0)<Speaker>M14</Speaker>||<SE2>Gunfight</SE2>:Мисс Garand, не мешайте M14.
+T77(0)<Speaker>T77</Speaker>||:Её атаки очень однообразны и предсказуемы.
+T65(0)<Speaker>T65</Speaker>||:Щепка, куда ты дела мисс M16?!
+BossJustice(0)<Speaker>Судья</Speaker>||:Все еще живете в своем маленьком мире иллюзий, Т-Куклы Грифона? +Тск, я собиралась не дать ситуации выйти из-под контроля из вежливости по отношению к М4А1... +... +Не перебивай меня сейчас, Мечтательница. М4А1 стоит прямо передо мной. +...
+BossJustice(0);M4A1(3)<Speaker>Actually M3</Speaker>||:Я здесь. Почему бы тебе не позвать своих друзей из Сангвиса и не схватить меня?
+BossJustice(0)<Speaker>Судья</Speaker>;M4A1(3)||:Верно... Мне тоже кажется очень подозрительным, что она не работает с другими членами Команды AR. +Тем не менее, это не мешает... +... +Две другие из Команды AR... Понятно. Я разберусь.
 ()||:...
-BossJustice(0);M4A1(3)<Speaker>Actually M3</Speaker>||:What now? Not fighting us anymore? +Did your mother just summon you for dinner?
-BossJustice(0)<Speaker>Judge</Speaker>||:I'll admit I was careless to have been lured by your baits. +Well played, human commander. However, this won't happen again. +Perhaps you lot...should consider yourselves lucky that you didn't say what you aren't supposed to.
-()||:...Judge vanished in an instant.
-m1(0)<Speaker>M1 Garand</Speaker>||:What we aren't supposed to say... What does she mean by that?
-M4A1(3)<Speaker>Actually M3</Speaker>||:Who knows? That runt obviously has an over-inflated sense of ego.
+BossJustice(0);M4A1(3)<Speaker>Actually M3</Speaker>||:Что теперь? Не будешь больше с нами сражаться? +Твоя мама только что позвала тебя на ужин?
+BossJustice(0)<Speaker>Судья</Speaker>||:Признаю, я была неосторожна, поддавшись на ваши уловки. +Хорошо сыграно, человеческий Командир. Однако это больше не повторится. +Возможно, вам... стоит считать себя счастливчиками, что вы не сказали того, чего не следовало говорить.
+()||:...Судья исчезает в мгновение ока.
+m1(0)<Speaker>M1 Garand</Speaker>||:Что мы не должны говорить... Что она имеет в виду?
+M4A1(3)<Speaker>Actually M3</Speaker>||:Кто знает? У этой коротышки явно завышенное самолюбие.
 ()<Speaker></Speaker>||:...
-M4A1(0)<Speaker>Actually M3</Speaker>||:Oh...u-um...
-T65(0)<Speaker>T65</Speaker>||:<size=33>She seems to have returned to her normal self...</size>
-T77(0)<Speaker>T77</Speaker>||:<size=33>That really was something... Is that a side effect of the makeup?</size>
+M4A1(0)<Speaker>Actually M3</Speaker>||:Ох...у-ум...
+T65(0)<Speaker>T65</Speaker>||:<size=33>Кажется, она вернулась к своей обычной жизни...</size>
+T77(0)<Speaker>T77</Speaker>||:<size=33>Это было действительно что-то... Это побочный эффект макияжа?</size>
 M14(0)<Speaker>M14</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Guys, we...we've found Miss M16. +But...you'd better hurry...
 T65(0)<Speaker>T65</Speaker><Shake>||<黑屏2><BGM>BGM_Wake</BGM>:Miss M16... +Miss M16!! +Ohmygodddddd!
 M16(1)<Speaker>M16A1</Speaker>||:Ack...not so hard...can't breathe... +Also...don't put pressure on the modules that got ripped out. Just let me stay like this.
@@ -85,3 +85,4 @@ T77()||:While two men were making their way to freedom, they came across a daunt
 M1 Garand()||:But in the story, the friend refused to do that...
 T77()||<黑屏1><黑屏2>:He wasn't willing to try, but this path paved with light still gave him hope, didn't it?
 ()||<黑屏1>:The Way Back is Paved with Light ⁠— END.
+
