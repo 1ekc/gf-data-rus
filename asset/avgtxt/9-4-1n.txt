@@ -1,45 +1,46 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()||<黑屏2><BIN>99</BIN><Night><BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:...
-()||:...The sound of crossfire remains in the distance.
-M14(0)<Speaker>M14</Speaker>||:Guys, over here! +Put Captain down. We have quick-repair kits here!
-T65(0)<Speaker>T65</Speaker><Shake>||<BGM>BGM_Wake</BGM>:Are...are we safe...? +But...but...
-T77(0)<Speaker>T77</Speaker>||:Stop trembling, T65. +Yes, we escaped with our lives. It's not that big a deal.
-T65(0)<Speaker>T65</Speaker>||:Miss M16 really is okay! +T77, Miss M16 has really returned from behind the fog!
-M4A1(0)<Speaker>Actually M3</Speaker>||:She's in a much better state than we imagined... +This is great news...
-T65(0)<Speaker>T65</Speaker>||:Can you believe it, T77?! It came true!
-T77(0)<Speaker>T77</Speaker>||:Please don't hold me so tight...can't breathe. +... +Miss Garand, may I ask a question?
-m1(0)<Speaker>M1 Garand</Speaker>||:Yes?
-T77(0)<Speaker>T77</Speaker>||:Was the Miss M16 we just saw... +The real deal...or was that an imposter? 
-T65(0)<Speaker>T65</Speaker>||:What are you talking about, T77? Miss Thompson was covering our escape, wasn't she?
-m1(0)<Speaker>M1 Garand</Speaker>||:That Miss M16 is definitely not an imposter. +I've been with you the whole time; I couldn't have applied makeup on anyone. +Besides, our designated star, Miss Thompson...well, there she is.
-T77(0)<Speaker>T77</Speaker>||:...That does seem to be the case. +...
-M1928A1(0)<Speaker>Thompson</Speaker>||:Phew...that feels a lot better. +Is everyone here? +Nobody got lost on the way, I hope?
-M14(0)<Speaker>M14</Speaker>||:Yep, that's everyone. +We can summon the chopper anytime.
-M4A1(0)<Speaker>Actually M3</Speaker>||:Wait, we don't have everyone! +Miss M16 didn't follow us!
-M1928A1(0)<Speaker>Thompson</Speaker>||:I know. +M14, send a message to the Boss.
-M14(0)<Speaker>M14</Speaker>||:...Got it.
-T65(0)<Speaker>T65</Speaker>||:...Huh? +We're...leaving Miss M16 behind on her own? +Why, Miss Thompson?! Why are we abandoning our companion?!
-M1928A1(0)<Speaker>Thompson</Speaker>||:She must have her own reason for coming here. We can only watch out for ourselves. +You don't have to worry about her; she is, after all, Griffin's toughest veteran.
-T65(0)<Speaker>T65</Speaker>||:But even you said that Judge is a formidable foe... +If something happens to Miss M16 when she's fighting her...
-T65(0);m1(0)<Speaker>M1 Garand</Speaker>||:If Miss M16 could survive her previous ordeal, she'll be fine this time as well. +Let's go. Miss T91 is still waiting for your good news.
-T65(0)<Speaker>T65</Speaker>;m1(0)||:She's been waiting for so long... +If we go back just like that...we'll give her nothing but more hope... +And I can do nothing...but wait with her.
-T65(0);m1(0)<Speaker>M1 Garand</Speaker>||:But this is a hard-earned chance for us to make a safe retreat... If you go back for Miss M16, you'll only end up putting yourself in unnecessary danger. +If you get destroyed...you won't even remember you've seen Miss M16.
-T65(0)<Speaker>T65</Speaker>;m1(0)||:I... +I've had enough with sitting at the base waiting for so-called good news. +If I had to lose her again, then I'd rather not have reunited with her to begin with! +Either we go home with Miss M16, or we forget everything that happened here!
+()||:...Вдали все еще слышен звук перестрелки.
+M14(0)<Speaker>M14</Speaker>||:Девчата, сюда! +Поставь капитана на землю. У нас есть наборы для быстрого ремонта!
+T65(0)<Speaker>T65</Speaker><Shake>||<BGM>BGM_Wake</BGM>:Мы... мы в безопасности...? +Но... но...
+T77(0)<Speaker>T77</Speaker>||:Перестань дрожать, T65. +Да, мы спаслись. Ничего страшного.
+T65(0)<Speaker>T65</Speaker>||:Мисс M16 действительно в порядке! +T77, мисс M16 действительно вернулась из тумана!
+M4A1(0)<Speaker>Actually M3</Speaker>||:Она в гораздо лучшем состоянии, чем мы предполагали... +Это отличная новость...
+T65(0)<Speaker>T65</Speaker>||:Ты можешь в это поверить, T77?! Это случилось!
+T77(0)<Speaker>T77</Speaker>||:Пожалуйста, не обнимай меня так крепко... я не могу дышать. +... +Мисс Garand, можно задать вопрос?
+m1(0)<Speaker>M1 Garand</Speaker>||:Ась?
+T77(0)<Speaker>T77</Speaker>||:Была ли мисс M16, которую мы только что видели... +Настоящая... или это была фальшивка?
+T65(0)<Speaker>T65</Speaker>||:О чем ты вообще, T77? Мисс Thompson помогла с нашим побегом, разве нет?
+m1(0)<Speaker>M1 Garand</Speaker>||:Эта мисс М16 определенно не самозванка. +Я была с вами все это время и я не смогла бы наложить макияж ни на кого. +Кроме того, наша главная звезда, мисс Thompson... ну, вот она.
+T77(0)<Speaker>T77</Speaker>||:...Похоже, что так оно и есть. +...
+M1928A1(0)<Speaker>Thompson</Speaker>||:Фу... теперь намного лучше. +Все здесь? +Надеюсь, никто не заблудился по дороге?
+M14(0)<Speaker>M14</Speaker>||:Да, здесь все. +Мы можем вызвать вертолет в любое время.
+M4A1(0)<Speaker>Actually M3</Speaker>||:Погоди, мы не всех собрали! +Мисс M16 не пошла за нами!
+M1928A1(0)<Speaker>Thompson</Speaker>||:Я знаю. +М14, отправь сообщение Боссу.
+M14(0)<Speaker>M14</Speaker>||:...Есть.
+T65(0)<Speaker>T65</Speaker>||:...Э? +Мы... оставим мисс М16 одну? +Почему, мисс Thompson?! Почему мы бросаем нашу спутницу?!
+M1928A1(0)<Speaker>Thompson</Speaker>||:У нее наверняка есть свои причины, чтобы прийти сюда. Мы можем только позаботиться о себе. +Не нужно беспокоиться о ней, она же, в конце концов, самый опытный ветеран Грифона.
+T65(0)<Speaker>T65</Speaker>||:Но даже ты говорила, что Судья — грозный противник... +Если с мисс М16 что-то случится, когда она будет с ней сражаться...
+T65(0);m1(0)<Speaker>M1 Garand</Speaker>||:Если мисс M16 смогла пережить предыдущее испытание, то и в этот раз она справится. +Пойдем. Мисс T91 все еще ждет от нас хороших новостей.
+T65(0)<Speaker>T65</Speaker>;m1(0)||:Она так долго ждала... +Если мы просто так уйдем... мы только дадим ей еще больше надежды... +И я ничего не могу сделать... кроме как подождать вместе с ней.
+T65(0);m1(0)<Speaker>M1 Garand</Speaker>||:Но это с трудом заработанный шанс для нашего безопасного отступления... Если ты вернешься за мисс M16, ты только подвергнешь себя ненужной опасности. +Если тебя уничтожат... ты даже не вспомнишь, что видела мисс M16.
+T65(0)<Speaker>T65</Speaker>;m1(0)||:Я... +Я устала сидеть на базе и ждать так называемых хороших новостей. +Если я снова ее потеряю, то лучше бы я с ней и не встречалась! +Либо мы уезжаем домой с мисс М16, либо забываем все, что здесь произошло!
 m1(0)<Speaker>M1 Garand</Speaker>||:...
-m1(0)<Speaker>M1 Garand</Speaker>||:Miss M3, please talk some sense into Miss T65. +At this rate...
-M4A1(0)<Speaker>Actually M3</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_weapon_reload</SE1>:No, I'm gonna kill that midget. +I'm gonna go back and kill her right now.
-M4A1(0);m1(0)<Speaker>M1 Garand</Speaker>||:Huh?
-M4A1(0)<Speaker>Actually M3</Speaker>;m1(0)||:Who does she think she is? She rubs me the wrong way. +Did she get so pompous because I didn't stand up to her? +Also, "grease gun"?!
-M4A1(0);m1(0)<Speaker>M1 Garand</Speaker>||:Miss M3...what's the matter with you? +You look scary... No...M4 looks scary...
-T77(0)<Speaker>T77</Speaker>;m1(0)||:<size=35>Some people flip out when you mention their height. Similarly, this could be M3's berserk button.</size>
-T77(0);m1(0)<Speaker>M1 Garand</Speaker>||:... +Miss T77...
+m1(0)<Speaker>M1 Garand</Speaker>||:Мисс M3, пожалуйста, поговорите с мисс T65. +При таком темпе...
+M4A1(0)<Speaker>Actually M3</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_weapon_reload</SE1>:Нет, я убью эту малявку. +Я вернусь и убью её прямо сейчас.
+M4A1(0);m1(0)<Speaker>M1 Garand</Speaker>||:Э??
+M4A1(0)<Speaker>Actually M3</Speaker>;m1(0)||:Кем она себя возомнила? Она меня раздражает. +Она стала такой высокомерной, потому что я не дал ей сдачи? +И ещё, «смазочный пистолет»?!
+M4A1(0);m1(0)<Speaker>M1 Garand</Speaker>||:Мисс M3... что с тобой? +Ты выглядишь страшно... Нет... M4 выглядит страшно...
+T77(0)<Speaker>T77</Speaker>;m1(0)||:<size=35>Некоторые люди выходят из себя, когда упоминаешь их рост. Точно так же это может быть «кнопка ярости» M3.</size>
+T77(0);m1(0)<Speaker>M1 Garand</Speaker>||:... +Мисс T77...
 T77(0)<Speaker>T77</Speaker>;m1(0)||:...
-T77(0);m1(0)<Speaker>M1 Garand</Speaker>||:... +Alright...
-T77(0)<Speaker>T77</Speaker>;m1(0)||:An actual wordless communication of ideas – how rare. +Are you sure you haven't misunderstood anything?
-m1(0)<Speaker>M1 Garand</Speaker>||:Yes, it's pretty clear what you intend to do...
-()||:...Thompson and Garand exchange a glance.
-M1928A1(0)<Speaker>Thompson</Speaker>||:You guys... Is it because you're so young that you're so unyielding...? +Save it, Garand. Aren't you the same?
-m1(0)<Speaker>M1 Garand</Speaker>||<BGM>BGM_Reverse</BGM>:... +...How much time can we buy if I double the length of my report?
-M1928A1(0)<Speaker>Thompson</Speaker>||:How much time? +Let's agree on the number according to the union's rules.
-M14(0)<Speaker>M14</Speaker>||:Captain...?
-M1928A1(0)<Speaker>Thompson</Speaker>||<黑点1>:M14, rewrite the message. +Tell the Boss that we're staying out late.
+T77(0);m1(0)<Speaker>M1 Garand</Speaker>||:... +Хорошо...
+T77(0)<Speaker>T77</Speaker>;m1(0)||:Настоящее безсловесное общение мыслями – как это редко бывает. +Ты уверена, что ничего не перепутала?
+m1(0)<Speaker>M1 Garand</Speaker>||:Да, совершенно ясно, что ты собираешься сделать...
+()||:...Thompson и Garand обмениваются взглядами.
+M1928A1(0)<Speaker>Thompson</Speaker>||:Девочки... Это потому, что вы такие молодые, поэтому такие упорные...? +Забудь об этом, Garand. Разве ты не такая же?
+m1(0)<Speaker>M1 Garand</Speaker>||<BGM>BGM_Reverse</BGM>:... +...Сколько времени мы можем выиграть, если я увеличу объем своего отчета вдвое?
+M1928A1(0)<Speaker>Thompson</Speaker>||:Сколько времени? +Давайте договоримся о количестве в соответствии с правилами профсоюза.
+M14(0)<Speaker>M14</Speaker>||:Капитан...?
+M1928A1(0)<Speaker>Thompson</Speaker>||<黑点1>:M14, отредактируйте сообщение. +Сообщи Боссу, что мы задержимся.
+
