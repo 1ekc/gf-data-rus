@@ -1,75 +1,75 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>9</BIN><SE2>Gunfight</SE2>:...
-()<Speaker></Speaker>||<BGM>BGM_Frontline</BGM>:...Clack. +Beep...
-()<Speaker>T65</Speaker>||:Hurry, hurry, hurry... +Arghhhh, why isn't it turning on when it counts? This rubbish camera! +Isn't our equipment 100% secure?!
-()<Speaker>M3</Speaker>||:Miss T65, watch out!
-()<Speaker></Speaker>||<SE1>Explode</SE1>:...Bang.
-()<Speaker>T65</Speaker>||:I almost got hit... That was close... +Where the hell is the button to start recording?! +How am I supposed to work this piece of antique?!
-()<Speaker>T77</Speaker>||:Look, the light is on. +It's already started recording, you simply haven't taken off the lens cap.
-()<Speaker>T65</Speaker>||:Huh?? Oh!
-()<Speaker></Speaker>||<白屏1>0,2</白屏1>:...Click.
-T65(0)<Speaker>T65</Speaker>||<白屏2>0,2</白屏2><BIN>99</BIN><Night>:Pant...pant...pant...
-T65(0)<Speaker>T65</Speaker>||:T91...T91! +I'm not lying! Why won't you believe me?!
-M1928A1(0)<Speaker>Thompson</Speaker>||<SE2>Gunfight</SE2>:Keep running! +Move quickly to the extraction point!
-()<Speaker></Speaker>||<SE1>Explode</SE1>:...Bang!
-()<Speaker>Thompson</Speaker>||:Ugh...dammit... +My leg...
-()<Speaker>M14</Speaker>||:Captain⁠—
-m1(0)<Speaker>M1 Garand</Speaker>||:Miss M3, we need a hand over here! Hurry!
-M4A1(3)<Speaker>M4</Speaker>||:Coming!
-()<Speaker>T65</Speaker>||:Pant...pant, pant, pant...
+()<Speaker></Speaker>||<BGM>BGM_Frontline</BGM>:...Клац. + Пип...
+()<Speaker>T65</Speaker>||:Скорее, скорее, скорее... +Агххх, почему она не включается, когда это нужно? Эта чертова камера! +Разве наше оборудование не 100% надежно?!
+()<Speaker>M3</Speaker>||:Мисс T65, берегись!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:...Бэнг.
+()<Speaker>T65</Speaker>||:Меня чуть не задело... Чуть не попали... +Где, черт возьми, кнопка для начала записи?! +Как, черт возьми, работать с этой древней штуковиной?!
+()<Speaker>T77</Speaker>||:Смотри, индикатор горит. +Запись уже началась, просто ты не сняла крышку с объектива.
+()<Speaker>T65</Speaker>||:А??? О!
+()<Speaker></Speaker>||<白屏1>0,2</白屏1>:...Клик.
+T65(0)<Speaker>T65</Speaker>||<白屏2>0,2</白屏2><BIN>99</BIN><Night>:Хрип... хрип... хрип...
+T65(0)<Speaker>T65</Speaker>||:T91...T91! +Я не вру! Почему ты мне не веришь?!
+M1928A1(0)<Speaker>Thompson</Speaker>||<SE2>Gunfight</SE2>:Продолжай бежать! +Быстрее, к месту эвакуации!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:...Бэнг!
+()<Speaker>Thompson</Speaker>||:Ух... чёрт... +Моя нога...
+()<Speaker>M14</Speaker>||:Капитан⁠—
+m1(0)<Speaker>M1 Garand</Speaker>||:Мисс М3, помогите нам! Скорее!
+M4A1(3)<Speaker>M4</Speaker>||:Иду!
+()<Speaker>T65</Speaker>||:Хрип...хрип...,хрип...хрип...
 ()<Speaker></Speaker>||:...
-()<Speaker>???</Speaker>||<CGDelay>0.5</CGDelay>:Stand aside. Executing the Master's orders is always the top priority. +She may not have instructed me on what to do with you, but if you get in the way, I will obliterate you... +M16A1.
+()<Speaker>???</Speaker>||<CGDelay>0.5</CGDelay>:Отступите. Выполнение приказов Мастера всегда является главным приоритетом. +Она, возможно, не давала мне указаний, что делать с вами, но если вы помешаете, я уничтожу вас... +M16A1.
 ()<Speaker></Speaker>||:...
-M16(3)<Speaker>M16A1</Speaker>||<黑屏1>0,0.6</黑屏1>:Are those your last words, Sangvis scum?
+M16(3)<Speaker>M16A1</Speaker>||<黑屏1>0,0.6</黑屏1>:Это твои последние слова, сучка из Сангвиса?
 ()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:...
-()<Speaker></Speaker>||<黑屏1><SE2>Gunfight</SE2>:...40 minutes ago.
-()||<黑屏2><BIN>99</BIN><Night><SE1>Explode</SE1><BGM>BGM_Sneak</BGM>:...A violent explosion from not far away.
-T77(0)<Speaker>T77</Speaker>||:... +The place that got blown up...
-M4A1(0)<Speaker>Actually M3</Speaker>||:Isn't that...
-T65(0)<Speaker>T65</Speaker>||<CGDelay>0.2</CGDelay>:...the safe house we were in?
-m1(0)<Speaker>M1 Garand</Speaker>||:Uh...
-M14(0)<Speaker>M14</Speaker>||:You made a beeline for us after running into S.F. out there... +We did notice soon enough...but thanks to you, the safe house was exposed...
-T65(0)<Speaker>T65</Speaker>||:The enemies came out of nowhere the moment we finished collecting the parts! +We didn't have time to think it through...
-m1(0)<Speaker>M1 Garand</Speaker>||:We were this close to making the video... +Why did the Sangvis patrols have to sniff us out now...?
-M1928A1(0)<Speaker>Thompson</Speaker>||:...I'm afraid these enemies are much trickier than mere patrols. +Even if your friends hadn't run back here, the safe house wouldn't have protected us for long.
-m1(0)<Speaker>M1 Garand</Speaker>||:Huh?
-M1928A1(0)<Speaker>Thompson</Speaker>||:Judging from the scale of this attack, that midget has finally caught up with us.
-M14(0)<Speaker>M14</Speaker>||:Has she still not given up...? +She's such a bother...
-T65(0)<Speaker>T65</Speaker>||:Midget... You mean that lame Destroyer?
-M1928A1(0)<Speaker>Thompson</Speaker>||:She, too, is a midget, but this one is an advanced Doll that I've never seen before.
-T65(0)<Speaker>T65</Speaker>||:...Why are so many of Sangvis Ferri's advanced Dolls little girls?
-T65(0);T77(0)<Speaker>T77</Speaker>||:My guess is that Mastermind is also a runt, so she doesn't like keeping tall people around her.
-T65(0)<Speaker>T65</Speaker>||:That kinda makes sense...
-M1928A1(0)<Speaker>Thompson</Speaker>||:Jokes aside, this new midget is armed with weapons more powerful than most S.F. and is a lot more mature than you'd think. +We are no match for her.
-M4A1(0)<Speaker>Actually M3</Speaker>||:Is that...why you've been hiding in the safe house, Miss Thompson?
-M14(0)<Speaker>M14</Speaker>||:We haven't been hiding! +We were monitoring friendly signals in this area!
-M1928A1(0)<Speaker>Thompson</Speaker>||:Enough, M14. +We busted AK-47's squad out. It's only natural that would make us S.F.'s new targets.
-m1(0)<Speaker>M1 Garand</Speaker>||:Then...what do we do now?
-M1928A1(0)<Speaker>Thompson</Speaker>||:Garand, you know full well it's impossible to complete your objective tonight. +We can only focus on giving the midget the slip.
+()<Speaker></Speaker>||<黑屏1><SE2>Gunfight</SE2>:...40 минут назад.
+()||<黑屏2><BIN>99</BIN><Night><SE1>Explode</SE1><BGM>BGM_Sneak</BGM>:...Сильный взрыв раздался недалеко отсюда.
+T77(0)<Speaker>T77</Speaker>||:... +Место, которое взорвалось...
+M4A1(0)<Speaker>Actually M3</Speaker>||:Разве это не...
+T65(0)<Speaker>T65</Speaker>||<CGDelay>0.2</CGDelay>:...убежище, в котором мы находились?
+m1(0)<Speaker>M1 Garand</Speaker>||:Ух...
+M14(0)<Speaker>M14</Speaker>||:Ты бросилась к нам, как только встретила С.Ф. там... +Мы заметили это достаточно быстро... но благодаря тебе убежище было раскрыто...
+T65(0)<Speaker>T65</Speaker>||:Враги появились из ниоткуда в тот момент, когда мы закончили собирать детали! +У нас не было времени все обдумать...
+m1(0)<Speaker>M1 Garand</Speaker>||:Мы были так близки к тому, чтобы снять видео... +Почему патрули Сангвиса должны были нас сейчас вычислить...?
+M1928A1(0)<Speaker>Thompson</Speaker>||:...Боюсь, эти враги гораздо опаснее, чем простые патрули. Даже если бы твои друзья не вернулись сюда, убежище не защитило бы нас надолго.
+m1(0)<Speaker>M1 Garand</Speaker>||:Э??
+M1928A1(0)<Speaker>Thompson</Speaker>||:Судя по масштабам этой атаки, этот карлик наконец-то догнала нас.
+M14(0)<Speaker>M14</Speaker>||:Она все еще не сдалась...? +Она такая надоедливая...
+T65(0)<Speaker>T65</Speaker>||:Карлик... Ты имеешь в виду ту убогую «Разрушительницу»?
+M1928A1(0)<Speaker>Thompson</Speaker>||:Она тоже карлик, но это продвинутая Кукла, которую я никогда раньше не видела.
+T65(0)<Speaker>T65</Speaker>||:...Почему многи епродвинутые Куклы Санквис Ферри — маленькие девочки?
+T65(0);T77(0)<Speaker>T77</Speaker>||:Я предполагаю, что Владыка тоже невысокого роста, поэтому она не любит, когда вокруг нее высокие люди.
+T65(0)<Speaker>T65</Speaker>||:Это вполне логично...
+M1928A1(0)<Speaker>Thompson</Speaker>||:Шутки в сторону, эта новоявленная лилипутка вооружена оружием, более мощным, чем у большинства С.Ф., и гораздо более развита, чем можно было бы подумать. +Мы ей не ровня.
+M4A1(0)<Speaker>Actually M3</Speaker>||:Это... поэтому-то вы и прятались в убежище, мисс Thompson?
+M14(0)<Speaker>M14</Speaker>||:Мы не прятались! +Мы отслеживали дружеские сигналы в этой области!
+M1928A1(0)<Speaker>Thompson</Speaker>||:Хватит, М14. +Мы взорвали отряд АК-47. Естественно, что теперь мы стали новой целью для С.Ф.
+m1(0)<Speaker>M1 Garand</Speaker>||:Тогда... что же нам теперь делать?
+M1928A1(0)<Speaker>Thompson</Speaker>||:Garand, ты прекрасно знаешь, что сегодня ночью тебе не удастся выполнить свою задачу. +Мы можем сосредоточиться только на том, чтобы ускользнуть от этого карлика.
 m1(0)<Speaker>M1 Garand</Speaker>||:...
-M4A1(0)<Speaker>Actually M3</Speaker>||:In the end...we have no choice but to give up...
-T77(0)<Speaker>T77</Speaker>||:Sigh...
-T65(0)<Speaker>T65</Speaker>||:How can you say that?! +Garand, there must be a Plan D, right?!
-m1(0)<Speaker>M1 Garand</Speaker>||:...I'm afraid not. +Miss Thompson is right. Under such conditions, it's impossible to keep filming. +All we can do for now is protect ourselves.
-T65(0)<Speaker>T65</Speaker><Shake>||:No way...
-M1928A1(0)<Speaker>Thompson</Speaker>||:That Sangvis Doll is coming for me and M14, so we can split up and make a break for it. +Then we'll regroup at the safe house at these coordinates and withdraw.
-T65(0)<Speaker>T65</Speaker>||:But won't that put you—
-M1928A1(0)<Speaker>Thompson</Speaker>||:It was our earlier action that got her involved. +This is the best way to keep you safe.
+M4A1(0)<Speaker>Actually M3</Speaker>||:В конце концов... нам не остается ничего другого, как сдаться...
+T77(0)<Speaker>T77</Speaker>||:Вздох...
+T65(0)<Speaker>T65</Speaker>||:Как ты можешь так говорить?! +Garand, должен же быть план Д, верно?!
+m1(0)<Speaker>M1 Garand</Speaker>||:...Боюсь, что нет. +Мисс Thompson права. В таких условиях невозможно продолжать съемки. +Все, что мы можем сделать сейчас, это защитить себя.
+T65(0)<Speaker>T65</Speaker><Shake>||:Не может быть...
+M1928A1(0)<Speaker>Thompson</Speaker>||:Эта Кукла Сангвис идет за мной и М14, так что мы можем разделиться и попытаться сбежать. +Затем мы соберёмся в безопасном месте по этим координатам и покинем территорию.
+T65(0)<Speaker>T65</Speaker>||:Но разве это не поставит тебя—
+M1928A1(0)<Speaker>Thompson</Speaker>||:Это наши предыдущие действия привели к ее вмешательству. +Это лучший способ обеспечить вашу безопасность.
 ()<Speaker></Speaker>||:...
-()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:To be fair, that IS the course of action that would benefit the most of you. +Unfortunately, I'm the one in charge of destroying you. +Let me be the Judge of your sins.
-M1928A1(0)<Speaker>Thompson</Speaker>||<黑屏1>0,6</黑屏1>:What?!
-()||<黑屏2>0,2</黑屏2><BIN>9</BIN><SE1>Explode</SE1><黑屏1><BGM>BGM_Boss</BGM>:...Bang.
-T77(0)<Speaker>T77</Speaker>||<黑点2><BIN>10</BIN>:Are you okay?!
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>We'll buy you guys time! Go!</color>
-M14(0)<Speaker>M14</Speaker><通讯框>||:<color=#00CCFF>Watch me!</color> +<color=#00CCFF>Take aim...fire!</color>
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:...The Sangvis Doll remains oblivious to M14's and Thompson's attacks.
-BossJustice(0)<Speaker>Judge</Speaker>||:... +I assumed this was just the usual search & destroy... Totally didn't expect I'd have to get serious and execute Mastermind's order.
-()<Speaker></Speaker>||:...She ignores Thompson and M14 and charges straight toward the others.
-M14(0)<Speaker>M14</Speaker><通讯框>||:<color=#00CCFF>Hold on! We're the ones shooting at you!</color>
-T77(0)<Speaker>T77</Speaker>||<震屏>:She's coming!
-T65(0)<Speaker>T65</Speaker>||:Ahhhhh! This isn't what we agreed on, Miss Thompson!! +She's heading straight for us!
-m1(0)<Speaker>M1 Garand</Speaker>||:Why?! +Isn't Miss Thompson a much bigger threat?!
-BossJustice(0)<Speaker>Judge</Speaker>||:You can't hide from me even if you disguise your signal as someone not from the AR Team! +<Size=55>M4A1!</Size>
-M4A1(3)<Speaker>Actually M3</Speaker>||<震屏>:Huhhhhhh??? +N-n-n-n-no, you're mistaken!
-T65(0)<Speaker>T65</Speaker>||:What the hell?! +How did this happen?!!
-T77(0)<Speaker>T77</Speaker>||<黑点1>:We can't possibly explain this. +Just hurry! +There's a Sangvis command relay station up ahead! We can use that to keep the other S.F. units from getting in our way!
+()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:Справедливости ради, это ДЕЙСТВИТЕЛЬНО то, что принесет вам наибольшую пользу. +К сожалению, я единственная, кто может вас уничтожить. +Пусть я буду Судьей ваших грехов.
+M1928A1(0)<Speaker>Thompson</Speaker>||<黑屏1>0,6</黑屏1>:Что?!
+()||<黑屏2>0,2</黑屏2><BIN>9</BIN><SE1>Explode</SE1><黑屏1><BGM>BGM_Boss</BGM>:...Бэнг.
+T77(0)<Speaker>T77</Speaker>||<黑点2><BIN>10</BIN>:Ты в норме?!
+M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>Мы выиграем для вас время! Вперёд!</color>
+M14(0)<Speaker>M14</Speaker><通讯框>||:<color=#00CCFF>Смотри на меня!</color> +<color=#00CCFF>Целься... огонь!</color>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:...Кукла Сангвис остается равнодушной к атакам M14 и Thompson.
+BossJustice(0)<Speaker>Судья</Speaker>||:... +Я предполагала, что это будет обычная операция по поиску и уничтожению... Совсем не ожидала, что мне придется действовать серьезно и выполнить приказ Владыки.
+()<Speaker></Speaker>||:...Она игнорирует Thompson и М14 и бросается прямо на остальных.
+M14(0)<Speaker>M14</Speaker><通讯框>||:<color=#00CCFF>Стой! Это мы в тебя стреляем!</color>
+T77(0)<Speaker>T77</Speaker>||<震屏>:Она идет!
+T65(0)<Speaker>T65</Speaker>||:Ааааа! Мы не так договаривались, мисс Thompson! +Она направляется прямо к нам!
+m1(0)<Speaker>M1 Garand</Speaker>||:Почему?! +Разве мисс Thompson не является гораздо большей угрозой?!
+BossJustice(0)<Speaker>Судья</Speaker>||:Ты не сможешь скрыться от меня, даже если замаскируешь свой сигнал под кого-то, кто не является членом Команды AR! +<Size=55>M4A1!</Size>
+M4A1(3)<Speaker>Actually M3</Speaker>||<震屏>:ЭЭээээээ??? +Н-н-н-еет, ты ошибаешься!
+T65(0)<Speaker>T65</Speaker>||:Какого хрена?! +Как это случилось?!
+T77(0)<Speaker>T77</Speaker>||<黑点1>:Мы не можем это объяснить. +Поторопись! +Впереди есть ретрансляционная станция Сангвиса! Мы можем использовать ее, чтобы другие подразделения С.Ф. не помешали нам!
