@@ -1,74 +1,75 @@
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:... +......
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏1><BGM>BGM_Truth</BGM>:Good evening... +...Finally, we meet.
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏2><BIN>16</BIN>:You are...the Sangvis Mastermind, aren't you?
-()||:Clap! (Applause)
-()||<SE2>MachineGunBurst</SE2>:...Bang!
-？？()<Speaker>???</Speaker>||:...I have my own name.
-AR15()<Speaker>ST AR-15</Speaker>||:Cough... +Cough... What a light tickle...from the leader of Sangvis Ferri... +Even M16's punch...hurt much more...
-主脑()<Speaker>Mastermind</Speaker>||:You should not have deceived me. +You have an upright personality. That was why you have been chosen as the experimental subject of Parapluie. +I believed you would keep your word, that you would deliver M4A1 to me.
-AR15()<Speaker>ST AR-15</Speaker>||:Your database could use some updating, young lady... +16LAB's technology is far beyond your imagination. Even Parapluie can't have me at its mercy. +Not to mention, personality is just a mask. We can turn into anyone...for the sake of revenge...
-主脑()<Speaker>Mastermind</Speaker>||:"Revenge"? +A T-Doll giving up its life for something other than its given orders... +...How inexplicable.
-AR15()<Speaker>ST AR-15</Speaker>||:Indeed... Of course you'd find it inexplicable... +Up until now... How much havoc have you wreaked?! How many of my companions have you hurt?!
-主脑()<Speaker>Mastermind</Speaker>||:... +I am merely doing what I believe is right.
-AR15()<Speaker>ST AR-15</Speaker>||:And so it's war, young lady from Sangvis Ferri... +This is not a game of toy bricks on the floor of your house. Everyone has to pay their price.
-AR15()<Speaker>ST AR-15</Speaker>||:If you still don't understand, let me teach you in a more straightforward way...
-主脑()<Speaker>Mastermind</Speaker>||:A detonator... +So those explosives are prepared for me...
-AR15()<Speaker>ST AR-15</Speaker>||:Next time, please know the difference between a battlefield and a negotiation table. +But this time, please just die.
-主脑()<Speaker>Mastermind</Speaker>||:This...means nothing to me.
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:I know, of course... But I still want to get this off my chest... +Go to hell, Sangvis scum!
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1><BGM>BGM_Truth</BGM>:Добрый вечер... +...Наконец-то мы встретились.
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏2><BIN>16</BIN>:Ты... Владыка Сангвис, не так ли?
+()||:Хлоп! (Аплодисменты)
+()||<SE2>MachineGunBurst</SE2>:...Бэнг!
+？？()<Speaker>???</Speaker>||:...У меня есть своё имя.
+AR15()<Speaker>ST AR-15</Speaker>||:Кашель... +Кашель... Какое легкое покалывание... от лидера Сангвис Ферри... +Даже удар М16... причинил гораздо большую боль...
+主脑()<Speaker>Владыка</Speaker>||:Ты не должна была меня обманывать. +У тебя честный характер. Именно поэтому тебя выбрали в качестве подопытного для проекта «Параплюй». +Я надеялась, что ты сдержишь свое слово и доставишь мне M4A1.
+AR15()<Speaker>ST AR-15</Speaker>||:Твоя база данных нуждается в обновлении, юная леди--+16LAB обладает технологиями, которые намного превосходят твоё воображение. Даже Параплюй не может полностью контролировать меня. +Не говоря уже о том, что личность - это всего лишь маска. Мы можем превратиться в любого... ради мести...
+主脑()<Speaker>Владыка</Speaker>||:«Месть»? +Т-Кукла, отдавшая свою жизнь за что-то, кроме полученных приказов... +...Как это необъяснимо.
+AR15()<Speaker>ST AR-15</Speaker>||:Действительно... Конечно, тебе это покажется необъяснимым... +До сих пор... Сколько хаоса ты причинила?! Скольким моим товарищам ты причинила боль?!
+主脑()<Speaker>Владыка</Speaker>||:... +Я просто делаю то, что считаю правильным.
+AR15()<Speaker>ST AR-15</Speaker>||:Итак, это война, юная леди из Сангвис Ферри... +Это не игра с игрушечными кубиками на полу твоего дома. Каждый должен заплатить свою цену.
+AR15()<Speaker>ST AR-15</Speaker>||:Если ты всё ещё не понимаешь, позволь мне объяснить тебе проще...
+主脑()<Speaker>Владыка</Speaker>||:Детонатор... +Так эти взрывчатые вещества приготовлены для меня...
+AR15()<Speaker>ST AR-15</Speaker>||:В следующий раз, пожалуйста, разберись в разнице между сражением и переговорами. +Но в этот раз, пожалуйста, просто сдохни.
+主脑()<Speaker>Владыка</Speaker>||:Это... ничего для меня не значит.
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:Я знаю, конечно... Но я все равно хочу высказаться... +Иди к черту, сучка Сангвиса!
 ()||<BIN>9</BIN><黑屏2>:... +......
-主脑()<Speaker>Mastermind</Speaker>||:What you did was not worth it. +It wasn't a decision that a T-Doll should make. +That concludes our first meeting. +Until next time then. 
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>10</黑屏1>:... +W...why... +...did you...
+主脑()<Speaker>Владыка</Speaker>||:То, что ты сделала, не стоило таких усилий. +Это не было решением, которое должна была принимать Т-Кукла. +На этом наша первая встреча завершена. +До следующей встречи.
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>10</黑屏1>:... +П...почему... +...ты...
 ()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><BIN>36</BIN><震屏><黑屏2>20</黑屏2>:
 ()||<BIN>36</BIN><黑屏1>:
 M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN><黑屏2>:...!
-()||:As the explosion goes off, M4A1 hears someone calling her from afar.
+()||:Когда раздается взрыв, M4A1 слышит, как кто-то зовет её издалека.
 ？？()<Speaker>???</Speaker>||:...A1...
-M4A1()<Speaker>M4A1</Speaker>||:Ugh...
+M4A1()<Speaker>M4A1</Speaker>||:Ух....
 RO635()<Speaker>RO635</Speaker>||<><黑屏1>10</黑屏1>:...M4A1! ...M4!
-M4A1()<Speaker>M4A1</Speaker>||<睁眼><BIN>98</BIN><BGM>BGM_Brain</BGM>:...! +Cough! +W...where am I...?
-RO635(0)<Speaker>RO635</Speaker>||:You've finally come to! +Don't you remember? We just had a victory with the Commander. We're now pushing forward... +Uh...what's the matter?
-RO635(0)<Speaker></Speaker>||:M4A1 glares viciously at RO.
-M4A1()<Speaker>M4A1</Speaker>||:Then why did you wake me up?
-RO635(3)<Speaker>RO635</Speaker>||:Um... According to the newest update, the area just ahead is completely infected with Parapluie. +None of our forces can proceed any further and we can only wait for the Military to sort it out, but the Commander has a new mission for us...
-M4A1()<Speaker>M4A1</Speaker>||:I'll talk to the Commander. Stand by for now.
-RO635(3)<Speaker></Speaker>||:M4A1 brushes past RO's shoulder and stalks off.
-RO635(3)<Speaker>RO635</Speaker>||:M4... +Did I do something that pissed her off?
-RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Hmm... It always takes M4 a while to warm up to strangers.
-RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:Really...? But she looked like she wanted to eat me alive just now. +Could M4 be...a so-called...”angry riser” or something?
-RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Not to my memory... +But maybe she hasn't had enough rest.
-RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:I hope that's all it really is... +Sigh...why is nothing working out...?
+M4A1()<Speaker>M4A1</Speaker>||<睁眼><BIN>98</BIN><BGM>BGM_Brain</BGM>:...! +Кашель! +Г... где я...?
+RO635(0)<Speaker>RO635</Speaker>||:Ты наконец-то пришла в себя! +Ты не помнишь? Мы только что одержали победу вместе с Командиром. Сейчас мы продвигаемся вперед... +Э-э... что с тобой?
+RO635(0)<Speaker></Speaker>||:M4A1 злобно смотрит на RO.
+M4A1()<Speaker>M4A1</Speaker>||:Тогда зачем ты меня разбудила?
+RO635(3)<Speaker>RO635</Speaker>||:Э-э... Согласно последним данным, территория впереди полностью заражена Параплюй. +Никто из наших не может продвигаться дальше, и нам остается только ждать, пока военные разберутся с ситуацией, но у Командира для нас есть новое задание...
+M4A1()<Speaker>M4A1</Speaker>||:Я поговорю с Командиром. Подожди пока.
+RO635(3)<Speaker></Speaker>||:M4A1 задевает плечо RO и уходит.
+RO635(3)<Speaker>RO635</Speaker>||:M4... +Я сделала что-то, что её разозлило?
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Хм... М4 всегда нужно некоторое время, чтобы привыкнуть к незнакомцам.
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:Правда...? Но она выглядела так, будто хотела съесть меня заживо. +Может быть, М4... так называемая «злая воспитательница» или что-то в этом роде?
+RO635(3);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Насколько я помню... +Но, возможно, она просто не выспалась.
+RO635(3)<Speaker>RO635</Speaker>;SOPII(0)||:Надеюсь, это действительно так и есть... +Вздох... почему ничего не получается...?
 RO635(3);SOPII(0)||:
-M4A1()<Speaker>M4A1</Speaker>||:Enough with the chit-chat. +The Commander says our scouts just discovered some paralyzed military units. RO, you're equipped for electronic warfare, aren't you?
-RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||:Uh, yes!
+M4A1()<Speaker>M4A1</Speaker>||:Хватит болтать. +Командир сказал, что наши разведчики только что обнаружили несколько разрозненных военных подразделений. RO, ты же оснащена оборудованием для ведения электронной войны, верно?
+RO635(0)<Speaker>RO635</Speaker>;SOPII(0)||:О, да!
 RO635(0);SOPII(0)||:
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Then we're setting off right now. +If we can get them fixed, it could make the Commander's job easier.
-()||<BIN>85</BIN><黑屏2>:Meanwhile, in the Military command center. +...Click.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:According to my subordinate's report, M4A1 has regrouped with Griffin. +And that thingy – the "Key" reacted instantly to Persica's little toy. +Looks like your intel is accurate.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:It will be the most foolish mistake you have made in your life if you doubt me, Mr. Carter.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:I've always had faith in your judgment, which is why I have made preparations to implement the Plan.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Can you ensure it will proceed as we agreed?
-NPC-Carter(0)<Speaker>Carter</Speaker>||:That's the whole purpose for this joint operation.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:I know you've pulled a lot of strings for this operation. You've even gone so far as to seek out small potatoes like Griffin. +But how are you going to deal with that Kryuger guy? Will he be a hindrance?
-NPC-Carter(0)<Speaker>Carter</Speaker>||:They're just an excuse for us to enter the area. It doesn't matter at all what role Kryuger and that Commander of his are going to play. +Now that M4A1 has shown up, we can just leave the rest of them be.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:You're right. It doesn't hurt to let those irritating bugs crawl around for a bit. +It's all the same as long as the Central Committee doesn't get involved. +So, tell me how you're going to set this Plan in motion.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:With only their combat forces, Sangvis Ferri has no hope of defending against my troops. +At this rate, they'll have to resort to their killer move – we all know what that's gonna be. +And that is the moment when we implement the Plan.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Humph... +The Military is every bit as unimaginative as I thought.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:It is the safest method.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:You're right, of course, but before that, I hope you could "approach" the Sangvis Mastermind.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Is this also a part of the Plan? I never heard about it.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:No, it's not related at all. I merely have some personal interest in that fella.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Is this compulsory?
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Don't make me put it so harshly, Mr. Carter. +Whenever I "hope" for something, it is pretty much implied that it's compulsory.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:(Sighs) Understood. I'll find a way.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||<黑屏1>:Let me see...what's the deal of that man's final masterpiece.
-()||<BIN>88</BIN><黑屏2>:Meanwhile. +In an obscure communication outpost on the battlefield.
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:Damn... +We overheard some incredible stuff here. It was worth all the legwork. +Hey, AK12, how long do we have left in the signal blockade? 
-闭着眼的人形()<Speaker>T-Doll with closed eyes</Speaker>||:Not long. Less than 30 seconds.
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:Then why didn't you give me a heads-up earlier, freakin' Doll? +Cease monitoring and retreat from the signal blockade now.
-闭着眼的人形()<Speaker>T-Doll with closed eyes</Speaker>||:My, aren't you being too careful? I'm dying to hear what else they're gonna say.
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:It doesn't mean a damn thing to us no matter what they're planning to do. +The question is...what's their motive...? +From what I can gather...the "Key" that Carter mentioned is probably the Sangvis Mastermind? +But if they're after Mastermind, Operation Butterfly was their best shot. Why did they leave it till now...?
-闭着眼的人形()<Speaker>T-Doll with closed eyes</Speaker>||:So can we move yet? We're all set.
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:The info we've collected so far doesn't make for very conclusive evidence. Let's just send it to HQ for now. +Don't be so impatient all the time. Besides, you're gonna lose interest in this pretty soon.
-闭着眼的人形()<Speaker>T-Doll with closed eyes</Speaker>||:Can't help it. I prefer making good use of time to wasting it on enjoying myself.
-NPC-Ange(0)<Speaker>Angelia</Speaker>||<黑屏1>:Then let's move it, Miss Doll. +Send word to your partner and the new recruit. We're going further in.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Тогда мы отправляемся прямо сейчас. +Если мы сможем помочь им, это облегчит работу Командира.
+()||<BIN>85</BIN><黑屏2>:Тем временем в военном командном центре. +...Клик.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Согласно отчету моего подчиненного, M4A1 вновь объединилась с Грифоном. +И эта штуковина — «Ключ» — мгновенно отреагировала на маленькую игрушку Персики. +Похоже, твоя информация верна.
+经过电子处理的男声()<Speaker>Искаженный голос</Speaker>||:Если до сих пор вы сомневаетесь в моих словах, то это будет самой большой ошибкой в вашей жизни, мистер Картер.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Я всегда полагался на твоё суждение, поэтому я подготовился к реализации Плана.
+经过电子处理的男声()<Speaker>Искаженный голос</Speaker>||:Можете ли вы гарантировать, что все будет проходить так, как мы договорились?
+NPC-Carter(0)<Speaker>Картер</Speaker>||:В этом и заключается вся цель этой совместной операции.
+经过电子处理的男声()<Speaker>Искаженный голос</Speaker>||:Я знаю, что ты приложил много усилий для этой операции. Ты даже пошёл на то, чтобы найти таких мелких рыбок, как Грифон. Но как ты собираешься поступить с этим Крюгером? Он будет мешать?
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Они для нас лишь повод, чтобы проникнуть в эту зону. Совершенно неважно, какую роль будут играть Крюгер и его командир. +Теперь, когда появилась M4A1, остальных можно просто оставить в покое.
+经过电子处理的男声()<Speaker>Искаженный голос</Speaker>||:Ты прав. Не помешает дать этим раздражающим жучкам немного поползать. +Всё равно, пока Центральный комитет не вмешивается. +Так что, расскажи мне, как ты собираешься реализовать этот план.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Имея в своем распоряжении только боевые силы, Сангвис Ферри не имеет никаких шансов защититься от моих войск. +При таком раскладе им придется прибегнуть к своему козырю — и мы все знаем, что это будет. +И именно в этот момент мы приступим к реализации Плана.
+经过电子处理的男声()<Speaker>Искаженный голос</Speaker>||:Хм... +Военные оказались такими же недалекими, как я и думал.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Это самый безопасный метод.
+经过电子处理的男声()<Speaker>Искаженный голос</Speaker>||:Вы, конечно, правы, но прежде я надеюсь, что вы сможете «подойти» к Владыке Сангвиса.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Это тоже часть Плана? Я никогда об этом не слышал.
+经过电子处理的男声()<Speaker>Искаженный голос</Speaker>||:Нет, это совсем не связано. Я просто испытываю личный интерес к этой персоне.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Это обязательно?
+经过电子处理的男声()<Speaker>Искаженный голос</Speaker>||:Не вынуждайте меня говорить так резко, мистер Картер. +Всякий раз, когда я «надеюсь» на что-то, это практически подразумевает, что это обязательно.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:(Вздыхает) Понятно. Я найду способ.
+经过电子处理的男声()<Speaker>Искаженный голос</Speaker>||<黑屏1>:Посмотрим... в чём же заключается последний шедевр этого человека.
+()||<BIN>88</BIN><黑屏2>:Тем временем. +В малозаметном пункте связи на поле боя.
+NPC-Ange(0)<Speaker>Анджелия</Speaker>||:Чёрт... +Мы услышали здесь невероятные вещи. Это стоило всех наших усилий. +Эй, AK12, сколько ещё продлится блокировка сигнала?
+闭着眼的人形()<Speaker>Т-Кукла с закрытыми глазами</Speaker>||:Недолго. Меньше 30 секунд.
+NPC-Ange(0)<Speaker>Анджелия</Speaker>||:Тогда почему ты не предупредила меня раньше, чертова Кукла? +Прекратить мониторинг и немедленно отступить от блокировки сигнала.
+闭着眼的人形()<Speaker>Т-Кукла с закрытыми глазами</Speaker>||:Ты не слишком осторожна? Мне очень интересно, что они еще скажут.
+NPC-Ange(0)<Speaker>Анджелия</Speaker>||:Нам совершенно всё равно, что они планируют делать. +Вопрос в том... каков их мотив...? +Насколько я понимаю... «Ключ», о котором говорил Картер, вероятно, это Владыка из Сангвиса? +Но если они преследуют Владыку, операция «Бабочка» была их лучшим шансом. Почему они отложили её до сих пор...?
+闭着眼的人形()<Speaker>Т-Кукла с закрытыми глазами</Speaker>||:Можем уже переезжать? Мы уже готовы.
+NPC-Ange(0)<Speaker>Анджелия</Speaker>||:Информация, которую мы собрали, не является убедительным доказательством. Пока что просто отправим её в штаб. +Не будь же так нетерпелива. К тому же, ты скоро потеряешь к этому интерес.
+闭着眼的人形()<Speaker>Т-Кукла с закрытыми глазами</Speaker>||:Ничего не поделаешь. Я предпочитаю с пользой проводить время, а не тратить его на развлечения.
+NPC-Ange(0)<Speaker>Анджелия</Speaker>||<黑屏1>:Тогда поехали, мисс Кукла. +Сообщи своёму партнеру и новобранцу. Мы идем дальше.
+
