@@ -1674,7 +1674,7 @@
     scripts: 9-1-1,9-1-2
     campaign: 9
     bgm: BGM_Frontline
-    title: Banquet after Dark
+    title: Банкет после заката
     is_util: 1
     start: 9-1-1
     first: 9-1-2
@@ -1687,7 +1687,7 @@
     scripts: 9-2-1,9-2-2
     campaign: 9
     bgm: BGM_Frontline
-    title: Probe
+    title: Датчик
     is_util: 1
     start: 9-2-1
     first: 9-2-2
@@ -1700,7 +1700,7 @@
     scripts: 9-3-1,9-3-2
     campaign: 9
     bgm: BGM_Frontline
-    title: Forum
+    title: Форум
     is_util: 1
     start: 9-3-1
     first: 9-3-2
@@ -1713,7 +1713,7 @@
     scripts: 9-4-1,9-4-2
     campaign: 9
     bgm: BGM_Frontline
-    title: Double Search
+    title: Двойной поиск
     is_util: 1
     start: 9-4-1
     first: 9-4-2
@@ -1726,7 +1726,7 @@
     scripts: 9-5-1,9-5-2
     campaign: 9
     bgm: BGM_Frontline
-    title: Prelude
+    title: Прелюдия
     is_util: 1
     start: 9-5-1
     first: 9-5-2
@@ -1739,7 +1739,7 @@
     scripts: 9-6-1,9-6-2
     campaign: 9
     bgm: BGM_Frontline
-    title: Breakthrough
+    title: Прорыв
     is_util: 1
     start: 9-6-1
     first: 9-6-2
@@ -1752,7 +1752,7 @@
     scripts: 9-1-1E,9-1-2E
     campaign: 9
     bgm: BGM_Frontline
-    title: Hawk and Hound I
+    title: Ястреб и Гончая I
     is_util: 1
     start: 9-1-1E
     first: 9-1-2E
@@ -1765,7 +1765,7 @@
     scripts: 9-2-1E,9-2-2E
     campaign: 9
     bgm: BGM_Frontline
-    title: Hawk and Hound II
+    title: Ястреб и Гончая II
     is_util: 1
     start: 9-2-1E
     first: 9-2-2E
@@ -1778,7 +1778,7 @@
     scripts: 9-3-1E,9-3-2E
     campaign: 9
     bgm: BGM_Frontline
-    title: Hawk and Hound III
+    title: Ястреб и Гончая III
     is_util: 1
     start: 9-3-1E
     first: 9-3-2E
@@ -1791,7 +1791,7 @@
     scripts: 9-4-1E,9-4-2E
     campaign: 9
     bgm: BGM_Frontline
-    title: Hawk and Hound IV
+    title: Ястреб и Гончая IV
     is_util: 1
     start: 9-4-1E
     first: 9-4-2E
@@ -4175,7 +4175,7 @@
     scripts: 9-1-1N,9-1-2N
     campaign: 9
     bgm: BGM_Frontline
-    title: The Way Back is Paved with Light I
+    title: Путь назад озарен светом I
     is_util: 1
     start: 9-1-1N
     first: 9-1-2N
@@ -4188,7 +4188,7 @@
     scripts: 9-2-1N,9-2-2N
     campaign: 9
     bgm: BGM_Frontline
-    title: The Way Back is Paved with Light II
+    title: Путь назад озарен светом II
     is_util: 1
     start: 9-2-1N
     point: 12571:9-2-4N-Point12571
@@ -4202,7 +4202,7 @@
     scripts: 9-3-1N,9-3-2N
     campaign: 9
     bgm: BGM_Frontline
-    title: The Way Back is Paved with Light III
+    title: Путь назад озарен светом III
     is_util: 1
     start: 9-3-1N
     first: 9-3-2N
@@ -4215,7 +4215,7 @@
     scripts: 9-4-1N,9-4-2N
     campaign: 9
     bgm: BGM_Frontline
-    title: The Way Back is Paved with Light IV
+    title: Путь назад озарен светом IV
     is_util: 1
     start: 9-4-1N
     first: 9-4-2N
