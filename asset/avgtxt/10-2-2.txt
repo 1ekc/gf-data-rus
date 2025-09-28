@@ -1,87 +1,88 @@
-()||<BIN>98</BIN><黑屏2><BGM>BGM_Battle</BGM><火花><SE1>Battlefield</SE1>:The Sangvis onslaught is relentless, making it very difficult for the T-Dolls to get to safety.
-M4A1(3)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:Cough... Why has S.F. sent so many units here?!
-Clear female voice()<Speaker>Clear female voice</Speaker>||:You know why.
-M4A1(3)<Speaker>M4A1</Speaker>||<SE1>Battlefield</SE1>:Mastermind is looking for me – that has to be it! +But how does she know where I am? This doesn't make any sense!
-Clear female voice()<Speaker>Clear female voice</Speaker>||:If you keep being distracted, your friends won't last very long.
-M4A1(3)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:I know that! Shut up! +Dammit... This isn't the time to think about such things... Focus, M4A1!
-xm3(0)<Speaker>XM3</Speaker><Speaker><通讯框>||<SE1>Battlefield</SE1>:What do we do now, M4?! There are too many of them! We can't fight our way through!
-M4A1(3)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:Get our units to retreat for now! We'll concentrate our fire and prepare for another attempt!
-xm3(0)<Speaker>XM3</Speaker><Speaker><通讯框>||<SE1>Battlefield</SE1>:There aren't many of us still standing. I don't believe we can...
-()||<SE1>Explode</SE1><震屏>:BOOM!! +Several shells land right among Griffin's echelons.
-M4A1(3)<Speaker>M4A1</Speaker>||:XM3? ...XM3, do you copy?! +XM3... This can't be happening...
-Clear female voice()<Speaker>Clear female voice</Speaker>||:All their signals disappeared. If you don't move now...
-M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1><关闭火花>:Shut it! I know! +What should I do now...? Will I also disappear...? +No, I have to get out of here first... +But XM3 and the others...
-()||<黑屏2><BIN>9</BIN><SE1>Gunfight</SE1>:Bang! Bang bang!
+()||<BIN>98</BIN><黑屏2><BGM>BGM_Battle</BGM><火花><SE1>Battlefield</SE1>:Натиск Сангвиса не прекращается, что значительно затрудняет Т-Куклам спасение.
+M4A1(3)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:Кашель... Почему С.Ф. отправил сюда столько подразделений?!
+Clear female voice()<Speaker>Ясный женский голос</Speaker>||:Ты знаешь почему.
+M4A1(3)<Speaker>M4A1</Speaker>||<SE1>Battlefield</SE1>:Владыка ищет меня – это должно быть так! +Но как она узнала, где я нахожусь? Это не имеет никакого смысла!
+Clear female voice()<Speaker>Ясный женский голос</Speaker>||:Если ты будешь продолжать отвлекаться, твои друзья не продержатся долго.
+M4A1(3)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:Я знаю! Заткнись! +Чёрт... Сейчас не время думать о таких вещах... Сосредоточься, M4A1!
+xm3(0)<Speaker>XM3</Speaker><Speaker><通讯框>||<SE1>Battlefield</SE1>:Что нам теперь делать, М4?! Их слишком много! Мы не сможем пробиться!
+M4A1(3)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:Пусть наши подразделения пока отступают! Мы сосредоточим огонь и подготовимся к новой попытке!
+xm3(0)<Speaker>XM3</Speaker><Speaker><通讯框>||<SE1>Battlefield</SE1>:Нас уже не так много осталось. Я не верю, что мы сможем...
+()||<SE1>Explode</SE1><震屏>:БУУУМ!! +Несколько снарядов попадают прямо в эшелоны Грифона.
+M4A1(3)<Speaker>M4A1</Speaker>||:XM3? ...XM3, ты меня слышишь?! +XM3... Это не может быть правдой...
+Clear female voice()<Speaker>Ясный женский голос</Speaker>||:Все их сигналы исчезли. Если ты не сдвинешься с места сейчас...
+M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1><关闭火花>:Заткнись! Я знаю! +Что мне теперь делать...? Я тоже исчезну...? +Нет, сначала я должна выбраться отсюда... +Но XM3 и остальные...
+()||<黑屏2><BIN>9</BIN><SE1>Gunfight</SE1>:Бэнг! Бэнг-бэнг!
 M4A1(2)<Speaker>M4A1</Speaker>||:...!
-()||:Suddenly, a torrent of gunfire tears through the Sangvis encirclement.
-M4A1(3)<Speaker>M4A1</Speaker>||:...! +Our aid?!
-()||<SE1>Explode</SE1><震屏><黑屏1>:Boom! +Another round of bullets and a bombardment completely dismantle the Sangvis troops.
+()||:Внезапно поток выстрелов прорывается через окружение Сангвиса.
+M4A1(3)<Speaker>M4A1</Speaker>||:...! +Наша помощь?!
+()||<SE1>Explode</SE1><震屏><黑屏1>:БУМ! +Ещё одна очередь пуль и бомбардировка полностью уничтожают войска Сангвиса.
 ()||<BIN>98</BIN><BGM>BGM_Empty</BGM><黑屏2>:...
-人类士兵()<Speaker>Human Soldier</Speaker>||<BGM>BGM_Sneak</BGM>:Clean out the corners! Watch out for possible ambush!
-人类士兵()<Speaker>Human Soldier</Speaker>||:All Sangvis signals have been extinguished. Hold on, there's one signal still in motion!
-M4A1(3)<Speaker>M4A1</Speaker>||:Don't shoot! I'm not an enemy! I'm a Griffin T-Doll!
-人类士兵()<Speaker>Human Soldier</Speaker>||:Drop your weapon and get down on the floor!
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:Lower your weapons! That's our rescue target!
-人类士兵()<Speaker>Human Soldier</Speaker>||:Yes, sir!
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:Get the autonomous armored units here and leave one behind to guard the train wreckage. +Do a headcount on Griffin's surviving units. We'll leave once everyone's in our vehicles.
-人类士兵()<Speaker>Human Soldier</Speaker>||:Yes, sir!
-M4A1(2)<Speaker>M4A1</Speaker>||:Sorry! Thank you for coming to our aid! +Um... To whom am I...
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:Yegor, Military captain.
-M4A1(0)<Speaker>M4A1</Speaker>||:You have my thanks, Captain Yegor.
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:Just doing my job.
-人类士兵()<Speaker>Human Soldier</Speaker>||:We're done. There are no Griffin survivors.
+人类士兵()<Speaker>Солдат-человек</Speaker>||<BGM>BGM_Sneak</BGM>:Зачистите углы! Осторожно, возможна засада!
+人类士兵()<Speaker>Солдат-человек</Speaker>||:Все сигналы Сангвис погасли. Подождите, один сигнал все еще работает!
+M4A1(3)<Speaker>M4A1</Speaker>||:Не стреляйте! Я не враг! Я Т-Кукла Грифона!
+人类士兵()<Speaker>Солдат-человек</Speaker>||:Брось оружие и ложись!
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Опустить оружие! Это наш объект спасения!
+人类士兵()<Speaker>Солдат-человек</Speaker>||:Да, сэр!
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Заберите автономные бронированные единицы и оставьте одну для охраны обломков поезда. +Подсчитайте количество выживших единиц Грифона. Мы выйдем, как только все сядут в наши машины.
+人类士兵()<Speaker>Солдат-человек</Speaker>||:Да, сэр!
+M4A1(2)<Speaker>M4A1</Speaker>||:Извините! Спасибо, что пришли нам на помощь! +Эм... Кому я...
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Егор, капитан Военных.
+M4A1(0)<Speaker>M4A1</Speaker>||:Благодарю вас, капитан Егор.
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Просто делаю свою работу.
+人类士兵()<Speaker>Солдат-человек</Speaker>||:Мы закончили. Никто из Грифона не выжил.
 M4A1(3)<Speaker>M4A1</Speaker>||:...!!
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:Such fragile things. +What do you expect, running around the battlefield in this flimsy gear? +I'll give you a set of camo later. Don't make yourself a target out in the open.
-M4A1(3)<Speaker>M4A1</Speaker>||:... +I have a request, Captain Yegor!
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:Say it.
-M4A1(3)<Speaker>M4A1</Speaker>||:Can we take their bodies with us? +Some T-Dolls might still have their core intact. Then they won't have to...
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:No. +The T-Dolls can simply retrieve their neural cloud records in the factory. It's not worth wasting our resources for several minutes of memory.
-M4A1(2)<Speaker>M4A1</Speaker>||:But...
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:They've fulfilled their mission. You should be happy for that.
-M4A1(2)<Speaker>M4A1</Speaker>||:If...I had done better...
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:T-Dolls, including you, are manufactured to fulfil your mission. +Sacrifices are inevitable and very common on the field. +Your guilt will only cause more of your allies to fall in battle.
-M4A1(2)<Speaker>M4A1</Speaker>||:I...
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||:They did their job. What about you? Do you want to stay here and die?
-M4A1(2)<Speaker>M4A1</Speaker>||:No...I can't stay here...
-NPC-Yegor(1)<Speaker>Yegor</Speaker>||<黑屏1>:Then get on the truck and go to where you should be.
-()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:M4A1 follows the soldiers and is transported to the frontline. +...
-M4A1(2)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM>:More have died for me... +Why is it always like this...?
-Clear female voice()<Speaker>Clear female voice</Speaker>||:Because you're special. Irreplaceable.
-M4A1(3)<Speaker>M4A1</Speaker>||:I don't want to be special! I don't want others to die for me!
-Clear female voice()<Speaker>Clear female voice</Speaker>||:Then grow stronger. Only with strength can you protect yourself and your friends...
-M4A1(2)<Speaker>M4A1</Speaker>||:Grow stronger... But how do I do that...?
-Clear female voice()<Speaker>Clear female voice</Speaker>||:Look inside and find your true self.
-M4A1(2)<Speaker>M4A1</Speaker>||:My true self... What the hell is that...?
-Clear female voice()<Speaker>Clear female voice</Speaker>||:What really did you come back for?
-M4A1(0)<Speaker>M4A1</Speaker>||:To find Mastermind...kill her, and put an end to all this...
-Clear female voice()<Speaker>Clear female voice</Speaker>||:Then do it. Perhaps when you achieve that, you'll have found your true self.
-M4A1(0)<Speaker>M4A1</Speaker>||:But...others may get dragged in as I work toward this goal... +I'm not sure what's gonna happen if I keep going...
-Clear female voice()<Speaker>Clear female voice</Speaker>||:No pain, no gain. +This is the price of growing up. If you stay where you are, their sacrifices will really have been for nothing.
-M4A1(0)<Speaker>M4A1</Speaker>||:Sacrifices...
-清澈的女声()<Speaker>Clear female voice</Speaker>||:What did AR-15 do to protect you?
-M4A1(0)<Speaker>M4A1</Speaker>||:H-how did you know that?!
-清澈的女声()<Speaker>Clear female voice</Speaker>||:What did M16A1 do to protect you?
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Какие хрупкие штуковины. +Чего ты ожидала, бегая по полю боя в этой тонкой экипировке? +Позже я дам тебе комплект камуфляжа. Не делай себя мишенью на открытом месте.
+M4A1(3)<Speaker>M4A1</Speaker>||:... +У меня есть просьба, капитан Егор!
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Говори.
+M4A1(3)<Speaker>M4A1</Speaker>||:Можем ли мы забрать их тела с собой? +У некоторых Т-Кукол ядро может быть еще целым. Тогда им не придется...
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Нет. +Т-Куклы могут просто восстановить свои нейронные облачные записи на фабрике. Не стоит тратить наши ресурсы на несколько минут памяти.
+M4A1(2)<Speaker>M4A1</Speaker>||:Но...
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Они выполнили свою миссию. Вы должны быть счастливы за это.
+M4A1(2)<Speaker>M4A1</Speaker>||:Если бы... я поступила лучше...
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Т-Куклы, включая тебя, созданы для выполнения своей миссии. +Жертвы неизбежны и очень распространены на поле боя. +Твоё чувство вины только приведёт к тому, что ещё больше твоих союзников падут в бою.
+M4A1(2)<Speaker>M4A1</Speaker>||:Я...
+NPC-Yegor(1)<Speaker>Егор</Speaker>||:Они сделали свое дело. А ты? Хочешь остаться здесь и умереть?
+M4A1(2)<Speaker>M4A1</Speaker>||:Нет... Я не могу здесь остаться...
+NPC-Yegor(1)<Speaker>Егор</Speaker>||<黑屏1>:Тогда садись в грузовик и езжай туда, где тебе и положено быть.
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:M4A1 следует за солдатами и доставляется на линию фронта. +...
+M4A1(2)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM>:Еще больше людей погибли ради меня... +Почему всегда так...?
+Clear female voice()<Speaker>Ясный женский голос</Speaker>||:Потому что ты особенная. Незаменимая.
+M4A1(3)<Speaker>M4A1</Speaker>||:Я не хочу быть особенной! Я не хочу, чтобы другие умирали за меня!
+Clear female voice()<Speaker>Ясный женский голос</Speaker>||:Тогда стань сильнее. Только с помощью силы ты сможешь защитить себя и своих друзей...
+M4A1(2)<Speaker>M4A1</Speaker>||:Стать сильнее... Но как это сделать...?
+Clear female voice()<Speaker>Ясный женский голос</Speaker>||:Загляни внутрь себя и найди свое истинное я.
+M4A1(2)<Speaker>M4A1</Speaker>||:Мое истинное я... Что это, за хрень такая...?
+Clear female voice()<Speaker>Ясный женский голос</Speaker>||:Зачем ты на самом деле вернулась?
+M4A1(0)<Speaker>M4A1</Speaker>||:Чтобы найти Владыку... убить её и положить конец всему этому...
+Clear female voice()<Speaker>Ясный женский голос</Speaker>||:Тогда сделай это. Возможно, когда ты достигнешь этого, ты найдешь свое истинное я.
+M4A1(0)<Speaker>M4A1</Speaker>||:Но... другие могут оказаться втянутыми в это, пока я работаю над достижением этой цели... +Я не знаю, что будет, если я продолжу...
+Clear female voice()<Speaker>Ясный женский голос</Speaker>||:Без труда не вытащишь и рыбку из пруда. +Это цена взросления. Если ты останешься на месте, их жертвы действительно будут напрасными.
+M4A1(0)<Speaker>M4A1</Speaker>||:Жертвы...
+清澈的女声()<Speaker>Ясный женский голос</Speaker>||:Что сделала AR-15, чтобы защитить тебя?
+M4A1(0)<Speaker>M4A1</Speaker>||:О-откуда ты это знаешь?!
+清澈的女声()<Speaker>Ясный женский голос</Speaker>||:Что сделала M16A1, чтобы защитить тебя?
 M4A1(0)<Speaker>M4A1</Speaker>||:...!
-清澈的女声()<Speaker>Clear female voice</Speaker>||:The truth is you ARE special. You can't run away from your destiny, nor do you have a choice. +If you keep avoiding the truth and being weak, you'll only lose more people who love you. +Do you want to keep running away until you're utterly alone once more?
-M4A1(2)<Speaker>M4A1</Speaker>||:I...don't want...
-清澈的女声()<Speaker>Clear female voice</Speaker>||:You are not the cause of their sacrifices, but your weakness certainly encourages them. +So you must grow stronger. Only then will you be able to take your fate, and everyone else's, in your own hands.
-M4A1(0)<Speaker>M4A1</Speaker>||:I must...grow stronger...
-清澈的女声()<Speaker>Clear female voice</Speaker>||:You must grow stronger. +Look within yourself. Find strength and courage. +Face your mission with your new-found self-awareness, accomplish it, and be who you really are.
-M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:...I understand. +I shall...do whatever it takes to kill Mastermind. +Only by ending this war can I prevent any more sacrifices!
-()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:Meanwhile, RO and SOP-II just recovered M16A1's equipment case and are about to get on a vehicle to rendezvous with the Commander.
+清澈的女声()<Speaker>Ясный женский голос</Speaker>||:Правда в том, что ты ДЕЙСТВИТЕЛЬНО особенная. Ты не можешь убежать от своей судьбы, у тебя нет выбора. +Если ты будешь продолжать избегать правды и оставаться слабой, ты только потеряешь еще больше людей, которые тебя любят. +Ты хочешь продолжать убегать, пока не останешься снова совершенно одна?
+M4A1(2)<Speaker>M4A1</Speaker>||:Я... не хочу...
+清澈的女声()<Speaker>Ясный женский голос</Speaker>||:Ты не являешься причиной их жертв, но твоя слабость, безусловно, подталкивает их к этому. +Поэтому ты должна стать сильнее. Только тогда ты сможешь взять свою судьбу и судьбу всех остальных в свои руки.
+M4A1(0)<Speaker>M4A1</Speaker>||:Я должна... стать сильнее...
+清澈的女声()<Speaker>Ясный женский голос</Speaker>||:Ты должна стать сильнее. +Загляни в себя. Найди в себе силу и мужество. +Смотри в лицо своей миссии с новой обретенной индивидуальностью, выполни её и будь той, кем ты действительно являешься.
+M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:...Я понимаю. +Я сделаю... всё, что потребуется, чтобы убить Владыку. +Только положив конец этой войне, я смогу предотвратить новые жертвы!
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:Тем временем RO и SOP-II только что вернули кейс с оборудованием M16A1 и собираются сесть в автомобиль, чтобы встретиться с Командиром.
 SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:...
-SOPII(2);RO635(0)<Speaker>RO635</Speaker>||:What did AR-15 do to protect you?
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:... +RO, that T-Doll over there...
+SOPII(2);RO635(0)<Speaker>RO635</Speaker>||:Что сделала AR-15, чтобы защитить тебя?
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:... +RO, та Т-Кукла вон там...
 SOPII(2);RO635(0)<Speaker>RO635</Speaker>||:...!
 SOPII(2);RO635(0)||:
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1><BGM>BGM_Truth</BGM>:It's been a while...
-M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>77</BIN>:...SOP-II and Miss RO635.
-RO635()<Speaker>RO635</Speaker>||:Miss M4A1, it's an honor to meet you...
-M4A1()<Speaker>M4A1</Speaker>||<BIN>78</BIN>:There's nothing to be honored about. We're just variants of the same model.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:M4, are you...fine?
-M4A1()<Speaker>M4A1</Speaker>||:I'm fine. You must've worked hard, SOP-II. +Is that thing...M16's?
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:M4...sorry, M16 is...
-M4A1()<Speaker>M4A1</Speaker>||:...I heard. Both of you have done very well, thank you. +Get in the car. We're starting an operation soon.
-RO635()<Speaker>RO635</Speaker>||:Operation? What operation?
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1><BGM>BGM_Truth</BGM>:Давно не виделись...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>77</BIN>:...SOP-II и Мисс RO635.
+RO635()<Speaker>RO635</Speaker>||:Мисс M4A1, для меня большая честь познакомиться с вами...
+M4A1()<Speaker>M4A1</Speaker>||<BIN>78</BIN>:Тут нечего уважать. Мы просто варианты одной и той же модели.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:М4, ты... в порядке?
+M4A1()<Speaker>M4A1</Speaker>||:Я в порядке. Ты, наверное, много работала, SOP-II. +Это что... M16?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:M4... прости, M16 это...
+M4A1()<Speaker>M4A1</Speaker>||:...Я слышала. Вы оба очень хорошо поработали, спасибо. +Садитесь в машину. Скоро начнем операцию.
+RO635()<Speaker>RO635</Speaker>||:Операцию? Какую операцию?
 M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:...
-M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:An operation personally announced by Mr. Kryuger. An operation of the highest priority... +That is...the operation to kill the Mastermind.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:Операция, о которой лично объявил г-н Крюгер. Операция высшего приоритета... +То есть... операция по уничтожению Владыки.
+
