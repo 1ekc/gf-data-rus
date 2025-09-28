@@ -23,66 +23,67 @@ M4A1(3)<Speaker>Actually M3</Speaker>||:Кто знает? У этой коро�
 M4A1(0)<Speaker>Actually M3</Speaker>||:Ох...у-ум...
 T65(0)<Speaker>T65</Speaker>||:<size=33>Кажется, она вернулась к своей обычной жизни...</size>
 T77(0)<Speaker>T77</Speaker>||:<size=33>Это было действительно что-то... Это побочный эффект макияжа?</size>
-M14(0)<Speaker>M14</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Guys, we...we've found Miss M16. +But...you'd better hurry...
-T65(0)<Speaker>T65</Speaker><Shake>||<黑屏2><BGM>BGM_Wake</BGM>:Miss M16... +Miss M16!! +Ohmygodddddd!
-M16(1)<Speaker>M16A1</Speaker>||:Ack...not so hard...can't breathe... +Also...don't put pressure on the modules that got ripped out. Just let me stay like this.
-T65(0)<Speaker>T65</Speaker>||<震屏3>:Oh... +Ohmyyyyyyy—
-T77(0)<Speaker>T77</Speaker>||:Miss T65, please refrain from bawling.
-M4A1(0)<Speaker>Actually M3</Speaker>||:Miss M16...
-M4A1(0);M16(1)<Speaker>M16A1</Speaker>||:It's been a while, M4. +Persica wasn't lying. You have changed...and quite significantly, too.
-M4A1(0)<Speaker>Actually M3</Speaker>;M16(1)||:Why...why haven't you returned earlier...?
-M4A1(0);M16(1)<Speaker>M16A1</Speaker>||:A lot of things aren't as they seem. +I'm helping you, just in a different way. +Though it does hurt quite a bit this time.
-T65(0)<Speaker>T65</Speaker>;M16(1)||:We do have some quick-repair kits here... +If you can make it back to base, Persica will surely be able to save you... +So...Miss M16...
-T65(0);M16(1)<Speaker>M16A1</Speaker>||:Not yet... +There's still...something that I must see through.
-M4A1(0)<Speaker>Actually M3</Speaker>;M16(1)||:Why?! +Look at the state you're in! Why are you still thinking about such things?! +What are you doing this for?!
-M4A1(0);M16(1)<Speaker>M16A1</Speaker>||:For you, and for the future of us all... +I know I owe you all by doing this...
-T65(0)<Speaker>T65</Speaker>;M16(1)||:We aren't the only ones you owe! +T91...she...
-T65(0);M16(1)<Speaker>M16A1</Speaker>||:Haha... She must be really lonely without me. +Get her out in the sun more often and tell her to stop thinking about silly stuff.
-T65(0)<Speaker>T65</Speaker>;M16(1)||:Why don't you just come back with us?! +You can tell her yourself—
-T65(0);M16(1)<Speaker>M16A1</Speaker>||:She's spent her whole life chasing after me... No one should live like that. +A clever and hardworking Doll like her doesn't deserve to be limited by what I'm like. +T65...be sure to get her outside and show her how big the world is before I return.
-T65(0)<Speaker>T65</Speaker>||:(Sobs)
-M4A1(0)<Speaker>Actually M3</Speaker>||:Miss 16... Why must you face this alone...? +There must be a better way... +You just have to trust us... We can overcome any obstacle as long as we work together...
-M16(1)<Speaker>M16A1</Speaker>||<CGDelay>0.7</CGDelay>:... +I...
-()<Speaker>M16A1</Speaker>||<震屏><BGM>BGM_Empty</BGM><CGDelay>0.7</CGDelay>:It's not like I don't trust you! +You're all freaking dumb! I'm gonna come back soon, okay?!
-T65(0)<Speaker>T65</Speaker>||:... +...... +...What?
-T77(0)<Speaker>T77</Speaker>||:...Oh.
-T65(0)<Speaker>T65</Speaker>||<黑屏1>0,4</黑屏1>:... +Wait...hold on a second... +Don't tell me...
-()<Speaker>T77</Speaker>||<黑屏2><BIN>9</BIN>:Miss Thompson has the wrong script! +Quick, cut out that last bit!
-()<Speaker>M1 Garand</Speaker>||:It-it's okay, we can just dub over it in post-production...
-()<Speaker>Thompson</Speaker>||:Hey, are you giving me even more work? +M14, stop playing with my Dummy like that. It's already close to falling apart after the fight with Judge.
-()<Speaker>M14</Speaker>||:Oh... +I just couldn't help it because you said all that weird stuff just now...
+M14(0)<Speaker>M14</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Девчат, мы... мы нашли мисс М16. +Но... вам лучше поторопиться...
+T65(0)<Speaker>T65</Speaker><Shake>||<黑屏2><BGM>BGM_Wake</BGM>:Мисс М16... +Мисс М16!! +Обожемой!
+M16(1)<Speaker>M16A1</Speaker>||:Ах... не так сильно... не могу дышать... +И еще... не надавливай на вырванные модули. Просто дай постоять так.
+T65(0)<Speaker>T65</Speaker>||<震屏3>:О... +Обожеееее-
+T77(0)<Speaker>T77</Speaker>||:Мисс T65, не надо реветь.
+M4A1(0)<Speaker>Actually M3</Speaker>||:Мисс M16...
+M4A1(0);M16(1)<Speaker>M16A1</Speaker>||:Давно не виделись, M4. +Персика не врала. Ты изменилась... и довольно сильно.
+M4A1(0)<Speaker>Actually M3</Speaker>;M16(1)||:Почему... почему ты не вернулась раньше...?
+M4A1(0);M16(1)<Speaker>M16A1</Speaker>||:Многое не является тем, чем кажется. +Я помогаю тебе, просто другим способом. +Хотя на этот раз это довольно больно.
+T65(0)<Speaker>T65</Speaker>;M16(1)||:У нас есть несколько наборов для быстрого ремонта... +Если сможешь вернуться на базу, Персика обязательно поможет тебе... +Итак... мисс М16...
+T65(0);M16(1)<Speaker>M16A1</Speaker>||:Не сейчас...+Есть ещё... кое-что, что я должна довести до конца.
+M4A1(0)<Speaker>Actually M3</Speaker>;M16(1)||:Зачем?! +Посмотри, в каком ты состоянии! Почему ты все еще думаешь о подобном?! +Зачем ты это делаешь?!
+M4A1(0);M16(1)<Speaker>M16A1</Speaker>||:Для тебя и для будущего всех нас... +Я знаю, что я обязана вам всем, делая это...
+T65(0)<Speaker>T65</Speaker>;M16(1)||:Мы не единственные, кому ты должна! +T91... она...
+T65(0);M16(1)<Speaker>M16A1</Speaker>||:Ха-ха... Без меня ей, наверное, очень одиноко. +Чаще выводи ее на солнце и скажи, чтобы она перестала думать о глупостях.
+T65(0)<Speaker>T65</Speaker>;M16(1)||:Почему бы тебе просто не вернуться с нами?! +Ты можешь сказать ей сама—
+T65(0);M16(1)<Speaker>M16A1</Speaker>||:Она всю жизнь гонялась за мной... Никто не должен так жить. +Такая умная и трудолюбивая Кукла, как она, не заслуживает того, чтобы ее ограничивали мои особенности. +T65... Обязательно выведи ее на улицу и покажи ей, как велик мир, прежде чем я вернусь.
+T65(0)<Speaker>T65</Speaker>||:(Всхлипы)
+M4A1(0)<Speaker>Actually M3</Speaker>||:Мисс 16... Почему ты должна справляться с этим в одиночку...? +Должен быть другой способ... +Ты просто должна довериться нам... Мы сможем преодолеть любое препятствие, если будем действовать вместе...
+M16(1)<Speaker>M16A1</Speaker>||<CGDelay>0.7</CGDelay>:... +Я...
+()<Speaker>M16A1</Speaker>||<震屏><BGM>BGM_Empty</BGM><CGDelay>0.7</CGDelay>:Не то чтобы я тебе не доверяла! +Вы все чертовски болтливы! Я скоро вернусь, ладно?!
+T65(0)<Speaker>T65</Speaker>||:... +...... +...Что?
+T77(0)<Speaker>T77</Speaker>||:...Ох.
+T65(0)<Speaker>T65</Speaker>||<黑屏1>0,4</黑屏1>:... +Постой... подожди секунду... +Не говори мне...
+()<Speaker>T77</Speaker>||<黑屏2><BIN>9</BIN>:У мисс Thompson не тот сценарий! +Быстро, вырежьте последнюю часть!
+()<Speaker>M1 Garand</Speaker>||:Ничего страшного, мы можем просто переозвучить это в постпродакшне...
+()<Speaker>Thompson</Speaker>||:Эй, ты что, добавляешь мне еще больше работы? +M14, перестань так играть с моей Болванкой. Она и так уже почти развалилась после драки с Судьей.
+()<Speaker>M14</Speaker>||:О... +Я просто не могла удержаться, потому что ты только что сказала все эти странные слова...
 ()||:...
-T65(0)<Speaker>T65</Speaker>||<黑屏1>:<size=60>Wait!</size> +<size=60>How did you guys figure it all out?!</size>
+T65(0)<Speaker>T65</Speaker>||<黑屏1>:<size=60>Подождите!</size> +<size=60>А как вы все это провернули?!</size>
 ()||<黑屏1><BIN>9</BIN><BGM>BGM_Empty</BGM>:...
-()||<黑屏2><BIN>160</BIN>:...Beep. +...The video stops playing.
-T65(0)<Speaker>T65</Speaker>||<BGM>GF_Memorial</BGM>:... +Well...that's what happened... +So...
-T91(0)<Speaker>T91</Speaker>;T65(0)||:Is that so...? +Miss M16...said all that... +And she seemed alright... I'm really glad about that...
-T91(0);T65(0)<Speaker>T65</Speaker>||:She also asked you to stop worrying about her. She'll definitely let you know the moment she can return to Griffin. +Also, she said you really should enjoy your bubble tea properly!
-T91(0)<Speaker>T91</Speaker>;T65(0)||:... +Right, I'll remember that... +...
-T91(0)<Speaker>T91</Speaker>;T65(0)||:Pffft.
-T91(0);T65(0)<Speaker>T65</Speaker>||:What's with that weird snicker?!
-T91(0)<Speaker>T91</Speaker>;T65(0)||:No, don't mind me. +I was just wondering... Where on earth did you find a camera to film this?
-T91(0);T65(0)<Speaker>T65</Speaker>||:Huh? Uh, I dug it out the other day when I went to bury something in the backyard. +It looked like it was still usable, so I gave it a try? +Seriously, why are you giggling like that...?
-T91(0)<Speaker>T91</Speaker>;T65(0)||:Oh? Am I? +It's just a simple grin, okay? +I'm very happy... I mean it.
-T91(0);T65(0)<Speaker>T65</Speaker>||<黑点1>:Is...is that so...?
-()||<黑点2><BIN>18</BIN><BGM>BGM_Empty</BGM>:...Outside the repair bay.
-T77(0)<Speaker>T77</Speaker>||<BGM>GF_Memorial</BGM>:Everything seems to be alright now. +Let's leave the rest to Miss T65.
-M3(0)<Speaker>M3</Speaker>||:It feels like...such a long time since I last saw Miss T91 smile.
-m1(0)<Speaker>M1 Garand</Speaker>||:Phew... We can finally breathe a sigh of relief... +Now then...I'd better head back and start writing the report for Miss Thompson.
-m1(0);M3(0)<Speaker>M3</Speaker>||:Report... Why?!
-m1(0)<Speaker>M1 Garand</Speaker>;M3(0)||:I have to be held accountable for not fully grasping the severity of the situation and leading you through a danger zone under Sangvis control.
-m1(0);T77(0)<Speaker>T77</Speaker>||:It wasn't only your responsibility. We'll help you write it.
-m1(0)<Speaker>M1 Garand</Speaker>;T77(0)||:That won't be necessary... +<size=40>Besides, Miss Thompson said that the report was just a formality for the Commander so I didn't have to take it too seriously...</size> +<size=40>Rather, she wanted me to spend more effort on detailing my makeup technique so that she can learn a thing or two...</size>
-m1(0);M3(0)<Speaker>M3</Speaker>||:Come to think of it...may I ask you something? Miss Garand... +If the M16A1 we saw back then was actually Miss Thompson's Dummy... +When did that Dummy undergo its makeover...?
-m1(0)<Speaker>M1 Garand</Speaker>;M3(0)||:When I was with the rest of you. +Who said I had to do it myself?
-m1(0);M3(0)<Speaker>M3</Speaker>||:Huh?
-m1(0)<Speaker>M1 Garand</Speaker>;M3(0)||:M14 and my Dummy sorted it out while we were running from Judge. +The show you saw later on...was all Miss Thompson's improvisation... +She really is amazing.
-m1(0);T77(0)<Speaker>T77</Speaker>||<黑屏1>:If it was Miss M14, that'd explain how you could get it done so quickly.
-()||<黑屏2><BIN>9</BIN>:...The two Dolls share a hearty laugh in the room.
-T77()||:... +I'm suddenly...reminded of a very old story.
-M3()||:Hmm?
-T77()||:While two men were making their way to freedom, they came across a daunting chasm. +One man jumped across easily, but the other didn't have the courage to follow. So the man who made the leap had an idea... +He took out his flashlight and shone the light to the other side of the ravine...and asked his friend to walk over on this bridge of light.
-M1 Garand()||:But in the story, the friend refused to do that...
-T77()||<黑屏1><黑屏2>:He wasn't willing to try, but this path paved with light still gave him hope, didn't it?
-()||<黑屏1>:The Way Back is Paved with Light ⁠— END.
+()||<黑屏2><BIN>160</BIN>:...Писк. +...Воспроизведение видео останавливается.
+T65(0)<Speaker>T65</Speaker>||<BGM>GF_Memorial</BGM>:... +Ну... вот что произошло... +Итак...
+T91(0)<Speaker>T91</Speaker>;T65(0)||:Неужели...? +Мисс М16...сказала все это... +И она казалась в порядке... Я очень рада этому...
+T91(0);T65(0)<Speaker>T65</Speaker>||:Она также попросила тебя перестать о ней беспокоиться. Она обязательно сообщит тебе, как только сможет вернуться в Грифон. +Кроме того, она сказала, что тебе действительно стоит как следует насладиться своим бабл-ти!
+T91(0)<Speaker>T91</Speaker>;T65(0)||:... +Точно, я это запомню... +...
+T91(0)<Speaker>T91</Speaker>;T65(0)||:Пффф.
+T91(0);T65(0)<Speaker>T65</Speaker>||:Что это за странный смешок?!
+T91(0)<Speaker>T91</Speaker>;T65(0)||:Нет, не обращай на это внимания. +Я просто удивляюсь... Где ты только нашла камеру, чтобы снять это?
+T91(0);T65(0)<Speaker>T65</Speaker>||:Э? Э-э, я откопала его на днях, когда хотела закопать кое-что на заднем дворе. +Он выглядел вполне пригодным для использования, так что я решила попробовать? +Серьезно, почему ты так хихикаешь...?
+T91(0)<Speaker>T91</Speaker>;T65(0)||:О? Правда? +Это просто улыбка, ладно? +Я очень счастлива... Я серьезно.
+T91(0);T65(0)<Speaker>T65</Speaker>||<黑点1>:Это... так ли...?
+()||<黑点2><BIN>18</BIN><BGM>BGM_Empty</BGM>:...Вне ремонтного цеха.
+T77(0)<Speaker>T77</Speaker>||<BGM>GF_Memorial</BGM>:Сейчас, похоже, все в порядке. +Остальное оставим мисс T65.
+M3(0)<Speaker>M3</Speaker>||:Кажется, что прошло столько времени с тех пор, как я в последний раз видела улыбку мисс T91.
+m1(0)<Speaker>M1 Garand</Speaker>||:Фу... Наконец-то можно вздохнуть с облегчением... +А теперь... Мне лучше вернуться и начать писать отчет для мисс Thompson.
+m1(0);M3(0)<Speaker>M3</Speaker>||:Отчет... Почему?!
+m1(0)<Speaker>M1 Garand</Speaker>;M3(0)||:Я должна ответить за то, что не полностью осознала серьезность ситуации и провела вас через опасную зону, контролируемую Сангвисом.
+m1(0);T77(0)<Speaker>T77</Speaker>||:Это была не только твоя ответственность. Мы поможем тебе написать его.
+m1(0)<Speaker>M1 Garand</Speaker>;T77(0)||:Это не понадобится.... +<size=40>Кроме того, мисс Thompson сказала, что отчет просто формальность для Командира, так что я не должна относиться к нему слишком серьезно...</size> +<size=40>Скорее, она хотела, чтобы я уделила больше внимания деталям своей техники нанесения макияжа, чтобы она могла чему-нибудь научиться...</size>
+m1(0);M3(0)<Speaker>M3</Speaker>||:Если подумать... Можно спросить у тебя кое-что? Мисс Garand... +Если M16A1, которую мы видели тогда, на самом деле была Болванкой мисс Thompson... +Когда эта Болванка была преобразована...?
+m1(0)<Speaker>M1 Garand</Speaker>;M3(0)||:Когда я была с вами. +Кто сказал, что я должна была делать это сама?
+m1(0);M3(0)<Speaker>M3</Speaker>||:Э??
+m1(0)<Speaker>M1 Garand</Speaker>;M3(0)||:M14 и моя Болванка разобрались с этим, пока мы бежали от Судьи. +Шоу, которое вы видели позже... было полностью импровизацией мисс Thompson... +Она действительно потрясающая.
+m1(0);T77(0)<Speaker>T77</Speaker>||<黑屏1>:Если это была мисс M14, то это объясняет, как вы смогли сделать это так быстро.
+()||<黑屏2><BIN>9</BIN>:...Две Куклы громко смеются в комнате.
+T77()||:... +Вдруг мне вспомнилась одна очень старая история.
+M3()||:Хмм?
+T77()||:Когда два человека шли к свободе, они наткнулись на устрашающую пропасть. +Один из них легко перепрыгнул через нее, но другой не набрался смелости последовать его примеру. Тогда тот, кто перепрыгнул, предложил... +Он достал фонарик и посветил на другую сторону ущелья... и попросил своего друга перейти по этому световому мосту.
+M1 Garand()||:Но в рассказе друг отказался это сделать...
+T77()||<黑屏1><黑屏2>:Он не хотел пробовать, но этот путь, вымощенный светом, все же давал ему надежду, не так ли?
+()||<黑屏1>:Путь назад озарен светом ⁠— КОНЕЦ.
+
 
