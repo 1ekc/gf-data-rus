@@ -1,37 +1,38 @@
-()||<BIN>98</BIN><BGM>BGM_Sunshine</BGM>:The Sangvis offense is completely decimated. Griffin has successfully protected the Military's interference neutralizer.
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:That was fantastic! We dealt with all those Sangvis troops so quickly! +RO, is this how powerful the military units are?
-SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:Oh? Even you find them remarkable, SOP-II?
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:They are nothing to sneeze at in terms of pure firepower and mobility. +But then again...these big oafs aren't entirely invincible.
-SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:So you noticed it too. As expected of you. +But with the might of the Military, mowing down the Sangvis forces shouldn't be a problem, right?
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Even so, I wouldn't miss the capture of Mastermind for the world. +Especially since...she probably has M16...
-SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:SOP-II... +M4's here...
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Oh, M4! You did well!
-M4A1()<Speaker>M4A1</Speaker>||:Good, you're okay. +The Commander is asking for our next objective. We'll probably have to move right away. Will that be a problem?
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Nope! I've been waiting for this!
+()||<BIN>98</BIN><BGM>BGM_Sunshine</BGM>:Наступление Сангвис полностью провалено. Грифон успешно защитил нейтрализатор помех военных.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Это было фантастически! Мы так быстро справились со всеми войсками Сангвиса! +RO, неужели боевые единицы настолько сильны?
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:О? Даже ты считаешь их замечательными, SOP-II?
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:С точки зрения боевой силы и мобильности, их не стоит недооценивать. +Но с другой стороны... эти здоровенные увальни не совсем уж и непобедимы.
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:Так ты тоже это заметила. Как и следовало ожидать от тебя. +Но с помощью армейской боевой силы уничтожить войска Сангвиса не должно составить труда, верно?
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Но даже несмотря на это, я ни за что не соглашусь пропустить поимку Владыки. +Тем более, что... у нее, скорее всего, М16...
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:SOP-II... +M4's тут...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:О, M4! Ты отлично справилась!
+M4A1()<Speaker>M4A1</Speaker>||:Хорошо, что ты в порядке. +Командир спрашивает о нашей следующей цели. Нам, вероятно, придется сразу же выдвигаться. Это будет проблемой?
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Неа! Я ждала этого!
 M4A1()<Speaker>M4A1</Speaker>||:RO...
-SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:Hmm?
-M4A1()<Speaker>M4A1</Speaker>||:I just want to say...sorry... +I was rather rude to you because of my turbulent mental state... +If it weren't for your support, I wouldn't have been able to accomplish our mission.
-SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:Oh...don't mention it. +There's no need to apologize either. I've forgotten all about it, haha...
-M4A1()<Speaker>M4A1</Speaker>||:You have bold ideas and make keen observations. You also have the drive to put things in action. +It is an honor to have you on the AR Team.
-SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:Uh... +Haha, is that so? I still have a lot to learn, so let's watch out for each other.
-M4A1()<Speaker>M4A1</Speaker>||:I'm sorry you have to join us under such circumstances. +From the combat records SOP-II sent me, I can see that you really are an outstanding T-Doll. +That's why, just like M16, I've decided to have faith in you. You are now officially part of the team.
-SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:I also have faith in you, M4A1, and I'll defer to your authority. +I'll also put in some strong opinion when the situation calls for it. Don't hold my grating voice against me, okay?
-M4A1()<Speaker>M4A1</Speaker>||:Sure. I'm counting on you... +(Please, support me and guide me forward, just as AR-15 and M16 once did.)
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:There's still the last part of the welcoming ceremony. Should we wait till we finish off Mastermind?
-SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:I don't mind. It's not gonna take long anyway.
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:Хмм?
+M4A1()<Speaker>M4A1</Speaker>||:Я просто хочу сказать... прости... +Я была довольно груба с тобой из-за своего нестабильного психического состояния... +Если бы не твоя поддержка, я бы не смогла выполнить нашу миссию.
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:О... не стоит об этом говорить. +Не нужно извиняться. Я уже все забыла, ха-ха...
+M4A1()<Speaker>M4A1</Speaker>||:У тебя смелые идеи и острый ум. Ты также обладаешь энергией, необходимой для воплощения идей в жизнь. +Для нас большая честь, что ты входишь в Команду AR.
+SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:Э-э... +Ха-ха, неужели? Мне ещё многому нужно научиться, так что будем помогать друг другу.
+M4A1()<Speaker>M4A1</Speaker>||:Мне жаль, что тебе пришлось присоединиться к нам в таких обстоятельствах. +Из боевых отчетов, присланных мне SOP-II, я вижу, что ты действительно выдающаяся Т-Кукла. +Поэтому, как и в случае с M16, я решила поверить в тебя. Теперь ты официально входишь в состав команды.
+SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:Я тоже верю в тебя, M4A1, и буду полагаться на твой авторитет. +Я также выскажу своё решительное мнение, когда ситуация того потребует. Не обижайся на мой резкий голос, ладно?
+M4A1()<Speaker>M4A1</Speaker>||:Конечно. Я рассчитываю на тебя... +(Пожалуйста, поддержи меня и направь меня вперёд, как когда-то сделали AR-15 и M16.)
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Ещё осталась последняя часть приветственной церемонии. Может, подождем, пока закончим с Владыкой?
+SOPII(0);RO635(2)<Speaker>RO635</Speaker>||:Я не против. В любом случае, это не займет много времени.
 SOPII(0);RO635(2)||:
-()||:Click. +A transmission request from the Commander.
-M4A1()<Speaker>M4A1</Speaker>||:Your order, Commander. +Follow the Military forces? +Understood. We're on our way. +Yes, the AR Team will stick together.
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Are we setting off?
-M4A1()<Speaker>M4A1</Speaker>||:Yes, the Military is marching toward the Sangvis stronghold. +We are to follow them and protect their flank.
-SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:Guard duty? Do you think our vehicles are fast enough to catch up with the military units?
-M4A1()<Speaker>M4A1</Speaker>||:Can't be helped. That's our order. We'd better get started.
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:We're off! As long as we stick together, there's nothing we can't do!
-M4A1()<Speaker>M4A1</Speaker>||:(As long as we stick together...huh...)
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:What's wrong, M4?
+()||:Клик. +Запрос на передачу от Командира.
+M4A1()<Speaker>M4A1</Speaker>||:Ваш приказ, Командир. +Следовать за военными силами? +Понятно. Мы уже в пути. +Да, команда AR будет держаться вместе.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Мы отправляемся?
+M4A1()<Speaker>M4A1</Speaker>||:Да, военные движутся к крепости Сангвис. +Мы должны следовать за ними и прикрывать их фланг.
+SOPII(0);RO635(0)<Speaker>RO635</Speaker>||:Выступать охранниками? Ты думаешь, наши машины достаточно быстры, чтобы преследовать боевые единицы?
+M4A1()<Speaker>M4A1</Speaker>||:Ничего не поделаешь. Таков наш приказ. Лучше приступим к делу.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Поехали! Пока мы держимся вместе, нам нет равных!
+M4A1()<Speaker>M4A1</Speaker>||:(Пока мы держимся вместе... да...)
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Что не так, М4?
 SOPII(0);RO635(0)||:
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Nothing... Let's go.
-清澈的女声()<Speaker>Clear female voice</Speaker>||<BIN>9</BIN><BGM>BGM_Truth</BGM><黑屏2>:Congratulations. +You didn't lose anyone this time.
-M4A1()<Speaker>M4A1</Speaker>||:That was just the first step. +I wonder if there'll come a day...when I'll be willing to sacrifice everything for victory...just like Yegor...
-清澈的女声()<Speaker>Clear female voice</Speaker>||:No pain, no gain – there is no victory without sacrifice. However, if you're strong enough, you can minimize your loss.
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Yes...I must grow stronger... +Only then...only then can I...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Ничего... Вперёд.
+清澈的女声()<Speaker>Ясный женский голос</Speaker>||<BIN>9</BIN><BGM>BGM_Truth</BGM><黑屏2>:Поздравляю. +На этот раз ты никого не потеряла.
+M4A1()<Speaker>M4A1</Speaker>||:Это был только первый шаг. +Интересно, наступит ли день... когда я буду готова пожертвовать всем ради победы... так же, как Егор...
+清澈的女声()<Speaker>Ясный женский голос</Speaker>||:Без труда не вытащишь и рыбку из пруда – нет победы без жертв. Однако, если ты достаточно сильна, ты можешь минимизировать свои потери.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Да... Я должна стать сильнее... +Только тогда... только тогда я смогу...
+
