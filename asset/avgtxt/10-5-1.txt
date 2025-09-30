@@ -1,30 +1,31 @@
-()||<BIN>9</BIN><BGM>BGM_Sneak</BGM><黑屏2>:Griffin troops are advancing toward the Sangvis stronghold along with the Military.
-M4A1(2)<Speaker>M4A1</Speaker>||:Commander, heavy fire is being exchanged in the area marked by Yegor. +...No, we haven't run into much resistance. The problem is, the Military is moving forward too quickly. +They have deployed their armored troops. Sangvis forces are drawing back and the Military is hot on their trail. +It's just that these military units move much faster than us. At this rate, their flank will soon be completely defenseless...
-RO635(0)<Speaker>RO635</Speaker>;M4A1(2)||:Our job is to cover their flank, but we simply can't catch up with them. +The formation is going to be drawn thinner and thinner, and it'll be broken very easily. I'm afraid...
-RO635(0);M4A1(0)<Speaker>M4A1</Speaker>||:That we're playing right into a Sangvis ploy?
-RO635(0)<Speaker>RO635</Speaker>;M4A1(0)||:The Military may be on the offensive here, and the operation seems to be going smooth enough, but the way Sangvis Ferri is reacting bothers me. +I can't shake the feeling...that they're doing this on purpose, as if they're testing us.
-RO635(0);M4A1(0)<Speaker>M4A1</Speaker>||:You have a point, but the Military doesn't care. Whatever Sangvis Ferri is up to, there's nothing they can do against these overpowered units.
-RO635(0)<Speaker>RO635</Speaker>;M4A1(0)||:But WE care. That's the problem. This is all going too well. +Don't you think it's odd how we haven't even encountered a single Ringleader so far? And we've been left so far behind we can't even see the military units anymore.
-RO635(0);M4A1(2)<Speaker>M4A1</Speaker>||:You're right. Commander, do you think we should contact Yegor—
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:Report! S.F. suddenly ambushed the Military's flank! +But the Military is still pressing forward. At this rate S.F. is gonna cut us off!
-RO635(5)<Speaker>RO635</Speaker>;M4A1(2)||:Jeez, this is happening way too fast!
-RO635(5);M4A1(2)<Speaker>M4A1</Speaker>||:I don't believe the Military will come back to our defense.
-SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:The Sangvis attack isn't too strong. We should be able to handle it, +but then we're definitely gonna be left behind.
-SOPII(2);M4A1(2)<Speaker>M4A1</Speaker>||:This concerns the success of our mission. Could you please consult the Military about the situation, Commander?
-SOPII(2);NPC-Kalin(4)<Speaker>Kalin</Speaker>||:Already on it!
+()||<BIN>9</BIN><BGM>BGM_Sneak</BGM><黑屏2>:Войска Грифона вместе с военными продвигаются к крепости Сангвис.
+M4A1(2)<Speaker>M4A1</Speaker>||:Командир, в районе, отмеченном Егором, идёт интенсивный обмен огнём. +...Нет, мы не встретили особого сопротивления. Проблема в том, что военные продвигаются слишком быстро. +Они задействовали бронетанковые войска. Силы Сангвиса отступают, а военные идут по их следам. +Просто эти боевые единицы двигаются гораздо быстрее нас. При таком темпе их фланг скоро окажется полностью беззащитным...
+RO635(0)<Speaker>RO635</Speaker>;M4A1(2)||:Наша задача — прикрывать их фланг, но мы просто не можем их догнать. +Формирование будет становиться все более тонким, и его очень легко будет разбить. Боюсь...
+RO635(0);M4A1(0)<Speaker>M4A1</Speaker>||:Что мы попадаемся на уловку Сангвиса?
+RO635(0)<Speaker>RO635</Speaker>;M4A1(0)||:Военные, возможно, наступают, и операция, похоже, проходит достаточно гладко, но реакция Сангвис Ферри меня беспокоит. +Я не могу избавиться от ощущения... что они делают это специально, как будто проверяют нас.
+RO635(0);M4A1(0)<Speaker>M4A1</Speaker>||:Ты права, но военным это не важно. Что бы ни замышлял Сангвис Ферри, они ничего не могут сделать против этих сверхмощных единиц.
+RO635(0)<Speaker>RO635</Speaker>;M4A1(0)||:Но МЫ волнуемся. В этом и проблема. Всё идёт слишком гладко. +Не кажется ли тебе странным, что мы до сих пор не встретили ни одного главаря? И мы так отстали, что даже не видим больше боевые единицы.
+RO635(0);M4A1(2)<Speaker>M4A1</Speaker>||:Ты права. Командир, как думаешь, нам стоит связаться с Егором?
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:Доклад! С.Ф. внезапно атаковал фланг военных! +Но военные все еще наступают. При таком темпе С.Ф. отрежет нас!
+RO635(5)<Speaker>RO635</Speaker>;M4A1(2)||:Господи, это происходит слишком быстро!
+RO635(5);M4A1(2)<Speaker>M4A1</Speaker>||:Я не верю, что военные вернутся, чтобы защитить нас.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:Атака Сангвис не слишком сильна. Мы должны справиться с ней, но тогда мы точно останемся позади.
+SOPII(2);M4A1(2)<Speaker>M4A1</Speaker>||:Это касается успеха нашей миссии. Не могли бы вы проконсультироваться с военными по поводу сложившейся ситуации, Командир?
+SOPII(2);NPC-Kalin(4)<Speaker>Калин</Speaker>||:Уже занимаюсь этим!
 SOPII(2);NPC-Kalin(4)||:
-()||:Yegor answers the call.
-NPC-Yegor(2)<Speaker>Yegor</Speaker><通讯框>;NPC-Kalin(4)||:You're staying to fight off Sangvis Ferri? So that's what Griffin elites amount to? +If you can't catch up, we'll lose our cover and suffer unnecessary losses. Will you take full responsibility for that?
-NPC-Yegor(2);NPC-Kalin(4)<Speaker>Kalin</Speaker>||:What?! Hold on a second, Captain Yegor! +I mean no disrespect, but what you just said was completely unwarranted! +You expect us to maintain our defense while also keeping up with you. That's just unreas—
-NPC-Yegor(2)<Speaker>Yegor</Speaker>;NPC-Kalin(4)||:Tsk. See, that's why PMCs like you—
-NPC-Yegor(2);M4A1(2)<Speaker>M4A1</Speaker>||:Commander, allow us to proceed on our own! +The AR Team is capable of operating autonomously. We can activate paralyzed military units like we just did to help defend the Military forces.
-NPC-Yegor(2)<Speaker>Yegor</Speaker>;M4A1(2)||:That's an acceptable solution. It appears that some T-Dolls can be quite enlightened.
-NPC-Yegor(2);M4A1(2)<Speaker>M4A1</Speaker>||:Thank you. Please relay information regarding the battlefield to our Commander. We're setting off right now!
-NPC-Yegor(2)<Speaker>Yegor</Speaker>;M4A1(2)||:AR Team, yeah? I'll mark out the safest route for you. Don't be late.
-NPC-Yegor(2);M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:Understood. We'll lead a small group of T-Dolls to the designated location on time.
-()||<黑屏2><BIN>98</BIN>:Five minutes later.
-NPC-Kalin(3)<Speaker>Kalin</Speaker><通讯框>||:Letting the AR Team operate alone again... It feels too risky...
-NPC-Kalin(3);M4A1(2)<Speaker>M4A1</Speaker>||:If we don't take the risk, the Commander won't be able to complete the mission. +No pain, no gain, isn't that right, Commander?
-NPC-Kalin(3)<Speaker>Kalin</Speaker>;M4A1(2)||:Well, if the Commander agrees...
-NPC-Kalin(3);M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:Then that settles it. +According to the surveillance report, the route plotted by the Military is safe. We'll zigzag to shake off the Sangvis sharp shooters, then pick up our pace and reach the combat zone to support the Military. +Commander, I'm leaving the battle here to you. Please fend off the Sangvis assault and keep everyone safe.
+()||:Егор отвечает на звонок.
+NPC-Yegor(2)<Speaker>Егор</Speaker><通讯框>;NPC-Kalin(4)||:Ты остаёшься, чтобы сражаться с Сангвис Ферри? Так вот что из себя представляет элита Грифонов? +Если ты не сможешь догнать нас, мы потеряем прикрытие и понесем ненужные потери. Ты возьмешь на себя полную ответственность за это?
+NPC-Yegor(2);NPC-Kalin(4)<Speaker>Калин</Speaker>||:Что?! Подождите секунду, капитан Егор! +Я не хочу проявить неуважение, но то, что вы только что сказали, совершенно необоснованно! +Вы ожидаете, что мы будем поддерживать нашу оборону и одновременно не отставать от вас. Это просто нереальн—
+NPC-Yegor(2)<Speaker>Егор</Speaker>;NPC-Kalin(4)||:Тск. Видишь, вот почему такие ЧВК, как ты...
+NPC-Yegor(2);M4A1(2)<Speaker>M4A1</Speaker>||:Командир, позвольте нам действовать самостоятельно! +Команда AR способна действовать автономно. Мы можем активировать отключенные боевые единицы, как мы только недавно делали, чтобы помочь защитить вооруженные силы.
+NPC-Yegor(2)<Speaker>Егор</Speaker>;M4A1(2)||:Это приемлемое решение. Похоже, что некоторые Т-Куклы могут быть довольно образованными.
+NPC-Yegor(2);M4A1(2)<Speaker>M4A1</Speaker>||:Спасибо. Пожалуйста, передайте информацию о поле боя нашему Командиру. Мы выдвигаемся прямо сейчас!
+NPC-Yegor(2)<Speaker>Егор</Speaker>;M4A1(2)||:Команда AR, да? Я обозначу для вас самый безопасный маршрут. Не задерживайтесь.
+NPC-Yegor(2);M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:Понятно. Мы вовремя переправим небольшую группу Т-Кукол в указанное место.
+()||<黑屏2><BIN>98</BIN>:Пять минут спустя.
+NPC-Kalin(3)<Speaker>Калин</Speaker><通讯框>||:Снова позволить команде AR действовать в одиночку... Это слишком рискованно...
+NPC-Kalin(3);M4A1(2)<Speaker>M4A1</Speaker>||:Если мы не рискнем, Командир не сможет выполнить миссию. +Без труда нет и результата, верно, Командир?
+NPC-Kalin(3)<Speaker>Калин</Speaker>;M4A1(2)||:Ну, если Командир согласится...
+NPC-Kalin(3);M4A1(2)<Speaker>M4A1</Speaker>||<黑屏1>:Тогда всё решено. +Согласно отчёту о наблюдении, маршрут, предложенный военными, безопасен. Мы будем двигаться зигзагом, чтобы оторваться от снайперов Сангвиса, а затем ускоримся и доберёмся до зоны боевых действий, чтобы поддержать военных. +Командир, я оставляю вам руководство сражением. Пожалуйста, отразите атаку Сангвиса и обеспечьте безопасность всех.
 ()||<黑点2><BIN>10</BIN>:
+
