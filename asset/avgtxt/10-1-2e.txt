@@ -1,52 +1,53 @@
 ()||<BIN>9</BIN><BGM>BGM_Wake</BGM>:... +......
-帕斯卡()<Speaker>Persica</Speaker>||<黑屏1>:Oh? Have you come to, kitty cat?
-NPC-Persica(2)<Speaker>Persica</Speaker>||<BIN>22</BIN><黑屏2>:This is 16LAB, your birthplace. +Now let me run a check on your neural cloud... +Hmm... It seems...to be running just fine.
-M4A1()<Speaker>M4A1</Speaker>||:Who...are you...?
-NPC-Persica(2)<Speaker>Persica</Speaker>||:Persicaria, your creator.
-M4A1()<Speaker>M4A1</Speaker>||:Why...did you create me?
-NPC-Persica(2)<Speaker>Persica</Speaker>||:You are to be the leader of the AR Team and lead the best T-Dolls that I've ever created.
-M4A1()<Speaker>M4A1</Speaker>||:T-Dolls... +Am I...a T-Doll?
-NPC-Persica(2)<Speaker>Persica</Speaker>||:From now on, yes. +You're much cuter than I imagined, now that you've recovered... +I hope you can...give me the answers that Lyco couldn't...
-M4A1()<Speaker>M4A1</Speaker>||:...Lyco? +...What answers?
-NPC-Persica(2)<Speaker>Persica</Speaker>||<黑屏1>:Well...it's too early for that. Why don't we meet your new comrades first?
-M16(0)<Speaker>M16A1</Speaker>||<黑屏2>:So you're M4A1? M16A1, a T-Doll like you. +Pleasure. Guess I'll be taking orders from you.
-M4A1()<Speaker>M4A1</Speaker>||:Your...eye?
-M16(0)<Speaker>M16A1</Speaker>||:Haha, does this scare you? +No need to be scared. This eyepatch...is just a memento. Cool, isn't it?
-M4A1()<Speaker>M4A1</Speaker>||:Hmm...
-M16(0)<Speaker>M16A1</Speaker>||<黑屏1>:Right, I'm what you'd call a veteran. Don't hesitate to ask me if you have any questions. +I also like drinking. Feel free to ask me out for a drink. +...
-M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:This...was the first time I met them... +My...very first memory...
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||<黑屏1>:But it's not our first memory. +Come, M4A1. Look over here. +Look at me...
-M4A1()<Speaker>M4A1</Speaker>||<BIN>100</BIN><黑屏2>:... +We... +We finally meet.
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:Are you happy? +Or...are you still afraid?
-M4A1()<Speaker>M4A1</Speaker>||:Should I be afraid?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:We are enemies. Of course you should be afraid. +But you aren't.
-M4A1()<Speaker>M4A1</Speaker>||:I'm...not afraid. +What exactly...are we...?
-RO635()<Speaker>RO635</Speaker>||:M4! +Don't be fooled! Don't let that voice confuse you!
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||<黑屏1>:...
-M4A1()<Speaker>M4A1</Speaker>||<BIN>101</BIN><黑屏2><SE1>Runstep</SE1>:Where are you going? Wait!
-()||:The little girl runs off, leaving M4A1 standing alone before a mirror.
+帕斯卡()<Speaker>Персика</Speaker>||<黑屏1>:О? Ты пришла в себя, кошечка?
+NPC-Persica(2)<Speaker>Персика</Speaker>||<BIN>22</BIN><黑屏2>:Это 16LAB, место твоего рождения. +Теперь позволь мне проверить твоё нейронное облако... +Хм... Похоже... оно работает нормально.
+M4A1()<Speaker>M4A1</Speaker>||:Кто... ты...?
+NPC-Persica(2)<Speaker>Персика</Speaker>||:Персикария, твой создатель.
+M4A1()<Speaker>M4A1</Speaker>||:Зачем... ты создала меня?
+NPC-Persica(2)<Speaker>Персика</Speaker>||:Ты будешь лидером команды AR и возглавишь лучших Т-Кукол, которых я когда-либо создавала.
+M4A1()<Speaker>M4A1</Speaker>||:Т-Кукол... +Я... Т-Кукла?
+NPC-Persica(2)<Speaker>Персика</Speaker>||:С этого момента, да. +Ты гораздо милее, чем я представляла, теперь, когда ты восстановилась... +Надеюсь, ты сможешь... дать мне ответы, которые не смог дать Лико...
+M4A1()<Speaker>M4A1</Speaker>||:...Лико? +... Какие ответы?
+NPC-Persica(2)<Speaker>Персика</Speaker>||<黑屏1>:Ну... для этого еще слишком рано. Почему бы нам сначала не познакомиться с твоими новыми товарищами?
+M16(0)<Speaker>M16A1</Speaker>||<黑屏2>:Так ты M4A1? M16A1, такая же Т-Кукла, как и ты. +Приятно познакомиться. Похоже, я буду выполнять твои приказы.
+M4A1()<Speaker>M4A1</Speaker>||:Твой... глаз?
+M16(0)<Speaker>M16A1</Speaker>||:Ха-ха, это тебя пугает? +Не нужно бояться. Эта повязка на глазу... это просто сувенир. Классно, правда?
+M4A1()<Speaker>M4A1</Speaker>||:Хмм...
+M16(0)<Speaker>M16A1</Speaker>||<黑屏1>:Да, я так называемый ветеран. Не стесняйтесь обращаться ко мне, если у тебя есть вопросы. +Я также люблю выпить. Не стесняйся пригласить меня на выпивку. +...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:Это... был первый раз, когда я их встретила... +Моё... самое первое воспоминание...
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||<黑屏1>:Но это не наше первое воспоминание. +Иди сюда, M4A1. Посмотри сюда. +Посмотри на меня...
+M4A1()<Speaker>M4A1</Speaker>||<BIN>100</BIN><黑屏2>:... +Мы... +Мы наконец-то встретились.
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Ты счастлива? +Или... ты всё ещё боишься?
+M4A1()<Speaker>M4A1</Speaker>||:Мне следует бояться?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Мы враги. Конечно, ты должна бояться. +Но ты не боишься.
+M4A1()<Speaker>M4A1</Speaker>||:Я... не боюсь. +Кто же именно... мы...?
+RO635()<Speaker>RO635</Speaker>||:M4! +Не дайте себя обмануть! Не позволяйте этому голосу сбить себя с толку!
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||<黑屏1>:...
+M4A1()<Speaker>M4A1</Speaker>||<BIN>101</BIN><黑屏2><SE1>Runstep</SE1>:Куда ты идешь? Стой!
+()||:Маленькая девочка убегает, оставляя M4A1 стоять одну перед зеркалом.
 M4A1()<Speaker>M4A1</Speaker>||:...
-M4A1()<Speaker>M4A1</Speaker>||:This is...me?
-RO635()<Speaker>RO635</Speaker>||:Just give me some more time! You can wake up very soon!
-M4A1()<Speaker>M4A1</Speaker>||:RO...? +RO, are you there?!
-RO635()<Speaker>RO635</Speaker>||:I told you I'd be back. +You can't see me, but I know you're here!
-M4A1()<Speaker>M4A1</Speaker>||:Why...why are you still here? I'm...already like this...
-RO635()<Speaker>RO635</Speaker>||:I don't care what you've become, M4A1. This is my mission.
-M4A1()<Speaker>M4A1</Speaker>||:But...we've only known each other for a few hours...
-RO635()<Speaker>RO635</Speaker>||<震屏>:This is why I was created in the first place! +I was created...to save you at this very moment!
-M4A1()<Speaker>M4A1</Speaker>||:This shouldn't be what you live for... +Your purpose isn't even derived from your own free will!
-RO635()<Speaker>RO635</Speaker>||:So what? +At least right now, I'm happy. I'm happy to have met you and the AR Team.
-M4A1()<Speaker>M4A1</Speaker>||:Don't you understand? You're designed to feel that way! All T-Dolls are.
-RO635()<Speaker>RO635</Speaker>||:I can live with that! Why does it matter if my feelings are artificial or not?! +At the very least...I'm doing my best for what I believe is good... +My feelings might not be my own, but my smile is genuine!
+M4A1()<Speaker>M4A1</Speaker>||:Это... я?
+RO635()<Speaker>RO635</Speaker>||:Просто дайте мне ещё немного времени! Ты очень скоро сможешь очнуться!
+M4A1()<Speaker>M4A1</Speaker>||:RO...? +RO, ты здесь?!
+RO635()<Speaker>RO635</Speaker>||:Я же сказала, что вернусь. +Ты меня не видишь, но я знаю, что ты здесь!
+M4A1()<Speaker>M4A1</Speaker>||:Почему... почему ты ещё здесь? Я... такая, какая есть...
+RO635()<Speaker>RO635</Speaker>||:Мне не важно, кем ты стала, M4A1. Это моя миссия.
+M4A1()<Speaker>M4A1</Speaker>||:Но... мы знакомы всего несколько часов...
+RO635()<Speaker>RO635</Speaker>||<震屏>:Именно для этого я и была создана! +Я была создана... чтобы спасти тебя именно в этот момент!
+M4A1()<Speaker>M4A1</Speaker>||:Это не должно быть смыслом твоей жизни... +Твоя цель даже не проистекает из твоей собственной свободной воли!
+RO635()<Speaker>RO635</Speaker>||:И что с того? +По крайней мере, сейчас я счастлива. Я счастлива, что познакомилась с тобой и Командой AR.
+M4A1()<Speaker>M4A1</Speaker>||:Ты что, не понимаешь? Ты создана, чтобы так чувствовать! Все Т-Куклы такие.
+RO635()<Speaker>RO635</Speaker>||:Я могу с этим жить! Какая разница, искусственные мои чувства или нет?! +По крайней мере... я делаю всё, что в моих силах, ради того, что считаю правильным... +Мои чувства, может, и не мои, но моя улыбка искренняя!
 M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:...!
-RO635()<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN>:AR-15 wanted me to save you. M16 wants me to save you. So does SOP-II as well as the Commander! +M4A1... +I might not be acting out of my own free will, but I'm doing this because everyone is counting on me. +Even if you don't believe me, at least believe those who have always supported you. +C'mon, take my hand. Let's go back together...
-M4A1()<Speaker>M4A1</Speaker>||:RO... +I'm sorry I forgot... +I said it myself...that we won't be apart ever again. +We're sticking together...through thick and thin.
-RO635()<Speaker>RO635</Speaker>||:That's right! Then come back! At least we can die together!
-RO635()<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:Wait... +What's that noise?! +M4, can you hear that?!
-M4A1()<Speaker>M4A1</Speaker>||<SE2>Heartbeat</SE2>:What noise? I can't hear it!
-RO635()<Speaker>RO635</Speaker>||:No, this place is too dangerous. I need to get you out. +C'mon, M4! Follow me—
-()||<BIN>9</BIN><SE1>AVG_Bell</SE1>:...Clack! +...
-M4A1()<Speaker>M4A1</Speaker>||:... +RO? +RO, where are you? +What happened...? Are you alright?! +RO—! Where are you?! +RO—!!
-()||<SE2>Heartbeat</SE2>:M4A1's calls are answered only by a dreadful silence.
+RO635()<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN>:AR-15 хотела, чтобы я спасла тебя. M16 хочет, чтобы я спасла тебя. SOP-II и Командир тоже! +M4A1... +Возможно, я действую не по своей воле, но я делаю это, потому что все на меня рассчитывают. +Даже если ты не веришь мне, по крайней мере, поверь тем, кто всегда тебя поддерживал. +Давай, возьми меня за руку. Давай вернёмся вместе...
+M4A1()<Speaker>M4A1</Speaker>||:RO... +Прости, я забыла... +Я сама сказала... что мы больше никогда не расстанемся. +Мы будем вместе... в радости и в горе.
+RO635()<Speaker>RO635</Speaker>||:Верно! Тогда возвращайся! По крайней мере, мы сможем умереть вместе!
+RO635()<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:Подожди... +Что это за шум?! +M4, ты слышишь это?!
+M4A1()<Speaker>M4A1</Speaker>||<SE2>Heartbeat</SE2>:Что за шум? Я не могу его слышать!
+RO635()<Speaker>RO635</Speaker>||:Нет, здесь слишком опасно. Я должна вытащить тебя отсюда. +Давай, М4! Иди за мной—
+()||<BIN>9</BIN><SE1>AVG_Bell</SE1>:...Клэк! +...
+M4A1()<Speaker>M4A1</Speaker>||:... +RO? +RO, где ты? +Что случилось...? Ты в порядке?! +RO—! Где ты?! +RO—!!
+()||<SE2>Heartbeat</SE2>:На оклики M4A1 отвечает только гробовое молчание.
 M4A1()<Speaker>M4A1</Speaker>||:...
-()||<黑屏1>:...Silence, darkness, and endless confusion.
+()||<黑屏1>:...Тишина, тьма и бесконечное смятение.
+
