@@ -1,25 +1,26 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...
 M4A1()<Speaker>M4A1</Speaker>||:...RO?
-()||:...No response. +M4A1 feels almost weightless.
-M4A1()<Speaker>M4A1</Speaker>||:I'm...falling? +How long am I going to fall?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||<黑屏1>:You're just sleeping. Now wake up.
-M4A1()<Speaker>M4A1</Speaker>||<BIN>100</BIN><黑屏2><BGM>BGM_Truth</BGM>:Wake up? I just want to go back.
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:I am leading you back, following a path that you don't know. +Right now, I'm the only one who can help you, so face this with me.
-()||:...M4A1 feels herself becoming dazed again.
-M4A1()<Speaker>M4A1</Speaker>||:Face what...with you?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||<黑屏1>:Something that belongs to us.
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||<BIN>102</BIN><黑屏2>:You see them too, don't you?
-M4A1()<Speaker>M4A1</Speaker>||:What...are these?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:Fragments of our memory.
-M4A1()<Speaker>M4A1</Speaker>||:Ours...?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:There are things that I don't remember, but they're here in your mind. +...It's such a nice feeling.
-M4A1()<Speaker>M4A1</Speaker>||:Huh?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||<黑屏1>:Let's keep going.
-M4A1(2)<Speaker>M4A1</Speaker>||<BIN>10</BIN><黑屏2>:Where...exactly are we...?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:The depths of our heart. Does that make any sense to you?
-M4A1(2)<Speaker>M4A1</Speaker>||:I don't know. Will they hurt me?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:Not if you accept them willingly. +There is so much strength in your mind... +Power even greater than my own.
-M4A1(2)<Speaker>M4A1</Speaker>||:Power...
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:Call them...order them...to come save you...to take you away from here...and deliver you to the other side.
-M4A1(2)<Speaker>M4A1</Speaker>||:What's there on the other side?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||<黑点1>:A gift. +A gift...our "Father" left us...
+()||:...Нет ответа. +M4A1 чувствует себя почти невесомой.
+M4A1()<Speaker>M4A1</Speaker>||:Я... падаю? +Как долго я буду падать?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||<黑屏1>:Ты просто спишь. Теперь просыпайся.
+M4A1()<Speaker>M4A1</Speaker>||<BIN>100</BIN><黑屏2><BGM>BGM_Truth</BGM>:Просыпаться? Я просто хочу вернуться.
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Я провожу тебя обратно, следуя по тропе, которую ты не знаешь. +Сейчас я единственная, кто может тебе помочь, так что встречай это вместе со мной.
+()||:...M4A1 чувствует, что снова впадает в оцепенение.
+M4A1()<Speaker>M4A1</Speaker>||:С чем втретиться... с тобой?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||<黑屏1>:Это то, что принадлежит нам.
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||<BIN>102</BIN><黑屏2>:Ты их тоже видишь, не так ли?
+M4A1()<Speaker>M4A1</Speaker>||:Что... это?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Фрагменты нашей памяти.
+M4A1()<Speaker>M4A1</Speaker>||:Нашей...?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Есть вещи, которые я не помню, но они есть в твоей памяти. +...Это такое приятное чувство.
+M4A1()<Speaker>M4A1</Speaker>||:Эм?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||<黑屏1>:Давай продолжим.
+M4A1(2)<Speaker>M4A1</Speaker>||<BIN>10</BIN><黑屏2>:Где... мы находимся...?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Глубины нашего сердца. Это имеет для тебя какой-то смысл?
+M4A1(2)<Speaker>M4A1</Speaker>||:Я не знаю. Они причинят мне боль?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Нет, если ты добровольно их примешь. +В твоей душе столько силы... +Силы, даже большей, чем моя.
+M4A1(2)<Speaker>M4A1</Speaker>||:Сила...
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Призови их... прикажи им... прийти и спасти тебя... увести тебя отсюда... и доставить на другую сторону.
+M4A1(2)<Speaker>M4A1</Speaker>||:Что там, на другой стороне?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||<黑点1>:Подарок. +Подарок... оставленный нам нашим «Отцом»...
+
