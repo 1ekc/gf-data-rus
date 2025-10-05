@@ -1,69 +1,70 @@
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:... +A door appears before M4A1.
-M4A1(2)<Speaker>M4A1</Speaker>||:Should I open it?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:Your will is your own. It's your choice.
-M4A1(2)<Speaker>M4A1</Speaker>||:What's behind the door?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:I want to know too.
-M4A1(2)<Speaker>M4A1</Speaker>||:You want me to open it?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:You're asking me questions instead of thinking for yourself.
-M4A1(2)<Speaker>M4A1</Speaker>||:My head is a mess. I don't know how to think.
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:What if I say "yes"? Will you do it for me? +Will you go back to following others' orders?
-()||:...M4A1 falls silent for a while, then walks up to the door.
-M4A1(0)<Speaker>M4A1</Speaker>||:I never knew having freedom is such a chore. +But I have no choice but to keep going.
-()||<黑屏1>:...M4A1 pushes the door open.
-M4A1()<Speaker>M4A1</Speaker>||<BIN>103</BIN><黑屏2><BGM>BGM_Truth</BGM>:...Who are you?
-()||:...The person does not answer. She just cries and cries.
-M4A1()<Speaker>M4A1</Speaker>||:Who's that lying on the floor?
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:... +Перед M4A1 появляется дверь.
+M4A1(2)<Speaker>M4A1</Speaker>||:Мне надо открыть?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Твоя воля принадлежит тебе. Это твой выбор.
+M4A1(2)<Speaker>M4A1</Speaker>||:Что за дверью?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Я тоже хочу знать.
+M4A1(2)<Speaker>M4A1</Speaker>||:Ты хочешь, чтобы я открыла?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Ты задаешь мне вопросы, вместо того чтобы думать самостоятельно.
+M4A1(2)<Speaker>M4A1</Speaker>||:В моей голове полный беспорядок. Я не знаю, что и думать.
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:А что, если я скажу «да»? Ты сделаешь это для меня? +Ты снова будешь выполнять приказы других?
+()||:...M4A1 на мгновение замолкает, затем подходит к двери.
+M4A1(0)<Speaker>M4A1</Speaker>||:Я никогда не думала, что свобода — это такая тяжелая ноша. Но у меня нет выбора, я должна идти дальше.
+()||<黑屏1>:...M4A1 толкает дверь.
+M4A1()<Speaker>M4A1</Speaker>||<BIN>103</BIN><黑屏2><BGM>BGM_Truth</BGM>:...Кто ты?
+()||:...Собеседник не отвечает. Он только плачет и плачет.
+M4A1()<Speaker>M4A1</Speaker>||:Кто лежит на полу?
 ()||:...
-M4A1()<Speaker>M4A1</Speaker>||:Is there...anything I can do for you?
+M4A1()<Speaker>M4A1</Speaker>||:Есть ли что-нибудь, чем я могу тебе помочь?
 ()||:...
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Or... +Let me help you.
-()||<BIN>104</BIN><黑屏2>:...The girl stops crying.
-M4A1()<Speaker>M4A1</Speaker>||:Perhaps...I should take this even further.
-()||:...M4A1 steps closer to the girl and extends her hands.
-M4A1()<Speaker>M4A1</Speaker>||:Don't be scared. I'm here to help you.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Или... + Дай я тебе помогу.
+()||<BIN>104</BIN><黑屏2>:...Девочка перестает плакать.
+M4A1()<Speaker>M4A1</Speaker>||:Возможно... я должна пойти еще дальше.
+()||:...M4A1 подходит ближе к девушке и протягивает ей руку.
+M4A1()<Speaker>M4A1</Speaker>||:Не бойся. Я здесь, чтобы помочь тебе.
 ()||:...
-M4A1()<Speaker>M4A1</Speaker>||:Not because I was ordered to. +Not because I'm a T-Doll who serves mankind. +I just want to help you. That's it. +So... +Don't be scared. I—
-()||<BIN>105</BIN><SE2>MachineGunBurst</SE2>:...Bang!
+M4A1()<Speaker>M4A1</Speaker>||:И не потому, что мне приказали. +И не потому, что я Т-Кукла, которая служит человечеству. +Я просто хочу тебе помочь. Вот и всё. +Так что... +Не бойся. Я—
+()||<BIN>105</BIN><SE2>MachineGunBurst</SE2>:...Бэнг!
 M4A1()<Speaker>M4A1</Speaker>||:...!
 M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:...
 ()||<BIN>106</BIN><黑屏2>:......
-M4A1()<Speaker>M4A1</Speaker>||:Was I mistaken? +Did I...make the wrong choice...?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:No. +Sometimes, the ending is the same no matter what your choice is.
-M4A1()<Speaker>M4A1</Speaker>||:Then why do choices even matter?! +Does it change anything now that I have a will?! +Will AR-15 come back? Will M16 come back?!
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:Free will does not equal arbitrariness. +All it means is that you always have an alternative.
+M4A1()<Speaker>M4A1</Speaker>||:Я ошиблась? +Я... сделала неверный выбор...?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Нет. Иногда, независимо от вашего выбора, концовка остается той же.
+M4A1()<Speaker>M4A1</Speaker>||:Тогда зачем вообще нужен выбор?! +Изменится ли что-нибудь теперь, когда у меня есть выбор?! +Вернется ли AR-15? Вернется ли M16?!
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Свободная волb не равна произволу. +Это означает лишь то, что у тебя всегда есть альтернатива.
 ()||:...
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:Go. See what else you can do.
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Иди. Посмотрим, что ещё ты сможешь сделать.
 ()||:...
-()||:M4A1 walks up to the girl again. She is lying on the floor, her eyes closed.
+()||:M4A1 снова подходит к девушке. Она лежит на полу с закрытыми глазами.
 M4A1()<Speaker>M4A1</Speaker>||:...
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||:What do you see?
-()||<黑屏1>:...The girl speaks in the same youthful voice as the one M4A1 has been hearing.
-M4A1()<Speaker>M4A1</Speaker>||<BIN>107</BIN><黑屏2>:I...see you... +...and myself.
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||:And?
-M4A1()<Speaker>M4A1</Speaker>||:I don't know... +It's too dark here. I can't see anything other than us.
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||:You're blocking out too much. That's why you can't see anything. +Unless...
-M4A1()<Speaker>M4A1</Speaker>||:Unless?
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||:Unless I help you.
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||:Что ты видишь?
+()||<黑屏1>:...Девушка говорит тем же юным голосом, который слышала M4A1.
+M4A1()<Speaker>M4A1</Speaker>||<BIN>107</BIN><黑屏2>:Я... вижу тебя... +... и себя.
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||:И?
+M4A1()<Speaker>M4A1</Speaker>||:Не знаю... +Здесь слишком темно. Я не вижу ничего, кроме нас.
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||:Ты слишком многое блокируешь. Поэтому ты ничего не видишь. +Если только...
+M4A1()<Speaker>M4A1</Speaker>||:Если только что?
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||:Если только я не помогу тебе.
 M4A1()<Speaker>M4A1</Speaker>||<BIN>108</BIN><震屏><SE1>Rope</SE1>:...!
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||:Let me help you... +...see.
-M4A1()<Speaker>M4A1</Speaker>||:I don't want to... +I don't want to see.
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||:You must. Then you must accept it... +The truth— +must be— +uncovered!!
-()||<BIN>9</BIN>:The girl suddenly grabs M4A1 forcefully! +...!!! +... +......
-M4A1()<Speaker>M4A1</Speaker>||:What did you do?
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||:I opened the door. The door in your heart. +Turn around. Do you see it now?
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:I...
-M4A1()<Speaker>M4A1</Speaker>||<BIN>109</BIN><黑屏2>:Where are we?
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||:You see it? That's great. +This is beautiful... +I still remember...this garden.
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:...But why does the sight of this garden...fill me with sorrow?
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||<BIN>110</BIN><黑屏2>:Because you are the part I was missing. +And I am what you're missing.
-M4A1()<Speaker>M4A1</Speaker>||:So...what should we do?
-声音稚嫩的女孩()<Speaker>Girl with a youthful voice</Speaker>||:Will you come back? +Will you fill in our missing part? +As long as you're willing...
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:I...
-()||<BIN>111</BIN><BGM>BGM_Empty</BGM><黑屏2><SE1>AVG_Bell</SE1>:...Clack!
-()||<SE2>Alarm</SE2>:Whirr! Whirr! Whirr!
-阴沉的人类男声()<Speaker>Grim male voice</Speaker>||:Wakey-wakey, M4A1. +...Time to find the Key for us...as your brand new self.
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||:Дай мне помочь тебе... +...посмотреть.
+M4A1()<Speaker>M4A1</Speaker>||:Я не хочу... +Я не хочу смотреть.
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||:Ты должна. Значит, ты должна принять это... +Правда — +должна быть — +раскрыта!!
+()||<BIN>9</BIN>:Девушка внезапно силой хватает M4A1! +...!!! +... +......
+M4A1()<Speaker>M4A1</Speaker>||:Что ты делаешь?
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||:Я открыла дверь. Дверь в твоем сердце. +Повернись. Теперь ты видишь?
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Я...
+M4A1()<Speaker>M4A1</Speaker>||<BIN>109</BIN><黑屏2>:Где мы находимся?
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||:Видишь? Это здорово. +Это прекрасно... +Я до сих пор помню... этот сад.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:...Но почему вид этого сада... наполняет меня печалью?
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||<BIN>110</BIN><黑屏2>:Потому что ты – та часть, которой мне не хватало. +А я – то, чего не хватало тебе.
+M4A1()<Speaker>M4A1</Speaker>||:Итак... что же нам делать?
+声音稚嫩的女孩()<Speaker>Девушка с юным голосом</Speaker>||:Ты вернешься? +Ты заполнишь недостающую часть? +Если ты готова...
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:Я...
+()||<BIN>111</BIN><BGM>BGM_Empty</BGM><黑屏2><SE1>AVG_Bell</SE1>:...Клац!
+()||<SE2>Alarm</SE2>:Жужжж! Жужжж! Жужжж!
+阴沉的人类男声()<Speaker>Grim male voice</Speaker>||:Проснись, M4A1. +...Пора найти Ключ для нас... в виде твоего нового «я».
 ()||:...
-M4A1()<Speaker>M4A1</Speaker>||:I...I'm back...? +RO...?! +Where's everyone??
+M4A1()<Speaker>M4A1</Speaker>||:Я... я вернулась...? +RO...?! +Где все??
 ()||<黑屏1><SE1>AVG_Rain2</SE1>:... +......
-M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:What...happened...?
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:Что... случилось...?
 ()||<BIN>112</BIN><黑屏2><黑屏1>:... +......
+
