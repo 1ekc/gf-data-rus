@@ -1,34 +1,35 @@
 ()||<BIN>9</BIN><BGM>BGM_Brain</BGM>:...
-M4A1()<Speaker>M4A1</Speaker>||:Unforgivable... Unforgivable! I'm gonna kill you!
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:It wasn't me.
-M4A1()<Speaker>M4A1</Speaker>||:Shut up, liar! Get out!! +I'll kill you!!
+M4A1()<Speaker>M4A1</Speaker>||:Непростительно... Непростительно! Я тебя убью!
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Это была не я.
+M4A1()<Speaker>M4A1</Speaker>||:Заткнись, лгунья! Убирайся! +Я тебя убью!
 ()||:...
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:She rejected me again. Will we get another chance?
-代理人()<Speaker>Agent</Speaker>||:We are running out of time, Master. +The Military has already reached the designated location. +All our preparations are in place. May we initiate the final plan?
-稚嫩的女声()<Speaker>Youthful female voice</Speaker>||:Why... +What on earth happened...? +I can't hear her anymore...
-清澈的女声()<Speaker>Clear female voice</Speaker>||:Due to the humans' interference, all connections have been severed. +She made her choice. Now you must make yours. +Don't worry. I will keep an eye on her. +But for you...time is running short... +...Elisa.
-主脑·伊莱莎()<Speaker>Mastermind/Elisa</Speaker>||<黑屏1>:I understand. +It's a shame, but let's do it. +Agent, unleash the full power of Parapluie.
-()||<BIN>9</BIN><黑屏2>:...Meanwhile, at the Military's temporary command center.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:It's begun... Finally, it's begun! +Sangvis Ferri is fully activating Parapluie. Let us spice up their show. +Carter, what's the status of your forces?
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Our human troops have already retreated. The mechanical units are all left behind along the defense line as planned. +The active defense system on Level II is deactivated while the connection to the main server is open.
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:Good. Very good.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Are you sure Mastermind is capable of acquiring what we want her to get?
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:What are you talking about? +This is the Parapluie virus that we pride ourselves on. Our lovely lady can do whatever she pleases with it.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:I look forward to it, though it's ironic how we are staking the future of the country on these T-Dolls...
-经过电子处理的男声()<Speaker>Distorted male voice</Speaker>||:A long time ago, our nice, peaceful world was destroyed because of several kids. +Isn't this what you'd call "fate"? It's interesting precisely because it's unpredictable. +Speaking of which, I'm quite surprised a small company like Griffin ended up playing such an important role.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Though their part is coming to an end.
-()||:...Carter bows his head and chuckles.
-NPC-Carter(0)<Speaker>Carter</Speaker>||<黑屏1>:Kryuger, I'll save the apology for when next we meet. You'll probably be in prison by then.
-()||<黑屏2><BIN>8</BIN><BGM>BGM_Danger</BGM>:...Meanwhile, Griffin Control.
-NPC-Kalin(4)<Speaker>Kalin</Speaker>||:Commander, this is a super emergency! +Some of our T-Dolls have suddenly stopped receiving orders and started attacking our logistic facilities! +The situation is temporarily under control, but according to various reports, we are also under the attack of multiple military units!
-()||:...Click. Click.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:Commander, our...mand system is suffering...large-scale attack...
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Она снова меня отвергла. У нас будет ещё один шанс?
+代理人()<Speaker>Агент</Speaker>||:Время на исходе, Мастер. +Военные уже прибыли в указанное место. +Все приготовления завершены. Можем ли мы приступить к реализации окончательного плана?
+稚嫩的女声()<Speaker>Юный женский голос</Speaker>||:Почему... +Что же произошло...? +Я больше не слышу её...
+清澈的女声()<Speaker>Ясный женский голос</Speaker>||:Из-за вмешательства людей связь была полностью прервана. +Она сделала свой выбор. Теперь ты должна сделать свой. +Не волнуйся. Я буду присматривать за ней. +Но для тебя... время на исходе... +...Элиза.
+主脑·伊莱莎()<Speaker>Владыка/Элиза</Speaker>||<黑屏1>:Я понимаю. +Жаль, но давай сделаем это. +Агент, раскройте всю мощь Параплюй.
+()||<BIN>9</BIN><黑屏2>:...Тем временем, во временном командном штабе военных.
+经过电子处理的男声()<Speaker>Искаженный мужской голос</Speaker>||:Началось... Наконец-то началось! +Сангвис Ферри полностью активирует Параплюй. Давайте добавим остроты в их шоу. +Картер, каково состояние твоих сил?
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Наши войска уже отступили. Механические подразделения остались на линии обороны, как и планировалось. +Активная система обороны на уровне II отключена, пока соединение с главным сервером открыто.
+经过电子处理的男声()<Speaker>Искаженный мужской голос</Speaker>||:Хорошо. Очень хорошо.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Вы уверены, что Владыка способна получить то, что мы хотим, с помощью неё?
+经过电子处理的男声()<Speaker>Искаженный мужской голос</Speaker>||:О чем ты говоришь? +Это вирус Параплюй, которым мы так гордимся. Наша милая леди может делать с ним всё, что ей заблагорассудится.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Я с нетерпением жду этого, хотя ирония судьбы заключается в том, что мы ставим будущее страны на карту, делая ставку на этих Т-Кукол...
+经过电子处理的男声()<Speaker>Искаженный мужской голос</Speaker>||:Давным-давно наш прекрасный, мирный мир был разрушен из-за нескольких детей. +Разве это не то, что называется «судьбой»? Это интересно именно потому, что непредсказуемо. +Кстати, я весьма удивлен, что такая небольшая компания, как Грифон, сыграла столь важную роль.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Хотя их роль подходит к концу.
+()||:...Картер склонил голову и усмехнулся.
+NPC-Carter(0)<Speaker>Картер</Speaker>||<黑屏1>:Крюгер, я оставлю извинения до нашей следующей встречи. К тому времени ты, вероятно, уже будешь в тюрьме.
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Danger</BGM>:...Между тем, Контроль управления Грифона.
+NPC-Kalin(4)<Speaker>Калин</Speaker>||:Командир, это чрезвычайная ситуация! +Некоторые из наших Т-Кукол внезапно перестали получать приказы и начали атаковать наши логистические объекты! +Ситуация временно под контролем, но, согласно различным сообщениям, мы также подвергаемся атаке со стороны нескольких боевых единиц!
+()||:...Клик. Клик.
+NPC-Helian(0)<Speaker>Хелиан</Speaker><通讯框>||:Командир, наша... система связи подвергается... массированной атаке...
 ()||:(Static)
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:...almost completely paralyzed...
+NPC-Helian(0)<Speaker>Хелиан</Speaker><通讯框>||:...почти полностью парализованы...
 ()||:(Static)
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:...guess...infected by a more potent version of the Parapluie virus! +Commander, your forces are within the coverage... +Take all uninfected T-Dolls with you and withdraw this instant!
-NPC-Kalin(4)<Speaker>Kalin</Speaker>||:Commander, what about M4 and the others?! +Their location is completely overrun by Parapluie... Our T-Dolls would lose their mind the moment they set foot in there! +Even the AR Team and the Carcano sisters could already be... +And there's nothing we can do... +Why... How did this happen...? We even promised them...
-()||:...Click.
-SoundOnly()<Speaker>SoundOnly</Speaker>||<黑屏1>:Griffin Commander. +Do you trust me? +Don't try to track my signal. This isn't the time for that. At the very least, I'm not your enemy. +If you trust me just as Persica does... +...give me M4A1's coordinates. +...I can't guarantee anything. All I can do is to make up for what I did before. +No need to thank me. I'm getting paid for this. +You fought well today, but the AR Team aren't your only subordinates. +Protect all the T-Dolls that you can and leave the rest to me. Best of luck to the both of us.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||<黑屏2><BIN>10</BIN>:Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11! +There has been a contingency in Area S09. The area is in total disarray! +We are currently coordinating a large-scale withdrawal from the area, and our retreating forces will be passing through Area S11! +All commanders on standby, please report immediately to your command center! +All Griffin personnel in Area S11 are to prepare for battle. Repel the Sangvis assault and protect as many of our troops as you can! +Attention, all Griffin personnel in Area S11! Attention, all Griffin personnel in Area S11! +Battle stations! Repel the Sangvis assault and protect as many of our troops as you can!
-NPC-Kalin(4)<Speaker>Kalin</Speaker>||<黑点1>:We have no choice but to trust that person. +They're right, Commander, a lot of our T-Dolls are waiting for rescue! +We must keep the routes open and help them escape!
+NPC-Helian(0)<Speaker>Хелиан</Speaker><通讯框>||:...полагаю... заражены более мощной версией вируса Параплюй! +Командир, ваши силы находятся в зоне действия... +Заберите с собой всех незараженных Т-Кукол и немедленно отступайте!
+NPC-Kalin(4)<Speaker>Калин</Speaker>||:Командир, а что с М4 и остальными?! +Их местоположение полностью в зоне Параплюй... Наши Т-куклы сойдут с ума, как только ступят туда! +Даже команда AR и сёстры Каркано уже могут быть... +И мы ничего не можем сделать... +Почему... Как это могло случиться...? Мы же обещали им...
+()||:...Клик.
+SoundOnly()<Speaker>Только звук</Speaker>||<黑屏1>:Командир Грифона. +Ты доверишься мне? +Не пытайся отследить мой сигнал. Сейчас не время для этого. По крайней мере, не я твой враг. +Если ты доверяешь мне так же, как Персике... +...дай мне координаты М4А1. +...Я ничего не могу гарантировать. Всё, что я могу сделать, — это загладить свою вину за то, что я сделала раньше. +Не нужно меня благодарить. Мне за это платят. +Ты сегодня хорошо сражался, но команда AR — не твои единственные подчинённые. +Защити всех Т-Кукол, кого сможешь, а остальных оставь мне. Удачи нам обоим.
+NPC-Helian(0)<Speaker>Хелиан</Speaker><通讯框>||<黑屏2><BIN>10</BIN>:Внимание, всему персоналу Грифона в зоне S11! Внимание, всему персоналу Грифона в зоне S11! +В зоне S09 произошла чрезвычайная ситуация. В зоне царит полный хаос! +В настоящее время мы координируем масштабное отступление из зоны, и наши войска будут проходить через зону S11! +Все командиры, находящиеся в режиме ожидания, немедленно явитесь в свой командный центр! +Весь персонал Грифона в зоне S11 должен приготовиться к бою. Отразите атаку Сангвис и защитите как можно больше наших войск! +Внимание, весь персонал Грифона в зоне S11! Внимание, весь персонал Грифона в зоне S11! +На боевые посты! Отразите атаку Сангвис и защитите как можно больше наших войск!
+NPC-Kalin(4)<Speaker>Калин</Speaker>||<黑点1>:Нам не остается ничего другого, как довериться этому человеку. +Они правы, Командир, многие из наших Т-Кукол ждут спасения! +Мы должны обеспечить им свободный проход и помочь им сбежать!
+
