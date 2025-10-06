@@ -1,92 +1,93 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<BIN>83</BIN><Night><黑屏2><BGM>BGM_Hello</BGM>:... +...In a certain Griffin observation post.
-MP41(0)<Speaker>MP41</Speaker>||:Listen to me, it was real!
-MP41(0);hk23(0)<Speaker>Gr MG23</Speaker>||:Okay, okay. +It's not that I don't believe you, but the Commander has already given the order to withdraw from this base.
-MP41(0)<Speaker>MP41</Speaker>;hk23(0)||:Don't give up! +S.F. only dispatched one ringleader this time, I'm sure we can beat her as a group!
-MP41(0);hk23(0)<Speaker>Gr MG23</Speaker>||:That kinda sounds like something a small fry would say before having their butt handed to them...
-MP41(0)<Speaker>MP41</Speaker>;hk23(0)||:Who cares?! +The point is – this is a perfect opportunity that only comes once in a life time! +If we kill that S.F., we'll become famous in Griffin!
-MP41(0);hk23(0)<Speaker>Gr MG23</Speaker>||:Sure, let's go then! +...You think I'd say that? +I'm not gonna fall for that again. You fooled me last time and even recorded how I excited I was to show the Commander. +I'm withdrawing – right now – so please take your nonsense to some other Doll. 
-MP41(0)<Speaker>MP41</Speaker>||<黑点1>:D-don't go...
-MP41(0)<Speaker>MP41</Speaker>||<BIN>83</BIN><Night><黑点2>:...And that's the story. +XM8, let's go kick some Sangvis butts and decimate their assault!
-MP41(0);XM8(0)<Speaker>XM8</Speaker>||:The Commander must have a reason for asking us to withdraw. +As Tactical Dolls, it is our duty to follow orders.
-MP41(0)<Speaker>MP41</Speaker>;XM8(0)||:But there are still a few days until the final deadline of withdrawal, if we ride the momentum and kill the Sangvis ringleader... +We might not even have have to withdraw at all, and we'll surely become talk of the town in Griffin. +"Legendary Dolls Change Griffin's Fate in Daring Sangvis Raid" – there might even be a headline like that!
-MP41(0);XM8(0)<Speaker>XM8</Speaker>||:Say, the Commander ordered us to withdraw out of consideration for your recklessness. We're nothing more than regular Dolls... +So stop dreaming about crazy stuff.
-MP41(0)<Speaker>MP41</Speaker>||:Nein, I'm not...
-XM8(0)<Speaker>XM8</Speaker>||:I also remember you once snitched on me for slacking off. +I might have taken the chance if it was someone trustworthy, but you...no thanks.
-MP41(0)<Speaker>MP41</Speaker>;XM8(0)||:Uh...you could've just done your job properly instead of slacking...
-MP41(0)<Speaker>MP41</Speaker>||<黑点1>:Huh, she left...
+()<Speaker></Speaker>||<BIN>83</BIN><Night><黑屏2><BGM>BGM_Hello</BGM>:... +...На определенном наблюдательном посту Грифона.
+MP41(0)<Speaker>MP41</Speaker>||:Послушайте меня, это было на самом деле!
+MP41(0);hk23(0)<Speaker>Gr MG23</Speaker>||:Ладно, ладно. +Я не то чтобы не верю тебе, но Командир уже отдал приказ покинуть эту базу.
+MP41(0)<Speaker>MP41</Speaker>;hk23(0)||:Не сдавайся! +С.Ф. на этот раз отправила только одну главаря, я уверена, что мы сможем победить её всей группой!
+MP41(0);hk23(0)<Speaker>Gr MG23</Speaker>||:Это похоже на то, что может сказать мелкая сполячка, прежде чем ей надерут задницу...
+MP41(0)<Speaker>MP41</Speaker>;hk23(0)||:Какая разница?! +Дело в том, что это уникальная возможность, которая выпадает раз в жизни! +Если мы убьем эту С.Ф., мы станем знаменитыми в Грифоне!
+MP41(0);hk23(0)<Speaker>Gr MG23</Speaker>||:Конечно, тогда пойдём! +...Ты думаешь, я это скажу? +Я больше не попадусь на эту удочку. В прошлый раз ты меня обманула и даже записала, как я была взволнована, чтобы показать это Командиру. +Я ухожу — прямо сейчас — так что, пожалуйста, передай свои глупости какой-нибудь другой Кукле.
+MP41(0)<Speaker>MP41</Speaker>||<黑点1>:Не уходи...
+MP41(0)<Speaker>MP41</Speaker>||<BIN>83</BIN><Night><黑点2>:...Вот и вся история. +XM8, давай пойдем надерём задницы Сангвисам и разгромим их наступление!
+MP41(0);XM8(0)<Speaker>XM8</Speaker>||:Командир должен иметь причину, чтобы просить нас отступить. +Как Тактические Куклы, наш долг — выполнять приказы.
+MP41(0)<Speaker>MP41</Speaker>;XM8(0)||:Но до окончательного срока вывода войск ещё есть несколько дней, если мы воспользуемся моментом и убьём главаря Сангвиса... +Возможно, нам даже не придётся выводить войска, и мы наверняка станем предметом разговоров в Грифоне. +«Легендарные Куклы изменяют судьбу Грифона в смелом набеге на Сангвис» — может быть, даже появится такой заголовок!
+MP41(0);XM8(0)<Speaker>XM8</Speaker>||:Слушай, Командир приказал нам отступить из-за твоей безрассудной выходки. Мы всего лишь обычные Куклы... +Так что перестань мечтать о безумных вещах.
+MP41(0)<Speaker>MP41</Speaker>||:Найн, я не...
+XM8(0)<Speaker>XM8</Speaker>||:Я также помню, что ты однажды настучала на меня за прогулы. +Я бы, может, и рискнула, если бы это был кто-то заслуживающий доверия, но ты... нет, спасибо.
+MP41(0)<Speaker>MP41</Speaker>;XM8(0)||:Э-э... ты могла бы просто делать свою работу как следует, а не бездельничать...
+MP41(0)<Speaker>MP41</Speaker>||<黑点1>:Ха, она ушла...
 WA2000(0)<Speaker></Speaker>||<BIN>73</BIN><黑点2>:...
-MP41(0)<Speaker>MP41</Speaker>||:...Wait, who's that?! +That's Fräulein WA2000! She's really strong!
-MP41(0)<Speaker>MP41</Speaker>||:But...I guess I'll just pretend I didn't see her.
-WA2000(0)<Speaker>WA2000</Speaker>;MP41(0)||:MP41, there you are!
-WA2000(0);MP41(0)<Speaker>MP41</Speaker><Shake>||:Eeeep!
-WA2000(0)<Speaker>WA2000</Speaker>;MP41(0)||:You're the one who's been telling everyone that the Commander treats me to dessert in private!
-WA2000(0);MP41(0)<Speaker>MP41</Speaker>||:B-but I did see you eating ice cream outside your regular rations...
-WA2000(0)<Speaker>WA2000</Speaker>;MP41(0)||:That was a reward from the Commander for performing well! +I worked hard for it but you made it sound like the Commander and I have some kind of abnormal relationship!
-WA2000(0)<Speaker>WA2000</Speaker>||:<size=35>I suppose that isn't necessarily a bad thing...</size> +But you can't just go around spreading baseless rumors!
-MP41(0)<Speaker>MP41</Speaker>||:...I-I'm sorry! +Gotta dash!
-WA2000(0)<Speaker>WA2000</Speaker>||<黑点1>:Stop right there! Don't you dare run away!
+MP41(0)<Speaker>MP41</Speaker>||:...Подождите, а кто это?! +Это Фройляйн WA2000! Она очень сильная!
+MP41(0)<Speaker>MP41</Speaker>||:Но... я думаю, я просто сделаю вид, что не заметила её.
+WA2000(0)<Speaker>WA2000</Speaker>;MP41(0)||:MP41, вот ты где!
+WA2000(0);MP41(0)<Speaker>MP41</Speaker><Shake>||:Ииипп!
+WA2000(0)<Speaker>WA2000</Speaker>;MP41(0)||:Это ты всем рассказываешь, что Командир балует меня десертами наедине!
+WA2000(0);MP41(0)<Speaker>MP41</Speaker>||:Но я же видела, как ты ела мороженое, которое не входило в твой обычный рацион...
+WA2000(0)<Speaker>WA2000</Speaker>;MP41(0)||:Это была награда от Командира за хорошую работу! +Я много работала для этого, но ты сказала так, будто у нас с Командиром какие-то ненормальные отношения!
+WA2000(0)<Speaker>WA2000</Speaker>||:<size=35>Думаю, это не так уж и плохо....</size> +Но нельзя просто так распространять беспочвенные слухи!
+MP41(0)<Speaker>MP41</Speaker>||:...Я-я извиняюсь! + Мне нужно бежать!
+WA2000(0)<Speaker>WA2000</Speaker>||<黑点1>:Стоять! Не смей убегать!
 MP41(0)<Speaker>MP41</Speaker>||<BIN>97</BIN><Night><黑点2>:...
-MP41(0)<Speaker>MP41</Speaker>||:F-finally gave her the slip... +Who knows what would happen if she had caught me. +I knew it – it's better to ask Dolls I have dirt on. Let me look through my dossiers.
-g43(0)<Speaker>G43</Speaker>||:Huh? You're still here, MP41?
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:...Oh?! +You're right on time. Come and have a look at these documents.
-MP41(0);g43(0)<Speaker>G43</Speaker>||:W-what is it...?
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Hehehe... +Last week, you smashed the Commander's memorabilia then secretly glued it back together as if nothing had happened, didn't you?
-MP41(0);g43(0)<Speaker>G43</Speaker>||:Hahaha... +What are you talking about? I don't understand.
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Don't play dumb! I saw everything!
-MP41(0);g43(0)<Speaker>G43</Speaker>||:Huh...?! R-really?
-MP41(0)<Speaker>MP41</Speaker>||:These eyes of mine have recorded your crime. +Now, should I start counting off your offenses?
-MP41(0);g43(0)<Speaker>G43</Speaker>||:Whoa, whoa, whoa... I beg you, please don't tell the Commander... +Otherwise, my spotless reputation would...
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:<color=#A9A9A9>Go me, someone finally took the bait!</color> +Mm-hmm! +I can keep quiet about this, but I have a request.
-MP41(0);g43(0)<Speaker>G43</Speaker>||:What...do you want?
-MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:Actually, I've got this plan...
-()||<黑屏2>:Once again...MP41 repeats her plan to strike back against Sangvis Ferri.
-g43(0)<Speaker>G43</Speaker><Shake>||:That...that's not going to work, is it?
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Don't worry, I've made very thorough preparations! +Surely you'd like to keep your reputation "spotless" in the Commander's eyes, right?
-MP41(0);g43(0)<Speaker>G43</Speaker>||:Ugh... This doesn't feel any different than committing suicide... +...Fine, you promise you won't tell the Commander if I do this with you?
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Of course!
-g43(0)<Speaker>G43</Speaker>||:Then give me a minute. +Let me back up my neural cloud first...
-MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:Sure, hurry back.
-()||<黑屏2>:Once G43 is safely in the distance, MP41 leans against the wall.
-MP41(0)<Speaker>MP41</Speaker>||:Finally found a willing accomplice, but G43 is kinda weak. +Are there any other stronger Dolls? +Sigh... If only everyone is willing to team up with me... +I have this perfect plan and I've even been secretly nabbing explosives from logistics for it.
-()||:MP41 sighs lightly.
-MP41(0)<Speaker>MP41</Speaker>||:If I don't have any results to show, I'll be stuck running logistics for the rest of my life. I must—
-MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Empty</BGM>:Huh, that Doll...?
-MP41(0)<Speaker>MP41</Speaker>||<BGM>m_avg_casual</BGM>:Um, excuse me!
-98k(0)<Speaker>???</Speaker>||:Hmm? How may I help you?
-MP41(0)<Speaker>MP41</Speaker>||:You're Fräulein Kar98k, aren't you?
-98k(0)<Speaker>Kar98k</Speaker>||:I am.
-()||:MP41 takes out a stack of dossiers out of her bag in excitement.
-MP41(0)<Speaker>MP41</Speaker>||:Let me see what I've gathered about you... +Wow, you really are an elite! +Can't believe I ran into an elite who can solo all kinds of missions on this scruffy base!
-MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:Is that so...? You flatter me.
-MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Hmm, I suppose I am – too much, perhaps.
-MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:...Sorry, but what did you mean by that?
-MP41(0)<Speaker>MP41</Speaker>;98k(0)||:I mean, repelling a high-spec Sangvis unit all by yourself, pinning down multiple Sangvis echelons simultaneously... +You were obviously exaggerating – no T-Doll can do such things on her own.
+MP41(0)<Speaker>MP41</Speaker>||:Наконец-то ускользнула от неё... +Кто знает, что бы было, если бы она меня поймала. +Я так и знала – лучше спрашивать у Кукол, на которых у меня есть компромат. Дай-ка я посмотрю свои досье.
+g43(0)<Speaker>G43</Speaker>||:А? Ты все еще здесь, MP41?
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:...О?! +Ты как раз вовремя. Подойди и посмотри на эти документы.
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Ч-что это...?
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Хе-хе-хе... +На прошлой неделе ты разбила памятные вещи Командира, а потом тайком склеила их, как будто ничего не произошло, да?
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Ха-ха-ха... +О чём ты говоришь? Я не понимаю.
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Не прикидывайся дурочкой! Я всё видела!
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Э...?! П-правда?
+MP41(0)<Speaker>MP41</Speaker>||:Вот эти глаза запечатлели твоё преступление. +Теперь мне начать перечислять все твои проступки?
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Эй, эй, эй... Прошу тебя, не говори Командиру... +Иначе моя безупречная репутация...
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:<color=#A9A9A9>Ура, наконец-то кто-то клюнул на удочку!</color> +Мм-хмм! +Я могу промолчать об этом, но у меня есть просьба.
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Что... ты хочешь?
+MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:На самом деле, у меня есть план...
+()||<黑屏2>:Еще раз... MP41 повторяет свой план отомстить Сангвис Ферри.
+g43(0)<Speaker>G43</Speaker><Shake>||:Это... же не сработает, верно?
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Не переживай, я всё тщательно подготовила! +Ты же хочешь сохранить свою репутацию «безупречной» в глазах Командира, верно?
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Уф... Это ничем не отличается от самоубийства... +...Ладно, обещаешь, что не скажешь Командиру, если я сделаю это вместе с тобой?
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Конечно!
+g43(0)<Speaker>G43</Speaker>||:Тогда дай мне минутку. +Сначала нужно сделать резервную копию своего нейронного облака...
+MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:Хорошо, возвращайся скорее.
+()||<黑屏2>:Как только G43 оказывается на достаточном расстоянии, MP41 прислоняется к стене.
+MP41(0)<Speaker>MP41</Speaker>||:Наконец-то нашлась желающая соучастница, но G43 довольно слаба. +Есть ли другие, более сильные куклы? +Вздох... Если бы только все согласились объединиться со мной... +У меня есть идеальный план, и я даже тайком похищала взрывчатку из склада для его реализации.
+()||:MP41 облегченно вздыхает.
+MP41(0)<Speaker>MP41</Speaker>||:Если я не покажу никаких результатов, то всю оставшуюся жизнь буду заниматься логистикой. Я должна—
+MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Empty</BGM>:Ха, эта Кукла...?
+MP41(0)<Speaker>MP41</Speaker>||<BGM>m_avg_casual</BGM>:Простите!
+98k(0)<Speaker>???</Speaker>||:А? Чем я могу помочь?
+MP41(0)<Speaker>MP41</Speaker>||:Вы же Фройляйн Kar98k, верно?
+98k(0)<Speaker>Kar98k</Speaker>||:Да.
+()||:MP41 взволнованно достает из сумки стопку досье.
+MP41(0)<Speaker>MP41</Speaker>||:Дай-ка посмотрю, что я успела о тебе узнать... +Вау, ты действительно элита! +Не могу поверить, что я встретила элиту, которая может в одиночку выполнять всевозможные миссии на этой захудалой базе!
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:Неужели...? Ты меня льстишь.
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Хм, наверное, да – может быть, даже слишком.
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:...Не поняла, что ты имеешь в виду?
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Я имею в виду, что ты в одиночку отразила высокотехнологичную единицу Сангвиса, одновременно сдерживая несколько эшелонов Сангвиса... +Ты явно преувеличивала — ни одна Т-Кукла не способна на такое в одиночку.
 MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:...
-MP41(0)<Speaker>MP41</Speaker>;98k(0)||:I totally understand – you must've completed those missions with the Commander's help. +Then you claimed you did everything single-handedly to make it sound really impressive!
-MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:...You're an interesting kid. +I'm currently occupied so if there's nothing else, please excuse me.
-MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Uh...wait! +<color=#A9A9A9>Oh boy, I made the same mistake of exposing people to their face.</color> +I'm...I'm sorry! It was all just my personal conjecture, of course... Anyone would be doubtful if they haven't seen it happen, right? Haha...
-MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:It's alright, I don't really care what others think of me.
-MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Heheh, everyone says that, but who knows? +Actually, I have this secret mission. If you come with me, I can testify to your achievements in battle!
-MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:I believe the Commander has already ordered all Dolls to withdraw from this base. +Aren't you going to prepare for departure?
-MP41(0)<Speaker>MP41</Speaker>;98k(0)||:The secret mission has everything to do with the order to withdraw. +Actually, I have done some investigation and I know how Sangvis Ferri is planning to attack!
-MP41(0)<Speaker>MP41</Speaker>||:I won't just tell anyone about this. +But since you're an elite T-Doll, I'll reluctantly let you in on my plan!
-()||:MP41 shoves the report she's holding into 98k's hands. Not knowing what else to do, 98k flips through it briefly.
-98k(0)<Speaker>Kar98k</Speaker>||:... +You really are interesting... You managed to predict Sangvis Ferri's plan of attack... +Just from the observations you made while you were on logistics missions?
-MP41(0)<Speaker>MP41</Speaker>;98k(0)||:That's right! I'm 100% certain Sangvis Ferri only deployed one ringleader for this assault! +On top of that, I've located this ringleader...and I've swiped some explosives in secret. +We just have to set them along the ringleader's route and detonate them! And we won't even have to withdraw!
-MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:Then do you know who this Sangvis ringleader is?
-MP41(0)<Speaker>MP41</Speaker>;98k(0)||:She's called Gager, I think? I saw her from a distance once when I was running logistics. +She didn't seem too formidable for a ringleader, in any case.
-MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:...Gager is a high-ranking command-type Sangvis Doll. Your observation skills aren't too bad. +But it'll take more than that to stand a chance against a Sangvis ringleader. +Time's up, I'll see you around.
-MP41(0)<Speaker>MP41</Speaker>||:Huh? What's the rush? +Hey... What about my plan...?
-()||:MP41 watches 98k's receding figure.
-MP41(0)<Speaker>MP41</Speaker>||:...Hold on, she just said that the Commander had ordered all Dolls to withdraw, yet she's moving in S.F.'s direction. +Maybe...she's actually on the mission to destroy the ringleader...!
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:MP41, I'm back. +Hmm? Isn't that Fräulein Kar?
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:As if I'd let you take all the credit!
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:What are you talking about?
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:...There you are, G43. +That elite is trying to steal all our credit! +We've got to catch up right away!
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:Huh? In that direction? +Aren't there Sangvis scouts nearby?
-g43(0);MP41(0)<Speaker></Speaker>||:MP41 shakes her head.
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:How are we supposed to make a name for ourselves if this is enough to scare us?! If we run into any S.F., we'll just have to wipe them out!
-MP41(0)<Speaker>MP41</Speaker>||:MP41, heading out!
-g43(0)<Speaker>G43</Speaker>||<黑屏1>:Huh?...W-wait for me!
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Я прекрасно понимаю — ты, наверное, выполнила эти миссии с помощью Командира. +А потом ты заявила, что сделала всё в одиночку, чтобы это звучало по-настоящему впечатляюще!
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:...Ты занятная малышка. +Я сейчас занята, так что, если больше ничего не нужно, извини, я пойду.
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Э-э... подожди! +<color=#A9A9A9>Ой, я совершила ту же ошибку, выставляя человека перед всеми на посмешище.</color> +Я... я извиняюсь! Конечно, это были всего лишь мои личные догадки... Любой бы усомнился, если бы не видел этого собственными глазами, верно? Ха-ха...
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:Ничего страшного, мне неважно, что обо мне думают другие.
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Хе-хе, все так говорят, но кто знает? +На самом деле у меня есть секретное задание. Если ты пойдешь со мной, я смогу подтвердить твои боевые достижения!
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:Я полагаю, что Командир уже отдал приказ всем Куклам покинуть эту базу. +Ты не собираешься готовиться к отправлению?
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Секретная миссия напрямую связана с приказом об отступлении. +На самом деле, я провела небольшое расследование и знаю, как Сангвис Ферри планирует атаковать!
+MP41(0)<Speaker>MP41</Speaker>||:Я не рассказывала об этом кому попало. Но поскольку ты элитная Т-Кукла, я с неохотой посвящу тебя в свой план!
+()||:MP41 пихает отчёт, который держит в руках, в ладони 98k. Не зная, что ещё делать, 98k быстро пролистывает его.
+98k(0)<Speaker>Kar98k</Speaker>||:... +А ты действительно интересная... Тебе удалось предсказать план атаки Сангвис Ферри... +Просто на основе наблюдений, которые ты делала во время логистических миссий?
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Точно! Я на 100% уверена, что Сангвис Ферри задействовал только одного главаря для этого нападения! +К тому же, я нашла этого главаря... и тайно украла у него взрывчатку. +Нам осталось только разместить взрывчатку на пути главаря и взорвать ее! И нам даже не придется отступать!
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:Тогда ты знаешь, что это за главарь Сангвис?
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:Ее зовут Гейгер, кажется? Я видела её однажды издали, когда занималась логистикой. +В любом случае, она не выглядела слишком грозной для главаря.
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:...Гейгер — высокопоставленный командир кукол Сангвиса. У тебя неплохие навыки наблюдения. +Но этого недостаточно, чтобы противостоять главарю Сангвис. +Время истекло, до встречи.
+MP41(0)<Speaker>MP41</Speaker>||:А? Что за спешка? +Эй... А как же мой план...?
+()||:MP41 наблюдает за уменьшающейся фигурой 98k.
+MP41(0)<Speaker>MP41</Speaker>||:...Подождите, она только что сказала, что Командир приказал всем куклам отступить, но она движется в направлении С.Ф. +Может быть... она на самом деле выполняет миссию по уничтожению главаря...!
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:MP41, я вернулась. +Хм? Это же Фройляйн Kar98k?
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:Как будто я позволю тебе забрать всю славу!
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:О чем ты говоришь?
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:...Вот ты где, G43. +Эта элитка пытается украсть всю нашу славу! +Нам нужно немедленно её догнать!
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Что? В том направлении? +Разве поблизости нет разведчиков Сангвис?
+g43(0);MP41(0)<Speaker></Speaker>||:MP41 качает головой.
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:Как мы можем прославиться, если это нас настолько пугает?! Если мы столкнемся с какими-либо С.Ф., нам просто придется их уничтожить!
+MP41(0)<Speaker>MP41</Speaker>||:MP41, отправляемся!
+g43(0)<Speaker>G43</Speaker>||<黑屏1>:Э? По-по-подожди меня!
 ()||<黑点2><BIN>10</BIN>:
+
