@@ -1,58 +1,59 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>1</BIN><Night><黑屏2><BGM>BGM_Sneak</BGM>:...Combat over.
-g43(0)<Speaker>G43</Speaker>||:We ran into S.F. again... +I...I'm spent...
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:You did pretty well for a bodyguard.
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:Bodyguard? More like a nanny...
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:Ah!
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:More enemies?! Where?
-MP41(0)<Speaker>MP41</Speaker>||:There are Sangvis parts on the ground!
-g43(0)<Speaker>G43</Speaker>||:... +Seeing how many S.F. I've wracked, isn't that only natural? 
-MP41(0)<Speaker>MP41</Speaker>||:Nein, look carefully...
-()||:MP41 picks up one of the parts from the ground and shows it to G43.
-MP41(0)<Speaker>MP41</Speaker>||:This is a damaged kinetic component. It bears no traces of having been shot and was just replaced because of natural wear-and-tear. +Which means...Sangvis troops have spent some time here before. +If I'm right, they must have been traveling in this direction!
-g43(0)<Speaker>G43</Speaker>||:We have to keep going...? +Don't you think we've already strayed too far from our original position...?
-MP41(0)<Speaker>MP41</Speaker>||<震屏>:Huh?! +Oh...you're right... +I didn't notice we've gone so far... I hope Fräulein Kar won't be mad at me...
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:That's right, your Fräulein isn't going to be pleased. +So let's go back?
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:But it's her fault for picking a spot with no S.F. in sight! Look at me, I did a much better job. +...Hold on, isn't that the area where my logistics missions often took me? +So I was right in predicting that S.F. would launch their attack here!
-MP41(0)<Speaker>MP41</Speaker>||:...Perhaps, I'm already better than elite Dolls – no, I might even be better than the Commander?!
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:How badly is your neural cloud malfunctioning for you to reach that kind of conclusion?!
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:Yeah, I accept your compliment. +I've done countless logistics missions here... +I know every blade of grass and every rock like the back of my hand so setting up an ambush here will be a piece of cake! +Now how should we do this...? I suppose we should just follow my initial plan and plant the explosives...
-()||<SE2>Gunfight</SE2>:MP41 weighs her options with arms crossed. Suddenly, she hears a bout of gunshots.
-MP41(0)<Speaker>MP41</Speaker>||:Hmm? I think I heard shooting.
-()||:MP41 and G43 run in the direction of the sound.
-MP41(0)<Speaker>MP41</Speaker>||:That's— +A Griffin squad is exchanging fire with S.F. units?! +They're on the run! Did the S.F. jump them?
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:Look, that seems to be a Sangvis ringleader after them!
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:Oh! +Isn't that Gager?! I finally found her! +I...I've got to tell Fräulein Kar right away...
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:But isn't she still near the lookout? +We're a good distance away! Even if she rushes over here now, she won't make it in time!
-MP41(0)<Speaker>MP41</Speaker>||<黑点1>:Th-then what do we do...?!
-()||<BIN>2</BIN><Night><黑点2>:...Meanwhile, 98k is at her sniping position.
-98k(0)<Speaker>Kar98k</Speaker>||:So they've started exchanging fire.
-()||:98k watches the sparks of gunfire from afar. Suddenly, she receives a comms request.
-MP41(0)<Speaker>MP41</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Fräulein Kar, do you copy?</color>
-98k(0)<Speaker>Kar98k</Speaker>;MP41(0)<通讯框>||:MP41? What is it? This really isn't the best time.
-98k(0);MP41(0)<Speaker>MP41</Speaker><通讯框>||:<color=#00CCFF>Are you still waiting for the Sangvis ringleader to show herself?</color>
-98k(0)<Speaker>Kar98k</Speaker>;MP41(0)<通讯框>||:Huh? +Uh...that's right.
-98k(0);MP41(0)<Speaker>MP41</Speaker><通讯框>||:<color=#00CCFF>Then it can't be helped. I'll just have to do this myself.</color>
-98k(0)<Speaker>Kar98k</Speaker>;MP41(0)<通讯框>||:What do you mean?
-98k(0);MP41(0)<Speaker>MP41</Speaker><通讯框>||:<color=#00CCFF>Um, I've spotted the ringleader—</color>
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Kar, you hear me?! I've drawn Gager this way!</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:Copy that.
-98k(0)<Speaker>Kar98k</Speaker>||:Sorry, MP41. I can't talk right now.
-MP41(0)<Speaker>MP41</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hold—</color>
-98k(0)<Speaker>Kar98k</Speaker>||:StG, what's your status?
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>...She almost shot me in the head.</color> +<color=#00CCFF>It's going according to plan. I'm gonna clean up some of their cannon fodder while pulling Gager towards you.</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:She's still too far away. If I can't reduce the distance to within 1km... +Even an AP round might not be able to penetrate her armor.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>This ringleader keeps trying to close in on our units and she's interfering with my control over my Dummies.</color> +<color=#00CCFF>I've already lost contact with three of them.</color> +<color=#00CCFF>I'm sorry but I don't think I can get her to a position where you can fire at her from the side.</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:...That's fine, then let's go with Plan B and just get her as close to me as you can. +There is still a 50% chance for a frontal shot to penetrate her armor from within 500m.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>I'll try to drag her into a 200m range so you can get that number to 100%.</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Can you do it?
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Any other Sangvis ringleader wouldn't have taken the bait so easily.</color> +<color=#00CCFF>But this one is strange – she seems oddly compelled to get close to me even though I'm already within her range.</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Be careful. I've read about previous records of Griffin Dolls getting captured by Sangvis Ferri... +Her M.O. seems to match what's mentioned in the record.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Understood. If I end up getting caught, I'll destroy my neural cloud immediately.</color> +<color=#00CCFF>She's getting closer. How far away are we?</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:You'll be within 1km range in another 100m.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Then I'd better try harder. We're almost—</color> +<color=#00CCFF>Hold on, Gager suddenly stopped!</color>
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>98k, can you see what's happening?</color>
-()<Speaker>Kar98k</Speaker>||<BIN>9</BIN><黑屏2>:She...captured a Griffin Doll...
-()<Speaker>StG44</Speaker>||:<color=#00CCFF>A Griffin Doll? You mean my Dummy?</color>
-()<Speaker>Kar98k</Speaker>||:Nein, she has her hands on...
+()<Speaker></Speaker>||<BIN>1</BIN><Night><黑屏2><BGM>BGM_Sneak</BGM>:...Сражение завершено.
+g43(0)<Speaker>G43</Speaker>||:Мы снова столкнулись с С.Ф. +Я... я выдохлась...
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:Для телохранителя ты неплохо справляешься.
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Телохранитель? Скорее няня...
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:Ах!
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Ещё враги?! Где?
+MP41(0)<Speaker>MP41</Speaker>||:На земле лежат детали Сангвиса!
+g43(0)<Speaker>G43</Speaker>||:... +Учитывая, сколько С.Ф. я уничтожила, разве это не естественно?
+MP41(0)<Speaker>MP41</Speaker>||:Нет, смотри внимательно...
+()||:MP41 поднимает одну из частей с земли и показывает её G43.
+MP41(0)<Speaker>MP41</Speaker>||:Это поврежденный кинетический компонент. На нём нет следов попадания пуль, он был заменен из-за естественного износа. +Это означает, что войска Сангвиса некоторое время находились здесь. +Если я права, то они, должно быть, двигались в этом направлении!
+g43(0)<Speaker>G43</Speaker>||:Мы должны продолжать...? +Ты не думаешь, что мы уже слишком далеко отклонились от нашей первоначальной позиции...?
+MP41(0)<Speaker>MP41</Speaker>||<震屏>:Э?! +О... ты права. +Я не заметила, что мы так далеко ушли... Надеюсь, фройляйн Kar не будет на меня злиться...
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Правильно, твоя фройляйн не будет довольна. +Так что давай вернемся?
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:Но это она виновата, что выбрала место, где не было видно С.Ф.! Посмотри на меня, я справилась гораздо лучше. +...Подожди, разве это не тот район, куда меня часто отправляли на логистические миссии? +Так что я была права, предсказав, что С.Ф. начнут атаку именно здесь!
+MP41(0)<Speaker>MP41</Speaker>||:...Возможно, я уже лучше элитных Кукол – нет, я даже могу быть лучше Командира?!
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Насколько сильно у тебя не работает мозг, раз ты пришел к такому выводу?!
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:Да, я согласна с твоим комплиментом. +Я выполняла здесь бесчисленное количество логистических миссий... +Я знаю каждую травинку и каждый камень как свои пять пальцев, так что устроить здесь засаду будет проще простого! +Так как же нам поступить...? Думаю, нам следует просто следовать моему первоначальному плану и заложить взрывчатку...
+()||<SE2>Gunfight</SE2>:MP41, скрестив руки, взвешивает свои варианты. Внезапно она слышит серию выстрелов.
+MP41(0)<Speaker>MP41</Speaker>||:Хм? Мне кажется, я услышала выстрелы.
+()||:MP41 и G43 бегут в направлении источника звука.
+MP41(0)<Speaker>MP41</Speaker>||:Это... +Отряд Грифона ведет перестрелку с подразделениями С.Ф.?! +Они в бегах! С.Ф. на них напали?
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Смотри, похоже, за ними гонится главарь Сангвиса!
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:О! +Это же Гейгер?! Я наконец-то нашла её! +Я... Я должна немедленно рассказать об этом фройляйн Kar...
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Но разве она не находится всё ещё рядом с наблюдательным пунктом? +Мы находимся на приличном расстоянии! Даже если она сейчас побежит сюда, она не успеет!
+MP41(0)<Speaker>MP41</Speaker>||<黑点1>:И что же нам тогда делать...?!
+()||<BIN>2</BIN><Night><黑点2>:...Тем временем 98k находится на своей снайперской позиции.
+98k(0)<Speaker>Kar98k</Speaker>||:Итак, они начали перестрелку.
+()||:98k наблюдает за вспышками выстрелов издалека. Внезапно она получает запрос на связь.
+MP41(0)<Speaker>MP41</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Фройляйн Kar, как слышно? </color>
+98k(0)<Speaker>Kar98k</Speaker>;MP41(0)<通讯框>||:MP41? Что такое? Сейчас действительно не самое подходящее время.
+98k(0);MP41(0)<Speaker>MP41</Speaker><通讯框>||:<color=#00CCFF>Ты всё ещё ждёшь, когда главарь Сангвис покажется?</color>
+98k(0)<Speaker>Kar98k</Speaker>;MP41(0)<通讯框>||:Э? +Э... да, верно.
+98k(0);MP41(0)<Speaker>MP41</Speaker><通讯框>||:<color=#00CCFF>Тогда ничего не поделаешь. Придется сделать это самой.</color>
+98k(0)<Speaker>Kar98k</Speaker>;MP41(0)<通讯框>||:Что ты имеешь в виду?
+98k(0);MP41(0)<Speaker>MP41</Speaker><通讯框>||:<color=#00CCFF>Э-э, я заметила главаря...</color>
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Kar, ты меня слышишь?! Я специально привлекла Гейгера!</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:Принято.
+98k(0)<Speaker>Kar98k</Speaker>||:Прости, MP41. Я не могу сейчас говорить.
+MP41(0)<Speaker>MP41</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Подожди—</color>
+98k(0)<Speaker>Kar98k</Speaker>||:StG, каков твой статус?
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>...Она чуть не прострелила мне голову.</color> +<color=#00CCFF>Все идет по плану. Я зачищу часть их пушечного мяса, а сам перетяну Гейгера на себя.</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Она всё ещё слишком далеко. Если я не смогу сократить расстояние до 1 км... +Даже бронебойный патрон может не пробить её броню.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Эта главарь продолжает пытаться приблизиться к нашим подразделениям и мешает мне управлять моими Болванками.</color> +<color=#00CCFF>Я уже потеряла связь с тремя из них.</color> +<color=#00CCFF>Извини, но я не думаю, что смогу поставить её в позицию, из которой ты сможешь стрелять в неё сбоку.</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:...Хорошо, тогда приступим к плану Б и просто подпустим её как можно ближе ко мне. +Всё ещё есть 50% шанс, что прямой выстрел пробьёт её броню с расстояния до 500 м.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Я постараюсь затащить ее в радиус 200 метров, чтобы ты смогла довести этот показатель до 100%.</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Ты сможешь это сделать?
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Любой другой главарь Сангвис не клюнул бы на эту удочку так легко.</color> +<color=#00CCFF>Но эта странная – она как будто испытывает странное желание приблизиться ко мне, хотя я и так уже нахожусь в пределах её досягаемости.</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Будьте осторожней. Я читала о предыдущих случаях, когда Кукла Грифона попадала в плен к Сангвис Ферри... +Её поведение похоже на то, что описано в записях.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Понятно. Если меня поймают, я немедленно уничтожу своё нейронное облако.</color> +<color=#00CCFF>Она приближается. Как далеко мы от неё?</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Через 100 метров ты окажешься в радиусе 1 км.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Тогда я должна постараться изо всех сил. Мы почти...</color> +<color=#00CCFF>Подожди, Гейгер внезапно остановилась!</color>
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>98k, ты видишь, что происходит?</color>
+()<Speaker>Kar98k</Speaker>||<BIN>9</BIN><黑屏2>:Она... захватила куклу Грифона...
+()<Speaker>StG44</Speaker>||:<color=#00CCFF>Кукла Грифона? Ты имеешь в виду мою Болванку?</color>
+()<Speaker>Kar98k</Speaker>||:Нет, в руках у неё...
 ()<Speaker>Kar98k</Speaker>||<黑屏1>:MP41.
+
