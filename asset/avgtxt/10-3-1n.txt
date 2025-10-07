@@ -18,52 +18,53 @@ MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:... +...Или н�
 ()<Speaker></Speaker>||<BIN>7</BIN><Night><黑屏2>:...На холме вдали.
 MP41(0)<Speaker>MP41</Speaker>||:Ты этого не ожидала, да, идиотка Сангвис! Это всего лишь одна из моих болванek. +Я закрепила на ней половину взрывчатки. Как только ты подойдешь ближе... +Хе-хе-хе...
 g43(0)<Speaker>G43</Speaker>;MP41(0)||:Ты уверена, что она на это купится...?
-MP41(0)<Speaker>MP41</Speaker>||<黑点1>:This is a plan that I've been perfecting for months, a dumb Sangvis won't be able to see through it!
-BOSS-7(0)<Speaker></Speaker>||<BIN>1</BIN><Night><黑点2>:Gager walks up to MP41's Dummy...
-BOSS-7(0)<Speaker></Speaker>;MP41(0)||<黑点1>:She grabs her by the neck and lifts her right off the ground.
-MP41(0)<Speaker>MP41</Speaker>||<BIN>7</BIN><Night><黑点2>:With that, I'll be Griffin's new star! +Detonate!
-()||<BGM>BGM_Empty</BGM>:... +...... +...No reaction in the distance.
-MP41(0)<Speaker>MP41</Speaker>||:Huh...?
+MP41(0)<Speaker>MP41</Speaker>||<黑点1>:Это план, который я разрабатывала в течение нескольких месяцев, и тупой Сангвис не сможет его распознать!
+BOSS-7(0)<Speaker></Speaker>||<BIN>1</BIN><Night><黑点2>:Гейгер подходит к Болванке MP41...
+BOSS-7(0)<Speaker></Speaker>;MP41(0)||<黑点1>:Она хватает её за шею и отрывает от земли.
+MP41(0)<Speaker>MP41</Speaker>||<BIN>7</BIN><Night><黑点2>:Теперь я буду новой звездой Грифона! +Взрыв!
+()||<BGM>BGM_Empty</BGM>:... +...... +...Вдали никакой реакции не было.
+MP41(0)<Speaker>MP41</Speaker>||:Э?...?
 g43(0)<Speaker>G43</Speaker>||:...
-g43(0);MP41(0)<Speaker>MP41</Speaker>||<黑点1>:What?! +Why didn't it go off?  +I've clearly pushed the button... Why isn't the Dummy obeying my command?
-BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>1</BIN><Night><黑点2><BGM>BGM_Danger</BGM>:A new Griffin Doll. Here I thought it was a friend of that piece of junk who's been trying to bait me...
-BOSS-7(0)<Speaker>Gager</Speaker>||<黑点1>:Turns out it's just another piece of trash.
-g43(0)<Speaker>G43</Speaker>||<BIN>7</BIN><Night><黑点2>:Could it be Sangvis interference?
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:Ja, that...that must be it! +Crap, I completely forgot about that! +W-what should I do now? I think I screwed this up.
-g43(0)<Speaker>G43</Speaker>;MP41(0)||<黑屏1>:I told you it's impossible for us to defeat a Sangvis ringleader! +Can we just go?
-()<Speaker></Speaker>||<BIN>2</BIN><Night><黑屏2>:...Meanwhile, 98k is at her sniping position.
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>MP41? What is she doing here?</color>
+g43(0);MP41(0)<Speaker>MP41</Speaker>||<黑点1>:Что?! +Почему не сработало?  +Я же нажала на кнопку... Почему Болванка не выполняет мою команду?
+BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>1</BIN><Night><黑点2><BGM>BGM_Danger</BGM>:Новая кукла Грифона. А я-то думала, что это подруга того куска мусора, которая пытается меня спровоцировать...
+BOSS-7(0)<Speaker>Gager</Speaker>||<黑点1>:Оказалось, что это просто ещё одна мусорная труха.
+g43(0)<Speaker>G43</Speaker>||<BIN>7</BIN><Night><黑点2>:Может ли это быть вмешательство Сангвиса?
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:Да, это... наверное, так и есть! +Чёрт, я совсем об этом забыла! +Ч-что мне теперь делать? По-моему, я всё испортила.
+g43(0)<Speaker>G43</Speaker>;MP41(0)||<黑屏1>:Я же говорила, что нам не по силам победить главаря Сангвиса! +Может, просто уйдем?
+()<Speaker></Speaker>||<BIN>2</BIN><Night><黑屏2>:...Тем временем 98k находится на своей снайперской позиции.
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>MP41? Что она здесь делает?</color>
 98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:...
-98k(0)<Speaker></Speaker>;STG44Mod(0)<通讯框>||:98k holds her aim.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Kar, prepare to move. The target has stopped taking the bait. We're going to Plan C.</color>
-98k(0);98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Nein, we still have a chance.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>You're not planning to fire from that distance, are you?!</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:20%. +There's still a 20% chance that the shot can penetrate her armor.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Don't tell me...you're trying to save that Doll?</color> +<color=#00CCFF>It's kind of hard to tell from here, but isn't that just her Dummy?</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:If it's a Dummy, then her mainframe must be somewhere nearby. +If this shot does the job, then we can all go home safely. +But...if it doesn't kill her, Gager will do whatever she can to find me. +Get MP41 away from there when Gager comes for me.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>It isn't our job to rescue that Doll.</color> +<color=#00CCFF>We can repeat our previous steps and complete the mission.</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:If we abandon our companions without a thought, how are we different from Sangvis Ferri? +Besides, it is my fault that MP41 is running around where she shouldn't be... Please remove her from danger. I'm using our last resort.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Are you crazy?</color> +<color=#00CCFF>You want to tackle Gager on your own?</color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:You know I can do it. Worst case, it's easier to retreat alone.
-98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>...Do what you want. It's your call.</color> +<color=#00CCFF>I'm sure you know this already, but I still have to say it before I go.</color> +<color=#00CCFF>You should've told that mischief maker to scram in the first place. Not only have you put her in danger, you've also jeopardized our mission. </color>
-98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:I'll reflect on that when I return. Now move.
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Roger that.</color>
-()||:StG44 darts into the woods swiftly and disappears into the darkness.
-98k(0)<Speaker>Kar98k</Speaker>||<黑屏1>:Right, it's a long shot – literally. +I must hit the core in her torso or the other Sangvis units will remain active.
-()<Speaker>Kar98k</Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:Take aim...
+98k(0)<Speaker></Speaker>;STG44Mod(0)<通讯框>||:98k держит её на прицеле.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Kar, готовься к перемещению. Цель перестала реагировать на приманку. Переходим к плану C.</color>
+98k(0);98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Нет, у нас всё ещё есть шанс.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Ты же не собираешься стрелять с такого расстояния, правда?!</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:20%. +Ещё есть 20% шанс, что выстрел пробьёт её броню.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Не говори мне... ты пытаешься спасти эту Куклу?</color> +<color=#00CCFF>Сюда трудно сказать, но разве это не её Болванка?</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Если это Болванка, то её главный модуль должен быть где-то поблизости. +Если этот выстрел сработает, то мы все сможем благополучно вернуться домой. +Но... если он её не убьёт, Гейгер сделает всё, чтобы найти меня. +Забери MP41 оттуда, когда Гейгер придёт за мной.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Наша задача не спасать эту Куклу.</color> +<color=#00CCFF>Мы можем продолжить предыдущие действия и завершить миссию.</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Если мы без раздумий бросаем своих товарищей, чем мы отличаемся от Сангвис Ферри? +Кроме того, это моя вина, что MP41 бегает там, где ей не следует... Пожалуйста, уберите её из опасной зоны. Я использую наш последний шанс.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Ты с ума сошла?</color> +<color=#00CCFF>Ты хочешь справиться с Гейгер в одиночку?</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Ты знаешь, что я могу это сделать. В худшем случае, отступать в одиночку легче.
+98k(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>...Делай, что хочешь. Решать тебе.</color> +<color=#00CCFF>Я уверена, что ты уже знаешь об этом, но я все равно должна сказать это, прежде чем уйти.</color> +<color=#00CCFF>Ты должна была с самого начала сказать этой дебоширке, чтобы она убиралась. Ты не только подвергла её опасности, но и поставила под угрозу нашу миссию.</color>
+98k(0)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Я подумаю об этом, когда вернусь. А сейчас ступай.
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Принято.</color>
+()||:StG44 быстро бросается в лес и исчезает в темноте.
+98k(0)<Speaker>Kar98k</Speaker>||<黑屏1>:Да, это рискованно – в буквальном смысле. +Я должна попасть в центр её туловища, иначе другие единицы Сангвис останутся активными.
+()<Speaker>Kar98k</Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:Прицелься...
 98k(0)<Speaker>Kar98k</Speaker>||<SE1>Select</SE1>:...
-98k(0)<Speaker>Kar98k</Speaker>||<黑点1>:...NOW!
+98k(0)<Speaker>Kar98k</Speaker>||<黑点1>:...СЕЙЧАС!
 BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>1</BIN><Night><黑点2><SE1>AVG_rifle_finalshot_h</SE1><BGM>10256</BGM>:—!
-()||:The bullet zips through the air and is about to hit its mark in Gager's chest... +But Gager deflects it with her weapon at the last second.
-BOSS-7(0)<Speaker></Speaker>||:Gager runs her finger over the slightly dented feedway on her weapon and looks toward 98k's sniping position.
-BOSS-7(0)<Speaker>Gager</Speaker>||<黑点1>:Was that from more than a kilometer away...? +Her aim was true even when shooting from that distance. Finally, a Griffin Doll that's more like it. +Just you wait...I'm going to get you, then I'll make you tell me everything I need to know.
-()||<BIN>7</BIN><Night><黑点2>:Meanwhile, back to MP41.
-MP41(0)<Speaker>MP41</Speaker>||:Another gunshot... That sounded like 98k! +Is Fräulein Kar actually nearby?
-MP41(0)<Speaker>MP41</Speaker>||<SE1>AVG_tele_connect</SE1>:Fräulein Kar, can you hear me? I thought you were still near the lookout!
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You moron! All our plans are botched because of you!</color>
-MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)<通讯框>||:Huh? What's going on? Is that StG44? Where's Fräulein Kar?
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Shut up and just tell me where you are!</color>
-MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)<通讯框>||:I...I'm behind the rock halfway up the hill... +I just sent you my coordinates.
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>That's on the other side of the Sangvis forces! How am I supposed to get through them?</color>
+()||:Пуля летит по воздуху и вот-вот попадёт в грудь Гейгер... +Но Гейгер в последний момент отклоняет её своим оружием.
+BOSS-7(0)<Speaker></Speaker>||:Гейгер проводит пальцем по слегка помятому патроннику своего оружия и смотрит в сторону снайперской позиции 98k.
+BOSS-7(0)<Speaker>Gager</Speaker>||<黑点1>:Это было с расстояния более километра...? +Её прицел был точным даже при стрельбе с такого расстояния. Наконец-то, вот это кукла Грифона, которая больше похожа на настоящую. +Подожди... Я поймаю тебя, а потом заставлю рассказать мне всё, что мне нужно знать.
+()||<BIN>7</BIN><Night><黑点2>:Между тем, вернёмся к MP41.
+MP41(0)<Speaker>MP41</Speaker>||:Еще один выстрел... Похоже, это был 98k! +Фройляйн Kar действительно рядом?
+MP41(0)<Speaker>MP41</Speaker>||<SE1>AVG_tele_connect</SE1>:Фройляйн Kar, вы меня слышите? Я думала, вы всё ещё рядом с обзорной площадкой!
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ты дура! Из-за тебя все наши планы провалились!</color>
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)<通讯框>||:Э? Что происходит? Это StG44? Где Фройляйн Kar?
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Заткнись и просто скажи, где ты!</color>
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)<通讯框>||:Я... я за камнем на полпути к вершине холма... +Я только что отправил тебе свои координаты.
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Это же на другой стороне от сил Сангвиса! Как я проберусь через них?</color>
 ()||<黑点2><BIN>10</BIN>:
+
 
