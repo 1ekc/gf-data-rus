@@ -1,23 +1,23 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>1</BIN><Night><黑屏2><BGM>BGM_Sneak</BGM>:...A few minutes ago, on the other side of the battlefield.
-MP41(0)<Speaker>MP41</Speaker>||:Fräulein Kar definitely won't be able to make it... Then we have to do this ourselves.
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:How can we do this ourselves? +If we so much as LOOK at a Sangvis ringleader, we'll have to reinstall our neural cloud.
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:Hmm...so should we stick to the original plan? +But they're already exchanging fire, which means Gager won't run over my booby traps... +Besides, I didn't actually have the time to plant the explosives!
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:Then let's retreat for now? +Isn't it better to let the elite handle this?
-g43(0);MP41(0)<Speaker>MP41</Speaker>||:But some other Dolls are being attacked! +If we don't do something, they could be wiped out!
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:That might be true...but we'd also be wiped out if we charge in without a plan...
-g43(0);MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:C-calm down... Think of something... +Oh, right! We can do this!
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:Several minutes later...
-MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Room</BGM>:D-don't shoot! I surrender!
+()<Speaker></Speaker>||<BIN>1</BIN><Night><黑屏2><BGM>BGM_Sneak</BGM>:...Несколько минут назад, на другой стороне фронта.
+MP41(0)<Speaker>MP41</Speaker>||:Фройляйн Kar точно не сможет прийти... Тогда нам придется сделать это самим.
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Как мы это сделаем сами? +Если мы хотя бы ПОСМОТРИМ на главаря Сангвис, нам придется перезагружать наше нейронное облако.
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:Хм... так что, будем придерживаться первоначального плана? +Но они уже ведут огонь, а это значит, что Гейгер не заденет мои мины... +К тому же, у меня не было времени установить взрывчатку!
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Тогда лучше пока отступить? +Не стоит ли оставить это элите?
+g43(0);MP41(0)<Speaker>MP41</Speaker>||:Но некоторые Куклы подвергаются нападениям! +Если мы не предпримем никаких действий, они могут быть уничтожены!
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Это может быть правдой... но мы также будем уничтожены, если пойдем в атаку без плана...
+g43(0);MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:У-успокойся... Придумай что-нибудь... +Ах, да! Мы можем это сделать!
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:Несколько минут спустя...
+MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Room</BGM>:Не стреляйте! Я сдаюсь!
 BOSS-7(0)<Speaker>Gager</Speaker>||:...
-MP41(0)<Speaker>MP41</Speaker>||:Look, I can't run anymore. +I surrender, and I'm dropping my weapon.
-BOSS-7(0)<Speaker></Speaker>||:Gager approaches MP41 warily.
-MP41(0)<Speaker>MP41</Speaker>||:<color=#A9A9A9>She actually didn't fire. I seriously thought she was gonna shoot me down just like that.</color> +<color=#A9A9A9>Now I just need to wait for her to come close.</color>
-MP41(0)<Speaker>MP41</Speaker><Shake>||:Don't hurt me, I'm completely harmless...
-MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:... +...Or not!
-()<Speaker></Speaker>||<BIN>7</BIN><Night><黑屏2>:...On a hill in the distance.
-MP41(0)<Speaker>MP41</Speaker>||:Never saw that coming, did you, Sangvis idiot! That's just one of my Dummies. +I've rigged half of the explosives onto her. The moment you close in... +Hehehehe...
-g43(0)<Speaker>G43</Speaker>;MP41(0)||:Are you sure she'll fall for it...?
+MP41(0)<Speaker>MP41</Speaker>||:Слушай, я больше не могу бежать. Я сдаюсь и бросаю оружие.
+BOSS-7(0)<Speaker></Speaker>||:Гейгер осторожно подходит к MP41.
+MP41(0)<Speaker>MP41</Speaker>||:<color=#A9A9A9>На самом деле она не стреляла. Я серьёзно подумала, что она просто так меня застрелит.</color> +<color=#A9A9A9>Теперь мне остается только дождаться, когда она подойдет ближе.</color>
+MP41(0)<Speaker>MP41</Speaker><Shake>||:Не причиняйте мне боль, я абсолютно безобидна...
+MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:... +...Или нет!
+()<Speaker></Speaker>||<BIN>7</BIN><Night><黑屏2>:...На холме вдали.
+MP41(0)<Speaker>MP41</Speaker>||:Ты этого не ожидала, да, идиотка Сангвис! Это всего лишь одна из моих болванek. +Я закрепила на ней половину взрывчатки. Как только ты подойдешь ближе... +Хе-хе-хе...
+g43(0)<Speaker>G43</Speaker>;MP41(0)||:Ты уверена, что она на это купится...?
 MP41(0)<Speaker>MP41</Speaker>||<黑点1>:This is a plan that I've been perfecting for months, a dumb Sangvis won't be able to see through it!
 BOSS-7(0)<Speaker></Speaker>||<BIN>1</BIN><Night><黑点2>:Gager walks up to MP41's Dummy...
 BOSS-7(0)<Speaker></Speaker>;MP41(0)||<黑点1>:She grabs her by the neck and lifts her right off the ground.
@@ -66,3 +66,4 @@ MP41(0);STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Shut up 
 MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)<通讯框>||:I...I'm behind the rock halfway up the hill... +I just sent you my coordinates.
 STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>That's on the other side of the Sangvis forces! How am I supposed to get through them?</color>
 ()||<黑点2><BIN>10</BIN>:
+
