@@ -1,103 +1,104 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>2</BIN><Night><黑屏2><BGM>10256</BGM>:...
-BOSS-7(0)<Speaker>Gager</Speaker>||:So it seems that you aren't much of an elite after all — you're nothing compared to the Griffin Dolls I've fought before. +By now, it should be crystal clear to you just how much better I am in terms of performance.
-()||:98k slings her rifle back onto her shoulder and comes out into the open with her arms in the air.
-98k(0)<Speaker>Kar98k</Speaker>||:Perhaps. +But you're also nothing compared to the Sangvis units that I've fought.
-BOSS-7(0)<Speaker>Gager</Speaker>;98k(0)||:Humph, still talking big even while you're in such a predicament?
-BOSS-7(0);98k(0)<Speaker>Kar98k</Speaker>||:You have probably also located me when you locked onto my Dummies... +Why didn't you destroy me along with them?
-BOSS-7(0)<Speaker>Gager</Speaker>;98k(0)||:Just showing some mercy.
-BOSS-7(0);98k(0)<Speaker>Kar98k</Speaker>||:Oh? Now I'm curious – why would a Sangvis show mercy?
-BOSS-7(0)<Speaker>Gager</Speaker>;98k(0)||:The Sangvis ringleader that you captured – where is she?
-BOSS-7(0);98k(0)<Speaker>Kar98k</Speaker>||:A captured ringleader? I haven't the faintest idea what you're talking about.
-BOSS-7(0)<Speaker></Speaker>;98k(0)||:Gager barks out a laugh.
-BOSS-7(0)<Speaker>Gager</Speaker>;98k(0)||:I didn't expect you to tell me. I'm going to catch you, dismember you, and hack your neural cloud. +You don't have to say a word and I will still get the information I need.
-BOSS-7(0);98k(0)<Speaker>Kar98k</Speaker>||:MP41's research was really thorough – she even got your motive right.
-BOSS-7(0)<Speaker>Gager</Speaker>;98k(0)||:What?
-98k(0)<Speaker>Kar98k</Speaker>||:Sadly... you've just lost your only chance to capture me.
-()||<SE1>AVG_rifle_finalshot_3h</SE1>:All of a sudden, a burst of gunfire comes from behind Gager.
-BOSS-7(0)<Speaker></Speaker>||:Gager evades out of reflex, but the next bullet is fired accurately at her new location.
-()||:She is forced to block the shot with her weapon and dive behind the nearest piece of cover.
-()||<SE1>AVG_rifle_finalshot_n</SE1>:However, more bullets rain down squarely on where she's trying to take cover, so she has no choice but to turn her body to make herself a smaller target... +Yet even then the bullets find their mark.
-BOSS-7(0)<Speaker>Gager</Speaker>||:Tsk... +How did I not sense that?! +Long-range shooting? Is there another elite Doll?!
-()||<黑屏1>:The second before Gager lands on the ground, she sees...
-98k(0)<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM><SE1>AVG_weapon_reload</SE1>:Kar98k's rifle pointing straight at her.
-()||<黑屏1>:A few minutes ago...
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||<BIN>7</BIN><Night><黑屏2><SE1>AVG_tele_connect</SE1>||:<color=#00CCFF>So what's this idea of yours?</color> +<color=#00CCFF>Please tell us before I get barbecued.</color>
-MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||<BGM>BGM_NightOPS</BGM>:Humph, just leave it to me, Fräulein Kar! +This Sangvis ringleader may have really sturdy armor and lightning reflexes, but your current location actually gives you a massive advantage! +As long as we can prevent Gager from dodging your shots, you can definitely pierce through her armor from this distance!
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:But even you've seen Gager's attacks. Kar would probably be vaporized before she could even lift her rifle!
-MP41(0)<Speaker>MP41</Speaker>||:This is where my bodyguard comes into the picture!
-MP41(0);g43(0)<Speaker>G43</Speaker>||:Huh? You mean me?!
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Yep, you also wield a rifle, right? +If we can somehow hit Gager from behind, even if just for a second...we can slow her down and keep her distracted. +Then Fräulein Kar can fire at her point-blank, and we can all go home triumphant!
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Say...we're at least one whole kilometer away from Kar. +And Kar's the only one among us who can shoot with that kind of accuracy...
-MP41(0);g43(0)<Speaker>G43</Speaker>||:True... I'd feel pretty confident if it were a stationary target... +But I can never hit a Sangvis ringleader moving at high speed.
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Nein, your target will be stationary.
-MP41(0);g43(0)<Speaker>G43</Speaker>||:Huh? But why would a Sangvis ringleader stand still for me to shoot?
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Let me ask you – what's the key to a successful sniper kill?
-MP41(0);g43(0)<Speaker>G43</Speaker>||:Uh...is it the distance or windage?
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Dummkopf, it's the terrain! +Fräulein Kar drew Gager there for a reason – that area is an open space with a clear view and almost no obstacles.
-MP41(0)<Speaker>MP41</Speaker>||:She found the perfect spot that I've deduced from months of recon in just an instant...
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>You're right, I did lure her here to facilitate the attempt.</color>
-MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||:Ja, then you've already given us a great head start!
-MP41(0)<Speaker>MP41</Speaker>||:That's why! +When Gager hears the gunshots, she has very limited options when it comes to finding cover – no more than a few dozen!
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:That's still too many. G43 plus all her Dummies only give us five shots.
-MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:Which is why we need to work together as a team! +First, Fräulein Kar needs to keep Gager busy by making conversation with her.
-MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Making conversation?</color>
-MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||:Exactly. The ringleader must be looking for something – that's why she killed all your Dummies but left you alive. +Griffin defeated Gager once... Details of that operation are confidential information, but I heard her partner was captured.
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Is that true...?
-MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:I wasn't exactly certain, but her actions have verified that. +She will without a doubt try to hack your neural cloud to search for the information she needs... +That's why she was so careful not to cause too much physical damage to your body.
-MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>I see now.</color> +<color=#00CCFF>I'll try my best to buy you time.</color>
-MP41(0)<Speaker>MP41</Speaker>||:StG44, while Fräulein Kar is playing for time, you'll also have to shoot with G43.
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:But my weapon can't fire from such a long range.
-MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:That's fine, I'll guide you! +Judging from the way Gager destroyed Fräulein Kar's Dummies, she must've located them and anticipated their shots by tracing the trajectory of their bullets. +However, yours will be completely off kilter due to the lack of momentum, while Gager has the habit of dodging shots while locating her enemies... +This will confuse the heck out of her!
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:That makes sense...
-MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:After she dodges the first shot, her options become even more limited.
-MP41(0)<Speaker>MP41</Speaker>||:G43, you and your Dummies get into the positions that I've marked out and take aim... +Then the moment Gager moves, we adjust our aim and fire three successive shots.
-MP41(0);g43(0)<Speaker>G43</Speaker>||:I see! +This will really give us a much better chance! At least one of these shots will hit her!
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:That's right, then Fräulein Kar will fire the fatal shot while she's busy dancing around! +Perfect! Well done me!
-MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>It does sound like a solid plan.</color> +<color=#00CCFF>But there's still a good chance that the final shot will miss.</color>
-MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||:Don't worry... I'll execute the ultimate backup plan if that happens.
-MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>The ultimate backup plan...?</color>
-MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||:I-I can't tell you too much at this point... +In any case, both Fräulein Kar and I are counting on you, G43!
-MP41(0);g43(0)<Speaker>G43</Speaker>||:That's...a lot of pressure...
-MP41(0)<Speaker>MP41</Speaker>;g43(0)||:It's okay, you'll just have to fire at my instruction. Everything will be fine!
-MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>I agree. StG44, make sure you keep her off me.</color>
-STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)<通讯框>||:That goes without saying.
-STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Right, I trust you.</color>
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Then I'm breaking cover now. Good luck to us all.</color>
-()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:Back to the present...
-()||<BIN>2</BIN><Night><黑屏2><SE1>AVG_rifle_finalshot_h</SE1>:At such a short distance, 98k almost doesn't even have to aim. The bullet flies out of her barrel and strikes Gager squarely in the chest before she even hits the ground...
-()||<BGM>BGM_War</BGM>:Making straight for her Sangvis core.
-BOSS-7(0)<Speaker>Gager</Speaker>||<震屏>:—!
-()||:Gager lands in a heap and moves no more.
-98k(0)<Speaker>Kar98k</Speaker>||:I can't believe that actually worked... +MP41's plan turned the whole situation around. I've got to admit, this completely changed my opinion of her.
-MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We did it!</color> +<color=#00CCFF>Yay! We've made a valuable contribution, haven't we, Fräulein Kar?!</color>
-MP41(0)<通讯框>;98k(0)<Speaker>Kar98k</Speaker>||:Ja, you've done us a huge favor.
-MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(0)||:<color=#00CCFF>Heheh, with that, the Commander won't just be sending me on logistics missions!</color>
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>;98k(0)||:<color=#00CCFF>Kar, just stand by where you are. We're coming over.</color>
-MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...</color> +<color=#00CCFF>Wait a minute! Something's not right. The Sangvis troops are still moving!</color>
-98k(0)<Speaker>Kar98k</Speaker>||:Wha—
-()||<SE1>AVG_Rifle</SE1><BGM>BGM_stage11</BGM>:There is a sudden burst of light from where Gager went down...
-98k(1)<Speaker></Speaker>||:Kar98k tries to dodge but is just a fraction of a second too late. The ion beam hits her on the left arm.
-()||:The impact sends her flying, and she crashes hard onto the ground.
-98k(1)<Speaker></Speaker>||:The heavy damage severely hinders her movements. She manages to roll behind some nearby cover with great difficulty and peers back at Gager.
-BOSS-7(0)<Speaker>Gager</Speaker>||:You...nasty Griffin...Dolls... +I won't show mercy anymore...!
+BOSS-7(0)<Speaker>Гейгер</Speaker>||:Похоже, ты не такая уж элита — по сравнению с Куклами Грифона, с которыми я сражалась раньше, ты просто ничто. +Сейчас тебе должно быть совершенно ясно, насколько я превосхожу тебя в плане эффективности.
+()||:98k перекидывает винтовку через плечо и выходит на открытое пространство с поднятыми вверх руками.
+98k(0)<Speaker>Kar98k</Speaker>||:Возможно. +Но ты тоже ничто по сравнению с отрядами Сангвис, с которыми я сражалась.
+BOSS-7(0)<Speaker>Гейгер</Speaker>;98k(0)||:Хм, всё ещё болтаешь много, даже находясь в таком бедственном положении?
+BOSS-7(0);98k(0)<Speaker>Kar98k</Speaker>||:Ты, наверное, засекла меня, когда поймала мои Болванки... +Почему ты не уничтожила меня вместе с ними?
+BOSS-7(0)<Speaker>Гейгер</Speaker>;98k(0)||:Просто проявляю милосердие.
+BOSS-7(0);98k(0)<Speaker>Kar98k</Speaker>||:О? Теперь мне интересно – почему Сангвис проявляет милосердие?
+BOSS-7(0)<Speaker>Гейгер</Speaker>;98k(0)||:Главарь Санвисов, которую поймали, – где она?
+BOSS-7(0);98k(0)<Speaker>Kar98k</Speaker>||:Попавшаяся в плен главарь? Я понятия не имею, о чем ты говоришь.
+BOSS-7(0)<Speaker></Speaker>;98k(0)||:Гейгер громко смеётся.
+BOSS-7(0)<Speaker>Гейгер</Speaker>;98k(0)||:Я и не ожидала, что ты мне расскажешь. Я собираюсь поймать тебя, расчленить и взломать твоё нейронное облако. +Тебе не нужно ничего говорить, я всё равно получу нужную мне информацию.
+BOSS-7(0);98k(0)<Speaker>Kar98k</Speaker>||:Расследование MP41 было действительно тщательным — она даже правильно определила твой мотив.
+BOSS-7(0)<Speaker>Гейгер</Speaker>;98k(0)||:Что?
+98k(0)<Speaker>Kar98k</Speaker>||:К сожалению... ты только что упустила единственный шанс поймать меня.
+()||<SE1>AVG_rifle_finalshot_3h</SE1>:Внезапно за Гейгер раздается стрельба.
+BOSS-7(0)<Speaker></Speaker>||:Гейгер рефлекторно уклоняется, но следующая пуля точно попадает в ее новое местоположение.
+()||:Она вынуждена блокировать выстрел своим оружием и нырнуть за ближайшее укрытие.
+()||<SE1>AVG_rifle_finalshot_n</SE1>:Однако на место, где она пытается укрыться, обрушивается еще больше очередей, и ей не остается ничего другого, как развернуть тело, чтобы стать более мелкой мишенью... +Но даже тогда пули попадают в цель.
+BOSS-7(0)<Speaker>Гейгер</Speaker>||:Тц... +Как я этого не заметила?! +Дальний выстрел? Есть ещё одна элитная кукла?!
+()||<黑屏1>:За секунду до того, как Гейгер приземлилась на землю, она увидела...
+98k(0)<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM><SE1>AVG_weapon_reload</SE1>:Винтовка Kar98k была нацелена прямо на неё.
+()||<黑屏1>:Несколько минут назад...
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||<BIN>7</BIN><Night><黑屏2><SE1>AVG_tele_connect</SE1>||:<color=#00CCFF>Так что же это за идея?</color> +<color=#00CCFF>Говори, пока меня не зажарили до смерти.</color>
+MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||<BGM>BGM_NightOPS</BGM>:Хм, просто доверьтесь мне, фройляйн Kar! +Этот главарь Сангвис может и обладает очень прочной бронёй и молниеносными рефлексами, но твоё текущее расположение даёт тебе огромное преимущество! +Если мы сможем помешать Гейгер уклоняться от твоих выстрелов, ты точно сможешь пробить её броню с такого расстояния!
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Но даже ты видела атаки Гагера. Kar, скорее всего, испарится, даже не успев поднять винтовку!
+MP41(0)<Speaker>MP41</Speaker>||:И вот тут-то и появляется мой телохранитель!
+MP41(0);g43(0)<Speaker>G43</Speaker>||:А? Ты имеешь в виду меня?!
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Да, ты ведь тоже владеешь винтовкой, верно? +Если нам удастся как-то ударить Гейгер сзади, пусть даже на секунду... мы сможем замедлить её и отвлечь внимание. +Тогда Фройляйн Kar сможет выстрелить в неё в упор, и мы все сможем вернуться домой с победой!
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Скажем... мы находимся как минимум в километре от Kar. +И Kar — единственная из нас, кто может стрелять с такой точностью...
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Верно... Я бы чувствовала себя довольно уверенно, если бы это была неподвижная мишень... +Но я никогда не смогу поразить главаря Сангвис, движущегося с высокой скоростью.
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Нет, твоя цель будет неподвижной.
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Что? Но почему главарь Сангвис будет стоять на месте, чтобы я могла в неё выстрелить?
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Можно спросить - в чём заключается секрет успешного снайперского выстрела?
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Э-э... это расстояние или ветер?
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Дурочка, это из-за рельефа! +Фройляйн Kar привела Гейгер туда не просто так – эта местность представляет собой открытое пространство с хорошей видимостью и практически без препятствий.
+MP41(0)<Speaker>MP41</Speaker>||:Она нашла идеальное место, которое я вычислила за несколько месяцев разведки, всего за мгновение...
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Ты права, я действительно заманила её сюда, чтобы облегчить попытку.</color>
+MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||:Да, тогда ты уже дала нам отличную фору!
+MP41(0)<Speaker>MP41</Speaker>||:Поэтому! +Когда Гейгер услышит выстрелы, у неё будет очень ограниченный выбор укрытий — не более нескольких десятков!
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Это все равно слишком много. G43 плюс все её Болванки дадут нам только пять выстрелов.
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:Поэтому нам нужно работать вместе, как одна команда! +Во-первых, фройляйн Kar должна занять Гейгер разговором.
+MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Разговаривать?</color>
+MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||:Именно. Главарь, видимо, что-то ищет — поэтому она убила всех твоих Болванок, а тебя оставила в живых. +Грифон однажды победил Гейгер... Детали этой операции являются конфиденциальной , но я слышала, что её напарницу схватили.
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Это правда...?
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:Я не была уверена, но её действия подтвердили это. +Она, без сомнения, попытается взломать твою нейронную сеть, чтобы найти нужную ей информацию... +Поэтому она так старалась не нанести твоему телу слишком большого физического ущерба.
+MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Теперь я понимаю.</color> +<color=#00CCFF>Я постараюсь выиграть для тебя время.</color>
+MP41(0)<Speaker>MP41</Speaker>||:StG44, пока фройляйн Kar выигрывает время, тебе тоже придётся стрелять из G43.
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:Но моё оружие не может стрелять с такой дальности.
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:Ничего страшного, я тебе помогу! +Судя по тому, как Гейгер уничтожила Болванки Фройляйн Kar, она, должно быть, обнаружила их и предвидела их выстрелы, проследив траекторию пуль. +Однако твои выстрелы будут совершенно неточными из-за недостатка импульса, в то время как Гейгер имеет привычку уклоняться от выстрелов, обнаруживая своих врагов... +Это собьет её с толку!
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:В этом есть смысл...
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:После того, как она уклонится от первого выстрела, её возможности станут ещё более ограниченными.
+MP41(0)<Speaker>MP41</Speaker>||:G43, ты и твои Болванки занимают позиции, которые я разметила, и прицеливаются... +Затем, как только Гейгер двинется, мы корректируем прицел и делаем три выстрела подряд.
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Поняла! +Это действительно даст нам гораздо больше шансов! По крайней мере, один из этих выстрелов попадет в неё!
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Точно, тогда фройляйн Kar выстрелит в неё, пока та будет занята уклонением! +Идеально! Молодец я!
+MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Это действительно звучит как надёжный план.</color> +<color=#00CCFF>Но ведь останется высокая вероятность того, что последний выстрел окажется неточным.</color>
+MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||:Не волнуйся... Если это случится, я приведу в действие резервный план.
+MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Идеальный резервный план...?</color>
+MP41(0)<Speaker>MP41</Speaker>;98k(0)<通讯框>||:А я пока не могу тебе многое рассказать... +В любом случае, и фройляйн Kar, и я рассчитываем на тебя, G43!
+MP41(0);g43(0)<Speaker>G43</Speaker>||:Это... очень большое давление...
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:Всё в порядке, просто стреляй по моей команде. Всё будет хорошо!
+MP41(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Я согласна. StG44, не подпусти её ко мне.</color>
+STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)<通讯框>||:Это и так понятно.
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Хорошо, я тебе доверяю.</color>
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Тогда я сейчас ухожу из укрытия. Удачи нам всем.</color>
+()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:Вернёмся к настоящему...
+()||<BIN>2</BIN><Night><黑屏2><SE1>AVG_rifle_finalshot_h</SE1>:На таком коротком расстоянии 98k почти не нужно даже целиться. Пуля вылетает из ее ствола и попадает Гейгер прямо в грудь, ещё до того, как она успевает упасть на землю...
+()||<BGM>BGM_War</BGM>:Она направляется прямо к ядру Сангвис.
+BOSS-7(0)<Speaker>Гейгер</Speaker>||<震屏>:—!
+()||:Гейгер падает на землю и больше не двигается.
+98k(0)<Speaker>Kar98k</Speaker>||:Не могу поверить, что это действительно сработало... +План MP41 полностью изменил ситуацию. Должна признать, что это полностью изменило моё мнение о ней.
+MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Мы сделали это!</color> +<color=#00CCFF>Ура! Мы внесли ценный вклад, не так ли, фройляйн Kar?!</color>
+MP41(0)<通讯框>;98k(0)<Speaker>Kar98k</Speaker>||:Да, ты оказала нам огромную услугу.
+MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(0)||:<color=#00CCFF>Хе-хе, с этим Командир не будет посылать меня только на логистические миссии!</color>
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>;98k(0)||:<color=#00CCFF>Kar, просто оставайся на месте. Мы сейчас подойдем.</color>
+MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...</color> +<color=#00CCFF>Подождите минутку! Что-то не так. Войска Сангвиса всё ещё продолжают движение!</color>
+98k(0)<Speaker>Kar98k</Speaker>||:Чт—
+()||<SE1>AVG_Rifle</SE1><BGM>BGM_stage11</BGM>:В месте, где упала Гейгер, внезапно вспыхивает яркий свет...
+98k(1)<Speaker></Speaker>||:Kar98k пытается увернуться, но опоздала на долю секунды. Ионный луч попадает ей в левую руку.
+()||:От удара она отлетает и тяжело падает на землю.
+98k(1)<Speaker></Speaker>||:Серьёзные повреждения сильно затрудняют её движения. С большим трудом ей удается перекатиться за ближайшее укрытие и оглянуться на Гейгер.
+BOSS-7(0)<Speaker>Гейгер</Speaker>||:Ты... мерзкая Кукла Грифона... +Я больше не буду проявлять милосердие...!
 98k(1)<Speaker>Kar98k</Speaker>||:...
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>;98k(1)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Kar, are you alright?!</color>
-STG44Mod(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:My left arm is gone and my body is starting to act up... +Can't believe even a point-blank shot wasn't enough to get through her armor... +Maybe our mission was doomed to fail from the start.
-g43(0)<Speaker>G43</Speaker><通讯框>;98k(1)||:<color=#00CCFF>Whoa! S.F. has started spraying at us!</color> +<color=#00CCFF>Their attacks have suddenly become a lot more ferocious!</color>
-g43(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:Humph...we seem to have ruffled her feathers. +There's no escape for me, so withdraw before S.F. have you surrounded...!
-MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||:<color=#00CCFF>...Nein.</color> +<color=#00CCFF>There's still the ultimate backup plan. We can definitely destroy that Sangvis ringleader...</color>
-MP41(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:Don't be ridiculous... +Our weapons simply aren't capable of penetrating her armor... And I can't even aim anymore...
-MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||:<color=#00CCFF>Then we'll just have to hit her core without the armor getting in the way, right?</color>
-MP41(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:That's true...but there's no way we can do it!
-MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||:<color=#00CCFF>Nein, we CAN do it!</color>
-MP41(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:How can you be so sure...?
-MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||:<color=#00CCFF>I'm...the kind of Doll who seizes every victory.</color>
-MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||<黑点1>:<color=#00CCFF>Please find a suitable shooting position and wait for my signal!</color>
-MP41(0)<Speaker>MP41</Speaker>||<BIN>7</BIN><Night><黑点2>:I know a small path that can take me to Gager very quickly, please help me out!
-STG44Mod(0)<Speaker>StG44</Speaker>||:I don't know what you're trying to pull, but you're Kar's only hope. We'll do our best to destroy the Sangvis units to get their attention.
-STG44Mod(0)<Speaker>StG44</Speaker>||<SE2>Gunfight</SE2>:G43, please take the area on the right!
-g43(0)<Speaker>G43</Speaker>||:Okay, I'll do my best!
-MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:We'll definitely succeed this time...
-()<Speaker>MP41</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:And I WILL be recognized for this!
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>;98k(1)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Kar, ты в порядке?!</color>
+STG44Mod(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:Моя левая рука отсутствует, и моё тело начинает подводить... +Не могу поверить, что даже выстрел в упор не смог пробить её броню... +Возможно, наша миссия была обречена на провал с самого начала.
+g43(0)<Speaker>G43</Speaker><通讯框>;98k(1)||:<color=#00CCFF>Эй! С.Ф. начал в нас стрелять!</color> +<color=#00CCFF>Их атаки внезапно стали гораздо более яростными!</color>
+g43(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:Хм... похоже, мы её разозлили. +Мне некуда бежать, так что отступайте, пока С.Ф. не окружил вас...!
+MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||:<color=#00CCFF>...Нет.</color> +<color=#00CCFF>TЕсть ещё один запасной план. Мы точно сможем уничтожить главаря Сангвиса...</color>
+MP41(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:Не смеши меня... +Наше оружие просто не способно пробить её броню... А я даже не могу больше прицеливаться...
+MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||:<color=#00CCFF>Тогда нам просто нужно будет поразить её ядро, не давая броне помешать, верно?</color>
+MP41(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:Это так... но мы никак не можем этого сделать!
+MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||:<color=#00CCFF>Нет, мы МОЖЕМ это сделать!</color>
+MP41(0)<通讯框>;98k(1)<Speaker>Kar98k</Speaker>||:Как ты можешь быть так в этом уверена...?
+MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||:<color=#00CCFF>Я... из тех Кукол, которые не упускают ни одной победы.</color>
+MP41(0)<Speaker>MP41</Speaker><通讯框>;98k(1)||<黑点1>:<color=#00CCFF>Найди подходящую позицию для стрельбы и жди моего сигнала!</color>
+MP41(0)<Speaker>MP41</Speaker>||<BIN>7</BIN><Night><黑点2>:Я знаю небольшую тропинку, по которой можно очень быстро добраться до Гейгер, пожалуйста, помогите мне!
+STG44Mod(0)<Speaker>StG44</Speaker>||:Я не знаю, что ты собираешься сделать, но ты — единственная надежда Kar. Мы сделаем всё возможное, чтобы уничтожить отряды Сангвис и привлечь их внимание.
+STG44Mod(0)<Speaker>StG44</Speaker>||<SE2>Gunfight</SE2>:G43, займи зону справа!
+g43(0)<Speaker>G43</Speaker>||:Хорошо, я постараюсь!
+MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:На этот раз у нас обязательно получится...
+()<Speaker>MP41</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:И я БУДУ признана за это!
 ()||<黑点2><BIN>10</BIN>:
+
