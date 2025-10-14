@@ -1,10 +1,10 @@
 ()||<BGM>BGM_Sneak</BGM><BIN>99</BIN>:...
-AK12(0)<Speaker>AK-12</Speaker><通讯框>||<BGM>BGM_Sneak</BGM><BIN>99</BIN>:Ange, we've recovered M4A1. Any instructions for our next move?
-AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Looks like AR-15 has really been dragging you around on a leash.
-AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Well, you were the one who ordered me to abide by AR-15's judgment. +Also, I was simply curious about our new member's decision-making and responses. +Since everyone now wants a piece of M4A1, I'm sure getting our hands on her is the right thing to do.
-AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:That's not all M4A1 is worth. In any case, you both did very well. +How's the situation on your end?
-AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:S.F.'s main forces are making a frenzied breakthrough towards Area S09 at high speed. I think things are really going to get seriously out of hand this time.
-AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Got it. I've just given you new instructions. Carry them out ASAP and stay safe.
+AK12(0)<Speaker>AK-12</Speaker><通讯框>||<BGM>BGM_Sneak</BGM><BIN>99</BIN>:Анже, мы нашли M4A1. Есть какие-нибудь инструкции по дальнейшим действиям?
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Похоже, AR-15 действительно водит тебя за нос.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Ну, это ты приказала мне подчиняться решению AR-15. +Кроме того, мне было просто любопытно посмотреть, как наш новый участник принимает решения и реагирует на ситуации. +Поскольку сейчас все хотят заполучить M4A1, я уверена, что правильно будет заполучить её.
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Это ещё не всё, что значит M4A1. В любом случае, вы обе отлично справились. +Как обстановка у вас?
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Основные силы С.Ф. с огромной интенсивностью прорываются к зоне S09. Думаю, на этот раз ситуация действительно выйдет из-под контроля.
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Поняла. Я только что передала вам новые инструкции. Выполни их как можно скорее и будьте осторожнее.
 AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Eh? These two requirements are contradictory—
 NPC-Ange(0)<Speaker></Speaker>||<BIN>99</BIN>:...Click. +Ange terminates the transmission.
 NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Here's our chance. We'll use this opportunity to penetrate S.F.'s main fortress. We'd best move as quickly as possible. +Are you back yet, AN-94?
@@ -31,3 +31,4 @@ AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<黑点1><BIN>99</BIN>:Got it. I'll 
 AN94()<Speaker>AN-94</Speaker>||<BIN>9</BIN><黑点2>:Are you paying attention? While my consciousness is in Level II, you will be unprotected.
 ()||<BIN>9</BIN>:...Ange looks up.
 安洁()<Speaker>Ange</Speaker>||<BIN>9</BIN><黑点1>:What, do you think I need protecting?
+
