@@ -4,31 +4,32 @@ AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Похоже, AR-15 д
 AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Ну, это ты приказала мне подчиняться решению AR-15. +Кроме того, мне было просто любопытно посмотреть, как наш новый участник принимает решения и реагирует на ситуации. +Поскольку сейчас все хотят заполучить M4A1, я уверена, что правильно будет заполучить её.
 AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Это ещё не всё, что значит M4A1. В любом случае, вы обе отлично справились. +Как обстановка у вас?
 AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Основные силы С.Ф. с огромной интенсивностью прорываются к зоне S09. Думаю, на этот раз ситуация действительно выйдет из-под контроля.
-AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Поняла. Я только что передала вам новые инструкции. Выполни их как можно скорее и будьте осторожнее.
-AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Eh? These two requirements are contradictory—
-NPC-Ange(0)<Speaker></Speaker>||<BIN>99</BIN>:...Click. +Ange terminates the transmission.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Here's our chance. We'll use this opportunity to penetrate S.F.'s main fortress. We'd best move as quickly as possible. +Are you back yet, AN-94?
-AN94(0)<Speaker>AN-94</Speaker><通讯框>;NPC-Ange(0)||<BIN>99</BIN>:Awaiting your orders, Commander.
-AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Thanks for the hard work. Give me a quick summary of Parapluie's transmission speed and its coverage.
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Parapluie's current transmission speed has reached its theoretical upper limit. +That is because the Military's main forces have already pulled out, and the anti-jamming equipment they installed has shut down with their departure.
-AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Looks like they really want to exterminate every last trace of Griffin...
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Also, some unexpected good news. +They actually used a server from the Western Theatre HQ to build a Level II layer in order to provide computational support against S.F. +It is still currently directly connected to the forward command terminal on this battlefield and unprotected by any firewalls. +Do you want to make use of this opportunity? I suggest that we can first...
-AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Oh? Looks like those old geezers got careless. Search through all the data in the server immediately using the keyword "OGAS"! +Oh yes, also include the names of all the officers who might be taking part in this operation!
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:As hard-charging as ever?
-AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Why else would they have issued me cutting-edge T-Dolls like yourself, if not because of that? Hurry up already.
-AN94(0)<Speaker>AN-94</Speaker>||<BIN>99</BIN>:A moment please. There is too much redundant data. I need to clear them out.
-()||<BIN>99</BIN>:...Five minutes later.
-AN94(0)<Speaker>AN-94</Speaker><通讯框>||<BIN>99</BIN>:Search complete, Ange. I have two pieces of information which will interest you. +One of them is a Soviet Union operational report dating back from 2032, concerning the OGAS facility. +The other is an excavation record connected to OGAS, detailing the unearthing of the small Relic site OKB-413 near Minsk.
-AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:A small...Relic site?
-AN94(0);NPC-Ange(0)<Speaker></Speaker>||<BIN>99</BIN>:...Ange stares intently at the monitor.
-AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:So the information WAS correct after all. What...what they're after is incredible... +Don't tell me...OGAS was originally designed to...
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Now's not the time to take your time browsing. Parapluie is spreading rapidly, and this is very bad for us.
-AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Indeed...we can't let S.F. keep expanding... +(Mutters to herself) Is this... could this be a namelist of the personnel from that operation in 32? +Carter and...Witkin?
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Please look up and answer me.
-AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Aren't you capable of electronic warfare? Help me sort this out. Use the abandoned Dolls near point A as temporary shields for us.
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:I can use the computational power of the abandoned Dolls on the battlefield to counteract the spread of Parapluie. +However, a connection of that scale requires a great deal of computational space. I will need to enter Level II.
-AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<黑点1><BIN>99</BIN>:Got it. I'll leave it all to you.
-AN94()<Speaker>AN-94</Speaker>||<BIN>9</BIN><黑点2>:Are you paying attention? While my consciousness is in Level II, you will be unprotected.
-()||<BIN>9</BIN>:...Ange looks up.
-安洁()<Speaker>Ange</Speaker>||<BIN>9</BIN><黑点1>:What, do you think I need protecting?
+AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Поняла. Я только что передала тебе новые инструкции. Выполни их как можно скорее и будьте осторожнее.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Э? Эти два требования противоречат друг другу...
+NPC-Ange(0)<Speaker></Speaker>||<BIN>99</BIN>:...Клик. +Анже завершает передачу.
+NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Вот наш шанс. Мы воспользуемся этой ситуацией, чтобы проникнуть в главную крепость С.Ф. Нам лучше действовать как можно быстрее. +Ты уже вернулась, AN-94?
+AN94(0)<Speaker>AN-94</Speaker><通讯框>;NPC-Ange(0)||<BIN>99</BIN>:Ожидаю ваших приказов, Командир.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Спасибо за усердную работу. Вкратце расскажи мне о скорости передачи данных Параплюй и зоне его покрытия.
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Текущая скорость передачи данных Параплюй достигла своего теоретического верхнего предела. +Это связано с тем, что основные силы военных уже выведены, а установленное ими оборудование для подавления помех было отключено после их ухода.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Похоже, они действительно хотят уничтожить все следы Грифона...
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Кроме того, есть неожиданная хорошая новость. +Они фактически использовали сервер из штаба Западного театра военных действий для создания слоя II уровня, чтобы обеспечить вычислительную поддержку против С.Ф. +В настоящее время он по-прежнему напрямую подключен к передовому командному терминалу на этом боевом участке и не защищен никакими межсетевыми экранами. +Если вы хотите воспользоваться этой возможностью, я предлагаю сначала...
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:О? Похоже, эти старики проявили неосторожность. Немедленно проверье все данные на сервере по ключевому слову «OGAS»! +Да, и включи в поиск имена всех офицеров, которые могут участвовать в этой операции!
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:По-прежнему так же энергична?
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Иначе зачем бы они выдали мне таких передовых Т-Кукол, как ты, если не из-за этого? Поторопись уже.
+AN94(0)<Speaker>AN-94</Speaker>||<BIN>99</BIN>:Минутку, пожалуйста. Слишком много лишних данных. Мне нужно их удалить.
+()||<BIN>99</BIN>:...Пять минут спустя.
+AN94(0)<Speaker>AN-94</Speaker><通讯框>||<BIN>99</BIN>:Поиск завершен, Анже. У меня есть пара сведений, которые тебя заинтересуют. +Одно из них — оперативный отчет Советского Союза от 2032 года, касающийся объекта OGAS. +Другое — отчет о раскопках, связанных с OGAS, в котором подробно описано обнаружение небольшого места захоронения реликвии OKB-413 недалеко от Минска.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Небольшое... место с реликвиями?
+AN94(0);NPC-Ange(0)<Speaker></Speaker>||<BIN>99</BIN>:...Анже пристально вглядывается в монитор.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Так что информация всё-таки была верной. То, что они преследуют, просто невероятно... +Не говорите мне, что OGAS изначально был разработан для...
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Сейчас не время отвлекаться на просмотр. Параплюй быстро распространяется, и это очень плохо для нас.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Действительно... мы не можем позволить С.Ф. продолжать разрастаться... +(Бормочет про себя) Это... может ли это быть список сотрудников, участвовавших в той операции в 32-м? +Картер и... Уиткин?
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Прошу взглянуть на меня и ответить.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Ты не способна устроить электронную войну? Помоги мне разобраться с этим. Используй брошенные Куклы возле точки А в качестве временных щитов для нас.
+AN94(0)<Speaker>AN-94</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Я могу использовать вычислительную мощность брошенных на поле боя Кукол, чтобы противодействовать распространению Параплюй. +Однако для соединения такого масштаба требуется огромное вычислительное пространство. Мне нужно будет перейти на уровень II.
+AN94(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<黑点1><BIN>99</BIN>:Понял. Я всё оставлю на твоё усмотрение.
+AN94()<Speaker>AN-94</Speaker>||<BIN>9</BIN><黑点2>:Ты внимательно слушаешь? Пока мое сознание находится на уровне II, ты будешь без защиты.
+()||<BIN>9</BIN>:...Анже поднимает глаза.
+安洁()<Speaker>Ange</Speaker>||<BIN>9</BIN><黑点1>:Что, ты думаешь, мне нужна защита?
+
 
