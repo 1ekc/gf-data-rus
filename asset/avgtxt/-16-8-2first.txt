@@ -1,23 +1,23 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>AVG_Rain2</SE1><黑屏2>:...
-AK12()<Speaker>AK-12</Speaker>||:.... + There's another detachment 1700m ahead and to the right, heading right for us. +Oh dear...S.F. has blocked our path in three directions now. Could this be a coincidence?
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏1><BGM>BGM_Truth</BGM>:There's only one explanation for how Sangvis Ferri has been tracking our position—
-M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>117</BIN>:It's my fault again, right?
-AR15()<Speaker>ST AR-15</Speaker>||:This is precisely why we have to take you away.
-AK12()<Speaker>AK-12</Speaker>||<SE2>AVG_Rain2</SE2>:We've entered firing range of that Sangvis squad in the rear, and they're opening fire. +Those trash are too lazy to even do proper recon.
-AR15()<Speaker>ST AR-15</Speaker>||:They're simply acting according to preset orders. I'm guessing Mastermind has her hands full at the moment.
-AK12()<Speaker>AK-12</Speaker>||:So that's all there is to Mastermind's computational capacity, huh. I was hoping Sangvis Ferri would put more effort in countering the Military. +That said, this isn't good news for us either.
-AR15()<Speaker>ST AR-15</Speaker>||<SE1>AVG_Rain2</SE1>:...I'm beginning to wonder why I took this mission. +It's like trying to avoid moths while carrying a lamp. Really asking for it, you know. Is there any cover nearby?
-M4A1()<Speaker>M4A1</Speaker>||:Like I said... +Why did you come back...?
-AK12()<Speaker>AK-12</Speaker>||:Now's not the time to look for cover, AR-15. The Sangvis units from 11 o'clock are almost here.
-M4A1()<Speaker>M4A1</Speaker>||<SE2>AVG_Rain2</SE2><BIN>118</BIN>:If you really think I'm a burden, then all you have to do is dump me here! +Put me down, AR-15! Let me look for SOP-II and RO!
-AR15()<Speaker>ST AR-15</Speaker>||:...Would you mind not freaking out all the time? +Wait a while longer. When I can't hold on any more, you'll get your way. +But right now, I don't want to waste my efforts.
-AK12()<Speaker>AK-12</Speaker>||:We need to get clear. There's some open space up ahead; the Military had a big battle there just now. +Prepare to race through the wrecks, but if you're even the least bit careless, you'll be joining them.
-M4A1()<Speaker>M4A1</Speaker>||<SE1>AVG_Rain2</SE1>:Put me down, AR-15! +I don't...I don't want you to die for me again, so put me down!
-AR15()<Speaker>ST AR-15</Speaker>||:Put a sock in it. Of course I'll drop you if I can't run fast enough to save myself! +AK-12, how much longer before that third Sangvis detachment catches up?
-AK12()<Speaker>AK-12</Speaker>||:Around 10 minutes? +I figure their plan is to surround us here. Simple and crude...
-AR15()<Speaker>ST AR-15</Speaker>||<SE2>AVG_Rain2</SE2>:...But it's effective. +Let's say everything's as you predicted. You've got a way of dealing with them, right?
-AK12()<Speaker>AK-12</Speaker>||:And what if I said...no?
-AR15()<Speaker>ST AR-15</Speaker>||:Then you'll die a very humiliating death here. +And I know that while you don't really mind the part about being dead, you can't stand being humiliated. +So let's have it, before they punch through the cover behind us.
+AK12()<Speaker>AK-12</Speaker>||:.... + Еще один отряд находится в 1700м. правее и направляется прямо к нам. +Опа... С.Ф. перекрыл нам путь сразу в трех направлениях. Это ли не совпадение?
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1><BGM>BGM_Truth</BGM>:Есть только одно объяснение тому, как Сангвис Ферри отслеживал наше положение—
+M4A1()<Speaker>M4A1</Speaker>||<黑屏2><BIN>117</BIN>:Это снова моя вина, да?
+AR15()<Speaker>ST AR-15</Speaker>||:Именно поэтому мы должны увезти тебя отсюда.
+AK12()<Speaker>AK-12</Speaker>||<SE2>AVG_Rain2</SE2>:Мы вошли в зону досягаемости выстрелов отряда Сангвис, и они открыли огонь. +Эти отбросы слишком ленивы, чтобы даже провести должную разведку.
+AR15()<Speaker>ST AR-15</Speaker>||:Они просто действуют в соответствии с заранее заданными приказами. Полагаю, что Владыка сейчас полностью занята.
+AK12()<Speaker>AK-12</Speaker>||:Так вот в чем заключается вычислительная мощность Владыки, да? Я надеялась, что Сангвис Ферри приложит больше усилий для противодействия Военным. +Тем не менее, для нас это тоже не хорошая новость.
+AR15()<Speaker>ST AR-15</Speaker>||<SE1>AVG_Rain2</SE1>:...Я начинаю задаваться вопросом, зачем я взялась за эту миссию. +Это как пытаться избежать мотыльков, неся лампу. Это же самоубийство, понимаете. Есть поблизости какое-нибудь укрытие?
+M4A1()<Speaker>M4A1</Speaker>||:Как я уже сказала... +Почему ты вернулась...?
+AK12()<Speaker>AK-12</Speaker>||:Сейчас не время искать укрытие, AR-15. Подразделения Сангвис почти здесь, они на 11 часов.
+M4A1()<Speaker>M4A1</Speaker>||<SE2>AVG_Rain2</SE2><BIN>118</BIN>:Если ты действительно считаешь меня обузой, то все, что тебе нужно сделать, это бросить меня здесь! +Поставь меня на землю, AR-15! Позволь мне поискать SOP-II и RO!
+AR15()<Speaker>ST AR-15</Speaker>||:...Не могла бы ты не паниковать постоянно? +Подожди ещё немного. Когда я больше не выдержу, ты добьешься своего. +Но сейчас я не хочу тратить свои силы зря.
+AK12()<Speaker>AK-12</Speaker>||:Нам нужно прояснить ситуацию. Впереди есть открытое пространство; военные только что провели там большое сражение. +Приготовьтесь пробираться через обломки, но при малейшей неосторожности окажетесь идними из них.
+M4A1()<Speaker>M4A1</Speaker>||<SE1>AVG_Rain2</SE1>:Отпусти меня, AR-15! Я не... Я не хочу, чтобы ты снова погибла за меня, так что отпусти меня!
+AR15()<Speaker>ST AR-15</Speaker>||:Заткнись. Конечно, я брошу тебя, если не смогу бежать достаточно быстро, чтобы спасти себя! +AK-12, сколько времени осталось до того, как третий отряд Сангвис нас догонит?
+AK12()<Speaker>AK-12</Speaker>||:Около 10 минут? +Я полагаю, их план состоит в том, чтобы окружить нас здесь. Просто и банально...
+AR15()<Speaker>ST AR-15</Speaker>||<SE2>AVG_Rain2</SE2>:...Но это эффективно. +Допустим, все будет так, как ты предсказываешь. У тебя есть способ справиться с ними, верно?
+AK12()<Speaker>AK-12</Speaker>||:А что, если я скажу... нет?
+AR15()<Speaker>ST AR-15</Speaker>||:Тогда ты умрёшь здесь очень унизительной смертью. +И я знаю, что хотя тебе не особо мешает сама смерть, тебе не нравится быть униженной. +Так что давай договоримся, пока они не пробили укрытие позади нас.
 AK12()<Speaker>AK-12</Speaker>||<SE1>AVG_Rain2</SE1>:Ah... +Ange told me you were old-fashioned and stubborn, so I was prepared to go on an op with a Dummy. +But you make the most interesting faces. I'm curious about you all over again, AR-15.
 AR15()<Speaker>ST AR-15</Speaker>||:That doesn't sound good...So, what do you plan to do?
 AK12()<Speaker>AK-12</Speaker>||:The Sangvis units chasing us are already gathered here. So we'll wipe them all out in one shot.
@@ -42,3 +42,4 @@ M4A1()<Speaker>M4A1</Speaker>||:Add? Add what?
 AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:You'll become...like me.
 AR15()<Speaker>ST AR-15</Speaker>||<黑屏2><BIN>9</BIN>:Stronger, less restrained, but also wilder... +This is where all the misfortunes of being a Doll begin.
 M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:... +What on earth...do you mean?
+
