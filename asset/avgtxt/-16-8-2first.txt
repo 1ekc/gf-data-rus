@@ -18,28 +18,29 @@ AK12()<Speaker>AK-12</Speaker>||:Около 10 минут? +Я полагаю, �
 AR15()<Speaker>ST AR-15</Speaker>||<SE2>AVG_Rain2</SE2>:...Но это эффективно. +Допустим, все будет так, как ты предсказываешь. У тебя есть способ справиться с ними, верно?
 AK12()<Speaker>AK-12</Speaker>||:А что, если я скажу... нет?
 AR15()<Speaker>ST AR-15</Speaker>||:Тогда ты умрёшь здесь очень унизительной смертью. +И я знаю, что хотя тебе не особо мешает сама смерть, тебе не нравится быть униженной. +Так что давай договоримся, пока они не пробили укрытие позади нас.
-AK12()<Speaker>AK-12</Speaker>||<SE1>AVG_Rain2</SE1>:Ah... +Ange told me you were old-fashioned and stubborn, so I was prepared to go on an op with a Dummy. +But you make the most interesting faces. I'm curious about you all over again, AR-15.
-AR15()<Speaker>ST AR-15</Speaker>||:That doesn't sound good...So, what do you plan to do?
-AK12()<Speaker>AK-12</Speaker>||:The Sangvis units chasing us are already gathered here. So we'll wipe them all out in one shot.
-AR15()<Speaker>ST AR-15</Speaker>||<SE2>AVG_Rain2</SE2>:With just the two of us?
-AK12()<Speaker>AK-12</Speaker>||:I'd be enough by myself, but I wouldn't mind you firing from the side to add to the fun. +AN-94 is more suited for such brutish ways of fighting, so I'd rather borrow some of the military units.
-M4A1()<Speaker>M4A1</Speaker>||:You're going to...force a connection? +But...the strain on your neural cloud...
-AK12()<Speaker>AK-12</Speaker>||:Don't judge me by your standards, Miss M4A1. +Hmm... While these military units would be punched through soon if we kept using them as cover, they'd be enough to deal with those Sangvis forces once I can get them moving.
-()||<黑屏1>:...Click, click— +...Beep, beep, beep. + ...Whirrr—!
-军方人形()<Speaker>Military unit</Speaker>||<黑屏2><BIN>9</BIN>:...Authentication complete. Awaiting orders.
-M4A1()<Speaker>M4A1</Speaker>||:How did you do that...? That was incredibly quick.
-AK12()<Speaker>AK-12</Speaker>||<SE1>AVG_Rain2</SE1>:Dear me, I'm not some random civilian Doll haphazardly modified with an Imprint. +Being praised for something so obvious kinda bothers me.
-AR15()<Speaker>ST AR-15</Speaker>||:Then couldn't you have done this earlier?! Or did you want to watch me run myself into the ground?!
-AK12()<Speaker>AK-12</Speaker>||<黑屏1>:Forcing a connection is really tiring, you know? Besides, we hadn't gotten into the middle of these hunks of junk back then. +Still, now that it's done, I'll sweep away these Sangvis forces to buy us some time and use the rest to make up for screwing up on M4.
-M4A1()<Speaker>M4A1</Speaker>||<SE2>AVG_Rain2</SE2><黑屏2><BIN>118</BIN>:Eh?
-AR15()<Speaker>ST AR-15</Speaker>||:Make up?
-AK12()<Speaker>AK-12</Speaker>||:Oh yes, making up. Just like I did with you.
-AR15()<Speaker>ST AR-15</Speaker>||:You mean...you've got Level II debugging equipment with you?
-AK12()<Speaker>AK-12</Speaker>||<SE1>AVG_Rain2</SE1>:Well, I AM an electronic warfare specialist. Obviously I'd have that stuff inside me. +If there's enough time, then we should get started once we fall back to a safe zone.
-M4A1()<Speaker>M4A1</Speaker>||:What...what are you talking about?
-AR15()<Speaker>ST AR-15</Speaker>||:Don't you want to run on your own two legs? It's time to repair you. +And add a few things while we're at it...
-M4A1()<Speaker>M4A1</Speaker>||:Add? Add what?
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:You'll become...like me.
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏2><BIN>9</BIN>:Stronger, less restrained, but also wilder... +This is where all the misfortunes of being a Doll begin.
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:... +What on earth...do you mean?
+AK12()<Speaker>AK-12</Speaker>||<SE1>AVG_Rain2</SE1>:Ах... +Анже сказала мне, что ты старомодна и упряма, поэтому я была готова отправиться на операцию с Болванкой. +Но у тебя бывают такие интересные выражения лица. Я снова заинтересовалась тобой, AR-15.
+AR15()<Speaker>ST AR-15</Speaker>||:Это звучит не очень-то приятно... И что ты собираешься делать?
+AK12()<Speaker>AK-12</Speaker>||:Преследующие нас отряды Сангвис уже собрались здесь. Так что мы уничтожим их всех одним ударом.
+AR15()<Speaker>ST AR-15</Speaker>||<SE2>AVG_Rain2</SE2>:Только вдвоём?
+AK12()<Speaker>AK-12</Speaker>||:Меня одной было бы достаточно, но я не против, если ты будешь вести огонь сбоку, чтобы было веселее. +AN-94 больше подходит для таких брутальных способов ведения боя, поэтому я бы предпочла одолжить несколько боевых единиц.
+M4A1()<Speaker>M4A1</Speaker>||:Ты собираешься... принудительно установить связь? +Но... нагрузка на твоё нейронное облако...
+AK12()<Speaker>AK-12</Speaker>||:Не оценивай меня по своим стандартам, мисс M4A1. +Хм... Хотя эти боевые единицы скоро будут разбиты, если мы будем продолжать использовать их в качестве прикрытия, однако, чтобы справиться с силами Сангвиса, их будет достаточно, когда я смогу заставить их двигаться.
+()||<黑屏1>:...Клик, клик... +... Пип, пип, пип. + ... Вирррр!
+军方人形()<Speaker>Military unit</Speaker>||<黑屏2><BIN>9</BIN>:...Аутентификация завершена. Ожидание приказов.
+M4A1()<Speaker>M4A1</Speaker>||:Как ты это делаешь...? Это было невероятно быстро.
+AK12()<Speaker>AK-12</Speaker>||<SE1>AVG_Rain2</SE1>:Дорогая моя, я не какая-то случайная гражданская Кукла, случайно модифицированная с помощью Импринта. +Меня немного беспокоит, когда меня хвалят за что-то столь очевидное.
+AR15()<Speaker>ST AR-15</Speaker>||:Тогда почему ты не сделала это раньше?! Или ты хотела посмотреть, как я себя загоняю до изнеможения?!
+AK12()<Speaker>AK-12</Speaker>||<黑屏1>:Принудительное подключение — это очень утомительно, знаешь ли. К тому же, тогда мы ещё не попали в гущу этого хлама. +Но теперь, когда всё уже сделано, я уничтожу эти силы Сангвиса, чтобы выиграть время, а остаток использую, чтобы исправить ошибку у M4.
+M4A1()<Speaker>M4A1</Speaker>||<SE2>AVG_Rain2</SE2><黑屏2><BIN>118</BIN>:Э?
+AR15()<Speaker>ST AR-15</Speaker>||:Исправить?
+AK12()<Speaker>AK-12</Speaker>||:О да, исправить. Так же, как я сделала с тобой.
+AR15()<Speaker>ST AR-15</Speaker>||:Ты хочешь сказать... у тебя с собой есть оборудование для отладки II уровня?
+AK12()<Speaker>AK-12</Speaker>||<SE1>AVG_Rain2</SE1>:Ну, я же специалист по радиоэлектронной борьбе. Конечно, у меня есть всё необходимое. +Если будет достаточно времени, то мы должны приступим, как только окажемся в безопасной зоне.
+M4A1()<Speaker>M4A1</Speaker>||:О чём... о чём ты говоришь?
+AR15()<Speaker>ST AR-15</Speaker>||:Разве ты не хочешь передвигаться на своих ногах? Пришло время тебя починить. +И заодно добавить кое-что...
+M4A1()<Speaker>M4A1</Speaker>||:Добавить? Что добавить?
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:Ты станешь... как я.
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏2><BIN>9</BIN>:Сильнее, менее сдержанная, но и более дикая... +Именно здесь начинаются все несчастья, связанные с тем, что ты Кукла.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:... +Что, чёрт возьми... ты имеешь в виду?
+
 
