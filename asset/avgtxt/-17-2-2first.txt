@@ -1,19 +1,19 @@
-()||<BIN>22</BIN><黑屏2><BGM>BGM_Brain</BGM>:...Meanwhile, in 16Lab HQ. +...Persica is going though the video files that Squad 404 recovered.
-NPC-Persica(3)<Speaker>Persica</Speaker>||<BIN>22</BIN>:...Found it. +This is the video, I'm sure of it. +This is the final security footage of Sangvis Ferri's research lab. +And also...the very last video of Lyco while he was still alive...
+()||<BIN>22</BIN><黑屏2><BGM>BGM_Brain</BGM>:...Тем временем в штаб-квартире 16Lab. +...Персика просматривает видеозаписи, которые нашла команда 404.
+NPC-Persica(3)<Speaker>Персика</Speaker>||<BIN>22</BIN>:...Нашла. +Это то самое видео, я уверена. +Это последние записи с камер наблюдения из исследовательской лаборатории Сангвис Ферри. +А ещё... это самое последнее видео с Лико, когда он был ещё жив...
 ()||<BIN>22</BIN>:... + ......
-NPC-Persica(3)<Speaker>Persica</Speaker>||<黑屏1><BIN>22</BIN>:Lyco...was already shot and killed by then... +It's the same as the information I obtained earlier... +...There are no new leads at all.
-NPC-Lyco(0)<Speaker>Persica</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Lyco, is this really all that you're willing to tell me... +I don't believe that the present situation is what you wanted... +Your ideals, your wishes... +And also, Elisa...
-帕斯卡()<Speaker>Persica</Speaker>||<BIN>22</BIN><黑屏2>:Wait a minute...
-()||<BIN>22</BIN>:Persica notices a document in the corner.
-NPC-Persica(1)<Speaker>Persica</Speaker>||<BIN>22</BIN>:That document... +It wasn't mentioned in the report!
-()||<BIN>22</BIN>:... +...Persica runs a video reconstruction program. +...The document is a report, and its title is clearly stated on its cover.
-NPC-Persica(3)<Speaker>Persica</Speaker>||<BIN>22</BIN>:"Development Journal - System B", A Feasibility Assessment on the Reactivation of the OGAS System...
-NPC-Persica(3)<Speaker></Speaker>||<BIN>22</BIN>:...Persica takes a deep breath.
-()||<BIN>22</BIN>:...Click. +...Request received for encrypted communication.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||<BIN>22</BIN>:Good evening, Persica. I'm guessing you just woke up.
-NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Havel(0)||<BIN>22</BIN>:I haven't slept for a day, Mr. Havier.
-NPC-Persica(0);NPC-Havel(0)<Speaker>Havier</Speaker>||<BIN>22</BIN>:Then it would seem I called at just the right time.
-NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Havel(0)||<BIN>22</BIN>:... +Yes, I just so happen to have a question for you.
-NPC-Persica(0);NPC-Havel(0)<Speaker>Havier</Speaker>||<BIN>22</BIN>:That's why I called. +I want to tell you a few things.
-NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Havel(0)||<BIN>22</BIN>:About the Butterfly Incident...and the truth about OGAS?
-NPC-Havel(0)<Speaker>Havier</Speaker>||<BIN>22</BIN><BGM>BGM_Empty</BGM><黑屏1>:I came to warn you... +Don't dig any deeper into the truth or whatever it is you're looking for.
+NPC-Persica(3)<Speaker>Персика</Speaker>||<黑屏1><BIN>22</BIN>:Лико... к тому времени уже был застрелен... +Это то же самое, что я узнала раньше... +...Никаких новых зацепок нет.
+NPC-Lyco(0)<Speaker>Персика</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:Лико, это действительно всё, что ты готов мне рассказать... +Я не верю, что нынешняя ситуация — это то, чего ты хотел... +Твои идеалы, твои желания... +И ещё, Элиза...
+帕斯卡()<Speaker>Персика</Speaker>||<BIN>22</BIN><黑屏2>:Подожди минутку...
+()||<BIN>22</BIN>:Персика заметила документ в углу.
+NPC-Persica(1)<Speaker>Персика</Speaker>||<BIN>22</BIN>:Этот документ... +В отчёте об этом не говорилось!
+()||<BIN>22</BIN>:... +...Персика запускает программу для восстановления видео. +...Этот документ — отчёт, и его название ясно написано на обложке.
+NPC-Persica(3)<Speaker>Персика</Speaker>||<BIN>22</BIN>:«Журнал разработки — Система B», оценка возможности возобновления работы системы OGAS...
+NPC-Persica(3)<Speaker></Speaker>||<BIN>22</BIN>:...Персика глубоко вздыхает.
+()||<BIN>22</BIN>:...Клик. +...Запрос на шифрованную связь получен.
+NPC-Havel(0)<Speaker>Хавьер</Speaker><通讯框>||<BIN>22</BIN>:Привет, Персика. Думаю, ты только что проснулась.
+NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Havel(0)||<BIN>22</BIN>:Я не спала целые сутки, мистер Хавьер.
+NPC-Persica(0);NPC-Havel(0)<Speaker>Хавьер</Speaker>||<BIN>22</BIN>:Тогда, похоже, я позвонил как раз вовремя.
+NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Havel(0)||<BIN>22</BIN>:... +Да, у меня как раз есть к вам вопрос.
+NPC-Persica(0);NPC-Havel(0)<Speaker>Хавьер</Speaker>||<BIN>22</BIN>:Вот почему я позвонил. +Я хочу рассказать тебе кое-что.
+NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Havel(0)||<BIN>22</BIN>:Про инцидент с бабочкой... и правду про OGAS?
+NPC-Havel(0)<Speaker>Хавьер</Speaker>||<BIN>22</BIN><BGM>BGM_Empty</BGM><黑屏1>:Я пришел тебя предупредить... +Не копай глубже в поисках правды или чего-то ещё.
