@@ -1,51 +1,52 @@
-()||<BIN>88</BIN><BGM>BGM_Room</BGM><黑屏2>:...After the battle, inside the safe house.
-AK12(0)<Speaker>AK-12</Speaker>||:I can't believe your neural cloud is in such a mess from just a simple disconnection... +It's too fragile, even for an older Doll model...
-AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:I'm sorry, but will fixing it take a long time?
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:It'll be fine once I run a few repair programs on the equipment. +Since we have time, I should probably perform an upgrade on you with the gear we have on hand.
-AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:An upgrade? Is that necessary? +A repair will be enough. If you randomly poke around with an upgrade...
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:This is an order, so be obedient. +Lie down and be still. You have a lot of unused ports, so it won't take long.
-AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:Alright...thank you, Miss AK-12.
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Calling me "Miss" sounds so stiff. Try "Big Sis AK12".
-AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:Big...Big Sis?
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Nah, it doesn't sound cute at all. Forget it... +Objectively speaking, it's never bad to have more helpers. I won't have to keep listening to AR-15 complain if I have a more reliable Doll to help on ops...
-AR15Mod(2)<Speaker>ST AR-15</Speaker>;M4A1(0)||:And whose fault is it that I'm complaining...
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Hmm, you've...got a surprising amount of spare capacity in your neural cloud. +I take back what I said earlier about you being a civilian Doll haphazardly modified with an Imprint. After all, a lot of the parts you're using are Military-spec.
-AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:Is...is that so...
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:No wonder Ange has her eye on you. +Now keep still. I'm gonna help you use up all that idle capacity of yours. Just leave everything to me and use this time to have a nice little heart-to-heart with AR-15. I don't mind if you talk about private stuff.
-AR15Mod(2)<Speaker>ST AR-15</Speaker>;M4A1(0)||:"I don't mind" my butt...More like "I'm dying to listen in on private stuff."
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:I never said that~
+()||<BIN>88</BIN><BGM>BGM_Room</BGM><黑屏2>:...После сражения, внутри убежища.
+AK12(0)<Speaker>AK-12</Speaker>||:Не могу поверить, что твоё нейронное облако в таком беспорядке из-за простого отключения... +Оно слишком хрупкое, даже для старой модели Куклы...
+AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:Извини, но починить это займёт много времени?
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Всё будет нормально, как только я запущу пару программ для ремонта. +Поскольку у нас есть время, я, наверное, должна обновить твоё оборудование с помощью того, что у нас есть под рукой.
+AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:Обновление? Это нужно? +Достаточно будет простого ремонта. Если ты начнешь бездумно возиться с обновлением...
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Это приказ, так что слушайся. +Ложись и не дергайся. У тебя много незадействованных портов, так что это не займет много времени.
+AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:Хорошо... спасибо, Мисс AK-12.
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Называть меня « Мисс» звучит слишком чопорно. Попробуй « Старшая сестра AK12».
+AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:Старшая... Старшая сестренка?
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Не, это звучит совсем не мило. Забудь об этом... +Если честно, то больше помощников — это всегда здорово. Мне не придется больше слушать жалобы AR-15, если у меня будет более надежная Кукла, которая будет помогать в операциях...
+AR15Mod(2)<Speaker>ST AR-15</Speaker>;M4A1(0)||:А чья вина, что я жалуюсь...
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Хм, у тебя... удивительно много свободных ресурсов в нейронном облаке.+Беру назад свои слова о том, что ты — гражданская Кукла, случайно модифицированная с помощью Импринта. В конце концов, многие детали, которые ты используешь, соответствуют военным стандартам.
+AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:Это... это так...
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Неудивительно, что Анже на тебя положила глаз. +Теперь не шевелись. Я помогу тебе использовать всю твою нереализованную потенциальную способность.+Просто доверься мне и используй это время, чтобы поговорить по душам с AR-15. Я не против, если ты будешь говорить о личных вещах.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>;M4A1(0)||:«Мне всё равно»... Скорее «Я очень хочу подслушать личные разговоры».
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Я никогда не говорила так~
 AK12(0);M4A1(0)||:
-()||:...AK-12 begins the upgrading work with clicks and clacks.
+()||:...AK-12 начинает модернизацию с щелчками и стуком.
 AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:... + ...AR-15.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1(0)||:...
-AR15Mod(0);M4A1(0)<Speaker>M4A1</Speaker>||:Apart from us...and RO and SOP-II... +...How are...the Commander...and the other Dolls doing now?
+AR15Mod(0);M4A1(0)<Speaker>M4A1</Speaker>||:Кроме нас... и RO и SOP-II... +... Как там... Командир... и другие Куклы сейчас?
 AR15Mod(3);M4A1(0)||:
-()||:AR-15 hesitates for a moment.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1(0)||:It's none of our business... +They should have withdrawn, according to what AK-12 said the last time she mentioned them.
-AR15Mod(0);M4A1(0)<Speaker>M4A1</Speaker>||:Have they withdrawn safely?
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:How shall I put it...? Given the situation, they probably would have taken heavy losses. +Even from an optimistic guess...
-AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:As I thought... +Those Sangvis scum! +It's all Mastermind's fault...She tricked me...and because of her, everyone's... +I won't forgive them for this! I will never forgive them!!
+()||:AR-15 на мгновение задумывается.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1(0)||:Это не наше дело... +Они должны были уйти, судя по тому, что сказала AK-12 в последний раз, когда упоминала о них.
+AR15Mod(0);M4A1(0)<Speaker>M4A1</Speaker>||:Они благополучно ушли?
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Как бы это сказать...? Учитывая ситуацию, они, наверное, должны были понести большие потери. Даже если смотреть на это с оптимизмом...
+AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:Как я и предполагала...+Эти мрази из Сангвиса! Это всё вина Владыки... Она меня обманула... Из-за неё все...+Я им этого не прощу! Никогда не прощу!!
 AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:...
 AK12(0);M4A1(0)||:
-()||:...AK-12 glances over to AR-15, who sighs.
-AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4A1... +I'm going to tell you the truth, but you have to stay calm.
-AR15Mod(3);M4A1(0)<Speaker>M4A1</Speaker>||:What?
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1(0)||:The culprit behind Griffin's defeat in this operation is not Sangvis Ferri, but the Military. +From the start...it has always been a military conspiracy.
-AR15Mod(4);M4A1(0)<Speaker>M4A1</Speaker>||:What...are you saying? +But we were clearly...
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1(0)||:I know you're very confused, M4A1, but this is the truth. +SOP-II...and RO... It was the work of the Military.
-AR15Mod(4);M4A1(0)<Speaker>M4A1</Speaker>||:The Military... +No, I don't get it...Why... +Wasn't the Military behind the entire operation...? Shouldn't they be...against Sangvis Ferri...? +Why...did they...do that to RO...? Just who exactly did it? Was it really someone from the Military?!
-AK12(2)<Speaker>AK-12</Speaker>;M4A1(0)||:A squad of humans from the Military killed them. That much is obvious from the bullet holes and the debris they left behind. +Of course, they'll cover it up by saying they were "getting rid of out-of-control Dolls".
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4A1, do you know a Captain Yegor?
+()||:...АК-12 смотрит на AR-15, которая вздыхает.
+AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4A1... +Я расскажу тебе правду, но ты должна сохранять спокойствие.
+AR15Mod(3);M4A1(0)<Speaker>M4A1</Speaker>||:Что? Какую?
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1(0)||:Виновником поражения Грифона в этой операции является не Сангвис Ферри, а Военные. С самого начала... это был заговор Военных.
+AR15Mod(4);M4A1(0)<Speaker>M4A1</Speaker>||:Что... ты имеешь в виду? Но мы же явно...
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1(0)||:Я знаю, что ты очень озадачена, M4A1, но это правда. +SOP-II... и RO... Это была работа Военных.
+AR15Mod(4);M4A1(0)<Speaker>M4A1</Speaker>||:Военные... +Нет, я не понимаю... Почему... +Разве не Военные стояли за всей этой операцией...? Разве не они должны быть... против Сангвис Ферри...? +Почему... они... так поступили с RO...? Кто именно это сделал? Это действительно был кто-то из Военных?!
+AK12(2)<Speaker>AK-12</Speaker>;M4A1(0)||:Их прикончили военные. Это видно по пулевым отверстиям и мусору, который они оставили. Конечно, они скажут, что просто «избавлялись от неуправляемых Кукол», чтобы всё замять.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4A1, ты знаешь капитана Егора?
 AR15Mod(0);M4A1(0)<Speaker>M4A1</Speaker>||:...
 AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1(0)||:
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1(0)||:He's the mastermind and culprit behind the attack on all of you. +I believe he personally shot RO635.
-AR15Mod(4);M4A1(0)<Speaker>M4A1</Speaker>||:Yegor? No, how could this be...Isn't he...
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4A1, Yegor is the one who set up the AR Team. That much is certain.
-AR15Mod(4);M4A1(0)<Speaker>M4A1</Speaker>||:... +Yegor's the murderer...
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Are you afraid? The target of your revenge is an enemy that's much, much scarier than Sangvis Ferri.
-AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:... +If that's really true... +Then it doesn't matter who they are. Whether they're Dolls...or humans... +I will kill them with my own two hands. I swear it.
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Oh my, this isn't a declaration that a normal Doll would make. +Anyway, the upgrade's almost complete. Don't go running off after it's done. Listen to AR-15's orders, okay?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4A1, our mission is to determine the motive behind this military operation. +Join us once everything is ready. You'll get your answers.
-AR15Mod(0);M4A1(0)<Speaker>M4A1</Speaker>||:Join your team?
-AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:We're called DEFY. Do you like the name?
-AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:I'm in, as long as I can avenge RO635 and SOP-II. +I will obey orders from you and Ange until I achieve my objective.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1(0)||:Он Владыка и виновник нападения на вас всех. Думаю, он сам застрелил RO635.
+AR15Mod(4);M4A1(0)<Speaker>M4A1</Speaker>||:Егор? Нет, как это может быть... Разве он не...
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4A1, Егор — это тот, кто основал Команду AR. Это точно.
+AR15Mod(4);M4A1(0)<Speaker>M4A1</Speaker>||:... +Егор - убийца...
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Ты боишься? Твой враг, которому ты хочешь отомстить, гораздо страшнее, чем Сангвис Ферри.
+AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||:... +Если это правда... +Тогда неважно, кто они. Куклы ли они... или люди... +Я убью их своими руками. Клянусь.
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Ой, это не то, что обычно должна говорить Кукла. +В любом случае, обновление почти готово. Не убегай, когда оно закончится. Слушайся AR-15, ладно?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1(0)||:M4A1, наша задача — выяснить, зачем нужна была эта военная операция. +Присоединяйся к нам, когда всё будет сделано. Ты узнаешь ответы на свои вопросы.
+AR15Mod(0);M4A1(0)<Speaker>M4A1</Speaker>||:Присоединиться к вашей команде?
+AK12(0)<Speaker>AK-12</Speaker>;M4A1(0)||:Мы называемся DEFY. Тебе нравится это название?
+AK12(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:Я в деле, если смогу отомстить за RO635 и SOP-II. +Я буду следовать твоим и Анже приказам, пока не достигну своей цели.
+
