@@ -1,4 +1,5 @@
 ()||<BIN>10</BIN>:...
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Made it in the last minute...! +The train is setting off...! +I must find Mastermind before we reach the destination... Where is she?!
-军方人形()<Speaker>Military Doll</Speaker>||:...Click. +Target identified. Hostile unit. Activating active defense protocol.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:More defense forces?!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Успели в последнюю минуту...! +Поезд отправляется...! +Я должна найти Владыку, пока мы не доехали до места... Где она?!
+军方人形()<Speaker>Военная Кукла </Speaker>||:...Клик. +Цель определена. Вражеская единица. Запускаю активный протокол защиты.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:Ещё больше оборонных соединений?!
+
