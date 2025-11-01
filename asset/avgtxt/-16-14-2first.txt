@@ -1,24 +1,25 @@
-()||<BIN>119</BIN><BGM>BGM_Truth</BGM>:Griffin HQ, inside Kryuger's office.
-赫丽安()<Speaker>Helian</Speaker>||:...And that is everything we know about what's happening in Area S09. +The Military's actual main force has found an excuse to enter the region. +They are also declaring that this is a terrorist incident caused by a PMC going rogue, and the regular army is going to take over the administration of this entire region very soon.
-克鲁格()<Speaker>Kryuger</Speaker>||:...I knew it. +The first thing I considered was that the Military would use us as shields, then discard us to achieve their aims.
-赫丽安()<Speaker>Helian</Speaker>||:But in the end, they flat-out threw Griffin under the bus. Now they're trying to push us into a corner.
-克鲁格()<Speaker>Kryuger</Speaker>||:Carter's plan was more outrageous than I'd imagined.
-()||:...A nearby TV is reporting a major incident that occurred during a joint training exercise between the Military and a PMC. +General Carter is giving a statement on behalf of the Military.
-卡特()<Speaker>Carter</Speaker>||:Regarding the accident which occurred during this training exercise, there is no need for anyone to worry. +Our forces have activated our emergency response plan and the situation is currently under control. +Please be at ease. The Military has a firm grasp of the situation, and we will conduct a legal investigation to determine the parties responsible for this incident...
-()||:...Kryuger turns off the TV.
-克鲁格()<Speaker>Kryuger</Speaker>||:Helian, issue the evacuation orders as planned, then take everyone and go.
-赫丽安()<Speaker>Helian</Speaker>||:Mr. Kryuger, are you sure...you want to stay here?
-克鲁格()<Speaker>Kryuger</Speaker>||:They only need one scapegoat to help them finish acting out this farce. +Given the chaos on the battlefield, they cannot and need not shut down all of Griffin's frontline bases. +Griffin will not vanish as long as those commanders and T-Dolls are still around. +And those commanders will need someone to help them. Helian, I trust you know what I'm talking about.
-赫丽安()<Speaker>Helian</Speaker>||:I...
-赫丽安()<Speaker>Helian</Speaker>||:I'm sure you will be safe.
-克鲁格()<Speaker>Kryuger</Speaker>||:Do I look like a man who'll let himself be taken without a fight?
-赫丽安()<Speaker>Helian</Speaker>||<黑屏1>:Then take care, Mr. Kryuger. +I will lead everyone while we await your return.
-()||<BIN>120</BIN><黑屏2>:...Helian bows and leaves the office.
-克鲁格()<Speaker>Kryuger</Speaker>||:... +Now then...
-()||:...Kryuger makes a personal call.
-克鲁格()<Speaker>Kryuger</Speaker>||<黑屏1>:Havier, it's me. +I'd like to tell you something while we're still alive...
-()||<BIN>99</BIN><黑屏2><Night><BGM>BGM_Empty</BGM>:...At the same time, while withdrawing to Area S11. +...The Commander has just achieved victory.
-NPC-Kalin(1)<Speaker>Kalin</Speaker>||<BGM>BGM_War</BGM><BIN>99</BIN><Night>:We did it! Commander, your tactics were effective, and we finally beat those military units! +Now this route is safe, and everybody will be able to...
-()||<BIN>99</BIN><Night>:...Click.
-NPC-Kalin(2)<Speaker>Kalin</Speaker>||<Night><BIN>99</BIN>:Yes...alright... +Commander, there's information here which indicates that other Griffin T-Dolls besides ourselves are withdrawing too... +In relation to our current location, they're still behind us! +...Eh? You want us to escort them out of the contaminated zone?
-NPC-Kalin(0)<Speaker>Kalin</Speaker>||<BIN>99</BIN><Night><黑屏1>:Understood! Everyone will be a bit upset about getting home late, but we've got to do this! +Heheh, besides, not doing so just isn't our style. Let's hold this place and protect everyone!
+()||<BIN>119</BIN><BGM>BGM_Truth</BGM>:Штаб-квартира Грифона, внутри офиса Крюгера.
+赫丽安()<Speaker>Хелиан</Speaker>||:...И это всё, что мы знаем о том, что происходит в зоне S09. +Военные наконец-то нашли повод, чтобы войти в этот регион. +Они также говорят, что это террористический инцидент, вызванный действиями ЧВК, и что регулярная армия скоро возьмёт под свой контроль весь регион.
+克鲁格()<Speaker>Крюгер</Speaker>||:...Я так и знал. +Первое, что пришло мне в голову, было то, что военные будут использовать нас как прикрытие, а потом бросят, чтобы достичь своих целей.
+赫丽安()<Speaker>Хелиан</Speaker>||:Но в итоге они просто бросили Грифон под автобус. Теперь они пытаются загнать нас в угол.
+克鲁格()<Speaker>Крюгер</Speaker>||:План Картера оказался еще более возмутительным, чем я думал.
+()||:...По телевизору говорят о серьезном инциденте, который случился во время совместных учений военных и ЧВК. +Генерал Картер делает заявление от имени военных.
+卡特()<Speaker>Картер</Speaker>||:Что касается аварии, которая случилась во время учений, никому не стоит волноваться. +Наши силы запустили план экстренного реагирования, и сейчас всё под контролем. +Будьте спокойны. Военные всё держат под контролем, и мы проведем расследование, чтобы выяснить, кто виноват в этом инциденте...
+()||:...Крюгер выключает телевизор.
+克鲁格()<Speaker>Крюгер</Speaker>||:Хелиан, отдай приказ об эвакуации, как запланировано, а затем забери всех и уходи.
+赫丽安()<Speaker>Хелиан</Speaker>||:Мистер Крюгер, вы уверены, что хотите остаться здесь?
+克鲁格()<Speaker>Крюгер</Speaker>||:Им нужен только один козёл отпущения, чтобы довести этот фарс до конца. +Учитывая хаос на поле боя, они не могут и не должны закрывать все передовые базы Грифона. +Грифон не исчезнет, пока Командиры и Т-Куклы остаются на месте. +И этим Командирам нужен кто-то, кто им поможет. Хелиан, я уверен, ты понимаешь, о чём я.
+赫丽安()<Speaker>Хелиан</Speaker>||:Я...
+赫丽安()<Speaker>Хелиан</Speaker>||:Уверена, что вы будете в безопасности.
+克鲁格()<Speaker>Крюгер</Speaker>||:Я что, похож на того, кто позволит себя взять без борьбы?
+赫丽安()<Speaker>Хелиан</Speaker>||<黑屏1>:Тогда берегите себя, мистер Крюгер. Я буду руководить всеми, пока мы ждем вашего возвращения.
+()||<BIN>120</BIN><黑屏2>:...Хелиан поклонилась и вышла из кабинета.
+克鲁格()<Speaker>Крюгер</Speaker>||:... +Итак...
+()||:...Крюгер делает личный звонок.
+克鲁格()<Speaker>Крюгер</Speaker>||<黑屏1>:Хавьер, это я. +Хочу тебе кое-что сказать, пока мы еще живы...
+()||<BIN>99</BIN><黑屏2><Night><BGM>BGM_Empty</BGM>:...В то же время, отступая в зону S11. +...Командир только что одержал победу.
+NPC-Kalin(1)<Speaker>Калин</Speaker>||<BGM>BGM_War</BGM><BIN>99</BIN><Night>:Мы сделали это! Командир, твоя тактика сработала, и мы наконец-то победили эти боевые единицы! +Теперь этот маршрут безопасен, и все смогут...
+()||<BIN>99</BIN><Night>:...Клик.
+NPC-Kalin(2)<Speaker>Калин</Speaker>||<Night><BIN>99</BIN>:Да... ладно... +Командир, есть информация, что другие Т-Куклы Грифона, кроме нас, тоже уходят... +Относительно нынешнего местоположения, они всё ещё позади нас! +...Э? Ты хочешь, чтобы мы сопроводили их из зоны заражения?
+NPC-Kalin(0)<Speaker>Калин</Speaker>||<BIN>99</BIN><Night><黑屏1>:Понимаю! Все будут немного расстроены из-за того, что поздно вернутся домой, но мы должны это сделать! +Хе-хе, к тому же, не делать этого просто не в нашем стиле. Давайте удержим это место и защитим всех!
+
