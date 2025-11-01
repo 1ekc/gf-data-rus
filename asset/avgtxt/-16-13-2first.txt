@@ -1,24 +1,25 @@
-()||<BIN>8</BIN>:At Griffin HQ.
-()||<BIN>8</BIN><BGM>BGM_Sneak</BGM>:...Pssst...pssst...
-NPC-Helian(0)<Speaker>Helian</Speaker>||<BIN>8</BIN>:Isn't there any way to contact any of the commanders? +What about the Military? Any response from them yet?
-NPC-Helian(0)<Speaker>Comms Officer A</Speaker>||<BIN>8</BIN>:Ma'am, we still haven't been able to establish communications with General Carter. +The engineers have already eliminated the possibility of Parapluie interference. Right now they're checking the pathway to see if it was damaged by Sangvis Ferri.
-NPC-Helian(0)<Speaker>Helian</Speaker>||<BIN>8</BIN>:...Understood. Keep trying until you get through.
-NPC-Helian(0)<Speaker>Comms Officer B</Speaker>||<BIN>8</BIN>:Ma'am, a Griffin T-Doll beyond Parapluie's coverage radius is trying to open comms with us. +We've authenticated her identity and she's not infected. Shall we allow the connection?
-NPC-Helian(0)<Speaker>Helian</Speaker>||<BIN>8</BIN>:(Could she be a messenger from one of the commanders?) +Permission granted.
-()||<BIN>8</BIN>:...Click.
-MP7(0)<Speaker>Gr MP7</Speaker><通讯框>||<BIN>8</BIN>:This is Gr MP7. "Caretaker of Caretakers", can you hear me?
-MP7(0);NPC-Helian(1)<Speaker>Helian</Speaker>||<BIN>8</BIN>:"Caretaker of Caretakers"...Could that be me?
-MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Helian(1)||<BIN>8</BIN>:I'm a messenger sent by my "Caretaker". I ran all the way out of the jamming radius by myself to make contact with HQ...Hello? Hello?
-MP7(0);NPC-Helian(0)<Speaker>Helian</Speaker>||<BIN>8</BIN>:Go on, Gr MP7. What is the current situation out there?
-MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Helian(0)||<BIN>8</BIN>:It's terrible, but not terminal. Our Caretaker is reorganizing our echelons. +It's been a struggle, but we managed to gather all the Griffin T-Dolls in sight and we're preparing to continue our retreat to Area S11.
-MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Helian(0)||<BIN>8</BIN>:We've been attacked by both Sangvis forces and Parapluie-infected military units. There hasn't been any response to our attempts at communicating with the Military, so I'm guessing they've left us for dead.
-MP7(0);NPC-Helian(1)<Speaker>Helian</Speaker>||<BIN>8</BIN>:Mind your language, Gr MP7. Do not make any statements that cast aspersions on the Military.
-MP7(0);NPC-Helian(0)<Speaker>Helian</Speaker>||<BIN>8</BIN>:Return to your Caretaker with these orders from HQ: the top priority now is to retreat to a safe area, and if conditions permit, you may rescue other Griffin allies, both humans and T-Dolls. +Your Caretaker has discretion over the exact orders to be issued, but they are to stand by for further instructions once the withdrawal to Area S11 is complete.
-MP7(0)<Speaker>MP7</Speaker>;NPC-Helian(0)||<BIN>8</BIN>:Sure, I can do that... +But things being what they are now, is everything okay over there with you and the "Caretaker's Boss"? +The Commander is worried that HQ would suddenly...you won't let me say it, but you know what I mean, right?
-MP7(0);NPC-Helian(0)<Speaker>Helian</Speaker>||<BIN>8</BIN>:HQ is safe, you don't need to worry. Ensure your own survival first. +At the very least we know that you're alive. That's good news. Thank you, Gr MP7. +This conversation is over. Thank you for your hard work. Go back and make your report.
-MP7(0)<Speaker>Gr MP7</Speaker>||<BIN>8</BIN><黑屏1>0.6</黑屏1>:Got it, Caretaker of Caretakers. Good luck to you too.
-()||<BIN>99</BIN><Night><黑屏2>:...Click. +The transmission ends.
-MP7(0)<Speaker>Gr MP7</Speaker>||<BIN>99</BIN><Night>:... +After this, all I need to do is send the info back via drone... +Caretaker said that I didn't have to return to the battlefield once I managed to escape, so...
-MP7(0)<Speaker></Speaker>||<BIN>99</BIN><Night>:...Gr MP7 sighs.
-MP7(0)<Speaker>Gr MP7</Speaker>||<BIN>99</BIN><Night><SE1>Select</SE1>:I can't do it after all. It simply isn't our team's style. +My candy won't taste good if I back out of an operation before I've expended all my ammo! + I'll go help those idiots out some more.
-()||<BIN>99</BIN><Night>:...Gr MP7 charges back into the fray of the combat zone.
+()||<BIN>8</BIN>:В штаб-квартире Грифона.
+()||<BIN>8</BIN><BGM>BGM_Sneak</BGM>:...Пззззт...пззззт...
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||<BIN>8</BIN>:Есть ли возможность связаться с кем-нибудь из командиров? А что насчет военных? От них уже есть какие-нибудь новости?
+NPC-Helian(0)<Speaker>Офицер по связям A</Speaker>||<BIN>8</BIN>:Мэм, мы до сих пор не смогли связаться с генералом Картером. +Инженеры уже исключили возможность помех со стороны Параплюй. Сейчас они проверяют магистраль на предмет повреждений, нанесенных Сангвис Ферри.
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||<BIN>8</BIN>:...Поняла. Продолжай пробовать, пока не получится.
+NPC-Helian(0)<Speaker>Офицер по связям B</Speaker>||<BIN>8</BIN>:Мэм, Т-Кукла Грифона, которая находится за пределами радиуса действия Параплюй, пытается связаться с нами. +Мы проверили ее личность, и она не заражена. Разрешить соединение?
+NPC-Helian(0)<Speaker>Хелиан</Speaker>||<BIN>8</BIN>:(Может, она посланница от одного из командиров?) +Разрешаю.
+()||<BIN>8</BIN>:...Клик.
+MP7(0)<Speaker>Gr MP7</Speaker><通讯框>||<BIN>8</BIN>:Это Gr MP7. «Хранитель хранителей», слышишь меня?
+MP7(0);NPC-Helian(1)<Speaker>Хелиан</Speaker>||<BIN>8</BIN>:«Хранитель хранителей»... Это про меня?
+MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Helian(1)||<BIN>8</BIN>:Я посланник от моего « Хранителя ». Я самостоятельно выскочила из зоны помех, чтобы связаться с штабом... Алло? Алло?
+MP7(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||<BIN>8</BIN>:Продолжай, Gr MP7. Какая сейчас обстановка там?
+MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Helian(0)||<BIN>8</BIN>:Это ужасно, но не смертельно. Наш Хранитель восстанавливает наши отряды. +Было нелегко, но мы собрали всех Кукол Грифона, которых смогли найти, и готовимся продолжить отступление в зону S11.
+MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Helian(0)||<BIN>8</BIN>:На нас напали и войска Сангвис, и зараженные Параплюй боевые единицы. На наши попытки связаться с армией никто не отвечает, так что, наверное, они решили, что мы уже мертвы.
+MP7(0);NPC-Helian(1)<Speaker>Хелиан</Speaker>||<BIN>8</BIN>:Смотри, что говоришь, Gr MP7. Не делай заявлений, которые могут обидеть военных.
+MP7(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||<BIN>8</BIN>:Вернись к своему Хранителю с этими приказами из штаба: сейчас главный приоритет — уйти в безопасное место, и если получится, спасти других союзников Грифона, как людей, так и Т-Кукол.+вой Хранитель сам решает, какие именно приказы отдавать, но они должны ждать дальнейших инструкций, как только отступление в зону S11 будет завершено.
+MP7(0)<Speaker>MP7</Speaker>;NPC-Helian(0)||<BIN>8</BIN>:Конечно, я справлюсь... Но, учитывая текущую ситуацию, у тебя и « Босса Хранителя» всё в порядке? +Командир переживает, что штаб может внезапно... ты не позволяешь мне это сказать, но ты понимаешь, о чём я, да?
+MP7(0);NPC-Helian(0)<Speaker>Хелиан</Speaker>||<BIN>8</BIN>:Штаб в безопасности, не переживай. Сначала позаботься о себе. +По крайней мере, мы знаем, что ты жива. Это уже хорошо. Спасибо, Gr MP7. +На этом закончим. Спасибо за твою работу. Возвращайся и отчитайся.
+MP7(0)<Speaker>Gr MP7</Speaker>||<BIN>8</BIN><黑屏1>0.6</黑屏1>:Поняла, Хранитель Хранителей. Тебе тоже удачи.
+()||<BIN>99</BIN><Night><黑屏2>:...Клик. +Передача закончилась.
+MP7(0)<Speaker>Gr MP7</Speaker>||<BIN>99</BIN><Night>:... +После этого мне останется только отправить информацию обратно с помощью дрона... +Хранитель сказал, что мне не нужно возвращаться на поле боя, как только я смогу сбежать, так что...
+MP7(0)<Speaker></Speaker>||<BIN>99</BIN><Night>:...Gr MP7 вздыхает.
+MP7(0)<Speaker>Gr MP7</Speaker>||<BIN>99</BIN><Night><SE1>Select</SE1>:Я всё-таки не могу этого сделать. Это просто не в стиле нашей команды. +Мои конфеты не будут вкусными, если я откажусь от операции, не израсходовав всю свою амуницию! + Я пойду и ещё немного помогу этим идиотам.
+()||<BIN>99</BIN><Night>:...Gr MP7 снова вступает в бой на поле сражения.
+
