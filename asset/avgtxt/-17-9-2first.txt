@@ -1,54 +1,54 @@
-()||<BIN>34</BIN><BGM>BGM_Empty</BGM>:...On the outskirts of the central server, at the Sangvis command post.
-BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>34</BIN>:Agent, M4A1 has returned. She has already made contact with 404 at the central database.
-BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker><通讯框>||<BIN>34</BIN>:This was not an unexpected move. +Rather, we were waiting for this. Do what you need to do.
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-8(0)||<BIN>34</BIN>:Acknowledged. My forces are spreading out as per the original plan. +However, the strange thing is that M4A1 has left her comrades at the central database and her signal is making a lone breakout.
-BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker>||<BIN>34</BIN>:...Abandoning her friends is abnormal behavior for M4A1.
-BOSS-7(0)<Speaker>Gager</Speaker>;BOSS-8(0)||<BIN>34</BIN>:It might be bait, but it's also an opportunity.
-BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker>||<BIN>34</BIN>:I'll leave it to you. Whether or not it's a trap, I trust your judgment.
-BOSS-7(0);BOSS-8(0)<Speaker>Agent</Speaker>||<黑点1><BIN>34</BIN>:Any trap set by a few civilian Dolls would be a waste of effort. +Mastermind has ordered us to bring M4A1 back. This alone is of the highest priority.
-()||<BIN>7</BIN><Night><BGM>BGM_Boss</BGM><黑点2>:...M4A1 is currently breaking through the Sangvis encirclement by herself.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2><BIN>7</BIN><Night>:It's one after another... +Looks like you don't intend to let me go, even when the Military is about to annihilate you.
-M4A1Mod(0);BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||<BIN>7</BIN><Night>:The Military is only a threat to you, and as it happens, Griffin has also been destroyed. +That makes me curious as to why you would choose to go at it alone, M4A1... +Did you think that doing so would draw my attention? Are you trying to save your other friends in this area?
+()||<BIN>34</BIN><BGM>BGM_Empty</BGM>:...На окраине центрального сервера, в командном пункте Сангвис.
+BOSS-7(0)<Speaker>Гейгер</Speaker>||<BIN>34</BIN>:Агент, M4A1 вернулась. Она уже связалась с 404 в центральной базе данных.
+BOSS-7(0);BOSS-8(0)<Speaker>Агент</Speaker><通讯框>||<BIN>34</BIN>:Это не стало неожиданностью.+Скорее, мы ждали этого. Делай, что нужно.
+BOSS-7(0)<Speaker>Гейгер</Speaker>;BOSS-8(0)||<BIN>34</BIN>:Поняла. Мои люди распределяются по первоначальному плану.+Но вот что странно: M4A1 ушла от своих друзей в центральной базе данных, и её сигнал уходит в сторону.
+BOSS-7(0);BOSS-8(0)<Speaker>Агент</Speaker>||<BIN>34</BIN>:...Бросать своих друзей — это ненормально для M4A1.
+BOSS-7(0)<Speaker>Гейгер</Speaker>;BOSS-8(0)||<BIN>34</BIN>:Это может быть уловка, но это также и шанс.
+BOSS-7(0);BOSS-8(0)<Speaker>Агент</Speaker>||<BIN>34</BIN>:Я доверяю тебе. Ловушка это или нет, я верю твоему решению.
+BOSS-7(0);BOSS-8(0)<Speaker>Агент</Speaker>||<黑点1><BIN>34</BIN>:Любая ловушка, устроенная несколькими гражданскими Куклами, будет пустой тратой сил. +Владыка велел нам вернуть M4A1. Это самое важное.
+()||<BIN>7</BIN><Night><BGM>BGM_Boss</BGM><黑点2>:...M4A1 сейчас одна прорывает окружение Сангвиса.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2><BIN>7</BIN><Night>:Один за другим... +Похоже, ты не собираешься меня отпускать, даже когда Военные вот-вот уничтожат тебя.
+M4A1Mod(0);BOSS-7(0)<Speaker>Гейгер</Speaker><通讯框>||<BIN>7</BIN><Night>:Военные представляют угрозу только для тебя, и, как оказалось, Грифон тоже уничтожен. +Мне интересно, почему ты решила действовать в одиночку, M4A1... +Ты думала, что таким образом привлечешь моё внимание? Ты пытаешься спасти своих друзей в этой области?
 M4A1Mod(0)<Speaker>M4A1</Speaker>;BOSS-7(0)||<BIN>7</BIN><Night>:...
-M4A1Mod(0);BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:It's alright if you keep quiet. Once I remove your arms and legs, all that remains will be your mouth. +At that point, I'll have plenty of time to wait for you to speak.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;BOSS-7(0)||<BIN>7</BIN><Night><黑点1>:... +(Not yet...) +(I haven't reached the designated location yet...) +(I need to keep heading forward... Just a little farther!)
-BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night><黑点2>:Checkmate. +In truth, I did not expect you to pick this corner as the place where you would meet your tragic, pitiful end. +M4A1, I am very glad that we will no longer need to keep harassing each other.
-BOSS-7(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...Oh yes. +There's no need for that anymore. +I'm glad you were willing to accompany me all the way to the end of the line, Gager.
-BOSS-7(0)<Speaker>Gager</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:... +...What are you hiding, M4A1?!
-BOSS-7(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:...Click.
-BOSS-7(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<BIN>7</BIN><Night>:Enjoying your chat with M4, Gager? +Still, while you're enjoying yourself...don't forget your old friends~
-BOSS-7(0)<Speaker>Gager</Speaker>;UMP45(0)||<BIN>7</BIN><Night>:404?! +You're still alive?
-BOSS-7(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:Oh, don't look so surprised. +That's right, to celebrate our reunion, we've prepared some presents for you. +Please, don't be shy and accept them.
-BOSS-7(0)<Speaker>Gager</Speaker>;UMP45(0)||<BIN>7</BIN><Night>:...What?! +The signals of the units behind me have vanished...but how?!
-BOSS-7(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:Do you like it? +Alright, I won't disturb you, then. +Please hold on to that joy and continue your delightful conversation with M4.
-BOSS-7(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:—The transmission ends.
-BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:H...how could this... +The units I left at the database... By those few people from 404...
-BOSS-7(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:What a tiny little being you are...on this battlefield...
-BOSS-7(0)<Speaker>Gager</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:...I understand now. You found a way to fake your friends' signals. +Which means...the situation in the rear...or the fact that you're alone here now...it's all an illusion.
-BOSS-7(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Checkmate, Gager.
-BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:Come off it. Even if you've got other Griffin Dolls hidden behind you, they won't save you from being cut to bits. +Right here! Right now! +Show me how your shoddy toy Dolls can stop me and my forces!
-AK12(0)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:Well, if shoddy toy Dolls can't stop something, why not let the pros handle it?
-()||<BIN>7</BIN><Night>:...Click Click— +...Beep, beep, beep. + ...Whirrrrr—!
-军方人形()<Speaker>Military unit</Speaker>||<BIN>7</BIN><Night>:Authentication complete. Awaiting orders.
-BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:Abandoned military units... +No, it can't be... Something must have...gone wrong somewhere...
-AK12(3)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:Gentlemen, would you kindly... +Kill everything that moves.
-()||<BIN>7</BIN><Night><SE1>Battlefield</SE1><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:The force-connected military units open fire in unison. +A few seconds later, the Sangvis main force pursuing M4 is utterly annihilated.
-BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:(Coughs) Impossible... +I...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:Still resisting, huh... +Now, tell me everything you know!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:There's no need for that, AR-15. +Has Intruder fled? ...Eh, forget it.
-()||<BIN>7</BIN><Night>:... +M4A1 walks in front of Gager.
-BOSS-7(0)<Speaker>Gager</Speaker>||<BIN>7</BIN><Night>:What are you hoping for? +Griffin is no more, and even your Commander is receiving the personal attentions of Agent...
-()||<SE1>MachineGunBurst</SE1><BIN>7</BIN><Night>:...This is followed by the sound of a body hitting the ground.
-()||<BIN>7</BIN><Night>:...M4A1 opens fire and executes Gager.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...Mission complete. +Task Force DEFY, gather and prepare to rendezvous with Squad 404.
+M4A1Mod(0);BOSS-7(0)<Speaker>Гейгер</Speaker>||<BIN>7</BIN><Night>:Можешь молчать, если хочешь - молчи. Как только я отрежу тебе руки и ноги, у тебя останется только рот.+ Тогда у меня будет куча времени, чтобы подождать, пока ты заговоришь.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;BOSS-7(0)||<BIN>7</BIN><Night><黑点1>:... +(Пока рано...) +(Я ещё не добралась до нужного места...) +(Нужно идти дальше... Ещё чуть-чуть!)
+BOSS-7(0)<Speaker>Гейгер</Speaker>||<BIN>7</BIN><Night><黑点2>:Шах и мат. +Честно говоря, я не думала, что ты выберешь этот уголок для своего печального и жалкого конца. +M4A1, я очень рада, что нам больше не придется друг друга преследовать.
+BOSS-7(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...О да. +В этом больше нет нужды. +Я рада, что ты согласилась сопровождать меня до самого конца, Гейгер.
+BOSS-7(0)<Speaker>Гейгер</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:... +...Что ты скрываешь, M4A1?!
+BOSS-7(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:...Клик.
+BOSS-7(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<BIN>7</BIN><Night>:Нравится общаться с M4, Гейджер? +Но пока ты наслаждаешься общением... не забывай про старых друзей~
+BOSS-7(0)<Speaker>Гейгер</Speaker>;UMP45(0)||<BIN>7</BIN><Night>:404?! +Вы ещё живы?
+BOSS-7(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:Ой, не удивляйся так.+Да, чтобы отпраздновать наше воссоединение, мы приготовили для тебя подарки.+Пожалуйста, не стесняйся и прими их.
+BOSS-7(0)<Speaker>Гейгер</Speaker>;UMP45(0)||<BIN>7</BIN><Night>:...Что?! Сигналы от моих отрядов пропали... но как?!
+BOSS-7(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>7</BIN><Night>:Тебе нравится? +Ладно, тогда я не буду тебя отвлекать. +Пожалуйста, сохрани эту радость и продолжай приятную беседу с M4.
+BOSS-7(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:—Пережача завершена.
+BOSS-7(0)<Speaker>Гейгер</Speaker>||<BIN>7</BIN><Night>:К...как это получилось... +Те данные, которые я оставила в базе... Те несколько человек из 404...
+BOSS-7(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Какое же ты крошечное существо... на этом поле боя...
+BOSS-7(0)<Speaker>Гейгер</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:...Теперь я понимаю. Ты нашла способ подделать сигналы своих друзей. +А это значит... что ситуация в тылу... или то, что ты сейчас здесь одна... всё это иллюзия.
+BOSS-7(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Шах и мат, Гейгер.
+BOSS-7(0)<Speaker>Гейгер</Speaker>||<BIN>7</BIN><Night>:Да ладно тебе. Даже если у тебя есть другие Куклы Грифона, спрятанные за спиной, они не спасут тебя от того, чтобы тебя порезали на кусочки.+Прямо здесь! Прямо сейчас! +Покажи мне, как твои дешёвые игрушечные Куклы могут остановить меня и мои отряды!
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:Ну, если дешёвые игрушечные Куклы не могут что-то остановить, почему бы не дать это сделать профессионалам?
+()||<BIN>7</BIN><Night>:...Клик Клик— +...Пи-пи-пи. + ...Вууууууууууур
+军方人形()<Speaker>Боевая единица</Speaker>||<BIN>7</BIN><Night>:Аутентификация пройдена. Жду указаний.
+BOSS-7(0)<Speaker>Гейгер</Speaker>||<BIN>7</BIN><Night>:Заброшенные боевые единицы... +Нет, этого не может быть... Что-то должно было...пойти не так...
+AK12(3)<Speaker>AK-12</Speaker>||<BIN>7</BIN><Night>:Джентльмены, не могли бы вы... +Убить всё, что шевелится.
+()||<BIN>7</BIN><Night><SE1>Battlefield</SE1><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:Боевые единицы, связанные между собой, открывают огонь одновременно. +Через несколько секунд основные силы Сангвиса, преследовавшие M4, полностью уничтожены.
+BOSS-7(0)<Speaker>Гейгер</Speaker>||<BIN>7</BIN><Night>:(Кашель) Невозможно... +Я...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:Всё ещё сопротивляешься, да... +Теперь расскажи мне всё, что знаешь!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:В этом нет необходимости, AR-15. +Нарушительница скрылась? ...Эх, забудь.
+()||<BIN>7</BIN><Night>:... +M4A1 проходит перед Гейгер.
+BOSS-7(0)<Speaker>Гейгер</Speaker>||<BIN>7</BIN><Night>:На что ты надеешься?+Грифона больше нет, и даже твой Командир под прицелом Агента...
+()||<SE1>MachineGunBurst</SE1><BIN>7</BIN><Night>:...Затем слышен звук падения тела на землю.
+()||<BIN>7</BIN><Night>:...M4A1 открывает огонь и убивает Гейгер.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...Миссия выполнена. +Оперативная группа DEFY, собирайтесь и готовьтесь к встрече с Отрядом 404.
 AR15Mod(2)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Truth</BGM><BIN>7</BIN><Night>:...
-()||<BIN>7</BIN><Night>:There was neither satisfaction nor pleasure. +It was not revenge, more like a numb instinct.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night><黑屏1>:... +...Ugh... Not again...
-清澈的声音()<Speaker>Clear voice</Speaker>||<BIN>9</BIN><黑屏2>7</黑屏2>:SOP-II? M16? +...No, they are not what your heart truly desires.
-M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN>: I've said everything I can say to you already.
-清澈的声音()<Speaker>Clear voice</Speaker>||<BIN>9</BIN>:What you want...the only thing you want...is revenge. +You want to make the people who hurt you pay. +Finding your friends is nothing more than an excuse. +This is good... You're become more and more like your original self.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>9</BIN>:I don't care what I used to be, but as I am now, I have no more pity for you lot.
-清澈的声音()<Speaker>Clear voice</Speaker>||<BIN>9</BIN>:I have reconsidered your terms. +... + I hope this will now convince you to reconnect with her.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1><BIN>9</BIN>:Humph... +That's more like it.
-()||<BIN>7</BIN><Night><黑屏2>:...M4A1 sneers coldly.
-AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1><BIN>7</BIN><Night>:... +M4A1... What on earth...
+()||<BIN>7</BIN><Night>:Не было ни удовлетворения, ни удовольствия+Это была не месть, а скорее простой инстинкт.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night><黑屏1>:... +...Ох... Только не снова...
+清澈的声音()<Speaker>Ясный голос</Speaker>||<BIN>9</BIN><黑屏2>7</黑屏2>:SOP-II? M16? +...Нет, это не то, чего действительно хочет твоё сердце.
+M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN>:Я уже сказал тебе всё, что хотела.
+清澈的声音()<Speaker>Ясный голос</Speaker>||<BIN>9</BIN>:То, что ты хочешь... единственное, чего ты хочешь... это месть.+Ты хочешь, чтобы люди, которые тебя обидели, за это ответили.+Поиски твоих друзей — это всего лишь повод.+Это хорошо... Ты становишься всё больше похожей на себя прежнюю.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>9</BIN>:Мне плевать, кем я была раньше, но сейчас я больше не жалею вас.
+清澈的声音()<Speaker>Ясный голос</Speaker>||<BIN>9</BIN>:Я пересмотрела твои условия. +... + Надеюсь, это убедит тебя снова связаться с ней.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1><BIN>9</BIN>:Хм... Так-то лучше.
+()||<BIN>7</BIN><Night><黑屏2>:...M4A1 холодно усмехается.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1><BIN>7</BIN><Night>:... +M4A1... Что это такое...
