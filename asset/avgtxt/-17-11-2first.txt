@@ -1,24 +1,25 @@
-()||<BIN>34</BIN><黑屏2><BGM>BGM_Sneak</BGM>:...Squad 404 takes the repeater station.
-UMP9(3)<Speaker>UMP9</Speaker>||<BIN>34</BIN>:45, we're ready to begin.
-UMP9(3);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Mm, I'm connecting now. +You guys just keep an eye on the surroundings.
-HK416(0)<Speaker>416</Speaker>;UMP45(0)||<BIN>34</BIN>:45... are you planning to hack the SF network? +Don't forget that Parapluie is spreading throughout this sector.
-HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:I'm not the sort of Doll to be rewritten so easily.
-UMP9(3)<Speaker>UMP9</Speaker>;UMP45(0)||<BIN>34</BIN>:That's right, it's times like these where 45 can show how great she is.
-HK416(0)<Speaker>416</Speaker>;UMP45(0)||<BIN>34</BIN>:Hmph... +And what if you miscalculate?
-HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Then you can have your wish and personally finish me off.
-HK416(0)<Speaker>416</Speaker>;UMP45(0)||<BIN>34</BIN>:...I'm looking forward to that.
-UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN><黑点1>:I'll leave forward recon to you. I need to focus on searching for treasures.
-()||<BIN>34</BIN><黑点2>:...3 minutes later.
-G11(2)<Speaker>Gr G11</Speaker>||<BIN>34</BIN>:Will we go back soon? It's not good to hang around too long in places like these...
-UMP9(4)<Speaker>UMP9</Speaker>||<BIN>34</BIN>:I see the objective! +Hang on...everyone hold on a bit... +Those Dolls up ahead look like bad news...
-HK416(0)<Speaker>416</Speaker>||<BIN>34</BIN>:Tch, military Dolls.  +...They must be under the control of the Parapluie virus. +Still, given the guard around here is so heavy, we must have the right address.
-G11(2)<Speaker>Gr G11</Speaker>;HK416(0)||<BIN>34</BIN>:This is really bad. What should we do?
-G11(2);HK416(0)<Speaker>416</Speaker>||<BIN>34</BIN>:We're talking about UMP45, whose personality contains less than 5% kindness. +Do you honestly expect her to go "Let's abandon the mission for the sake of everyone's safety" or something like that?
-G11(3)<Speaker>Gr G11</Speaker>;HK416(0)||<BIN>34</BIN>:W-what? +So we're going to fight those tin cans...
-G11(3);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:That's right, Gr G11.
-G11(3)<Speaker>Gr G11</Speaker>;UMP45(0)||<BIN>34</BIN>:Ehhhhh?!
-G11(3);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:I've pinpointed the location of the Sangvis central database. Let's move out now.
-G11(3)<Speaker>Gr G11</Speaker>;UMP45(0)||<BIN>34</BIN>:Uuu... I don't wanna...  +Just looking at them scares me, can I stay here and sleep...
-G11(3);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Well, it's not like we can't leave you here. After all... laying bait is a good tactic.
-G11(3)<Speaker>Gr G11</Speaker>;UMP45(0)||<BIN>34</BIN>:Uuu...
-UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN><黑屏1>:If you don't like it, you'd better be on top form, Gr G11. +Otherwise, you might really die this time.
+()||<BIN>34</BIN><黑屏2><BGM>BGM_Sneak</BGM>:...Отряд 404 захватывает ретрансляционную станцию.
+UMP9(3)<Speaker>UMP9</Speaker>||<BIN>34</BIN>:45-я, мы готовы начинать.
+UMP9(3);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Мм, я сейчас подключусь. +Вы, ребята, просто следите за окружающей обстановкой.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||<BIN>34</BIN>:45-я... ты собираешься взломать сеть С.Ф.? +Не забывай, что Параплюй распространяется по всему сектору.
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Я не из тех Кукол, которых так просто переписать.
+UMP9(3)<Speaker>UMP9</Speaker>;UMP45(0)||<BIN>34</BIN>:Да, именно в такие моменты 45-я может показать, насколько она крута.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||<BIN>34</BIN>:Хм...+А что, если ты ошибешься в расчетах?
+HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Тогда ты сможешь исполнить свое желание и лично меня прикончить.
+HK416(0)<Speaker>416</Speaker>;UMP45(0)||<BIN>34</BIN>:...Я с нетерпением жду этого.
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN><黑点1>:Я оставлю разведку тебе. Мне нужно сосредоточиться на поиске сокровищ.
+()||<BIN>34</BIN><黑点2>:...3 минуты спустя.
+G11(2)<Speaker>Gr G11</Speaker>||<BIN>34</BIN>:Мы скоро вернемся? Не стоит слишком долго задерживаться в таких местах...
+UMP9(4)<Speaker>UMP9</Speaker>||<BIN>34</BIN>:Я вижу цель! +Подожди... все подождите немного... +Те Куклы впереди выглядят нехорошо...
+HK416(0)<Speaker>416</Speaker>||<BIN>34</BIN>:Чёрт, военные Куклы.  +...Они, наверное, под влиянием вируса Параплюй. +Но, учитывая, что здесь такая охрана, мы, наверное, попали по адресу.
+G11(2)<Speaker>Gr G11</Speaker>;HK416(0)||<BIN>34</BIN>:Это очень плохо. Что нам делать?
+G11(2);HK416(0)<Speaker>416</Speaker>||<BIN>34</BIN>:Мы говорим об UMP45, в которой доброты меньше 5%. +Ты серьёзно думаешь, что она скажет что-то типа «Давайте бросим миссию ради безопасности всех»?
+G11(3)<Speaker>Gr G11</Speaker>;HK416(0)||<BIN>34</BIN>:Ч-что? +Так что мы будем сражаться с этими жестянками...
+G11(3);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Правильно, Gr G11.
+G11(3)<Speaker>Gr G11</Speaker>;UMP45(0)||<BIN>34</BIN>:Ээээээээээээээээ?!
+G11(3);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Я нашла, где находится центральная база данных Сангвис. Пора выдвигаться.
+G11(3)<Speaker>Gr G11</Speaker>;UMP45(0)||<BIN>34</BIN>:Ууу... Я не хочу...  +Один вид их пугает меня, можно я останусь здесь и буду спать...
+G11(3);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN>:Ну, мы же не можем тебя здесь оставить. В конце концов... подкинуть приманку — это хорошая тактика.
+G11(3)<Speaker>Gr G11</Speaker>;UMP45(0)||<BIN>34</BIN>:Ууу...
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>34</BIN><黑屏1>:Если тебе это не нравится, лучше будь в отличной форме, Gr G11. +Иначе на этот раз ты можешь действительно умереть.
+
