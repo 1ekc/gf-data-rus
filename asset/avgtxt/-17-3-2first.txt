@@ -1,50 +1,51 @@
-()||<BIN>22</BIN><BGM>BGM_Sneak</BGM>:...Click. A comms request from Angelia.
-NPC-Ange(0)<Speaker>Ange</Speaker><通讯框>||<BIN>22</BIN>:So, what did you find?
-NPC-Persica(1)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:How did you know?
-NPC-Persica(1);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:You haven't contacted me for half an hour. You must've found something.+The Military's armored units are still in place, which makes me very uneasy...
-NPC-Persica(1)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Isn't that a good thing?
-NPC-Persica(1);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:The Military has never taken the initiative to do anything good. They must have some other plan. +That Yegor is still in the field. I'm sure he's up to something.
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Never mind that. Your job's half done once you get all the data, right?
-NPC-Persica(3);NPC-Ange(0))<Speaker>Ange</Speaker>||<BIN>22</BIN>:I'm not one to halfass things, and there's no more data to uncover in the vicinity. +After all...we even managed to score a central server for a military theater. Our mission's been going a bit too well...
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Ange... +Did you crack the theater server?
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:Huh? Of course not. +Someone already pried the firewall open by the time we got there.
-NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:...Didn't you ever wonder why that was the case?
-NPC-Persica(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:I told you, we had no time to think about that back then... +Anyway, it was probably because the Military personnel forgot about it during their retreat and then it was hacked by Parapluie and opened up, right? +Though it's hard to imagine that S.F. has the ability to crack an important military server...
-NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Hacked by Parapluie... +No, that's not likely. Even default military firewalls are beyond the ability of S.F. to get past.
-NPC-Persica(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:So you mean...it wasn't Sangvis Ferri that opened the firewall? +All I could think about back then was staying alive, so I didn't have the time to consider that possibility.
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:If it wasn't them, and it wasn't us, then it could only be...
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:Let's flip the script and think about it... +Interesting, I'll give it a go! +If it was the Military that opened the firewall themselves, and all this was part of their plan...does that make sense?
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Remember what they did during the joint operation? +The Military charged all the way in, and then Sangvis Ferri was forced to fully activate Parapluie.
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:You mean...they deliberately let Parapluie spread? What good would it do for them?
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Mastermind can see and control anything infected by Parapluie, be it a Doll or a server. +And then, the Military deliberately exposed their theater server to Parapluie, so Mastermind could see its contents... +But what would the Military want to show her...? +No...I can't think of anything. I don't have enough leads...
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:Persica, try looking at it from the opposite perspective. +What the Military wanted to show Mastermind was only bait. Getting Mastermind to "look" was the aim. +Does that give you any ideas?
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:The Military...invited Mastermind into their own server? +What good would that do...?
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:Persica, put the Military's objectives together and then think about it. +The Military wants OGAS, and given the information we have, we can consider OGAS and Mastermind to be the same entity, so this should be the approach that the Military is taking to capture Mastermind...
-NPC-Persica(1)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN><震屏>:...!
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Ange... +What if...what if the Military also had Parapluie, or a more powerful electronic control method than the Parapluie virus?
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:A more powerful method...?
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:It's hardly impossible. +They're seasoned veterans when it comes to electronic warfare. Let's call the version they have Super Parapluie.
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:Let me think... +The military forces Mastermind to deploy Parapluie, which causes Mastermind to find the central server which the Military has deliberately exposed to her... +After that, Mastermind thinks she has successfully infected the server, and goes one step further to hack into the theatre server to control the military units. +The Military then uses its own Super Parapluie to flood Mastermind's infected sectors, which means they could...
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Reverse the connection...
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN><震屏>:Exactly! They use the connection to reverse-hack Mastermind with their Super Parapluie!
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:Reverse-hacking?! +You mean the Military wants to...directly control Mastermind?! +Is that the Military's plan? Just to control S.F.'s Mastermind?!
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:That was why they left M4A1 in place, in order to lure Mastermind onto the frontlines. It would improve their chances of reverse-controlling Mastermind several-fold. +But then why did they go out of their way to attack the AR Team when they left her alone on the spot?
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:It's definitely weird. Maybe they felt that there was some advantage to be gained by letting M4 and Mastermind establish a link. +That was why I had AK-12 perform an emergency disconnect on M4. Whatever their plan was, at the very least we didn't let them have their way.
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:And after that, they pretended to be beaten, then used their own central server to lure Mastermind in so she could be controlled.
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:You mean to say...the Military could be carrying out their reverse-control operation right now?! +Goddammit! I should have thought of that earlier! +So the tanks were just a ruse after all, huh!
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Don't panic... Hacking a neural cloud of Mastermind's level will require a large-scale electronic battle. They might need a while to get ready. +They've never only prepared just one solution to deal with a problem. The armored units are probably a backup measure. +Ange, can you do any damage to them on Level II?
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:You want two or three T-Dolls to pull off something like that? What nonsense are you talking?
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:I understand... The computational capacity of several T-Dolls simply isn't enough... +But at least we could obtain a sample of the Military virus, but then again there's not enough time to analyze it...
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:Okay, okay. You think of a way. I'll gather whatever information I can and pass it on to you. +I've got another question. If OGAS is so important, why have the Military left it there and fought with Griffin for so long, only coming to collect it now?
-NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:... +Now...?
-NPC-Persica(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:Yes, they let Griffin have the job for over a year and only came looking for it now...
-NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Perhaps...perhaps because OGAS was too dangerous. +The file you found in the theater server mentioned it, right? It's connected to the Relics...
-NPC-Persica(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:So...why now?
-NPC-Persica(0)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Lyco's AI had extremely powerful self-learning abilities... It was his masterpiece, though I didn't know what it has to do with OGAS. +But perhaps it has fully matured now, and someone in the Military knows that "she" is mature...
-NPC-Persica(1)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Oh!
-NPC-Persica(1);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:You've got a lead?
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:There's only one person who knew Lyco's methods that well apart from myself... +And he hated Lyco to the core, while also being abnormally obsessed with Relics...
-NPC-Persica(3);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>22</BIN>:Wait, Persica, do you know...
-NPC-Persica(3)<Speaker>Persica</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:There was once a guy in 90WISH... +If he could have done anything to hurt Lyco... +Then he would definitely have done it!
+()||<BIN>22</BIN><BGM>BGM_Sneak</BGM>:...Клик. Запрос связи от Анжелии.
+NPC-Ange(0)<Speaker>Анже</Speaker><通讯框>||<BIN>22</BIN>:Итак, что ты нашла?
+NPC-Persica(1)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Как ты узнала?
+NPC-Persica(1);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Ты не связывалась со мной уже полчаса. Наверное, ты что-то нашла.+Бронированные подразделения военных всё ещё на месте, и это меня очень беспокоит...
+NPC-Persica(1)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Разве это плохо?
+NPC-Persica(1);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Военные никогда не делали ничего хорошего по своей инициативе. У них наверняка есть какой-то другой план. +Этот Егор до сих пор на поле боя. Уверена, он что-то замышляет.
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Не переживай об этом. Твоя работа будет сделана лишь наполовину, когда ты получишь все данные, верно?
+NPC-Persica(3);NPC-Ange(0))<Speaker>Анже</Speaker>||<BIN>22</BIN>:Я не из тех, кто делает всё наполовину, и в окрестностях больше нет данных, которые можно было бы найти. +В конце концов... нам даже удалось заполучить центральный сервер для военного театра. Наша миссия идёт слишком хорошо...
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Анже... +Ты взломала сервер театра?
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Что? Конечно, нет. + К тому времени, как мы туда добрались, кто-то уже взломал брандмауэр.
+NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:...Ты не размышляла о причинах этого?
+NPC-Persica(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Я же говорила, у нас тогда не было времени об этом думать... +В любом случае, скорее всего, военные забыли об этом во время отступления, а потом Параплюй взломал и вскрыл его, верно? +Хотя трудно представить, что С.Ф. способен взломать важный военный сервер...
+NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Взломан Параплюй... +Нет, это вряд ли. Даже стандартные военные брандмауэры не под силу С.Ф.
+NPC-Persica(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Так ты хочешь сказать, что не Сангвис Ферри вскрыл брандмауэр? +В тот момент я думала только о том, чтобы остаться в живых, поэтому у меня не было времени об этом размышлять.
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Если это не они и не мы, то это может быть только...
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Давайте посмотрим на это с другой стороны и подумаем... +Интересно, я попробую! +Если это военные сами открыли брандмауэр, и все это было частью их плана... это имеет смысл?
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Помнишь, что они сделали во время совместной операции?+Военные ворвались внутрь, и тогда Сангвис Ферри был вынужден полностью активировать Параплюй.
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Ты хочешь сказать..., что они специально дали Параплюй распространиться? Что им это даст?
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Владыка может видеть и управлять всем, что заражено Параплюй, будь то Кукла или сервер. +А потом военные специально подвергли свой сервер воздействию Параплюй, чтобы Владыка могла увидеть его содержимое... +Но что Военные хотели ей показать...? +Нет... Я ничего не могу придумать. У меня недостаточно зацепок...
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Персика, попробуй посмотреть на это с другой стороны. +То, что военные хотели показать Владыке Ума, было просто приманкой. Цель была заставить Владыку « заглянуть». +Это даёт тебе какие-нибудь идеи?
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Военные... пригласили Владыку на свой сервер? +Какая от этого польза...?
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Персика, давай собери воедино цели Военных и подумай над этим. +Военные хотят OGAS, и, судя по нашей информации, мы можем считать OGAS и Владыку единой сущностью, так что, скорее всего, именно таким подходом Военные и руководствуются, чтобы поймать Владыку...
+NPC-Persica(1)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN><震屏>:...!
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Анже... А что, если... что, если у Военных тоже есть Параплюй или какой-то более крутой способ электронного контроля, чем вирус Параплюй?
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Более мощный метод...?
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Это вполне возможно. Они же опытные ветераны в области радиоэлектронной борьбы. Давайте назовем их версию Супер Параплюй.
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Дай-ка подумать... +Военные заставляют Владыку использовать Параплюй, из-за чего она находит центральный сервер, который военные специально открыли для неё... +После этого Владыка думает, что успешно заразила сервер, и идёт дальше, взламывая театральный сервер, чтобы управлять военными подразделениями. +Тогда военные используют свой Супер-Параплюй, чтобы затопить заражённые сектора Владыки, а это значит, что они могут...
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Изменить направление соединения...
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN><震屏>:Точно! Они используют соединение, чтобы взломать Владыку с помощью своего Супер Параплюй!
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Обратный взлом?!+Ты хочешь сказать, что Военные хотят... напрямую управлять Владыкой?!+Это план Военных? Просто контролировать Владыку из С.Ф.?!
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Вот почему они оставили M4A1 на месте, чтобы заманить Владыку на передовую. Это увеличило бы их шансы на обратный контроль над Владыкой в несколько раз. +Но тогда почему они пошли на риск и атаковали Команду AR, когда оставили её одну на месте?
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Это точно странно. Может, они решили, что есть какой-то плюс в том, чтобы M4 и Владыка установили связь. +Поэтому я и попросила AK-12 срочно отключить M4. Какой бы ни был их план, мы, по крайней мере, не дали им его осуществить.
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:А потом они сделали вид, что их победили, а потом использовали свой центральный сервер, чтобы заманить Владыку, чтобы её можно было контролировать.
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Ты хочешь сказать... что Военные могут прямо сейчас проводить операцию по обратному контролю?! +Чёрт возьми! Надо было до этого додуматься! +Так значит, танки были всего лишь уловкой!
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Не паникуй... Взлом нейронного облака уровня Владыки потребует масштабной электронной битвы. Им может понадобиться время, чтобы подготовиться. +Они никогда не разрабатывали только одно решение для проблемы. Бронированные подразделения, скорее всего, являются запасным вариантом. +Анже, ты можешь нанести им урон на Уровне II?
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Ты хочешь, чтобы две или три Т-Куклы сделали что-то подобное? Какую же чушь ты несёшь?
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Я понимаю... Вычислительных мощностей нескольких Т-Кукол просто не хватит...+Но, по крайней мере, мы смогли получить образец военного вируса, но опять же, времени на его анализ не хватает...
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Ладно, ладно. Придумай что-нибудь. Я соберу всю информацию, которую смогу, и передам тебе. +У меня еще один вопрос. Если OGAS так важен, почему Военные оставили его там и так долго воевали с Грифоном, а только сейчас пришли за ним?
+NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:... +Сейчас...?
+NPC-Persica(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Да, они дали Грифону возможность работать больше года и только сейчас решили его забрать...
+NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Может быть... может быть, потому что OGAS был слишком опасен. +В файле, который ты нашла на сервере театра, об этом упоминалось, верно? Это связано с Реликвиями...
+NPC-Persica(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Так... почему сейчас?
+NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:ИИ Лико был супер умным и мог сам учиться... Это был его шедевр, хотя я не понимаю, какое отношение он имеет к OGAS. +Но, может, он уже полностью созрел, и кто-то из военных знает, что «она» созрела...
+NPC-Persica(1)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Ох!
+NPC-Persica(1);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:У тебя есть мысли?
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Кроме меня, только один человек знал методы Лико так же хорошо... +И он ненавидел Лико до глубины души, при этом будучи ненормально одержимым Реликвиями...
+NPC-Persica(3);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Эй, Персика, ты не знаешь...
+NPC-Persica(3)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Однажды в 90WISH был один парень... +Если бы он мог сделать что-нибудь, чтобы навредить Лико... +Тогда он бы точно это сделал!
 NPC-Persica(3)<Speaker></Speaker>||<BIN>22</BIN>:...
-NPC-Persica(3)<Speaker>Persica</Speaker>||<BIN>22</BIN><黑屏1>:William... +I should have known it was you... +And here I thought...we'd never run into each other again!
+NPC-Persica(3)<Speaker>Персика</Speaker>||<BIN>22</BIN><黑屏1>:Вильям... +Я должна была догадаться, что это ты... +А я-то думала... что мы больше никогда не встретимся!
+
