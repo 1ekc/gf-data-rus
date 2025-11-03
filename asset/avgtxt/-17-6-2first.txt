@@ -1,32 +1,33 @@
-()||<BIN>7</BIN><Night>:...Task Force DEFY continues breaking through the lockdown toward the repeater station. +Meanwhile, M4A1 looks silently at AR-15 as she adjusts her gear in the darkness.
-AR15Mod(4)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Wake</BGM><BIN>7</BIN><Night>:I guess you're not going to let the matter go, are you?
-AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Do you have something to tell me?
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:... +It was a forcefield.
-AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<黑屏1>0.6</黑屏1><BIN>7</BIN><Night>:Hmm?
-AR15()<Speaker>ST AR-15</Speaker>||<BIN>36</BIN><黑屏2>0.6</黑屏2>:That day... +The moment the explosives went off, Mastermind created a forcefield around me. +I somehow managed to survive, although most of my body was blown to bits.
-M4A1()<Speaker>M4A1</Speaker>||<BIN>36</BIN>:But then...how did you get out of that place...?
-AR15()<Speaker>ST AR-15</Speaker>||<BIN>36</BIN><黑屏1>:Ange's T-Dolls rescued me. +I went through a whole mess of things after that, but in the end...I was fixed.
-AR15Mod(3)<Speaker></Speaker>||<BIN>7</BIN><Night><黑屏2>:AR-15 sighs and looks at her wrists, which she dextrously rotates.
-AR15Mod(3)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:They also upgraded me along the way, and that's about it...
-AR15Mod(3);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...That's it? +You've always been like this. You've always loved to hide and burrow yourself away. +Did you know that back then, all of us thought that you...you...
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:They had to shut down all my external interfaces in order to curb the Parapluie still within my body. +I spent a long, long time lying down for servicing in an underground room where I couldn't even see the sun, so don't ask why I didn't contact you.
-AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...If you had come back earlier, a lot of things wouldn't have ended up like they did now. +At least we could have...gone back to how things used to be...
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:That's just wishful thinking on your part, M4A1. +When I woke up, I was told that my neural cloud had been heavily altered thanks to Parapluie... +Part of that involved deleting my original principal order.
-AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Principal order... What's that?
-AR15Mod(4)<Speaker></Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:...AR-15 gazes intently at M4A1.
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:Everything I did had protecting you as my top priority, even if it meant sacrificing myself.
+()||<BIN>7</BIN><Night>:...Спецотряд DEFY продолжает прорываться через блокаду  к ретрансляционной станции. +Тем временем M4A1 молча смотрит на AR-15, которая в темноте настраивает своё снаряжение.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Wake</BGM><BIN>7</BIN><Night>:Я думаю, ты не планируешь отпускать эту тему, да?
+AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Есть что сказать?
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:... +Это было силовое поле.
+AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<黑屏1>0.6</黑屏1><BIN>7</BIN><Night>:Мм?
+AR15()<Speaker>ST AR-15</Speaker>||<BIN>36</BIN><黑屏2>0.6</黑屏2>:В тот день... +Когда сработала взрывчатка, Владыка создала вокруг меня силовое поле. +Мне каким-то образом удалось выжить, хотя большая часть моего тела была разорвана на куски.
+M4A1()<Speaker>M4A1</Speaker>||<BIN>36</BIN>:Но тогда... как ты выбралась оттуда...?
+AR15()<Speaker>ST AR-15</Speaker>||<BIN>36</BIN><黑屏1>:Т-Куклы Анже спасли меня. +После этого я прошла через кучу неприятностей, но в конце концов... меня исправили.
+AR15Mod(3)<Speaker></Speaker>||<BIN>7</BIN><Night><黑屏2>:AR-15 вздыхает и смотрит на свои запястья, которыми она ловко вращает.
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:По ходу дела мне еще и повышение дали, и вот, в общем-то, всё...
+AR15Mod(3);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...Это всё? +Ты же всегда такой была. Тебе всегда нравилось скрываться и забиваться в нору. +Ты знаешь, что тогда мы все думали, что ты... ты...
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:Им пришлось отключить все мои внешние интерфейсы, чтобы остановить действие Параплюй, который всё ещё был в моём теле. +Я очень долго лежала в подземной комнате, где даже не могла увидеть солнце, чтобы пройти обслуживание, так что не спрашивай, почему я не связалась с тобой.
+AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...Если бы ты вернулась раньше, многое бы сложилось не так, как сейчас. +По крайней мере, мы могли бы... вернуться к тому, как было раньше...
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:Это просто твои мечты, M4A1. +Когда я в очередной раз очнулась, мне сказали, что моё нейронное облако сильно изменилось благодаря Параплюй... +Частично это было связано с удалением моего первоначального основного приказа.
+AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Основной заказ... Что это значит?
+AR15Mod(4)<Speaker></Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:...AR-15 пристально смотрит на M4A1.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:Всё, что я делала, было ради твоей защиты, даже если это означало пожертвовать собой.
 AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...!
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:You should have sensed it too, right? +This was our original principal order... Not just for me, but the other members of the AR Team as well... +That was why everyone fought so hard for your sake.
-AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Did that order...make you feel very uncomfortable?
-AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:I just thought it was stupid. +Good thing it was deleted. I'm no longer bound by this order. Perhaps, technically speaking, I am free. +And so, after going through all that, I won't risk my life to protect you anymore.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:Ты же тоже это наверняка заметила, да? +Это был наш первоначальный основной приказ... Не только для меня, но и для других членов Команды AR... +Именно поэтому все так упорно боролись ради тебя.
+AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Этот приказ... заставлял тебя чувствовать себя очень дискомфортно?
+AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:Я просто подумала, что это глупо. +Хорошо, что это удалили. Я больше не связана этим приказом. Возможно, с технической точки зрения, я свободна. +И поэтому, после всего, что произошло, я больше не буду рисковать своей жизнью, чтобы защитить тебя.
 AR15Mod(3);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...
-AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:Right now, I'm no longer like how I was in the AR Team. +Are you still planning to take risks even with someone like me at your side?
-AR15Mod(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:But of course. That's completely irrelevant. +Or rather, it might be for the better that nothing can force you to do anything anymore. +...It also makes me feel less burdened.
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:You've really changed, M4A1. I think it's for the better.
-AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:But I still haven't figured out why Mastermind would save you...
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:I don't know either. Perhaps... +Our orders to destroy Sangvis Ferri, or perhaps everything else, aren't as simple as we thought. +Even though we're still enemies with all the Sangvis units that we see, the enemies behind us...
-AR15Mod(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:It doesn't matter. Clearing obstacles from my path has always been the way of things. +I just want to know who really needs to die. That's enough for me.
-AR15Mod(4)<Speaker></Speaker>||<BIN>7</BIN><Night>:...M4A1 gets to her feet and walks off.
+AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:Сейчас я уже не такая, какой была в Команде AR. +Ты всё ещё собираешься рисковать, даже с такой, как я, рядом?
+AR15Mod(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Конечно. Это совсем неважно. +Или, может быть, даже лучше, что тебя больше ничто не может заставить что-то делать. +...Мне тоже стало легче.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:Ты действительно изменилась, M4A1. Думаю, в лучшую сторону.
+AR15Mod(4);M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Но я до сих пор не понимаю, зачем Владыке понадобилось тебя спасать...
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||<BIN>7</BIN><Night>:Я тоже не знаю. Может быть... Наши задачи по уничтожению Сангвис Ферри, или, возможно, всего остального, не так просты, как мы думали. +Хотя мы по-прежнему враждуем со всеми подразделениями Сангвис, которые мы видим, враги за нашей спиной...
+AR15Mod(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:Это не имеет значения. Убирать препятствия с пути всегда было моим делом. +Я просто хочу знать, кто действительно должен умереть. Мне этого достаточно.
+AR15Mod(4)<Speaker></Speaker>||<BIN>7</BIN><Night>:...M4A1 поднимается и уходит.
 AR15Mod(4)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:...
-AR15Mod(4)<Speaker></Speaker>||<BIN>7</BIN><Night>:...For a moment... +There was an icy gleam in M4A1's eyes.
-AR15Mod(4)<Speaker>ST AR-15</Speaker>||<黑屏1><BIN>7</BIN><Night>:(She has changed... )+(But is it really for the better?)
+AR15Mod(4)<Speaker></Speaker>||<BIN>7</BIN><Night>:...На мгновение... +В глазах M4A1 появился ледяной блеск.
+AR15Mod(4)<Speaker>ST AR-15</Speaker>||<黑屏1><BIN>7</BIN><Night>:(Она изменилась... )+(Но действительно ли это к лучшему?)
+
