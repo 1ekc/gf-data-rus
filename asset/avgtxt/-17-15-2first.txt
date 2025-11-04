@@ -1,32 +1,33 @@
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1><黑屏2>:...
-军方技术人员()<Speaker>Military technician</Speaker>||<BGM>BGM_Danger</BGM><BIN>85</BIN><黑屏2>:General Carter! We have an emergency! +We've detected OGAS using its server access in order to connect to the entire network so it can retrieve and download information! It's trying to change its kernel code to gain control privileges!
-NPC-Carter(0)<Speaker>Carter</Speaker>||:What? Then what about our hack?
-NPC-Carter(0)<Speaker>Military technician</Speaker>||:It failed! OGAS' computing speed is growing at an exponential rate! Low-level overwriting can't repair the backdoors that it's edited in! It's reverse-overwriting our systems! 35% of our database's firewalls have already been breached! +48%! Over 60% of our passive defenses have failed!
-NPC-Carter(0)<Speaker>Carter</Speaker>||:This...this is impossible! Everything was going so well just now! How could a single AI have this kind of processing speed? +You must not allow its reverse-hack to succeed! Break the link to the central database immediately!
-NPC-Carter(0)<Speaker>Military technician</Speaker>||:We can't! The volume of our data flows is so great that a full disconnection would take two minutes, and that won't catch up with OGAS' hacking speed! +As long as a single server is still up, OGAS can come charging in!
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Dammit! Physically sever the links with all the servers!
-NPC-Carter(0)<Speaker>Military technician</Speaker>||:Yes, sir! Beginning demolition! +We've cut the links, but the server caches are still active! We've got 40 seconds! OGAS is speeding up again! +34 seconds to complete overwrite! We're not going to make it!
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Activate all active defense programs!
-NPC-Carter(0)<Speaker>Military technician</Speaker>||:Now?! At this time? +Sir, you know the consequences of doing that! Activating them all will overload our information links! All our connections on the battlefield will be forcibly severed—
-NPC-Carter(0)<Speaker>Carter</Speaker>||:It was a last resort to begin with! Do it!
-NPC-Carter(0)<Speaker>Military technician</Speaker>||:Roger that!
-NPC-Carter(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏><黑屏1>:Bang!
-()||<黑屏2>:...Whirrrrr——
-NPC-Carter(0)<Speaker>Carter</Speaker>||:...
-NPC-Carter(0)<Speaker>Military technician</Speaker>||<BGM>BGM_Sneak</BGM>:All of our servers have ceased functioning. +We've confirmed that OGAS' connection to our servers has been broken. +We are now activating our backup connection system.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Contact Yegor ASAP! Do it now!
-NPC-Carter(0)<Speaker>Distorted voice</Speaker>||:Has everything finally settled down? +Though I must say, didn't you just wreck your own command systems?
-NPC-Carter(0)<Speaker></Speaker>||:...Carter turns around.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:So, was this the outcome you expected?! +You never told me OGAS' processing speed would increase so rapidly!
-NPC-Carter(0)<Speaker>Distorted voice</Speaker>||:Well...actually, I didn't expect that either. Sorry. +I didn't think the OGAS support system would actually be so amusing. It's just the dregs of an old civilization, but to think it could actually learn and adapt to the technology of modern civilization... +It's practically...it's practically a miracle that mankind has no right to touch! +I confess that this has gone slightly beyond my expectations. On average, something that surprises me to this extent only occurs once every three years.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:This isn't just a game of your imagination, Professor William! +Your plan has failed, now what should we do?
-NPC-Carter(0)<Speaker>William</Speaker>||:Failed? Are you blaming me, or is this just a joke? +Answer me, this is important.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:...You've got something else up your sleeve?
-NPC-Carter(0)<Speaker>William</Speaker>||:This is the most worthless question you've asked tonight. +I told you before, I'll let you have what you want. +When OGAS hacked us, its signal was too strong, so strong that it still made my ears ring even after I turned on my earpieces's noise canceller.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Yes, but what does it mean?
-NPC-Carter(0)<Speaker>William</Speaker>||:What does it mean? It means we don't need to look for it to know where it is. +OGAS was so eager to rush in that it completely forgot about the spoofing signal it had been using to protect itself before this. +Now that its raised its effectiveness, all those camouflage signals have been revealed for what they are, leaving its true signal source gleaming on the map. +OGAS' signal and that of the what do you call it - the Sangvis Mastermind or whatever - are overlapping. So use those invincible units of yours to tear out the entire Mastermind and bring it home. That shouldn't be very hard for you, right?
-NPC-Carter(0)<Speaker>Carter</Speaker>||:...Our technicians still need some time to pinpoint the source of that signal.
-NPC-Carter(0)<Speaker>William</Speaker>||:I've already sent you the coordinates of Mastermind. +As for your technicians? I thought they were extras you hired so your HQ wouldn't seem so empty.
-NPC-Carter(0)<Speaker>Carter</Speaker>||:Understood...I'll begin the operation right away.
-NPC-Carter(0)<Speaker>William</Speaker>||:I know you need the Key. So do I. +Settle this quickly. Don't disappoint the both of us.
+军方技术人员()<Speaker>Военный техник</Speaker>||<BGM>BGM_Danger</BGM><BIN>85</BIN><黑屏2>:Генерал Картер! У нас ЧП! +Мы заметили, что OGAS использует доступ к серверу, чтобы подключиться ко всей сети для получения и скачивания информации!+Он пытается изменить код ядра, чтобы получить права администратора!
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Что? А как же наш взлом?
+NPC-Carter(0)<Speaker>Военный техник</Speaker>||:Он провалился! Скорость вычислений OGAS растет с сумасшедшей скоростью! Низкоуровневая перезапись не может исправить бэкдоры, которые он редактирует!+Он перезаписывает наши системы! 35% брандмауэров нашей базы данных уже взломаны! +48%! Более 60% наших пассивных средств защиты вышли из строя!
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Это... это невозможно! Всё было так хорошо! Как один ИИ может иметь такую скорость обработки? +Не дай ему сделать обратный взлом! Сразу же отключи связь с центральной базой данных!
+NPC-Carter(0)<Speaker>Военный техник</Speaker>||:Мы не можем! У нас столько данных, что полное отключение займёт две минуты, а это никак не сравнится со скоростью взлома OGAS! +Пока хотя бы один сервер работает, OGAS может подключиться!
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Проклятье! Отрежьте все связи со всеми серверами!
+NPC-Carter(0)<Speaker>Военный техник</Speaker>||:Да, сэр! Начинаем разрыв связей! +Наши связи разорваны, но кэши серверов всё ещё активны! У нас есть 40 секунд! OGAS снова ускоряется! +34 секунды до полной перезаписи! Мы не успеем!
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Включайте все программы активной защиты!
+NPC-Carter(0)<Speaker>Военный техник</Speaker>||:Сейчас?! В этот момент? +Сэр, вы же знаете, к чему это приведет! Если их все включить, наши каналы связи перегрузятся! Все наши связи на поле боя будут вынужденно отключены...
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Это был последний вариант! Давай!
+NPC-Carter(0)<Speaker>Военный техник</Speaker>||:Принято!
+NPC-Carter(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏><黑屏1>:Бэнг!
+()||<黑屏2>:...Вииииир——
+NPC-Carter(0)<Speaker>Картер</Speaker>||:...
+NPC-Carter(0)<Speaker>Военный техник</Speaker>||<BGM>BGM_Sneak</BGM>:Все наши серверы перестали работать. +Мы подтвердили, что связь OGAS с нашими серверами прервана. +Сейчас мы включаем нашу резервную систему связи.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Свяжись с Егором прямо сейчас! Давай же!
+NPC-Carter(0)<Speaker>Искажённый голос</Speaker>||:Наконец-то всё успокоилось? +Хотя, надо сказать, ты же сам разрушил свои системы управления?
+NPC-Carter(0)<Speaker></Speaker>||:...Картер обворачивается.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Так это тот результат, который ты ожидал?! +Ты мне не говорил, что скорость обработки OGAS так быстро увеличится!
+NPC-Carter(0)<Speaker>Искажённый голос</Speaker>||:Ну... честно говоря, я тоже не ожидал такого. Извини. +Я не думал, что система поддержки OGAS будет настолько интересной. Это всего лишь остатки старой цивилизации, но подумать только, что она смогла научиться и адаптироваться к технологиям современной цивилизации... +Это практически... это практически чудо, к которому человечество не имеет права прикасаться! +Признаюсь, это немного превзошло мои ожидания. В среднем, что-то, что удивляет меня до такой степени, происходит только раз в три года.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Это не просто игра твоего воображения, профессор Вильям! +Твой план провалился, что теперь делать?
+NPC-Carter(0)<Speaker>Вильям</Speaker>||:Провалился? Ты меня винишь или это просто шутка? +Ответь мне, это важно.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:...У тебя есть ещё что-то в запасе?
+NPC-Carter(0)<Speaker>Вильям</Speaker>||:Это самый бессмысленный вопрос, который ты задал сегодня вечером. +Я уже говорил тебе, я дам тебе то, что ты хочешь. +Когда OGAS взломал нас, его сигнал был слишком сильным, настолько сильным, что даже после включения шумоподавления в наушниках у меня всё ещё звенело в ушах.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Да, но что это значит?
+NPC-Carter(0)<Speaker>Вильям</Speaker>||:Что это значит? Это значит, что нам не нужно искать, чтобы узнать, где она находится. +OGAS так спешила ворваться, что совсем забыла о поддельном сигнале, который она использовала для защиты до этого. +Теперь, когда его эффективность повысилась, все эти камуфляжные сигналы были раскрыты, и его истинный источник сигнала ярко светится на карте.+Сигнал OGAS и сигнал того, как его там, Владыки Сангвиса или как-то так, пересекаются. Так что используй свои непобедимые юниты, чтобы уничтожить Владыку и принести его обратно. Для тебя это не должно быть очень сложно, верно?
+NPC-Carter(0)<Speaker>Картер</Speaker>||:...Нашим техникам нужно ещё немного времени, чтобы точно определить, откуда идёт этот сигнал.
+NPC-Carter(0)<Speaker>Вильям</Speaker>||:Я уже отправил тебе координаты Владыки. А что насчет твоих техников?+ Я думал, что они были статистами, которых ты нанял, чтобы твой штаб не казался таким пустым.
+NPC-Carter(0)<Speaker>Картер</Speaker>||:Понял... Сразу же начну действовать.
+NPC-Carter(0)<Speaker>Вильям</Speaker>||:Я знаю, что тебе нужен Ключ. Мне тоже. +Давай решим это быстро. Не подведи нас обоих.
 NPC-Carter(0)<Speaker></Speaker>||<黑屏1>:...
+
