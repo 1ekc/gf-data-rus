@@ -1,44 +1,44 @@
 ()||<BIN>9</BIN><BGM>BGM_Room</BGM>:...
-AR15()<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏1>:Wake up, M4. We're about to begin the operation.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>99</BIN><黑屏2>:... +How long was I asleep?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BIN>99</BIN>:Two hours. Dawn just broke and the Military is about to fully mobilize.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>99</BIN>:What about Ange?
-AN94(0)<Speaker>AN-94</Speaker>||<BIN>99</BIN>:AK-12 just finished creating a new signal blockade, and Ange's sending a transmission.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:She said she'd ask her superiors for support... +They're not likely to show up now that it's come to this, are they?
-UMP45(0)<Speaker>UMP45</Speaker>||<BIN>99</BIN>:I've never held out hope for any support. +9, status report?
-UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||<BIN>99</BIN>:The others and I have deployed Dummies to keep an eye on the key sectors. The Military's armored units are making their push.
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>99</BIN><黑点1>:Armored units, huh... +Let's see what Ange comes up with first.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN><黑点2>:I've already found several reports related to the OGAS support system in their servers, and I can provide basic speculation about their goals...
-NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:You know that speculation can't be used as evidence. +Without proof, we can't get approval to open an investigation.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:But you should have guessed their objective already, if we don't stop them now...
-NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:I understand. The Committee members are already displeased with their actions, but so far nobody is willing to come forward and handle the matter.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>: Are they still choosing to cover their asses at this juncture?
-NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:After the war, everyone with high-level command authority was shunned. +There's a great deal of internal resistance to joining the Pan-European Alliance, and a whole new round of reshuffling might begin soon. +The Ministry of Internal Affairs can't just casually stick their nose into the matter.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:A new round of purges, you mean...
-NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:In any case, without orders from the highest authority, a direct conflict with the Military is treasonous. +I've already asked the Minister to put pressure on the Prime Minister, but I haven't heard back from him yet.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:And so our units on the outside still have their hands tied.
-NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:I'm afraid so.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Chief...you don't understand how serious this is! +If they get their way, it won't be a simple matter of reshuffling!
-NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:I understand. That's why your mission is still underway.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:I can't stop the regular army by myself. I can't create a miracle with just a few T-Dolls!
-NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:It's already made the papers. At the very least, they don't have the authority to transfer the four main divisions from the overseas cluster command yet...and the Air Force is still on our side. +According to the info I've received, the forces in the contested area are primarily the autonomous units which aren't bound by the regulatory treaty. +You still have a chance.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:I ask again for permission to execute the final plan. We're running too great a risk here! +Even if we can't gather more evidence, this is the one time we can't let them have their way!
-NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:No. If the fact that we bombed an operational area was exposed, the West will think that there's internal unrest in the country. +It is a very dangerous message to send. 
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Is this really the time to worry about how we're perceived?!
-NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:This is a sensitive period for the talks. We can't give our opponents any excuses to use. +The recon squadron will assess the overall situation. We haven't reached that step yet. Do your best to wreck their scheme by normal means. Over.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN><黑屏1>:Tsk...easier said than done.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN><黑屏2>:AK-12.
-AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:What's up?
-AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Take stock of our usable resources. Track the Military's signals as best you can. We've got a hard fight ahead of us.
-AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Understood. I'm on it.
-AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:45.
-UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Your orders?
-UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:While I don't really want to do this, monitor all signals that M4A1 sends and receives. Pay particular attention to hidden transmissions on Level II.
-UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:So you've finally decided to use her as bait.
-UMP45(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:If we can't deal with the Military, we'll deal with Mastermind. +I don't know why, but Mastermind seems very interested in M4.
-UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:...While I don't usually question your orders... +If we destroy Mastermind, our only lead to finding the prime mover behind all this will vanish. +You know what that implies for us.
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN><黑点1>:... +I understand. I will try my best to avoid that outcome.
-()||<BIN>10</BIN><黑点2>:Click—
-UMP9(0)<Speaker>UMP9</Speaker>||<BIN>10</BIN>:416 and the others have spotted a Sangvis unit near our position. Should we attack?
-UMP45(0)<Speaker>UMP45</Speaker>||<BIN>10</BIN>:How should we handle this, Ange?
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>10</BIN><黑点1>:Treat it as a warm-up, then. We'll need a clear field to work with.
+AR15()<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏1>:Просыпайся, М4. Мы сейчас начинаем операцию.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>99</BIN><黑屏2>:... +Как долго я спала?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<BIN>99</BIN>:Два часа. Уже рассвело, и Военные вот-вот начнут полную мобилизацию.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>99</BIN>:А как же Анже?
+AN94(0)<Speaker>AN-94</Speaker>||<BIN>99</BIN>:AK-12 только что закончила создавать новую блокировку сигнала, и Анже сейчас передаёт сообщение.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:Она сказала, что попросит своих руководителей о поддержке... +Сейчас, когда дело дошло до такого, они вряд ли появятся, да?
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>99</BIN>:Я никогда не надеялась на какую-либо поддержку. +9-я, как дела?
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)||<BIN>99</BIN>:Мы с остальными расставили манекены, чтобы следить за ключевыми участками. Военные бронетанковые части продвигаются вперёд.
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker>||<BIN>99</BIN><黑点1>:Бронетанковые части, да... +Посмотрим, что Анже придумает сначала.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN><黑点2>:Я уже нашла несколько отчетов, связанных с системой поддержки OGAS на их серверах, и могу высказать основные предположения об их целях...
+NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:Ты же знаешь, что домыслы не считаются доказательствами. Без доказательств мы не сможем получить разрешение на расследование.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Но ты уже должна была догадаться, что они затевают, если мы их сейчас не остановим...
+NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:Я понимаю. Участники комитета уже недовольны их действиями, но пока никто не хочет выступить и разобраться с этим.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>: Они всё ещё пытаются прикрыть свои задницы в такой ситуации?
+NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:После войны все, кто был в высшем руководстве, стали изгоями. +Есть много внутреннего противостояния вступлению в Панъевропейский альянс, и скоро может начаться новая волна перестановок. +Министерство внутренних дел не может просто так влезать в это дело.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Ты имеешь в виду новый цикл чисток...
+NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:В любом случае, без приказа с самого верха прямой конфликт с Военными — это измена.+ Я уже попросила министра надавить на премьер-министра, но пока от него никакого ответа.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:И поэтому наши подразделения снаружи по-прежнему связаны по рукам и ногам.
+NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:Боюсь, что так.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Шеф... ты даже не представляешь, насколько это серьезно!+Если они добьются своего, дело не ограничится простой перестановкой кадров!
+NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:Я понимаю. Поэтому твоя миссия ещё не завершена.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Я не могу в одиночку остановить регулярную армию. Я не могу сотворить чудо с помощью всего нескольких Т-Кукол!
+NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:Об этом уже пишут в газетах. По крайней мере, у них пока нет полномочий на передачу четырёх основных подразделений из зарубежного командования... и ВВС всё ещё на нашей стороне. +По информации, которую я получил, силы в спорной зоне в основном состоят из автономных подразделений, которые не связаны договорными обязательствами. +У тебя ещё есть шанс.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Я снова прошу разрешения приступить к финальному плану. Мы слишком рискуем!+Даже если мы не сможем собрать больше доказательств, в этот раз мы не можем позволить им поступить по-своему!
+NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:Нет. Если выяснится, что мы разбомбили оперативную зону, Запад решит, что в стране внутренние проблемы. +Это очень опасный сигнал.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Неужели сейчас время переживать о том, как нас воспринимают?!
+NPC-Ange(0)<Speaker>???</Speaker>||<BIN>99</BIN>:Сейчас важный момент для переговоров. Не давайте противникам поводов для критики. +Разведывательный отряд оценит общую ситуацию. Мы ещё не дошли до этого этапа. Постарайся сорвать их планы обычными методами. Конец связи.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN><黑屏1>:Эх... легче сказать, чем сделать.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN><黑屏2>:AK-12.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Как дела?
+AK12(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Давайте оценим наши ресурсы. Как можно лучше следите за сигналами Военных. Нам предстоит тяжелая борьба.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Поняла. Я займусь этим.
+AK12(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:45-я.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Твои приказы?
+UMP45(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Хоть я и не очень хочу это делать, следи за всеми сигналами, которые M4A1 отправляет и получает. Особенно внимательно следи за скрытыми передачами на Уровне II.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Так ты наконец-то решила использовать её как приманку.
+UMP45(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Если не сможем справиться с Военными, будем иметь дело с Владыкой. +Не знаю почему, но Владыка, кажется, очень заинтересована в M4.
+UMP45(0)<Speaker>UMP45</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:...Хотя я обычно не спорю с твоими приказами... +Если мы уничтожим Владыку, наша единственная зацепка, ведущая к главной движущей силе всего этого, исчезнет. +Ты знаешь, что это для нас означает.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN><黑点1>:... +Я понял. Постараюсь сделать всё, чтобы этого не случилось.
+()||<BIN>10</BIN><黑点2>:Клик—
+UMP9(0)<Speaker>UMP9</Speaker>||<BIN>10</BIN>:416-я и остальные заметили отряд Сангвиса рядом с нами. Может, атаковать?
+UMP45(0)<Speaker>UMP45</Speaker>||<BIN>10</BIN>:И как нам быть, Анже?
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>10</BIN><黑点1>:Тогда считай это разминкой. Нам нужно свободное место для работы.
