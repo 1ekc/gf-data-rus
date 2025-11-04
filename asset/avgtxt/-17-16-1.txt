@@ -1,12 +1,12 @@
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>:... +Fifteen seconds after comms have been disrupted.
-格里芬人形A()<Speaker>Griffin T-Doll A</Speaker>||<BGM>BGM_War</BGM><火花>:What...should we do now?
-格里芬人形C()<Speaker>Griffin T-Doll C</Speaker>||:I don't know. Comms were cut, but the Sangvis forces...look like they've stopped too.
-格里芬人形A()<Speaker>Griffin T-Doll A</Speaker>||:So...should we wait?
-格里芬人形B()<Speaker>Griffin T-Doll B</Speaker>||:We'd just be sitting ducks, wouldn't we?! +I don't want to die for nothing. At least let me fire off a shot or something—!
-格里芬人形A()<Speaker>Griffin T-Doll A</Speaker>||:Stop that! Nobody knows where anyone else is, you'll hit our own people—!
-格琳()<Speaker>Kalin</Speaker>||:T-Dolls of Griffin!
-格里芬人形C()<Speaker>Griffin T-Doll C</Speaker>||:It's Kalin! She's using a megaphone!
-格琳()<Speaker>Kalin</Speaker>||:There's a gap at Northwest 315! +Hurry! Just rush over as fast as you can! +It doesn't matter how many of you there are! Everyone, work together and flee with all your might!
-格里芬人形B()<Speaker>Griffin T-Doll B</Speaker>||:They're fighting up ahead! Let's go too!
-格里芬人形C()<Speaker>Griffin T-Doll C</Speaker>||:I'll take the lead! Remember to recover my neural cloud! +Ypaaaaaaaaa—!
-BOSS-7(0)<Speaker>Gager</Speaker>||<黑屏1>:Hey! Wait a minute! +W-why are they suddenly— +Unforgivable! All units, attack!
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>:... +Через пятнадцать секунд после сбоя связи.
+格里芬人形A()<Speaker>Т-Кукла Грифона A</Speaker>||<BGM>BGM_War</BGM><火花>:Что... нам теперь делать?
+格里芬人形C()<Speaker>Т-Кукла Грифона C</Speaker>||:Не знаю. Связь оборвалась, но войска Сангвиса... похоже, тоже остановились.
+格里芬人形A()<Speaker>Т-Кукла Грифона A</Speaker>||:Так... нам ждать?
+格里芬人形B()<Speaker>Т-Кукла Грифона B</Speaker>||:Мы будем просто легкой мишенью, да?+ Я не хочу умирать понапрасну. По крайней мере, дайте мне выстрелить или что-нибудь сделать—!
+格里芬人形A()<Speaker>Т-Кукла Грифона A</Speaker>||:Хватит! Никто не знает, где находятся другие, ты можешь попасть в наших!
+格琳()<Speaker>Калин</Speaker>||:Т-Куклы Грифона!
+格里芬人形C()<Speaker>Т-Кукла Грифона C</Speaker>||:Это Калин! Она использует мегафон!
+格琳()<Speaker>Калин</Speaker>||:На Северо-Западной стороне 315 есть брешь! +Спешите! Бегите туда как можно быстрее! +Неважно, сколько вас! Все вместе, работайте сообща и бегите изо всех сил!
+格里芬人形B()<Speaker>Т-Кукла Грифона B</Speaker>||:Впереди драка! Пойдем и мы!
+格里芬人形C()<Speaker>Т-Кукла Грифона C</Speaker>||:Я пойду впереди! Не забудьте вернуть моё нейронное облако! +Урааааааааааааааааа
+BOSS-7(0)<Speaker>Гейгер</Speaker>||<黑屏1>:Эй! Подождите минутку! +П-почему они вдруг... +Это непростительно! Всем подразделениям, в атаку!
