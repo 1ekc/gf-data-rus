@@ -1,43 +1,44 @@
-()||<BIN>98</BIN><BGM>BGM_Empty</BGM>:...The battle ends.
-NPC-Kalin(4)<Speaker>Kalin</Speaker>||:Finally...Did we kill her? +Go check her corpse!
-NPC-Kalin(4)<Speaker>Griffin T-Doll A</Speaker>||:Commander! Miss Kalin! That corpse was just a Dummy!
-NPC-Kalin(2)<Speaker>Kalin</Speaker>||:Eh?! A powerful enemy like that was still just a Dummy?! +Then...where could the real Agent be...?
-()||<BIN>98</BIN><震屏><SE1>Explode</SE1><黑屏1>:...Bang!
-()||<BIN>9</BIN><BGM>BGM_stage10</BGM><黑屏2><火花>:...A thunderous explosion blasts me from behind! +Fire falls like rain and smoke fills the air. The darkness spins as I fall. +...... +...
-格琳()<Speaker>Kalin</Speaker>||:Commander, where are you?! +Answer me, Commander—! +Everyone, put out the flames! And look for the Commander!
-()||:... +...I've fallen underground, and the entire command post is burning. +The sound of crisp, elegant footsteps approaches me.
-？？()<Speaker>??</Speaker>||:Humans are so weak... +You're already unable to move after a fall like this.
-()||:...I hear the Doll's voice in the darkness and hurriedly raise my sidearm to defend myself.
-()||:...Thud! +Something heavy presses down on my chest, making it difficult to breathe.
-代理人()<Speaker>Agent</Speaker>||:My apologies. That was carelessness on my part. +But don't you think you're acting too surprised?
-()||:...The smoke begins to clear, and my vision slowly returns.
-代理人()<Speaker>Agent</Speaker>||<黑屏1>:After all, I did say... +That I would bury you personally...
-代理人()<Speaker>Agent</Speaker>||<BIN>123</BIN><睁眼>:
-()||:...My handgun...is nowhere to be found. 
-代理人()<Speaker>Agent</Speaker>||:All humans are bound for death, and I am always happy to oblige them. +Two years ago, another Griffin commander confronted me like this. +I wonder who was more pathetic, you or her? I'm sorry, it is hard for me to judge, but in any case, the outcome is always the same...
-()||:...I try to struggle, but the Sangvis Doll's strength is far beyond what I can imagine.
-代理人()<Speaker>Agent</Speaker>||:I'm sorry, did that hurt? Still, I'm already being very restrained. It is obvious your chest would not be able to take it if I simply rested my full weight upon it. +And I like it slow...I like to take my time and savor it...
-()||<震屏><BIN>122</BIN>:...The weight on my chest grows heavier and heavier, and it becomes harder and harder to breathe.
-代理人()<Speaker>Agent</Speaker>||:Ah... +This is humanity, this is death...
-()||:...I can't...breathe anymore.
-代理人()<Speaker>Agent</Speaker>||:Dear Commander... +Your face is becoming more and more beautiful... +This...is the last... +The very last mark you will leave on this world...
-()||:...Is this...the end?
-()||<黑屏1>:...Click.
-？？()<Speaker>??</Speaker>||<黑屏2><BIN>9</BIN>:Hold it, Agent! +Let's talk!
-BOSS-8(0)<Speaker>Agent</Speaker>()||:...! +This voice...
-BOSS-8(0);NPC-Ange(0)<Speaker>Angelia</Speaker><通讯框>||:Nostalgic, huh? You weren't very thorough as a murderer.
-BOSS-8(0)<Speaker>Agent</Speaker>;NPC-Ange(0)||:...Why are you still alive?
-BOSS-8(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:That's not important. The point is that this Commander must live!
-BOSS-8(0)<Speaker>Agent</Speaker>;NPC-Ange(0)||:And why is that?
-BOSS-8(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:Do you...wish to see M4A1?
-BOSS-8(0)<Speaker>Agent</Speaker>;NPC-Ange(0)||:...
-BOSS-8(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:I have a way to let you meet.
-BOSS-8(0)<Speaker>Agent</Speaker>;NPC-Ange(0)||:Do you think I'll believe you?
-BOSS-8(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:You have to believe me! +All of S.F.'s usable forces have been wiped out, and if you want to fulfil your Mastermind's wish, then let this Commander live. +I will...I will arrange for her to meet you.
-BOSS-8(0)<Speaker>Agent</Speaker>;NPC-Ange(0)||:... +For this human?
-BOSS-8(0);NPC-Ange(0)<Speaker>Angelia</Speaker>||:I'm human, too. I have my reasons for doing this.
-BOSS-8(0)<Speaker>Agent</Speaker>;NPC-Ange(0)||:I cannot understand humans, nor am I inclined to. +I simply wish to enjoy a vacation before the apocalypse comes. +But it would seem...even such a small thing is too much to ask for.
+()||<BIN>98</BIN><BGM>BGM_Empty</BGM>:...Сражение закончилось.
+NPC-Kalin(4)<Speaker>Калин</Speaker>||:Наконец-то... Мы её убили? +Иди проверь её труп!
+NPC-Kalin(4)<Speaker>Т-Кукла Грифона A</Speaker>||:Командир! Мисс Калин! Этот труп был всего лишь болванкой!
+NPC-Kalin(2)<Speaker>Калин</Speaker>||:Э?! Такой крутой противник был всего лишь болванкой?! +Тогда... где же может быть настоящее тело Агента...?
+()||<BIN>98</BIN><震屏><SE1>Explode</SE1><黑屏1>:...Бэнг!
+()||<BIN>9</BIN><BGM>BGM_stage10</BGM><黑屏2><火花>:...Грохочущий взрыв сбивает меня с ног! Огонь сыплется как дождь, а дым заполняет воздух. Вокруг темнота, и я падаю.+...... +...
+格琳()<Speaker>Калин</Speaker>||:Командир, где ты?! +Ответь мне, Командир-! +Все, тушите огонь! И ищите Командира!
+()||:... +...Я упал под землю, и весь командный пункт горит. +Ко мне приближаются чёткие, элегантные шаги.
+？？()<Speaker>??</Speaker>||:Люди такие слабые... +Ты уже не можешь двигаться после такого падения.
+()||:...Я слышу голос Куклы в темноте и быстро поднимаю пистолет, чтобы защититься.
+()||:...Бац!+Что-то тяжелое давит мне на грудь, мешая дышать.
+代理人()<Speaker>Агент</Speaker>||:Приношу извинения. Это была моя оплошность. +Но тебе не кажется, что ты слишком удивляешься?
+()||:...Дым начинает рассеиваться, и я постепенно начинаю видеть.
+代理人()<Speaker>Агент</Speaker>||<黑屏1>:В конце концов, я же сказала... +Что я сама тебя похороню...
+代理人()<Speaker>Агент</Speaker>||<BIN>123</BIN><睁眼>:
+()||:...Мой пистолет... его нигде не видно.
+代理人()<Speaker>Агент</Speaker>||:Все люди обречены на смерть, и я всегда охотно помогаю им в этом. +Два года назад другой Командир Грифонов так же бросил мне вызов. +Интересно, кто из вас двоих был более жалким — ты или она? Прости, мне трудно судить, но в любом случае результат всегда один и тот же...
+()||:...Я пытаюсь сопротивляться, но силы Куклы Сангвис намного сильнее, чем я мог себе представить.
+代理人()<Speaker>Агент</Speaker>||:Извини, тебе больно? Но я уже очень сдерживаюсь. Понятно, что твоя грудь не выдержит, если я просто опущусь на нее всем своим весом. +И мне нравится, когда все происходит медленно... Я люблю не торопиться и наслаждаться моментом...
+()||<震屏><BIN>122</BIN>:...Груз на груди становится все тяжелее и тяжелее, и дышать становится всё труднее и труднее.
+代理人()<Speaker>Агент</Speaker>||:Ах...+Это и есть жизнь, это смерть...
+()||:...Я не могу... больше дышать.
+代理人()<Speaker>Агент</Speaker>||:Дорогой Командир... +Твоё лицо становится всё красивее... +Это... последний... +Самый последний след, который ты оставишь в этом мире...
+()||:...Это... конец?
+()||<黑屏1>:...Клик.
+？？()<Speaker>??</Speaker>||<黑屏2><BIN>9</BIN>:Стой, Агент!+Давай поговорим!
+BOSS-8(0)<Speaker>Агент</Speaker>()||:...! +Этот голос...
+BOSS-8(0);NPC-Ange(0)<Speaker>Анжелия</Speaker><通讯框>||:Ностальгически, да? Ты не особо тщательно подошла к делу убийства.
+BOSS-8(0)<Speaker>Агент</Speaker>;NPC-Ange(0)||:...Почему ты еще жива?
+BOSS-8(0);NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Это не важно. Важно то, что этот Командир должен жить!
+BOSS-8(0)<Speaker>Агент</Speaker>;NPC-Ange(0)||:И почему это так?
+BOSS-8(0);NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Ты... хочешь увидеть M4A1?
+BOSS-8(0)<Speaker>Агент</Speaker>;NPC-Ange(0)||:...
+BOSS-8(0);NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Я знаю, как устроить вашу встречу.
+BOSS-8(0)<Speaker>Агент</Speaker>;NPC-Ange(0)||:Ты думаешь, я тебе поверю?
+BOSS-8(0);NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Ты должна мне поверить! +Все боевые силы С.Ф. уничтожены, и если ты хочешь исполнить желание своего Владыки, то оставь в живых этого Командира. +Я... Я устрою так, чтобы она встретилась с тобой.
+BOSS-8(0)<Speaker>Агент</Speaker>;NPC-Ange(0)||:... +Ради этого человека?
+BOSS-8(0);NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Я тоже человек. У меня есть свои причины так поступать.
+BOSS-8(0)<Speaker>Агент</Speaker>;NPC-Ange(0)||:Я не могу понять людей и даже не хочу. +Я просто хочу насладиться отпуском, пока не наступил конец света. +Но, похоже... даже такая мелочь — это слишком много, чтобы о ней просить.
 BOSS-8(0);NPC-Ange(0)||:
-()||<黑屏1><关闭火花>:...Phew— +...The weight suddenly lifts off my chest.
+()||<黑屏1><关闭火花>:...Фух... +...Внезапно вес с моей груди спадает.
 ()||<黑屏2>:...... + ...
-代理人()<Speaker>Agent</Speaker>||<黑屏1>:Whether we are humans or Dolls, work gives us a reason to live. +...Don't you agree, Griffin Commander?
+代理人()<Speaker>Агент</Speaker>||<黑屏1>:Неважно, люди мы или Куклы, работа даёт нам смысл жизни. +...Ты не согласен, Командир Грифона?
+
