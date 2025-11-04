@@ -1,10 +1,11 @@
-()||<BIN>4</BIN><BGM>BGM_Sneak</BGM><Night>:...At the Griffin temporary command post.
-HK21(0)<Speaker>HMG21</Speaker>||:Um, there you are, Commander... +I was only able to reunite with my sister Gr G3 thanks to you.+Still...now isn't the time to celebrate the joy of seeing her again... +Big Sis Gr G3 asked me to tell you that the echelons fighting with Sangvis units are running low on supplies, but the Sangvis forces keep increasing in number and they're under a lot of pressure. +Therefore, she hopes that you can re-establish a supply line to them, Commander... +This is also a request of mine, I want to help my sister...so please, help us.
-()||:...Click.
-PDW(0)<Speaker>Honey Badger</Speaker><通讯框>||:Commander, Honey Badger here. +I've finished scouting the area you indicated earlier. +The Military and S.F. are fighting there. If we want to continue forward, we'll need to circle around them.
-HK21(0)<Speaker>HMG21</Speaker>;PDW(0)||:Looks like the situation has gotten worse... But any risk is worth taking for my sister... +Commander, let's begin...the operation!
-HK21(0);PDW(0)<Speaker>Honey Badger</Speaker>||:It's good to be motivated, but don't forget to reinforce me in combat!
-HK21(0)<Speaker>HMG21</Speaker>;PDW(0)||:Nobody else matters besides Gr G3's safety...
-HK21(0);PDW(0)<Speaker>Honey Badger</Speaker>||:Hey, wait a minute. What did you just say?!
-HK21(0)<Speaker>HMG21</Speaker>;PDW(0)||:...I was just kidding. +After all, these are dangerous times. We can only survive if we work together...I think.
-PDW(0)<Speaker>Honey Badger</Speaker>||:Hey, so you mean it doesn't matter under normal circumstances?! +...Ahh, forget it. +Commander, I'll coordinate my movements with you. +Let's all do our best! Now's the time to show your courage and overcome the trials before you!
+()||<BIN>4</BIN><BGM>BGM_Sneak</BGM><Night>:...На временном командному пункте Грифона.
+HK21(0)<Speaker>HMG21</Speaker>||:Эм, вот и ты, Командир... +Только благодаря тебе я смогла воссоединиться со своей сестрой Gr G3.+Но... сейчас не время радоваться встрече с ней... +Старшая сестра Gr G3 попросила меня передать тебе, что эшелоны, сражающиеся с подразделениями Сангвис, испытывают нехватку припасов, но силы Сангвис продолжают расти, и они находятся под большим давлением. +Поэтому она надеется, что ты сможешь восстановить линию снабжения для них, Командир... +Это также моя просьба, я хочу помочь своей сестре... так что, пожалуйста, помоги нам.
+()||:...Клик.
+PDW(0)<Speaker>Honey Badger</Speaker><通讯框>||:Командир, это Honey Badger. Я закончила разведку района, который ты обозначил мне ранее.+Там идут бои между Военными и С.Ф. Если мы хотим продолжить продвижение, нам нужно обойти их.
+HK21(0)<Speaker>HMG21</Speaker>;PDW(0)||:Похоже, ситуация ухудшилась... Но ради моей сестры стоит пойти на любой риск... +Командир, давайте начнем... операцию!
+HK21(0);PDW(0)<Speaker>Honey Badger</Speaker>||:Мотивация — это круто, но не забудь поддержать меня в бою!
+HK21(0)<Speaker>HMG21</Speaker>;PDW(0)||:Кроме безопасности Gr G3, ничего больше не имеет значения...
+HK21(0);PDW(0)<Speaker>Honey Badger</Speaker>||:Эй, погоди минутку. Что ты только что сказала?!
+HK21(0)<Speaker>HMG21</Speaker>;PDW(0)||:...Я просто пошутила.+В конце концов, сейчас опасные времена. Мы сможем выжить только если будем работать вместе... наверное.
+PDW(0)<Speaker>Honey Badger</Speaker>||:Эй, так ты хочешь сказать, что в обычных условиях это не имеет значения?! +...Ах, забудь. +Командир, я буду координировать свои действия с тобой. +Давайте все постараемся! Пришло время проявить мужество и преодолеть стоящие перед нами испытания!
+
