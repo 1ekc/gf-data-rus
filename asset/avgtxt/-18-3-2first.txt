@@ -1,40 +1,41 @@
 ()||<BIN>71</BIN><BGM>BGM_Room</BGM><黑屏2>:...
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:AR-15...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:What is it?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:When...you were in that building back then... +And you knew you were about to die...what were you thinking?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Did you ever consider what you would do if...your sacrifice was for nothing? +Even if you didn't care about what we thought, what if—
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:If I didn't do it, none of us would have been able to get out of there. +The situation back then would have killed everyone, including you. +And that principal order of mine didn't allow me to permit such an outcome.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Even...if it meant sacrificing yourself...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Everyone in the AR Team with the exception of yourself was created to protect you. +That was the most fundamental order Persica gave us, and the pretext behind every action we took. +We went through many iterations in order to be strong enough to protect you... +While I didn't have much experience, M16 had been through many battles already, which was why Persica allowed you to operate on the battlefield.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...RO once said that she was made for the express purpose of saving me...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:So she was the same, huh... +Looks like Persica really cherishes you. +You truly are a lucky Doll.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:It wasn't my intention to make you sacrifice yourselves for me over and over again... +If I had a choice, I'd rather be the one who disappeared...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Unfortunately, we're Dolls, and we never had the right to choose in the first place.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Yet you still came by your own will, didn't you?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Ange needed more hands to complete her mission. +And I had no reason to refuse her.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Whatever your reasons, you've already made your decision...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:... +If you've steeled yourself to walk my path... +Then the last thing I can do is to remind you that more people hope for your safety than you think.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:... +If all you needed to stop me was to take me down, could you do it?
-AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Take you down? +You mean snapping off your legs and carrying you around the whole day all over again? +Forget it. We both know even if I did that, it wouldn't change your mind.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Что такое?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Когда ты была в том здании... +И ты знала, что скоро умрешь... о чём ты думала?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ты когда-нибудь думала, что бы ты сделала, если бы... твоя жертва оказалась напрасной?+Даже если тебе было все равно, что мы думаем, что если—
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Если бы я этого не сделала, никто из нас бы оттуда не выбрался. +В той ситуации все бы погибли, включая тебя. +И мой принцип не позволял мне допустить такой исход.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Даже... если это означало пожертвовать собой...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Все в Команде AR, кроме тебя, были созданы, чтобы тебя защищать.+Это был самый важный приказ, который нам дала Персика, и причина каждого нашего действия.+Мы прошли через много испытаний, чтобы стать достаточно сильными, чтобы тебя защищать... +Хотя у меня не было большого опыта, M16 уже участвовала во многих сражениях, поэтому Персика разрешила тебе действовать на поле боя.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...RO однажды сказала, что она была создана специально для того, чтобы спасти меня...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Так она была такой же, да... +Похоже, Персика тебя очень любит. +Ты действительно счастливая Кукла.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Я не хотела, чтобы вы снова и снова жертвовали собой ради меня... +Если бы у меня был выбор, я бы предпочла исчезнуть сама...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:К сожалению, мы Куклы, и у нас никогда не было права выбора.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Но ты всё равно пришла по своей воле, верно?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Анже нужна была помощь, чтобы закончить свою миссию.+И у меня не было причин ей отказывать.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Какие бы ни были твои причины, ты уже приняла решение...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:... +Если ты решилась идти моим путём... +Тогда последнее, что я могу сделать, это напомнить тебе, что больше людей, чем ты думаешь, надеются на твою безопасность.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:... +Если бы для того, чтобы остановить меня, нужно было просто сбить меня с ног, ты бы смогла это сделать?
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Свалить тебя?+ы имеешь в виду отломать тебе ноги и таскать тебя весь день?+Забудь. Мы обе знаем, что даже если я это сделаю, ты всё равно не передумаешь.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:AK-12 once said that you're actually so intent on finding SOP-II, you could barely focus on your mission. +Now I believe it.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:I'm the leader of the AR Team, and I have a responsibility to bring them home, AR-15. You matter much more to me than my revenge.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I guess hearing you say that has put me at ease. +But M4, if you pursue this matter, you must not consider yourself the biggest sacrifice you can make, do you understand?  +I'm no longer bound by that principal order, but the others aren't like me. +If you want to die, think about SOP-II's smile first.
-()||:M4 smiles.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...We've got a hard battle ahead of us. +Go rest and recharge first. I'll keep an eye on the surroundings. We'll alternate shifts.
-AR15Mod(3)<Speaker>ST AR-15</Speaker>||:... +You don't need to come up with such an excuse to give me the slip. +I won't even bother looking for you.
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:I forgot this wasn't the AR Team anymore... +...Well, that's fine too... In that case...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Even if this isn't the AR Team anymore, you're still my team leader... +I'm sure you have some compelling reason to do this alone... +And I respect your decision.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:... +Thank you, AR-15.
-()||:AR-15 turns her back on M4.
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:Just this once. +Bring them back with you. Don't let our sacrifices be in vain.
-AK12(0)<Speaker>AK-12</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:It's time for your scheduled call-in. Anything you want to report? Are you still alive?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||:AK-12, huh... +M4's...gone AWOL.
-AR15Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Oh, Ange knew she'd do that. In any case, there's a new rendezvous point. You'd best hurry over.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||:...Since she knew this would happen and took no precautions... +Am I right to understand that she's using M4 as bait for Sangvis Ferri?
-AR15Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:She's just bait for now. The Military has already shaken off Griffin's blockade and is heading your way. +If you don't hurry, the bait might just end up becoming a sacrificial lamb.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||:How much longer do we have?
-AR15Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:30 minutes at most.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||:So little time... +I have one more question. Does Ange plan on having all of us survive?
-AR15Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:From what I know of her, she couldn't care less about herself. +You'd know, given the events in the Safe House 3.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||<黑屏1>:...Then I'll trust her one more time.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:AK-12 как-то сказала, что ты настолько зациклена на поиске SOP-II, что едва ли можешь сосредоточиться на своей миссии. +Теперь я в это верю.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Я лидер Команды AR, и я обязана вернуть их домой, AR-15. Ты для меня гораздо важнее, чем моя месть.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Думаю, твои слова меня успокоили. Но, М4, если ты продолжишь это дело, не считай себя самой большой жертвой, которую ты можешь принести, понятно?+Я больше не связан этим принципом, но другие не такие, как я. Если хочешь умереть, сначала вспомни улыбку SOP-II.
+()||:M4 улыбается.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Нас ждет тяжелая битва. +Сначала отдохни и наберись сил. Я буду следить за окружающей обстановкой. Будем меняться сменами.
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:... +Не надо придумывать такие отмазки, чтобы от меня отделаться.+Я даже не буду тебя искать.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Я забыла, что это уже не Команда AR... +...Ну, ничего страшного... В таком случае...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Даже если это больше не Команда AR, ты всё равно мой лидер... +Уверена, у тебя есть веские причины действовать в одиночку... +И я уважаю твоё решение.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:... +Спасибо тебе, AR-15.
+()||:AR-15 отворачивается от M4.
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:Только в этот раз. +Верни их с собой. Не дай нашим жертвам пропасть даром.
+AK12(0)<Speaker>AK-12</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:Пора выходить на связь. Есть что сообщить? Ты всё ещё жива?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||:AK-12, да... +M4... пропала без вести.
+AR15Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:О, Анже знала, что она так поступит. В любом случае, есть новое место встречи. Тебе лучше поспешить.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||:...Поскольку она знала, что это произойдет, и не приняла никаких мер предосторожности...+Правильно ли я понимаю, что она использует M4 в качестве приманки для Сангвис Ферри?
+AR15Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Пока она просто приманка. Военные уже прорвали блокаду Грифона и идут к тебе.+Если не поторопишься, приманка может просто стать жертвенным агнцем.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||:Сколько времени у нас ещё есть?
+AR15Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Не более 30 минут.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||:Так мало времени... +У меня ещё один вопрос. Анже планирует, что мы все выживем?
+AR15Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Из того, что я о ней знаю, ей абсолютно всё равно на себя. +Ты бы это знала, учитывая события в «Убежище № 3».
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;AK12(0)||<黑屏1>:...Тогда я ей ещё раз доверюсь.
+
