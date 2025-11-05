@@ -1,14 +1,15 @@
-AK12(0)<Speaker>AK-12</Speaker>||<BIN>99</BIN><BGM>BGM_Sneak</BGM><黑点2>:Even with that stirring pep talk, we alone won't be able to stop the Military's main forces.
-AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:That's true... We don't stand a chance until we get the airdropped package.
-AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:So by sending out M4, you're hoping the Sangvis Mastermind will take the bait?
-AK12(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>99</BIN>:Something like that. After all, we need to prepare a backup plan, but I'm personally more for settling things myself.
-AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:So what should we do next? We don't have any weapons on hand that can counter armored units. 
-NPC-Ange(0)<Speaker>Ange</Speaker>||<黑点1><BIN>99</BIN>:Now that things have gotten this far, it looks like we'll have to owe the Griffin Commander a favor.
+AK12(0)<Speaker>AK-12</Speaker>||<BIN>99</BIN><BGM>BGM_Sneak</BGM><黑点2>:Даже с такой крутой мотивационной речью нам одним не удастся остановить основные силы Военных.
+AK12(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Это правда... У нас нет шансов, пока мы не получим посылку, сброшенную с воздуха.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Так что, отправив M4, ты надеешься, что Владыка Сангвис клюнет на приманку?
+AK12(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Что-то в этом роде. В конце концов, нам нужно приготовить запасной план, но я лично больше за то, чтобы решать вопросы самостоятельно.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Так что же нам делать дальше? У нас нет под рукой оружия, которое могло бы противостоять бронированным единицам.
+NPC-Ange(0)<Speaker>Анже</Speaker>||<黑点1><BIN>99</BIN>:Теперь, когда дело дошло до такого, похоже, мы будем должны Командиру Грифонов услугу.
 ()||<黑点2><BIN>10</BIN>:...
-NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>10</BIN>:...Ah, Griffin Commander? Do you copy?
-NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>||<BIN>10</BIN>:Ah! It's that whatsherface who saved you from before!
-NPC-Kalin(0);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>10</BIN>:I have nothing but the utmost respect for your courage in staying behind, Commander, and I believe you understand the situation that Griffin is in. +The AR Team and I are doing everything we can to prevent the worst from coming to pass, but the Military's armored units are already headed towards them. 
-NPC-Kalin(2)<Speaker>Kalin</Speaker>;NPC-Ange(0)||<BIN>10</BIN>:Eh?! Not Sangvis Ferri, but the Military?!
-NPC-Kalin(2);NPC-Ange(0)<Speaker>Ange</Speaker>||<BIN>10</BIN>:I know this is a very unreasonable request to make, but I would like you and your forces to delay the military units for as long as possible, in order to buy the AR Team some time. +Whether or not they can complete their mission depends on how long you can waylay the enemy. +My team and I will be supporting you from the sides. Best of luck to the both of us. 
-NPC-Kalin(2)<Speaker>Kalin</Speaker>||<BIN>10</BIN>:Why are they giving us another huge problem like this...? +We've been here for a full day and night without rest... +Commander, if we engage the Military now...
-NPC-Kalin(0)<Speaker>Kalin</Speaker>||<BIN>10</BIN>:Yeah, you're right. If it's for the AR Team...then we have to keep fighting!
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>10</BIN>:...Эй, Командир Грифона? Ты меня слышишь?
+NPC-Kalin(0)<Speaker>Калин</Speaker><通讯框>||<BIN>10</BIN>:А! Это же та, которая тебя раньше спасла!
+NPC-Kalin(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>10</BIN>:Я очень уважаю твою смелость, Командир, и думаю, ты понимаешь, в какой ситуации находится Грифон.+Мы с Командой AR делаем всё, что можем, чтобы не допустить худшего, но бронетанковые части уже движутся к ним.
+NPC-Kalin(2)<Speaker>Калин</Speaker>;NPC-Ange(0)||<BIN>10</BIN>:Э?! Не Сангвис Ферри, а Военные?!
+NPC-Kalin(2);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>10</BIN>:Я знаю, что это очень неразумная просьба, но я бы хотела, чтобы ты и твои отряды как можно дольше задерживали боевые единицы, чтобы выиграть время для Команды AR. +Успех их миссии зависит от того, как долго ты сможешь сдерживать врага. +Моя команда и я будем поддерживать тебя с флангов. Удачи нам обоим.
+NPC-Kalin(2)<Speaker>Калин</Speaker>||<BIN>10</BIN>:Почему они создают нам очередную огромную проблему...? +Мы уже целые сутки без отдыха... +Командир, если мы сейчас вступим в конфликт с Военными...
+NPC-Kalin(0)<Speaker>Калин</Speaker>||<BIN>10</BIN>:Да, ты прав. Если это для Команды AR... то мы должны продолжать бороться!
+
