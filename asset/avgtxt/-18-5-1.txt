@@ -1,15 +1,16 @@
 ()||<BIN>98</BIN><BGM>BGM_Battle</BGM><黑屏2><火花><SE1>Gunfight</SE1>:...
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Squad 404! How are you holding up?!
-UMP45(2)<Speaker>UMP45</Speaker>||:Ange seems to have forgotten that 404 was never meant to fight pitched battles like this... (Coughs) Things aren't looking too good...
-HK416(3)<Speaker>416</Speaker>||:Hurry up and think of a solution with that devious neural cloud of yours, UMP45!
-UMP45(2)<Speaker>UMP45</Speaker>||:Even the most devious neural cloud can't shoot through 150mm of armor plating.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:What about Ange's last resort?
-UMP45(2)<Speaker>UMP45</Speaker>||:It's not time yet... Ange hasn't given the order...!
-UMP9(2)<Speaker>UMP9</Speaker>||:Griffin signals, 750m on the right flank!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Отряд 404! Как у вас дела?!
+UMP45(2)<Speaker>UMP45</Speaker>||:Анже, похоже, забыла, что 404 никогда не был предназначен для таких сражений... (Кашель) Дела обстоят не слишком хорошо...
+HK416(3)<Speaker>416</Speaker>||:Поторопись и придумай решение с помощью своего коварного нейронного облака, UMP45!
+UMP45(2)<Speaker>UMP45</Speaker>||:Даже самое изощренное нейронное облако не сможет пробить 150-миллиметровую броню.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:А как насчет последнего средства Анже?
+UMP45(2)<Speaker>UMP45</Speaker>||:Ещё не время... Анже не отдавала приказ...!
+UMP9(2)<Speaker>UMP9</Speaker>||:Сигналы Грифона, 750 м на правом фланге!
 M4A1Mod(4)<Speaker>M4A1</Speaker>||:Is it the Commander?!
-NPC-Ange(0)<Speaker>Angelia</Speaker><通讯框>||:M4! 45! Do you copy?! The Commander and I are exchanging fire with the Military! +We'll delay them, so use this opportunity to pick your way through their scattered units! You MUST find Mastermind! Do you hear me?!
-UMP45(2)<Speaker>UMP45</Speaker>||:416 and Gr G11, get on that tower up there and provide fire support! +M4! Come with me and 9! We're taking the shortest route!
-HK416(3)<Speaker>416</Speaker>||:What do you mean shortest route, are you trying to commit suicide?!
-UMP45(2)<Speaker>UMP45</Speaker>||:From what I can see, their tanks can't shoot at low angles! +Draw their fire away from us! If we move fast enough, we might have the ghost of a chance to do this!
-HK416(3)<Speaker>416</Speaker>||:Tsk! You're all insane! Gr G11, get up, we're moving!
-G11(2)<Speaker>Gr G11</Speaker>||<黑屏1><关闭火花>:R...right away!
+NPC-Ange(0)<Speaker>Анжелия</Speaker><通讯框>||:M4! 45-я! Слышите меня?! Мы с Командиром отвлекаем внимание Военных! +Мы их задержим, так что воспользуйтесь моментом и проберитесь через их разрозненные отряды! Вы ДОЛЖНЫ найти Владыку! Слышите меня?!
+UMP45(2)<Speaker>UMP45</Speaker>||:416-я и Gr G11, поднимитесь на ту башню и обеспечьте огневую поддержку! +M4! Пойдёшь со мной и 9-й! Мы пойдём кратчайшим путём!
+HK416(3)<Speaker>416</Speaker>||:Что значит «кратчайший путь», ты что, хочешь покончить с собой?!
+UMP45(2)<Speaker>UMP45</Speaker>||:Насколько я вижу, их танки не могут стрелять под низким углом! +Отвлеките их огонь от нас! Если мы будем действовать быстро, у нас может появиться шанс это сделать!
+HK416(3)<Speaker>416</Speaker>||:Эх! Вы все с ума сошли! Gr G11, вставай, мы уходим!
+G11(2)<Speaker>Gr G11</Speaker>||<黑屏1><关闭火花>:Д....да, встаю!
+
