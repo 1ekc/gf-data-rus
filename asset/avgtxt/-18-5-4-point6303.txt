@@ -1,54 +1,55 @@
 ()||<BIN>99</BIN><BGM>bossbattle_loop</BGM><黑屏2><火花><SE1>Gunfight</SE1>:...
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:We're ready to move, 45!
-UMP45(2)<Speaker>UMP45</Speaker>||:416! Gr G11! Listen up! +Their electromagnetic cannons take 20 seconds to charge! Hit them as hard as you can to draw the attention of their fire control and leave 10 seconds to reposition! +Got that? Fire everything you've got!
-HK416(3)<Speaker>416</Speaker>||<SE1>Gunfight</SE1>:On it!
-UMP45(2)<Speaker>UMP45</Speaker>||:Hurry! Run! Run before the turret turns to us!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:We're running!
-UMP45(2)<Speaker>UMP45</Speaker>||:8 seconds! 416! Hurry up and move!
-HK416(0)<Speaker>416</Speaker>||:I don't need you to remind me!
-G11(3)<Speaker>Gr G11</Speaker>||:Holy crap! 416, RUN!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Мы готовы двигаться дальше, 45-я!
+UMP45(2)<Speaker>UMP45</Speaker>||:416-я! Gr G11! Слушайте! +Их электромагнитные пушки заряжаются 20 секунд! Ударьте по ним со всей силы, чтобы отвлечь внимание их системы управления огнем, и оставьте 10 секунд на перемещение! +Понятно? Стреляйте всем, что есть!
+HK416(3)<Speaker>416</Speaker>||<SE1>Gunfight</SE1>:Начинаю!
+UMP45(2)<Speaker>UMP45</Speaker>||:Давай быстрее! Беги! Беги, пока турель не повернулась к нам!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Мы бежим!
+UMP45(2)<Speaker>UMP45</Speaker>||:8 секунд! 416-я! Давай быстрее!
+HK416(0)<Speaker>416</Speaker>||:Не нужно мне об этом напоминать!
+G11(3)<Speaker>Gr G11</Speaker>||:Срань божья! 416-я, беги!
 ()||<SE1>Explode</SE1><震屏>:...!
-HK416(0)<Speaker>416</Speaker>||:That was enough to cut the lifespan of all my parts in half...
-UMP45(2)<Speaker>UMP45</Speaker>||:No time to complain! One more time! 9, get ready to follow me!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:I didn't think we'd actually manage to get through... +45! What's your status?!
-UMP45(2)<Speaker>UMP45</Speaker>||:We're holding on, but just barely! 9, keep close! +416, again!
-HK416(3)<Speaker>416</Speaker>||:You're all insane! I'M insane!
-G11(3)<Speaker>Gr G11</Speaker>||:My barrel...my gun's barrel is overheating...
-UMP45(2)<Speaker>UMP45</Speaker>||<SE1>Gunfight</SE1>:Keep shooting! Fire until your weapon breaks!
-UMP9(4)<Speaker>UMP9</Speaker>||:We're safe! +Scheiße! That tank pre-charged its cannon...!
-UMP45(2)<Speaker>UMP45</Speaker>||:What?! Was it anticipating us! +416, move quick!
-HK416(3)<Speaker>416</Speaker>||:It...it's too late... I'm finally going to...
-UMP45(2)<Speaker>UMP45</Speaker>||:Tsk!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:45! Stay in cover!
-UMP45(2)<Speaker>UMP45</Speaker>||:There's still time! There's one last block of TNT!
-UMP9(4)<Speaker>UMP9</Speaker>||:No good! They're too close!
+HK416(0)<Speaker>416</Speaker>||:Этого хватило, чтобы сократить срок службы всех моих деталей вдвое...
+UMP45(2)<Speaker>UMP45</Speaker>||:Не время жаловаться! Еще раз! 9-я, готовься следовать за мной!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Я не думала, что нам действительно удастся пройти... +45-я! Как у тебя дела?!
+UMP45(2)<Speaker>UMP45</Speaker>||:Мы держимся, но с трудом! 9-я, держись поближе! +416-я, еще раз!
+HK416(3)<Speaker>416</Speaker>||:Вы все с ума сошли! И я с ума сошла!
+G11(3)<Speaker>Gr G11</Speaker>||:Мой ствол... ствол моего автомата перегревается...
+UMP45(2)<Speaker>UMP45</Speaker>||<SE1>Gunfight</SE1>:Продолжай стрелять! Стреляй, пока оружие не сломается!
+UMP9(4)<Speaker>UMP9</Speaker>||:Мы в безопасности!+Дерьмо! Танк зарядил пушку...!
+UMP45(2)<Speaker>UMP45</Speaker>||:Что?! Он нас ждал! +416-я, быстрее!
+HK416(3)<Speaker>416</Speaker>||:Уже... уже слишком поздно... Я наконец-то собираюсь...
+UMP45(2)<Speaker>UMP45</Speaker>||:Тц!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:45-я! Оставайся в укрытии!
+UMP45(2)<Speaker>UMP45</Speaker>||:Время ещё есть! Остался последний блок тротила!
+UMP9(4)<Speaker>UMP9</Speaker>||:Плохо! Они слишком близко!
 ()||<震屏><SE1>Explode</SE1><黑屏1><关闭火花>:
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>||:...
-HK416()<Speaker>416</Speaker>||<BGM>BGM_Sneak</BGM>:Am...am I alive...
-G11()<Speaker>Gr G11</Speaker>||:Wake up, 416! We have to reposition!
+HK416()<Speaker>416</Speaker>||<BGM>BGM_Sneak</BGM>:Я... я жива...
+G11()<Speaker>Gr G11</Speaker>||:Подъём, 416-я! Нам нужно переместиться!
 HK416(0)<Speaker>416</Speaker>||:...!
-UMP9(4)<Speaker>UMP9</Speaker>||:45!
-UMP45()<Speaker>UMP45</Speaker>||:(Coughs heavily) That really hurts!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:AR-15! Cover me! I'm bringing her back!
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:On it!
-UMP45()<Speaker>UMP45</Speaker>||:It...it hurts so much... So that's how much it hurts to be shot...
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Keep quiet! I've dragged her back!
-UMP9(4)<Speaker>UMP9</Speaker>||:45!
-HK416(0)<Speaker>416</Speaker>||:Are you really insane?! Or are you an imposter?! +You actually did that for us...!
-UMP45(1)<Speaker>UMP45</Speaker>||:(Coughs) You and Gr G11 still owe me... +I can't...let you off so easily...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Six pieces of shrapnel! Help me cut off signal transmission to the parts where she was hit!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Good thing they're not fatal. Got any Dummies to back up to?
-UMP9(4)<Speaker>UMP9</Speaker>||:They're all used up!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Then we'll just have to see how tough she is. +Ange, 45 is injured! +The rest of 404's running low on ammo! Do you have a plan?!
-NPC-Ange(0)<Speaker>Angelia</Speaker><通讯框>||:45?! Hey, 45!
-UMP45(1)<Speaker>UMP45</Speaker>||:...I'm still hanging in there somehow, but we can't keep up the offensive. Ange, please tell me you have a trump card you haven't used yet.
-NPC-Ange(0)<Speaker>Angelia</Speaker><通讯框>||:M4, hold position. We're close to you now. Wait for me and the Griffin forces to come get you!
-AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Even with the Commander's assistance, our chances of victory are still...
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Got it... 45! Not dead yet?
-UMP45(1)<Speaker>UMP45</Speaker>||:All thanks to you... +But this is what you really want, right?
-UMP9(2)<Speaker>UMP9</Speaker>||:The detonator?
-UMP45(1)<Speaker>UMP45</Speaker>||:Heh... At first I didn't want you to touch such a dangerous thing, but things being what they are now, we don't have any other choice.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Thank you. Someone needs to carry out the last resort.
-UMP45(1)<Speaker>UMP45</Speaker>||:Think carefully before pushing the button. We'll all be within the contamination radius if you trigger it now. +While Dolls can still move around inside the contaminated zone for a while as long as they avoid ground zero, humans will be severely affected by the radiation...
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:Ange and the Commander...
-UMP45(1)<Speaker>UMP45</Speaker>||<黑屏1>:That's right... I've told you the price of pushing the button. What you do next is entirely up to you.
+UMP9(4)<Speaker>UMP9</Speaker>||:45-я!
+UMP45()<Speaker>UMP45</Speaker>||:(Сильно кашляет) Это действительно больно!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:AR-15! Прикрой меня! Я ее вытащу!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Принято!
+UMP45()<Speaker>UMP45</Speaker>||:Это... это так больно... Так что это так больно, когда тебя подстрелят...
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Тише! Я притащила её обратно!
+UMP9(4)<Speaker>UMP9</Speaker>||:45-я!
+HK416(0)<Speaker>416</Speaker>||:Ты что, совсем с ума сошла?! Или ты просто притворяешься?! +Ты действительно сделала это для нас...!
+UMP45(1)<Speaker>UMP45</Speaker>||:(Кашель) Ты и Gr G11 всё ещё мне должны... +Я не могу... так просто тебя отпустить...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Шесть осколков! Лучше отключи сигнал в тех местах, где она получила ранения!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Хорошо, что они не смертельны. Есть какие-нибудь болванки, на которых можно отыграться?
+UMP9(4)<Speaker>UMP9</Speaker>||:Они все израсходованы!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Тогда нам остается только посмотреть, насколько она сильная. +Анже, 45-я ранена! +У остальных из 404 заканчиваются патроны! У тебя есть план?!
+NPC-Ange(0)<Speaker>Анжелия</Speaker><通讯框>||:45-я?! Эй, 45-я!
+UMP45(1)<Speaker>UMP45</Speaker>||:...Я пока как-то держусь, но мы не можем продолжать наступление. Анже, скажи, что у тебя есть козырь, который ты ещё не использовала.
+NPC-Ange(0)<Speaker>Анжелия</Speaker><通讯框>||:M4, удерживай позицию. Мы уже рядом. Подожди, пока мы с Грифоном не прибудем за тобой!
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Даже с помощью Командира наши шансы на победу всё ещё...
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Есть... 45-я! Ещё не сдохла?
+UMP45(1)<Speaker>UMP45</Speaker>||:Благодаря тебе... +Но это же то, чего ты действительно хочешь, верно?
+UMP9(2)<Speaker>UMP9</Speaker>||:Детонатор?
+UMP45(1)<Speaker>UMP45</Speaker>||:Хех... Сначала я не хотела, чтобы ты связывалась с такой опасной штукой, но, учитывая, как обстоят дела сейчас, у нас нет другого выбора.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Спасибо. Кто-то должен принять последнее решение.
+UMP45(1)<Speaker>UMP45</Speaker>||:Подумай хорошенько, прежде чем нажимать кнопку. Если ты её сейчас активируешь, мы все окажемся в зоне заражения. +Куклы могут какое-то время передвигаться по зараженной зоне, если не будут приближаться к эпицентру взрыва, но люди сильно пострадают от радиации...
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Анже и Командир...
+UMP45(1)<Speaker>UMP45</Speaker>||<黑屏1>:Правильно... Я рассказала тебе, какая цена за нажатие кнопки. Что ты будешь делать дальше, решать только тебе.
+
