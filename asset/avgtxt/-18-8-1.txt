@@ -1,21 +1,22 @@
-()||<BIN>99</BIN><BGM>BGM_Sneak</BGM>:As the curtain slowly falls on the battlefield...
-BOSS-4(0)<Speaker>Intruder</Speaker>||:Ahh... +Where will they aim for next? +Those big bruisers really are going to level our home.
-？？()<Speaker>??</Speaker>||:Do you regret it?
-BOSS-4(0)<Speaker>Intruder</Speaker>||:You mean, missing this performance? +I was going by the script. There's nothing to regret.
-？？()<Speaker>??</Speaker>||:But...you still want to go back, don't you?
-BOSS-4(0)<Speaker>Intruder</Speaker>||:You're awfully chatty today, Scarecrow. +I went to a lot of trouble to wake you up, and it wasn't for you to annoy me.
-BOSS-4(0);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:I'm sorry... +It's just that I'm not happy with this outcome.
-BOSS-4(0)<Speaker>Intruder</Speaker>;BOSS-1(0)||:It won't end like this... +That's why we have to survive. These are Agent's orders.
-BOSS-4(0);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:But Gager and the others...
-BOSS-4(0)<Speaker>Intruder</Speaker>;BOSS-1(0)||:That was their mission. +Being able to just die somewhere on the battlefield is a lot easier than what we have to do... +So, has everyone's route been arranged already?
-BOSS-4(0);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Yeah. +Except for Dreamer. Agent sent her somewhere else.
-BOSS-4(0)<Speaker>Intruder</Speaker>;BOSS-1(0)||:I know, that's another route. +Let's go while Griffin and the big bruisers from the human military haven't found this place yet.
-BOSS-4(0);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:Are we really...just going to leave everything?
-BOSS-4(0)<Speaker>Intruder</Speaker>;BOSS-1(0)||:Griffin has their hands full defending their supply lines from the Military. They have no time to worry about us. +We're all the same now, all struggling to survive. +Or rather, we have always been the same, right from the very start...
-BOSS-4(0);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:So you do regret it after all?
-BOSS-4(0)<Speaker>Intruder</Speaker>;BOSS-1(0)||:No, I am just... +...pondering other possibilities.
-BOSS-4(0);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:I don't understand.
-()||:...Intruder pats Scarecrow on the head.
-BOSS-4(0)<Speaker>Intruder</Speaker>;BOSS-1(0)||<黑屏1>:That's why you're called Scarecrow. +Let's go, everyone's still waiting for us.
+()||<BIN>99</BIN><BGM>BGM_Sneak</BGM>:Когда занавес медленно опускается на поле боя...
+BOSS-4(0)<Speaker>Нарушительница</Speaker>||:Ах... +Куда они нацелятся в следующий раз? +Эти большие грубияны действительно собираются сровнять наш дом с землей.
+？？()<Speaker>??</Speaker>||:Ты об этом жалеешь?
+BOSS-4(0)<Speaker>Нарушительница</Speaker>||:Ты хочешь сказать, что пропустишь это выступление? +Я действовала по сценарию. Не о чем сожалеть.
+？？()<Speaker>??</Speaker>||:Но... ты все равно хочешь вернуться, не так ли?
+BOSS-4(0)<Speaker>Нарушительница</Speaker>||:Сегодня ты очень болтлива, Пугало. Я приложила немало усилий, чтобы разбудить тебя, и не для того, чтобы ты меня раздражала.
+BOSS-4(0);BOSS-1(0)<Speaker>Пугало</Speaker>||:Извини... Просто я не довольна таким исходом.
+BOSS-4(0)<Speaker>Нарушительница</Speaker>;BOSS-1(0)||:Это не закончится так... +Поэтому мы должны выжить. Это приказ Агента.
+BOSS-4(0);BOSS-1(0)<Speaker>Пугало</Speaker>||:Но Гейгер и другие...
+BOSS-4(0)<Speaker>Нарушительница</Speaker>;BOSS-1(0)||:Это была их миссия. Просто умереть где-нибудь на поле боя гораздо проще, чем то, что приходится делать нам...+Так, маршруты для всех уже составлены?
+BOSS-4(0);BOSS-1(0)<Speaker>Пугало</Speaker>||:Да.+ За исключением Мечтательницы. Агент отправила её куда-то ещё.
+BOSS-4(0)<Speaker>Нарушительница</Speaker>;BOSS-1(0)||:Я знаю, это другой путь.+Давай уйдем, пока Грифон и эти большие парни из человеческой армии не нашли это место.
+BOSS-4(0);BOSS-1(0)<Speaker>Пугало</Speaker>||:Мы действительно... просто так всё бросим?
+BOSS-4(0)<Speaker>Нарушительница</Speaker>;BOSS-1(0)||:Грифон занят тем, что защищает свои линии снабжения от Военных. У них нет времени беспокоиться о нас. +Сейчас мы все одинаковы, все боремся за выживание. +Или, скорее, мы всегда были одинаковы, с самого начала...
+BOSS-4(0);BOSS-1(0)<Speaker>Пугало</Speaker>||:Так ты все-таки сожалеешь об этом?
+BOSS-4(0)<Speaker>Нарушительница</Speaker>;BOSS-1(0)||:Нет, я просто... +...размышляю о других возможностях.
+BOSS-4(0);BOSS-1(0)<Speaker>Пугало</Speaker>||:Я не понимаю.
+()||:...Нарушительница поглаживает Пугало по голове.
+BOSS-4(0)<Speaker>Нарушительница</Speaker>;BOSS-1(0)||<黑屏1>:Вот почему тебя зовут Пугало. +Пойдем, все ещё ждут нас.
 ()||<BIN>9</BIN><黑屏2>:...
-干扰者()<Speaker>Intruder</Speaker>||<黑屏1>:T-Dolls of Griffin. +What will our next encounter be like? +...I'm looking forward to it.
+干扰者()<Speaker>Нарушительница</Speaker>||<黑屏1>:Т-Куклы из Грифона. +Как будет выглядеть наша следующая встреча? +...Я с нетерпением жду этого.
+
