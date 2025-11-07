@@ -1,25 +1,26 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Wake</BGM>:
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<BIN>99</BIN>><黑屏2>:Shut up! You traitor! +You... +I won't... +I'll never...
-()||:...SOP-II grits her teeth and cuts the transmission.
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Kill you... +Kill... all S.F... +No... +M4A1... +M4A1...where are you...
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:What should I do...? +I can't...I can't believe M16 anymore... +I'm alone... +I have to...decide by myself...
-()||<黑屏1>:...An hour later.
-()||<BIN>9</BIN><SE2>Gunfight</SE2>:...Bang! Bang, bang!
-()||:...SOP-II takes the S.F. command post and goes into a rampage, wrecking everything.
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Not enough... +Not enough...blood... +I haven't...found her yet...M4A1...isn't here... +I need to...carry on...
-()||<SE2>Gunkill</SE2>:...Bang!
-()||<黑屏1>:...SOP-II is shot in the back.
-()||<BIN>99</BIN><黑屏2>:...The alerted S.F. remnants gather around her, and in her impaired state SOP-II cannot respond in time. +She hears M16A1 say something over the comms channel, but none of that matters anymore.
-()||:...SOP-II, ragged and all alone...can no longer move. +Night falls on her and this unfeeling world. She does not stand up again. She does not feel anything again. She no longer knows what is happening in the world. +Is this death? Is this the ending...and the answer that she sought? +SOP-II's neural cloud slowly sinks into endless confusion, until it is utterly devoured by the night.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<BIN>99</BIN>><黑屏2>:SЗаткнись! Ты предательница! +Ты... +Я не буду... +Я никогда...
+()||:...SOP-II стиснула зубы и отключила связь.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Убить тебя... +Убить... всех С.Ф. +Нет... +M4A1... +M4A1... где ты...
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Что мне делать...? +Я не могу... Я больше не могу доверять М16... +Я одна... +Я должна... сама принять решение...
+()||<黑屏1>:...Час спустя.
+()||<BIN>9</BIN><SE2>Gunfight</SE2>:...Бэнг! Бэнг, бэнг!
+()||:...SOP-II захватывает командный пункт С.Ф. и впадает в ярость, разрушая всё на своем пути.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Не хватает... +Не хватает... крови... +Я ещё не... нашла её... M4A1... здесь нет... +Я должна... продолжать...
+()||<SE2>Gunkill</SE2>:...Бэнг!
+()||<黑屏1>:...SOP-II получает выстрел в спину.
+()||<BIN>99</BIN><黑屏2>:...Предупрежденные остатки С.Ф. собираются вокруг неё, а в своём ослабленном состоянии SOP-II не может вовремя отреагировать. +Она слышит, как М16А1 говорит что-то по каналу связи, но это уже не имеет значения.
+()||:...SOP-II, потрёпанная и совсем одна... больше не может двигаться. +На неё и этот бесчувственный мир опускается ночь. Она больше не встаёт. Она больше ничего не чувствует. Она больше не знает, что происходит в мире. +Это смерть? Это конец... и ответ, который она искала? +Нейронное облако SOP-II медленно погружается в бесконечное замешательство, пока его полностью не поглощает ночь.
 ()||<黑屏1>:...
 ()||<BIN>158</BIN><BGM>BGM_Empty</BGM><黑屏2>:
 ()||:...
-Nyto(0)<Speaker>Nyto</Speaker>||<BGM>BGM_Truth</BGM>:Stop. +Commander, SOP-II did not die. She is still alive. You are lying to us. +There is no point in doing so.
-()||<闪屏><duration>5</duration></闪屏><震屏>:...Smack!
-()||:My eyes can't catch what she did, but my body knows.
-()||<闪屏><duration>5</duration></闪屏><震屏>:...Smack! Smack!
-()||:Those aren't hands, but a pair of torture implements.
-()||:There is no expression on the puppet's face after the punishment ends, neither enjoyment nor pity. +I grit my teeth. My entire body hurts, and I'm bleeding. +My face must look even uglier now, worse than after being caught in the blast of that dirty bomb...
-Nyto(0)<Speaker>Nyto</Speaker>||:The interrogation continues. +Whenever you diverge from our information, we will consider more rigorous methods of interrogation in the future. +Commander, amend your story.
-()||:I know, I know. +I cough up a wad of blood, which probably has a tooth in there as well. I pant heavily, and then I try to think through the pain... +It is time for another story, and I have to reconsider its...ending.
+Nyto(0)<Speaker>Нито</Speaker>||<BGM>BGM_Truth</BGM>:Стой. +Командир, SOP-II не погибла. Она всё ещё жива. Ты нас обманываешь. +В этом нет смысла.
+()||<闪屏><duration>5</duration></闪屏><震屏>:...Удар!
+()||:Мои глаза не могут уловить, что она сделала, но моё тело знает.
+()||<闪屏><duration>5</duration></闪屏><震屏>:...Удар! Удар!
+()||:Это не руки, а пара орудий пыток.
+()||:После наказания на лице Куклы нет никакой реакции — ни удовольствия, ни жалости. Я стискиваю зубы. Все тело болит, и я истекаю кровью.+Моё лицо, наверное, выглядит еще уродливее, чем после взрыва той грязной бомбы...
+Nyto(0)<Speaker>Нито</Speaker>||:Допрос продолжается. +Если твои показания будут отличаться от нашей информации, мы будем думать о более жестких методах допроса в будущем. +Командир, исправь свою историю.
+()||:Я знаю, я знаю.+Я кашляю кровью, в которой, наверное, есть и остатки зуба. Я тяжело дышу, а потом пытаюсь думать, несмотря на боль...+Пришло время для новой истории, и я должен пересмотреть её... конец.
 ()||<黑屏1>:
+
