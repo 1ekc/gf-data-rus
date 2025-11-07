@@ -2359,33 +2359,33 @@
   {
     id: 206
     mission_id: "10051"
-    description: '''"I have no eyes for this. All Griffin forces are retreating. Leaving her here would only mean certain death for her. What do you think...?"'''
+    description: '''"Я не вижу в этом смысла. Все войска Грифона отступают. Оставить её здесь означало бы верную смерть для неё. Что ты думаешь...?"'''
     scripts: -16-2-1
     campaign: -16
     bgm: BGM_Frontline
-    title: Starting Point
+    title: Отправная точка
     is_util: 1
     start: -16-2-1
   }
   {
     id: 207
     mission_id: "10052"
-    description: '''"Where...exactly am I...?"'''
+    description: '''"Где... я нахожусь...?"'''
     scripts: -16-3-1
     campaign: -16
     bgm: BGM_Frontline
-    title: Splinter Point
+    title: Пункт сбора
     is_util: 1
     start: -16-3-1
   }
   {
     id: 208
     mission_id: "10053"
-    description: '''"Ange, we've retrieved M4A1. Any further instructions?"'''
+    description: '''"Анже, мы забрали M4A1. Есть ещё какие-то инструкции?"'''
     scripts: -16-4-1,-16-4-4-Point5546,-16-4-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Exhaust I
+    title: Выброс I
     is_util: 1
     start: -16-4-1
     point: 5546:-16-4-4-Point5546
@@ -2395,11 +2395,11 @@
   {
     id: 209
     mission_id: "10054"
-    description: '''"Griffin is moving into Area S11? I see. So it's turning into a shitshow here."'''
+    description: '''"Грифон перемещается в зону S11? Понятно. Значит, здесь начинается полный бардак."'''
     scripts: -16-5-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Exhaust II
+    title: Выброс II
     is_util: 1
     first: -16-5-2First
     end: -16-5-2First
@@ -2407,11 +2407,11 @@
   {
     id: 210
     mission_id: "10055"
-    description: '''"I'm receiving a transmission request with AK-12's plain code. Should I take it?"'''
+    description: '''"Я получила запрос на передачу данных с открытым кодом от AK-12. Принимать?"'''
     scripts: -16-6-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Exhaust III
+    title: Выброс III
     is_util: 1
     first: -16-6-2First
     end: -16-6-2First
@@ -2419,11 +2419,11 @@
   {
     id: 211
     mission_id: "10056"
-    description: '''"We have paid a huge price, but that should be enough to safeguard the route to the rendezvous point."'''
+    description: '''"Мы заплатили огромную цену, но этого должно хватить, чтобы обеспечить безопасность маршрута до места встречи."'''
     scripts: -16-7-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Exhaust IV
+    title: Выброс IV
     is_util: 1
     first: -16-7-2First
     end: -16-7-2First
@@ -2431,11 +2431,11 @@
   {
     id: 212
     mission_id: "10057"
-    description: '''"You do remember that this is your forte, don't you, AK-12?'''
+    description: '''"Ты же помнишь, что это твоя сильная сторона, AK-12?'''
     scripts: -16-8-4-Point5627,-16-8-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Compression I
+    title: Компрессия I
     is_util: 1
     point: 5627:-16-8-4-Point5627
     first: -16-8-2First
@@ -2444,11 +2444,11 @@
   {
     id: 213
     mission_id: "10058"
-    description: '''"Just a simple disconnection was enough to completely scramble her neural cloud... She's too mentally fragile even for an old model..."'''
+    description: '''"Достаточно было простого отключения, чтобы полностью запутать её нейронное облако... Она слишком психически неустойчива даже для старой модели..."'''
     scripts: -16-9-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Compression II
+    title: Компрессия II
     is_util: 1
     first: -16-9-2First
     end: -16-9-2First
@@ -2456,22 +2456,22 @@
   {
     id: 214
     mission_id: "10059"
-    description: '''"Are you really okay with leaving all these enemies to her alone?"'''
+    description: '''"Ты действительно не против оставить всех этих врагов ей одной?"'''
     scripts: -16-10-1
     campaign: -16
     bgm: BGM_Frontline
-    title: Compression III
+    title: Компрессия III
     is_util: 1
     start: -16-10-1
   }
   {
     id: 215
     mission_id: "10060"
-    description: '''"That'll be enough, M4. These are allies. Members of Task Force DEFY, Ange and AN-94.'''
+    description: '''"Хватит, M4. Это наши друзья. Ребята из оперативной группы DEFY, Анже и AN-94.'''
     scripts: -16-11-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Compression IV
+    title: Компрессия IV
     is_util: 1
     first: -16-11-2First
     end: -16-11-2First
@@ -2479,11 +2479,11 @@
   {
     id: 216
     mission_id: "10061"
-    description: '''"Thanks for the hard work! Please stay at your posts, account for all our injured, and await new directives from the Commander!"'''
+    description: '''"Спасибо за отличную работу! Пожалуйста, оставайтесь на своих местах, позаботьтесь о всех наших раненых и ждите новых указаний от Командира!"'''
     scripts: -16-12-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Ignition I
+    title: Воспламенение I
     is_util: 1
     first: -16-12-2First
     end: -16-12-2First
@@ -2491,11 +2491,11 @@
   {
     id: 217
     mission_id: "10062"
-    description: '''"Still no way of contacting the Commander? What about the Military? Nothing either?"'''
+    description: '''"Всё ещё нет возможности связаться с Командиром? А что насчет военных? Тоже ничего?"'''
     scripts: -16-13-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Ignition II
+    title: Воспламенение II
     is_util: 1
     first: -16-13-2First
     end: -16-13-2First
@@ -2503,11 +2503,11 @@
   {
     id: 218
     mission_id: "10063"
-    description: '''"...That's all we know about the situation in Area S09."'''
+    description: '''"...Это все, что мы знаем о ситуации в зоне S09."'''
     scripts: -16-14-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Ignition III
+    title: Воспламенение III
     is_util: 1
     first: -16-14-2First
     end: -16-14-2First
@@ -2515,11 +2515,11 @@
   {
     id: 219
     mission_id: "10064"
-    description: '''"Commander, we've successfully brought back the T-Dolls on the other side!"'''
+    description: '''"Командир, мы успешно вернули Т-Куклы с другой стороны!"'''
     scripts: -16-15-2First
     campaign: -16
     bgm: BGM_Frontline
-    title: Ignition IV
+    title: Воспламенение IV
     is_util: 1
     first: -16-15-2First
     end: -16-15-2First
@@ -2527,11 +2527,11 @@
   {
     id: 220
     mission_id: "10065"
-    description: '''"...Yes. We must...prevent the Military from acquiring the Mastermind at all costs."'''
+    description: '''"...Да. Мы должны... любой ценой помешать Военным заполучить Владыку."'''
     scripts: -17-1-1,-17-1-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Splinter Point
+    title: Пункт сбора
     is_util: 1
     start: -17-1-1
     first: -17-1-2First
@@ -2540,11 +2540,11 @@
   {
     id: 221
     mission_id: "10066"
-    description: '''"Is it going well, Ange?"'''
+    description: '''"Всё в порядке, Анже?"'''
     scripts: -17-2-1,-17-2-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Queen's Gambit I
+    title: Гамбит Королевы I
     is_util: 1
     start: -17-2-1
     first: -17-2-2First
@@ -2553,11 +2553,11 @@
   {
     id: 222
     mission_id: "10067"
-    description: '''"Persica, you must stop what you're doing right now."'''
+    description: '''"Персика, ты должна немедленно прекратить то, что делаешь."'''
     scripts: -17-3-1,-17-3-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Queen's Gambit II
+    title: Гамбит Королевы II
     is_util: 1
     start: -17-3-1
     first: -17-3-2First
@@ -2566,11 +2566,11 @@
   {
     id: 223
     mission_id: "10068"
-    description: '''"Persica, I've already ordered them to drop everything and have AK-12 and AN-94 prepare for electronic warfare."'''
+    description: '''"Персика, я уже сказал им бросить все и попросил AK-12 и AN-94 приготовиться к радиоэлектронной борьбе."'''
     scripts: -17-4-1,-17-4-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Queen's Gambit III
+    title: Гамбит Королевы III
     is_util: 1
     start: -17-4-1
     first: -17-4-2First
@@ -2579,11 +2579,11 @@
   {
     id: 224
     mission_id: "10069"
-    description: '''"Comms are back up... Not sure if that's good news or bad news..."'''
+    description: '''"Связь восстановлена... Не знаю, это хорошая новость или плохая..."'''
     scripts: -17-5-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Queen's Gambit IV
+    title: Гамбит Королевы IV
     is_util: 1
     first: -17-5-2First
     end: -17-5-2First
@@ -2591,11 +2591,11 @@
   {
     id: 225
     mission_id: "10070"
-    description: '''"I'm guessing you're not gonna let this go, are you?"'''
+    description: '''"Я полагаю, ты не собираешься отпускать эту тему, верно?"'''
     scripts: -17-6-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Castling I
+    title: Рокировка I
     is_util: 1
     first: -17-6-2First
     end: -17-6-2First
@@ -2603,11 +2603,11 @@
   {
     id: 226
     mission_id: "10071"
-    description: '''"I'm back. Things really aren't looking good... After all, these are the Military's main forces..."'''
+    description: '''"Я вернулась. Дела действительно обстоят не лучшим образом... В конце концов, это основные силы армии..."'''
     scripts: -17-7-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Castling II
+    title: Рокировка II
     is_util: 1
     first: -17-7-2First
     end: -17-7-2First
@@ -2615,11 +2615,11 @@
   {
     id: 227
     mission_id: "10072"
-    description: '''"I'm curious. Were you disappointed at all...when Ange told us our rescue target is Squad 404?"'''
+    description: '''"Мне интересно. Ты была разочарована, когда Анже сказала нам, что нашей целью спасения будет отряд 404??"'''
     scripts: -17-8-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Castling III
+    title: Рокировка III
     is_util: 1
     first: -17-8-2First
     end: -17-8-2First
@@ -2627,11 +2627,11 @@
   {
     id: 228
     mission_id: "10073"
-    description: '''"Agent, M4A1 has returned and established contact with Squad 404, currently located in the large database."'''
+    description: '''"Агент, M4A1 вернулся и связался с отрядом 404, который сейчас находится в крупном Базе Данных."'''
     scripts: -17-9-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Castling IV
+    title: Рокировка IV
     is_util: 1
     first: -17-9-2First
     end: -17-9-2First
@@ -2639,22 +2639,22 @@
   {
     id: 229
     mission_id: "10074"
-    description: '''"45, Griffin forces will arrive in three minutes."'''
+    description: '''"45-я, отряды Грифона прибудут через три минуты."'''
     scripts: -17-10-1
     campaign: -17
     bgm: BGM_Frontline
-    title: Promotion I
+    title: Продвижение I
     is_util: 1
     start: -17-10-1
   }
   {
     id: 230
     mission_id: "10075"
-    description: '''"Have we all got enough rest, girls? Let's get cracking then."'''
+    description: '''"Девочки, все хорошо отдохнули? Тогда приступаем к делу."'''
     scripts: -17-11-1,-17-11-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Promotion II
+    title: Продвижение II
     is_util: 1
     start: -17-11-1
     first: -17-11-2First
@@ -2663,11 +2663,11 @@
   {
     id: 231
     mission_id: "10076"
-    description: '''"45, their firepower is way too much!"'''
+    description: '''"45-я, их огневая мощь просто запредельная!"'''
     scripts: -17-12-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Promotion III
+    title: Продвижение III
     is_util: 1
     first: -17-12-2First
     end: -17-12-2First
@@ -2675,11 +2675,11 @@
   {
     id: 232
     mission_id: "10077"
-    description: '''"Is our backup still not here? If we fall back any farther, we'll have to use the Sangvis database as cover."'''
+    description: '''"Наши подкрепления всё ещё не приехали? Если мы отступим ещё дальше, нам придётся использовать Базу Данных Сангвис в качестве прикрытия."'''
     scripts: -17-13-1,-17-13-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Promotion IV
+    title: Продвижение IV
     is_util: 1
     start: -17-13-1
     first: -17-13-2First
@@ -2688,11 +2688,11 @@
   {
     id: 233
     mission_id: "10078"
-    description: '''"Emergency, Commander! We've discovered Sangvis elite Gager's forces on our retreat!"'''
+    description: '''"Экстренная ситуация, Командир! Мы наткнулись на элитные войска Сангвиса Гейгера во время отступления!"'''
     scripts: -17-14-1,-17-14-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Weakling's End I
+    title: Конец слабости I
     is_util: 1
     start: -17-14-1
     first: -17-14-2First
@@ -2701,11 +2701,11 @@
   {
     id: 234
     mission_id: "10079"
-    description: '''"It's coming back to me... All the things that happened..."'''
+    description: '''"Я начинаю вспоминать... Всё, что произошло..."'''
     scripts: -17-15-1,-17-15-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Weakling's End II
+    title: Конец слабости II
     is_util: 1
     start: -17-15-1
     first: -17-15-2First
@@ -2714,11 +2714,11 @@
   {
     id: 235
     mission_id: "10080"
-    description: '''"So...what do we do now?"'''
+    description: '''"Итак... что же нам теперь делать?"'''
     scripts: -17-16-1,-17-16-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Weakling's End III
+    title: Конец слабости III
     is_util: 1
     start: -17-16-1
     first: -17-16-2First
@@ -2727,11 +2727,11 @@
   {
     id: 236
     mission_id: "10081"
-    description: '''"It's my honor, mighty Commander of Griffin, to meet an adversary like you on the battlefield...and tear you apart with my own hands."'''
+    description: '''"Для меня честь, могущественный Командир Грифона, встретить на поле боя такого противника, как ты... и разорвать тебя на части собственными руками."'''
     scripts: -17-17-1,-17-17-2First
     campaign: -17
     bgm: BGM_Frontline
-    title: Weakling's End IV
+    title: Конец слабости IV
     is_util: 1
     start: -17-17-1
     first: -17-17-2First
@@ -2740,11 +2740,11 @@
   {
     id: 237
     mission_id: "10082"
-    description: '''"Wake up, M4. Mission is go."'''
+    description: '''"Просыпайся, M4. Миссия началась."'''
     scripts: -18-1-1,-18-1-2First
     campaign: -18
     bgm: BGM_Frontline
-    title: Last Resort I
+    title: Последнее средство I
     is_util: 1
     start: -18-1-1
     first: -18-1-2First
@@ -2753,11 +2753,11 @@
   {
     id: 238
     mission_id: "10083"
-    description: '''"Remaining Sangvis units all eradicated."'''
+    description: '''"Остальные отряды Сангвиса полностью уничтожены."'''
     scripts: -18-2-1,-18-2-4-Point6188,-18-2-2First
     campaign: -18
     bgm: BGM_Frontline
-    title: Last Resort II
+    title: Последнее средство II
     is_util: 1
     start: -18-2-1
     point: 6188:-18-2-4-Point6188
@@ -2767,11 +2767,11 @@
   {
     id: 239
     mission_id: "10084"
-    description: '''"I'm sure you, too, understand that things are pretty critical. Just killing Sangvis forces won't be enough to stop the Military."'''
+    description: '''"Я уверена, что ты тоже понимаешь, что ситуация довольно критическая. Просто уничтожить войска Сангвиса будет недостаточно, чтобы остановить Военных."'''
     scripts: -18-3-1,-18-3-2First
     campaign: -18
     bgm: BGM_Frontline
-    title: Last Resort III
+    title: Последнее средство III
     is_util: 1
     start: -18-3-1
     first: -18-3-2First
@@ -2780,11 +2780,11 @@
   {
     id: 240
     mission_id: "10085"
-    description: '''"You're finally here."'''
+    description: '''"Наконец-то ты здесь."'''
     scripts: -18-4-1,-18-4-2First
     campaign: -18
     bgm: BGM_Frontline
-    title: Last Resort IV
+    title: Последнее средство IV
     is_util: 1
     start: -18-4-1
     first: -18-4-2First
@@ -2793,7 +2793,7 @@
   {
     id: 241
     mission_id: "10086"
-    description: '''"Can you hold it any longer, Squad 404?!"'''
+    description: '''"Вы сможете продержаться ещё немного, отряд 404?!"'''
     scripts: -18-5-1,-18-5-4-Point6303,-18-5-2First
     campaign: -18
     bgm: BGM_Frontline
@@ -2807,11 +2807,11 @@
   {
     id: 242
     mission_id: "10087"
-    description: '''"The Military units have all frozen... Are they too close to the explosion?"'''
+    description: '''"Все боевые единицы замерли... Может, они оказались слишком близко к взрыву?"'''
     scripts: -18-6-1,-18-6-2First
     campaign: -18
     bgm: BGM_Frontline
-    title: Endgame
+    title: Эндшпиль
     is_util: 1
     start: -18-6-1
     first: -18-6-2First
@@ -2820,55 +2820,55 @@
   {
     id: 243
     mission_id: "10088"
-    description: '''"My, you're the Commander?!"'''
+    description: '''"Боже, вы Командир?!"'''
     scripts: -16-16-1
     campaign: -16
     bgm: BGM_Frontline
-    title: Messenger
+    title: Посланник
     is_util: 1
     start: -16-16-1
   }
   {
     id: 244
     mission_id: "10089"
-    description: '''"Hmm, the Commander is here... Thank you for giving me the chance to regroup with G3."'''
+    description: '''"Хм, Командир здесь... Спасибо, что дали мне возможность воссоединиться с G3."'''
     scripts: -17-18-1
     campaign: -17
     bgm: BGM_Frontline
-    title: Survivor
+    title: Выживший
     is_util: 1
     start: -17-18-1
   }
   {
     id: 245
     mission_id: "10090"
-    description: '''"The Military, Sangvis Ferri, Griffin...and some unknown forces. What a mess."'''
+    description: '''"Военные, Сангвис Ферри, Грифон... и некоторые неизвестные силы. Какой беспорядок."'''
     scripts: -18-7-1
     campaign: -18
     bgm: BGM_Frontline
-    title: Goodbye, Dragon Palace
+    title: Прощай, дворец Дракона
     is_util: 1
     start: -18-7-1
   }
   {
     id: 246
     mission_id: "10091"
-    description: '''"Oh dear... Is that where they're aiming this time? Those big boys seriously wanna level our home, don't they?"'''
+    description: '''"О боже... Так вот куда они нацелились на этот раз? Эти большие ребята серьёзно хотят сровнять наш дом с землей, да?"'''
     scripts: -18-8-1
     campaign: -18
     bgm: BGM_Frontline
-    title: Hornet's Nest
+    title: Осиное гнездо
     is_util: 1
     start: -18-8-1
   }
   {
     id: 247
     mission_id: "10092"
-    description: '''"Before reaching our destination, we have to... Mastermind...where?!"'''
+    description: '''"Прежде чем добраться до места назначения, нам нужно... Владыка... где?!"'''
     scripts: BattleAvg/-18-Day3-6B,BattleAvg/-18-Day3-6C
     campaign: -16
     bgm: BGM_Frontline
-    title: Endgame
+    title: Эндшпиль
     is_util: 1
   }
   {
