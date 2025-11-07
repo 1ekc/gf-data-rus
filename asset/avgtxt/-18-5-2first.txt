@@ -1,32 +1,32 @@
 ()||<BIN>99</BIN><BGM>BGM_Brain</BGM><黑屏2>:...
-NPC-Yegor(2)<Speaker>Yegor</Speaker>||:Are they still resisting? Status report.
-NPC-Yegor(2)<Speaker>Soldier</Speaker>||:Sir! The Griffin terrorists can't break through our defense line, and we've cornered our target. +Success is at hand.
-NPC-Yegor(2)<Speaker>Yegor</Speaker>||:Very good. Don't get careless. Press the attack.
-NPC-Yegor(2)<Speaker>Soldier</Speaker>||<黑点1>:Yes, sir!
-NPC-Ange(0)<Speaker>Angelia</Speaker>||<BIN>98</BIN><黑点2>:M4! Sitrep!
-AR15Mod(2)<Speaker>ST AR-15</Speaker>||:You finally made it!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:45's critically damaged and the others are almost out of ammo.
-UMP45(1)<Speaker>UMP45</Speaker>||:Sorry... Ange...
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:It's my fault for being so demanding... UMP9, can you lead Squad 404 in retreating back to Griffin's position?
-UMP9(2)<Speaker>UMP9</Speaker>||:Shouldn't be a problem!
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:I'm counting on you. What about Sangvis Ferri?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Mastermind is surrounded and their defense won't last more than a few minutes. +Can the Commander's unit continue pushing forward?
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:It'll be very difficult. The Military's firepower is just too intense and Griffin forces are running out of gas...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:What's the plan now, then?
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:We'll have Griffin draw their fire for us one last time, then Task Force DEFY and I will assault Mastermind's position...
-AK12(2)<Speaker>AK-12</Speaker>||<黑点1>:Ange! I don't want to interrupt, but Agent's signal just vanished!
-士兵()<Speaker>Soldier</Speaker>||<BIN>99</BIN><黑点2>:Captain! We've broken through Sangvis Ferri's final line of defense and successfully seized Mastermind!
-NPC-Yegor(2)<Speaker>Yegor</Speaker>||:Very good. Move the package to the rendezvous point immediately.
-NPC-Yegor(2)<Speaker>Yegor</Speaker>||:General, we've captured Mastermind and are preparing to move to the train station.
-NPC-Yegor(2);NPC-Carter(0)<Speaker>Carter</Speaker><通讯框>||:Wonderful. Transport the package ASAP.
-NPC-Yegor(2)<Speaker>Yegor</Speaker>;NPC-Carter(0)||:What about Griffin and the remaining units from the Federal Security Service?
-NPC-Yegor(2);NPC-Carter(0)<Speaker>Carter</Speaker>||:Annihilate them. Leave no survivors.
-NPC-Yegor(2)<Speaker>Yegor</Speaker>;NPC-Carter(0)||:Understood.
-NPC-Yegor(2)<Speaker>Yegor</Speaker>||:This is Yegor. Mastermind will be transported to the train station by our autonomous units. Armored forces, change course and wipe out any remaining terrorists.
-NPC-Yegor(2)<Speaker>Soldier</Speaker>||<黑点1>:Sir!
-AK12(2)<Speaker>AK-12</Speaker>||<BIN>98</BIN><黑点2>:Ange! There's more of the military tanks! +They've turned around and are heading this way!
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:Tsk... Has Yegor gotten Mastermind? +This is the worst-case scenario...! + ... +... +The last resort... +In the end, it has come to this...huh...
-NPC-Ange(0)<Speaker>NPC-Ange</Speaker>||<BIN>134</BIN>:
+NPC-Yegor(2)<Speaker>Егор</Speaker>||:Они всё ещё сопротивляются? Отчет о положении дел.
+NPC-Yegor(2)<Speaker>Солдат</Speaker>||:Сэр! Террористы Грифона не могут прорвать нашу оборону, и мы загнали их в угол. +Успех уже близко.
+NPC-Yegor(2)<Speaker>Егор</Speaker>||:Очень хорошо. Не расслабляйтесь. Продолжайте атаку.
+NPC-Yegor(2)<Speaker>Солдат</Speaker>||<黑点1>:Да, сэр!
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||<BIN>98</BIN><黑点2>:M4! Отчет о ситуации!
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Ты наконец-то сделала это!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:45-я сильно повреждена, а у остальных почти кончились патроны.
+UMP45(1)<Speaker>UMP45</Speaker>||:Извини... Анже...
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Это моя вина, что я была такой строптивой... UMP9, можешь вести отряд 404 в отступление к позициям Грифона?
+UMP9(2)<Speaker>UMP9</Speaker>||:Это не проблема!
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Я на тебя рассчитываю. А как насчёт Сангвис Ферри?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Владыка окружена, и их защита продержится не больше пары минут. +Может ли отряд Командира продолжать продвигаться вперед?
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Это будет очень сложно. Огонь военных просто слишком сильный, а у Грифона заканчивается ресурс...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Так что теперь планируешь?
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Грифон отвлечёт их внимание в последний раз, а потом оперативная группа DEFY и я начнем атаку на позиции Владыки...
+AK12(2)<Speaker>AK-12</Speaker>||<黑点1>:Анже! Не хочу мешать, но сигнал Агента только что пропал!
+士兵()<Speaker>Солдат</Speaker>||<BIN>99</BIN><黑点2>:Капитан! Мы прорвали последнюю линию обороны Сангвис Ферри и успешно схватили Владыку!
+NPC-Yegor(2)<Speaker>Егор</Speaker>||:Супер. Сразу же отнеси посылку на место встречи.
+NPC-Yegor(2)<Speaker>Егор</Speaker>||:Генерал, мы поймали Владыку и собираемся выдвигаться к вокзалу.
+NPC-Yegor(2);NPC-Carter(0)<Speaker>Картер</Speaker><通讯框>||:Супер. Отправь посылку как можно скорее.
+NPC-Yegor(2)<Speaker>Егор</Speaker>;NPC-Carter(0)||:А как же с Грифоном и остальными сотрудниками Федеральной Службы Безопасности?
+NPC-Yegor(2);NPC-Carter(0)<Speaker>Картер</Speaker>||:Уничтожьте их. Никого не оставляйте в живых.
+NPC-Yegor(2)<Speaker>Егор</Speaker>;NPC-Carter(0)||:Принято.
+NPC-Yegor(2)<Speaker>Егор</Speaker>||:Это Егор. Владыку доставят на вокзал наши автономные подразделения. Бронированные войска, меняйте курс и уничтожьте всех оставшихся террористов.
+NPC-Yegor(2)<Speaker>Солдат</Speaker>||<黑点1>:Сэр!
+AK12(2)<Speaker>AK-12</Speaker>||<BIN>98</BIN><黑点2>:Анже! Ещё военные танки! +Они развернулись и едут сюда!
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Цк... Егор заполучил Владыку? +Это худший вариант развития событий...! + ... +... +Последнее средство... +В конце концов, дошло до этого...хм...
+NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>134</BIN>:
 M4A1Mod(0)<Speaker>M4A1Mod</Speaker>||<BIN>98</BIN><BGM>BGM_Empty</BGM>:
 M4A1Mod(0)<Speaker>M4A1Mod</Speaker>||<BIN>134</BIN>:
 M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>98</BIN>:
@@ -34,39 +34,40 @@ M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>134</BIN>:
 M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>98</BIN>:
 M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>134</BIN>:
 M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>9</BIN><黑屏1>5</黑屏1>:
-M4A1()<Speaker>M4A1</Speaker>||<BIN>134</BIN><黑屏2><BGM>BGM_stage10</BGM>:...Ugh! 
-未知的声音()<Speaker>Unknown voice</Speaker>||:Do you still remember the first time you killed someone? +The fear, the unease, but also the sweetness of revenge. +It was intoxicating.
+M4A1()<Speaker>M4A1</Speaker>||<BIN>134</BIN><黑屏2><BGM>BGM_stage10</BGM>:...Ух! 
+未知的声音()<Speaker>Неизвестный голос</Speaker>||:Ты ещё помнишь, как впервые кого-то убила? +Страх, беспокойство, но и сладость мести. +Это было круто.
 M4A1()<Speaker>M4A1</Speaker>||:...
-未知的声音()<Speaker>Unknown voice</Speaker>||:You killed them, one after the other, just like squashing ants. +Now that you're a Doll, do you still dare do the same thing?
-M4A1()<Speaker>M4A1</Speaker>||:Shut up! Get lost! +There's nothing that I wouldn't dare do now!
-未知的声音()<Speaker>Unknown voice</Speaker>||:Even if it means killing the Dolls and humans here?
+未知的声音()<Speaker>Неизвестный голос</Speaker>||:Ты убивала их одного за другим, как мух.+Теперь, когда ты стала Куклой, ты всё ещё готова делать то же самое?
+M4A1()<Speaker>M4A1</Speaker>||:Завались! Убирайся! +Сейчас я готова на всё!
+未知的声音()<Speaker>Неизвестный голос</Speaker>||:Даже если это значит убить всех Кукол и людей здесь?
 M4A1()<Speaker>M4A1</Speaker>||:...
-M4A1()<Speaker>M4A1</Speaker>||<震屏><黑屏1>:Shut up! Shut up SHUT UP!
-M4A1Mod(4)<Speaker></Speaker>||<BIN>98</BIN><黑屏2>:M4 looks down at the detonator.
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:M4! Do it now!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Ange...
-AK12(2)<Speaker>AK-12</Speaker>||:...Don't tell me you're going to set it off right...?!
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:There's no time!
-AK12(2)<Speaker>AK-12</Speaker>||:Do you think you can survive at such close range?
-NPC-Ange(0)<Speaker></Speaker>||:Ange looks at AK-12.
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:It doesn't matter. You can continue carrying out the mission.
-AK12(2)<Speaker>AK-12</Speaker>||:Even if you don't care about yourself, spare a thought for the Griffin Commander! +They're still fighting the Military!
-NPC-Ange(0)<Speaker>Angelia</Speaker>||:There's no time for that! M4, do it!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Dammit! Understood!
+M4A1()<Speaker>M4A1</Speaker>||<震屏><黑屏1>:Заткнись! Заткнись! ЗАТКНИСЬ!
+M4A1Mod(4)<Speaker></Speaker>||<BIN>98</BIN><黑屏2>:M4 смотрит на детонатор.
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||:M4! Сделай это сейчас!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Анже...
+AK12(2)<Speaker>AK-12</Speaker>||:...Не говори мне, что ты собираешься всё испортить...?!
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Нет времени!
+AK12(2)<Speaker>AK-12</Speaker>||:Думаешь, ты сможешь выжить на таком близком расстоянии?
+NPC-Ange(0)<Speaker></Speaker>||:Анже смотрит на АК-12.
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||:Это не имеет значения. Вы сможете продолжать выполнить задание.
+AK12(2)<Speaker>AK-12</Speaker>||:Даже если тебе плевать на себя, подумай о командире Грифонов!+Они всё ещё сражаются с военными!
+NPC-Ange(0)<Speaker>Анжелия</Speaker>||:На это нет времени! M4, действуй!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Проклятье! Поняла!
 ()||<震屏><SE1>Explode</SE1><黑屏1>:
-()||<BIN>9</BIN><黑屏2>:M4 triggers the detonator. +An ear-splitting explosion immediately sounds in the distance, followed by an intense shockwave.
-安洁莉娅()<Speaker>Angelia</Speaker>||:Get down! Everyone get down!
-M4A1()<Speaker>M4A1</Speaker>||:Hold on to me, 15! Don't get blown away!
-AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:I'm trying!
+()||<BIN>9</BIN><黑屏2>:M4 активирует детонатор. +Сразу же вдали раздается оглушительный взрыв, за которым следует сильная ударная волна.
+安洁莉娅()<Speaker>Анжелия</Speaker>||:На землю! Все на землю!
+M4A1()<Speaker>M4A1</Speaker>||:Держись за меня, 15-я! Не дай ветру снести тебя!
+AR15()<Speaker>ST AR-15</Speaker>||<黑屏1>:Я стараюсь!
 ()||<BIN>124</BIN><黑屏2>:...
-()<Speaker>Angelia</Speaker>||:Is there any way we can learn of their situation...?
-()<Speaker>AK-12</Speaker>||:The jamming is severe. I can't pick them up by their signals.
-()<Speaker>AN-94</Speaker>||:Going by the naked eye... +Everything within 500 meters of the Collapse Fluid locations has been vaporized. No surviving enemy units.
-()<Speaker>Angelia</Speaker>||:The enemy must also be in total disarray... This is our chance to— cough!
-()<Speaker>M4A1</Speaker>||<BIN>125</BIN>:Is that blood? Ange!
-()<Speaker>Angelia</Speaker>||:It's no big deal. I've just been...irradiated... +(Coughs) +Stop gawking at me! Get a move on!
-()<Speaker>AK-12</Speaker>||:How about you?
-()<Speaker>Angelia</Speaker>||:Why are you worrying about me?! Catch up to Mastermind and finish the mission! ...M4!
-()<Speaker>M4A1</Speaker>||:I'm listening!
-()<Speaker>Angelia</Speaker>||:Take DEFY... +...and capture Mastermind...at all costs!
-()<Speaker>M4A1</Speaker>||<BIN>126</BIN><黑屏1>:...Got it! Everyone, with me!
+()<Speaker>Анжелия</Speaker>||:Есть ли какой-нибудь способ узнать об их положении...?
+()<Speaker>AK-12</Speaker>||:Сильные помехи. Не могу их поймать по сигналам.
+()<Speaker>AN-94</Speaker>||:На вскидку... +Всё в радиусе 500 метров от мест, где была жидкость «Коллапс», испарилось. Ни одна вражеская единица не выжила.
+()<Speaker>Анжелия</Speaker>||:Враг, должно быть, тоже в полном замешательстве... Это наш шанс... Кхм!
+()<Speaker>M4A1</Speaker>||<BIN>125</BIN>:Это кровь? Анже!
+()<Speaker>Анжелия</Speaker>||:Ничего страшного. Я просто... подверглась облучению... +(Кашель) +Хватит на меня глазеть! Давай, пошли!
+()<Speaker>AK-12</Speaker>||:А как насчет тебя?
+()<Speaker>Анжелия</Speaker>||:Почему ты обо мне беспокоишься?! Догони Владыку и заверши задание! ...M4!
+()<Speaker>M4A1</Speaker>||:Я слышу!
+()<Speaker>Анжелия</Speaker>||:Забери DEFY... +...и поймай Владыку...во что бы то ни стало!
+()<Speaker>M4A1</Speaker>||<BIN>126</BIN><黑屏1>:...Поняла! Все, за мной!
+
