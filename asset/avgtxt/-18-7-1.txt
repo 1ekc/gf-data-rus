@@ -1,5 +1,5 @@
-()||<BIN>99</BIN><BGM>BGM_War</BGM>:Somewhere on the battlefield. +A T-Doll stands quietly by the edge of a cliff. +The osprey flying slow, lazy circles through the darkened sky gradually descends and lands upon her extended arm.
-Ballista(0)<Speaker>Ballista</Speaker>||:... +I see. I understand. +Merci, Rin. +Now then, let's keep observing the situation.
-Ballista(0)<Speaker></Speaker>||:Ballista thrusts her arm out, and the osprey named "Rin" takes flight once more into the dark clouds above the battlefield.
-Ballista(0)<Speaker>Ballista</Speaker>||<黑屏1>:The Military, Sangvis Ferri, Griffin...and a bunch of people of unknown affiliation. +This really is a chaotic battlefield. +... +Still, all I need to do is focus on what I ought to be doing.
-芭莉斯塔()<Speaker>Ballista</Speaker>||<BIN>9</BIN><黑屏1>:Let's go... Everyone from FN is still waiting for us. +Let's shift the odds slightly in their favor, for the sake of Griffin's future.
+()||<BIN>99</BIN><BGM>BGM_War</BGM>:Где-то на поле боя. +Т-Кукла стоит тихо на краю обрыва. +Скопа, летающая медленными, ленивыми кругами по темному небу, постепенно снижается и садится на её вытянутую руку.
+Ballista(0)<Speaker>Баллиста</Speaker>||:... +Понятно. Я понимаю.+Мерси, Рин.+ Ну, давайте посмотрим, как будет развиваться ситуация.
+Ballista(0)<Speaker></Speaker>||:Баллиста вытягивает руку, и Скопа по имени «Рин» снова взлетает в тёмные облака над полем битвы.
+Ballista(0)<Speaker>Баллиста</Speaker>||<黑屏1>:Военные, Сангвис Ферри, Грифон... и куча людей неизвестной принадлежности. +Это действительно хаотичное поле боя. +... +Тем не менее, мне нужно сосредоточиться на том, что я должна сделать.
+芭莉斯塔()<Speaker>Баллиста</Speaker>||<BIN>9</BIN><黑屏1>:Пошли... Все из FN нас ждут. Давай немного изменим шансы в их пользу, ради будущего Грифона.
