@@ -1,21 +1,22 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BIN>99</BIN><BGM>BGM_Wake</BGM><黑屏2>:...SOP-II finds shelter and collapses to the ground. +She looks at her tiny little companion, resting in her hand.
+()||<BIN>99</BIN><BGM>BGM_Wake</BGM><黑屏2>:...SOP-II находит укрытие и падает на землю. Она смотрит на свою крошечную спутницу, лежащую в её руке.
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO...
-()||:...SOP-II gives RO's core a shake. +There is no response.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Of course...you can't hear anything.  +Isn't it nice, not having to be drenched by the rain, not having to walk, not having to think... +You've always been better at the last one, right...?
-()||:...SOP-II studies RO's core.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO, I need you...
-()||:...SOP-II thinks. +She devotes all her processing power to looking for a way to survive.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I'll just...put you in here for now...
-()||:...SOP-II grabs RO's core and stuffs it inside her body.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:(Whimpers)... RO, you're so cold... +I should have warmed you up a little with my hands before putting you in me, haha...
+()||:...SOP-II слегка потряхивает ядро RO. +Нет никакой реакции.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Конечно... ты ничего не слышишь.  +Разве не классно, что не нужно мокнуть под дождём, не нужно ходить, не нужно думать... +Ты всегда была лучше в последнем, правда...?
+()||:...SOP-II изучает ядро RO.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO, Я нуждаюсь в тебе...
+()||:...SOP-II задумывается. +Она использует всю свою мощность, чтобы найти способ выжить.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Я просто... пока положу тебя сюда...
+()||:...SOP-II берёт ядро RO и засовывает его в своё тело.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:(Хныканье)... RO, ты такая холодная... +Я должна была немного согреть тебя руками, прежде чем вставлять в себя, ха-ха...
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:RO?
-()||:...There is no response.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:But of course... RO won't wake up unless she has power. +Neural cloud cores can't go without power for too long... +It's been a while now, the core's internal emergency power supply must be almost used up... +But if I use my own power supply to charge her, I won't be able to fight for long in future battles. +It looks like I'll need to find an auxiliary power supply to charge RO up. +And after that... I still need to find a safe place. RO's core is too fragile, but I have to find a way to back her data up onto me. +Then...where should I go...?
+()||:...Никакой реакции.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Но, конечно... RO не проснется, пока не получит энергию. +Нейронные облачные ядра не могут долго работать без питания... +Уже прошло немало времени, внутренний аварийный источник питания ядра, наверное, почти исчерпан... +Но если я использую свой источник питания, чтобы зарядить её, я не смогу долго сражаться в будущих битвах. +Похоже, мне нужно найти дополнительный источник питания, чтобы зарядить RO. +А после этого... мне всё равно нужно найти безопасное место. Ядро RO слишком хрупкое, но я должна найти способ скопировать её данные к себе. +Тогда... куда мне идти...?
 ()||:...SOP-II sighs.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I've got no idea at all... +If only you could speak, RO... +A suggestion, or an order would be fine...
-()||<白屏1>:...SOP-II stares at RO's core and is silent for a long time. Then, she curls into a ball.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Я понятия не имею... +Если бы ты только могла говорить, RO... +Совет или приказ подошли бы...
+()||<白屏1>:...SOP-II долго смотрит на RO и ничего не говорит. Потом она сворачивается калачиком.
 ()||<BIN>45</BIN><白屏2><CGDelay>0.5</CGDelay><回忆><边框>2</边框>:
 ()||<黑屏1>0,0.5</黑屏1><边框>2</边框>:
-()<Speaker>M4 SOPMOD II</Speaker>||<关闭蒙版><BIN>9</BIN><黑屏2>:I just...don't want to be left behind... +Where...should I go...?
-()||<黑屏1><黑屏2>:...After a long time, everything fades into silent emptiness. +...Until?
+()<Speaker>M4 SOPMOD II</Speaker>||<关闭蒙版><BIN>9</BIN><黑屏2>:Я просто... не хочу быть забытой... Куда... мне идти...?
+()||<黑屏1><黑屏2>:...Спустя долгое время всё постепенно угасает в тихой пустоте. +...До каких пор?
+
