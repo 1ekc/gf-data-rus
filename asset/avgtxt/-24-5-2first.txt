@@ -1,15 +1,16 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BIN>88</BIN><BGM>BGM_Room</BGM><黑屏2>:...SOP-II successfully enters the Griffin resupply point.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Hehe, looks like my plan worked really well. +Helloooo, anyone there? +...Anybody? +In the end...I'm still alone, huh... +Where...did everyone go...?
-()<Speaker></Speaker>||:...SOP-II inspects her surroundings.
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:This place is a mess, but there are no signs of a fight. Could it have been an emergency withdrawal? +Still, the footprints are fresh, so they couldn't have gone too far. If I chase them now I might make it in time... +But I don't know where they ran to either. I should look in the warehouse just in case.
-()<Speaker></Speaker>||:...SOP-II runs up to the warehouse.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I wonder if my current body could get past the authentication? +(Pushes) ...Eh? +Hey! The door's not even closed!
-SOPIIDamage(2)<Speaker></Speaker>||:...SOP-II pokes her head inside and looks around.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Ah...it's empty after all. +They didn't leave anything behind. Now we've both been abandoned, RO, haha...
-()<Speaker></Speaker>||:...SOP-II looks down in dejection and stares at the ground. +...Then, she notices the footprints in the mud.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:These footprints... No... +Griffin doesn't have anything with four legs! +...Ah! Dinergates! Dinergates must have taken away all the stuff in here! +Which means...
-SOPIIDamage(0)<Speaker></Speaker>||:...SOP-II starts organizing her thoughts.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:S.F. must have looted this resupply point, but the Griffin forces must have run off ahead of time. +In that case, the most likely possibility is that... +All that stuff was taken to a nearby Sangvis resupply point, right? +Awww...
-()<Speaker></Speaker>||<BIN>40</BIN><黑点2>:...SOP-II brings up her electronic map.
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:This sort of thing is too risky, even for me. +Dear RO635...the things I do for friendship.
+()||<BIN>88</BIN><BGM>BGM_Room</BGM><黑屏2>:...SOP-II успешно добирается до пункта снабжения Грифона.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Хе-хе, похоже, мой план сработал на славу. +Привет, есть кто-нибудь? +...Есть кто-нибудь? +В конце концов... я все ещё одна, да... +Куда... все ушли...?
+()<Speaker></Speaker>||:...SOP-II осматривает окружающую обстановку.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Здесь полный беспорядок, но никаких следов сражения. Может, это была срочная эвакуация? +Но следы свежие, так что они не могли уйти далеко. Если я сейчас побегу за ними, то, может, успею... +Но я не знаю, куда они побежали. На всякий случай стоит заглянуть на склад.
+()<Speaker></Speaker>||:...SOP-II подбегает к складу.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Интересно, пройдет ли моя нынешняя модель аутентификацию? +(Толкает) ...Э? +Эй! Дверь даже не закрыта!
+SOPIIDamage(2)<Speaker></Speaker>||:...SOP-II заглядывает внутрь и оглядывается.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Ах... всё-таки пусто. +Они ничего не оставили. Теперь нас обоих бросили, RO, ха-ха...
+()<Speaker></Speaker>||:...SOP-II опускает глаза в унынии и пристально смотрит на землю. +...Затем она замечает следы на грязи.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Эти следы... Нет... У Грифона нет ничего с четырьмя ногами! +...Ах! Динергейтсы! Динергейтсы, наверное, утащил всё, что было здесь! +А это значит...
+SOPIIDamage(0)<Speaker></Speaker>||:...SOP-II принялась упорядочивать свои мысли.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:С.Ф. наверняка разграбил этот пункт снабжения, но войска Грифона, видимо, успели уйти раньше. +В таком случае, скорее всего... +Все это было отправлено в ближайший пункт снабжения Сангвиса, да? +Ой...
+()<Speaker></Speaker>||<BIN>40</BIN><黑点2>:...SOP-II выводит на экран свою электронную карту.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Такие вещи слишком рискованны даже для меня. +Дорогая RO635... что я только не делаю ради дружбы.
+
