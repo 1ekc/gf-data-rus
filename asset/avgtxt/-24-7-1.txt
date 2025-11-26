@@ -1,14 +1,15 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BIN>47</BIN><BGM>BGM_Empty</BGM><黑屏2>:...SOP-II chooses to sneak into the Sangvis reserve outpost and steal an auxiliary power supply.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Found it! Now RO can—
+()||<BIN>47</BIN><BGM>BGM_Empty</BGM><黑屏2>:...SOP-II решает пробраться на резервный аванпост Сангвиса и утащить запасной источник питания.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Нашла! Теперь RO может...
 ()||<闪屏><duration>5</duration></闪屏>:
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏>:...Boom!
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage10</BGM>:...! What's that sound?! 
-SOPIIDamage(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>Excellent, that remaining batch of Griffin trash has been cleared away.</color>+<color=#00CCFF>Except for...one last scrap.</color>
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:...Scarecrow!
-SOPIIDamage(3);BOSS-1(0)<Speaker>Scarecrow</Speaker><通讯框>||:<color=#00CCFF>Why are you hiding in our warehouse?</color>+<color=#00CCFF>Did you think the most dangerous place would be the safest?</color>+<color=#00CCFF>Then again, you did delay your death by quite a bit thanks to the sacrifice of your friends.</color>
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:Shut up, you bitch! +I'll kill you in ways you can't even imagine!
-SOPIIDamage(3);BOSS-1(0)<Speaker>Scarecrow</Speaker>||:<color=#00CCFF>By all means. After all, we're both just...doing our jobs.</color>+<color=#00CCFF>Wiping out those trash. Wiping you out. It's all the same to me.</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏>:...Бууум!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage10</BGM>:...! Что это за звук?! 
+SOPIIDamage(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>Супер, наконец-то убрали последнюю кучу мусора из Грифона.</color>+<color=#00CCFF>За исключением... последней порции.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:...Пугало!
+SOPIIDamage(3);BOSS-1(0)<Speaker>Пугало</Speaker><通讯框>||:<color=#00CCFF>Почему ты прячешься на нашем складе?</color>+<color=#00CCFF>Ты думала, что самое опасное место будет самым безопасным?</color>+<color=#00CCFF>С другой стороны, ты же значительно отсрочила свою смерть благодаря самоотверженности твоих друзей.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:Заткнись, сучка!+Я тебя уничтожу так, как ты даже представить себе не можешь!
+SOPIIDamage(3);BOSS-1(0)<Speaker>Пугало</Speaker>||:<color=#00CCFF>Конечно. В конце концов, мы обе просто... делаем свою работу.</color>+<color=#00CCFF>Уничтожить этих отбросов. Уничтожить тебя. Для меня это одно и то же.</color>
 SOPIIDamage(3)<Speaker></Speaker>||:...
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Scarecrow can't have many minions left after that battle just now... +I've still got a chance to beat her...+I need to defeat her... +In order to avenge everyone and get out of here alive!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:После той битвы у Пугала наверняка не осталось много помощников... +У меня ещё есть шанс победить её...+Я должна победить её... +Чтобы отомстить за всех и выбраться отсюда живой!
 ()||<黑点2><BIN>10</BIN>:
+
