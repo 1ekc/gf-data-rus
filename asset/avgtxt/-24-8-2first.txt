@@ -1,6 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BIN>99</BIN><BGM>BGM_Sneak</BGM><黑屏2>:SOP-II! Наша линия обороны готова!
- 
 Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Ладно! Давайте, девчата, не унывайте. Пугало долго не продержится—  Кашель... кашель...
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Что не так?
 Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Кашель... Я слишком много кричала, поэтому мой голосовой модуль немного перегружен...
@@ -21,4 +20,5 @@ Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:... +Cx4... +Ты мне �
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Конечно, я верю!+Если бы не ты, мы бы все давно погибли!
 Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Тогда... тебе нужно довериться мне в том, что будет дальше. Сможешь?
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||<黑屏1>:Что? +Что... ты собираешься делать?
+
 
