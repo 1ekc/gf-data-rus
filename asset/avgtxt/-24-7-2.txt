@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BIN>99</BIN><BGM>BGM_Sneak</BGM><黑屏2>:SOP-II! Наша линия обороны готова!
-Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Ладно! Давайте, ребята, не унывайте. Пугало долго не продержится—  Кашель... кашель...
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Ладно! Давайте, девчата, не унывайте. Пугало долго не продержится—  Кашель... кашель...
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Что не так?
 Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Кашель... Я слишком много кричала, поэтому мой голосовой модуль немного перегружен...
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Это так плохо?
@@ -9,7 +9,7 @@ Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Неудивительно, �
 SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Мы не будем просто удерживать позиции, лучше эвакуироваться, если найдем возможность—
 ()||<SE2><SE2>Gunfight</SE2></SE2><BGM>BGM_Empty</BGM>:...Бэнг бэнг!
 SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Battle</BGM>:Э? Этот шум... он доносится с нашего фланга! У С.Ф. ещё есть силы, чтобы разделить свои войска?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(3)||:SOP-II, это военные! Они нас нашли!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(3)||:SOP-II, это Военные! Они нас нашли!
 Cx4Storm(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Военные?! Почему они всё ещё здесь?
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(3)||:Они не ушли! Бои, которые были раньше, наверное, привлекли их патрули! Черт! +Теперь нас будут атаковать с двух сторон. Мы не только не можем отступить, но и не сможем продержаться дольше!
 Cx4Storm(0);SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Нет, нас не зажмут в клещи... +Сангвис... их первым шагом не будет нападение на нас.
@@ -20,3 +20,4 @@ Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:... +Cx4... +Ты мне �
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Конечно, я верю!+Если бы не ты, мы бы все давно погибли!
 Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Тогда... тебе нужно довериться мне в том, что будет дальше. Сможешь?
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||<黑屏1>:Что? +Что... ты собираешься делать?
+
