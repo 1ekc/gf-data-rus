@@ -1,55 +1,56 @@
 ()||<BIN>99</BIN><黑屏2><BGM>BGM_Room</BGM>:
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Alright, everyone, you did well. We nearly made mistakes several times, but good thing SOP-II kept us on track through the comms link. +Now we just need to wait for her to come back—
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:You guys are slow.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||<震屏>:Eh?! SOP-II, you actually—!
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:O-Oi! D-Don't hug my legs again! + I was alone, so I circled around the Military by myself and came back straight away. +Did you encounter any Sangvis units?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Yeah, we met a few, but we let them off in the end. +After all, the Military's targeting them, so letting them go would be safer for us.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Haha! You learn fast!
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Rather, I can't believe you actually thought of a tactic like that.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Hehe, I didn't come up with it - I found it. +That's a secret tactic from the Griffin database that the Commander practiced once, and it just so happened to be perfect for this situation, so I wanted to try it out. +I didn't think it'd actually work! You guys were great!
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Frankly, we were all scared to death too, but everyone did as they were told and we all made it through safely. +But now isn't the time to relax. Let's start planning our next move.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Yeah. After all, I still have no idea what route we should take. In any case, we should think of a way to get to the Griffin base. +Have you been keeping an eye on the Military's movements? What are they like?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:We're safe for now. The enemy's slowed down; they seem to be rescanning their maps.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:...Scanning their maps?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:The Commander fought the Military here some time ago, and the Military units had to prioritize saving their nearby human comrades. +They needed time to rescan the signals in this area, which is the only reason why we're still alive.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:That's true... The Military has a lot of humans within their ranks. +Still, I didn't know they'd save their friends.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:They're human; humans are way more valuable than we are.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Haha, I know. After all, once they're broken, they can't be fixed.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||<BGM>BGM_Empty</BGM>:Have you attacked humans before, SOP-II?
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:No, why do you ask?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||<BGM>BGM_Wake</BGM>:We're worried that we won't be able to attack humans if we run into them, considering we don't have orders or permission to do so from Griffin. +Frankly speaking, I don't want to do that either. The humans made us and gave us a lot of nice things, so I'm thinking we shouldn't...
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:We should avoid them as much as possible. +They nearly killed me once. I won't be so lucky next time.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:But what if... +What should we do? I think everyone ought to know, so we should come up with sensible emergency measures that we can take.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:... +If it ever comes down to that, let me do the shooting. I'm not bound by Griffin's pointless restrictions. +To me, the only difference between the humans who want to harm us and Sangvis Ferri is that we can't tear parts out of the former's corpses.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:(Chuckles) We don't tear parts out of S.F. corpses either. Only you do that.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:And I like it. Persica must have put some really weird things into my neural cloud without mentioning them...
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:I know exactly what you mean. It's just like how I enjoy collecting cigarette packs!
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Cigarette packets?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Yep! I've liked collecting cigarette packs for as long as I could remember. +I don't just enjoy it; it's almost like a compulsion. Whenever I see a cigarette pack I've never seen before, I have to have it.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Do you smoke?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:No! Of course not. It's dangerous for a Doll to smoke, right? +But I just like collecting cigarette packs. Seeing them all neatly lined up makes me happy. +I can't think of any specific reason why that's the case either. Maybe it was a personality preset from when I was rolled out.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Oh... it's just like FF FNC, she eats chocolate for no reason at all... +Even when Dolls don't need to eat human food to sustain themselves...
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:In truth... It used to trouble me. +Humans would make fun of my hobby and bully me for it back when I was working in the civilian sector. +I even started to hate that hobby of mine. I hated that I liked this sort of thing...
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:And you just... sat there and took it?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:I wasn't authorized to defy human beings, so...there was nothing I could do... +At that time, I even wanted to burn my entire collection...even though I knew it wouldn't help things at all, because presets...were presets. +But around that time, Griffin started buying up large numbers of Dolls on the market, and my owner found that my neural cloud and ability test results met their selection criteria surprisingly well, and then—
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:And now we're running for our lives on this crappy battlefield.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:(Laughs) At least, having met you, I don't think I'm so weird anymore. After all, your hobbies are way weirder than mine in comparison!
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:That's mean! I just like what I like! +Besides, that "hobby" greatly improves my combat efficiency!
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Well, you're from the AR Team, trump cards made to accomplish Griffin's most important missions. I'm sure you don't have weird, pointless "hobbies" added onto you by your creators, like us. +Frankly speaking, I'm a little jealous...
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Jealous? I don't think it's anything particularly good...
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Well, it's because you were chosen, you get special treatment, unlike us regular Dolls... +In a way, you're quite... fortunate? Don't you think so?
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:...I don't know. While I like ripping S.F. to bits, don't most Dolls consider moving supply crates around in safety every day to be the best kind of life?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Moving supply crates, huh? When I used to carry out logistics duties, I used to think they were dull and repetitive. Thinking back on those days now, they just seem so happy...
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Haha, well, once we get back to Griffin, you can go back to your happy days of moving supply crates again!
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Yeah... although that'll have to wait till we get back to the Griffin command post. +But... that assumes that there will still be people there waiting for us...
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Well, all we can do now is follow that plan. +Speaking of which, Cx4, is the area ahead where the former command post used to be?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Yeah, we're almost there. +But the thing is, there are a lot of Sangvis outposts ahead, and finding a suitable route to take us past them without incident won't be easy.
-Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Well, there's no turning back, so I'll go up ahead and scout.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:No, let me do it, it'll be safer that way. In case...
-SOPII(0)<Speaker>SOP-II</Speaker>||:Cx4, this isn't—
-()||<BGM>BGM_Empty</BGM>:...Beep, beep, beep.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Huh? It's a comms signal from this area. Who could it be?
-SOPII(0)<Speaker>SOP-II</Speaker>||:It can't possibly be the Commander. Cx4, have everyone slow their pace and put them on alert.
-()||:...SOP-II puts the transmission through.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Хорошо, вы все отлично поработали. Мы несколько раз чуть не допустили ошибки, но, к счастью, SOP-II помогла нам остаться на правильном пути благодаря каналу связи. +Теперь нам осталось только дождаться её возвращения...
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Вы, девчата, медлительные.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||<震屏>:Э?! SOP-II, ты действительно...!
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Э-эй! Не обнимай мои ноги! + Я была одна, поэтому обошла Военных сама и сразу же вернулась. +Ты встретила какие-нибудь подразделения Сангвиса?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Да, мы встретили нескольких, но в конце концов отпустили их. +Всё-таки Военные их разыскивают, так что отпустить их было для нас более безопасным решением.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Ха-ха! Ты быстро учишься!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Я просто не могу поверить, что ты действительно придумала подобную тактику.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Хе-хе, я это не сама придумала — я это нашла. +Это секретная тактика из базы данных Грифона, которую Командир однажды применил, и она как раз идеально подошла для этой ситуации, поэтому я захотела её попробовать. +Я не думала, что это действительно сработает! Вы, девчата, были великолепны!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Честно говоря, мы все были до смерти напуганы, но все делали то, что им велели, и мы благополучно выбрались. +Но сейчас не время расслабляться. Давайте начнем планировать наш следующий шаг.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Да. В конце концов, я до сих пор не могу понять, каким маршрутом нам следует идти. В любом случае, нам нужно придумать, как добраться до базы Грифонов. +Ты следишь за действиями Военных? Как они себя ведут?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Пока мы в безопасности. Враг замедлил наступление; похоже, они повторно сканируют свои карты.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:...Изучают карты?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Командир сражался с Военными здесь некоторое время назад, и боевые единицы были вынуждены в первую очередь спасать своих союзников-людей, находившихся поблизости. +Им нужно было время, чтобы повторно просканировать сигналы в этой области, и только благодаря этому мы все еще живы.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Это правда... У Военных в своих рядах много людей. +Тем не менее, я не знала, что они будут спасать своих товарищей.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Они люди, а люди гораздо ценнее нас.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Ха-ха, я знаю. В конце концов, раз они сломаны, их уже не починить.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||<BGM>BGM_Empty</BGM>:Ты раньше атаковала людей, SOP-II?
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Нет, а почему ты спрашиваешь?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||<BGM>BGM_Wake</BGM>:Мы боимся, что не сможем напасть на людей, если встретим их, учитывая, что у нас нет приказа или разрешения на это от Грифона. +Честно говоря, я тоже не хочу этого делать. Люди создали нас и дали нам много хорошего, поэтому я думаю, что мы не должны...
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Мы должны избегать их как можно дольше. +Они однажды чуть не убили меня. В следующий раз мне не повезет так же.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Но что, если... +Что нам делать? Я думаю, что все должны знать, так что нам следует разработать разумные меры на случай чрезвычайных ситуаций, которые мы сможем предпринимать.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:... +Если дело дойдет до этого, оставьте стрельбу мне. Я не связана бессмысленными ограничениями Грифона. +Для меня единственное отличие между людьми, которые хотят нам навредить, и Сангвис Ферри заключается в том, что мы не можем вырывать части тел из трупов первых.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:(Смеется) Мы тоже не вырываем части из трупов С.Ф. Только ты так делаешь.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:И мне это нравится. Персика, должно быть, ввела в мое нейронное облако какие-то действительно странные понятия, не упомянув о них...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Я прекрасно понимаю, о чем ты. Это как мое увлечение коллекционированием пачек сигарет!
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Пачки сигарет?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Да! Я люблю коллекционировать сигаретные пачки с тех пор, как себя помню. +Мне это не просто нравится, это почти как навязчивая идея. Всякий раз, когда я вижу сигаретную пачку, которую никогда раньше не видела, я должна ее заполучить.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Ты куришь?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Нет! Конечно, нет. Курить Кукле опасно, так ведь? +Просто мне нравится коллекционировать пачки сигарет. Мне приятно смотреть, как они аккуратно выстроены в ряд. +Я тоже не могу придумать конкретной причины, почему так. Возможно, это было заложено в мою личность, когда меня создавали.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:О... это как у FF FNC, она ест шоколад без всякой причины... +Даже если Куклы не нуждаются в человеческой пище, чтобы выжить...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:По правде говоря... раньше это меня беспокоило. +Когда я работала в гражданском секторе, люди смеялись над моим хобби и издевались надо мной из-за этого. +Я даже начала ненавидеть свое хобби. Я ненавидела то, что мне нравилось подобное.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:И ты просто... сидела и терпела?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Я не могла ослушаться людей, поэтому... я ничего не могла сделать... +В то время я даже хотела сжечь всю свою коллекцию... хотя знала, что это ничем не поможет, потому что предустановки... оставались предустановками. +Но примерно в то же время Грифон начал скупать большое количество Кукол на рынке, и мой владелец обнаружил, что результаты моего нейронного облака и теста способностей удивительно хорошо соответствовали их критериям отбора, и тогда...
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:И теперь мы бежим, спасая свои жизни, по этому дерьмовому полю боя.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:(Смеется) По крайней мере, после знакомства с тобой я больше не считаю себя такой странной. В конце концов, твои увлечения гораздо чуднее моих!
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Это жестоко! Мне просто нравится то, что мне нравится! +Кроме того, это «хобби» значительно повышает мою боевую эффективность!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Ну, ты же из Команды AR, козырь, созданный для выполнения самых важных миссий Грифона. Уверена, у тебя нет странных, бессмысленных «хобби», которые придумали для тебя твои создатели, как у нас. +Честно говоря, я немного завидую...
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Завидуешь? Я не думаю, что это какая-то особенная черта...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Ну, это потому, что тебя отобрали, ты получаешь особое отношение, в отличие от нас, обычных Кукол... +В некотором смысле, тебе довольно... повезло? Не думаешь?
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:...Не знаю. Хотя я люблю разносить С.Ф. в пух и прах, разве большинство Кукол не считают, что перемещать ящики с припасами в безопасности каждый день — это лучшая жизнь?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Перевозка ящиков с грузами,? Когда я занималась логистикой, мне казалось, что это скучная и однообразная работа. Но когда я вспоминаю те дни сейчас, они кажутся мне такими счастливыми...
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Ха-ха, ну, как только мы вернемся в Грифон, ты сможешь снова вернуться к своим счастливым дням с перевозкой ящиков с припасами!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Да... хотя это придется отложить до тех пор, пока мы не вернемся в командный пункт Грифона. +Но... это при условии, что там все еще будут ждать нас...
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Ну, все, что мы можем сделать сейчас, это действовать по этому плану. +Кстати, Cx4, это та область впереди, где раньше находился бывший командный пункт?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Да, мы почти на месте. +Но дело в том, что впереди много аванпостов Сангвиса, и найти подходящий маршрут, который позволит нам пройти мимо них без происшествий, будет нелегко.
+Cx4Storm(0);SOPII(0)<Speaker>SOP-II</Speaker>||:Ну, назад пути нет, так что я пойду вперед и разведаю обстановку.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Нет, лучше я это сделаю, так будет безопаснее. На случай, если...
+SOPII(0)<Speaker>SOP-II</Speaker>||:Cx4, это не...
+()||<BGM>BGM_Empty</BGM>:...Бип, бип, бип.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Что? Это сигнал связи из этого района. Кто бы это мог быть?
+SOPII(0)<Speaker>SOP-II</Speaker>||:Это не может быть Командир. Cx4, пусть все замедляют темп и переходят в режим повышенной готовности.
+()||:...SOP-II подключает канал передачи данных.
 BOSS-1(0)<Speaker>BOSS-1</Speaker>||<BGM>BGM_Sneak</BGM>:M4 SOPMOD II.
-SOPII(2)<Speaker>SOP-II</Speaker>||<黑屏1>:Huh? +Scare...crow?
+SOPII(2)<Speaker>SOP-II</Speaker>||<黑屏1>:Э? +Пугало...?
+
