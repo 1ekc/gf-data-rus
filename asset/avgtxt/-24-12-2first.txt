@@ -1,55 +1,55 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BIN>85</BIN><BGM>BGM_Empty</BGM><黑屏2>:...The battle concludes.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<黑屏1>0,5</黑屏1>:We've arrived, SOP-II! +I didn't think Scarecrow was actually telling the truth... +...SOP-II?
+()||<BIN>85</BIN><BGM>BGM_Empty</BGM><黑屏2>:...Сражение окончено.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<黑屏1>0,5</黑屏1>:Мы прибыли, SOP-II! +Я не думала, что Пугало действительно говорила правду... +...SOP-II?
 ()||<BIN>9</BIN><黑屏2>:...
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<闪屏><duration>5</duration></闪屏>:<size=55>AHHHHHHH—!</size>
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<闪屏><duration>5</duration></闪屏>:<size=55>АААААААААААА—!</size>
 ()||<BIN>85</BIN><闪屏><duration>5</duration></闪屏>:
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<震屏>:
 Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BGM>BGM_NightOPS</BGM>:SOP-II?!
-Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I'm fine... We can rest easy at last... +Along the way... I just couldn't shake off thoughts like... +"What if this is a trap? I'm going to get everyone killed..."
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:That's fine, SOP-II. Sometimes you need the courage to take risks during operations. +If I were in your place, I wouldn't dare make that decision.
-Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:But M16A1 once said, "the only difference between bravery and foolishness is in the results." +I used to have teammates in the past to rein in my impulsiveness, but now I have to be responsible for everyone...
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:We don't want to be a burden to you, SOP-II.
-Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Still, our fates are linked now. Just a while ago, I wouldn't even think about such things... +M4A1... had it so hard this whole time... +I probably caused a lot of trouble for her...
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:SOP-II...
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Heh, I'm probably not cut out to be a team leader. +Now, let's see what news our scouts bring us!
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||<黑点1>:Yeah...
-()||<BIN>9</BIN><黑点2><黑点1>:...The recon T-Dolls return several minutes later and report their findings to Cx4. What they found is evident enough from the looks on their faces.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BIN>85</BIN><黑点2><BGM>BGM_Empty</BGM>:...I'm sorry, SOP-II. There's nothing left here and we can't even establish comms. +We...we can't contact the Commander or find any clues...
-Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:...So it was like that after all. +I'd expected this, but...
-Cx4Storm(0);SOPIIDamage(2)<Speaker></Speaker>||:...SOP-II looks at the crestfallen expressions on the Dolls' faces.
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage1</BGM>:No! Cheer up, everyone! +If there aren't too many bodies around, it means the Commander and Miss Kalina are still waiting for us somewhere!
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Maybe we should take a rest first. +The map shows that if we carry on, we'll have to go through a Military outpost too.
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I see it... +I've got tactics recorded for what comes next, but my neural cloud might not be able to bear the strain of the calculations needed.+Haha... if AR-15 were here, she'd probably laugh at me and say that this sort of thing wasn't for idiots anyway.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:It's okay. We wouldn't have made it here without you. +You've already done very well. Let's do our best to handle the rest.
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:...+<color=#A9A9A9>(Isn't there any other way...?)</color>+<color=#A9A9A9>(Wait, I think I'm forgetting something...)</color>+<color=#A9A9A9>(The reason we came to this base in the first place was to find somewhere safe, and then... )</color>+<color=#A9A9A9>(And then... what was I going to do?)</color>+<color=#A9A9A9>(I'll need to search through my neural cloud again... Argh, my index got messed up again after the battle, what a pain...)</color>
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Now that you mention it, you just said the AR Team had four members, but if I'm not mistaken, wasn't there another one?
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Oh, that's RO635...
-Cx4Storm(0);SOPIIDamage(2)||<闪屏><duration>5</duration></闪屏>:
-Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>AHHHHHHH—!</size>
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker><Shake>;SOPIIDamage(2)||:W-What now?
-Cx4Storm(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I'm sorry, I remember now! +Ahhhhh, I really am an idiot! +I even forgot the whole point of coming here!
-Cx4Storm(0);SOPIIDamage(2)<Speaker></Speaker>||:...SOP-II rummages through her pockets.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(2)||:Ah... is that a Doll's core?
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:That's right! That's our teammate, RO635!
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Yes! That's her name! She's the new member of the AR Team, right? The smart one, right? +Although... given her current state, I think fixing her would be hard...
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yegor killed her when the Military betrayed us. I only had enough time to take her core.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:Yegor... is he the Military leader behind this operation?
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yeah, human soldiers ambushed us and I was blown to bits myself.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:But you survived by using Sangvis remains?
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Hehe, I'm a prized product of 16LAB. I wouldn't die so easily.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:But Miss RO635... what should we do about her? +Even if you want to transfer her neural cloud, we don't have a body to put it in.
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I don't need a body. I just need to awaken her neural cloud for now. 
-Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:...SOP-II takes out the auxiliary power supply.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:That's the power supply you got from Scarecrow...
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:That's right, and then there's this!
-Cx4Storm(0);SOPIIDamage(0)<Speaker></Speaker>||:...SOP-II takes out a—
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:W-Where did you get that from?!
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Oh, this item is key. But don't tell anyone about it; they'll get the wrong idea. +In any case, I'm going to be sleeping for a long, long time, Cx4, so I'll need you to handle sentry duty with the others. +If anything happens, pat my body hard three times and cut the backup power, then I'll awake safely. Got that?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPIIDamage(0)||:No problem! Still... will you be alright? +It feels like you're going to do something really dangerous...
-Cx4Storm(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:We've already done a lot of dangerous things today; all that matters is—
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:All that matters is the results, right? +I know, so relax and leave the outside to me.
-()||:...SOP-II nods, and Cx4 steps outside.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Now then...
-SOPIIDamage(0)<Speaker></Speaker>||:...SOP-II takes a deep breath.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Time to find you, RO635!
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Я в порядке... Наконец-то мы можем расслабиться. +По дороге... Я просто не могла отделаться от мыслей типа... +«А вдруг это ловушка? Я же всех вас погублю...»
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(2)||:Все в порядке, SOP-II. Иногда во время операций нужно иметь смелость рисковать. +На твоем месте я бы не стала и не смогла принять такое решение.
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Но M16A1 однажды сказала: «Единственное различие между храбростью и глупостью заключается в результатах». +Раньше у меня были товарищи по команде, которые сдерживали мою импульсивность, но теперь я должна нести ответственность за всех...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(2)||:Мы не хотим быть для тебя обузой, SOP-II.
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Тем не менее, теперь наши судьбы связаны. Еще недавно я бы даже не подумала о таких вещах... +M4A1... ей было так тяжело все это время... +Я, наверное, доставила ей много хлопот...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(2)||:SOP-II...
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Хех, я, наверное, не гожусь для роли лидера команды. +А теперь давайте посмотрим, какие новости принесут нам разведчики!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||<黑点1>:Ага...
+()||<BIN>9</BIN><黑点2><黑点1>:...Т-Куклы возвращаются через несколько минут и докладывают Cx4 о своих находках. Их выражение лиц ясно говорит о том, что они обнаружили.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||<BIN>85</BIN><黑点2><BGM>BGM_Empty</BGM>:...Извини, SOP-II. Здесь ничего не осталось, и мы даже не можем установить связь. +Мы... мы не можем связаться с Командиром и не можем найти никаких следов...
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:...Так вот как все было на самом деле. +Я этого ожидала, но...
+Cx4Storm(0);SOPII(2)<Speaker></Speaker>||:...SOP-II смотрит на подавленные лица Кукол.
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage1</BGM>:Так! Взбодритесь! +Если вокруг не слишком много мертвых, значит, Командир и мисс Калина все еще где-то нас ждут!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Может, сначала отдохнем? По карте видно, что если мы продолжим путь, то нам придется проходить через военный пост.
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Я вижу... +У меня есть план действий для следующего этапа, но мое нейронное облако может не выдержать нагрузки, связанной с необходимыми вычислениями.+Ха-ха... если бы AR-15 была здесь, она бы, наверное, посмеялась надо мной и сказала, что такие вещи не для дураков.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Все в порядке. Без тебя мы бы не справились. +Ты уже очень хорошо постаралась. Давай сделаем все возможное, чтобы разобраться с остальным.
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:...+<color=#A9A9A9>(Разве нет другого варианта.?)</color>+<color=#A9A9A9>(Стоп, кажется, я что-то забыла...)</color>+<color=#A9A9A9>(Мы пришли на эту базу в первую очередь для того, чтобы найти безопасное место, а потом...)</color>+<color=#A9A9A9>(А потом... что я собиралась делать?)</color>+<color=#A9A9A9>(Мне нужно снова провести поиск в своем нейронном облаке... Ах, мой индекс снова сбился после битвы, какая досада...)</color>
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Кстати, ты только что сказала, что в Команде AR было четыре участника, но, если я не ошибаюсь, был же еще один?
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:О, это RO635...
+Cx4Storm(0);SOPII(2)||<闪屏><duration>5</duration></闪屏>:
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>ААААААААА—!</size>
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker><Shake>;SOPII(2)||:Что... что теперь?
+Cx4Storm(0);SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:Извини, я вспомнила! +Ааааа, я действительно идиотка! +Я даже забыла, зачем я сюда пришла!
+Cx4Storm(0);SOPII(2)<Speaker></Speaker>||:...SOP-II роется в карманах.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(2)||:А... это ядро Куклы?
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Точно! Это наш товарищ по команде, RO635!
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Да! Так ее зовут! Она новый член Команды AR, верно? Самая умная, да? +Хотя... учитывая ее текущее состояние, я думаю, что восстановить ее будет сложно...
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Егор убил ее, когда Военные предали нас. У меня было время только на то, чтобы забрать ее ядро.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Егор... он руководитель этой операции?
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Да, солдаты устроили нам засаду, и я сама была расстреляна.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Но ты же выжила, воспользовавшись остатками Сангвиса?
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Хе-хе, я же ценный продукт 16LAB. Я не умру так легко.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Но RO635... что нам с ней делать? +Даже если ты хочешь перенести ее нейронное облако, у нас нет подходящего тела.
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Мне не нужно тело. Пока мне нужно только пробудить ее нейронное облако.
+Cx4Storm(0);SOPII(0)<Speaker></Speaker>||:...SOP-II использует вспомогательный источник питания.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Это источник питания, который ты получила от Пугала...
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Точно, а еще вот это!
+Cx4Storm(0);SOPII(0)<Speaker></Speaker>||:...SOP-II вытаскивает...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Откуда ты это взяла?!
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:О, эта вещь очень важна. Но никому не рассказывай об этом, иначе кто-нибудь неправильно поймет. +В любом случае, я буду длительное время спать, Cx4, поэтому тебе нужно будет дежурить вместе с остальными. +Если что-нибудь случится, три раза сильно похлопай по моему корпусу и отключи резервное питание, тогда я безопасно проснусь. Поняла?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Без проблем! Но... ты будешь в порядке? +Мне кажется, ты собираешься сделать что-то очень опасное...
+Cx4Storm(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Сегодня мы уже совершили много опасных действий, главное — это...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>;SOPII(0)||:Важны только результаты, да? +Я это знаю, так что расслабься, а все остальное оставь мне.
+SOPII(0)<Speaker>SOPII</Speaker>||:...SOP-II кивает, и Cx4 уходит.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Итак...
+SOPII(0)<Speaker></Speaker>||:...SOP-II делает глубокий вдох.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Время найти тебя, RO635!
