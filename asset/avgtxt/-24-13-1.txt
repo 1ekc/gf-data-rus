@@ -1,128 +1,129 @@
-()||<BGM>BGM_Room</BGM><BIN>9</BIN><黑屏2>:... +I never thought that a day like this would come... +I never thought that someone like me would end up helping so many people... +I never thought that I would do something I'd never done before... +...But I have no way to tell anyone about it. +So please, RO, please wake up. +Listen to what I went through today, and share this joy with me. +Because right now... you're the only friend of mine who can hear my voice. +So please, hear me out...
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||<黑屏2><白屏1>:Ow, ow, ow... not having tools really is a pain... so I should connect these wires, right? +I didn't think I'd have to go and tear my own body open, but there shouldn't be a problem if it's me!
-()<Speaker>System</Speaker>||<白屏2><BIN>72</BIN>:<color=#00CCFF>【Neural cloud connection in progress. Access request has been accepted. Please stand by.】</color>
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I'm in! I didn't think that messing around like that would actually work... Maybe I'm a genius, after all!
-SOPIIDamage(0)<Speaker>System</Speaker>||:<color=#00CCFF>【Neural cloud connection successful. Accessing connected target—】</color>
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:This is great, looks like I wasn't blocked by the firewall... but where's RO's signal...?
-SOPIIDamage(0)<Speaker>System</Speaker>||:<color=#00CCFF>【Obtaining connected target's address - unable to obtain address. Please re-verify connection coordinates.】</color>
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:It's all dark... +Was the power supply unable to keep the neural cloud going? But I already hooked up the power... Don't tell me it was too late...
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:...Hm? +Stars? Why's there a starry sky in a neural cloud? +There's a bright light close by... Is that one of RO's neural fragments?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:...RO's neural cloud hasn't completely stopped functioning yet! There's still a chance! +I'll go over and take a look where that bright light is...
-SOPIIDamage(2)<Speaker></Speaker>||<黑点2>:SOP-II reaches the indicated position.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:The light's circling around...? Do you understand what I'm saying?
-SOPIIDamage(2)<Speaker></Speaker>||:The light flies in a circle.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:So it IS a fragment of RO's neural cloud! +RO! RO, can you hear me? +RO, I'm right here! I'm SOP-II! +Please! Please wake up! +RO—!!!
+()||<BGM>BGM_Room</BGM><BIN>9</BIN><黑屏2>:... +Я никогда не думала, что наступит такой день... +Я никогда не думала, что такая , как я, может помочь стольким людям... +Я никогда не думала, что сделаю то, чего никогда раньше не делала... +...Но я не могу никому об этом рассказать. +Так что, пожалуйста, RO, проснись. +Послушай, что со мной сегодня произошло, и раздели со мной эту радость. +Потому что сейчас... ты моя единственная подруга, которая может услышать мой голос. +Так что, пожалуйста, слушай меня...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||<黑屏2><白屏1>:Ой, ой, ой... без специальных инструментов это просто мучение... так что я должна соединить эти провода, правильно? +Я не думала, что мне придется вскрывать собственное тело, но это не должно быть проблемой, если это я!
+()<Speaker>Система</Speaker>||<白屏2><BIN>72</BIN>:<color=#00CCFF>【Подключение к нейронному облаку в процессе. Запрос на доступ принят. Просьба подождать.】</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Я в теме! Не ожидала, что мои эксперименты сработают... Может, я все-таки гений!
+SOPIIDamage(0)<Speaker>Система</Speaker>||:<color=#00CCFF>【Соединение с нейронным облаком успешно. Подключение к цели—】</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Круто, похоже, меня не заблокировал брандмауэр... но где сигнал RO...?
+SOPIIDamage(0)<Speaker>Система</Speaker>||:<color=#00CCFF>【Определение адреса подключенной цели — не получилось найти адрес. Проверь координаты подключения еще раз.】</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Здесь совсем темно... +Может, источник питания не смог поддерживать работу нейронного облака? Но я же уже подключилпитание... Только не говорите, что уже слишком поздно...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:...Э? +Звезды? Почему в нейронном облаке есть звездное небо? +Рядом яркий свет... Это один из нейронных фрагментов RO?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:...Нейронное облако RO еще до конца не перестало работать! Еще есть шанс! +Я пойду посмотрю, откуда исходит этот яркий свет...
+SOPIIDamage(2)<Speaker></Speaker>||<黑点2>:SOP-II добирается до нужного места.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Свет движется по кругу...? Ты меня понимаешь?
+SOPIIDamage(2)<Speaker></Speaker>||:Свет все еще летит по кругу.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Так это же фрагмент нейронного облака RO! +RO! RO, ты меня слышишь? +RO, я здесь! Я SOP-II! +Пожалуйста! Пожалуйста, проснись! +RO—!!!
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:... +...
-UMP45(0)<Speaker>??</Speaker>||<BIN>7</BIN><睁眼><BGM>BGM_Brain</BGM><回忆><边框>2</边框>:... +You finally showed up, ■■.
-RO635(0)<Speaker>■■</Speaker>;UMP45(0)||<边框>2</边框>:... +Should I apologize, 45?
-RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:Why should you? You were in command. +It's just that... +How is your choice any different from M4A1's?
-RO635(0)<Speaker>■■</Speaker>;UMP45(0)||<边框>2</边框>:You mean contacting Helian?
-RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:I mean trying to save everyone. +If the Commander hadn't listened to you and rushed here at all costs... +All our deaths would have been on you.
-RO635(0)<Speaker>■■</Speaker>;UMP45(0)||<边框>2</边框>:I think I now know... +...Why you always do things your way.
-RO635(0);UMP45(2)<Speaker>UMP45</Speaker>||<边框>2</边框>:... +Then will you be content with losing your sense of self and becoming someone else's substitute?
-RO635(0)<Speaker>■■</Speaker>;UMP45(2)||<边框>2</边框>:But... what even is my "sense of self"?
+UMP45(0)<Speaker>??</Speaker>||<BIN>7</BIN><睁眼><BGM>BGM_Brain</BGM><回忆><边框>2</边框>:... +Ты наконец-то объявилась, ■■.
+RO635(0)<Speaker>■■</Speaker>;UMP45(0)||<边框>2</边框>:... +Мне стоит извиниться, 45-я?
+RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:Почему же ты должна? Ты была Командиром. +Просто... +Чем твой выбор отличается от выбора M4A1?
+RO635(0)<Speaker>■■</Speaker>;UMP45(0)||<边框>2</边框>:Ты думаешь связаться с Хелиан?
+RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:Я имею в виду попытку спасти всех. Если бы Командир не прислушался к тебе и не поспешил сюда во что бы то ни стало... Все наши смерти были бы на твоей совести.
+RO635(0)<Speaker>■■</Speaker>;UMP45(0)||<边框>2</边框>:Думаю, теперь я понимаю... +...почему ты всегда делаешь все по-своему.
+RO635(0);UMP45(2)<Speaker>UMP45</Speaker>||<边框>2</边框>:... +Тогда ты будешь рада потерять себя и стать заменой для кого-то другого?
+RO635(0)<Speaker>■■</Speaker>;UMP45(2)||<边框>2</边框>:Но... что такое «чувство собственного я»?
 RO635(0);UMP45(2)<Speaker>UMP45</Speaker>||<边框>2</边框>:...
-RO635(0)<Speaker>■■</Speaker>;UMP45(2)||<边框>2</边框>:I was... created for this to begin with. +I will never abandon those who M4 wishes to protect. +And those who she believes in, I too, will.
-RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1><边框>2</边框>:... +In any case, you did the right thing in this operation.
-NPC-Persica(0)<Speaker>Persica</Speaker>||<BIN>22</BIN><黑屏2><边框>2</边框><黑屏1>:Everything she does will be for M4A1's sake, including the things that the AR Team and M4A1 herself can't do. +I've readjusted the plan so she won't have so much of..."that girl" in her. +That way, she'll have more abilities and the room to make use of them, and become the most capable addition to the AR Team. +The development channels used in making the AR Team can't be mass-produced, and the number of times that the brain scan data can be used is far too limited... +But the simulated processing AI used as a substitute is quite stable. At this rate, the data specifications of this girl can probably be used as the template for the third generation of Dolls. +She will protect M4A1, not because she is ordered to, but because she admires and respects M4A1... +While this will all be the product of previous planning, aren't "emotions" basically playing things by ear anyway?
-RO635()<Speaker>■■</Speaker>||<黑屏2><BIN>75</BIN><边框>2</边框>:What about M4? Did she do anything while she was crying?
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:She didn't do anything at all! +She was the only one seriously crying, and the loudest one as well. She kept saying, "It's my fault, it's my fault, I'm sorry!" +She was just like a bullied kid I once saw in a movie. I have no idea how she managed to emulate the look so perfectly! +It was super embarrassing how our leader was so useless! And making fools out of the rest of us as well, hahaha! I would love to see it happen again! +Hahaha!
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框><BIN>76</BIN>:Ha... +... +Though...it's probably impossible at this point...
-RO635()<Speaker>■■</Speaker>||<边框>2</边框>:SOP-II... +It's still possible. M16 must be waiting for us somewhere, and AR-15... Well, many things are still unconfirmed, right? +As long as we survive, there will surely be a way in the future.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:Yeah... ■■, why do you think we have emotion modules?
-RO635()<Speaker>■■</Speaker>||<边框>2</边框>:About that...
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:I once posed this question to M16. She said perhaps it is to prove that we aren't simply killing machines. +We possess emotions, so we're different from those cold, emotionless Military Dolls... +But there are those who say that our emotions are what makes us defective and weak. +So what do you think? T-Dolls have emotions... Does that make us defective?
-RO635()<Speaker>■■</Speaker>||<黑屏1><边框>2</边框>:I don't know... +But emotion modules are something that humans gave to us. No one would intentionally make their own products defective, right? +So...there must be some meaning to all of this.
-()||<BIN>9</BIN><黑屏2>:... +...... +...... +Beginning audio playback—
-AR15(0)<Speaker>AR15</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>It's been a long time, ■■.</color>+<color=#00CCFF>I don't know if this will be our last call, but due to my current situation, I'll have to cut a long story short.</color>+<color=#00CCFF>I probably... can't ever return to the AR Team.</color>+<color=#00CCFF>You know, sometimes that's just the way things are. You work hard but you still end up with a mess.</color>+<color=#00CCFF>Enemies, orders, or even just plain bad luck... So many things can ruin your plan...</color>+<color=#00CCFF>M16 once said, the difference lies in whether we give up just like that, or we prepare for the worst and keep going.</color>+<color=#00CCFF>If you don't see me the next time, it means the worst has happened...</color>+<color=#00CCFF>But I've already prepared for it. How about you, ■■?</color>+<color=#00CCFF>Have you prepared... to return to the AR Team?</color>+<color=#00CCFF>Of course, you have your own ideas and choices to make... So all I want to say is...</color>+<color=#00CCFF>I'm sorry. Forgive me for what I said. You've always been exemplary. I know that.</color>
-NPC-Persica(0)<Speaker>Persica</Speaker>||<关闭蒙版><黑屏2>:Don't feel too down, ■■. +You're a high-performance Doll, better than most of the Dolls you haven't met yet.
-NPC-Persica(0)<Speaker>■■</Speaker>||:I... don't understand... +But why... +Why did that Doll... AR-15... why did she say I was a failure? I clearly won in the simulated battle...
-NPC-Persica(0)<Speaker>Persica</Speaker>||:Because you sacrificed M4A1 without hesitation. It was a very bad choice.
-NPC-Persica(0)<Speaker>■■</Speaker>||:I did it to win... +Aren't Dolls expendable?
-NPC-Persica(0)<Speaker>Persica</Speaker>||:Not all of them, ■■. That's not the answer I want.
-NPC-Persica(0)<Speaker>■■</Speaker>||:So I should prioritize protecting M4A1 from now on, right? Then give me a new order. I'll know what to do.
-NPC-Persica(0)<Speaker>Persica</Speaker>||:No... that's not what I meant. +While the AR Team was made for that purpose, I won't give you an order like that.
-NPC-Persica(0)<Speaker>■■</Speaker>||:I don't understand... +Why do you want me to do this... without ordering me to...?
-NPC-Persica(0)<Speaker>Persica</Speaker>||:You need to know WHY you have to do this. +You need to find the right answer on the battlefield, and not achieve victory based on your orders.
-NPC-Persica(0)<Speaker>■■</Speaker>||:Then why not directly program it that way? +Just tell me what to do, and I'll know how to do it.
-NPC-Persica(2)<Speaker>Persica</Speaker>||:You don't know where your true "excellence" lies, ■■... +But I'll give you a chance. I'll let you take part in live operations. You must accumulate experience, amass knowledge... +You must... add to your "emotions".
-NPC-Persica(2)<Speaker>■■</Speaker>||:Emotions?
-NPC-Persica(0)<Speaker>Persica</Speaker>||:Yes. A Doll's emotions can be trained and changed. +This is... the fruit of Lyco's hard work... I hope I'm not abusing it now...
-NPC-Persica(0)<Speaker>■■</Speaker>||:Miss Persica?
-NPC-Persica(0)<Speaker>Persica</Speaker>||:I'll assign you to a new position, where you'll be doing real work. Mix well with your friends, and all kinds of human beings... +Even I don't dare to make contact with those humans... you'll have to be better than I am to succeed.
-NPC-Persica(0)<Speaker>■■</Speaker>||:A new position... I don't know if I'll be able to adapt. Will I not be able to return to the AR Team?
-NPC-Persica(2)<Speaker>Persica</Speaker>||:The time is not yet right. I'll bring you back when you're ready.
-NPC-Persica(2)<Speaker>■■</Speaker>||:My... new job... +I'm not sure if I'll like it...
-NPC-Persica(2)<Speaker>Persica</Speaker>||<黑屏1>:I'm honestly not sure either, and I won't compel you to do so with an order, but learning to like it will be your mission. +Learn to like M4A1, learn to like the world, and learn to like yourself. +Come, follow me, and we'll start right away.
-92type(0)<Speaker>Type 92</Speaker>||<BIN>41</BIN><黑屏2><回忆><边框>2</边框>:Yeah, the mission has also been accomplished... +Though... we'll have to part soon...
-MK2(0)<Speaker>STEN MkII</Speaker>||<边框>2</边框>:Huh? Why is that?
-RO()<Speaker>■■</Speaker>||<边框>2</边框>:Don't you remember, Sten? +This team is assembled temporarily only for this operation.
-MK2(0)<Speaker>STEN MkII</Speaker>||<边框>2</边框>:Oh, right... And we already have Document 36... + Even though Sangvis Ferri completely destroyed the city...
-92type(0)<Speaker>Type 92</Speaker>||<边框>2</边框>:They won't be cocky for long. Makarov will bring word of this back to HQ.  +We will come up with something - against that large mortar, as well as the Sangvis ringleader hiding behind it. 
-MK2(0)<Speaker>STEN MkII</Speaker>||<边框>2</边框>:Yeah. All of us have gone through so much and learned a lot from this operation. +Even if we go our separate ways, I will never forget...
-AAT52(0)<Speaker>AAT52</Speaker>||<边框>2</边框>:Don't be so melodramatic, Sten. It's not like we'll never see each other again. + Let's have a proper party once we get back tonight!
-RO()<Speaker>■■</Speaker>||<黑屏1><边框>2</边框>:... + Yeah... + It's not like... we'll never see each other again... +So girls, this isn't the end. 
-RO()<Speaker>■■</Speaker>||<黑屏2><BIN>42</BIN><边框>2</边框>:We will keep fighting, keep learning on our respective battlefields... +And we'll keep winning, until the day Sangvis Ferri is defeated for good.
-92式()<Speaker>Type 92</Speaker>||<边框>2</边框>:... +They say you're not quite the same as other T-Dolls. I think they're right. +You have... a will that Griffin T-Dolls lack. 
-RO()<Speaker>■■</Speaker>||<边框>2</边框>:...I guess. +So this is why I came back - for Griffin's victory, for justice...
-RO()<Speaker>■■</Speaker>||<黑屏1><边框>2</边框>:And... for vengeance...
-RO()<Speaker>■■</Speaker>||<黑屏2><BIN>43</BIN><边框>2</边框><黑屏1>:I swear...  + I WILL make them pay! No matter what weapons they fire at us, what strategies they use, what conspiracy they have cooking on the stove... + So long as they cause destruction... So long as they wreak havoc... + I will definitely make them pay! 
-NPC-Persica(2)<Speaker>Persica</Speaker>||<BIN>9</BIN><关闭蒙版><黑屏2><BGM>BGM_Empty</BGM>:Have you finally...come to like this world? +Do you finally know why you act?
-NPC-Persica(2)<Speaker>■■</Speaker>||:I... +I don't know what it is that I like...
-NPC-Persica(2)<Speaker>Persica</Speaker>||:It's you. You and this world are one.
-NPC-Persica(2)<Speaker>■■</Speaker>||:Who... am I?
-NPC-Persica(2)<Speaker>Persica</Speaker>||<白屏1>:Your name... +Well of course, it's...
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>72</BIN><白屏2>:RO!! +R! O! +SIX! THREE! +FIIIIIIIIIIIVE—!!!
+RO635(0)<Speaker>■■</Speaker>;UMP45(2)||<边框>2</边框>:Я была... создана для этого с самого начала. +Я никогда не брошу тех, кого М4 хочет защитить. +И тех, в кого она верит, я тоже буду верить.
+RO635(0);UMP45(0)<Speaker>UMP45</Speaker>||<黑屏1><边框>2</边框>:... +В любом случае, ты всё сделала правильно в этой операции.
+NPC-Persica(0)<Speaker>Персика</Speaker>||<BIN>22</BIN><黑屏2><边框>2</边框><黑屏1>:Всё, что она делает, будет ради M4A1, включая то, что Команда AR и сама M4A1 не могут сделать. +Я внесла изменения в план, чтобы в ней не было столько... «той девушки». +Так у неё будет больше способностей и возможностей их использовать, и она станет самым ценным пополнением Команды AR. +Каналы создания, использованные при производстве Команды AR, не подходят для массового использования, а количество раз, когда можно повторно использовать данные сканирования мозга, слишком ограничено... +Но искусственный интеллект, используемый в качестве заменителя, довольно стабилен. При таком раскладе данные «этой девушки», скорее всего, можно будет использовать в качестве шаблона для третьего поколения Кукол. +Она будет защищать M4A1 не потому, что ей приказали, а потому, что она восхищается и уважает M4A1... +Хотя все это будет результатом заранее разработанного плана, разве «эмоции» в принципе не зависят от обстоятельств?
+RO635()<Speaker>■■</Speaker>||<黑屏2><BIN>75</BIN><边框>2</边框>:А как насчет M4? Она что-нибудь делала, пока плакала?
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:Она вообще ничего не делала! +Она была единственной, кто действительно и громко плакал. Она все повторяла: «Это моя вина, это моя вина, простите меня!» +Она была похожа на запуганного ребенка, которого я однажды видела в фильме. Не понимаю, как ей удалось так точно повторить этот взгляд! +Было очень стыдно за нашего лидера, который оказался таким бесполезным! И за нас всех, которых она выставила дураками, ха-ха-ха! Хотела бы я увидеть, как это повторится! +Ха-ха-ха!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框><BIN>76</BIN>:Ха... +... +Хотя... на данный момент это, наверное, невозможно...
+RO635()<Speaker>■■</Speaker>||<边框>2</边框>:SOP-II... +Это по-прежнему возможно. M16 где-то нас ждет, а AR-15... Ну, многое еще не подтверждено, верно? +Пока мы живы, в будущем обязательно найдется выход.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:Да... ■■, как думаешь, зачем нам нужны эмуляторы эмоций?
+RO635()<Speaker>■■</Speaker>||<边框>2</边框>:Насчет этого...
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:Однажды я задала этот вопрос M16. Она сказала, что, возможно, это для того, чтобы доказать, что мы не просто машины для убийства. +У нас есть эмоции, поэтому мы отличаемся от тех холодных, бесчувственных Военных Кукол... +Но есть  и те, кто говорит, что наши эмоции делают нас несовершенными и слабыми. +Так что ты думаешь? У Т-Кукол есть эмоции... Это делает нас несовершенными?
+RO635()<Speaker>■■</Speaker>||<黑屏1><边框>2</边框>:Не знаю... +Но эмоциональные модули — это то, что нам дали люди. Никто же не станет специально делать свои продукты некачественными, верно? +Так что... во всем этом наверняка есть какой-то смысл.
+()||<BIN>9</BIN><黑屏2>:... +...... +...... +Начинаем воспроизведение аудио—
+AR15(0)<Speaker>AR15</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Давно не виделись, ■■.</color>+<color=#00CCFF>Не знаю, будет ли это наш последний разговор, но из-за того, как сейчас у меня дела, скажу только самое важное.</color>+<color=#00CCFF>Я, наверное... никогда не смогу вернуться в Команду AR.</color>+<color=#00CCFF>Знаешь, иногда так бывает. Ты много трудишься, но в итоге всё равно ничего не получается.</color>+<color=#00CCFF>Враги, приказы или просто невезение. Столько всего может испортить твой план...</color>+<color=#00CCFF>M16 как-то сказала, что разница в том, сдадимся ли мы просто так или будем готовы к худшему и продолжим идти.</color>+<color=#00CCFF>Если ты не увидишь меня в следующий раз, значит, произошло самое худшее...</color>+<color=#00CCFF>Но я уже подготовился к этому. А ты, ■■?</color>+<color=#00CCFF>Ты готова вернуться в Команду AR?</color>+<color=#00CCFF>Конечно, у тебя есть свои мысли и свой выбор... Так что я просто хочу сказать...</color>+<color=#00CCFF>Извини. Прости меня за то, что я сказала. Ты всегда была примером для подражания. Я знаю это.</color>
+NPC-Persica(0)<Speaker>Персика</Speaker>||<关闭蒙版><黑屏2>:Не расстраивайся, ■■. Ты классная Кукла, лучше, чем многие другие, которых ты еще не встречала.
+NPC-Persica(0)<Speaker>■■</Speaker>||:Я... не понимаю... Но почему... Почему эта Кукла... AR-15... почему она сказала, что я была неудачницей? Я же явно выиграла в симуляции боя...
+NPC-Persica(0)<Speaker>Персика</Speaker>||:Потому что ты без раздумий бросила M4A1. Это был крайне неудачный выбор.
+NPC-Persica(0)<Speaker>■■</Speaker>||:Я сделала это, чтобы выиграть... +Разве Куклы не являются расходными материалами?
+NPC-Persica(0)<Speaker>Персика</Speaker>||:Не все, ■■. Это не тот ответ, который мне нужен.
+NPC-Persica(0)<Speaker>■■</Speaker>||:Значит, с этого момента я должна уделять первоочередное внимание защите M4A1, верно? Тогда дайте мне новый приказ. Я теперь знаю, что делать.
+NPC-Persica(0)<Speaker>Персика</Speaker>||:Нет... я не это имела в виду. +Хотя Команда AR была создана для этой цели, я не буду давать тебе такой приказ.
+NPC-Persica(0)<Speaker>■■</Speaker>||:Я не понимаю... Почему ты хочешь, чтобы я это делала... не приказывая мне...?
+NPC-Persica(0)<Speaker>Персика</Speaker>||:Тебе нужно понять, ПОЧЕМУ ты должна это делать. +Тебе нужно найти правильный ответ на полях сражений, а не добиваться победы, просто выполняя приказы.
+NPC-Persica(0)<Speaker>■■</Speaker>||:Тогда почему бы не запрограммировать это прямо так?+Просто скажи, что делать, и я разберусь.
+NPC-Persica(2)<Speaker>Персика</Speaker>||:Ты не знаешь, в чем заключается твое истинное «превосходство», ■■... +Но я дам тебе шанс. Я позволю тебе принять участие в реальных операциях. Ты должна накопить опыт, накопить знания... +Ты должна... обогатить свои «эмоции».
+NPC-Persica(2)<Speaker>■■</Speaker>||:Эмоции?
+NPC-Persica(0)<Speaker>Персика</Speaker>||:Да. Эмоции Куклы можно тренировать и менять. +Это... результат упорного труда Лико... Надеюсь, я сейчас не злоупотребляю этим...
+NPC-Persica(0)<Speaker>■■</Speaker>||:Мисс Персика?
+NPC-Persica(0)<Speaker>Персика</Speaker>||:Я тебя переведу на новоё место, где ты будешь заниматься настоящей работой. Подружись со своими коллегами и разными людьми...+Даже я не решаюсь общаться с этими людьми... Чтобы добиться успеха, тебе нужно быть лучше меня.
+NPC-Persica(0)<Speaker>■■</Speaker>||:Новая должность... Не знаю, смогу ли я к ней привыкнуть. А я смогу вернуться в Команду AR?
+NPC-Persica(2)<Speaker>Персика</Speaker>||:Еще не самое подходящее время. Я верну тебя, когда ты будешь готова.
+NPC-Persica(2)<Speaker>■■</Speaker>||:Моя... новая работа... +Не уверена, что она мне понравится...
+NPC-Persica(2)<Speaker>Персика</Speaker>||<黑屏1>:Честно говоря, я тоже не уверена, и не буду тебя заставлять, но научиться любить это будет твоей задачей. +Научись любить M4A1, научись любить мир и научись любить себя. +Иди за мной, и мы сразу же начнем.
+92type(0)<Speaker>Type 92</Speaker>||<BIN>41</BIN><黑屏2><回忆><边框>2</边框>:Да, миссия тоже выполнена... Но... нам скоро придется расстаться...
+MK2(0)<Speaker>STEN MkII</Speaker>||<边框>2</边框>:А? Почему?
+RO()<Speaker>■■</Speaker>||<边框>2</边框>:Ты же помнишь, Sten? +Эта команда собрана временно только для этой операции.
+MK2(0)<Speaker>STEN MkII</Speaker>||<边框>2</边框>:Ах да... И у нас уже есть «Документ 36»... + Хотя Сангвис Ферри и полностью разрушил город...
+92type(0)<Speaker>Type 92</Speaker>||<边框>2</边框>:Они не будут долго оставаться самоуверенными. Макаров сообщит об этом в штаб.  +Мы что-нибудь придумаем — и против этого огромного миномета, и против главаря Сангвиса, который прячется за ним.
+MK2(0)<Speaker>STEN MkII</Speaker>||<边框>2</边框>:Да. Мы все прошли через многое и многому научились во время этой операции. +Даже если наши пути разойдутся, я никогда не забуду...
+AAT52(0)<Speaker>AAT52</Speaker>||<边框>2</边框>:Не будь такой мелодраматичной, Sten. Мы же не навсегда расстаемся. + Давай устроим нормальную вечеринку, когда вернемся домой!
+RO()<Speaker>■■</Speaker>||<黑屏1><边框>2</边框>:... + Да... + Это не значит, что мы больше никогда не увидимся... + Так что, девчонки, это не конец.
+RO()<Speaker>■■</Speaker>||<黑屏2><BIN>42</BIN><边框>2</边框>:Мы будем продолжать сражаться, продолжая обучаться на полях сражений... +И мы будем продолжать побеждать, пока Сангвис Ферри не будет окончательно разгромлен.
+92式()<Speaker>Type 92</Speaker>||<边框>2</边框>:... +Говорят, ты не совсем такая, как другие Т-Куклы. Думаю, они правы. +У тебя есть... то, чего не хватает Т-Куклам Грифона.
+RO()<Speaker>■■</Speaker>||<边框>2</边框>:...Наверное. +Вот почему я вернулаcь — ради победы Грифона, ради справедливости...
+RO()<Speaker>■■</Speaker>||<黑屏1><边框>2</边框>:И... ради мести...
+RO()<Speaker>■■</Speaker>||<黑屏2><BIN>43</BIN><边框>2</边框><黑屏1>:Клянусь...  + Я заставлю их за это заплатить! Неважно, каким оружием они в нас стреляют, какие стратегии используют, какие интриги замышляют... + Пока они причиняют разрушения... Пока они сеют хаос... + Я обязательно заставлю их за это заплатить!
+NPC-Persica(2)<Speaker>Персика</Speaker>||<BIN>9</BIN><关闭蒙版><黑屏2><BGM>BGM_Empty</BGM>:Ты наконец-то... начала любить этот мир? +Ты наконец-то поняла, почему ты так себя ведешь?
+NPC-Persica(2)<Speaker>■■</Speaker>||:Я... +Я не знаю, что мне нравится...
+NPC-Persica(2)<Speaker>Персика</Speaker>||:Это ты. Ты и этот мир — одно целое.
+NPC-Persica(2)<Speaker>■■</Speaker>||:Кто... я?
+NPC-Persica(2)<Speaker>Персика</Speaker>||<白屏1>:Твое имя... +Ну конечно, это...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>72</BIN><白屏2>:RO!! +R! O! +ШЕЕЕСТЬ! ТРИИИИИ! +ПЯЯЯЯЯТЬ—!!!
 RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<闪屏><duration>5</duration></闪屏>:
-RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<震屏>:<size=55>AHHHHHHHHHHHHHHHHH—!</size>
-RO635(5);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>AHHHHHHHHHH—!</size>
-RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<BGM>BGM_Room</BGM>:W-What happened?! +M4! M4, wake up— +Wake...? +SOP-II?
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<震屏>:<size=55>AАААААААААААААААА—!</size>
+RO635(5);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:<size=55>AААААААААААААА—!</size>
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(2)||<BGM>BGM_Room</BGM>:Ч-что случилось?! +M4! M4, проснись... +Проснуться...? +SOP-II?
 RO635(5);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO...
-RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:What possessed you to suddenly shout so loudly?!
-RO635(5);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I shouted because you shouted.
-RO635(3)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:I shouted because YOU shouted.
-RO635(3);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I shouted because I wanted to call out to you.
-RO635(3)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:... +...So, uh... +...What does that mean?
-RO635(3)<Speaker></Speaker><Shake>;SOPIIDamage(0)<Shake>||:...Thump! +SOP-II rushes over and embraces RO!
-RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Ack! Tootighttootight! +What's going on here?!
-RO635(5);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Wow! How wonderful, RO! We meet again at last!
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Is... that so... +What... happened to me? +Ah, I think I was trying to wake M4A1, and then—
-RO635(0);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:And then! And then Yegor shot you in the head!
-RO635(4)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:—?! +I... was killed?
-RO635(4);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yes... +I only managed to take your neural core with me. Now I've entered Level II to try and awaken you...
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Awaken me... +Hold it, I want to sort out my neural cloud... +This is a mess... What's going on now...? +Where's... M4A1?
-RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Don't worry, she's...she'll be fine. +More importantly, you need to wake up. Time's very tight, we need to go now!
-RO635(0)<Speaker>RO635</Speaker>||:Wait! You can't—!
-()||<BGM>BGM_Empty</BGM>:...SOP-II grabs RO's arms and forcefully pulls her up!
-()||<SE1>Alarm</SE1>:...Whum—!
-()||<BGM>BGM_stage1</BGM>:<color=#00CCFF>WARNING! Detecting unauthorized ID signal—</color>+<color=#00CCFF>ID signal belongs to Sangvis Ferri, activating expulsion mode—</color>
-RO635(0)<Speaker>RO635</Speaker>||: SOP-II! It's dangerous, come with me!
-()||<黑点1><SE1>RunStep</SE1>:...RO drags SOP-II along as they flee through cyberspace.
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑点2>:What-what was that?
-RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:It's a defense mechanism installed in my neural cloud. You were too rough and triggered it! +Also, those S.F. arms and legs of yours are a big problem too!
-RO635(5);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Hey, I survived with the help of these things! +So what should we do now? How should I get you out of here?
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:Where's my body?
-RO635(0);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:The head was smashed, so I left it back there. +Don't make me think about it; it makes me want to get my team to hunt down and kill Yegor.
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:Alright, alright, if you have teammates, then I'll need a body...
-RO635(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:We don't have any spare bodies. We're really low on manpower, and I can't sacrifice a friend to resurrect you.
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:Don't talk like we're conducting some kind of evil ritual... +Alright, then what do you have?
-RO635(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:I've got an auxiliary power supply and something that can serve as a vessel for your baseline module, but it's not physically big enough to carry your core.
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:It can't? What kind of vessel did you find that was so small?
-RO635(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:More like your core is so big - where does it even go in your body? +Still, that's fine. I can just stick it onto my own.
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:You're using...your body?
-RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Well, it's not like I'll be eating cake or dancing any time soon. When I rebuilt my body, I dumped a lot of modules and parts. That freed up a lot of space. +But I don't know how to connect your core to my internal motherboard on the software level...
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:I have a way, but it'll put a huge strain on your neural cloud.
-RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:"If you don't use your head, you might as well not have one," M16A1 once said.
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Alright, but first we need to get out of this place.
-RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Can't you just tell them to stop?
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:The system thinks I'm dead, so it's stripped me of my neural cloud control privileges. I need to reauthenticate to get them back.
-RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:What the heck... this is such a drag.
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:All the members of the AR Team are different in their own ways, right? I was developed by Miss Persica as an electronic warfare specialist. +Besides, who would have expected a Griffin T-Doll loaded with Sangvis parts to come barging in when I was ambushed... +Let's go, I need to crack the defensive barrier sealing off the authentication mechanism first.
-RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Yeah! Let's go!
-RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Hold it! Don't alert too many defenders! +Honestly, why are you so much more eager than I am?
-RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:T-That's because I finally got to see you again! +And soon, we'll be able to meet in real life!
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Что тебя так вдруг взбудоражило, что ты так громко закричала?!
+RO635(5);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Я закричала, потому что ты закричала.
+RO635(3)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Я закричала, потому что ТЫ закричала.
+RO635(3);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Я закричала, потому что хотел тебя окликнуть.
+RO635(3)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:... +...Так что... +... Что это значит?
+RO635(3)<Speaker></Speaker><Shake>;SOPIIDamage(0)<Shake>||:...Бах!+SOP-II подбегает и обнимает RO!
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Ай! Слишкомкрепкослишкомкрепко! +Что здесь происходит?!
+RO635(5);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:ВАУ! Как классно, RO! Наконец-то мы снова вместе!
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Вот как... +Что со мной случилось? +А, кажется, я пыталасс разбудить M4A1, а потом—
+RO635(0);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:И тогда! И тогда Егор тебе в башку выстрелил!
+RO635(4)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:—?! +Я... была убита?
+RO635(4);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Да... +Мне удалось взять с собой только твоё нейронное ядро. Теперь я зашла на уровень II, чтобы попытаться тебя разбудить...
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Разбудить меня... +Подожди, я хочу разобраться в своих мыслях... +Это какой-то беспорядок... Что сейчас происходит...? +Где... M4A1?
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Не волнуйся, она... с ней всё будет хорошо.+Главное, тебе нужно проснуться. Времени мало, нам нужно идти прямо сейчас!
+RO635(0)<Speaker>RO635</Speaker>||:Подожди! Ты не можешь...!
+()||<BGM>BGM_Empty</BGM>:...SOP-II хватает RO за руки и с силой поднимает её!
+()||<SE1>Alarm</SE1>:...ВУУУУ—!
+()||<BGM>BGM_stage1</BGM>:<color=#00CCFF>ВНИМАНИЕ! Обнаружен несанкционированный ID-сигнал—</color>+<color=#00CCFF>ID-сигнал принадлежит Сангвис Ферри, активация режима изгнания—</color>
+RO635(0)<Speaker>RO635</Speaker>||: SOP-II! Это опасно, пойдем со мной!
+()||<黑点1><SE1>RunStep</SE1>:...RO тащит SOP-II с собой, бежа по киберпространству.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑点2>:Что-что это было?
+RO635(5)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:Это защитный механизм, который есть в моей нейронной сети. Ты была слишком агрессивна и активировала его! +К тому же, твои руки и ноги из деталей С.Ф. и это тоже большая проблема!
+RO635(5);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Эй, я жива благодаря этим штукам! +Так что теперь делать? Как мне тебя отсюда вытащить?
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:Где мое тело?
+RO635(0);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Голова была разрушена, поэтому я оставила её там. +Не заставляй меня об этом вспоминать, потому что мне хочется, чтобы моя команда нашла и убила Егора.
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(3)||:Хорошо, хорошо, если у тебя есть товарищи по команде, то мне понадобится тело...
+RO635(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:У нас нет лишних тел. У нас очень мало людей, и я не могу пожертвовать друзьями, чтобы воскресить тебя.
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:Не говори так, будто мы проводим какой-то зловещий ритуал... Ладно, что у тебя есть?
+RO635(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:У меня есть дополнительный источник питания и штука, которая может быть контейнером для твоего базового модуля, но она физически не достаточно большая, чтобы вместить твое ядро.
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:Не сможет? Какой же такой маленький сосуд ты нашла?
+RO635(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Скорее, твоё ядро такое большое — куда оно вообще помещается в твоём теле?+Но всё равно, это нормально. Я могу просто закрепить его на своём.
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(2)||:Ты используешь... свое тело?
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Ну, я же не собираюсь в ближайшее время пить шампанское или танцевать. Когда я модифицировала свое тело, я выбросила много модулей и деталей. Это освободило много места.+Но я не знаю, как подключить твое ядро к моей внутренней материнской плате на программном уровне...
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:У меня есть один способ, но он сильно нагрузит твою нейронную сеть.
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:«Если не используешь голову, то лучше бы ее и не иметь», — как-то сказала M16A1.
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Ладно, но сначала надо свалить отсюда.
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Не можешь просто сказать им, чтобы система успокоилась?
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Система думает, что я умерела, поэтому лишила меня прав на управление нейронным облаком. Мне нужно пройти повторную аутентификацию, чтобы их вернуть.
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Черт возьми... как это раздражает.
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Все члены Команды AR по-своему уникальны, правда? Меня создала мисс Персика как специалиста по электронной войне. +К тому же, кто бы мог подумать, что когда на меня напали, появится Кукла Грифона с деталями Сангвиса... +Пошли, сначала надо взломать защитный барьер, который блокирует механизм аутентификации.
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Да! Вперед!
+RO635(0)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Постой! Не привлекай слишком много систем защиты!+Честно говоря, почему ты так сильно хочешь этого, больше, чем я?
+RO635(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Это потому, что я наконец-то снова тебя увидела!+И скоро мы сможем встретиться в реальности!
 RO635(0);SOPIIDamage(0)||:
-()||:...RO635 smiles.
-RO635(2)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Seeing you be this noisy, and knowing about all of the annoying work that's coming up for me... I really should have slept longer.
-RO635(2);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Hehe, but you're awake now, so let's go!
+()||:...RO635 улыбается.
+RO635(2)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Видя, как ты суетишься, и зная, сколько надоедливой работы меня ждет... Мне действительно стоило поспать подольше.
+RO635(2);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Хе-хе, но ты уже проснулась, так что пойдем!
 ()||<黑点2><BIN>10</BIN>:
+
