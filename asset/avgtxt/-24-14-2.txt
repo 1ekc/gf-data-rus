@@ -1,11 +1,12 @@
-()||<BIN>9</BIN><BGM>BGM_Sunshine</BGM>:...After wiping out the enemies, 416 leads SOP-II onward.
-HK416(0)<Speaker>416</Speaker><通讯框>||:Commander, we're heading towards Outpost 76 to repel the white enemies' attack. +By the way, we happened to have picked up...
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:Commander! Commander! Commander! 
-HK416(0)<Speaker></Speaker><通讯框>||:...Click! +...416 forcibly switches off SOP-II's comms channel.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:Hey! That was really mean, 416! +RO couldn't even say a word!
-RO635()<Speaker>RO635</Speaker>||:L-leave it. Just let the Commander think I died...
-HK416(0)<Speaker>416</Speaker>||:We picked up SOP-II and RO from the AR Team along the way. Storm and her echelon are also with them. They look a bit...different, but at least they can still move about.
-RO635()<Speaker>RO635</Speaker>||:I can't move about! I'm not free at all!
-HK416(0)<Speaker>416</Speaker>||<黑屏1>:...Save the chit-chat for later. We're about to arrive at Outpost 76.
-M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>9</BIN>:And so, we reunited with the Commander, thanks to 416 and her team. +Though we were tattered and torn, we came back from the battlefield alive. +Of course, that was only for a while, because we would soon be facing an unknown enemy and an unknown situation... +But I will survive... +And this time, I'll won't be alone...
-()||<黑屏1>:Daybreak on the Horizon — END
+()||<BIN>9</BIN><BGM>BGM_Sunshine</BGM>:...После того, как враги были уничтожены, 416-я ведет SOP-II дальше.
+HK416(0)<Speaker>416</Speaker><通讯框>||:Командир, мы направляемся к аванпосту 76, чтобы отбить атаку «белых врагов»!+Кстати, мы случайно подобрали...
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:Командир! Командир! Командир! 
+HK416(0)<Speaker></Speaker><通讯框>||:...Клик! +...416-я принудительно отключает канал связи SOP-II.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||:Эй! Это было очень грубо, 416-я! +RO даже не смог сказать ни слова!
+RO635()<Speaker>RO635</Speaker>||:Просто оставь это. Пусть Командир думает, что я погибла...
+HK416(0)<Speaker>416</Speaker>||:По дороге мы забрали SOP-II и RO из Команды AR. Storm и ее отряд тоже с ними. Они выглядят немного... по-другому, но, по крайней мере, могут передвигаться.
+RO635()<Speaker>RO635</Speaker>||:Я не могу передвигаться! Я совсем не ощущаю свободы!
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:...Поговорим позже. Мы скоро прибудем на Аванпост 76.
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>9</BIN>:И вот, благодаря 416-ой и ее команде, мы снова встретились с Командиром. +Хотя мы были измотаны и изранены, мы вернулись с поля боя живыми. +Конечно, это было ненадолго, потому что вскоре нам предстояло столкнуться с неизвестным врагом и неизвестной ситуацией... +Но я выживу... +И на этот раз я не буду одна...
+()||<黑屏1>:Рассвет на горизонте — КОНЕЦ
+
