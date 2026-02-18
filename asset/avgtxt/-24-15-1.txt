@@ -1,58 +1,59 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()||<BIN>159</BIN><BGM>BGM_Sunshine</BGM><黑屏2>:...
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO...
-RO635(6)<Speaker>RO635</Speaker>||:Shut up...
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO, let me explain—
-RO635(6)<Speaker>RO635</Speaker>||:I want you to SHUT UP! Pay attention and walk!
-()||<震屏>:...Thump! +SOP-II nearly collapses onto her knees.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:SOP-II, are you alright?
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Ugh... I'm fine, I'm fine... +Honestly, I can't control my body properly every time you kick up a fuss.
-RO635(6)<Speaker>RO635</Speaker>||:Whose fault is it that I have high-end electronic warfare modules?! Whose fault is it that I'm not the one controlling the body?!
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:I'm sorry, I didn't mean to tell the Commander - pffffft!
-RO635(6)<Speaker>RO635</Speaker>||:Didn't mean to, my ass! Look at your face! Just look at your face! +Didn't we agree not to tell the Commander I ended up like this?! You should have pretended I was dead!
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:But the Commander was so relieved after I said that, so live with it, okay?
-RO635(6)<Speaker>RO635</Speaker>||:I should just kill myself...
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:There there, you can change back to normal once we get back to HQ, RO.
-RO635(6)<Speaker>RO635</Speaker>||:How long is that going to take... +Cx4, how far away are we from the secure location that the Commander gave us?
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:It's right in front of us, see—
-RO635(6)<Speaker>RO635</Speaker>||:SOP-II, look up, otherwise I can't see it.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>ClothingUp</SE1>:Yes, yes—
-RO635(6)<Speaker>RO635</Speaker>||:It looks like a temporary base, and it doesn't look like Griffin built it themselves.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Don't think about that. It's good enough that we've got a place like this.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Yeah, I'm glad we get to regroup with everyone! We finally get to breathe a sigh of relief!
-RO635(6)<Speaker>RO635</Speaker>||:...Still, someone's helping us, right? +I mean, consider the heavy weapons the Commander used to support us. That's not the sort of thing a PMC ought to have.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:You know about that sort of thing, RO?
-RO635(6)<Speaker>RO635</Speaker>||:I used to handle a lot of law enforcement work. Of course I'd know. +After WWIII, civilian organizations aren't allowed to have military weapons without special permission.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Mm, I know that. That's why we can only use these 50-year-old weapons, right?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Some T-Dolls have weapons which are more than 50 years old, hehe...
-RO635(6)<Speaker>RO635</Speaker>||:Don't look down on them when they have the Imprint to make up for their performance.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:But yeah, those heavy weapons mean we aren't an ordinary PMC anymore, right?
-RO635(6)<Speaker>RO635</Speaker>||:That much was obvious the moment the Military turned on us... +I wonder what happened to HQ...
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Huh? You don't know about them, RO? +Oh...that's right...
-RO635(6)<Speaker>RO635</Speaker>||:What?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<闪屏><duration>5</duration></闪屏>:Ah! RO, we're here! We're here! +Look! It's the security zone! We're safe!
-RO635(6)<Speaker>RO635</Speaker>||:What happened at HQ?! +SOP-II! If you don't tell me, don't even think about stepping foot into the security zone!
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Arghhhh! My right leg is out of control!!
-？？()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:Shut it.
+RO635(6)<Speaker>RO635</Speaker>||:Заткнись...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:RO, дай мне объяснить—
+RO635(6)<Speaker>RO635</Speaker>||:Я хочу, чтобы ты ЗАТКУНАЛАСЬ! Шагай молча!
+()||<震屏>:...Бум! +SOP-II почти падает на колени.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:SOP-II, ты в порядке?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Эх... Я в порядке, я в порядке...+Честно говоря, я не могу нормально контролировать свое тело, когда ты начинаешь нервничать.
+RO635(6)<Speaker>RO635</Speaker>||:И чья же это вина, что у меня есть крутые модули радиоэлектронной борьбы?! И чья же это вина, что я не могу контролировать свое тело?!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Извини, я не хотела говорить Командиру... 
+RO635(6)<Speaker>RO635</Speaker>||:Не хотела, да на хрен! Посмотри на свое лицо! Просто посмотри на свое лицо! +Разве мы не договорились не говорить Командиру, что я так выгляжу? Ты должна была притвориться, что я умерла!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Но Командир так обрадовался, когда я это сказала, так что смирись с этим, ладно?
+RO635(6)<Speaker>RO635</Speaker>||:Я должен просто сдохнуть...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Ну-ну, ты можешь вернуться к нормальному состоянию, как только мы вернемся в штаб, RO.
+RO635(6)<Speaker>RO635</Speaker>||:Сколько времени это займет... +Cx4, как далеко мы от безопасного места, которое указал нам Командир?
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Он прямо перед нами, смотрите...
+RO635(6)<Speaker>RO635</Speaker>||:SOP-II, посмотри вверх, иначе я ничего не вижу.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>ClothingUp</SE1>:Да, да—
+RO635(6)<Speaker>RO635</Speaker>||:Похоже, это временная база, и, судя по всему, Грифон ее не сам построил.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Не думай об этом. Хорошо, что у нас есть хотя бы такое место передышки.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Да, я рада, что мы снова все вместе! Наконец-то можно перевести дух!
+RO635(6)<Speaker>RO635</Speaker>||:...Тем не менее, кто-то нам помогает, верно? +Я имею в виду тяжелое оружие, которое Командир использовал для нашей поддержки. Это не то, что должно быть у ЧВК.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Ты в курсе такого рода вещей, RO?
+RO635(6)<Speaker>RO635</Speaker>||:Я раньше много работала с правоохранителями. Конечно, я знаю. +После Третьей мировой войны гражданским организациям нельзя иметь военное оружие без специального разрешения.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Мм, я это знаю. Вот почему мы можем использовать только это 50-летнее оружие, верно?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:У некоторых Т-Кукол есть оружие, которому уже больше 50 лет, хе-хе...
+RO635(6)<Speaker>RO635</Speaker>||:Не смотри на них свысока, ведь у них есть Импринт, который компенсирует их недостатки.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Но ведь с таким тяжелым оружием мы уже не обычная ЧВК, верно?
+RO635(6)<Speaker>RO635</Speaker>||:Это стало ясно, как только Военные на нас набросились... +Интересно, что же случилось с штабом...
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Э? Ты не знаешь о них, RO? +О... верно...
+RO635(6)<Speaker>RO635</Speaker>||:Что?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<闪屏><duration>5</duration></闪屏>:Ах! RO, мы на месте! Мы наконец добрались! +Смотри! Это зона безопасности! Мы в безопасности!
+RO635(6)<Speaker>RO635</Speaker>||:Что случилось со штабом?! +SOP-II! Если не расскажешь, даже не думай о том, чтобы переступить порог зоны безопасности!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Aаааааарррхххх! Моя правая нога не подчиняется мне!
+？？()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:Завались
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:...?! 
-()||:Everyone looks over and sees the T-Doll waiting up ahead.
-RO635(6)<Speaker>RO635</Speaker>||:You...you're...
-HK416(0)<Speaker>416</Speaker>||<BGM>BGM_NightOPS</BGM>:What are you dawdling for? Regroup already!
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:This T-Doll... Who is she again? She looks kinda familiar...?
-HK416(0)<Speaker>416</Speaker>||:You find too many people familiar. Hurry up and get over here. +The enemy is about to launch their next attack. We must get everyone out of here before that.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Enemy? Has the Military fought their way here?
-HK416(0)<Speaker>416</Speaker>||:It's a new faction.
-Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:A new faction? +Not the Military? +Not Sangvis Ferri either? +Then who are they?
-HK416(0)<Speaker>416</Speaker>||:No idea. +All we know is that they want to kill us deader than dead.
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Huh...is that so? +Well, I don't mind as long as they're something I can kill.
-HK416(0)<Speaker>416</Speaker>||<黑屏1>:That's the problem. +Those things...that want to kill us... +They're...unkillable.
-()||<BIN>10</BIN><黑屏2>:...Five minutes later, the team encounters the unknown enemy blocking their path.
-HK416(0)<Speaker>416</Speaker>||:You see those white things, SOP-II?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Hm... I've never seen them before. What are they?
-HK416(0)<Speaker>416</Speaker>||:I don't know, but they're after us. And their firepower is at least as good as the Military's.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:So we can only regroup with the Commander after we fight our way out of here?
-HK416(0)<Speaker>416</Speaker>||:We won't be able to meet up with the Commander for now. Griffin has their hands full fighting these enemies and they can't withdraw.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Then we need to get rid of these enemies! No matter what they are, we can't let them hurt everyone!
-HK416(0)<Speaker>416</Speaker>||:(Has SOP-II...changed?)
-HK416(0)<Speaker>416</Speaker>||:We have the Commander and the HOCs. Taking care of enemies we see now isn't a problem. +Wipe them out as soon as possible. We need to mount a rescue at the next outpost.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Roger! Leave to to me! RO, Cx4 Storm, this is the first battle we're fighting with the Commander watching since we came back, so make sure you put on a good show!
+()||:Все посмотрели вперед и увидели Т-Куклу, которая ждала их.
+RO635(6)<Speaker>RO635</Speaker>||:Ты...ты же...
+HK416(0)<Speaker>416</Speaker>||<BGM>BGM_NightOPS</BGM>:Чего вы медлите? Собирайтесь уже!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Эта Т-Кукла... Кто она такая? Кажется, я ее где-то видела...
+HK416(0)<Speaker>416</Speaker>||:Ты слишком много людей знаешь. Давай, быстрее сюда. +Враг вот-вот начнет новую атаку. Нам нужно всех отсюда увести до этого.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Враг? Военные пробились сюда?
+HK416(0)<Speaker>416</Speaker>||:Это новая фракция.
+Cx4Storm(0)<Speaker>Cx4 Storm</Speaker>||:Новая фракция? +Не Военные? +Не Сангвис Ферри? +Тогда кто они?
+HK416(0)<Speaker>416</Speaker>||:Без понятия. +Все, что мы знаем, это то, что они хотят убить нас, чтобы мы были мертвее мертвых.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Хм... так вот как? Ну, мне все равно, пока это то, что я могу убить.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:В том-то и проблема. +Эти существа... которые хотят нас убить... +Они... неубиваемы.
+()||<BIN>10</BIN><黑屏2>:...Пять минут спустя команда натыкается на неизвестного врага, который стоит на их пути.
+HK416(0)<Speaker>416</Speaker>||:Видишь эти белые штуки, SOP-II?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Хм... Я их никогда раньше не видела. Что это такое?
+HK416(0)<Speaker>416</Speaker>||:Не знаю, но они за нами охотятся. И их огневая мощь не хуже, чем у Военных.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:То есть мы сможем перегруппироваться с Командиром только после того, как отсюда выберемся?
+HK416(0)<Speaker>416</Speaker>||:Пока что мы не сможем встретиться с Командиром. Грифон полностью занят борьбой с этими врагами и не может отступить.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Тогда надо избавиться от этих врагов! Неважно, кто они, мы не можем позволить им причинять всем вред!
+HK416(0)<Speaker>416</Speaker>||:(SOP-II... изменилась?)
+HK416(0)<Speaker>416</Speaker>||:У нас есть Командир и оперативные центры. Сейчас не проблема разобраться с врагами, которых мы видим. +Уничтожьте их как можно быстрее. Нам нужно организовать спасательную операцию на следующем аванпосте.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Так точно! Оставь это мне! RO, Cx4 Storm, это первая битва, которую мы ведем под присмотром Командира с тех пор, как мы вернулись, так что постарайтесь показать хорошее выступление!
+
