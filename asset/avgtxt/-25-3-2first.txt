@@ -1,35 +1,36 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<BIN>159</BIN><BGM>BGM_Sneak</BGM><黑屏2>:...Battle concludes. The enemy assault on the outpost is successfully repelled. +...Under the covering fire from the HOCs, the outpost soon settles down again. The Griffin T-Dolls begin inspecting the damage through the pervasive smoke and dust.
-Mk12(0)<Speaker>Mk 12</Speaker>||:I didn't think we'd actually survive. +We were just taking a one-sided beating, it feels so surreal now.
-A91(0)<Speaker>A-91</Speaker>||:The stuff that the Commander brought along is pretty powerful.
-Python(0)<Speaker>Python</Speaker>||:416, thanks to you, our coordination with the Commander was seamless.
-HK416(0)<Speaker>416</Speaker>||:Don't mention it. Rather, I wouldn't live up to the position of adjutant if I hadn't done that.
-AK74U(0)<Speaker>AK-74U</Speaker>||:We can relax for now with them protecting the base. +So what do we do now? Can we get on with rescuing the ones at the other strongpoints?
-HK416(0)<Speaker>416</Speaker>||:Feeling restless again?
-AK74U(0)<Speaker>AK-74U</Speaker>||:My friends are still waiting for help. Although... it might be too late now.
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Don't worry. According to our sources, the enemy blockade beyond the perimeter shows no sign of waning, which means they're still alive for the time being.</color>
-Python(0)<Speaker>Python</Speaker>;NPC-Kalin(4)||:Miss Kalin, is the extraction point completely secured?
-Python(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Yep, thanks for repelling the enemies! While their attention was diverted, a lot of our T-Dolls have been repaired. They're now standing by in multiple defensive positions.</color> +<color=#00CCFF>Moreover, the first transport squadron has arrived!</color>
-HK416(0)<Speaker>416</Speaker>;NPC-Kalin(4)||:The withdraw is finally underway?
-HK416(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:<color=#00CCFF>That's right, but right now the priority is to evacuate the wounded and non-combat personnel. You may have to stay behind for now and fight.</color>
-AK74U(0)<Speaker>AK-74U</Speaker>;NPC-Kalin(4)||:(Sighs) I wouldn't leave even if I could. 9A-91 is still waiting for me. +But now that reinforcements are here, we can go all out, right?
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Miss 416, your squad is a special case and has an injured member. Would you like to evacuate first?</color>
-HK416(0)<Speaker>416</Speaker>;NPC-Kalin(4)||:I'm staying.
-HK416(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Pardon?</color>
-HK416(0)<Speaker>416</Speaker>||:You don't have to consider us for the evacuation, we have our own arrangements. Besides, saving more T-Dolls is also more guarantee for our safety. +Instead of trusting this bunch of idiots on the base...I'd rather put my experience to good use.
-A91(0)<Speaker>A-91</Speaker>||:Hey, we heard that.
-Mk12(0)<Speaker>Mk 12</Speaker>||:That was mean, but then again you're the adjutant, say what you want!
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Thank you, 416. You've been immensely helpful.</color>
-HK416(0)<Speaker>416</Speaker>;NPC-Kalin(4)||:More like, how did you even manage before this...?
-HK416(0);NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>The Commander's work will be over soon, you'll only have five more minutes to catch your breath, make the most of it.</color>
-Python(0)<Speaker>Python</Speaker>;NPC-Kalin(4)||:Miss Kalin, may I join the fireteam?
-Python(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Huh? Are you going, too?</color>
-Python(0)<Speaker>Python</Speaker>;NPC-Kalin(2)||:Since the base is safe for the time being, I'd rather be where I'm needed. +After all, the T-Dolls out there are in grave danger, every bit of  help increases our chance of victory.
-Mk12(0)<Speaker>Mk 12</Speaker>;NPC-Kalin(2)||:I'm going as well! I won't let a rookie look down on me!
-AK74U(0)<Speaker>AK-74U</Speaker>;NPC-Kalin(2)||:Uh, I told you she's not a rookie. You, on the other hand, are fresh out of IOP's factory, aren't you...?
-A91(0)<Speaker>A-91</Speaker>;NPC-Kalin(2)||:Count me in, too. I really want to see for myself what you're made of.
-NPC-Kalin(3)<Speaker>Kalina</Speaker>||:<color=#00CCFF>416, are you okay with leading these T-Dolls?</color>
-HK416(0)<Speaker>416</Speaker>||:A bunch of headstrong simpletons... +I have no objection as long as they follow my orders.
-AK74U(0)<Speaker>AK-74U</Speaker>||:Haha... In any case, we're the only ones here to help. +Welcome to Griffin's Expendables, 416!
-HK416(0)<Speaker>416</Speaker>||:...What kind of dumb name is that? +It's even lamer than "404"...
+()<Speaker></Speaker>||<BIN>159</BIN><BGM>BGM_Sneak</BGM><黑屏2>:...Сражение закончилось. Атака врага на аванпост отбита. +...Под прикрытием огня ГОгП аванпост быстро восстанавливает порядок. Т-Куклы Грифона начинают осматривать ущерб сквозь густой дым и пыль.
+Mk12(0)<Speaker>Mk 12</Speaker>||:Я не думала, что мы выживем. Мы просто получали односторонний разгром, и сейчас это кажется таким нереальным.
+A91(0)<Speaker>A-91</Speaker>||:Оборудование, которое привёз Командир, довольно мощное.
+Python(0)<Speaker>Python</Speaker>||:416-я, благодаря тебе, наша работа с Командиром была просто отличная.
+HK416(0)<Speaker>416</Speaker>||:Не стоит благодарности. Наоборот, я бы не соответствовала должности адъютанта, если бы не сделала этого.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Пока что можно расслабиться, ведь база под их защитой. +И что теперь делать? Можно ли приступить к эвакуации тех, кто находится в других опорных пунктах?
+HK416(0)<Speaker>416</Speaker>||:Снова чувствуешь себя не в своей тарелке?
+AK74U(0)<Speaker>AK-74U</Speaker>||:Мои друзья все еще ждут помощи. Хотя... может быть, уже слишком поздно.
+NPC-Kalin(4)<Speaker>Калина</Speaker><通讯框>||:<color=#00CCFF>Не переживай. По нашим данным, блокада врага за периметром не ослабевает, так что они пока живы.</color>
+Python(0)<Speaker>Python</Speaker>;NPC-Kalin(4)||:Мисс Калин, место эвакуации полностью безопасно?
+Python(0);NPC-Kalin(4)<Speaker>Калина</Speaker>||:<color=#00CCFF>Да, спасибо, что отбили врагов! Пока их внимание было отвлечено, многие из наших Т-Кукол были восстановлены. Сейчас они находятся на дежурстве в нескольких оборонительных позициях.</color> +<color=#00CCFF>Кстати, первая транспортная бригада уже приехала!</color>
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(4)||:Наконец-то начинается эвакуация?
+HK416(0);NPC-Kalin(4)<Speaker>Калина</Speaker>||:<color=#00CCFF>Да, но сейчас главное — это эвакуировать раненых и тех, кто не участвует в боях. Возможно, тебе придется пока остаться и сражаться.</color>
+AK74U(0)<Speaker>AK-74U</Speaker>;NPC-Kalin(4)||:(Sighs) Я бы не ушла, даже если бы могла. 9A-91 все еще дожидается меня. Но теперь, когда подкрепление здесь, мы можем действовать без оглядки, верно?
+NPC-Kalin(4)<Speaker>Калина</Speaker><通讯框>||:<color=#00CCFF>416-я, твоя команда — это особый случай, у тебя есть раненый. Хочешь эвакуироваться первой?</color>
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(4)||:Я остаюсь.
+HK416(0);NPC-Kalin(2)<Speaker>Калина</Speaker>||:<color=#00CCFF>Пардон?</color>
+HK416(0)<Speaker>416</Speaker>||:Не надо нас включать в эвакуацию, у нас свои планы. К тому же, спасти больше Т-Кукол — это еще и больше гарантий для нашей безопасности. +Лучше использовать свой опыт, чем доверять этой кучке идиотов на базе...
+A91(0)<Speaker>A-91</Speaker>||:Эй, мы это слышали.
+Mk12(0)<Speaker>Mk 12</Speaker>||:Это было жестоко, но ты же адъютант, говори, что хочешь!
+NPC-Kalin(4)<Speaker>Калина</Speaker><通讯框>||:<color=#00CCFF>Спасибо, 416-я. Ты очень помогла.</color>
+HK416(0)<Speaker>416</Speaker>;NPC-Kalin(4)||:А как же ты вообще справлялась до этого...?
+HK416(0);NPC-Kalin(4)<Speaker>Калина</Speaker><通讯框>||:<color=#00CCFF>Работа Командира скоро закончится, у тебя осталось всего пять минут, чтобы передохнуть, так что постарайся их использовать по полной.</color>
+Python(0)<Speaker>Python</Speaker>;NPC-Kalin(4)||:Мисс Калин, можно я присоединюсь к вашей команде?
+Python(0);NPC-Kalin(2)<Speaker>Калина</Speaker>||:<color=#00CCFF>Э? Ты тоже хочешь?</color>
+Python(0)<Speaker>Python</Speaker>;NPC-Kalin(2)||:Поскольку база пока в безопасности, я лучше буду там, где я нужна. +В конце концов, Т-Куклы там в большей опасности, и любая помощь увеличивает наши шансы на победу.
+Mk12(0)<Speaker>Mk 12</Speaker>;NPC-Kalin(2)||:Я тоже иду! Не позволю новичку смотреть на меня свысока!
+AK74U(0)<Speaker>AK-74U</Speaker>;NPC-Kalin(2)||:Э-э, я же говорила, что она не новенькая. А ты, с другой стороны, только что вышла из фабрики IOP, да...?
+A91(0)<Speaker>A-91</Speaker>;NPC-Kalin(2)||:Я тоже в деле. Мне очень хочется увидеть, на что ты способна.
+NPC-Kalin(3)<Speaker>Калина</Speaker>||:<color=#00CCFF>416-я, ты готова руководить этими Т-Куклами?</color>
+HK416(0)<Speaker>416</Speaker>||:Кучка упрямых идиоток... +Я не против, пока они слушаются меня.
+AK74U(0)<Speaker>AK-74U</Speaker>||:Ха-ха... В любом случае, мы здесь единственные, кто может помочь. +Добро пожаловать в отряд Грифона «Неудержимые», 416-я!
+HK416(0)<Speaker>416</Speaker>||:...Что это за тупое название? Даже хуже, чем «404»...
 ()||<黑屏1>:
+
