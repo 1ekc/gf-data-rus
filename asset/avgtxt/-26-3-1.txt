@@ -1,18 +1,19 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()||<BIN>157</BIN><BGM>BGM_Danger</BGM><黑屏2>:
-()||:...In the end, I decided to have 416 launch the signal flare over the Red Zone.
-AN94(2)<Speaker>AN-94</Speaker>||:Ange, a signal flare!
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:That's Griffin's standard issue. The Commander is guiding us!
-AN94(4)<Speaker>AN-94</Speaker>||:But...that will lead us to the Red Zone. Ange...I do not think it is a wise choice.
-AK12(2)<Speaker>AK-12</Speaker>||:Ange...you probably won't make it to the security zone.
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:Cough...it's alright... I'll take my chances.
-AN94(4)<Speaker>AN-94</Speaker>||:This is not something you can overcome with sheer willpower.
-AK12(2)<Speaker>AK-12</Speaker>||:According to the readings, the contamination level is still climbing in the area. Entering the Red Zone will only exacerbate your symptoms.
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Which means we don't have time to waste. Let's go!
-AN94(4)<Speaker>AN-94</Speaker>||:Come, AK-12. The ELIDs are growing in numbers. We cannot delay anymore.
-AK12(2)<Speaker>AK-12</Speaker>||:I strongly recommend taking the route through the Yellow Zone!
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker>||:I believe in the Commander! Cough... H-hurry!
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker><Shake>||:The Commander...cough...is showing us the way...
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker><Shake>||:AK-12, AN-94...cough...
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker><Shake>||<黑屏1>:If...if...you know... +Cough...cough, cough...! Cough!
+()||:...В конце концов, я решил, что 416-я запустит сигнальную ракету над Красной зоной.
+AN94(2)<Speaker>AN-94</Speaker>||:Анже, сигнальная ракета!
+NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>||:Это типичная ситуация для Грифона. Командир направляет нас!
+AN94(4)<Speaker>AN-94</Speaker>||:Но... это приведет нас в Красную зону. Анже... Я не думаю, что это хорошая идея.
+AK12(2)<Speaker>AK-12</Speaker>||:Анже... ты, скорее всего, не дойдешь до зоны безопасности.
+NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>||:Кашель... ничего страшного... Я рискну.
+AN94(4)<Speaker>AN-94</Speaker>||:Это не то, что можно преодолеть одной силой воли.
+AK12(2)<Speaker>AK-12</Speaker>||:По показаниям приборов, уровень загрязнения в этом районе продолжает расти. Если ты зайдешь в красную зону, это только ухудшит твои симптомы.
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Это значит, что у нас нет времени на раздумья. Поехали!
+AN94(4)<Speaker>AN-94</Speaker>||:Давай, AK-12. Количество ЭЛИД растет. Мы не можем больше ждать.
+AK12(2)<Speaker>AK-12</Speaker>||:Я очень рекомендую ехать через Желтую зону!
+NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>||:Я верю в Командира! Кашель... С-скорее!
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker><Shake>||:Командир... кашель... показывает нам путь...
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker><Shake>||:AK-12, AN-94...кашель...
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker><Shake>||<黑屏1>:Если... если... ты знаешь... +Кашель... кашель, кашель...! Кашель!
 ()||<BIN>10</BIN><黑点2>:
+
