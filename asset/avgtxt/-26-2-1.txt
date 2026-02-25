@@ -1,29 +1,32 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()||<BIN>159</BIN><BGM>BGM_Battle</BGM><黑屏2>:
-()||:A few hours later, 416 and SOP-II's team killed the black-clad Doll and her mysterious troops. Griffin's withdrawal is almost complete.
-HK416(0)<Speaker>416</Speaker>||:Commander, Kalina and the final batch of T-Dolls are about to withdraw on the last carrier. +SOP-II and I plus a few other T-Dolls and the HOCs have volunteered for this rescue mission. Our objective is to escort you safely off the battlefield.
-HK416(0)<Speaker>Commander</Speaker>||:...<c>The rescue target isn't me. <c>That isn't the last batch of T-Dolls, 416.
-HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:What? Not you? Then who could it be?
-HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:No? What do you mean, Commander?
-HK416(0)<Speaker>416</Speaker>||<黑屏1>:...Ange? +You mean Ange is still alive?! Is that true? +...But...are you sure you want us to rescue her instead? The battlefield is filled with danger. We may even run into the military's main force.
+()||:Через несколько часов команда 416-ой и SOP-II прикончила одетую в черное Куклу и ее загадочных солдат. Отступление Грифона почти закончилось.
+HK416(0)<Speaker>416</Speaker>||:Командир, Калина и крайняя партия Т-Кукол собираются эвакуироваться на последнем транспорте. +SOP-II, я и еще несколько Т-Кукол и ГОгПов добровольно вызвались на эту спасательную миссию. Наша задача — безопасно эвакуировать тебя с поля боя.
+HK416(0)<Speaker>Командир</Speaker>||:...<c>Цель спасения – не я. <c>Это не последняя партия Т-Кукол, 416-я.
+HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:Что? Не ты? Тогда кто это может быть?
+HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:Нет? Что ты имеешь в виду, Командир?
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:...Анже? +Ты хочешь сказать, что Анже еще жива?! Это правда? +...Но...ты уверен, что хочешь, чтобы мы спасли ее? Поле боя полно опасностей. Мы можем даже столкнуться с основными силами армии.
 ()||<黑屏2><BIN>9</BIN>:
-()<Speaker>416</Speaker>||<黑屏1>:I understand. We will designate Angelia as our priority target. +Please don't misunderstand, Commander. I don't have any misgivings about the mission. Deep down in my neural cloud, I was hoping you'd do it. +However, I don't want to regret not saving you. I hope there will still be a chance for that... +I'll go explain the plan to UMP9. The rescue mission will commence in ten minutes.
-()||<BIN>157</BIN><BGM>BGM_Sneak</BGM><黑屏2>:...Ten minutes later, 416 and SOP-II lead their fellow T-Dolls on the way to rescue Ange. At the same time, they are briefed on the information the commander obtained from the communication and data transfer with Ange.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:...Commander, is that what Miss Ange said? +She gave you all the information she'd collected before the dirty bomb went off? +Why...did she do that?
-SOPIIDamage(2)<Speaker>Commander</Speaker>||:...<c>To prepare for all contingencies in case anything happens to her. <c>The information contains her coordinates. With that, we can rescue her.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:She was prepared to sacrifice herself...again?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:Ange finally learned. But in other words, she had known the dirty bomb would go off...
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Commander, are you sure we should prioritize rescuing Miss Ange? +We're not sure if she's still alive or if she's left her last known location. +On the other hand...we're a lot more likely to succeed in rescuing you.
-SOPIIDamage(2)<Speaker>Commander</Speaker>||:...<c>I can't leave until I make sure everyone is safe. <c>Ange has helped me out a lot. I can't leave her behind.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:Spoken just like the commander would, even though no one ever asks that of you.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:Yeah...same here. I'll be very sad if we don't save her.
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:So, let's rescue her! This time, we won't leave her behind!
-HK416(0)<Speaker>416</Speaker>||:Quick, set up their retreat route, Commander. Then we can guide her with a signal flare. +If we have to run all the way to them, we won't make it in time.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:For Ange's retreat, reaching the area where Cx4 and I withdrew from and following the route we took should be the quickest, and the enemies along the way should pose the smallest threat.
-HK416(0)<Speaker>416</Speaker>||:That won't work. The radiation keeps spreading; the contamination level has grown so severe the area is already flagged as a Red Zone.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:"Red Zone"?
-HK416(0)<Speaker>416</Speaker>||:Red Zones are areas with the highest level of contamination hazard. Exposure for T-Dolls can cause damage but isn't lethal. However, any human who enters will contract ELID and suffer from irreversible effects within a short period of time. +Ange is already infected. No matter how short the route is, it is highly unlikely for her to survive the trip. If she takes a detour, there's another viable route through the Yellow Zone, which has a lower contamination level.
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:But she'll run into a lot more ELIDs and may even come under the military's attack! +Even in the Yellow Zone, radiation will still accumulate in Ange's body over time, right? She won't have the time to lie low and go around the enemies!
-HK416(0)<Speaker>416</Speaker>||:Both options are risky. Further argument will only be a waste of precious time. Commander, only you can decide where to guide them. +This is the last squad on the battlefield. It is also our final rescue target before we withdraw.
-HK416(0)<Speaker>416</Speaker>||<黑屏1>:Where should we launch the signal flare? Over the Red Zone, where the route is shorter but the radiation is higher, or the Yellow Zone, where there are more enemies? Please make your decision ASAP!
+()<Speaker>416</Speaker>||<黑屏1>:Я поняла. Мы сделаем Анжелию нашей главной целью. +Пожалуйста, не пойми меня неправильно, Командир. Я не сомневаюсь в этой миссии. Глубоко в душе я надеялась, что ты это сделаешь. +Однако я не хочу потом жалеть, что не спасла тебя. Надеюсь, у нас еще будет шанс... +Я пойду объясню план UMP9. Спасательная миссия начнется через десять минут.
+()||<BIN>157</BIN><BGM>BGM_Sneak</BGM><黑屏2>:...Через десять минут 416-я и SOP-II ведут отряд Т-Кукол на спасение Анже. В то же время им рассказывают, что узнал Командир из разговора и данных, полученных от Анже.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:...Командир, это мисс Анже сказала? +Она передала тебе всю информацию, которую собрала до взрыва грязной бомбы? +Почему... она это сделала?
+SOPIIDamage(2)<Speaker>Командир</Speaker>||:...<c>Чтобы быть готовой к любой ситуации, если с ней что-то случится.
+ <c>Информация содержит ее координаты. С их помощью мы сможем ее спасти.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:Она была готова пожертвовать собой... снова?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:Анже наконец-то догадалась. Но, другими словами, она знала, что грязная бомба взорвется...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Командир, ты уверен, что нам стоит спасать мисс Анже? +Мы не знаем, жива ли она и ушла ли с последнего известного места. +С другой стороны... у нас гораздо больше шансов спасти тебя.
+SOPIIDamage(2)<Speaker>Командир</Speaker>||:...<c>Я не могу уйти, пока не удостоверюсь, что все в порядке.
+ <c>Анже мне очень помогла. Я не могу ее бросить.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:Говоришь как Командир, хотя никто тебя об этом не просит.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:Да... я тоже. Мне будет очень грустно, если мы ее не спасем.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Так что давайте спасем ее! На этот раз мы ее не бросим!
+HK416(0)<Speaker>416</Speaker>||:Быстро, настройте маршрут отступления, Командир. Тогда мы сможем направить ее с помощью сигнальной ракеты. +Если нам придется бежать к ним, мы не успеем вовремя.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Чтобы Анже смогл уйти, лучше всего добраться до места, где мы с Cx4 отступили, и пойти по тому же маршруту. Так будет быстрее, а враги по пути не будут такой большой проблемой.
+HK416(0)<Speaker>416</Speaker>||:Это не сработает. Радиация продолжает распространяться, уровень загрязнения стал настолько высоким, что эта зона уже обозначена как красная зона.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:«Красная зона»?
+HK416(0)<Speaker>416</Speaker>||:Красные зоны — это места с максимальной угрозой заражения. Попадание туда для Т-Кукол может быть небезопасным, но не смертельным. Но любой человек, который туда зайдет, заразится ЭЛИД и вскоре пострадает от необратимых последствий. +Анже уже заражена. Неважно, насколько короткий путь, ей вряд ли удастся выжить. Если она пойдет в обход, есть другой вариант через Желтую зону, где уровень заражения ниже.
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Но она столкнется с гораздо большим количеством ЭЛИД и может даже подвергнуться нападению военных! +Даже в Желтой зоне радиация со временем все равно будет накапливаться в организме Анже, верно? У нее не будет времени, чтобы залечь на дно и обойти врагов!
+HK416(0)<Speaker>416</Speaker>||:Оба варианта рискованные. Дальнейшие споры только отнимут драгоценное время. Командир, только ты можешь решить, куда их направить. +Это последний отряд на поле боя. Это также наша последняя цель спасения перед отходом.
+HK416(0)<Speaker>416</Speaker>||<黑屏1>:WГде лучше запустить сигнальную ракету? Над Красной зоной, где путь короче, но радиация выше, или над Желтой зоной, где больше врагов? Решай как можно скорее!
 ()||<BIN>10</BIN><黑点2>:
+
