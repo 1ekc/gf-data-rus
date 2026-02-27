@@ -1,39 +1,40 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()||<BIN>157</BIN><BGM>BGM_Room</BGM><黑屏2>:
-()||:...Task Force DEFY has finally found the mark left by the rescue team!
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Surpriiiiise! +Ahahaha! We finally found you, DEFY!
-AN94(2)<Speaker>AN-94</Speaker>||:If your movement had been just a little swifter than your utterance, I would have identified you as a hostile target and attacked.
-HK416(0)<Speaker>416</Speaker>||:Sorry, this is M4 SOPMOD II of the AR Team. SOP-II, meet AK-12 and AN-94 of Task Force DEFY. I'm 416. You've all met me.
-AN94(0)<Speaker>AN-94</Speaker>||:I do not particularly want to see you again, but it cannot be helped.
-HK416(0)<Speaker>416</Speaker>||:Right, this isn't the time to deepen our bond. Let's get straight to the point - where is Ange, and how is she?
-HK416(0)<Speaker></Speaker>||:...AN-94 looks behind her and finds an unconscious Ange draped on AK-12's back.
-AN94(2)<Speaker>AN-94</Speaker>||:Ange...she—
-AK12(2)<Speaker>AK-12</Speaker>||:A few minutes ago...she took a heavy dose of radiation and passed out. +It took us a while to find the mark, but her life isn't in danger. However, she'll be sitting out the coming battles. It'll be just us.
-HK416(0)<Speaker>416</Speaker>||:What a shame. Guess I'll have to say hi some other time. +Still, it's not "just us". We also have the Commander and the HOCs.
-AN94(5)<Speaker>AN-94</Speaker>||:What...HOCs?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Our new toys! They're giving us long-range support and specialize in fighting tanks! You'll love them!
-AK12(0)<Speaker>AK-12</Speaker>||:Then we're safe for now. Let's figure out what to do next.
-AN94(0)<Speaker>AN-94</Speaker>||:The contamination index is significantly lower here. Though Ange is not entirely out of danger, her life is not under any immediate threat.
-RO635(6)<Speaker>RO635</Speaker>||:Then let's keep moving to less contaminated areas. At this rate, Ange isn't going to last much longer.
-AK12(3)<Speaker>AK-12</Speaker>||:Hmm? Who was that?
-RO635(6)<Speaker>RO635</Speaker>||:Oh, don't mind me. Just making a suggestion—
-AN94(2)<Speaker>AN-94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:Wait, I hear something!
-AK12(2)<Speaker>AK-12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:Military units! They're heading straight toward us!
-AN94(2)<Speaker>AN-94</Speaker>||<黑屏1><SE1>RunStep</SE1>:There is an abandoned trench just ahead. Get Ange in there first!
-()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2><闪屏><duration>5</duration></闪屏>:...Boom! Boom!
-AK12(2)<Speaker>AK-12</Speaker>||:Hurry up! We're here!
-HK416(3)<Speaker>416</Speaker>||<黑屏1>:HOCs, give us cover!
-()||<BIN>157</BIN><黑屏2>:...Under the HOCs' suppressive fire, Task Force DEFY makes it into the trench safely.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:We still have loads of cards up our sleeve. Don't worry, we can handle these tanks!
-()||:<color=#00CCFF>...Pzzt...pzzzzt.</color>
-()<Speaker>??</Speaker>||:<color=#00CCFF>Angelia...</color> +<color=#00CCFF>I knew you wouldn't disappoint me.</color>
-()||<SE2>Gunfight</SE2>:...Over the sound of gunfire and static, a male voice speaks clearly over the communicator's public channel.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>You survived the explosion...only to give me the chance to kill you with my own hands.</color>
-AK12(2)<Speaker>AK-12</Speaker>;NPC-YegorDamage(0)||:Ange is dead! You can abort your mission!
-AK12(2);NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>I don't think so. I know she's merely unconscious, just as I knew you'd show up here.</color>
-HK416(0)<Speaker>416</Speaker>;NPC-YegorDamage(0)||:He knew we'd come here... He counted on the fact that this is the only route to the Green Zone!
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>I'll make sure you don't die from artillery fire.</color> +<color=#00CCFF>Then I can find you and avenge my subordinates myself!</color>
-()||:...Yegor terminates the transmission.
-AK12(2)<Speaker>AK-12</Speaker>||<SE2>Battlefield</SE2>:I can hear the tanks! They're coming!
-HK416(3)<Speaker>416</Speaker>||<黑屏1>:Commander, defend the trench with the HOCs! +With their help, we'll be absolutely fine!
+()||:...Спецгруппа DEFY наконец-то нашла след, который оставила спасательная команда!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Сюрприз! +Ахахаха! Мы наконец-то нашли вас, DEFY!
+AN94(2)<Speaker>AN-94</Speaker>||:Если бы ты действовала чуть быстрее, чем говорила, я бы тебя посчитала за врага и напала.
+HK416(0)<Speaker>416</Speaker>||:Извини, это M4 SOPMOD II из Команды AR. SOP-II, познакомься с AK-12 и АН-94 из Оперативной группы DEFY. Я 416-я. Вы уже знакомы со мной.
+AN94(0)<Speaker>AN-94</Speaker>||:Я, честно говоря, не очень хочу тебя снова видеть, но ничего не поделаешь.
+HK416(0)<Speaker>416</Speaker>||:Ладно, сейчас не время для углубления наших отношений. Давай сразу перейдем к делу — где Анже и как она?
+HK416(0)<Speaker></Speaker>||:...АН-94 оглядывается и видит, что Анже без сознания висит на спине АК-12.
+AN94(2)<Speaker>AN-94</Speaker>||:Анже... она—
+AK12(2)<Speaker>AK-12</Speaker>||:Пару минут назад... она получила сильную дозу радиации и потеряла сознание. +Нам пришлось немного повозиться, чтобы обнаружить метку, но ее жизнь вне опасности. Однако в ближайших сражениях она не будет участвовать. Будем только мы.
+HK416(0)<Speaker>416</Speaker>||:Как жаль. Похоже, придется поздороваться в другой раз. Но все-таки это не только мы. Еще есть Командир и ГОгПы.
+AN94(5)<Speaker>AN-94</Speaker>||:Что... ГОгПы?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Наши новые игрушки! Они обеспечивают нам поддержку на большом расстоянии и отлично справляются с танками! Вам они точно понравятся!
+AK12(0)<Speaker>AK-12</Speaker>||:Значит, пока мы в безопасности. Давайте подумаем, что делать дальше.
+AN94(0)<Speaker>AN-94</Speaker>||:Уровень загрязнения здесь намного ниже. Хотя Анже не избавилась от опасности полностью, ее жизнь сейчас не под угрозой.
+RO635(6)<Speaker>RO635</Speaker>||:Тогда давайте перейдем в менее загрязненные районы. При таком темпе Анже не продержится долго.
+AK12(3)<Speaker>AK-12</Speaker>||:Хм? Кто это сказал?
+RO635(6)<Speaker>RO635</Speaker>||:О, не обращай на меня внимания. Просто предлагаю вариант...
+AN94(2)<Speaker>AN-94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:Подождите, я что-то слышу!
+AK12(2)<Speaker>AK-12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:Боевые единицы! Они идут прямо на нас!
+AN94(2)<Speaker>AN-94</Speaker>||<黑屏1><SE1>RunStep</SE1>:Прямо перед нами есть брошенный окоп. Пусть Анже сначала там спрячется!
+()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2><闪屏><duration>5</duration></闪屏>:...Баах! Баах!
+AK12(2)<Speaker>AK-12</Speaker>||:Поторопись! Мы уже здесь!
+HK416(3)<Speaker>416</Speaker>||<黑屏1>:Эй, ГОгПы, прикройте нас!
+()||<BIN>157</BIN><黑屏2>:...Под прикрытием огня ГОгПов оперативная группа DEFY благополучно добирается до окопа.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:У нас еще куча козырей в рукаве. Не волнуйся, мы справимся с этими танками!
+()||:<color=#00CCFF>...Пззз...пзззззззззззз.</color>
+()<Speaker>??</Speaker>||:<color=#00CCFF>Анжелия...</color> +<color=#00CCFF>Я знал, что ты меня не подведешь.</color>
+()||<SE2>Gunfight</SE2>:...На фоне звуков выстрелов и помех, мужской голос ясно раздается по общему каналу связи.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker><通讯框>||:<color=#00CCFF>Ты выжила после взрыва... только для того, чтобы я мог убить тебя своими руками.</color>
+AK12(2)<Speaker>AK-12</Speaker>;NPC-YegorDamage(0)||:Анже мертва! Можешь бросить свою миссию!
+AK12(2);NPC-YegorDamage(0)<Speaker>Егор</Speaker><通讯框>||:<color=#00CCFF>Не думаю. Я знаю, что она просто без сознания, так же как знал, что ты появишься здесь.</color>
+HK416(0)<Speaker>416</Speaker>;NPC-YegorDamage(0)||:Он знал, что мы сюда доберёмся... Он рассчитывал на то, что это единственный путь в Зеленую зону!
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:<color=#00CCFF>Супер. Я позабочусь, чтобы ты не сдохла от артобстрела.</color> +<color=#00CCFF>Тогда я смогу найти тебя и сам отомстить за своих подчиненных!</color>
+()||:...Егор выключает канал связи.
+AK12(2)<Speaker>AK-12</Speaker>||<SE2>Battlefield</SE2>:Я слышу танки! Они уже близко!
+HK416(3)<Speaker>416</Speaker>||<黑屏1>:Командир, защити окоп с помощью ГОгПов! С их помощью у нас всё будет супер!
 ()||<黑屏2><BIN>10</BIN>:
+
