@@ -1,39 +1,40 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()||<BIN>157</BIN><BGM>BGM_Sneak</BGM><黑屏2>:
-()||:...In the end, Task Force DEFY decided to give up on finding the mark left by the rescue party, but the withdrawal is still underway.
-AN94(3)<Speaker>AN-94</Speaker>||:The contamination index is significantly lower here. Though Ange is not entirely out of danger, her life is not under any immediate threat.
-AK12(4)<Speaker>AK-12</Speaker>||:Congratulations, Ange. You get to live a little longer.
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:I don't feel particularly good, but if that's the case...
-AN94(0)<Speaker>AN-94</Speaker>||:Since we cannot locate the rescue party's mark, our only choice is to proceed in the direction where the contamination is lower.
-AK12(0)<Speaker>AK-12</Speaker>||:Or find a chance to send a distress signal for the rescue party to get in touch.
-AN94(0)<Speaker>AN-94</Speaker>||:That is too dangerous right now. We are surrounded by military forces. +Not to mention the ELIDs, who are attracted by the slightest rustles. If reinforcements do not arrive on time, we will not be able to handle the situation with just the two of us.
-AK12(0)<Speaker>AK-12</Speaker>||:(Sighs) You're always so conservative, AN-94.
-AN94(0)<Speaker>AN-94</Speaker>||:When it is uncertain where the alternative will lead us, I prefer the current option.
-AK12(0)<Speaker>AK-12</Speaker>||:The choice isn't yours to make. Ange, take your pick.
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:I... Let me think...
-AN94(2)<Speaker>AN-94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:Wait, I hear something!
-AK12(2)<Speaker>AK-12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:Military units! They're heading straight toward us!
-AN94(2)<Speaker>AN-94</Speaker>||<黑屏1><SE1>RunStep</SE1>:There is an abandoned trench just ahead. Get Ange in there first!
+()||:...В конце концов, оперативная группа DEFY решила не искать больше следы спасательной команды, но отступление все еще продолжается.
+AN94(3)<Speaker>AN-94</Speaker>||:Уровень загрязнения здесь намного ниже. Хотя Анже еще не совсем в безопасности, ее жизни сейчас ничего не угрожает.
+AK12(4)<Speaker>AK-12</Speaker>||:Поздравляю, Анже. Тебе удалось прожить немного дольше.
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||:Я не особо хорошо себя чувствую, но если так...
+AN94(0)<Speaker>AN-94</Speaker>||:Поскольку мы не можем найти отметку спасательной группы, нам остается только идти в сторону, где загрязнение меньше.
+AK12(0)<Speaker>AK-12</Speaker>||:Или найди возможность послать сигнал бедствия, чтобы спасатели тебя нашли.
+AN94(0)<Speaker>AN-94</Speaker>||:Сейчас это слишком рискованно. Мы окружены силами военных. +Не говоря уже об ЭЛИДах, которых привлекает малейший шум. Если подкрепление не прибудет вовремя, нам вдвоем не справиться с ситуацией.
+AK12(0)<Speaker>AK-12</Speaker>||:(Вздохftn) Ты всегда такая осторожная, АН-94.
+AN94(0)<Speaker>AN-94</Speaker>||:Когда не ясно, куда нас заведет альтернативный вариант, я выбираю то, что есть сейчас.
+AK12(0)<Speaker>AK-12</Speaker>||:Решение не за тобой. Анже, выбирай.
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||:Я... Дай подумать...
+AN94(2)<Speaker>AN-94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:Постой, я что-то слышу!
+AK12(2)<Speaker>AK-12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:Боевые единицы! Они направляются прямо к нам!
+AN94(2)<Speaker>AN-94</Speaker>||<黑屏1><SE1>RunStep</SE1>:Прямо перед нами есть брошенная траншея. Пусть Анже сначала туда заберется!
 ()||<闪屏><duration>5</duration></闪屏>:
-()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2>:...Boom! Boom!
-AK12(2)<Speaker>AK-12</Speaker>||<黑屏1>:Hurry, Ange! We're here!
-()||<BIN>157</BIN><黑屏2>:...Under the military's bombardment, Task Force DEFY dive hastily for cover.
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:(Pants) Goddammit! +Looks like we don't have much of a choice. AN-94, launch the signal flare!
-AN94(2)<Speaker>AN-94</Speaker>||:Roger!
-AK12(2)<Speaker>AK-12</Speaker>||:How did they find us so soon? We shouldn't have left any traces!
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:These maneuvers are planned...unlike before!
-()||:<color=#00CCFF>...Pzzt...pzzzzt.</color>
-()<Speaker>??</Speaker>||:<color=#00CCFF>Angelia...</color> +<color=#00CCFF>I knew you wouldn't disappoint me.</color>
-()||<SE2>Gunfight</SE2>:...Over the sound of gunfire and static, a male voice speaks clearly over the communicator's public channel.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>You survived the explosion...only to give me the chance to kill you with my own hands.</color>
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:Yegor... +You don't look much better yourself...
-NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:<color=#00CCFF>I am feeling tremendous. I just finished making the preparations, and there you are.</color>
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:You had it all planned?
-NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:<color=#00CCFF>There aren't many routes toward the Green Zone. If you're alive, you'll definitely show up here.</color> +<color=#00CCFF>You won't last much longer with that infection. Why not just give up?</color>
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:Why don't YOU give up mourning for your zombie comrades?
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:<color=#00CCFF>Good. I'll make sure you don't die from artillery fire.</color> +<color=#00CCFF>Then I can find you and avenge my subordinates myself!</color>
-()||:...Ange closes the channel.
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:He's sending in tanks! Hold out till the rescue party makes it here!
-AK12(2)<Speaker>AK-12</Speaker>||:Are you sure they'll come?
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker><Shake>||<黑屏1>:If not, then we'll just die! Hurry, cough! +Use whatever you can to hold this trench!
+()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2>:...БА-БАХ! БА-БАХ!
+AK12(2)<Speaker>AK-12</Speaker>||<黑屏1>:Давай, Анже! Мы почти на месте!
+()||<BIN>157</BIN><黑屏2>:...Под обстрелом военных спецназ DEFY быстро укрывается.
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:(Тяжело дышит) Черт возьми! +Похоже, у нас нет особого выбора. AН-94, запусти сигнальную ракету!
+AN94(2)<Speaker>AN-94</Speaker>||:Принято!
+AK12(2)<Speaker>AK-12</Speaker>||:Как они нас так быстро нашли? Мы же не должны были оставлять никаких следов!
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Эти действия спланированы... в отличие от того, что было раньше!
+()||:<color=#00CCFF>...Пззз...пзззззззз.</color>
+()<Speaker>??</Speaker>||:<color=#00CCFF>Анжелия...</color> +<color=#00CCFF>Я знал, что ты меня не подведешь.</color>
+()||<SE2>Gunfight</SE2>:...На фоне звуков выстрелов и помех, мужской голос ясно раздается по общему каналу связи.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker><通讯框>||:<color=#00CCFF>Ты выжилf после взрыва... только для того, чтобы я мог убить тебя своими руками.</color>
+NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:Егор... +Ты и сам выглядишь не особо лучше...
+NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:<color=#00CCFF>Я чувствую себя просто супер. Только что закончил все приготовления, и вот ты уже здесь.</color>
+NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:Ты все спланировал?
+NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:<color=#00CCFF>До Зеленой зоны не так уж много способов добраться. Если ты жив, то обязательно окажешься здесь.</color> +<color=#00CCFF>С такой инфекцией ты долго не продержишься. Почему бы просто не сдаться?</color>
+NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:Почему бы ТЕБЕ не перестать горевать о своих зомби-товарищах?
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:<color=#00CCFF>Супер. Я позабочусь, чтобы ты не сдохла от артобстрела.</color> +<color=#00CCFF>Тогда я смогу найти тебя и сам отомстить за своих подчиненных!</color>
+()||:...Анже выключает канал связи.
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Он направляет танки! Держись, пока не прибудет спасательная команда!
+AK12(2)<Speaker>AK-12</Speaker>||:Ты уверена, что они придут?
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker><Shake>||<黑屏1>:Если нет, то мы просто умрем! Давай! кашель! +Используй что угодно, чтобы удержать эту траншею!
 ()||<黑点2><BIN>10</BIN>:
+
