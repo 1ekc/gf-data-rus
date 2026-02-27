@@ -13,7 +13,7 @@ AK12(0)<Speaker>AK-12</Speaker>||:Решение не за тобой. Анже,
 NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||:Я... Дай подумать...
 AN94(2)<Speaker>AN-94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:Постой, я что-то слышу!
 AK12(2)<Speaker>AK-12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:Боевые единицы! Они направляются прямо к нам!
-AN94(2)<Speaker>AN-94</Speaker>||<黑屏1><SE1>RunStep</SE1>:Прямо перед нами есть брошенная траншея. Пусть Анже сначала туда заберется!
+AN94(2)<Speaker>AN-94</Speaker>||<黑屏1><SE1>RunStep</SE1>:Прямо перед нами брошенный окоп. Пусть Анже сначала туда заберется!
 ()||<闪屏><duration>5</duration></闪屏>:
 ()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2>:...БА-БАХ! БА-БАХ!
 AK12(2)<Speaker>AK-12</Speaker>||<黑屏1>:Давай, Анже! Мы почти на месте!
@@ -25,7 +25,7 @@ NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Эти действия с�
 ()||:<color=#00CCFF>...Пззз...пзззззззз.</color>
 ()<Speaker>??</Speaker>||:<color=#00CCFF>Анжелия...</color> +<color=#00CCFF>Я знал, что ты меня не подведешь.</color>
 ()||<SE2>Gunfight</SE2>:...На фоне звуков выстрелов и помех, мужской голос ясно раздается по общему каналу связи.
-NPC-YegorDamage(0)<Speaker>Егор</Speaker><通讯框>||:<color=#00CCFF>Ты выжилf после взрыва... только для того, чтобы я мог убить тебя своими руками.</color>
+NPC-YegorDamage(0)<Speaker>Егор</Speaker><通讯框>||:<color=#00CCFF>Ты выжила после взрыва... только для того, чтобы я мог убить тебя своими руками.</color>
 NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:Егор... +Ты и сам выглядишь не особо лучше...
 NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:<color=#00CCFF>Я чувствую себя просто супер. Только что закончил все приготовления, и вот ты уже здесь.</color>
 NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:Ты все спланировал?
@@ -35,6 +35,7 @@ NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:<color=#00CCFF>Супер. Я п
 ()||:...Анже выключает канал связи.
 NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Он направляет танки! Держись, пока не прибудет спасательная команда!
 AK12(2)<Speaker>AK-12</Speaker>||:Ты уверена, что они придут?
-NPC-AngeDamage(3)<Speaker>Анжелия</Speaker><Shake>||<黑屏1>:Если нет, то мы просто умрем! Давай! кашель! +Используй что угодно, чтобы удержать эту траншею!
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker><Shake>||<黑屏1>:Если нет, то мы просто умрем! Давай! кашель! +Используй что угодно, чтобы удержать этот окоп!
 ()||<黑点2><BIN>10</BIN>:
+
 
