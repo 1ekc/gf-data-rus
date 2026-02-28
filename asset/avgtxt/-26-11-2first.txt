@@ -1,60 +1,61 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>46</BIN><黑屏2><BGM>BGM_Room</BGM>:...With the HOCs' aid, 416's team swiftly crushes the military's surveillance outpost.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:All enemies are destroyed. What are you waiting for, 416? Report to the Commander already!
-HK416(0)<Speaker>416</Speaker>;SOPIIDamage(0)||:Not all. The scanner is reading a few human life signs.
-HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Probably just ELIDs. Most of the survivors are unarmed logistics personnel. They either got killed by ELIDs or ran off.
-HK416(0)<Speaker>416</Speaker>||<黑点1>:Don't let your guard down. Make sure you leave no one alive, no matter who it is... +...They're right behind this door.
-()||<BIN>9</BIN><黑点2>:...They all stop just outside the medical room. Soft moans and a shuffling noise can be heard through the door.
-RO635(6)<Speaker>RO635</Speaker>||:(Whispers) There really are people in the room, but judging by their positions, they don't seem to be on guard...
-HK416(0)<Speaker>416</Speaker>;RO635(6)||:(Whispers) Could be ELIDs.
-HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:(Whispers) In any case, we can't attack unarmed humans!
-HK416(0)<Speaker>416</Speaker>||:That's not up to you. Just pray our visual reflexes are quicker than our fingers on the trigger. +Ready. On three. One... +Two... +Three!
-()||:...Slam! 416 kicks the door open.
-感染者()<Speaker>ELID</Speaker>||<BIN>160</BIN><Night><震屏>:GUARGHHHH!
-HK416(0)<Speaker>416</Speaker>||:ELID!
-()||<SE2>Gunkill</SE2>:...Bang bang! +...416 and SOP-II immediately kill the ELID within.
-HK416(0)<Speaker>416</Speaker>||:I knew it...
-RO635(6)<Speaker>RO635</Speaker>||:416, in the corner...
-()||:...416 turns her attention to the corner of the room. A few humans are cowering in fear.
-()<Speaker>Human female</Speaker>||:Please... I'm just a doctor... please...cough...
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:416, these people are infected, but only mildly.
-()<Speaker>Human male</Speaker>||:I...cough...was just trying to save them...cough...
-HK416(0)<Speaker>416</Speaker>||:You're not saving anybody. SOP-II, tie them up. We're going.
-HK416(0)<Speaker></Speaker>||:...416 gets in touch with the commander.
-HK416(0)<Speaker>416</Speaker>||:Commander, we've seized the surveillance outpost. Now...
-HK416(3)<Speaker>416</Speaker>||<震屏>:...What? Ange may have been discovered?
-HK416(3);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Hey, how's that possible...?
-HK416(0)<Speaker>416</Speaker>;SOPIIDamage(2)||:The commander says Yegor's forces...probably realized they hadn't seen Ange with us.
-HK416(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Then what should we do? If the military storms the building, this would've been a fool's errand, and we won't make it back in time...
-HK416(0)<Speaker>416</Speaker>;SOPIIDamage(2)||:Their scouts haven't moved in yet. They're probably monitoring us remotely at the same time to visually confirm if Ange really isn't with us.
-HK416(0)<Speaker>416</Speaker>||<黑点1>:What do we do, Commander? Should we return to the building and help Ange?
-()||<BIN>9</BIN><黑点2>:...In the comms window, SOP-II is tying up the army doctors behind 416.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>416, I found some adrenaline! It could be useful for Ange!</color>
-HK416(0)<Speaker>416</Speaker><通讯框>;SOPIIDamage(0)||:<color=#00CCFF>Take it. If you can't think of anything, we'll have no choice but to turn back, Commander.</color>
+()||<BIN>46</BIN><黑屏2><BGM>BGM_Room</BGM>:...С помощью ГОгПов команда 416-ой быстро разгромила военный наблюдательный пост.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Все враги уничтожены. Чего ждешь, 416-я? Отчитайся перед Командиром!
+HK416(0)<Speaker>416</Speaker>;SOPIIDamage(0)||:Не совсем. Сканер показывает несколько признаков человеческой жизни.
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Наверное, просто ЭЛИДы. Большинство выживших — это невооруженные логисты. Их либо убили ЭЛИДы, либо они сбежали.
+HK416(0)<Speaker>416</Speaker>||<黑点1>:Не расслабляйся. Убедись, что никто не остался в живых, кто бы это ни был... +...Они прямо за этой дверью.
+()||<BIN>9</BIN><黑点2>:...Все останавливаются прямо у двери медицинского кабинета. Сквозь дверь слышны тихие стоны и шарканье ног.
+RO635(6)<Speaker>RO635</Speaker>||:(Шепотом) В комнате действительно есть люди, но, судя по тому, как они стоят, они, похоже, не настороже...
+HK416(0)<Speaker>416</Speaker>;RO635(6)||:(Шепотом) Может быть, это ЭЛИД.
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:(Шепотом) В любом случае, мы не можем нападать на безоружных людей!
+HK416(0)<Speaker>416</Speaker>||:Это не тебе решать. Просто молись, чтобы наши визуальные рефлексы были быстрее, чем наши пальцы на спусковом крючке. +Готовься. На счет три. Раз... +Два... +Три!
+()||:...Бах! 416-я открывает дверь ногой.
+感染者()<Speaker>ЭЛИД</Speaker>||<BIN>160</BIN><Night><震屏>:ГРААААААА!
+HK416(0)<Speaker>416</Speaker>||:ЭЛИД!
+()||<SE2>Gunkill</SE2>:...Бэнг-бэнг! +...416-я и SOP-II сразу же уничтожают ЭЛИД внутри.
+HK416(0)<Speaker>416</Speaker>||:Я так и знала...
+RO635(6)<Speaker>RO635</Speaker>||:416-я, в углу...
+()||:...416-я смотрит в угол комнаты. Там несколько людей прячутся от страха.
+()<Speaker>Женщина</Speaker>||:Пожалуйста... Я всего лишь врач... пожалуйста... кашель...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:416-я, эти люди заражены, но только в легкой форме.
+()<Speaker>Мужчина</Speaker>||:Я... кашель... просто пытался их спасти... кашель...
+HK416(0)<Speaker>416</Speaker>||:Ты никого не спасаешь. SOP-II, свяжи их. Мы уходим.
+HK416(0)<Speaker></Speaker>||:...416-я связывается с Командиром.
+HK416(0)<Speaker>416</Speaker>||:Командир, мы захватили наблюдательный пост. Теперь...
+HK416(3)<Speaker>416</Speaker>||<震屏>:...Что? Анже, наверное, обнаружили?
+HK416(3);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Эй, как это возможно...?
+HK416(0)<Speaker>416</Speaker>;SOPIIDamage(2)||:Командир говорит, что войска Егора, наверное, поняли, что не видели Анже с нами.
+HK416(0);SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Тогда что нам делать? Если военные ворвутся в здание, это будет бессмысленная затея, и мы не успеем вернуться вовремя...
+HK416(0)<Speaker>416</Speaker>;SOPIIDamage(2)||:Их разведчики еще не появились. Наверное, они следят за нами удаленно, чтобы убедиться, что Анже действительно не с нами.
+HK416(0)<Speaker>416</Speaker>||<黑点1>:Что будем делать, Командир? Может, вернёмся в здание и поможем Анже?
+()||<BIN>9</BIN><黑点2>:...В коммуникационном окне SOP-II связывает армейских врачей за 416-ой.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>416-я, я нашла немного адреналина! Это может пригодиться Анже!</color>
+HK416(0)<Speaker>416</Speaker><通讯框>;SOPIIDamage(0)||:<color=#00CCFF>Бери. Если ничего не придумаешь, нам придется вернуться, Командир.</color>
 HK416(0)<Grey>;SOPIIDamage(0)<Grey>||:
-指挥官()<Speaker>Commander</Speaker>||:Hmm... <c>What if we've found some raw materials? <c>Do you think the military will be fooled by a blurry figure? <c>Can you find any dye in the medical room?
-HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:<color=#00CCFF>Raw materials?</color> +<color=#00CCFF>Commander...what are you looking at? Those humans? I believe this is beyond a T-Doll's understanding.</color>
-HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:<color=#00CCFF>Probably, as long as there is enough distance between us. We should be far enough.</color> +<color=#00CCFF>You have an idea, Commander?</color>
-HK416(0)<Speaker>416</Speaker>||<分支>3</分支>:<color=#00CCFF>Dye...? (Turns around) Humans, is there any dye around here?</color>
-人类女性()<Speaker>Human female</Speaker>||<分支>3</分支>:There...there's some camouflage face paint...
-HK416(0)<Speaker>416</Speaker><通讯框>||<分支>3</分支>:<color=#00CCFF>You heard that, Commander. But what good is it going to do?</color>
+指挥官()<Speaker>Командир</Speaker>||:Хмм... <c>А если мы найдем подручные материалы и сделаем муляж? <c>Думаешь, военные поведутся на какую-то нечеткую фигуру? <c>Можешь найти краску в мед.кабинете?
+HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:<color=#00CCFF>Какие материалы?</color> +<color=#00CCFF>Командир... на что ты смотришь? На этих людей? Думаю, это выходит за пределы понимания Т-Куклы.</color>
+HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:<color=#00CCFF>Наверное, если между нами будет достаточное расстояние. Мы не должны быть слишком близко.</color> +<color=#00CCFF>У тебя есть идея, Командир?</color>
+HK416(0)<Speaker>416</Speaker>||<分支>3</分支>:<color=#00CCFF>Краска...? (Оглядывается) Люди, есть ли здесь краска?</color>
+人类女性()<Speaker>Женщина</Speaker>||<分支>3</分支>:Там... там есть камуфляжная краска для лица...
+HK416(0)<Speaker>416</Speaker><通讯框>||<分支>3</分支>:<color=#00CCFF>Ты слышал это, Командир. Но какая от этого польза?</color>
 ()||<黑点1>:...The commander proposes a plan.
-RO635(6)<Speaker>RO635</Speaker>||<BIN>160</BIN><Night><黑点2>:416, any ideas yet? The military is going to catch up soon! What do we do?! We can't just conjure an Ange out of thin air!
-HK416(0)<Speaker>416</Speaker>;RO635(6)||:RO... +Why can't we?
-HK416(0);RO635(6)<Speaker>RO635</Speaker>||:416? What did the commander tell you? What should we do?
-HK416(0)<Speaker>416</Speaker>||<黑点1>:One thing I learned from 404 - no risk, no reward. I'll do anything to complete a mission. +Now, let's play a game.
-()||<BIN>46</BIN><黑点2>:...Meanwhile, Ange contacts the commander.
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:Commander, I... +I'm sorry. I can't think of anything... +Yegor is only after me. If I walk outside, it'll definitely get their attention, especially when they already know something's off.
-NPC-AngeDamage(2);AN94(4)<Speaker>AN-94</Speaker>||:Don't give up just yet, Ange. Their scouts are not making a move yet.
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:But this time I'm really out of ideas... This is all because of me. I honestly don't know how to keep everyone alive... +Commander, you've done your best, and I have nothing else to say. I think it's time...
-指挥官()<Speaker>Commander</Speaker>||:Ange... <c>I'm here to save you. Are you trying to sabotage my mission? <c>Think about Task Force DEFY. Are you giving up on them? <c>Waving your white flag already? There's still time to think!
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||<分支>1</分支>:We've all experienced failure. Most of the time, it's not due to our own fault that we fail. You've done very well. It's me...
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||<分支>2</分支>:They can make it out. Yegor won't treat T-Dolls as prey. I...
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||<分支>3</分支>:You can't grapple with the military indefinitely. I think it's time to put an end to this. Let me...
-NPC-AngeDamage(2);AK12(2)<Speaker>AK-12</Speaker>||<震屏>:What the hell are you saying, Ange? +If you give up, what are we going to do?
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>;AK12(2)||:The commander will take care of you. You will have better opportunities to put your skills to good use.
-NPC-AngeDamage(1);AN94(4)<Speaker>AN-94</Speaker>||:But you are our charge. If we fail to protect you, then we...
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>;AN94(4)||:I know you'll be devastated, but you can just have your neural clouds wiped—
-NPC-AngeDamage(2);AK12(2)<Speaker>AK-12</Speaker>||:Like what you did to the AR Team? You want to delete SOP-II's memories again? +How many more times do you want to die just to make us all forget you?!
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>||:... +We're out of time. Get out of here. +Take all the combat records and the HOCs back with you... Avenge me...
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<黑屏1>:...What? Commander? What...did you say...? +...There is a way?
+RO635(6)<Speaker>RO635</Speaker>||<BIN>160</BIN><Night><黑点2>:416-я, есть какие-нибудь идеи? Военные скоро нас догонят! Что нам делать?! Мы же не можем просто взять и создать Анже из воздуха!
+HK416(0)<Speaker>416</Speaker>;RO635(6)||:RO... +Почему мы не можем?
+HK416(0);RO635(6)<Speaker>RO635</Speaker>||:416-я? Что сказал тебе Командир? Что нам делать?
+HK416(0)<Speaker>416</Speaker>||<黑点1>:Одна вещь, которую я поняла от отряда 404 — нет риска, нет награды. Я сделаю всё, чтобы выполнить миссию. +А теперь давайте поиграем.
+()||<BIN>46</BIN><黑点2>:...Тем временем Анже связывается с Командиром.
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||:Командир, я... +Извини. Я не могу ничего придумать... +Егор преследует только меня. Если я выйду на улицу, это точно привлечет их внимание, особенно если они уже знают, что что-то не так.
+NPC-AngeDamage(2);AN94(4)<Speaker>AN-94</Speaker>||:Не сдавайся, Анже. Их разведчики пока не делают никаких шагов.
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||:Но на этот раз я действительно не знаю, что делать... Это все из-за меня. Честно говоря, я не знаю, как спасти всех... +Командир, вы сделали все, что могли, и мне больше нечего сказать. Думаю, пришло время...
+指挥官()<Speaker>Командир</Speaker>||:Анже... <c>Я здесь, чтобы тебя спасти. Ты что, хочешь помешать моей задаче? <c>Подумай про спецгруппу DEFY. Ты что, сдаешься? <c>Уже сдаёшься? Ещё есть время поразмыслить!
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||<分支>1</分支>:Мы все испытывали неудачи. Чаще всего это не из-за нашей вины. Ты отлично справился. Это я...
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||<分支>2</分支>:Они могут это понять. Егор не будет относиться к Т-Куклам как к добыче. Я...
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||<分支>3</分支>:Нельзя вечно бороться с военными. Думаю, пора с этим заканчивать. Позволь мне...
+NPC-AngeDamage(2);AK12(2)<Speaker>AK-12</Speaker>||<震屏>:Что ты там болтаешь, Анже? Если ты сдашься, что нам тогда делать?
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>;AK12(2)||:Командир о тебе позаботится. У тебя будет больше шансов применить свои навыки.
+NPC-AngeDamage(1);AN94(4)<Speaker>AN-94</Speaker>||:Ты же наша подопечная. Если мы не сможем тебя защитить, то мы...
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>;AN94(4)||:Я знаю, ты будешь в шоке, но ты можешь просто стереть свое воспоминание в нейронном облаке—
+NPC-AngeDamage(2);AK12(2)<Speaker>AK-12</Speaker>||:Как то, что ты сделала с Командой AR? Хочешь снова стереть воспоминания SOP-II? +Сколько раз ты еще хочешь умереть, чтобы мы все тебя забыли?!
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>||:... +Время на исходе. Убирайтесь отсюда. +Заберите с собой все боевые отчеты и ГОгПы... Отомстите за меня...
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||<黑屏1>:...Что? Командир? Что... ты сказал...? +... Есть способ?
+
