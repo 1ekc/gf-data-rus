@@ -1,50 +1,51 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:...
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:Where did Ange run off to?
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:According to our scan, Ange and her subordinates are holed up in a complex in the Yellow Zone. Our mechanical units have already locked onto their coordinates. +It will still take a while for the tanks to arrive at the site, but we have a surveillance outpost right in front of the complex. However, we cannot determine the situation in the outpost remotely.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Don't be distracted by unimportant matters. Our soldiers will do their duty...as long as they're alive... +Have the unit in pursuit confirm their location and numbers visually. Make sure Ange herself is actually in the building.
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:We already scanned their signals ten minutes ago.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Signals can be faked. This battle has shown me what 16LAB is capable of and I haven't seen Ange on visuals for quite a while.
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:You suspect they've split up?
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:As I said, it's quite possible. Sacrificing several Dolls to save your own life - any human would think it's a decent bargain.
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:Our analysis shows that the best time for them to split up would've been when they reached the abandoned structure, but the scan we ran on the area detected no human life signs in the building. There are also no signs indicating that any individuals have entered the building.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||<黑点1>:...Are you certain?
-()||<黑点2>:...Meanwhile.
-安洁()<Speaker>Angelia</Speaker>||<黑屏1>:...
-()<Speaker>Angelia</Speaker>||<BIN>46</BIN><睁眼>:AK-12...
-AK12(2)<Speaker>AK-12</Speaker>||:Ange... Finally...
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>;AK12(2)||:I don't see you like this very often... Did I...die?
-NPC-AngeDamage(2);AK12(2)<Speaker>AK-12</Speaker>||:More than once. And you didn't just die. During resuscitation, you went back and forth between being a corpse and a zombie.
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>;AK12(2)||:That pretty much sums up how I'm feeling... +It may just be one last burst of strength, but I feel like I can hold out for a while longer.
-NPC-AngeDamage(2);AK12(2)<Speaker>AK-12</Speaker>||:I don't know when you passed out, but the others have already set off half an hour ago.
-NPC-AngeDamage(2);AN94(4)<Speaker>AN-94</Speaker>||:They faked your bio signs and are playing the decoy with the commander's help to draw the military away and buy us some time.
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>;AN94(4)||:The commander?
-NPC-AngeDamage(2);AN94(4)<Speaker>AN-94</Speaker>||:They left their comms equipment behind. We just finished assembling it. You can contact the commander now. +We can't stay here for long. The military forces will catch up very soon. We need you to think of a way out.
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>;AN94(4)||:I get it, I get it... I should come up with something... +Give me a map...and water. You'll have to feed it to me. I'm not strong enough...
-NPC-AngeDamage(1);AK12(2)<Speaker>AK-12</Speaker>||:You pushed yourself too hard before. Look, your heart almost stopped beating again.
-NPC-AngeDamage(1);AN94(4)<Speaker>AN-94</Speaker>||:Their mechanical units have not entered the building yet. Your biological signs probably did not register on their scan.
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>||<黑点1>:I'm still pretty weak, but the military might think I'm already dead. That's bad news...
-()||<BIN>9</BIN><黑点2>:...Meanwhile.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:What if... +What if Ange isn't giving out bio signs?
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:What do you mean?
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:She has a bad case of radiation infection. Can her vital signs be so weak our scanners can't read them?
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:...We can't dismiss...that possibility, but it is highly unlikely.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||<黑点1>:Unlikely, but it's still possible. Look into it. Move closer to the building and observe carefully. +Once the pursuit unit has secured the perimeters, or if anything moves inside, enter the building! +We can't ignore any possibility, and we mustn't let Ange escape!
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>||<BIN>10</BIN><黑点2>:I just talked to the commander. We must secure our evacuation route. +I've marked it out on the map, but there are some military facilities along the way. 416 and the others will have to follow the commander's instructions and destroy them for us to evacuate safely.
-NPC-AngeDamage(1);AK12(0)<Speaker>AK-12</Speaker>||:But just having a route isn't enough.
-NPC-AngeDamage(1);AN94(0)<Speaker>AN-94</Speaker>||:The military scouts are still nearby. The moment we leave, we will be spotted. We must find a way to exit safely...
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;AN94(0)||:I know that, don't rush me! +Let me think... +Is there a way to leave the building without alerting the military...?
-AK12(0)<Speaker>AK-12</Speaker>;AN94(0)||:Commander, we're leaving the situation out there to you. +We'll protect Ange, so don't worry.
-AK12(0);AN94(4)<Speaker>AN-94</Speaker>||:But...is there really a way...?
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:Куда Анже сбежала?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:По нашим данным, Анже и её команда прячутся в одном из комплексов в Жёлтой зоне. Наши механические подразделения уже нашли их координаты. +Танки ещё не скоро доберутся до места, но у нас есть наблюдательный пункт прямо напротив комплекса. Правда, мы не можем определить ситуацию в нём удалённо.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||:Не отвлекайся на мелочи. Наши солдаты сделают свою работу... пока они еще живы... +Пусть преследующая группа визуально подтвердит их местонахождение и количество. Убедись, что Анже действительно находится в здании.
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:Мы уже просканировали их сигналы десять минут назад.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||:Сигналы можно подделать. Эта битва показала мне, на что способен 16LAB, а Анже я уже давно не видел на экране.
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:Вы подозреваете, что они разошлись?
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||:Как я уже сказал, это вполне возможно. Пожертвовать несколькими Куклами, чтобы спасти свою жизнь — любой человек решит, что это неплохое решение.
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:Наш анализ показывает, что лучшее время для них разделиться было бы, когда они дошли до заброшенного здания, но сканирование, которое мы провели в этой области, не обнаружило никаких признаков жизни в здании. Также нет никаких признаков, указывающих на то, что кто-либо входил в здание.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||<黑点1>:...Ты уверен?
+()||<黑点2>:...Тем временем.
+安洁()<Speaker>Анжелия</Speaker>||<黑屏1>:...
+()<Speaker>Анжелия</Speaker>||<BIN>46</BIN><睁眼>:AK-12...
+AK12(2)<Speaker>AK-12</Speaker>||:Анже... Наконец-то...
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>;AK12(2)||:Я не часто вижу тебя в таком состоянии... Я что, умерела?
+NPC-AngeDamage(2);AK12(2)<Speaker>AK-12</Speaker>||:Больше одного раза. И ты не просто умерела. Во время реанимации ты то становилась трупом, то зомби.
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>;AK12(2)||:Это в общем-то отражает то, как я себя чувствую... +Может, это просто последний всплеск сил, но я чувствую, что смогу продержаться еще немного.
+NPC-AngeDamage(2);AK12(2)<Speaker>AK-12</Speaker>||:Не знаю, когда ты потеряла сознание, но остальные уже полчаса как ушли.
+NPC-AngeDamage(2);AN94(4)<Speaker>AN-94</Speaker>||:Они подделали твои биологические показатели и с помощью Командира отвлекают внимание военных, чтобы выиграть для нас время.
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>;AN94(4)||:Командир?
+NPC-AngeDamage(2);AN94(4)<Speaker>AN-94</Speaker>||:Они оставили свое оборудование связи. Мы только что закончили его сборку. Теперь ты можешь связаться с Командиром. +Мы не можем долго здесь задерживаться. Военные скоро нас догонят. Нам нужно, чтобы ты придумала, как выбраться отсюда.
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>;AN94(4)||:Я поняла, я поняла... Я должна что-нибудь придумать... +Дай мне карту... и воды. Ты должна будешь меня покормить. У меня нет сил...
+NPC-AngeDamage(1);AK12(2)<Speaker>AK-12</Speaker>||:Ты слишком сильно себя перенапрягала. Смотри, твое сердце снова почти перестало биться.
+NPC-AngeDamage(1);AN94(4)<Speaker>AN-94</Speaker>||:Их роботы еще не вошли в здание. Твои биологические показатели, наверное, не попали в их сканирование.
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>||<黑点1>:Я все еще слаба, но военные могут подумать, что я уже погибла. Это плохо...
+()||<BIN>9</BIN><黑点2>:...Тем временем.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:А что, если... +А что, если Анже не подает никаких биологических сигналов?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:Что вы имеете в виду?
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||:У неё сильное облучение радиацией. Может ли её жизненные показатели быть настолько слабыми, что наши сканеры не могут их зафиксировать?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:...Мы не можем исключить... эту возможность, но она очень маловероятна.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||<黑点1>:Вряд ли, но всё же возможно. Проверь это. Подойди поближе к зданию и внимательно осмотрись. +Как только группа преследования обеспечит безопасность периметра или если внутри что-то шевельнется, входи в здание! +Мы не можем игнорировать никаких возможностей и не должны позволить Анже сбежать!
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>||<BIN>10</BIN><黑点2>:Я только что поговорила с Командиром. Нам нужно обеспечить безопасность нашего пути эвакуации. +Я отметила его на карте, но по пути есть несколько военных объектов. 416-я и остальные должны будут выполнить указания Командира и уничтожить их, чтобы мы могли безопасно эвакуироваться.
+NPC-AngeDamage(1);AK12(0)<Speaker>AK-12</Speaker>||:Но одного маршрута недостаточно.
+NPC-AngeDamage(1);AN94(0)<Speaker>AN-94</Speaker>||:Военные разведчики все еще рядом. Как только мы уйдем, нас заметят. Надо придумать, как уйти без проблем...
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>;AN94(0)||:Я знаю, не торопи меня! +Дай мне подумать... +Есть ли способ покинуть здание, не вызвав подозрений у военных...?
+AK12(0)<Speaker>AK-12</Speaker>;AN94(0)||:Командир, мы оставляем решение ситуации на ваше усмотрение. +Мы защитим Анже, так что не переживайте.
+AK12(0);AN94(4)<Speaker>AN-94</Speaker>||:Но... есть ли действительно способ...?
 AK12(0);AN94(4)||:
-()||<黑屏1>0,3</黑屏1><BGM>BGM_Empty</BGM>:...AN-94 stares at the signal scanner, then suddenly—
-AN94(2)<Speaker>AN-94</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Ange! New movements from the surrounding enemies!
-AK12(2)<Speaker>AK-12</Speaker>||:It's their scouts! They seem to be moving towards us!
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;AK12(2)||:Why...? Have they seen through the ploy?
-NPC-AngeDamage(3);AK12(2)<Speaker>AK-12</Speaker>||:Nyet, but I don't know why! We must climb higher!
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>;AK12(2)||:No! They could just be observing the building. We mustn't move recklessly.
-NPC-AngeDamage(3);AN94(0)<Speaker>AN-94</Speaker>||:So we just...wait?
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<黑点1>:We can't get out anyway. This is all we can do. +Just sit here...and wait to hear back from the Commander, then think...
-()||<BIN>157</BIN><黑点2>:...Meanwhile.
-HK416(3)<Speaker>416</Speaker>||<黑屏1>:Commander! As Ange mentioned, our target is their surveillance outpost. +We must eliminate all enemies there in order to secure Ange's evacuation route. +Time is short; the Military's main force will be here any minute. Let's get this done ASAP!
+()||<黑屏1>0,3</黑屏1><BGM>BGM_Empty</BGM>:...АН-94 смотрит на сканер сигналов, а потом вдруг...
+AN94(2)<Speaker>AN-94</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Анже! Враги начинают двигаться!
+AK12(2)<Speaker>AK-12</Speaker>||:Это их разведчики! Похоже, они движутся в нашу сторону!
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>;AK12(2)||:Почему...? Они поняли, что это уловка?
+NPC-AngeDamage(3);AK12(2)<Speaker>AK-12</Speaker>||:Нет, но я не знаю, почему! Нам надо подняться выше!
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>;AK12(2)||:Нет! Это может быть просто наблюдение за зданием. Не стоит действовать опрометчиво.
+NPC-AngeDamage(3);AN94(0)<Speaker>AN-94</Speaker>||:Так что мы просто... ждем?
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||<黑点1>:Мы все равно не сможем выбраться. +Это все, что мы можем сделать. Просто сидим здесь... ждем ответа от Командира, а потом думаем...
+()||<BIN>157</BIN><黑点2>:...Тем временем.
+HK416(3)<Speaker>416</Speaker>||<黑屏1>:Командир! Как сказала Анже, наша цель — их наблюдательный пост. +Нам нужно уничтожить всех врагов там, чтобы обеспечить Анже безопасный путь к отступлению. +Времени мало, основные силы армии могут появиться в любой момент. Давайте побыстрее разберемся с этим!
 ()||<黑点2><BIN>10</BIN>:
+
