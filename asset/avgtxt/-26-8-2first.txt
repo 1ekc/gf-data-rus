@@ -1,31 +1,32 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BIN>157</BIN><BGM>BGM_stage10</BGM><SE1>Gunfight</SE1><火花><黑屏2>:...The rescue party is trying to break through the encirclement.
-HK416(3)<Speaker>416</Speaker>||:Something's not right! The military has changed the way they position their troops! They must've called for reinforcements!
-AK12(2)<Speaker>AK-12</Speaker>||:Nyet...not reinforcements... +It's their main force!
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF>I'll admit, Ange, you're better than most of the pros I've met... </color> +<color=#00CCFF>...at dying!</color> +<color=#00CCFF>My artillery force is getting into position. We'll see how much of a beating your mongrel T-Dolls can take!</color> +<color=#00CCFF>And I wonder just how tough you really are! It's time to pay your dues, Angelia!</color>
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:That bastard is insane! He's trying to raze this place to the ground!
-AN94(2)<Speaker>AN-94</Speaker>;SOPIIDamage(3)||:Their main force is advancing! Ange, should we fall back or—
-AN94(2);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Ange passed out! We're on our own!
-HK416(3)<Speaker>416</Speaker>;SOPIIDamage(3)||:Without Ange in command, we can't put together an effective escape plan!
-AN94(4)<Speaker>AN-94</Speaker>;SOPIIDamage(3)||:AK-12, what...should we do?
-AN94(4);AK12(2)<Speaker>AK-12</Speaker>||:Keep calm. Abort the objective to escape. +Fall back to the trench and prepare to defend it!
-RO635(6)<Speaker>RO635</Speaker>;AK12(2)||<关闭火花><黑屏1>:This isn't a fair fight... +I'm afraid...we...
-NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||<黑屏2>:Sir, Ange's troops have pulled back. Our main force has also pinned down their HOCs. Should we push forward?
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Those T-Dolls will surely put up a fight. Even if we storm the hideout, their firepower is still a threat. +I don't care how many are sacrificed for victory, but I can't be so brash when it comes to vengeance. I can't let any more subordinates die at the hands of those slipshod tin cans.
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:Then what are your orders, sir?
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Out of us all, which unit has killed the most ELIDs?
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:The artillery force. They left no survivors along the way to get here as fast as they could.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||<黑屏1>:Just as I thought. Let them come forward and do the honor. +We'll just have to stay out here and catch our rats. +Let the artillery force channel all their wrath and raze everything to the ground! Burn that bitch and her homemaker Dolls till not even their ashes remain!
-()||<BIN>157</BIN><火花><BGM>BGM_Empty</BGM><黑屏2>:...An hour later.
-()||<BGM>BGM_Brain</BGM>:...Yegor stands before the bombardment site and beholds the masterpiece he created with artillery fire. +...Griffin's shelter is engulfed in a sea of fire and destruction. He walks away from this scorching inferno with his subordinates.
-()<Speaker>Yegor</Speaker>||<黑屏1>:In the end, my subordinate spotted Ange's corpse in the crater. Her face was obscured by the flaming tendrils dancing around her. +My greatest regret right now is that humans don't get to live a second time. +I did not get to savor the face she made as she faced her death - the desperate blubbering of a coward or the calm determination of a hero. +Whichever it was, I have sadly missed it. +Of course, this tiny regret is inconsequential compared to the gratification of our vengeance. +Once we have confirmed all the facts, we can move on... +We need to put the comrades shuffling around the battlefield to rest, then erase anything unnecessary. +In any case, this accursed strife is finally coming to an end. +It's all just a matter of time, but only those who survived can take their time to write down the history.
+()||<BIN>157</BIN><BGM>BGM_stage10</BGM><SE1>Gunfight</SE1><火花><黑屏2>:...Спасательная группа пытается вырваться из окружения.
+HK416(3)<Speaker>416</Speaker>||:Что-то не так! Военные изменили расположение своих войск! Наверное, они вызвали подкрепление!
+AK12(2)<Speaker>AK-12</Speaker>||:Нет... это не подкрепление... +Это их основные силы!
+NPC-YegorDamage(0)<Speaker>Егор</Speaker><通讯框>||:<color=#00CCFF>Признаю, Анже, ты круче большинства профессионалов, которых я встречал...</color> +<color=#00CCFF>...до смерти!</color> +<color=#00CCFF>Моя артиллерия занимает позиции. Посмотрим, сколько ударов выдержат твои вонючие Т-Куклы!</color> +<color=#00CCFF>И мне интересно, насколько ты на самом деле крутая! Пора расплачиваться, Анжелия!</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Этот придурок с ума сошел! Он пытается разрушить это место до основания!
+AN94(2)<Speaker>AN-94</Speaker>;SOPIIDamage(3)||:Их основные силы наступают! Анже, нам отступать или—
+AN94(2);SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Анже потеряла сознание! Мы остались одни!
+HK416(3)<Speaker>416</Speaker>;SOPIIDamage(3)||:Без Анже в роли Командира мы не сможем придумать эффективный план побега!
+AN94(4)<Speaker>AN-94</Speaker>;SOPIIDamage(3)||:АК-12, что... нам делать?
+AN94(4);AK12(2)<Speaker>AK-12</Speaker>||:Сохраняй спокойствие. Откажись от цели, чтобы сбежать. +Вернись в окоп и готовься его защищать!
+RO635(6)<Speaker>RO635</Speaker>;AK12(2)||<关闭火花><黑屏1>:Это будет неравный бой... +Боюсь, что... мы...
+NPC-Yegor(3)<Speaker>Капрал</Speaker>||<黑屏2>:Эй, войска Анже отступили. Наши основные силы тоже прижали их ГОгПы. Может, попробуем продвинуться?
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||:Эти Т-Куклы точно будут сопротивляться. Даже если мы штурмуем их укрытие, их огневая мощь все равно будет угрозой. +Мне все равно, сколько людей погибнет ради нашей победы, но я не могу быть таким опрометчивым, когда дело касается мести. Я не могу позволить, чтобы еще больше моих людей погибли от рук этих бездарных железяк.
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:Так какие у вас приказы, сэр?
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||:Из всех нас, какая группа убила больше всего ЭЛИД?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:Военная артиллерия. Они никого не оставили в живых, чтобы добраться сюда как можно быстрее.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||<黑屏1>:Как я и думал. Пусть они выходят вперед и возьмут на себя эту часть. +Нам остается только остаться здесь и ловить крыс. +Пусть артиллерия выпустит всю свою ярость и сравняет все с землей! Сожгите эту суку и ее дряные Куклы, чтобы от них не осталось и пепла!
+()||<BIN>157</BIN><火花><BGM>BGM_Empty</BGM><黑屏2>:...Спустя час.
+()||<BGM>BGM_Brain</BGM>:...Егор стоит перед местом обстрела и созерцает шедевр, который он создал с помощью артиллерийского огня. +...Убежище Грифона поглощено морем огня и разрушений. Он уходит из этого раскаленного ада вместе со своими подчиненными..
+()<Speaker>Егор</Speaker>||<黑屏1>:В конце концов, мой подчиненный заметил труп Анже в кратере. Ее лицо было скрыто пламенными щупальцами, танцующими вокруг нее. +Сейчас я больше всего сожалею о том, что люди не могут получить второй шанс на жизнь. +Я не смог насладиться выражением ее лица в момент смерти — отчаянным нытьем труса или спокойной решимостью героя. +Что бы это ни было, я, к сожалению, пропустил это. +Конечно, это небольшое сожаление ничтожно по сравнению с удовлетворением от нашей мести. +Как только мы проверим все факты, мы сможем двигаться дальше... +Нам нужно похоронить товарищей, разбросанных на этом поле, а затем стереть все ненужное. +В любом случае, эта проклятая война наконец-то подходит к концу. +Это всего лишь вопрос времени, но только те, кто выжил, могут не торопясь записывать историю.
 ()||<BIN>9</BIN><关闭火花><黑屏1><黑屏2>:...
 ()||<BIN>158</BIN><黑屏2><BGM>BGM_Brain</BGM>:...
-Nyto(0)<Speaker>Nyto</Speaker>||:We are surprised you are still capable of such deception under these circumstances. +We have truly underestimated you, Griffin Commander. +We must administer a larger, but not fatal, dosage.
-Nyto(0)<Speaker></Speaker>||:A Nyto takes out another syringe and injects the truth serum into my veins.
-Nyto(0)<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏>:The effect starts kicking in quickly, but I can still resist it. I still have a bit of willpower...though I don't know if I'm already running on fumes...
-Nyto(0)<Speaker>Nyto</Speaker>||:Ange did not die, at least not in this battle. We saw her kill one of us with our very own eyes. +So tell us how she survived and with whom she has had dealings.
-Nyto(0)<Speaker></Speaker>||:I will tell them everything that comes to mind. +The lies, the truth. Let them guess. +I know what they're really after. I also know the consequences of giving them what they want.
-Nyto(0)<Speaker>Nyto</Speaker>||:Humans are fragile contraptions that break down easily. +If you wish to leave this facility with your mind and body intact, value the chance you have been given and tell the truth.
-()||:That's why I need time...as well as all sorts of fantasies to counter the truth serum. +How many more times will Miss Ange die in my story? +At the very least, she has to keep dying till I can live... +...
+Nyto(0)<Speaker>Нито</Speaker>||:Мы удивлены, что ты все еще способен на такой обман в этих условиях. +Мы действительно недооценили тебя, Командир Грифона. +Мы должны ввести более крупную, но не смертельную дозу.
+Nyto(0)<Speaker></Speaker>||:Нито достает еще один шприц и вкалывает мне в вену еще одну дозу сыворотку правды.
+Nyto(0)<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏>:Эффект начинает действовать быстро, но я все еще могу ему противостоять. У меня еще есть немного силы воли... хотя я не знаю, не иссякла ли она уже...
+Nyto(0)<Speaker>Нито</Speaker>||:Анже не погибла, по крайней мере, не в этой битве. Мы сами видели, как она убила одного из нас. +Так расскажи нам, как она выжила и с кем она имела дело.
+Nyto(0)<Speaker></Speaker>||:Я расскажу им всё, что придет в голову. +Ложь, правда. Пусть сами угадывают. +Я знаю, чего они на самом деле хотят. Я также знаю, к чему приведёт то, что я дам им то, чего они хотят.
+Nyto(0)<Speaker>Нито</Speaker>||:Люди — это хрупкие существа, которые легко разрушаются. +Если хочешь покинуть это место с неповрежденным телом и разумом, цени предоставленную тебе возможность и говори правду.
+()||:Вот почему мне нужно время... а также различные фантазии, чтобы противостоять сыворотке правды. +Сколько раз еще  Анже умрет в моей истории? +По крайней мере, она должна продолжать умирать, пока я не смогу жить... +...
 ()||<黑屏1>:
+
