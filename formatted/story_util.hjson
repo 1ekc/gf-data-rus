@@ -2981,22 +2981,22 @@
   {
     id: 261
     mission_id: "10106"
-    description: '''"Should I...actually trust her...?"'''
+    description: '''"Стоит ли мне... действительно ей доверять...?"'''
     scripts: -24-2-1
     campaign: -24
     bgm: BGM_Frontline
-    title: Waste
+    title: Потери
     is_util: 1
     start: -24-2-1
   }
   {
     id: 262
     mission_id: "10107"
-    description: '''"Not enough...blood..."'''
+    description: '''"Недостаточно... крови..."'''
     scripts: -24-3-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Nightfall
+    title: Сумерки
     is_util: 1
     first: -24-3-2First
     end: -24-3-2First
@@ -3004,11 +3004,11 @@
   {
     id: 263
     mission_id: "10108"
-    description: '''"I can't appear...just yet... They're all counting on you..."'''
+    description: '''"Я пока не могу появиться... Все на тебя рассчитывают..."'''
     scripts: -24-4-1,-24-4-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Safe House
+    title: Убежище
     is_util: 1
     start: -24-4-1
     first: -24-4-2First
@@ -3017,11 +3017,11 @@
   {
     id: 264
     mission_id: "10109"
-    description: '''"Dear RO635...the things I do for friendship."'''
+    description: '''"Дорогая RO635...на что только я не пойду ради дружбы."'''
     scripts: -24-5-1,-24-5-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Auxiliary Power
+    title: Запасная Батарея
     is_util: 1
     start: -24-5-1
     first: -24-5-2First
@@ -3030,22 +3030,22 @@
   {
     id: 265
     mission_id: "10110"
-    description: '''"We must save them no matter how dangerous it is. We're allies on the battlefield."'''
+    description: '''"Мы должны спасти их, как бы опасно это ни было. Мы союзники на этом поле боя."'''
     scripts: -24-6-1
     campaign: -24
     bgm: BGM_Frontline
-    title: Reserve Outpost
+    title: Резервный аванпост
     is_util: 1
     start: -24-6-1
   }
   {
     id: 266
     mission_id: "10111"
-    description: '''"Have you cared about them at all? You've been on your own since the beginning..."'''
+    description: '''"Тебе вообще было до них дело? Ты с самого начала была предоставлена сама себе..."'''
     scripts: -24-7-1,-24-7-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Farewell, Scarecrow
+    title: Прощай, Пугало
     is_util: 1
     start: -24-7-1
     first: -24-7-2First
@@ -3054,11 +3054,11 @@
   {
     id: 267
     mission_id: "10113"
-    description: '''"I for one think I'm lucky to have run into prey like you at the last moment."'''
+    description: '''"Лично я считаю, что мне очень повезло, что я в последний момент наткнулась на такую добычу, как ты."'''
     scripts: -24-8-1,-24-8-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: The Last Day
+    title: Последний день
     is_util: 1
     start: -24-8-1
     first: -24-8-2First
@@ -3067,11 +3067,11 @@
   {
     id: 268
     mission_id: "10112"
-    description: '''"...Nothing left behind. Nothing changed."'''
+    description: '''"...Ничего не осталось. Ничего не изменилось."'''
     scripts: -24-9-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Bloodless Battlefield
+    title: Бескровное место битвы
     is_util: 1
     first: -24-9-2First
     end: -24-9-2First
@@ -3079,11 +3079,11 @@
   {
     id: 269
     mission_id: "10114"
-    description: '''"Do Sangvis Ferri...do things for their friends, too?"'''
+    description: '''"А Сангвис Ферри... делают ли они что-нибудь и для своих друзей?"'''
     scripts: -24-10-1,-24-10-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Peaceful Negotiations
+    title: Мирный переговоры
     is_util: 1
     start: -24-10-1
     first: -24-10-2First
@@ -3092,11 +3092,11 @@
   {
     id: 270
     mission_id: "10115"
-    description: '''"At least, having met you, I don't think I'm so weird anymore."'''
+    description: '''"По крайней мере, после знакомства с тобой я уже не считаю себя такой уж странной."'''
     scripts: -24-11-1,-24-11-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Fortunate?
+    title: Удачный?
     is_util: 1
     start: -24-11-1
     first: -24-11-2First
@@ -3105,11 +3105,11 @@
   {
     id: 271
     mission_id: "10116"
-    description: '''"Is M4A1 under such immense pressure on every operation...?"'''
+    description: '''"Неужели M4A1 испытывает такое огромное давление во время каждой операции...?"'''
     scripts: -24-12-1,-24-12-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Sangvis Elite Outpost
+    title: Элитный аванпост Сангвис
     is_util: 1
     start: -24-12-1
     first: -24-12-2First
@@ -3118,11 +3118,11 @@
   {
     id: 272
     mission_id: "10117"
-    description: '''"So what do you think? T-Dolls have emotions... Does that make us defective?"'''
+    description: '''"Ну и что ты думаешь? У Т-Кукол есть эмоции... Делает ли это нас неполноценными?"'''
     scripts: -24-13-1,-24-13-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Neural Fragments
+    title: Нейронные фрагменты
     is_util: 1
     start: -24-13-1
     first: -24-13-2First
@@ -3131,11 +3131,11 @@
   {
     id: 273
     mission_id: "10118"
-    description: '''"If I knew it would turn out like this, I would've saved my tears for now..."'''
+    description: '''"Если бы я знала, чем всё закончится, я бы приберегла слёзы на потом..."'''
     scripts: -24-14-1,-24-14-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Darkest Desire
+    title: Темнейшее Желание
     is_util: 1
     start: -24-14-1
     first: -24-14-2First
@@ -3144,11 +3144,11 @@
   {
     id: 274
     mission_id: "10120"
-    description: '''"...White enemies. Certainly never seen them before."'''
+    description: '''"...Белые враги. Уж точно никогда раньше их не видела."'''
     scripts: -25-1-1,-25-1-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: Unknown Enemy
+    title: Неизвестный враг
     is_util: 1
     start: -25-1-1
     first: -25-1-2First
@@ -3157,22 +3157,22 @@
   {
     id: 275
     mission_id: "10121"
-    description: '''"Commander, we can't keep cowering in here!"'''
+    description: '''"Командир, мы не можем продолжать прятаться здесь!"'''
     scripts: -25-2-1
     campaign: -25
     bgm: BGM_Frontline
-    title: '''"Support"'''
+    title: '''"Поддержка"'''
     is_util: 1
     start: -25-2-1
   }
   {
     id: 276
     mission_id: "10122"
-    description: '''"That's because while you're busy drinking yourself stupid at the base, I've been working my butt off out there."'''
+    description: '''"Это потому, что пока ты напиваешься до беспамятства на базе, я вкалываю там как проклятая."'''
     scripts: -25-3-1,-25-3-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: Griffin Expendables
+    title: Неудержимый Грифон
     is_util: 1
     start: -25-3-1
     first: -25-3-2First
@@ -3181,55 +3181,55 @@
   {
     id: 277
     mission_id: "10123"
-    description: '''"I hope I'll remember you...next time..."'''
+    description: '''"Надеюсь, я вспомню о тебе... в следующий раз..."'''
     scripts: -25-4-1
     campaign: -25
     bgm: BGM_Frontline
-    title: Defense Outpost 2
+    title: Защита Убежища 2
     is_util: 1
     start: -25-4-1
   }
   {
     id: 278
     mission_id: "10124"
-    description: '''"I'm not here to organize a picnic, guys. Do as I say and we'll all get home."'''
+    description: '''"Я здесь не для того, чтобы устраивать пикник, девчат. Делайте, как я говорю, и мы все благополучно доберемся домой."'''
     scripts: -25-5-1
     campaign: -25
     bgm: BGM_Frontline
-    title: Defense Outpost 3
+    title: Защита Убежища 3
     is_util: 1
     start: -25-5-1
   }
   {
     id: 279
     mission_id: "10125"
-    description: '''"...Just kidding."'''
+    description: '''"...Просто Шучу"'''
     scripts: -25-6-1
     campaign: -25
     bgm: BGM_Frontline
-    title: Just Kidding
+    title: Просто Шучу
     is_util: 1
     start: -25-6-1
   }
   {
     id: 280
     mission_id: "10126"
-    description: '''"So you crash someone's birthday party and tell them they're gonna die one day?"'''
+    description: '''"То есть, ты врываешься на чью-то вечеринку по случаю дня рождения и говоришь этому человеку, что он когда-нибудь умрет?"'''
     scripts: -25-7-1
     campaign: -25
     bgm: BGM_Frontline
-    title: Defense Outpost 4
+    title: Защита Убежища 4
     is_util: 1
     start: -25-7-1
   }
   {
     id: 281
     mission_id: "10127"
-    description: '''"Oh look, our brave hero is back."'''
+    description: '''"О, смотрите, наш храбрый герой вернулся."'''
     scripts: -25-8-1,-25-8-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: Exploratory Attack
+    title: Разведка боем
     is_util: 1
     start: -25-8-1
     first: -25-8-2First
@@ -3238,11 +3238,11 @@
   {
     id: 282
     mission_id: "10128"
-    description: '''"I must say...the odds are not in our favor..."'''
+    description: '''"Должен сказать... шансы не на нашей стороне..."'''
     scripts: -25-9-1,-25-9-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: General Offensive
+    title: Всеобщее наступление
     is_util: 1
     start: -25-9-1
     first: -25-9-2First
@@ -3251,11 +3251,11 @@
   {
     id: 283
     mission_id: "10129"
-    description: '''"I must survive for the sake of my next bottle of vodka."'''
+    description: '''"Мне нужно выжить ради следующей бутылки водки."'''
     scripts: -25-10-1,-25-10-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: For the Future
+    title: Для Будущего
     is_util: 1
     start: -25-10-1
     first: -25-10-2First
@@ -3264,22 +3264,22 @@
   {
     id: 284
     mission_id: "10130"
-    description: '''"I used to...be part of Griffin as well."'''
+    description: '''"Я тоже раньше была частью компании Грифон."'''
     scripts: -25-11-1
     campaign: -25
     bgm: BGM_Frontline
-    title: Black Doll
+    title: Кукла в черном
     is_util: 1
     start: -25-11-1
   }
   {
     id: 285
     mission_id: "10131"
-    description: '''"...Let's go. We must hold out till the Commander comes to our rescue."'''
+    description: '''"...Вперёд! Мы должны продержаться, пока Командир не придёт нам на помощь."'''
     scripts: -26-1-1,-26-1-2First
     campaign: -26
     bgm: BGM_Frontline
-    title: ELID-Infected
+    title: ЭЛИД-зараженная
     is_util: 1
     start: -26-1-1
     first: -26-1-2First
@@ -3288,44 +3288,44 @@
   {
     id: 286
     mission_id: "10132"
-    description: '''"Quick, set up their retreat route, Commander."'''
+    description: '''"Быстрее, командир, подготовьте им путь отступления."'''
     scripts: -26-2-1
     campaign: -26
     bgm: BGM_Frontline
-    title: Signal Flare
+    title: Сигнальная вспышка
     is_util: 1
     start: -26-2-1
   }
   {
     id: 287
     mission_id: "10133"
-    description: '''"I believe in the Commander! Cough... H-hurry!"'''
+    description: '''"Я верю в Командира! Кашель... Поторопитесь!"'''
     scripts: -26-3-1
     campaign: -26
     bgm: BGM_Frontline
-    title: Red Zone
+    title: Красная зона
     is_util: 1
     start: -26-3-1
   }
   {
     id: 288
     mission_id: "10134"
-    description: '''"I...I'll...make up my mind soon..."'''
+    description: '''"Я… я… скоро приму решение…"'''
     scripts: -26-4-1
     campaign: -26
     bgm: BGM_Frontline
-    title: Yellow Zone
+    title: Желтая Зона
     is_util: 1
     start: -26-4-1
   }
   {
     id: 289
     mission_id: "10135"
-    description: '''"Then I can find you and avenge my subordinates myself!"'''
+    description: '''"Тогда я смогу найти тебя и отомстить за своих подчиненных лично!"'''
     scripts: -26-5-1,-26-5-2First
     campaign: -26
     bgm: BGM_Frontline
-    title: Vengeance
+    title: Месть
     is_util: 1
     start: -26-5-1
     first: -26-5-2First
@@ -3334,11 +3334,11 @@
   {
     id: 290
     mission_id: "10136"
-    description: '''"Task Force DEFY has finally found the mark left by the rescue team!"'''
+    description: '''"Оперативная группа DEFY наконец-то обнаружила след, оставленный спасательной командой!"'''
     scripts: -26-6-1,-26-6-2First
     campaign: -26
     bgm: BGM_Frontline
-    title: Mark
+    title: Метка
     is_util: 1
     start: -26-6-1
     first: -26-6-2First
@@ -3347,22 +3347,22 @@
   {
     id: 291
     mission_id: "10137"
-    description: '''"Oh...don't mind me. Just know that I'm your ally. Good evening, Miss Ange."'''
+    description: '''"О... не обращайте на меня внимания. Просто знайте, что я ваш союзник. Добрый вечер, мисс Анжи."'''
     scripts: -26-7-1
     campaign: -26
     bgm: BGM_Frontline
-    title: A New Hope
+    title: Новая Надежда
     is_util: 1
     start: -26-7-1
   }
   {
     id: 292
     mission_id: "10142"
-    description: '''"My greatest regret right now is that humans don't get to live a second time."'''
+    description: '''"Больше всего сейчас я сожалею о том, что у человека нет возможности прожить вторую жизнь."'''
     scripts: -26-8-2First
     campaign: -26
     bgm: BGM_Frontline
-    title: Sum of All Wraths
+    title: Накопившийся гнев
     is_util: 1
     first: -26-8-2First
     end: -26-8-2First
@@ -3370,22 +3370,22 @@
   {
     id: 293
     mission_id: "10138"
-    description: '''"But even for me...this is a bit too risky..."'''
+    description: '''"Но даже для меня это слишком рискованно..."'''
     scripts: -26-9-1
     campaign: -26
     bgm: BGM_Frontline
-    title: Vile Rats
+    title: Мерзские крысы
     is_util: 1
     start: -26-9-1
   }
   {
     id: 294
     mission_id: "10143"
-    description: '''"...Now, good night."'''
+    description: '''"...А теперь спокойной ночи."'''
     scripts: -26-10-2First
     campaign: -26
     bgm: BGM_Frontline
-    title: Luck
+    title: Удача
     is_util: 1
     first: -26-10-2First
     end: -26-10-2First
@@ -3393,11 +3393,11 @@
   {
     id: 295
     mission_id: "10139"
-    description: '''"If you give up, what are we going to do?"'''
+    description: '''"Если ты сдашься, что мы будем делать?"'''
     scripts: -26-11-1,-26-11-2First
     campaign: -26
     bgm: BGM_Frontline
-    title: Bad News
+    title: Плохие новости
     is_util: 1
     start: -26-11-1
     first: -26-11-2First
@@ -3406,22 +3406,22 @@
   {
     id: 296
     mission_id: "10140"
-    description: '''"I believe you'll make the right decision - perhaps a better one than mine."'''
+    description: '''"Я верю, что вы примете правильное решение — возможно, даже лучшее, чем моё."'''
     scripts: -26-12-1
     campaign: -26
     bgm: BGM_Frontline
-    title: IED
+    title: СВУ
     is_util: 1
     start: -26-12-1
   }
   {
     id: 297
     mission_id: "10141"
-    description: '''"She's provoking me...which is why I must end her myself."'''
+    description: '''"Она меня провоцирует... поэтому я должен покончить с ней сам."'''
     scripts: -26-13-1,-26-13-2First
     campaign: -26
     bgm: BGM_Frontline
-    title: Stumbling Block
+    title: Камень преткновения
     is_util: 1
     start: -26-13-1
     first: -26-13-2First
@@ -3430,11 +3430,11 @@
   {
     id: 298
     mission_id: "10144"
-    description: '''"What on earth...are 'they'?"'''
+    description: '''"Что же это такое... эти "они"?"'''
     scripts: -26-14-1,-26-14-2First,-26-14-2End
     campaign: -26
     bgm: BGM_Frontline
-    title: White Doll
+    title: Кукла в белом
     is_util: 1
     start: -26-14-1
     first: -26-14-2First
@@ -3443,11 +3443,11 @@
   {
     id: 299
     mission_id: "10146"
-    description: '''"Look! It's our carrier!"'''
+    description: '''"Смотрите! Это наш курьер!"'''
     scripts: -25-12-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: Roaring Sun
+    title: Шум Солнца
     is_util: 1
     first: -25-12-2First
     end: -25-12-2First
@@ -3455,11 +3455,11 @@
   {
     id: 300
     mission_id: "10147"
-    description: '''"So it really turned out this way..."'''
+    description: '''"В итоге всё так и получилось..."'''
     scripts: -25-13-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: Howl of Terror
+    title: Вой ужаса
     is_util: 1
     first: -25-13-2First
     end: -25-13-2First
@@ -3467,11 +3467,11 @@
   {
     id: 301
     mission_id: "10148"
-    description: '''"You owe them a farewell."'''
+    description: '''"Вы должны с ними попрощаться."'''
     scripts: -25-14-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: Safe and Sound
+    title: В целости и сохранности
     is_util: 1
     first: -25-14-2First
     end: -25-14-2First
@@ -3479,11 +3479,11 @@
   {
     id: 302
     mission_id: "10149"
-    description: '''"It's just that...I've been through so much..."'''
+    description: '''"Просто... я столько всего пережила..."'''
     scripts: -25-15-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: Short-lived Peace
+    title: Кратковременный мир
     is_util: 1
     first: -25-15-2First
     end: -25-15-2First
@@ -3491,11 +3491,11 @@
   {
     id: 303
     mission_id: "10150"
-    description: '''"416, you'll be back, right? It's tiring having to walk by myself."'''
+    description: '''"416-я, ты ведь вернешься, правда? Утомительно ходить одной."'''
     scripts: -25-16-2First
     campaign: -25
     bgm: BGM_Frontline
-    title: Final Flight
+    title: Последний полет
     is_util: 1
     first: -25-16-2First
     end: -25-16-2First
@@ -3503,11 +3503,11 @@
   {
     id: 304
     mission_id: "10155"
-    description: '''"Congratulations on surviving...even though it was painful."'''
+    description: '''"Поздравляю с тем, что вы выжили... несмотря на боль."'''
     scripts: -27-1-1,-27-1-3Round6
     campaign: -27
     bgm: BGM_Frontline
-    title: Hurricane Rescue
+    title: Сасение из "Урагана"
     is_util: 1
     start: -27-1-1
     round: 6:-27-1-3Round6
@@ -3515,22 +3515,22 @@
   {
     id: 305
     mission_id: "10145"
-    description: '''"They're...unkillable."'''
+    description: '''"Они... неубиваемы."'''
     scripts: -24-15-1
     campaign: -24
     bgm: BGM_Frontline
-    title: Final Destination
+    title: Конечный пункт назначения
     is_util: 1
     start: -24-15-1
   }
   {
     id: 306
     mission_id: "10151"
-    description: '''"She wants us...to kill her."'''
+    description: '''"Она хочет, чтобы мы... убили её."'''
     scripts: -26-15-2First
     campaign: -26
     bgm: BGM_Frontline
-    title: Final Order
+    title: Последний приказ
     is_util: 1
     first: -26-15-2First
     end: -26-15-2First
@@ -3538,11 +3538,11 @@
   {
     id: 307
     mission_id: "10154"
-    description: '''"I am what history says I am..."'''
+    description: '''"Я — тот, кем меня считает история..."'''
     scripts: -26-18-2First
     campaign: -26
     bgm: BGM_Frontline
-    title: Victor
+    title: Виктор
     is_util: 1
     first: -26-18-2First
     end: -26-18-2First
@@ -3550,11 +3550,11 @@
   {
     id: 308
     mission_id: "10156"
-    description: '''"We need the truth. Don't get it wrong."'''
+    description: '''"Нам нужна правда. Не поймите меня неправильно."'''
     scripts: -24-1-1,-24-1-2First
     campaign: -24
     bgm: BGM_Frontline
-    title: Ground Zero
+    title: Эпицентр событий
     is_util: 1
     start: -24-1-1
     first: -24-1-2First
@@ -3563,11 +3563,11 @@
   {
     id: 309
     mission_id: "10157"
-    description: '''"To face the truth, you must either possess it or destroy it..."'''
+    description: '''"Чтобы взглянуть правде в глаза, нужно либо принять ее, либо уничтожить..."'''
     scripts: -28-1-1
     campaign: -28
     bgm: BGM_Frontline
-    title: Exile
+    title: Изгнание
     is_util: 1
     start: -28-1-1
   }
@@ -3576,7 +3576,7 @@
     mission_id: "10158"
     campaign: -29
     bgm: BGM_Frontline
-    title: Imaginary Maze+
+    title: Воображаемый лабиринт+
   }
   {
     id: 311
