@@ -1,26 +1,27 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>46</BIN><黑屏2><BGM>BGM_Brain</BGM>:...In the end, the defensive battle didn't buy enough time, and Task Force DEFY couldn't finish installing the IEDs within the time limit. +The commander is forced to abort the mission and instructs the rescue party to withdraw before the military breaches the structure. +Yegor later enters the building...and finds Angelia.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:Angelia, you've been pulling off trick after trick. +I'm fully prepared for that, but I still feel compelled to applaud your resourcefulness. +Sadly, our game of hide-and-seek has still come to an end...
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:I knew you'd come. +But I didn't expect you to come alone.
-NPC-AngeDamage(1);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:I know that nothing poses a threat to me in this building. I'm just here to kill you. I don't need help for that.
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:I still have two T-Dolls with me, Yegor. You shouldn't throw your own life away so easily. We all want to kill you very much.
-NPC-AngeDamage(1);NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:Thanks to your dirty bomb, I will be court-martialed even if I return to the Military. My subordinates will finish what I started. +You know, if I die here, at least I'll still be a hero.
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>;NPC-YegorDamage(0)||:You're not a hero, Yegor. Never.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||<黑屏1>0,2</黑屏1>:I am what history says I am... +History is written by the victors! +And we WILL be the victors!
-()||<BIN>9</BIN><黑屏2><黑屏1><SE1>Select</SE1>:...Yegor raises his pistol.
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<BIN>9</BIN><黑屏2>:Yegor... +You don't even know...what victory really is. +You'll never know what it costs to win!
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||:The cost of victory...is to become history!
-()||<BGM>BGM_Empty</BGM><闪屏><duration>5</duration></闪屏><SE2>Gunkill</SE2>:...Bang!
-()||<SE2>Gunfight</SE2><黑点1>:...Bang, bang, bang!
-()||<BIN>157</BIN><黑点2>:...Meanwhile.
-HK416()<Speaker>416</Speaker>||<黑屏1>:<color=#00CCFF>Commander...</color> +<color=#00CCFF>The Military forces laying siege just destroyed the building.</color> +<color=#00CCFF>According to the communication logs, Yegor killed Ange, then he was slain by Task Force DEFY.</color> +<color=#00CCFF>After that, the Military forces received orders to demolish the building. No sign of survival from Task Force DEFY.</color> +<color=#00CCFF>Our mission is over, Commander.</color> +<color=#00CCFF>We will reach our set course in ten minutes. Then we will be on our way to rescue you.</color> +<color=#00CCFF>At least let us do that and complete this one last mission...</color>
+()||<BIN>46</BIN><黑屏2><BGM>BGM_Brain</BGM>:...Но в итоге оборона не дала достаточно времени, и оперативная группа DEFY не успела установить взрывные устройства в срок. +Командир вынужден отменить миссию и приказывает эвакуационной команде уйти, пока военные не взорвали здание. +Егор позднее входит в здание... и находит Анжелию.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:Анжелия, ты выдумываешь одну хитрость за другой. +Я к этому готов, но все равно не могу не восхититься твоей находчивостью. +К сожалению, наша игра в прятки все равно закончилась...
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:Я знала, что ты придешь. Но не думала, что ты придешь один.
+NPC-AngeDamage(1);NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:Я знаю, что в этом здании мне ничего не угрожает. Я здесь только для того, чтобы тебя убить. Мне для этого не нужна помощь.
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:У меня еще есть две Т-Куклы, Егор. Не стоит так легко расставаться со своей жизнью. Мы все очень хотим тебя убить.
+NPC-AngeDamage(1);NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:Из-за твоей грязной бомбы меня все равно отправят под трибунал, даже если я вернусь в армию. Мои ребята закончат то, что я начал. +Знаешь, если я умру здесь, по крайней мере, я останусь героем.
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:Ты не герой, Егор. Не был и не будешь.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||<黑屏1>0,2</黑屏1>:Я такой, каким меня описывает история... +Историю пишут победители! +И мы БУДЕМ победителями!
+()||<BIN>9</BIN><黑屏2><黑屏1><SE1>Select</SE1>:...Егор поднимает пистолет.
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||<BIN>9</BIN><黑屏2>:Егор... +Ты даже не представляешь... что такое настоящая победа. +Ты никогда не узнаешь, чего стоит победа!
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:Цена победы... стать историей!
+()||<BGM>BGM_Empty</BGM><闪屏><duration>5</duration></闪屏><SE2>Gunkill</SE2>:...Бэнг!
+()||<SE2>Gunfight</SE2><黑点1>:...Бэнг, бэнг, бэнг!
+()||<BIN>157</BIN><黑点2>:...Тем временем.
+HK416()<Speaker>416</Speaker>||<黑屏1>:<color=#00CCFF>Командир...</color> +<color=#00CCFF>Военные, которые осаждали здание, просто его снесли.</color> +<color=#00CCFF>Судя по записям, Егор сначала убил Анже, а потом его прикончили члены спецгруппы DEFY.</color> +<color=#00CCFF>После этого военные получили приказ снести здание. Нет никаких признаков выживших из оперативной группы DEFY.</color> +<color=#00CCFF>Наша миссия закончена, Командир.</color> +<color=#00CCFF>Мы будем на месте через десять минут. Потом сразу же поедем тебя спасать.</color> +<color=#00CCFF>Давайте хотя бы это сделаем и закончим эту последнюю миссию...</color>
 ()||<BIN>9</BIN><黑屏2><黑屏1>:...
 ()||<BIN>158</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
-Nyto(0)<Speaker>Nyto</Speaker>||<BGM>BGM_Truth</BGM>:We are surprised you are still capable of such deception under these circumstances. +We have truly underestimated you, Griffin Commander. +We must administer a larger, but not fatal, dosage.
-Nyto(0)<Speaker></Speaker>||:A Nyto takes out another syringe and injects the truth serum into my veins.
-Nyto(0)<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏>:The effect starts kicking in quickly, but I can still resist it. I still have a bit of willpower...though I don't know if I'm already running on fumes...
-Nyto(0)<Speaker>Nyto</Speaker>||:Ange did not die, at least not in this battle. We saw her kill one of us with our very own eyes. +So tell us how she survived and with whom she has had dealings.
-Nyto(0)<Speaker></Speaker>||:I will tell them everything that comes to mind. +The lies, the truth. Let them guess. +I know what they're really after. I also know the consequences of giving them what they want.
-Nyto(0)<Speaker>Nyto</Speaker>||:Humans are fragile contraptions that break down easily. +If you wish to leave this facility with your mind and body intact, value the chance you have been given and tell the truth.
-()||:That's why I need time...as well as all sorts of fantasies to counter the truth serum. +How many more times will Miss Ange die in my story? +At the very least, she has to keep dying till I can live... +...
+Nyto(0)<Speaker>Nyto</Speaker>||<BGM>BGM_Truth</BGM>:Мы удивлены, что ты все еще способен на такой обман в этих условиях. +Мы действительно недооценили тебя, Командир Грифона. +Мы должны ввести более крупную, но не смертельную дозу.
+Nyto(0)<Speaker></Speaker>||:Нито достает еще один шприц и вкалывает мне в вену еще одну дозу сыворотку правды.
+Nyto(0)<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏>:Эффект начинает действовать быстро, но я все еще могу ему противостоять. У меня еще есть немного силы воли... хотя я не знаю, не иссякла ли она уже...
+Nyto(0)<Speaker>Нито</Speaker>||:Анже не погибла, по крайней мере, не в этой битве. Мы сами видели, как она убила одного из нас. +Так расскажи нам, как она выжила и с кем она имела дело.
+Nyto(0)<Speaker></Speaker>||:Я расскажу им всё, что придет в голову. +Ложь, правда. Пусть сами угадывают. +Я знаю, чего они на самом деле хотят. Я также знаю, к чему приведёт то, что я дам им то, чего они хотят.
+Nyto(0)<Speaker>Нито</Speaker>||:Люди — это хрупкие существа, которые легко разрушаются. +Если хочешь покинуть это место с неповрежденным телом и разумом, цени предоставленную тебе возможность и говори правду.
+()||:Вот почему мне нужно время... а также различные фантазии, чтобы противостоять сыворотке правды. +Сколько раз еще  Анже умрет в моей истории? +По крайней мере, она должна продолжать умирать, пока я не смогу жить... +...
 ()||<黑屏1>:
+
