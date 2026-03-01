@@ -1,125 +1,126 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>47</BIN><黑屏2><SE2>Gunfight</SE2>:...The battle enters the final stage.
-HK416(0)<Speaker>416</Speaker><通讯框>||<黑屏1>0,6</黑屏1>:<color=#00CCFF>Commander, we've eliminated the enemies in the perimeter! We're looking for a chance to make our way in!</color> +<color=#00CCFF>Please be ready. We'll be right—</color>
+()<Speaker></Speaker>||<BIN>47</BIN><黑屏2><SE2>Gunfight</SE2>:...Сражение вступает в финальную стадию.
+HK416(0)<Speaker>416</Speaker><通讯框>||<黑屏1>0,6</黑屏1>:<color=#00CCFF>Командир, мы уничтожили врагов по периметру! Ждем возможности прорваться внутрь!</color> +<color=#00CCFF>Будьте готовы, мы сейчас подойдём—</color>
 ()||<闪屏><duration>5</duration></闪屏>:
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1><BGM>BGM_Boss2</BGM><黑屏1>:The transmission gets cut off all of a sudden! +...Crash! The back door of the safe house is broken down! +The commander feels an abrupt sting of electric current from head to toe and slumps onto the ground.
-Nyto(1)<Speaker>Black Doll</Speaker>||<BIN>47</BIN><睁眼>:Good morning, Griffin Commander. +We are under orders to capture you...
-()<Speaker></Speaker>||<震屏>:...Smack!
-()<Speaker></Speaker>||:Suddenly, a figure comes rushing up from behind the black Doll and slaps her across the face with a force way more incredible than it appears. +The Doll flies across a considerable distance and slams into the wall...
-NytoWhite(0)<Position>0,50</Position><Speaker>White Doll</Speaker><position>0,50</position>||:That was for walking in front of me.
-()<Speaker></Speaker>||:The black Doll gets to her feet slowly, red fluid dripping down the corner of her mouth.
-()<Speaker></Speaker>||<震屏>:...Smack!
-NytoWhite(0)<Position>0,50</Position><Speaker>White Doll</Speaker>||:That was for your stupidity that resulted in a failed mission. +There were only a few Dolls at the Griffin base, yet you still failed. You also wasted quadruple the amount of time and five times more resources than expected on gathering and analyzing their data.
-Nyto(1)<Speaker>Black Doll</Speaker>;NytoWhite(0)<Position>0,50</Position>||:That...was not me... +They...have already given their all...
-Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:To me, you are all the same, and you keep making the same mistake mission after mission. +Our lives are short and precious, yet you squander them time and time again with your impotence. I am ashamed to share your name and appearance. Father should never have created you. +This is why I am standing here, teaching you what it means to have a "self".
-Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||:I...understand...
-Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:Our success today is all thanks to me. That human is my trophy.
-Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||:I...have no objection...
-Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:Take the human to Father's desired location... +And the "we" over there will acquire what Father wants from the prisoner. +Griffin is about to break through our blockade. When will our transport arrive?
-Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||:It is going to take some time. The automated carrier is still on its way— Sister, where are you going?
-Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:This is a demonstration. I'm going to buy you some time.
-Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||:But you will not get to leave. Your soul will not stay anchored to this body.
-Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:Genuine freedom can only be attained through sacrifice. I shall "awaken" once more with this freedom. +Take the human and report my achievements to Father. Do you understand?
-Nyto(1)<Speaker>Black Nyto</Speaker>;NytoWhite(0)<Position>0,50</Position>||<黑屏1>:Yes, I will make sure Father remembers you...I swear.
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:...Ten minutes later.
-AK12(3)<Speaker>AK-12</Speaker>||<BIN>157</BIN><黑屏2><SE2>Gunfight</SE2>:Their defense line is about to collapse! Keep it up!
-NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:Your actions are meaningless, Griffin Dolls. +No matter how many times you attack, you will not be able to get close to my scythe.
-AN94(0)<Speaker>AN-94</Speaker>||:We know we can't... +But they can.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1><BGM>BGM_Boss2</BGM><黑屏1>:Вдруг связь прерывается! +...Бабах! Задняя дверь убежища выбита! +Командир чувствует резкий удар током от головы до ног и падает на землю.
+Nyto(1)<Speaker>Черная Кукла</Speaker>||<BIN>47</BIN><睁眼>:Привет, Командир Грифона. У нас есть приказ тебя схватить...
+()<Speaker></Speaker>||<震屏>:...Удар!
+()<Speaker></Speaker>||:Вдруг из-за спины черной Куклы выскакивает фигура и бьет ее по лицу с силой, гораздо большей, чем кажется. +Кукла отлетает на значительное расстояние и врезается в стену...
+NytoWhite(0)<Position>0,50</Position><Speaker>Белая Кукла</Speaker><position>0,50</position>||:Это за то, что шла передо мной.
+()<Speaker></Speaker>||:Черная Кукла медленно встает, красная жидкость стекает в уголке ее рта.
+()<Speaker></Speaker>||<震屏>:...Удар!
+NytoWhite(0)<Position>0,50</Position><Speaker>Белая Кукла</Speaker>||:Это за твою глупость, из-за которой миссия провалилась. +На базе Грифона было всего несколько Кукол Грифона, но ты все равно провалила задание. +Ты также потратила в четыре раза больше времени и в пять раз больше ресурсов, чем планировалось, на сбор и анализ данных.
+Nyto(1)<Speaker>Черная Кукла</Speaker>;NytoWhite(0)<Position>0,50</Position>||:Это... не я... +Они... уже сделали всё, что могли...
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Для меня вы все одинаковы и продолжаете повторять одну и ту же ошибку из миссии в миссию. +Наша жизнь коротка и драгоценна, но вы снова и снова растрачиваете ее впустую из-за своей беспомощности. Мне стыдно делить с вами имя и внешность. Отец не должен был вас создавать. +Вот почему я стою здесь и учу вас, что значит иметь собственное «я».
+Nyto(1)<Speaker>Черная Нито</Speaker>;NytoWhite(0)<Position>0,50</Position>||:Я... понимаю...
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Наш сегодняшний успех — это всё благодаря мне. Этот человек — мой трофей.
+Nyto(1)<Speaker>Черная Нито</Speaker>;NytoWhite(0)<Position>0,50</Position>||:Я... не имею возражений...
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Отвези человека туда, куда хочет отец... +И «мы» там получим от пленника то, что хочет отец. +Грифон вот-вот прорвет нашу оборону. Когда прибудет наш транспорт?
+Nyto(1)<Speaker>Черная Нито</Speaker>;NytoWhite(0)<Position>0,50</Position>||:Это займет некоторое время. Беспилотный транспорт еще в пути... Сестра, куда ты идешь?
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Это просто для демонстрации. Я постараюсь выиграть для тебя немного времени.
+Nyto(1)<Speaker>Черная Нито</Speaker>;NytoWhite(0)<Position>0,50</Position>||:Но ты не сможешь уйти. Твоя душа не останется привязанной к этому телу.
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Настоящую свободу можно получить только ценой жертв. Я снова «пробужусь» с этой свободой. +Забери человека и расскажи отцу о моих достижениях. Поняла?
+Nyto(1)<Speaker>Черная Нито</Speaker>;NytoWhite(0)<Position>0,50</Position>||<黑屏1>:Да, я позабочусь, чтобы отец тебя не забыл... Клянусь.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:...Десять минут спустя.
+AK12(3)<Speaker>AK-12</Speaker>||<BIN>157</BIN><黑屏2><SE2>Gunfight</SE2>:Их оборона вот-вот рухнет! Так и держать!
+NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Ваши действия бессмысленны, Куклы Грифона. +Сколько бы раз вы ни атаковали, вам не удастся приблизиться к моей косе.
+AN94(0)<Speaker>AN-94</Speaker>||:Знаем, что мы не сможем... +А они смогут.
 ()<Speaker></Speaker>||:...
-()<Speaker>Terrifying howl</Speaker>||<震屏>:GUARGHHHHHHH!
-NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:The Baptized?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Guys, RO and I have drawn the ELID zombies this way!
-RO635(6)<Speaker>RO635</Speaker>||:I told you I'd come in handy!
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Humph, you mean your megaphone. I didn't know it comes with so many modes!
-RO635(6)<Speaker>RO635</Speaker>||:I am a T-Doll of many talents! +Hey, hurry! They're about to get me!
-AN94(2)<Speaker>AN-94</Speaker>||:SOP-II, you might have attracted too many of them.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Didn't you say to draw them all from every direction?
-()<Speaker></Speaker>||<震屏>:...The ELIDs surge towards the blockade.
-NytoWhite(0)<Position>0,50</Position><Speaker>White Nyto</Speaker>||:All units, stand down. Do not attack the Baptized.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Huh? Why aren't the white enemies attacking? They'll be torn to pieces!
-AK12(3)<Speaker>AK-12</Speaker>||:Does that matter? M82, I've located the target. Can you make a snipe from this distance? 
-M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>Wouldn't be a problem even if you tripled the distance.</color>
+()<Speaker>Terrifying howl</Speaker>||<震屏>:ГРРРАААААААА!
+NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Зараженные?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Девчат, RO и я пригнали зомби ЭЛИД в эту сторону!
+RO635(6)<Speaker>RO635</Speaker>||:Я же говорила, что могу быть полезна!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Хм, ты имеешь в виду свой мегафон. Я не знала, что у него столько режимов!
+RO635(6)<Speaker>RO635</Speaker>||:Я Т-Кукла со многими талантами! +Эй, быстрее! Они меня сейчас поймают!
+AN94(2)<Speaker>AN-94</Speaker>||:SOP-II, ты, наверное, привлекла слишком много этих существ.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Ты же сказала, чтобы их притянуть со всех направлений?
+()<Speaker></Speaker>||<震屏>:...ЭЛИДы устремляются к заграждению.
+NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Всем подразделениям прекратить огонь. Не нападать на зараженныех.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Э? Почему белые враги не атакуют? Их  же разорвут на куски!
+AK12(3)<Speaker>AK-12</Speaker>||:Это имеет значение? M82, я нашла цель. Сможешь попасть с такого расстояния?
+M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>Даже если бы расстояние увеличилось в три раза, это не было бы проблемой.</color>
 ()||<CGDelay>0.5</CGDelay>:
-()||<闪屏><duration>5</duration></闪屏><SE2>MachineGunBurst</SE2>:...Bang! +...The white Doll takes a bullet in the head, which explodes like a watermelon.
-AK12(2)<Speaker>AK-12</Speaker>||<黑屏1>:We did our part. +Now...it's up to Ange and 416.
-()<Speaker></Speaker>||<BIN>47</BIN><黑屏2>:...Meanwhile, inside the safe house.
-()<Speaker></Speaker>||<震屏>:...Bam! 416 kicks the door open.
-HK416(3)<Speaker>416</Speaker>||:Commander! Where are you? Come out!
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:The Commander isn't here! Search the house!
-Nyto(1)<Speaker>Black Nyto</Speaker>||:Do not bother. +You are too late.
-()<Speaker></Speaker>||:...The black Doll walks slowly into the room.
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Why...why are you here?! +What about the Commander? Tell us where the Commander is!
-Nyto(1)<Speaker>Black Nyto</Speaker>||:We have taken the Griffin Commander away.
-HK416(3)<Speaker>416</Speaker>||:... +Why...? +What exactly are you after?!
-Nyto(1)<Speaker>Black Nyto</Speaker>||:You...know nothing about "us"... +"Our" greatness is beyond your comprehension.
-HK416(0)<Speaker>416</Speaker>||:What...?
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:You must be here for a reason. You couldn't possibly have fallen out from the sky...
-Nyto(1)<Speaker>Black Nyto</Speaker>||:What do you hope to achieve with that piece of knowledge?
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Indeed, I have no interest in your identity or intentions. Hand the commander over!
-Nyto(1)<Speaker>Black Nyto</Speaker>||:Unfortunately, the human has already departed from this location. +There is nothing you can do. +I only stayed behind to relay a message.+"The shining beacon in a brave new world."
-()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:...Bang! +...Ange kills the black Doll with a single shot.
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||:Don't say that in my presence. It revolts me.
-AK12(2)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Ange, the battlefield is getting out of hand! We must withdraw!</color>
-AN94(2)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Can you confirm if the commander...has really been abducted?</color>
-HK416(0)<Speaker>416</Speaker>||:There are no life signs in the safe house. I believe it's true...
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>Those white Dolls...were only here to slow us down.</color>
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Ange...</color> +<color=#00CCFF>Did we fail the mission...?</color>
-()<Speaker></Speaker>||:...Ange stares at the remains of the black Doll and the pool of crimson fluid on the floor in silence.
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<黑屏1>:No, not yet... +We simply...haven't completed the mission yet. +No one is going to get left behind, I swear. +...
+()||<闪屏><duration>5</duration></闪屏><SE2>MachineGunBurst</SE2>:...Бабах! +...Белая Кукла получает пулю в голову, которая взрывается, как арбуз.
+AK12(2)<Speaker>AK-12</Speaker>||<黑屏1>:Мы сделали, что могли. +Теперь дело за Анже и 416-ой.
+()<Speaker></Speaker>||<BIN>47</BIN><黑屏2>:...Тем временем, внутри убежища.
+()<Speaker></Speaker>||<震屏>:...Бам! 416-я выбивает дверь ногой.
+HK416(3)<Speaker>416</Speaker>||:Командир! Где вы? Выходите!
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Командир нет! Обыщите здание!
+Nyto(1)<Speaker>Черная Нито</Speaker>||:Не надо. +Ты опоздала.
+()<Speaker></Speaker>||:...Черная Кукла медленно входит в комнату.
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Почему... почему ты здесь?! +А где Командир? Скажи нам, где Командир!
+Nyto(1)<Speaker>Черная Нито</Speaker>||:Мы забрали Командир Грифона.
+HK416(3)<Speaker>416</Speaker>||:... +Почему...? +Чего именно ты хочешь?!
+Nyto(1)<Speaker>Черная Нито</Speaker>||:Ты... ничего не знаешь о «нас»... +«Наше» величие превосходит твое понимание.
+HK416(0)<Speaker>416</Speaker>||:Чё...?
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Ты наверняка здесь не просто так. Не может быть, чтобы ты просто так свалилась с неба...
+Nyto(1)<Speaker>Черная Нито</Speaker>||:Чего ты надеешься добиться с помощью этой информации?
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Мне вообще не интересно, кто ты такая и что у тебя за планы. Отдай мне Командира!
+Nyto(1)<Speaker>Черная Нито</Speaker>||:К сожалению, человек уже покинул это место. +Ты ничего не можешь сделать. +Я осталась только для того, чтобы передать сообщение.+ «Сияющий маяк в прекрасном новом мире».
+()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:...Бэнг! +...Анже убивает черную Куклу одним выстрелом.
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Не говори так при мне. Меня это бесит.
+AK12(2)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Анже, на полях сражений выходит из-под контроля! Нам нужно уходить!</color>
+AN94(2)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Можешь подтвердить, что Командир... действительно был похищен?</color>
+HK416(0)<Speaker>416</Speaker>||:В убежище нет признаков жизни. Думаю, это правда...
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>Эти белые Куклы... были здесь только для того, чтобы нас задержать.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Анже...</color> +<color=#00CCFF>Мы провалили миссию...?</color>
+()<Speaker></Speaker>||:...Анже молча смотрит на остатки черной Куклы и лужу алой жидкости на полу.
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||<黑屏1>:Нет, еще нет... +Мы просто... еще не закончили миссию. +Никто не останется позади, клянусь. +...
 ()||<BIN>158</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
-()||:I think I finished the entire story. I'm sure I didn't make any mistakes. +A heavy weight is lifted off my mind - I no longer have to fight against the truth serum. Of course, this also means I'm about to face something much worse...
-Nyto(0)<Speaker>Nyto</Speaker>||<BGM>BGM_Room</BGM>:...Father. +The Griffin Commander has completed the statement. It tallies with our information.
-Nyto(0)<Speaker>Distorted voice</Speaker><通讯框>||:<color=#00CCFF>Finally spilled it all?</color> +<color=#00CCFF>It took you so long to interrogate a simple PMC employee. Just how useless are you?</color>
-Nyto(0)<Speaker>Nyto</Speaker>||:We are very sorry, Father. We did our best.
-Nyto(0)<Speaker>Distorted voice</Speaker>||<黑屏1>:<color=#00CCFF>I know. I never expected much from garbage like you. Now tell me what you learned. Keep it brief.</color>
-冷静的人形声音()<Speaker>Calm T-Doll's voice</Speaker><通讯框>||<BIN>9</BIN><黑屏2><黑屏1>:<color=#00CCFF>...Commander.</color>
-()||<BIN>158</BIN><黑屏2>:Just then, I hear a voice in my ear. I hear hope.
-冷静的人形声音()<Speaker>Calm T-Doll's voice</Speaker>||:<color=#00CCFF>Please check your restraints discreetly, but don't make a move. We've hacked into the system and deactivated them.</color> +<color=#00CCFF>Once you confirm this, feel around for the pistol hidden beneath the straps. If you can find it, please lower your gaze, look to the right, and blink twice. Then look straight ahead again.</color>
-()||:I can feel that the restraints have indeed been deactivated and I follow her instructions. +I can now move freely, but I know it isn't time yet.
-冷静的人形声音()<Speaker>Calm T-Doll's voice</Speaker>||:<color=#00CCFF>Understood, Commander. We'll be there in the interrogation room right away.</color> +<color=#00CCFF>If these Nytos try to attack you before we get there, don't hesitate to fight back. They're only interrogator models and have no weapons or combat capabilities. I'm sure you can handle them.</color> +<color=#00CCFF>By the way, don't forget our code. To acknowledge, please lift your gaze, look to the left, furrow your brows, then pull the right corner of your mouth downward. Oh, and stick out your tongue.</color>
-()||:It's a bit challenging, but I do everything she asks...
-冷静的人形声音()<Speaker>Calm T-Doll's voice</Speaker>||:<color=#00CCFF>A wonderful face. I've documented the image in retaliation for ruining my reputation in your story.</color> +<color=#00CCFF>Now, please wait patiently. We still need a little bit more time.</color>
-()||:I want to tell her I don't have much time left, but she's already ended the conversation. +On the other end of the Nyto's communicator, the owner of that male voice whose haughtiness is so apparent even through the digital distortion that he must be lying on a sofa right now, listening to a record player and staring at the ceiling. Then he'll casually read out my sentence. +What awaits me...what this "Father" wants to do to me...is quite obvious...
-电子处理的声音()<Speaker>Distorted voice</Speaker>||:<color=#00CCFF>...So you're telling me, that there was no way for the Commander and all the other targets to have come into contact with Mastermind?</color>
-Nyto(0)<Speaker>Nyto</Speaker>||:Indeed. The evidence offers no contradiction from any aspect.
-Nyto(0)<Speaker>Distorted voice</Speaker>||:<color=#00CCFF>Then we have no need for contradiction. Your work is over.</color>
-Nyto(0)<Speaker>Nyto</Speaker>||:What should we do with the commander?
-Nyto(0)<Speaker>Distorted voice</Speaker>||:<color=#00CCFF>Do you have to ask? How many times have you done this already?</color> +<color=#00CCFF>Chop off the Commander's head and send it to me. Then destroy all evidence.</color> +<color=#00CCFF>Stand closer this time and put your back into the swing. Make it a clean cut and keep the head in good shape for my research.</color>
-Nyto(0)<Speaker></Speaker>||:Will my rescue not make it in time? The four Nytos are closing in with blades in hand! +I'm not sure other than the head, what other body parts would make effective targets. I must wait for them to come even closer so that I can get them all in the head in one go.
-Nyto(0)<Speaker>Commander</Speaker>||: +<c>What are you doing? <c>This isn't what we agreed! <c>This is your last chance. Got anything to say?
-Nyto(0)<Speaker></Speaker>||<黑屏1>:The four Dolls offer no response at all. They just keep walking towards me. +No...I can't make a move yet. They're not close enough. Just a bit closer! +Besides...I don't know which one...
-()||<BIN>9</BIN><黑屏2>:The moment the Nytos raise their blades—
-？？()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:"I've brought misfortune."
-()||<黑屏1><闪屏><duration>5</duration></闪屏><SE2>Gunfight</SE2>:...Bang! Bang, bang!
+()||:Думаю, я рассказал всю историю. Уверен, что нигде не ошибся. +С моих плеч свалился тяжелый груз — мне больше не нужно бороться с сывороткой правды. Конечно, это также означает, что мне предстоит столкнуться с чем-то гораздо худшим...
+Nyto(0)<Speaker>Нито</Speaker>||<BGM>BGM_Room</BGM>:...Отец. +Командир Грифона закончил свой рассказ. Он совпадает с нашей информацией.
+Nyto(0)<Speaker>Искаженный голос</Speaker><通讯框>||:<color=#00CCFF>Наконец-то все выложил?</color> +<color=#00CCFF>Ты так долго допрашивала простого сотрудника ЧВК. Насколько ты бесполезна?</color>
+Nyto(0)<Speaker>Нито</Speaker>||:Нам очень жаль, отец. Мы старались как могли.
+Nyto(0)<Speaker>Искаженный голос</Speaker>||<黑屏1>:<color=#00CCFF>Я знаю. Я никогда не ждал многого от такого мусора, как ты. Теперь расскажи, что узнала. Старайся быть краткой.</color>
+冷静的人形声音()<Speaker>Спокойный голос Т-Куклы</Speaker><通讯框>||<BIN>9</BIN><黑屏2><黑屏1>:<color=#00CCFF>...Командир.</color>
+()||<BIN>158</BIN><黑屏2>:И тут я слышу голос у себя в ухе. Я слышу надежду.
+冷静的人形声音()<Speaker>Спокойный голос Т-Куклы</Speaker>||:<color=#00CCFF>Пожалуйста, незаметно проверьте свои наручники, но не делайте никаких движений. Мы взломали систему и отключили её.</color> +<color=#00CCFF>Как только ты это сделаешь, найди пистолет, спрятанный под ремнями. Если нашел, опусти взгляд, посмотри направо и два раза моргни. Потом снова посмотри прямо перед собой.</color>
+()||:Я чувствую, что путы действительно были сняты, и следую ее инструкциям. +Теперь я могу свободно двигаться, но знаю, что еще не время.
+冷静的人形声音()<Speaker>Спокойный голос Т-Куклы</Speaker>||:<color=#00CCFF>Понятно, Командир. Мы сейчас же прибудем в комнату для допросов.</color> +<color=#00CCFF>Если эти Нито попытаются напасть на тебя, пока мы не прибудем, не стесняйся дать отпор. Они всего лишь дознаватели и не имеют ни оружия, ни боевых навыков. Уверен, ты с ними справишься.</color> +<color=#00CCFF>Кстати, не забудь наш код. Чтобы подтвердить, подними взгляд, посмотри налево, нахмурь брови, а потом опусти правый угол рта. Ах да, и высунь язык.</color>
+()||:Это немного вызывающе, но я делаю все, что она просит...
+冷静的人形声音()<Speaker>Спокойный голос Т-Куклы</Speaker>||:<color=#00CCFF>Классная мордашка. Я сохраню это фото, чтобы потом использовать его, если ты снова испортишь мне репутацию в своей истории.</color> +<color=#00CCFF>Теперь, пожалуйста, подожди немного. Нам еще нужно немного времени.</color>
+()||:Я хочу сказать ей, что у меня не так много времени, но она уже закончила разговор. +На другом конце коммуникатора Нито владелец мужского голоса, чья надменность настолько очевидна даже через цифровое искажение, что он, наверное, сейчас лежит на диване, слушает проигрыватель и смотрит в потолок. Затем он небрежно зачитает мой приговор. +Что меня ждет... что этот «Отец» хочет со мной сделать... совершенно очевидно...
+电子处理的声音()<Speaker>Искаженный голос</Speaker>||:<color=#00CCFF>...Ты хочешь сказать, что у Командира и всех остальных целей не было возможности связаться с Владыкой?</color>
+Nyto(0)<Speaker>Нито</Speaker>||:Безусловно. Доказательства не противоречат друг другу ни в одном аспекте.
+Nyto(0)<Speaker>Искаженный голос</Speaker>||:<color=#00CCFF>Тогда нам не нужно больше противоречий. Твоя работа закончена.</color>
+Nyto(0)<Speaker>Нито</Speaker>||:Что нам делать с Командиром?
+Nyto(0)<Speaker>Искаженный голос</Speaker>||:<color=#00CCFF>А ты еще спрашиваешь? Сколько раз ты уже это делала?</color> +<color=#00CCFF>Отрежь голову Командира и пришли ее мне. Потом уничтожь все следы.</color> +<color=#00CCFF>На этот раз встаньте поближе и приложи все силы. Сделай чистый разрез и сохраните голову в хорошем состоянии для моего исследования.</color>
+Nyto(0)<Speaker></Speaker>||:Может, помощь не успеет? Четыре Нито уже близко, с мечами в руках! +Не знаю, кроме головы, какие еще части тела будут хорошими мишенями. Надо подождать, пока они подойдут поближе, чтобы я мог всех сразу прикончить.
+Nyto(0)<Speaker>Командир</Speaker>||: +<c>Что вы делаете? <c>Это не то, о чём мы договаривались! <c>Это твой последний шанс. Хочешь что-нибудь сказать?
+Nyto(0)<Speaker></Speaker>||<黑屏1>:Четыре Куклы не отвечают. Они просто продолжают идти ко мне. +Нет... Я пока не могу двигаться. Они еще не достаточно близи. Еще чуть-чуть! +К тому же... я не знаю, какая из них...
+()||<BIN>9</BIN><黑屏2>:Как только Нито поднимет свои мечи—
+？？()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:«Я навлекла несчастье».
+()||<黑屏1><闪屏><duration>5</duration></闪屏><SE2>Gunfight</SE2>:...Бэнг! Бэнг, бэнг!
 ()||<BIN>158</BIN><黑屏2>:...
-Nyto(0)<Speaker></Speaker>||:I aim my pistol at the last standing Nyto. +She gazes at me, but I don't pull the trigger because...
-Nyto(0)<Speaker>Commander</Speaker>||<BGM>BGM_stage1</BGM>:My motto has always been "treat ladies gently".
-Nyto(0)<Speaker>Nyto?</Speaker>||:I told you you didn't have to respond to my code phrase. +But I like that reply. Looks like you know who we are.
-Nyto(0)<Speaker>Commander</Speaker>||: +<c>It's been a while, UMP45. <c>Is everyone from Squad 404 here?
-Nyto(0)<Speaker>Nyto under UMP45's control</Speaker>||<分支>1</分支>:I'm very honored to take part in this mission, Commander.
-Nyto(0)<Speaker>Nyto under UMP45's control</Speaker>||<分支>2</分支>:416 is with me. Gr G11 and 9 are giving us off-site support. Don't worry, we'll get you out.
-Nyto(0)<Speaker></Speaker>||<分支>1</分支>:Somehow I doubt your sincerity.
-Nyto(0)<Speaker></Speaker>||<分支>2</分支>:I'm relieved to hear that. I suppose I can at least trust you as allies.
-Nyto(0)<Speaker>Nyto under UMP45's control</Speaker>||:I would very much like to smile in response to that, but simply hacking into this Nyto is taking up all my processing capacity. +I can't do much about the face or the voice. Hope you don't mind.
-Nyto(0)<Speaker></Speaker>||:The Nyto walks toward the entrance and studies the door.
-Nyto(0)<Speaker>Nyto under UMP45's control</Speaker>||:They seem to take you very seriously. To keep this interrogation room under wraps, the door can only be opened from within, and the only ones with access are these Nytos. +Of course, we could've blasted it open from outside, but I didn't want to blow you to bits as well.
-()||:The Nyto fiddles with some mechanism, and the door opens with a creak. +Then a T-Doll walks in.
-HK416(0)<Speaker>416</Speaker>||:...Looks like you're safe, Commander.
-HK416(0)<Speaker></Speaker>||:The calm T-Doll that has been corresponding with me was 416. Then the one in control of the Nyto...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||:Nicely done, Commander. +You managed to finish off three Nytos all by yourself under these circumstances. +Now, let me add the finishing touch.
+Nyto(0)<Speaker></Speaker>||:Я направляю пистолет на последнюю оставшуюся в живых Нито. Она смотрит на меня, но я не нажимаю на курок, потому что...
+Nyto(0)<Speaker>Командир</Speaker>||<BGM>BGM_stage1</BGM>:Мой девиз всегда был: «Будь внимателен к женщинам».
+Nyto(0)<Speaker>Нито?</Speaker>||:Я же говорила, что тебе не нужно отвечать на мой код. +Но мне нравится твой ответ. Похоже, ты знаешь, кто мы такие.
+Nyto(0)<Speaker>Командир</Speaker>||: +<c>Давно не виделись, UMP45. <c>Все из отряда 404 здесь?
+Nyto(0)<Speaker>Нито под контролем UMP45</Speaker>||<分支>1</分支>:Я очень счастлива участвовать в этой миссии, Командир.
+Nyto(0)<Speaker>Нито под контролем UMP45</Speaker>||<分支>2</分支>:416-я со мной. Gr G11 и 9-я помогают нам удаленно. Не переживай, мы тебя вытащим.
+Nyto(0)<Speaker></Speaker>||<分支>1</分支>:Я как-то сомневаюсь в твоей искренности.
+Nyto(0)<Speaker></Speaker>||<分支>2</分支>:Я рада это слышать. По крайней мере, я могу доверять тебе как союзнику.
+Nyto(0)<Speaker>Нито под контролем UMP45</Speaker>||:Я бы с удовольствием улыбнулась в ответ, но просто взлом этой Нито занимает всю мою вычислительную мощность. +Я не могу ничего поделать с лицом и голосом. Надеюсь, ты не против.
+Nyto(0)<Speaker></Speaker>||:Нито подходит к входу и внимательно рассматривает дверь.
+Nyto(0)<Speaker>Нито под контролем UMP45</Speaker>||:Они, похоже, воспринимают тебя очень серьезно. Чтобы эта комната для допросов оставалась в секрете, дверь можно открыть только изнутри, и доступ к ней имеют только эти Нито.+ Конечно, мы могли бы взорвать ее снаружи, но я не хотела разнести тебя на куски.
+()||:Нито возится с каким-то механизмом, и дверь скрипуче открывается. +Затем входит Т-Кукла.
+HK416(0)<Speaker>416</Speaker>||:...Похоже, ты в безопасности, Командир.
+HK416(0)<Speaker></Speaker>||:Спокойная Т-Кукла, с которой я переписывался, была 416-я. А та, что управляла Нито...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||:Молодец, Командир. +Ты справился с тремя Нито в одиночку в таких условиях. +Теперь позволь мне добавить последний штрих.
 UMP45Mod(0)<Grey>;HK416(0)<Grey>||:
-()||:UMP45 executes the hacked Nyto with a bang.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||:Your suffering is over.
+()||:UMP45 с силой убивает взломанную Нито.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||:Ваши страдания закончились.
 UMP45Mod(0)<Grey>;HK416(0)<Grey>||:
-()<Speaker>Commander</Speaker>||: +<c>UMP45? ...Is that you? <c>We meet again, 416.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<分支>1</分支>:Like my new look? I don't think you get to see me too often.
-UMP45Mod(0);HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:Just give her some compliments. Who knows when we'll see each other again.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||<分支>1</分支>:The next time we meet, you'll probably have forgotten about me, or you won't dare remember me. +But I'll be happy so long as you remember our secret code. Now, let's get on with the job.
-HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:We've kept you waiting, Commander. Can you still move? +Your stories were a bit over-the-top, but you didn't deserve such punishment...
-HK416(0)<Speaker></Speaker>||<分支>2</分支>:416 walks up to me and looks a bit concerned. Either my mind is starting to get foggy, or the punishment really was that heavy...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||:416, hold the Commander up. We're getting out of here.
-UMP45Mod(0);HK416(0)<Speaker>416</Speaker>||:That's not going to be easy. Are they coming, 45?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Of course. They won't give up the Commander just like that. Let's go! We should find somewhere to hide first!
-()||<黑屏1>:...With the help of a brand new UMP45 and the same old 416, I stumble out of the interrogation room unsteadily. +At long last, I'm leaving this damn place, where I've spent god-knows-how many hours or days. But I can't help but look back at the remains of the Nytos in there... +...Remains? Or...? +I take in the fluid that looks exactly like blood and the body parts mangled by bullets.
-()||<BIN>9</BIN><黑屏2>:What on earth...are "they"? +With my brain still addled by chemicals, all kinds of notions tumble around uncontrollably inside my head. +UMP45's hack could only last for a minute at a time? +RO mentioned something about fluid leaking out of their bodies after they got shot...? +And the voice that sounded both real and hollow... +I can't think straight. The sounds of gunshots, artillery fire, and UMP45's calls overlap in my mind as I gradually slip into oblivion...
-()||<黑屏1><黑屏2>:What exactly have I achieved? Victory? Freedom? Or...an even deeper level of hell?
+()<Speaker>Командир</Speaker>||: +<c>UMP45? ...Это ты? <c>Мы снова встретились, 416-я.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<分支>1</分支>:Нравится мой новый образ? Думаю, ты меня не так часто сможешь увидеть.
+UMP45Mod(0);HK416(0)<Speaker>416</Speaker>||<分支>1</分支>:Просто скажи ей пару комплиментов. Кто знает, когда мы снова увидимся.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||<分支>1</分支>:Когда мы встретимся в следующий раз, ты, наверное, забудешь обо мне или не решишься вспомнить меня. +Но я буду счастлива, если ты запомнишь наш секретный код. А теперь давай приступим к делу.
+HK416(0)<Speaker>416</Speaker>||<分支>2</分支>:Мы заставили тебя ждать, Командир. Ты еще можешь двигаться? +Твои истории были немного приувеличены, но ты не заслуживал такого наказания...
+HK416(0)<Speaker></Speaker>||<分支>2</分支>:416-я подходит ко мне и выглядит немного обеспокоенной. Или у меня начинает затуманиваться разум, или наказание действительно было таким суровым...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416(0)||:416-я, держи Командира. Мы уходим отсюда.
+UMP45Mod(0);HK416(0)<Speaker>416</Speaker>||:Это будет не просто. Они идут, 45-я?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Конечно. Они не отпустят Командира просто так. Пошли! Нам нужно сначала найти место, где можно спрятаться!
+()||<黑屏1>:...С новой UMP45 и старой доброй 416-ой я неуверенно выхожу из комнаты для допросов. +Наконец-то я ухожу из этого ужасного места, где провёл бог знает сколько часов или дней. Но я не могу не оглянуться на останки Нито, лежащие там... +...Останки? Или...? +Я смотрю на жидкость, похожую на кровь, и на части тела, изрешеченные пулями.
+()||<BIN>9</BIN><黑屏2>:Что это за «они»? +Мой мозг все еще затуманен химикатами, и в голове крутятся всевозможные мысли. +Взлом UMP45 действует только минуту? +RO говорила что-то о жидкости, вытекающей из их тел после выстрела...? +И голос, который звучал одновременно реально и пусто... +Я не могу ясно мыслить. Звуки выстрелов, артиллерийского огня и крики UMP45 переплетаются в моей голове, пока я постепенно погружаюсь в небытие...
+()||<黑屏1><黑屏2>:Чего я добился? Победы? Свободы? Или... еще более глубокого уровня ада?
+
