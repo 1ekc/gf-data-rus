@@ -1,36 +1,37 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Commander, our unit in pursuit seems to have caught sight of Ange!
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:What?
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:But they're too far away; we could only capture a blurry image.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:The hair color and physique look right, but can't we get a clearer view?
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:The readings confirm her as human. She appears to be unconscious on the back of the T-Doll from the AR Team. They've split up with the rest of the party. +Ange has resumed her course and is moving stealthily, going from cover to cover, while Griffin's HOCs are circling around. They seem to be withdrawing.
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>;NPC-Yegor(3)||:Then go after her! But send a team to keep pursuing the Griffin T-Dolls. +Ange's condition will continue to deteriorate in the Yellow Zone, so she's planning to use the HOCs as decoys and slip away.
-NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Military Corporal</Speaker>||:Roger. Then what about the surveillance unit at the abandoned building?
-NPC-YegorDamage(0)<Speaker>Yegor</Speaker>||<黑点1>:Hold position and keep monitoring the building. Our forces are stretched thin, but we can't have any blind spots in our surveillance. + <color=#A9A9A9>(...Have I considered everything?)</color> +<color=#A9A9A9>(We send our main force to pursue the human we suspect to be Ange while keeping an eye on the Griffin T-Dolls. Even if Ange really is hiding in the building, the moment she tries to escape, we'll have her pinned down.)</color> + <color=#A9A9A9>(There aren't any other possibilities. There's no way she can turn the situation around!)</color> +<color=#A9A9A9>(I have that bitch completely cornered!)</color>
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>||<BIN>46</BIN><黑点2>:Commander...you mean...
-NPC-AngeDamage(1)<Speaker>Commander</Speaker>||:...<c>The HOCs. <c>If you can't escape, don't. <c>Want to be the bad guy, just this once?
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<分支>1</分支>:The HOCs? There aren't that many of them. They can't possibly counter the military's main force, can they?
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<分支>2</分支>:Don't escape? Then what exactly should I do?
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>||<分支>3</分支>:So long as I can live, I don't care if I have to watch all the humans in the Military get buried alive.
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>||<黑屏1>:What do you have in mind?
-()||<黑屏2>:...Ange listens to the Commander's explanation.
-AK12(0)<Speaker>AK-12</Speaker>||:You want to create roadside bombs using the HOCs' remaining artillery shells?
-AN94(0)<Speaker>AN-94</Speaker>||:That is no difficult task for T-Dolls, but the bombs will not be enough to blow up all of the Military's tanks.
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>||:What the commander means is to rig the building with the IEDs once they're ready. +Yegor will come sooner or later. He said he's gonna come for me and have his revenge, so these bombs will be our last bargaining chips.
-NPC-AngeDamage(1);AK12(0)<Speaker>AK-12</Speaker>||:You want to blackmail them into retreating with the IEDs?
-NPC-AngeDamage(1);AN94(0)<Speaker>AN-94</Speaker>||:Are you sure Yegor will come in person?
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>;AN94(0)||:Not at all, he isn't an impulsive man, but everyone has their impulsive moments. +If we're making my survival a priority, this is a chance we have to take.
-NPC-AngeDamage(1);AN94(0)<Speaker>AN-94</Speaker>||:But this will require the commander to lead the HOCs back here first. And even if we prepare the IEDs swiftly, we may not have long enough to rig the building. +Installing the explosives will take some time. I highly doubt we have the skills to do it... Besides, without the artillery shells, we will not have enough firepower in the subsequent battles.
-AK12(0)<Speaker>AK-12</Speaker>;AN94(0)||:Subsequent battles?
-AK12(0);AN94(0)<Speaker>AN-94</Speaker>||:Ange is not the only person still alive on the battlefield...
-AK12(0)<Speaker>AK-12</Speaker>||:Right...
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:I don't wish to delay someone else's rescue, especially when my chances are so small to begin with.
-NPC-AngeDamage(2)<Speaker>Commander</Speaker>||:... <c>You shouldn't just give up on your chance for survival. That's not the behavior of proper soldiers. <c>A good commander doesn't only do things that are 100% guaranteed to succeed. <c>I will buy the time. Please believe in me!
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||<分支>1</分支>:We won't give up, but if it really comes to that, I can't bear...
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||<分支>2</分支>:I know, but this time the odds are pretty much insurmountable.
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||<分支>3</分支>:Believe in you... I'm not sure, Commander. It's the military's main force we're coming up against...
-NPC-AngeDamage(2);AK12(0)<Speaker>AK-12</Speaker>||:Ange...
-NPC-AngeDamage(2)<Speaker>Angelia</Speaker>||:Fine... Commander, after so many battles, you've proved yourself to be far more capable than me. +I believe you'll make the right decision - perhaps a better one than mine.
-NPC-AngeDamage(1)<Speaker>Angelia</Speaker>||:If you've set your mind on executing this dangerous plan, we're going all in as well. But promise me - the moment something doesn't look right, please abort the mission and retreat. +Do you understand, Commander? No matter what your decision is, we're happy to accept it, but don't give up hope.
-NPC-AngeDamage(3)<Speaker>Angelia</Speaker>||<黑屏1>:Then let's get to work, Task Force DEFY. Start preparing the IEDs while the commander buys us more time!
+NPC-Yegor(3)<Speaker>Капрал</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Командир, кажется, наша группа заметила Анже!
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||:Что?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:Но они слишком далеко, мы смогли сделать только размытое фото.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||:Цвет волос и телосложение выглядят подходящими, но разве нельзя получить более четкое изображение?
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:Данные подтверждают, что она человек. Похоже, она без сознания, лежит на спине Т-Куклы из Команды AR. Они отделились от остальной части группы. +Анже продолжила свой путь и движется незаметно, переходя от укрытия к укрытию, в то время как ГОгПы Грифона кружат вокруг. Похоже, они отступают.
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>;NPC-Yegor(3)||:Тогда иди за ней! Но отправь команду, чтобы они продолжали преследовать Т-Куклы Грифона. +Состояние Анже будет ухудшаться в Желтой зоне, поэтому она планирует использовать ГОгПов в качестве приманки и ускользнуть.
+NPC-YegorDamage(0);NPC-Yegor(3)<Speaker>Капрал</Speaker>||:Понял. А как насчет группы наблюдения в заброшенном здании?
+NPC-YegorDamage(0)<Speaker>Егор</Speaker>||<黑点1>:Оставайтесь на позиции и продолжайте следить за зданием. Наши силы растянуты, но мы не можем допустить пробелов в наблюдении.+ <color=#A9A9A9>(...Я все учел?)</color> +<color=#A9A9A9>(Мы отправили основные силы преследовать человека, которого мы подозреваем в том, что он Анже, не спуская глаз с Т-Кукол Грифонов. Даже если Анже действительно прячется в здании, как только она попытается сбежать, мы ее поймаем.)</color> + <color=#A9A9A9>(Других вариантов нет. Она никак не сможет изменить ситуацию!)</color> +<color=#A9A9A9>(Я полностью загнал эту суку в угол!)</color>
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>||<BIN>46</BIN><黑点2>:Командир... ты имеешь в виду...
+NPC-AngeDamage(1)<Speaker>Командир</Speaker>||:...<c>ГОгПы. <c>Если не можешь сбежать, не беги. <c>Хочешь на этот раз быть злодеем?
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||<分支>1</分支>:ГОгПы? Их же не так много. Они же не смогут противостоять основным силам армии, правда?
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||<分支>2</分支>:Не убегать? Тогда что же мне делать?
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>||<分支>3</分支>:Пока я жива, мне плевать, даже если придется смотреть, как всех военных заживо зарывают.
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>||<黑屏1>:Что ты имеешь в виду?
+()||<黑屏2>:...Анже выслушивает объяснения Командира.
+AK12(0)<Speaker>AK-12</Speaker>||:Ты хочешь сделать придорожные бомбы из оставшихся арт.снарядов ГОгПов?
+AN94(0)<Speaker>AN-94</Speaker>||:Для Т-Кукол это не проблема, но бомб не хватит, чтобы взорвать все танки военных.
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>||:Командир имеет в виду, что нужно установить взрывные устройства в здании, как только они будут готовы. +Егор рано или поздно появится. Он сказал, что придет за мной и отомстит, так что эти бомбы будут нашей последней картой в игре.
+NPC-AngeDamage(1);AK12(0)<Speaker>AK-12</Speaker>||:Ты хочешь шантажировать их, чтобы они сдались с помощью самодельных взрывных устройств?
+NPC-AngeDamage(1);AN94(0)<Speaker>AN-94</Speaker>||:Ты уверен, что Егор придет сам?
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>;AN94(0)||:Вовсе нет, он не импульсивный человек, но у каждого бывают взрывы эмоций. +Если мы считаем моё выживание приоритетом, то мы должны рискнуть.
+NPC-AngeDamage(1);AN94(0)<Speaker>AN-94</Speaker>||:Но для этого Командиру сначала нужно будет привести сюда ГОгПы. И даже если мы быстро подготовим самодельные взрывные устройства, у нас может не хватить времени, чтобы установить их в здании. +Установка взрывчатки займет некоторое время. Я очень сомневаюсь, что у нас есть навыки, чтобы это сделать... Кроме того, без арт.снарядов у нас не будет достаточной огневой мощи в последующих боях.
+AK12(0)<Speaker>AK-12</Speaker>;AN94(0)||:Последующие сражения?
+AK12(0);AN94(0)<Speaker>AN-94</Speaker>||:Анже не единственная, кто остался в живых на поле боя...
+AK12(0)<Speaker>AK-12</Speaker>||:Именно...
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||:Я не хочу откладывать спасение кого-то другого, особенно когда у меня и так мало шансов.
+NPC-AngeDamage(2)<Speaker>Командир</Speaker>||:... <c>Не стоит просто сдаваться и отказываться от шанса выжить. Такое поведение не подобает настоящим солдатам. <c>Хороший командир не делает только то, что гарантирует 100% успех. <c>Я выиграю время. Прошу, поверь в меня!
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||<分支>1</分支>:Мы не сдадимся, но если дело дойдет до этого, я не выдержу...
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||<分支>2</分支>:Я знаю, но на этот раз шансы практически нулевые.
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||<分支>3</分支>:Верить в тебя... Не уверена, Командир. Мы столкнемся с основными силами армии...
+NPC-AngeDamage(2);AK12(0)<Speaker>AK-12</Speaker>||:Анже...
+NPC-AngeDamage(2)<Speaker>Анжелия</Speaker>||:Ладно... Командир, после стольких сражений ты доказал, что ты гораздо способнее меня. +Я уверена, что ты примешь правильное решение — возможно, даже лучшее, чем мое.
+NPC-AngeDamage(1)<Speaker>Анжелия</Speaker>||:Если ты решил осуществить этот рискованный план, мы тоже в деле. Но пообещай мне — как только что-то пойдет не так, отмени миссию и отступай. +Понял, Командир? Каким бы ни было твое решение, мы его примем, но не теряй надежду.
+NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||<黑屏1>:Тогда давайте приниматься за работу, оперативная группа DEFY. Начинайте готовить самодельные взрывные устройства, пока Командир выигрывает для нас время!
 ()||<黑点2><BIN>10</BIN>:
+
