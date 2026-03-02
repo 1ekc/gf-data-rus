@@ -1,24 +1,25 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><SE1>Alarm</SE1>:The time is 23:40. In the sewers under a certain alley in Belgrade.
-RO635(0)<Speaker>RO635</Speaker><Shake>||:W-what was that?!
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Hostiles?
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:No...sensors aren't registering any individuals, but the reflection surface has enlarged all of a sudden...
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Reflection? Enlarged? Explain it in a way that I understand!
-RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:Hush... That didn't sound like enemy reinforcements... +Hold on... The controls of the floodgates B2, G5, and K9 suddenly require higher clearance to operate?!
-RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Danger</BGM>:RO, look under our feet! Water! Water's coming in!
-RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Water?! +The floodgate that's stopping the current has been opened! They're trying to drown us!
-RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Drown us?
-RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Have you forgotten?! Our bodies are only equipped with the most rudimentary waterproof casings. If water manages to seep in, we'll definitely short out!
-RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Uh... Can we make it?
-RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:We can't possibly stay ahead of how quickly the water level is rising... +I see it! A platform just ahead! Can you jump up there, SOP-II?!
-RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:No problem! Hah!
-()||<黑点2><BIN>164</BIN>:SOP-II and RO jump onto the platform.
-RO635()||:We can probably last a little longer here... +Just a second, I'm trying to regain access to the floodgate controls... +...Dammit, access denied! +I knew it was fishy – overriding their protocols was too easy! We've been lured into a trap!
-M4 SOPMOD II()||:Can't you override it again?
-RO635()||:It was so easy the first time only because they wanted us to fall for it. Now they've fired up their defenses... +On top of that, they've also refreshed the clearance codes of the other floodgate controls. If I don't put a stop to that— +SOP-II, keep me on my feet! This might take some time, but I need to force my way through on Level II. Don't let me fall into the water!
-M4 SOPMOD II()||:Gotcha! I'll hold you tight!
-RO635()||:Thanks. Commander, you still there?
-Commander()||:... +<c>The firewalls found our trojan. I'm searching for a new entry route. <c>I've detected a large amount of data flow. Please be careful.
-RO635()||<黑屏1><分支>1</分支>:Thank you, Commander. +It's just as you said – it IS a trap... But we simply couldn't give up such an important lead.
-RO635()||<黑屏1><分支>2</分支>:Acknowledged, thanks for the heads up. +But you've already warned us that this could be a trap...though we simply cannot give up such an important lead.
-RO635(4)<Speaker>RO635</Speaker>||<黑点2><BIN>10</BIN>:I will try to retake control over the floodgates in Level II, but they might directly cut off external connections. +Considering the fact that they're operating remotely, I doubt they'd do that...and we can only hope I'm right... +To break through their defenses faster, please allow me to harness the computational capacity of more T-Dolls! Let's get started!
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><SE1>Alarm</SE1>:Сейчас 23:40. Мы в канализации под одним из переулков Белграда.
+RO635(0)<Speaker>RO635</Speaker><Shake>||:Ч-что это было?!
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Враги?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Нет... датчики никого не показывают, но неожиданно увеличилась площадь отражения...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Отражение? Увеличение? Объясните это так, чтобы я поняла!
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:Тише... Это не похоже на подкрепление врага... +Подожди... Управление шлюзами B2, G5 и K9 неожиданно требует большего доступа для работы?!
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Danger</BGM>:RO, смотри под ноги! Вода! Вода прибывает!
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Вода?! +Шлюз, который сдерживает поток, открыли! Они пытаются нас утопить!
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Утопить нас?
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Ты что, забыла?! Наши тела имеют только самую простую защиту от воды. Если вода просочится внутрь, мы точно выйдем из строя!
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Э-э... Мы успеем?
+RO635(5)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Мы не успеваем угнаться за тем, как быстро поднимается уровень воды... +Я вижу! Прямо впереди платформа! Ты можешь прыгнуть туда, SOP-II?!
+RO635(5);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:Без проблем! Ха!
+()||<黑点2><BIN>164</BIN>:SOP-II и RO прыгают на платформу.
+RO635()||:Мы, наверное, сможем продержаться здесь еще немного... +Секундочку, я пытаюсь восстановить доступ к управлению шлюзами... +...Черт, доступ запрещен! +Я знала, что здесь что-то не так — обойти их протоколы было слишком легко! Нас заманили в ловушку!
+M4 SOPMOD II()||:Не сможешь ли ты снова это изменить?
+RO635()||:В первый раз это было так просто только потому, что они хотели, чтобы мы попались. Теперь они усилили защиту... +К тому же, они обновили коды доступа к другим системам управления шлюзами. Если я не остановлю это... +SOP-II, держи меня на своих ногах! Это может занять некоторое время, но мне нужно пробиться на уровень II. Не дай мне упасть в воду!
+M4 SOPMOD II()||:Держу! Не упущу!
+RO635()||:Спасибо. Командир, ты еще здесь?
+Commander()||:... +<c>Брандмауэры нашли наш троян. Я ищу новый способ проникновения. <c>Я уловил большой поток данных. Будь осторожнее.
+RO635()||<黑屏1><分支>1</分支>:Спасибо, Командир. +Как ты и сказал, ЭТО ловушка... Но мы просто не могли упустить такую важную зацепку.
+RO635()||<黑屏1><分支>2</分支>:Поняла, спасибо за предупреждение. +Но ты уже говорил, что это может быть ловушка... хотя мы просто не можем упустить такую важную зацепку.
+RO635(4)<Speaker>RO635</Speaker>||<黑点2><BIN>10</BIN>:Я попробую вернуть контроль над шлюзами на уровне II, но они могут просто отключить внешние соединения. +Учитывая, что они работают удаленно, я сомневаюсь, что они это сделают... и нам остается только надеяться, что я права... +Чтобы быстрее прорвать их оборону, позвольте мне использовать вычислительные мощности большего количества Т-Кукл! Давайте приступим!
+
