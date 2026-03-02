@@ -1,3 +1,4 @@
-RO635-NoArmor(0)<Speaker>RO635</Speaker><通讯框>||<BIN>10</BIN>:The control panel has several ports. I need to seize them all to gain unrestricted access. +Some of the ports can only be seized by occupying the corresponding electronic node, some require us to destroy electronic entities, and the rest can be taken simply by walking up and flipping the switch. +Right, plan your move according to the circumstances.
-()<Speaker>【Hint】</Speaker>||:<color=#fff775>The enemies' movement pattern can be changed according to the situation in this map.</color>
-()<Speaker>【Hint】</Speaker>||:<color=#fff775>There are three ways to do that – occupy certain nodes, destroy certain enemies, and move to certain points.</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker><通讯框>||<BIN>10</BIN>:На панели управления есть несколько портов. Мне нужно захватить их все, чтобы получить полный доступ. +Некоторые порты можно захватить, только заняв соответствующий электронный узел, для некоторых нужно уничтожить электронные устройства, а остальные можно просто взять, подойдя и нажав на переключатель. Правильно, планируйте свои действия в зависимости от ситуации.
+()<Speaker>【Подсказка】</Speaker>||:<color=#fff775>На этой карте можно менять, как враги передвигаются, в зависимости от ситуации.</color>
+()<Speaker>【Подсказка】</Speaker>||:<color=#fff775>Есть три способа это сделать – захватить определенные точки, уничтожить определенных врагов и добраться до определенных мест.</color>
+
