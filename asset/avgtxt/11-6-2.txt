@@ -1,39 +1,40 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()<Speaker></Speaker>||<BIN>167</BIN><BGM>BGM_Empty</BGM><黑屏2>:...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:RO, do you copy? +Primary scan on the sewers is complete.
-FairyWarrior(0)<Speaker>Fairy</Speaker><Position>0,150</Position>||:Well? Am I great or what?!
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Other than the white bastards, what have you found?</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:I discovered a small hidden room with all sorts of firearms in there. If they all belong to the informant, he's awfully prepared...
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>But guns won't be enough at all against the white enemies... </color> +<color=#00CCFF>What about the informant's whereabouts?</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:I did detect a heat signature similar to that of a human, but it had disappeared by the time the Fairy made its way over there. According to the distribution pattern, he seems to be making for the central gate. It'll take the white enemies a while to catch up with him. 
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>They're definitely operating under someone's command... SOP-II, have you seen any Nytos?</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:No, the Fairy ran a very thorough sweep. No Nyto signals at all.
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>So this isn't an occasion that requires the presence of a Nyto...</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:What do we do now...? +Should we try to get to the informant before the white faction?
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>The terrain is too confined. Even if we get to him first, the white enemies will catch up one way or another, and a clash is inevitable.</color> +<color=#00CCFF>On top of more echelons, we'll also need support from the HOC.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:In the sewers?
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>In the sewers.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Okay...I just hope the echelons can enter the city in time... +Otherwise, it'll just be you, me, and the Fairy.
-M4 SOPMOD IIMod(0);FairyWarrior(0)<Speaker>Fairy</Speaker><Position>0,150</Position>||:Leave it all to me!
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Have faith in the Commander. I've already sent over the telemetry and simulation results.</color> +<color=#00CCFF>All we can do for now is wait for our orders.</color> +<color=#00CCFF>I hope the informant's information is worth all this hard work...</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Now that you mention it, do you know what the Commander is up to? +It'd be more reassuring if the Commander handles the situation in person...
-RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Stop grumbling. The Commander must be busy with something even more important. Or do you think the Commander would leave us in danger to sip a cappuccino in some random café?</color>
-()||<BGM>BGM_Empty</BGM><黑屏2><BIN>80</BIN>:...Meanwhile, in a certain café in Belgrade.
-Waiter()||<BGM>GF_Cafe</BGM>:Hello, one large cappuccino for you – warm and not too hot, just as you ordered. Please enjoy.
-()||:I nod and take the cup. +I take a sip to feel the temperature. It's exactly as warm as the coffee I usually made myself before I joined Griffin – perfect. +The waiter leaves the table, leaving me to enjoy the cappuccino in peace. +Having drunk instant coffee for so long, my mouth savors this freshly ground coffee the way a dry sponge soaks up clean water. +Thanks to the coffee and the psychological effect it has on me, I'm starting to perk up.
-NPC-Kalin(10)<Speaker>Kalin</Speaker>||:I've checked everything. +I can't believe there really isn't a single report on what happened. It was massive... Is no one gonna come and settle this at all?
-Commander()||:This kind of censorship is well within their capability. What's odd is how they aren't doing anything to follow-up.
-NPC-Kalin(10)<Speaker>Kalin</Speaker>||:You mean this isn't their style?
-Commander()||:This isn't anybody's style.
-()||:I turn toward the television in the café, which is showing the news.
-TV News()||:<color=#00CCFF>According to the Ministry of Foreign Affairs of the Neo-Soviet Union, Vasily Vasilievich Roshchin, Plenipotentiary of the Neo-Soviet Council of Mutual Assistance in Europe, and Mirko Milošević, Executive Officer of the Pan-European Convention on Mutual Assistance in Reconstruction, are scheduled to have a meeting in Belgrade in three days.</color> +<color=#00CCFF>In a previous interview, Roshchin's representative said that this meeting would not only deal with issues concerning bilateral collaboration between the alliances, it would also open discussions on how to resolve more territorial disputes...</color> +<color=#00CCFF>"We will do everything we can to restore peace and justice, as well as to protect the inviolable dignity of our people..."</color>
-TV News()||:<color=#00CCFF>Next—</color>
-TV News()||:<color=#00CCFF>An official in the Ministry of Welfare and Social Security revealed at an interview that rations for fifth-class citizens in the upcoming three months will be further reduced... This has sparked a new wave of demonstrations... At least three sectors have already—</color>
-NPC-Kalin(10)<Speaker>Kalin</Speaker>||:It seems that not everyone has it easy even in a city...
-()||:I do not reply to Kalina's remark. According to my terminal, four more batches of T-Dolls have been transported into Belgrade by train. +I gaze into the distance, where a cargo ship is also slowly slipping into the harbor on the Danube. Serial no. 52318. The rest of our heavy weapons are on that ship. +Looks like the help that Havier promised has arrived. Now all that's left is...
-()||:Click...click... +I received RO635's report on what has transpired along with a map.
-Commander()||:Now all that's left is...the informant who can bring everything together.
-NPC-Kalin(10)<Speaker>Kalin</Speaker>||:What was that, Commander?
-()||:What a restless day it's been. Hopefully, this will be the final step.
-Commander()||:Time to go, Kalin.
-NPC-Kalin(10)<Speaker>Kalin</Speaker>||<黑屏1>:Huh? Already? I haven't even finished my cake!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:RO, ты меня слышишь? +Первичный осмотр канализации закончен.
+FairyWarrior(0)<Speaker>Фея</Speaker><Position>0,150</Position>||:Ну, как? Я классная, да?!
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Кроме этих белых ублюдков, что ты еще нашла?</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Я наткнулась на маленькую потайную комнату, где было полно всякого оружия. Если оно все принадлежит информатору, то он очень хорошо подготовился...
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Но оружия будет явно недостаточно против белых врагов... </color> +<color=#00CCFF>А где сейчас информатор?</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Я заметила тепловой след, похожий на человеческий, но он исчез, когда Фея добралась до этого места. +Судя по расположению следов, он, похоже, направляется к центральным воротам. Белым врагам понадобится время, чтобы его догнать.
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Они точно действуют по чьему-то приказу... SOP-II, ты видела каких-нибудь Нито?</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Нет, Фея провела очень тщательную проверку. Никаких сигналов Нито.
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Значит, это не тот случай, когда нужна Нито...</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Что теперь делать...? +Может, попытаемся добраться до информатора раньше белых?
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Территория слишком ограничена. Даже если мы доберёмся до него первыми, белые враги всё равно нас догонят, и столкновение неизбежно.</color> +<color=#00CCFF>Кроме того, нам понадобится помощь от ГоГп.Кроме того, нам понадобится помощь от ГОгПов.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:В канализации?
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>В канализации.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Ладно... Надеюсь, отряд успеет войти в город вовремя... +Иначе останемся только ты, я и Фея.
+M4 SOPMOD IIMod(0);FairyWarrior(0)<Speaker>Фея</Speaker><Position>0,150</Position>||:Предоставьте все мне!
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Доверяй Командиру. Я уже отправила телеметрию и результаты симуляции.</color> +<color=#00CCFF>Пока что мы можем только ожидать приказов.</color> +<color=#00CCFF>Надеюсь, информация от информатора стоит всех этих усилий...</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Раз уж ты об этом заговорила, ты не знаешь, что там делает Командир? +Было бы спокойнее, если бы Командир сам разобрался с этой ситуацией...
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Хватит ворчать. Командир наверняка занят чем-то еще более важным. Или ты думаешь, он оставил бы нас в опасности, чтобы попить капучино в каком-нибудь случайном кафе?</color>
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>80</BIN>:...А тем временем в одном из кафе в Белграде...
+Waiter()||<BGM>GF_Cafe</BGM>:Привет, вот твой большой капучино – теплый и не слишком горячий, как ты и просил. Наслаждайся.
+()||:Я киваю и беру чашку. +Я отпиваю глоток, чтобы прочувствовать температуру. Он точно такой же теплый, как кофе, который я обычно делал себе, прежде чем присоединился к Грифону — идеальный. +Официант уходит от стола, оставляя меня наслаждаться капучино в тишине. +После того, как я так долго пил растворимый кофе, я наслаждаюсь этим свежемолотым кофе так, как сухая губка впитывает чистую воду. +Благодаря кофе и его психологическому эффекту на меня, я прихожу в себя.
+NPC-Kalin(10)<Speaker>Калин</Speaker>||:Я всё проверила. Не могу поверить, что нет ни одного сообщения о том, что произошло. Это было масштабно... Никто не собирается это уладить?
+Commander()||:Такая цензура вполне в их силах. Странно, что они ничего не делают, чтобы это контролировать.
+NPC-Kalin(10)<Speaker>Калин</Speaker>||:Ты хочешь сказать, что это не в их стиле?
+Commander()||:Это ни на кого не похоже.
+()||:Я поворачиваюсь к телевизору в кафе, где показывают новости.
+TV News()||:<color=#00CCFF>По информации Министерства Иностранных Дел Нео-Советского Союза, Василий Васильевич Рощин, Уполномоченный Нео-Советского Совета Взаимной Помощи в Европе, и Мирко Милошевич, Исполнительный Директор Общеевропейской Конвенции о Взаимной Помощи в Восстановлении, собираются встретиться в Белграде через три дня. </color> +<color=#00CCFF>В одном из предыдущих интервью представитель Рощина сказал, что на этой встрече будут обсуждаться не только вопросы двустороннего сотрудничества между альянсами, но и пути решения территориальных споров... </color> +<color=#00CCFF>«Мы сделаем всё, что в наших силах, чтобы восстановить мир и справедливость, а также защитить неприкосновенное достоинство нашего народа...»</color>
+TV News()||:<color=#00CCFF>Далее—</color>
+TV News()||:<color=#00CCFF>Один чиновник из Министерства Социального Обеспечения рассказал в интервью, что в ближайшие три месяца продовольственные пайки для граждан пятого класса будут еще больше сокращены... Это вызвало новую волну протестов... По крайней мере три сектора уже...</color>
+NPC-Kalin(10)<Speaker>Калин</Speaker>||:Похоже, что даже в городе не всем живется легко...
+()||:Я не отвечаю на замечание Калины. По данным моего терминала, еще четыре партии Т-Кукол были доставлены в Белград поездом. +Я смотрю вдаль, где грузовое судно тоже медленно скользит в гавань на Дунае. Серийный номер 52318. Остальное наше тяжелое вооружение находится именно на этом судне. +Похоже, помощь, которую обещал Хавьер, прибыла. Теперь осталось только...
+()||:Клик... клик... +Я получил отчет RO635 о том, что произошло, вместе с картой.
+Commander()||:Теперь осталось только... найти информатора, который сможет все это собрать воедино.
+NPC-Kalin(10)<Speaker>Калин</Speaker>||:Что это было, Командир?
+()||:Какой же это был напряженный день. Надеюсь, это будет завершающим этапом.
+Commander()||:Пора идти, Калин.
+NPC-Kalin(10)<Speaker>Калин</Speaker>||<黑屏1>:Э? Уже? Я еще даже не доела свой кусок тортика!
+
