@@ -1,30 +1,31 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><黑屏1>:Eight hours later.
-()||<BIN>167</BIN><BGM>BGM_Sneak</BGM><黑屏2>:The time is 22:20, inside the enemy outpost in the sewers...
-RO635(0)<Speaker>RO635</Speaker>||:Are you sure it's alright to sneak in here like this...?
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:It's fine. The Fairy has scouted the route out carefully. +Although the route is all sorted, there are a lot of floodgates in the sewers. If the white trash-cans aren't too stupid, they'll have assumed control over them. +If they lock the gates, won't we be caught red-handed?
-RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:You have a point, but we've burrowed in way too deep... It'll be bad news if we get surrounded...
-RO635(3);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:We'll leave right away once we finish helping the Commander. Everything will be alright!
-RO635(3)<Speaker>RO635</Speaker>||:Are you sure...? +Huh? Is this...a Griffin comms request?
-Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>Evening. Miss RO635, right?</color>
-RO635(0)<Speaker>RO635</Speaker>;Mk46(0)||:Uh, hello, and you are...?
-RO635(0);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>Mk46. Just sent you my ID. I'm the Commander's temporary adjutant for this operation.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;Mk46(0)||:This new girl seems pretty unmotivated...
-M4 SOPMOD IIMod(0);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>Hey, I heard that...</color> +<color=#00CCFF>Anyways...my assault echelon is prepping their gear right now. They'll reach the entrance of the sewers in ten minutes.</color>
-RO635(2)<Speaker>RO635</Speaker>;Mk46(0)||:Thanks, Mk46. I hope you have enough manpower with you. +Please standby at the designated location and stay put until you're ordered to attack.
-RO635(2);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>Right. I'll be waiting for you then.</color> +<color=#00CCFF>The Commander has sent me the mission plan. Once the echelon is in place, we'll be ready to begin the operation.</color>
-RO635(0)<Speaker>RO635</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:Roger that.
-RO635(0)<Speaker>RO635</Speaker>||<黑点2><BIN>10</BIN><BGM>BGM_stage11</BGM>:Commander, thank you for your support. I can see the location of the echelon you dispatched. +While we were waiting for you, SOP-II and I have found the control center without alerting the enemies. +I know the location is pretty dangerous, but our echelon can provide more assistance from this side. +Here's my plan – the echelon will block access to the sewers at the entrance while I access the terminal connected to the platform network in the control center. +I'm guessing that the enemies will close the floodgate to cut off our informant's escape route, so I'm going to enter Level II and tamper with their control access to the sewers gate. +After that, SOP-II will head in to find the informant and bring him out, then regroup with our echelon at the entrance.
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Can't you simply seize control over the floodgate yourself and lock up the white trash-cans?
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Breaking into the system like that takes a lot more time, but our window of finding the informant is getting smaller and smaller.
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Ugh...fine...
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:I need to devote most of my processing power to hacking into the gate control system, so please take care of the echelon, Commander. +SOP-II, can you mark the gates and nodes on the map for me?
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Sure!
-RO635(0)<Speaker>RO635</Speaker>||:I have to boot the enemies out from Level II before they notice me... Right, then let's get started!
-RO635(0)<Speaker>??</Speaker>||:Do n— enter th— con— system.
-RO635(4)<Speaker>RO635</Speaker>||:What's that...?
-RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? What's what?
-RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Was that you talking just now...?
-RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:No, I didn't say anything at all?
-RO635(3)<Speaker>RO635</Speaker>||<黑点1>:Might be my imagination then... +Never mind that, time is short so let's start the operation!
+()||<黑屏2><黑屏1>:Восемь часов спустя.
+()||<BIN>167</BIN><BGM>BGM_Sneak</BGM><黑屏2>:Сейчас 22:20, внутри захваченного врагом поста в канализации...
+RO635(0)<Speaker>RO635</Speaker>||:Ты уверену, что можно так просто пробираться сюда...?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Все нормально. Фея тщательно изучила маршрут. +Хотя путь проложен, в канализации много шлюзов. Если белые отбросы не слишком тупые, они, наверное, контролируют их. +Если они закроют шлюзы, нас же поймают?
+RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Ты права, но мы углубились слишком сильно... Будет плохо, если нас окружат...
+RO635(3);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Мы уйдем сразу, как только поможем Командиру. Все будет хорошо!
+RO635(3)<Speaker>RO635</Speaker>||:Ты уверена...? +Ооо? Это... запрос на связь от Грифона?
+Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>Добрый вечер. Мисс RO635, верно?</color>
+RO635(0)<Speaker>RO635</Speaker>;Mk46(0)||:Э-э, привет, а ты кто?
+RO635(0);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>Мк46. Только что отправила тебе свой ID. Я временный адъютант Командира в этой операции.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;Mk46(0)||:Эта новая девчонка кажется совсем невоодушевленной...
+M4 SOPMOD IIMod(0);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>Эй, я слышала это...</color> +<color=#00CCFF>В общем... мой штурмовой отряд сейчас подготавливает снаряжение. Через десять минут они будут у входа в канализацию.</color>
+RO635(2)<Speaker>RO635</Speaker>;Mk46(0)||:Спасибо, Mk46. Надеюсь, у тебя достаточно бойцов. +Пожалуйста, жди в назначенном месте и не сходи с места, пока не получишь приказ атаковать.
+RO635(2);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>Ладно. Буду ждать уведомления.</color> +<color=#00CCFF>Командир прислал мне план миссии. Как только вся группа будет на месте, мы сможем начать операцию.</color>
+RO635(0)<Speaker>RO635</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:Принято.
+RO635(0)<Speaker>RO635</Speaker>||<黑点2><BIN>10</BIN><BGM>BGM_stage11</BGM>:Командир, спасибо за поддержку. Я вижу, где находится отряд, который ты отправил. +Пока мы ждали тебя, SOP-II и я нашли центр управления, не вызвав подозрений у врагов. +Я знаю, что это место довольно опасное, но твой отряд может оказать больше помощи с этой стороны. +Вот мой план: отряд заблокирует доступ к канализации у входа, а я подключусь к терминалу, связанному с сетью платформы в центре управления. +Думаю, враги закроют шлюз, чтобы перекрыть путь отступления нашему информатору, поэтому я собираюсь войти на Уровень II и подделать их систему управления доступом к шлюзу канализации. +После этого SOP-II пойдет искать информатора и выведет его, а затем воссоединится с нашим отрядом у входа.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Не можешь просто взять и сам закрыть шлюз, а белых ублюдков запереть?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Взлом системы таким образом занимает гораздо больше времени, но у нас все меньше времени на поиски информатора.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Ладно...
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Мне нужно сосредоточить все силы на взломе системы управления вратами, так что, Командир, позаботься об отряде. +SOP-II, можешь отметить врата и узлы на карте?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Конечно!
+RO635(0)<Speaker>RO635</Speaker>||:Я должна изгнать врагов с Уровня II, пока они меня не заметили... Ладно, давайте начинать!
+RO635(0)<Speaker>??</Speaker>||:Не— входи в э—ту— систему.
+RO635(4)<Speaker>RO635</Speaker>||:Что это...?
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:А? Ты про что?
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Это ты только что сказала...?
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Нет, я ничего не говорила?
+RO635(3)<Speaker>RO635</Speaker>||<黑点1>:Может, это просто моё воображение... +Неважно, времени мало, так что давайте начинать операцию!
 ()||<黑点2><BIN>10</BIN>:
+
