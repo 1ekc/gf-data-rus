@@ -2202,11 +2202,11 @@
   {
     id: 170
     mission_id: "105"
-    description: Just a few months ago, I would never have thought I'd be here, facing circumstances such as these...
+    description: Всего несколько месяцев назад я бы и подумать не мог, что окажусь здесь, в такой ситуации...
     scripts: 11-1-1,11-1-2
     campaign: 11
     bgm: BGM_Frontline
-    title: Torrent Breaker
+    title: Торрент-брейкер
     is_util: 1
     start: 11-1-1
     point: 9245:11-1-4-Point9245
@@ -2216,11 +2216,11 @@
   {
     id: 171
     mission_id: "106"
-    description: To find our target informant, we have come to this unfamiliar city and commenced a low-profile hacking operation.
+    description: Чтобы найти нужного нам информатора, мы приехали в этот незнакомый город и начали незаметную кибероперацию.
     scripts: 11-2-1,11-2-2
     campaign: 11
     bgm: BGM_Frontline
-    title: Electronic Eye
+    title: Электронный глаз
     is_util: 1
     start: 11-2-1
     first: 11-2-2
@@ -2229,11 +2229,11 @@
   {
     id: 172
     mission_id: "107"
-    description: While we were trawling through the records, a civilian Doll dressed as a maid caught our eye. In fact, not just ours...
+    description: Пока мы просматривали записи, нам на глаза попалась гражданская Кукла, одетая как горничная. И не только нам...
     scripts: 11-3-1,11-3-2
     campaign: 11
     bgm: BGM_Frontline
-    title: Silent Pursuit
+    title: Безмолвное преследование
     is_util: 1
     start: 11-3-1
     first: 11-3-2
@@ -2242,11 +2242,11 @@
   {
     id: 173
     mission_id: "108"
-    description: We're running out of time! Her neural cloud is about to... This is our last hope! We mustn't -
+    description: Время на исходе! Ее нейронное облако вот-вот... Это наша последняя надежда! Мы не должны...
     scripts: 11-4-1,11-4-2
     campaign: 11
     bgm: BGM_Frontline
-    title: Prior to Destruction
+    title: За многевение до разрушения
     is_util: 1
     start: 11-4-1
     first: 11-4-2
@@ -2255,11 +2255,11 @@
   {
     id: 174
     mission_id: "109"
-    description: Following instructions, we arrived at our destination - the hiding place of our informant. I hope we aren't too late, but things aren't looking good...
+    description: Следуя инструкциям, мы добрались до места назначения — тайника нашего информатора. Надеюсь, мы не опоздали, но дела обстоят не очень хорошо...
     scripts: 11-5-1,11-5-2
     campaign: 11
     bgm: BGM_Frontline
-    title: House in the Street
+    title: Дом на улице
     is_util: 1
     start: 11-5-1
     point: 9015:11-5-4-Point9015
@@ -2269,11 +2269,11 @@
   {
     id: 175
     mission_id: "110"
-    description: After extensive investigation, we have confirmed that the informant has been brought...underground. That will be where this mission ends.
+    description: После тщательного расследования мы выяснили, что информатор ушел в подполье. На этом наша миссия закончится.
     scripts: 11-6-1,11-6-2
     campaign: 11
     bgm: BGM_Frontline
-    title: Underworld
+    title: Подземный мир
     is_util: 1
     start: 11-6-1
     first: 11-6-2
@@ -2282,11 +2282,11 @@
   {
     id: 176
     mission_id: "111"
-    description: To find out Ange's whereabouts, the Commander has led us to the train station. We'll be taking the train bound for Belgrade, where we are to find the only person with this information.
+    description: Чтобы узнать, где Анже, Командир привел нас на вокзал. Мы поедем на поезде в Белград, где найдем единственного человека, который знает, где она.
     scripts: 11-1-1E,11-1-2E
     campaign: 11
     bgm: BGM_Frontline
-    title: Strange Journey
+    title: Странное путешествие
     is_util: 1
     start: 11-1-1E
     point: 9102:11-1-4E-Point9102
@@ -2296,11 +2296,11 @@
   {
     id: 177
     mission_id: "112"
-    description: We have confirmed the informant's location. All that's left is to seize the outpost and rescue our target. But first, we must prepare.
+    description: Мы выяснили, где находится информатор. Осталось только захватить аванпост и спасти нашего человека. Но сначала надо подготовиться.
     scripts: 11-2-1E,11-2-2E
     campaign: 11
     bgm: BGM_Frontline
-    title: Plan of Attack
+    title: План Атаки
     is_util: 1
     start: 11-2-1E
     first: 11-2-2E
@@ -2309,11 +2309,11 @@
   {
     id: 178
     mission_id: "113"
-    description: The preparation is complete. A huge commotion has been created so that we can take over the control room. Now let's finally storm this outpost in the sewers!
+    description: Подготовка закончена. Мы устроили такую шумиху, чтобы захватить диспетчерскую. Теперь давайте наконец штурмуем этот аванпост в канализации!
     scripts: 11-3-1E,11-3-2E
     campaign: 11
     bgm: BGM_Frontline
-    title: Fishing in Troubled Waters
+    title: Рыбалка в Неспокойных Водах
     is_util: 1
     start: 11-3-1E
     first: 11-3-2E
@@ -2322,11 +2322,11 @@
   {
     id: 179
     mission_id: "114"
-    description: Just a few months ago, I would never have thought I'd be here, facing circumstances such as these, with our faith...placed entirely on...
+    description: Всего несколько месяцев назад я бы и не подумал, что окажусь здесь, в такой ситуации, когда наша вера... полностью зависит от...
     scripts: 11-4-1E,11-4-2E
     campaign: 11
     bgm: BGM_Frontline
-    title: Great Escape
+    title: Великий Побег
     is_util: 1
     start: 11-4-1E
     point: 9292:11-4-4E-Point9292
