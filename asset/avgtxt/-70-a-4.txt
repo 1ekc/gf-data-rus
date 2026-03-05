@@ -97,32 +97,32 @@ NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||:Thank you, goodbye.
 ()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:A breeze blows, and she feels a little cold. +Not because an in-built sensor tells her that the temperature is low, but because she can feel the chill on her skin and the shudder in her muscles. +After all, she is no longer a Doll with no physical sensation.
 ()<Speaker></Speaker>||:She strolls leisurely down the street, in no hurry to return to her accommodation. +She has done the same thing many times before, but never has it felt so liberating... and stifling.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:An untimely call interrupts her peaceful promenade.
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||<BGM>GF_22W_BGM_1</BGM>:<color=#00CCFF>Miss Pandora, have you completed the mission?</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||<BGM>GF_22W_BGM_1</BGM>:<color=#00CCFF>Miss Pandora, have you completed the mission?</color>
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||:<color=#00CCFF>I'd like to remind you that I wish to be addressed as Miss Embla Petrovskaya.</color>
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>...Fine, Miss Embla.</color> +<color=#00CCFF>I'll let you enjoy yourself as a human in peace.</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>...Fine, Miss Embla.</color> +<color=#00CCFF>I'll let you enjoy yourself as a human in peace.</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>||:If the Devil can satisfy all your heart's desires, will you sell your soul?
 ()<Speaker></Speaker>||:Embla reads the flyer in her hand again. The paper crinkles in the wind by the river.
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Unfortunately, I don't actually have a soul.</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Unfortunately, I don't actually have a soul.</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:Tut-tut, I thought you and I would get along well at Paradeus.
-NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Rather than having this question posed to me, I prefer being the one who poses the question.</color> +<color=#00CCFF>If I must choose a role from the play, I think I'd make a good Mephistopheles.</color>
+NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Rather than having this question posed to me, I prefer being the one who poses the question.</color> +<color=#00CCFF>If I must choose a role from the play, I think I'd make a good Mephistopheles.</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:...Well, that's a shame.
-NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Looks like you've chosen a place.</color>
+NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Looks like you've chosen a place.</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:There is no better place than this. +The location is also perfect.
-NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>The old opera house built in 1880?</color> +<color=#00CCFF>Thrice reduced to ruin, and thrice rebuilt.</color> +<color=#00CCFF>It is indeed a great choice.</color>
+NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>The old opera house built in 1880?</color> +<color=#00CCFF>Thrice reduced to ruin, and thrice rebuilt.</color> +<color=#00CCFF>It is indeed a great choice.</color>
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:Frankfurt is a metropolis rebuilt on the ruins of war. +How heartbreakingly beautiful.
-NPC_Embla_RPK(1);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>What, have you also picked up the humans' penchant for sentimentality?</color> +<color=#00CCFF>That's one of their many inherent flaws.</color>
+NPC_Embla_RPK(1);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>What, have you also picked up the humans' penchant for sentimentality?</color> +<color=#00CCFF>That's one of their many inherent flaws.</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:Compared to dealing with Nemhran, who is incredibly dull, and Bramedb, who gets on your nerves, isn't it much more fun talking to me?
-NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>No, it's just part of my job to keep tabs on you.</color>
+NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>No, it's just part of my job to keep tabs on you.</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:But you're not around.
-NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Oh? How can you be so sure?</color>
+NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Oh? How can you be so sure?</color>
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:...I'm every bit as sharp as you, Morridow.
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Ha, is it just my imagination?</color> +<color=#00CCFF>You're not as meek as you used to be.</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Ha, is it just my imagination?</color> +<color=#00CCFF>You're not as meek as you used to be.</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>||:It could be the Angelia in me. +Her Neo-Soviet blood must've made me a bit impure.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:A soft snicker comes through the comms channel. Embla lowers her eyes.
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>||:Any good news for me?
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Congratulations, DEFY has reached Frankfurt, just as we expected.</color> +<color=#00CCFF>They made it before the rigorous inspections today.</color> +<color=#00CCFF>Had they been delayed even by a little, your plan could be derailed.</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Congratulations, DEFY has reached Frankfurt, just as we expected.</color> +<color=#00CCFF>They made it before the rigorous inspections today.</color> +<color=#00CCFF>Had they been delayed even by a little, your plan could be derailed.</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>||:Not necessarily, Morridow. +You should never underestimate Task Force DEFY. Don't make the same stupid mistake as Gray. +You have no idea how bound and determined of a Doll AK-12 is. +If she wants to come, she WILL make her way here even if she must swim down the Main.
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Then let me congratulate you in advance.</color> +<color=#00CCFF>I hope you get everything you wish for, Miss Embla.</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Then let me congratulate you in advance.</color> +<color=#00CCFF>I hope you get everything you wish for, Miss Embla.</color>
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||:I've made a deal with the Devil. I will not falter so easily before I attain my goal.
 ()||<黑屏1><CGDelay>0.7</CGDelay><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>725</BIN>:Stasi HQ, Wiesbaden District, Frankfurt.

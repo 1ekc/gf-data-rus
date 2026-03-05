@@ -6,7 +6,7 @@ SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Нашла! Теперь RO мо
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage10</BGM>:...! Что это за звук?! 
 SOPIIDamage(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>Супер, наконец-то убрали последнюю кучу мусора из Грифона.</color>+<color=#00CCFF>За исключением... последней порции.</color>
 SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:...Пугало!
-SOPIIDamage(3);BOSS-1(0)<Speaker>Пугало</Speaker><通讯框>||:<color=#00CCFF>Почему ты прячешься на нашем складе?</color>+<color=#00CCFF>Ты думала, что самое опасное место будет самым безопасным?</color>+<color=#00CCFF>С другой стороны, ты же значительно отсрочила свою смерть благодаря самоотверженности твоих друзей.</color>
+SOPIIDamage(3);BOSS-1(0)<Speaker>Пугало</Speaker><scan><通讯框>||:<color=#00CCFF>Почему ты прячешься на нашем складе?</color>+<color=#00CCFF>Ты думала, что самое опасное место будет самым безопасным?</color>+<color=#00CCFF>С другой стороны, ты же значительно отсрочила свою смерть благодаря самоотверженности твоих друзей.</color>
 SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:Заткнись, сучка!+Я тебя уничтожу так, как ты даже представить себе не можешь!
 SOPIIDamage(3);BOSS-1(0)<Speaker>Пугало</Speaker>||:<color=#00CCFF>Конечно. В конце концов, мы обе просто... делаем свою работу.</color>+<color=#00CCFF>Уничтожить этих отбросов. Уничтожить тебя. Для меня это одно и то же.</color>
 SOPIIDamage(3)<Speaker></Speaker>||:...

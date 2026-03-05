@@ -1,7 +1,7 @@
  ()||<BGM>BGM_War</BGM><BIN>1</BIN><Night><SE1>Battlefield</SE1>:A Griffin squad raids the Sangvis command center and is fighting head-to-head with Ouroboros.
 Weaver(2)<Speaker>Ouroboros</Speaker>||<SE2>Gunfight</SE2>:Damn it, an attack by Griffin!+They must be under the command of Squad 404... So, they're alive after all!
 ？？()<Speaker>???</Speaker>||:Guess again, Ouroboros.
-OTs14(0)<Speaker>Ots-14</Speaker><通讯框>||<SE1>Battlefield</SE1>:That undignified look of distress on your face... It doesn't suit you.
+OTs14(0)<Speaker>Ots-14</Speaker><scan><通讯框>||<SE1>Battlefield</SE1>:That undignified look of distress on your face... It doesn't suit you.
 Weaver(2)<Speaker>Ouroboros</Speaker>;OTs14(0)||<SE2>Gunfight</SE2>:OTs-14, you're still alive?
 Weaver(2);OTs14(0)<Speaker>OTs14</Speaker>||:This is how life is, Ouroboros, not everything will go your way.
 Weaver(1)<Speaker>Ouroboros</Speaker>;OTs14(0)||<SE1>Battlefield</SE1>:......+You're right. Savoring your deaths without having to do any work myself isn't very likely to happen...

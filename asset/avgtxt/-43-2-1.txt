@@ -5,7 +5,7 @@ NPC-Dima(1)<Speaker>Dima</Speaker>||:Dammit!+ You can't trap me here, I'm tellin
 NPC-Dima(1)<Speaker>Dima</Speaker>||:
 ()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning. ID Code is locked.
 NPC-Dima(1)<Speaker>Dima</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:...!
-HK416(6)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>GF_xDivision_Scene3</BGM>:<color=#00CCFF>Don't bother trying. I won't let you leave.</color>
+HK416(6)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>GF_xDivision_Scene3</BGM>:<color=#00CCFF>Don't bother trying. I won't let you leave.</color>
 NPC-Dima(1)<Speaker>Dima</Speaker>;HK416(6)||:Was this all your doing, 416...
 NPC-Dima(1);HK416(6)<Speaker>???</Speaker>||:<color=#00CCFF>Please address me by my real name.</color>
 NPC-Dima(1)<Speaker>Dima</Speaker>;HK416(6)||:...That's not your real name, and I didn't mean to turn you into this.
@@ -38,7 +38,7 @@ ART556(0)<Speaker>ART556</Speaker>||:All the supply points we've come across so 
 P7(0)<Speaker>P7</Speaker>||:(Sobs) Chocolate bars! My chocolate bars!
 VSK(0)<Speaker>VSK-94</Speaker>||:These things are usually first-come-first-served. Since most of the early-game supplies have already been looted and we just fought quite a few battles, the supply situation might become even more dire going forward.+We need to ensure we have ample supplies in order to carry on, M870.
 M870P(0)<Speaker>M870</Speaker>||:We'll think about that later.+Right, we need to wrap this up properly. Huddle closer so we can take a group photo while we still have such a good "backdrop".+Alright, ready? Say chee—
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, the weather is getting worse. Delaying any further will severely hinder the operation.</color>+<color=#00CCFF>Please proceed to the Dark Zone as soon as possible and find the medicine!</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, the weather is getting worse. Delaying any further will severely hinder the operation.</color>+<color=#00CCFF>Please proceed to the Dark Zone as soon as possible and find the medicine!</color>
 M870P(0)<Speaker>M870</Speaker>||:Why is it that EVERY TIME I'm enjoying myself, this woman gets up in my business with that infuriating mug of hers?+Can't we turn her off?
 ART556(0)<Speaker>ART556</Speaker>||:I tried, but it doesn't seem to work. Even turning off the game's sound effects doesn't help.
 VSK(0)<Speaker>VSK-94</Speaker>;ART556(0)||:I tried turning off a few things myself, but there's this music which keeps playing. It doesn't seem to be coming from the game itself.
@@ -48,7 +48,7 @@ VSK(0);ART556(0)<Speaker>ART556</Speaker>||:Yeah, the perps are all dead. You sh
 VSK(0);P7(0)<Speaker>P7</Speaker>||:Tsk, looks like you just don't have the refined taste that I do.
 VSK(0);P7(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Ka-click.
 VSK(0)<Speaker>VSK-94</Speaker>||:...Much better.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The innocent civilians of the city desperately need those medicines to ease the misery of the plague. This operation is a meaningful part of saving the city. </color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The innocent civilians of the city desperately need those medicines to ease the misery of the plague. This operation is a meaningful part of saving the city. </color>
 M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)||:Pfffft, that's cute. If taking some meds could save the city, then all you'd have to do is bat your eyelashes at the criminals and they'd rediscover their consciences, then proceed to turn themselves in at the police station, right?
 NPC-Dima(1)<Speaker>Dima</Speaker>||:...I...!
 VSK(0)<Speaker>VSK-94</Speaker>||:To think even an NPC could be at a loss for words.

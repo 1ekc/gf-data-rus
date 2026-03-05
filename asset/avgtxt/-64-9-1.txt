@@ -52,14 +52,14 @@ NPC-Motoko(0)<Speaker>Commander</Speaker><Position>-40,130</Position><同时置�
 ()||<SE1>AVG_21Winter_FT_Heel</SE1><BGM>BGM_Empty</BGM>:Footsteps once again echo through the cavernous underground tunnel.
 NPC-HK433(0)<Speaker>433</Speaker><Position>0,130</Position>||:Are they back?
 NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><Position>-40,130</Position>||:Hold on.+Tachikoma.
-NPC-Motoko(0)<Position>-40,130</Position>;NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hm... Whoever's coming is emitting signal interference. I can't tell how many people there are.</color>+<color=#00CCFF>But I have detected the presence of Suzuka Mizukane!</color>
+NPC-Motoko(0)<Position>-40,130</Position>;NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hm... Whoever's coming is emitting signal interference. I can't tell how many people there are.</color>+<color=#00CCFF>But I have detected the presence of Suzuka Mizukane!</color>
 NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><Position>-40,130</Position>||<BGM>BGM_Reverse</BGM>:Commander, prepare for battle.
 NPC-Motoko(0)<Speaker>Commander</Speaker><Position>-40,130</Position><同时置暗>||:Tachikoma... is your backup?
 NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><Position>-40,130</Position>||:It's an AI combat vehicle ideal for conducting recon. I've ordered it to stay hidden and wait for my command.
 NPC-Motoko(0)<Speaker>Commander</Speaker><Position>-40,130</Position><同时置暗>||:I see. Looks like it's come in pretty useful...
-NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>Heheh, it's kinda embarrassing to be praised by a stranger.</color>
-NPC-Tachikoma(0)<Speaker>Commander</Speaker><Position>0,150</Position><通讯框><同时置暗>||:Then please keep an eye on Mizukane and her forces.
-NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>No problem!</color>
+NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>Heheh, it's kinda embarrassing to be praised by a stranger.</color>
+NPC-Tachikoma(0)<Speaker>Commander</Speaker><Position>0,150</Position><scan><通讯框><同时置暗>||:Then please keep an eye on Mizukane and her forces.
+NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>No problem!</color>
 ()<Speaker>Commander</Speaker>||:433, send an encrypted message to Ibis. Get them to return immediately.
 NPC-HK433(0)<Speaker>433</Speaker><Position>0,130</Position>||:Got it!
 NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker>||:Commander—
@@ -74,7 +74,7 @@ NPC-Suzuka(0)<Speaker>Commander</Speaker><Position>-160,100</Position><同时置
 NPC-Suzuka(0)<Speaker>Suzuka Mizukane</Speaker><Position>-160,100</Position>||:An unfortunate outcome...+But that's alright. I will make you pay the commensurate price.
 ()||:Mizukane vanishes out of sight amidst the smoke and dust thrown up by the explosion.
 NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><Position>-40,130</Position>||:Tachikoma!
-NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>Roger!</color>
+NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>Roger!</color>
 ()||<SE1>AVG_Explo_Distance</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=12</controll_shake>:Boom!+An artfully accurate shot forces Mizukane out of the smokescreen.
 NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><Position>-40,130</Position>||:Commander, cover me!
 NPC-Motoko(0)<Speaker>Commander</Speaker><Position>-40,130</Position><同时置暗>||:Alright!
@@ -82,7 +82,7 @@ NPC-Motoko(0)<Speaker>Commander</Speaker><Position>-40,130</Position><同时置�
 ()||<SE1>AVG_Bullet_Hit_Body</SE1>:Mizukane takes the bullets head-on before disappearing from view once more.
 ()<Speaker>Suzuka Mizukane</Speaker>||:You lot from Section 9 are always an eyesore.
 ()||<SE1>AVG_Bullet_Hit_Wall</SE1>:Bang-bang! The Major fires promptly at the voice.+But the shots miss their mark.
-NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>Target detected! Coming in from two o'clock!</color>
+NPC-Tachikoma(0)<Speaker>Tachikoma</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>Target detected! Coming in from two o'clock!</color>
 NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><Position>-40,130</Position>||:Fire!
 ()||<SE1>AVG_Gatling_gun</SE1>:Bang-bang-bang! The Tachikoma's powerful barrage follows Mizukane, who flits by like a specter.+But once again, she disappears before the Commander's eyes.
 ()<Speaker>Commander</Speaker>||:...433, Boys, stay together!

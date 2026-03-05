@@ -19,11 +19,11 @@ Beak()||:<color=#00CCFF>Took you long enough, M16!</color> +<color=#00CCFF>Our f
 M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑屏1>:Sorry to have kept you waiting, Beak. I have finished my business here. Retreat.
 ()||<黑屏2><BGM>BGM_Empty</BGM>:...In a certain district in Belgrade.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Battle</BGM>:RO, how are things on your end?
-AR15Mod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>We're pushing forward! We're almost at the motorbike!</color>
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>We're pushing forward! We're almost at the motorbike!</color>
 AR15Mod(0);RO635(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Outta the way, outta the waaaaaay!!!</color> +<color=#00CCFF>Never mind, I'm just gonna tear you all to pieces!!! Hahahahaha!!!</color>
-AR15Mod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Hey, be careful of your surroundings, SOP-II!</color> +<color=#00CCFF>Jeez... AR-15, I'm going to cover SOP-II. I'm leaving the rest to you, AR-15!</color>
+AR15Mod(0);RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Hey, be careful of your surroundings, SOP-II!</color> +<color=#00CCFF>Jeez... AR-15, I'm going to cover SOP-II. I'm leaving the rest to you, AR-15!</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4, what's the situation?
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>You made it! Are you okay?!</color>
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>You made it! Are you okay?!</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:We're fine! AK-12 did some simple repairs on us so we can fight!
 AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>Good to hear. I'm attacking from the flank while the Commander's forces are setting up an encirclement on the outer rim.</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||<黑屏1>0,5</黑屏1>:Alright, then let's regroup later by the motorbikes.
@@ -48,7 +48,7 @@ Clear Voice()||:The interference has disappeared. It's obvious who the culprit w
 M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:16... What on earth is going on with you...?
 ()||<BGM>BGM_Empty</BGM><黑屏2>:...When the interference wears off... +The present Griffin Dolls resume their activity groggily, as if they've just woken up from a deep slumber.
 ()||:...A broadcast through the comms channel.
-RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑点1>:<color=#00CCFF>Attention all units, Sangvis Ferri is withdrawing. Do not stray too far in pursuit.</color> +<color=#00CCFF>Please secure the area and prepare for potential attacks from the remaining Sangvis forces and ELIDs!</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Attention all units, Sangvis Ferri is withdrawing. Do not stray too far in pursuit.</color> +<color=#00CCFF>Please secure the area and prepare for potential attacks from the remaining Sangvis forces and ELIDs!</color>
 Clear Voice()||<黑点2>:Go and regroup with your friends M4. +They're all waiting for you.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:You don't...have to tell me that.
 ()||<BGM>BGM_Empty</BGM>:M4A1 hesitates for a second, then she walks over to the group of Griffin Dolls. +... +......

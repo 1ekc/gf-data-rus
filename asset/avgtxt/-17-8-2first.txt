@@ -35,7 +35,7 @@ M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night><黑点2>:Отряд 404, 
 M4A1Mod(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:...
 M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...Отряд 404?
 M4A1Mod(0)<Speaker>???</Speaker>||<BIN>7</BIN><Night>:Ой~ Ты наконец-то здесь.♪
-UMP45(0)<Speaker>UMP45</Speaker><通讯框>;M4A1Mod(0)||<BIN>7</BIN><Night>:Так ты лидер Команды AR, или, точнее, бывший лидер... Мисс M4A1.
+UMP45(0)<Speaker>UMP45</Speaker><scan><通讯框>;M4A1Mod(0)||<BIN>7</BIN><Night>:Так ты лидер Команды AR, или, точнее, бывший лидер... Мисс M4A1.
 UMP45(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...Это... UMP45? Просто услышав её голос, я чувствую, что она опасна...
 UMP45(0)<Speaker>UMP45</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:AR-15 тоже там ? Какие ощущения от пребывания на свежем воздухе?
 UMP45(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>7</BIN><Night>:M4A1 теперь наш лидер. Давайте скорее обсудим задание.

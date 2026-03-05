@@ -1,13 +1,13 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>55</BIN><BGM>BGM_Hello</BGM>:Clack... +... +Clack...
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click...
-AR(0)<Speaker>Galil</Speaker><通讯框>||:<color=#00CCFF>I've searched through the left over area. Nothing worth retrieving.</color> +<color=#00CCFF>Did you find anything on your side?</color>
+AR(0)<Speaker>Galil</Speaker><scan><通讯框>||:<color=#00CCFF>I've searched through the left over area. Nothing worth retrieving.</color> +<color=#00CCFF>Did you find anything on your side?</color>
 ()<Speaker></Speaker>||:...
-AR(0)<Speaker>Galil</Speaker><通讯框>||:<color=#00CCFF>Uzi?</color>
+AR(0)<Speaker>Galil</Speaker><scan><通讯框>||:<color=#00CCFF>Uzi?</color>
 MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:I heard you... +Nothing so far.
-AR(0)<Speaker>Galil</Speaker><通讯框>||:<color=#00CCFF>Really...?</color> +<color=#00CCFF>If you still don't find anything special by the time you've combed through your zone, we can wrap things up and return.</color>
+AR(0)<Speaker>Galil</Speaker><scan><通讯框>||:<color=#00CCFF>Really...?</color> +<color=#00CCFF>If you still don't find anything special by the time you've combed through your zone, we can wrap things up and return.</color>
 MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:...I'll be done soon.
-MicroUZI(0);AR(0)<Speaker>Galil</Speaker><通讯框>||:<color=#00CCFF>Zone S07-011118...mark cleared...</color> +<color=#00CCFF>'Kay. I'm done here!</color>
+MicroUZI(0);AR(0)<Speaker>Galil</Speaker><scan><通讯框>||:<color=#00CCFF>Zone S07-011118...mark cleared...</color> +<color=#00CCFF>'Kay. I'm done here!</color>
 MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:... +Hey...Galil...
 MicroUZI(0);AR(0)<Speaker>Galil</Speaker>||:<color=#00CCFF>Ha... Looks like we can get off early today...</color> +<color=#00CCFF>Then I can lie on the couch tonight and enjoy my snacks.</color>
 MicroUZI(0)<Speaker>Micro Uzi</Speaker>;AR(0)||:How can you be so happy...? +We'll have to continue with this kind of dreary, meaningless work tomorrow...

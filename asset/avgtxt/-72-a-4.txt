@@ -110,34 +110,34 @@ NPC-maya(0)<Speaker>Q</Speaker>||:More work, same pay—what's there to congratu
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_keyboardtype_sci</SE1>:
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:After initiating the encrypted communication link, Hoffmann leisurely brews himself a cup of coffee.
 NPC-Hoffmann(1)<Speaker>Finn Hoffmann</Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:Agent K, long time no see. How have you been?
-NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Still alive.</color>
+NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Still alive.</color>
 NPC-Hoffmann(1)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:Still as concise and straightforward as ever.
-NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...What do you want from me?</color>
+NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>...What do you want from me?</color>
 NPC-Hoffmann(1)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:Just checking in on you. How are you getting on with Chairwoman Ulrich?
-NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>It's both smooth and rough.</color>
+NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>It's both smooth and rough.</color>
 NPC-Hoffmann(1)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:I hope that's not some kind of wordplay.
-NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>The Chairwoman has her own position—one that's unshakable.</color>+<color=#00CCFF>But as an ambitious and capable woman, she's not willing to be confined to a cage either.</color>
+NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>The Chairwoman has her own position—one that's unshakable.</color>+<color=#00CCFF>But as an ambitious and capable woman, she's not willing to be confined to a cage either.</color>
 NPC-Hoffmann(2)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:Sounds like she's still swaying between the two sides of the scale.
-NPC-Hoffmann(2);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Mm.</color>
+NPC-Hoffmann(2);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Mm.</color>
 NPC-Hoffmann(1)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:Then as an excellent Stasi agent, do you have any advice, Agent K?
-NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>The Chairwoman has a good impression of Frau Romy.</color>
+NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>The Chairwoman has a good impression of Frau Romy.</color>
 NPC-Hoffmann(2)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:Hm?+Now I'm starting to contemplate the possibility of having the Director seduce her in person.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||<CGDelay>0.5</CGDelay>:
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...Herr Hoffmann, our calls are recorded.</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||<CGDelay>0.5</CGDelay>:
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>...Herr Hoffmann, our calls are recorded.</color>
 NPC-Hoffmann(1)<Speaker>Finn Hoffmann</Speaker>||:Go on.
-NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Frau Romy's past collaboration with the Ministry of Finance really impressed her.</color>+<color=#00CCFF>She even uncharacteristically brought up the background of certain individuals, including those she had worked with back then—none of them are staunch localists.</color>+<color=#00CCFF>In the Chairwoman's words—they put the interests of the state over any party interests.</color>
+NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Frau Romy's past collaboration with the Ministry of Finance really impressed her.</color>+<color=#00CCFF>She even uncharacteristically brought up the background of certain individuals, including those she had worked with back then—none of them are staunch localists.</color>+<color=#00CCFF>In the Chairwoman's words—they put the interests of the state over any party interests.</color>
 NPC-Hoffmann(1)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:Which really means that they care more about personal interests than collective ones.
-NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>The reason they seem hesitant is mainly because Frau Romy is a woman.</color>+<color=#00CCFF>If she were a man, they'd be very happy to follow. Unfortunately... as a woman, Frau Romy isn't good at taking advice.</color>
+NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>The reason they seem hesitant is mainly because Frau Romy is a woman.</color>+<color=#00CCFF>If she were a man, they'd be very happy to follow. Unfortunately... as a woman, Frau Romy isn't good at taking advice.</color>
 NPC-Hoffmann(1)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:Ulrich is certainly more successful than our Director.+But on the flip side, they don't fear Ulrich, while they do fear Frau Romy.
-NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>After all, Frau Romy is the daughter of General Riefenstahl. Barring her from the military has always been a consensus.</color>
+NPC-Hoffmann(1);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>After all, Frau Romy is the daughter of General Riefenstahl. Barring her from the military has always been a consensus.</color>
 NPC-Hoffmann(0)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:So these people are the weakest link?
-NPC-Hoffmann(0);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>That's what the Chairwoman thinks.</color>
+NPC-Hoffmann(0);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>That's what the Chairwoman thinks.</color>
 NPC-Hoffmann(0)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:Then what does Chairwoman Ulrich want?
-NPC-Hoffmann(0);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>She's unsatisfied with her current local position, but she's also unwilling to pay the price of being "promoted" to the central government.</color>
+NPC-Hoffmann(0);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>She's unsatisfied with her current local position, but she's also unwilling to pay the price of being "promoted" to the central government.</color>
 NPC-Hoffmann(0)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:...The only one who can give her the promise she needs is General Secretary Groß.
-NPC-Hoffmann(0);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Which is why her veiled question was—whether Frau Romy is backed by the General or the Secretary.</color>+ <color=#00CCFF>If it's the General, she'll likely maintain her current stance. But if it's the Secretary, then her position may begin to shift.</color>
+NPC-Hoffmann(0);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Which is why her veiled question was—whether Frau Romy is backed by the General or the Secretary.</color>+ <color=#00CCFF>If it's the General, she'll likely maintain her current stance. But if it's the Secretary, then her position may begin to shift.</color>
 NPC-Hoffmann(1)<Speaker>Finn Hoffmann</Speaker>;NPC-Jason(2)||:Understood.+I'll report the relevant intel immediately. As for the task assigned by the Director, please keep at it.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I will keep my eyes wide open.</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I will keep my eyes wide open.</color>
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_disconnect</SE1>:
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_footsteps_cave</SE1>:Hoffmann ends the call, and once again hurried footsteps echo through the corridor.
 ()||<黑屏1><CGDelay>0.5</CGDelay>:
@@ -188,7 +188,7 @@ NPC-Nele(2)<Speaker>Nele</Speaker>||:...J?
 ()<Speaker></Speaker>||:On the chair where J should be sitting lies only a frayed piece of rope.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:A chill runs through Nele. She quickly and calmly gives Mia a call.
 NPC-Nele(1)<Speaker>Nele</Speaker>||:Mia, J is missing.
-APC556(2)<Speaker>Mia</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>I've captured Agent J from beneath the window.</color>+<color=#00CCFF>Give me five minutes—I'll return him immediately.</color>
+APC556(2)<Speaker>Mia</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>I've captured Agent J from beneath the window.</color>+<color=#00CCFF>Give me five minutes—I'll return him immediately.</color>
 ()||<黑屏1><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><CGDelay>0.5</CGDelay>:
 ()||<黑屏1><CGDelay>0.5</CGDelay>:

@@ -14,7 +14,7 @@ Henrietta(4)<Speaker>Henrietta</Speaker>||:I'm so sorry, Signore Giuseppe. I pro
 ()<Speaker>Commander</Speaker>||:Uh...right.
 ()||:Henrietta's abrupt movement has jolted Cano and Angelica awake. +The two girls sit up groggily and look around in confusion.
 Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:Huh...? Where am I...? Is that you, Commander?
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Cano seems to have returned to normal. We should talk on an encrypted channel. It'd be bad if those children overhear things that they shouldn't know.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Cano seems to have returned to normal. We should talk on an encrypted channel. It'd be bad if those children overhear things that they shouldn't know.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>That's what Kalina said.</color>
 Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:<color=#00CCFF>Alright... But that's a strange request.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Have your memories returned? Do you still remember me?</color>
@@ -23,16 +23,16 @@ Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:<color=#00CCFF>What an odd thin
 Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:<color=#00CCFF>I think you were there in the dream!</color> +<color=#00CCFF>Oh right, where are Ceno and the others?</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Answer me first. How did you get in here?</color>
 Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:<color=#00CCFF>S.A.T.8 found a really interesting place on Level II, so we came in for a stroll while enjoying our pizza.</color> +<color=#00CCFF>The next thing I knew, you're standing right in front of me.</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Our Dolls seem to have gotten lost in the stories of this place. Their neural clouds are being used to simulate stories that belong to some other characters.</color> +<color=#00CCFF>That's why they're trapped here until their stories draw to a close.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Our Dolls seem to have gotten lost in the stories of this place. Their neural clouds are being used to simulate stories that belong to some other characters.</color> +<color=#00CCFF>That's why they're trapped here until their stories draw to a close.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>So the only way to get them out safely is to play through all the stories?</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>That would certainly be the most benign way of doing it... The girls in this space don't seem to be hostile, so we should solve the problem without hurting them if possible.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>That would certainly be the most benign way of doing it... The girls in this space don't seem to be hostile, so we should solve the problem without hurting them if possible.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>I think you're just curious about the stories...</color>
-NPC-Kalin(5)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Ha...haha... I mean, they ARE interesting.</color>
+NPC-Kalin(5)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Ha...haha... I mean, they ARE interesting.</color>
 Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:<color=#00CCFF>So what should I do now?</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>It looks pretty safe in the garden. You should be able to come back to base anytime, Cano.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>It looks pretty safe in the garden. You should be able to come back to base anytime, Cano.</color>
 Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:<color=#00CCFF>Hmm...I think I'll wait for the others here. If I leave without Ceno, she'll kick up a massive fuss.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Is it okay for her to stay here?</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>It should be fine as long as she doesn't run off. The garden doesn't have any authorization restrictions.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>It should be fine as long as she doesn't run off. The garden doesn't have any authorization restrictions.</color>
 Carcano1891(0)<Speaker>Carcano M1891</Speaker>||:<color=#00CCFF>Even Miss Kalin says so. Besides, I can't stop thinking about that girl with the long hair. I have a strange feeling that I've met her before.</color>
 ()||:I turn around and see Henrietta chatting with Angelica. Angelica asks her when the Handlers are coming back. Henrietta shakes her head in response and Angelica looks disappointed.
 Angelica(0)<Speaker>Angelica</Speaker>||:My body is mostly recovered. I wish Signore Marco could see me soon so he'd bring me along on missions again.

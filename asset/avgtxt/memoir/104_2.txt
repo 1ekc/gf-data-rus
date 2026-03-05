@@ -68,10 +68,10 @@ G36C(0)<Speaker>Gr G36c</Speaker>||:<color=#A9A9A9>I haven't lost everything... 
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>22</BIN>:In the Factory.
 NPC-Kalin(2)<Speaker>Kalina</Speaker>||<BGM>BGM_Brain</BGM>:What did you say? Self-destructed? +Then who sent this package?
-NPC-Kalin(2);NPC-Soldier(0)<Speaker>Green Zone Security</Speaker><通讯框>||:<color=#00CCFF>We've discovered Unit 402's remains in the wasteland.</color> +<color=#00CCFF>His neural cloud was destroyed, but we found what appears to be a neural storage disc.</color>
-NPC-Kalin(4)<Speaker>Kalina</Speaker>;NPC-Soldier(0)<通讯框>||:A destroyed neural cloud... The engineer was...a Doll? +Hm...
-NPC-Kalin(4);NPC-Soldier(0)<Speaker>Green Zone Security</Speaker><通讯框>||:<color=#00CCFF>According to the logs, the intended recipient of his final package is the Griffin T-Doll Gr G36c.</color> +<color=#00CCFF>Out of security concerns, I must remind you to keep us apprised of all subsequent actions taken by Griffin.</color>
-NPC-Kalin(4)<Speaker>Kalina</Speaker>;NPC-Soldier(0)<通讯框>||:So this package is for Gr G36c?
-NPC-Kalin(4);NPC-Soldier(0)<Speaker>Green Zone Security</Speaker><通讯框>||:<color=#00CCFF>Correct. That's the Doll in charge of the rescue mission, I believe.</color>
-NPC-Kalin(4)<Speaker>Kalina</Speaker>;NPC-Soldier(0)<通讯框>||:I understand. +I'll have to scan the storage disc to retrieve the data. Thank you.
+NPC-Kalin(2);NPC-Soldier(0)<Speaker>Green Zone Security</Speaker><scan><通讯框>||:<color=#00CCFF>We've discovered Unit 402's remains in the wasteland.</color> +<color=#00CCFF>His neural cloud was destroyed, but we found what appears to be a neural storage disc.</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker>;NPC-Soldier(0)<scan><通讯框>||:A destroyed neural cloud... The engineer was...a Doll? +Hm...
+NPC-Kalin(4);NPC-Soldier(0)<Speaker>Green Zone Security</Speaker><scan><通讯框>||:<color=#00CCFF>According to the logs, the intended recipient of his final package is the Griffin T-Doll Gr G36c.</color> +<color=#00CCFF>Out of security concerns, I must remind you to keep us apprised of all subsequent actions taken by Griffin.</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker>;NPC-Soldier(0)<scan><通讯框>||:So this package is for Gr G36c?
+NPC-Kalin(4);NPC-Soldier(0)<Speaker>Green Zone Security</Speaker><scan><通讯框>||:<color=#00CCFF>Correct. That's the Doll in charge of the rescue mission, I believe.</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker>;NPC-Soldier(0)<scan><通讯框>||:I understand. +I'll have to scan the storage disc to retrieve the data. Thank you.
 ()||<黑屏1>:

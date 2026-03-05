@@ -1,21 +1,21 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:Several minutes ago. +On the train.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ah, Miss 45. Shouldn't you be in the command center?</color>
-NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:We'll be there in a second. We just need to finish this maintenance. +Once I'm done here, I'll switch the circuit to Repair Bay A23. Your Griffin Dolls could use some extra help there, right?
-NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Thanks. Sorry for having to borrow your hardware.</color>
-NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:That's okay, we'll be charging for it.
-NPC-Kalin(5)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Ahahaha...</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Right, then can I ask another favor?</color>
-NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:What is it?
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>We just received a problematic encrypted file. I'm guessing Ange finally managed to send her information over.</color>
-NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:She finally got in touch? +But why didn't she just call you?
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>That's what worries us as well...</color>
-NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:...If she can't talk through a direct transmission, then she could be in danger right now.
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>It was already odd enough that she didn't contact us at the agreed time.</color> +<color=#00CCFF>On top of that, the file we received is completely garbled due to some kind of interference...</color>
-NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:So the content is damaged and you want us to recover it?
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Sorry, I'm rendering the holographic map using the computer mainframe while M4 and RO are busy running battle simulations.</color>
-NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:Nobody's got time, eh? +I understand. Send me the file. We'll sort it out in five minutes.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>I'll leave that to you then~</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ah, Miss 45. Shouldn't you be in the command center?</color>
+NPC-Kalin(0)<scan><通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:We'll be there in a second. We just need to finish this maintenance. +Once I'm done here, I'll switch the circuit to Repair Bay A23. Your Griffin Dolls could use some extra help there, right?
+NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Thanks. Sorry for having to borrow your hardware.</color>
+NPC-Kalin(0)<scan><通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:That's okay, we'll be charging for it.
+NPC-Kalin(5)<Speaker>Kalina</Speaker><scan><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Ahahaha...</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Right, then can I ask another favor?</color>
+NPC-Kalin(0)<scan><通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:What is it?
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>;UMP45Mod(0)||:<color=#00CCFF>We just received a problematic encrypted file. I'm guessing Ange finally managed to send her information over.</color>
+NPC-Kalin(0)<scan><通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:She finally got in touch? +But why didn't she just call you?
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>;UMP45Mod(0)||:<color=#00CCFF>That's what worries us as well...</color>
+NPC-Kalin(4)<scan><通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:...If she can't talk through a direct transmission, then she could be in danger right now.
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>;UMP45Mod(0)||:<color=#00CCFF>It was already odd enough that she didn't contact us at the agreed time.</color> +<color=#00CCFF>On top of that, the file we received is completely garbled due to some kind of interference...</color>
+NPC-Kalin(4)<scan><通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:So the content is damaged and you want us to recover it?
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>;UMP45Mod(0)||:<color=#00CCFF>Sorry, I'm rendering the holographic map using the computer mainframe while M4 and RO are busy running battle simulations.</color>
+NPC-Kalin(4)<scan><通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:Nobody's got time, eh? +I understand. Send me the file. We'll sort it out in five minutes.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>I'll leave that to you then~</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Kalina terminates the transmission.
 HK416Mod(0)<Speaker>416</Speaker>||:Extra work?
 HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Kinda.

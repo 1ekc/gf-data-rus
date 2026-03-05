@@ -1,7 +1,7 @@
 ()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:Griffin Control.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:...And that's the situation.+IOP discovered abnormal physical damage to parts of the data storage unit in the civilian Dolls from the opera troupe.
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:...And that's the situation.+IOP discovered abnormal physical damage to parts of the data storage unit in the civilian Dolls from the opera troupe.
 指挥官()<Speaker>Commander</Speaker>||:I understand. This sort of damage would almost never happen naturally to civilian Dolls.+So in addition to enjoying the opera...we'll also need to have a plan in store.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||<黑屏1>:Yes. Apart from Contender, you'll also be bringing several other Dolls along to the venue just in case.+Anyone will do, as long as they're available.
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||<黑屏1>:Yes. Apart from Contender, you'll also be bringing several other Dolls along to the venue just in case.+Anyone will do, as long as they're available.
 ()||<黑屏2>:An hour later.
 M1928A1(0)<Speaker>Thompson</Speaker>||:New work, Boss?
 指挥官()<Speaker>Commander</Speaker>||:Yes, I need you to watch an opera with me.

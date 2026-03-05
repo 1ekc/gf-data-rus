@@ -97,11 +97,11 @@ Dorothy(0)<Speaker>Dorothy</Speaker>||:Hahaha, I told you the natives are reliab
 Sei(2)<Speaker>Sei</Speaker>;Dorothy(0)||:Earlier I asked the humans and the Dolls to buy us time so we could flee the building. +I didn't think...that they had held out for this long.
 Dorothy(6)<Speaker>Dorothy</Speaker>||:Stella, sometimes people will help you, even without the Parapluie virus.
 Stella(0)<Speaker>Stella</Speaker>||:So trust is more reliable than orders, huh...
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:Hailing Stella. +...To your left.
+WA2000(0)<Speaker>WA2000</Speaker><scan><通讯框>||:Hailing Stella. +...To your left.
 ()||<SE1>AVG_rifle_finalshot_h</SE1>:...Bang!
 ()||<SE2>AVG_weapon_reload</SE2>:A bullet pierces a mech rushing up from the side.
 Stella(0)<Speaker>Stella</Speaker>||:Hmph, you haven't run yet?
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:What are you saying? Who else could afford my services besides you?
+WA2000(0)<Speaker>WA2000</Speaker><scan><通讯框>||:What are you saying? Who else could afford my services besides you?
 Stella(3)<Speaker>Stella</Speaker>||:I'll pay you double if you survive. +Everyone! We still have a sliver of hope, so please lend me your strength! +But this time, I won't use Parapluie. Instead, I hope you will choose to help us of your own free will!
 MP5(0)<Speaker>Gr MP5</Speaker>||:That...person is...
 MP446(0)<Speaker>Viking</Speaker>||:That's the suspicious native who bumped into Gr MP5! So this is all her doing—

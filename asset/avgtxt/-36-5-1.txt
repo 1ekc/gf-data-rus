@@ -1,14 +1,14 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:On the battlefield.
-NPC-Jason(1)<Speaker>K</Speaker><通讯框>||<BGM>BGM_War</BGM><BIN>99</BIN><黑屏2>:<color=#00CCFF>Mind your right.</color>
+NPC-Jason(1)<Speaker>K</Speaker><scan><通讯框>||<BGM>BGM_War</BGM><BIN>99</BIN><黑屏2>:<color=#00CCFF>Mind your right.</color>
 NPC-Jason(1)<Speaker>Commander</Speaker>||:Roger.
 ()<Speaker></Speaker>||:A squad of troops runs through the tunnel, but none of them notice me as I hide in the shadow of a corner. +K and I regularly check each other's' positions to help our counterpart stay out of the Military's sight, and we continue onward, darting from cover to cover.
 NPC-Yegor(3)<Speaker>Military Officer</Speaker>||:Reorganize our infantry and autonomous units! Don't let the enemy split you up! Your top priority is to rally with our other squads!
 ()<Speaker></Speaker>||<SE2>Alarm</SE2>:The Military forces that have entered the base are completely scattered and in disarray, but gunfire still rings out in the distance. The remaining Dolls keep disrupting the surviving squads, trying to slow down their attempt to regroup.
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||<SE2>Gunfight</SE2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, do you read me?</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||<SE2>Gunfight</SE2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, do you read me?</color>
 NPC-Kalin(4)<Speaker>Commander</Speaker>||:Loud and clear.
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||<SE2>Gunfight</SE2>:<color=#00CCFF>Our forces are engaging the Military in close quarters. We can't regroup, but they probably won't be able to storm us for a while.</color>+<color=#00CCFF>We don't have many Dolls left and we can't launch an assault, so all we can do is keep trying to delay them...but we won't be able to slow them for long.</color>
 NPC-Kalin(4)<Speaker>Commander</Speaker>||:Understood. We'll be quick.
-NPC-Jason(1)<Speaker>K</Speaker><通讯框>;NPC-Kalin(4)||:<color=#00CCFF>Trouble headed your way, Commander.</color>
+NPC-Jason(1)<Speaker>K</Speaker><scan><通讯框>;NPC-Kalin(4)||:<color=#00CCFF>Trouble headed your way, Commander.</color>
 NPC-Jason(1)<Speaker>Commander</Speaker>;NPC-Kalin(4)||:I see it. The bastards have set up a temporary command post right in front of the gates. What a nasty place to put it.
 NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>The enemy officers are probably thinking of a way to rattle you.</color>+<color=#00CCFF>What should we do? We'll need to take out their command post if we want to reach the valves. </color>+<color=#00CCFF>Shall we have your Dolls attack again?</color>
 NPC-Jason(1)<Speaker>Commander</Speaker>;NPC-Kalin(4)||:There aren't many soldiers left, but we don't have enough Dolls to spare either.+Tsk... Kalin, can you hear me?
@@ -18,7 +18,7 @@ NPC-Jason(1);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:<color=#00CCFF>But, Command
 NPC-Jason(1);NPC-Kalin(4)<Speaker>Commander</Speaker>||:Do it, Kalina.
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Yes, right away.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><SE2>Gunfight</SE2>:The gunfire intensifies right away. The soldiers and their automatons nervously run toward the firefight.+Stray bullets keep zipping past the defense line and hitting the walls not far from me. The sound is both unnerving and comical at the same time.
-NPC-Jason(1)<Speaker>K</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Are you sure you want to take this risk?</color>
+NPC-Jason(1)<Speaker>K</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Are you sure you want to take this risk?</color>
 NPC-Jason(1)<Speaker>Commander</Speaker>||:Since when have any of our missions not been risky?
 NPC-Jason(1)<Speaker>K</Speaker>||:<color=#00CCFF>Good luck, then. I'll have a minute of silence for you if you get shot into Swiss cheese. </color>
 NPC-Jason(1)<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM>:Save the mourning for later and finish the mission. Commander out.
@@ -40,7 +40,7 @@ NPC-Yegor(3);NPC-Soldier(0)<Speaker>Military Sergeant</Speaker>||:Those goddamn 
 NPC-Yegor(3)<Speaker>Military Officer</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_pistol_finalshot_sup</SE1>:As long as the Captain reaches the control room, our comrades won't have died in vain. Hurry and contact the other—
 ()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM><SE1>AVG_pistol_finalshot_sup</SE1><黑点1>:Several gunshots ring out, and blood sprays from the heads of the two men in the bunker.+I promptly roll into the bunker and put another round into each of their heads for good measure, then take the weapons and radio from one of them before running toward the valve.+The enemy doesn't seem to have noticed that their commanders have been killed amidst the clamor of battle. This gives me enough time to do my work.
 ()<Speaker></Speaker>||<黑点2>:...+The explosives and detonators are in good condition. Now all I need to do is get to safety and trigger them.+After verifying that the trigger is fine, I put it in my pocket and pick up the incoming transmission that's been demanding my attention for a few seconds.
-NPC-Jason(1)<Speaker>K</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, do you copy?</color>+<color=#00CCFF>I've finished planting the explosives on my end.</color>
+NPC-Jason(1)<Speaker>K</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, do you copy?</color>+<color=#00CCFF>I've finished planting the explosives on my end.</color>
 NPC-Jason(1)<Speaker>Commander</Speaker>||:Roger, I'm done over here too. +You go back first, I've run into a little bit of trouble here.
 NPC-Jason(1)<Speaker>K</Speaker>||:<color=#00CCFF>You killed their commanders?</color>
 NPC-Jason(1)<Speaker>Commander</Speaker>||:Couldn't have got past them otherwise.
@@ -49,7 +49,7 @@ NPC-Jason(1)<Speaker>Commander</Speaker>||:Got it. I'll contact Ange again, then
 NPC-Jason(1)<Speaker>K</Speaker>||:<color=#00CCFF>Can you reach her from your current position?</color>
 NPC-Jason(1)<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:The signal interference just vanished, it should be fine now. Commander out.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:Ange, do you read me?
-NPC-Ange(1)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>I read you.</color>+<color=#00CCFF>I'm a little busy now, so make it quick.</color>
+NPC-Ange(1)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>I read you.</color>+<color=#00CCFF>I'm a little busy now, so make it quick.</color>
 NPC-Ange(1)<Speaker>Commander</Speaker>||:All the explosive charges and detonators have been planted, they're ready to go at any time.+How are things on your end?
 NPC-Ange(1)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Yegor broke through to the second level. My team and I are pursuing him.</color>+<color=#00CCFF>The AR Team is still engaging the other mechs on the upper level. I'm not sure of their status.</color>+<color=#00CCFF>Things are looking bad for us. Please be ready to detonate at any time, Commander.</color>
 NPC-Ange(1)<Speaker>Commander</Speaker>||:Acknowledged. When can you withdraw?
@@ -58,14 +58,14 @@ NPC-Ange(1)<Speaker>Commander</Speaker>||:I thought we wouldn't use this backup 
 NPC-Ange(1)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Things have changed. Starfish appears to have been activated. Even if we stop it right away, they're still going to drop cruise missiles on us.</color>+<color=#00CCFF>I was careless. Even if Yegor didn't make it into the control room, M16 made contact with a Pike Node in the past. She's got authorization to activate the Starfish as well. </color>+<color=#00CCFF>Dammit, this base and the facilities inside it should never have existed in the first place. At this point, all we can do is play it by ear.</color>
 NPC-Ange(1)<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Understood. I'll find a way to evacuate the others. Commander out.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:M4? This is the Commander. Do you read me? What's your situation?
-NytoIsomer(3)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Go ahead, Commander. We are currently engaged in intense combat, and a former member of the AR Team has shown up too.</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Go ahead, Commander. We are currently engaged in intense combat, and a former member of the AR Team has shown up too.</color>
 NytoIsomer(3)<Speaker>Commander</Speaker>||:Find some way to bring everyone back.+Ange found signs of Starfish activation in the lower levels. We're going to blow the sea valves in five minutes and the lower levels of the base will be flooded with seawater.
 NytoIsomer(3)<Speaker>Dandelion</Speaker>||:<color=#00CCFF>Unable to comply. We are currently in very close proximity to the enemy and we are unable to leave right away.</color>+<color=#00CCFF>Also, M4 is preparing to pursue M16. Nobody here can stop her.</color>
 NytoIsomer(3)<Speaker>Commander</Speaker>||:Tsk... Do what you can to bring them all back. I'm blowing the sea valves in five minutes. After that, everything's going to be submerged in seawater.
 NytoIsomer(3)<Speaker>Dandelion</Speaker>||:<color=#00CCFF>I will do my best to evacuate them.</color>
 NytoIsomer(3)<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:I'm counting on you. Commander out.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:Kalin, did you hear that? I've planted the bombs on my end. Take our forces and get to high ground. I'm detonating them in five minutes.
-NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>But what about you?!</color>+<color=#00CCFF>The soldiers are starting to fall back, why don't we launch an assault?</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>But what about you?!</color>+<color=#00CCFF>The soldiers are starting to fall back, why don't we launch an assault?</color>
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:Don't take any more risks. I'll find a way to get back on my own. Commander out.
 NPC-Yegor(3)<Speaker>Military Trooper</Speaker>;NPC-Kalin(8)||:Porechenkov, take your squad and follow me!+Cyka! 9-3, do you copy? Someone got the second lieutenant, there's an enemy infiltrator here!+Search the surroundings and find the damn rat!
 NPC-Yegor(3)<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Well, they didn't waste any time.
@@ -89,7 +89,7 @@ NPC-Soldier(0)<Speaker>Commander</Speaker>||:<color=#A9A9A9>That...wasn't a hand
 ()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:Bang! Bangbang!+A soldier falls as a bullet catches him in the head. The other soldiers look around frantically, trying to locate the shooter, but they're soon hit as well.+In an instant, the battlefield is silent once more.
 ？？？()<Speaker>???</Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:<color=#00CCFF>Saving your life costs extra, Commander. Remember to put another 0 on the end of our fee when you get back.</color>
 指挥官()<Speaker>Commander</Speaker>||:Is that 404?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>How does it feel, Commander? Don't you want to burst out laughing upon seeing your heaven-sent reinforcements?</color>+<color=#00CCFF>It's too early to laugh, though. Only 416 and I managed to sneak in. We'll think of a way to get you out of here.</color>
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>Hang in there. We'll be with you right away.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>How does it feel, Commander? Don't you want to burst out laughing upon seeing your heaven-sent reinforcements?</color>+<color=#00CCFF>It's too early to laugh, though. Only 416 and I managed to sneak in. We'll think of a way to get you out of here.</color>
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>||:<color=#00CCFF>Hang in there. We'll be with you right away.</color>
 UMP45Mod(0);HK416Mod(0)<Speaker>Commander</Speaker>||:We need to get to high ground. The sea valves are about to blow.
 UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||<黑屏1>:<color=#00CCFF>Then we'd better hurry. Escaping from such an exposed position won't be easy.</color>+<color=#00CCFF>(Sighs) ...As much as I don't want to, we'll need to ask them for help.</color>

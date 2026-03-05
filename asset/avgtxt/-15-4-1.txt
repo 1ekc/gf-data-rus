@@ -1,5 +1,5 @@
 ()||<BIN>83</BIN><BGM>BGM_Brain</BGM><Night>:…………+……
-FN57(0)<Speaker>FN-57</Speaker><通讯框>||:……真是的。+你们怎么把事情搞成这样啊。+原本就是因为你和PP90打包票，我才把任务放心交给你们的。
+FN57(0)<Speaker>FN-57</Speaker><scan><通讯框>||:……真是的。+你们怎么把事情搞成这样啊。+原本就是因为你和PP90打包票，我才把任务放心交给你们的。
 FN57(0)<Speaker>琪亚娜</Speaker>||:喂，我们也不希望这个样子啊！+谁知道希儿居然是……
 FN57(0)<Speaker>FN-57</Speaker>||:当时要是干掉她就没问题了吧？
 RaidenMei(0)<Speaker>芽衣</Speaker>;FN57(0)||:抱歉， FN57小姐，希儿毕竟是我们的同伴……
@@ -22,7 +22,7 @@ Himeko(0)<Speaker>琪亚娜</Speaker>;FN57(0)||:姬子小姐！你已经没事�
 Himeko(0)<Speaker>姬子</Speaker>;FN57(0)||:嗯，只是被NexusSystem消耗了大量体力，之后的战斗，恐怕无法正面参与了……
 RaidenMei(0)<Speaker>芽衣</Speaker>;FN57(0)||:那就让我去寻找她们吧，姬子小姐留在这里协助琪亚娜就好了。
 RaidenMei(0)<Speaker>琪亚娜</Speaker>;FN57(0)||:什么啊，搞得好像我有多不靠谱一样……+说起来，德丽莎学园长呢？
-RaidenMei(0);Theresa(0)<Speaker>德丽莎</Speaker><通讯框>||:我正在修复格里芬的数据库哦。+希儿那家伙……摆弄这边的数据库不知道要做什么……+不过这样正好，通过她遗留的痕迹，已经能追踪出她的位置了。
+RaidenMei(0);Theresa(0)<Speaker>德丽莎</Speaker><scan><通讯框>||:我正在修复格里芬的数据库哦。+希儿那家伙……摆弄这边的数据库不知道要做什么……+不过这样正好，通过她遗留的痕迹，已经能追踪出她的位置了。
 RaidenMei(0);Theresa(0)<Speaker>琪亚娜</Speaker>||:真的吗？
 RaidenMei(0);Theresa(0)<Speaker>德丽莎</Speaker>||:就在我们旁边，那个坏掉的游乐园里面。+虽然不知道希儿把布洛妮娅带过去做什么，总之快点夺回来就对了！+哦对了还有一个问题啊，根据刚才的观察报告，通道可能没多久就要关闭了呢。
 RaidenMei(0)<Speaker>芽衣</Speaker>;Theresa(0)||:诶？什么意思？+我们……要回不去了？
@@ -30,7 +30,7 @@ RaidenMei(0);Theresa(0)<Speaker>德丽莎</Speaker>||:啊……其实还有几�
 RaidenMei(0);Theresa(0)<Speaker>琪亚娜</Speaker>||:“别拖太久哦！”学园长你要是出手应该很快就能搞定吧！
 RaidenMei(0);Theresa(0)<Speaker>德丽莎</Speaker>||:算了，希儿这次闹出这么多麻烦，我怕一不小心彻底把她埋掉。+先交给你们就好喽——
 RaidenMei(0);Theresa(0)<Speaker>琪亚娜</Speaker>||:好吧好吧，这样就没问题了吧，让我们开始行动吧！
-RaidenMei(0);FN57(0)<Speaker>FN-57</Speaker><通讯框>||:真的没问题了吗？
+RaidenMei(0);FN57(0)<Speaker>FN-57</Speaker><scan><通讯框>||:真的没问题了吗？
 RaidenMei(0);FN57(0)<Speaker>琪亚娜</Speaker>||:诶，怎么了？
 RaidenMei(0);FN57(0)<Speaker>FN-57</Speaker>||:你就这样大摇大摆把我们的梯队派进去？+先不说那个能把整个据点砍倒一半的希儿会干掉我们多少人形……+你们的布洛妮娅还在她的手里，你确定这样能把人质营救出来吗？
 RaidenMei(0);FN57(0)<Speaker>琪亚娜</Speaker>||:那……那要我怎么做啊！

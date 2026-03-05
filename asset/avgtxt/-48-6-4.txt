@@ -8,15 +8,15 @@ NPC-Soldier(0)<Speaker>Spetsnaz Squad Leader</Speaker>||:Roger!
 ()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:After hanging up, the Spetsnaz squad leader signals to the rest of his squad to follow him.
 ()||<黑屏2><BIN>419</BIN>:... 570 meters from the damaged power conduit. +Onward, onward, Tokarev runs alone through the darkness, toward the location of the damaged power conduit that Helian shared with her.
 TT33(0)<Speaker>Tokarev</Speaker>||:PPK, acknowledge!
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>PPK copies, go ahead. </color>
-TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<通讯框>||:I just heard an explosion from your direction, are you guys okay?
-TT33(0);mp443(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>Oh, it was just an enemy bombardment, the base's structure should be able to hold out for a while. </color>
-TT33(0)<Speaker>Tokarev</Speaker>;mp443(0)<通讯框>||:Glad to hear that... 
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>Unfortunately, our location has been exposed. </color>
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>And slightly sooner than expected. </color>
+TT33(0);PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>PPK copies, go ahead. </color>
+TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<scan><通讯框>||:I just heard an explosion from your direction, are you guys okay?
+TT33(0);mp443(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>Oh, it was just an enemy bombardment, the base's structure should be able to hold out for a while. </color>
+TT33(0)<Speaker>Tokarev</Speaker>;mp443(0)<scan><通讯框>||:Glad to hear that...
+TT33(0);PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>Unfortunately, our location has been exposed. </color>
+PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>And slightly sooner than expected. </color>
 TT33(0)<Speaker>Tokarev</Speaker>||:... 
-Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker><通讯框>||:<color=#00CCFF>Footsteps... They're very close. </color>
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>Talk to you later. It's time for us to go. </color>
+Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker><scan><通讯框>||:<color=#00CCFF>Footsteps... They're very close. </color>
+PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>Talk to you later. It's time for us to go. </color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The call ends.
 TT33(0)<Speaker>Tokarev</Speaker>||<黑点1>:Please be alright... 
 ()||<黑点2><BIN>393</BIN>:...At the blockade line, which has lasted for 7 minutes and 16 seconds so far.
@@ -48,14 +48,14 @@ PPK(0)<Speaker>PPK</Speaker>||:Retreat! RETREAT!
 ()||<BIN>15</BIN><黑点2>:... 173 meters from the damaged power conduit.
 ()||<SE2>Gunfight</SE2>:Bangbangbang! +Tokarev huddles behind a door frame, avoiding the enemy's sweeping fire.
 TT33(0)<Speaker>Tokarev</Speaker>||:PPK, I've been spotted and I can't contact Miss Helian.
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>Can you still run? As for comms, we can't contact her either. </color> +<color=#00CCFF>Don't go imagining things, it's probably just signal jamming. </color>
-TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<通讯框>||:Yeah, I'm okay. I'm just trapped for a bit.
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>Think of a way to get rid of them, otherwise they'll just destroy the conduit again after you fix it. </color>
-TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<通讯框>||:Let me see... 
+TT33(0);PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>Can you still run? As for comms, we can't contact her either. </color> +<color=#00CCFF>Don't go imagining things, it's probably just signal jamming. </color>
+TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<scan><通讯框>||:Yeah, I'm okay. I'm just trapped for a bit.
+TT33(0);PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>Think of a way to get rid of them, otherwise they'll just destroy the conduit again after you fix it. </color>
+TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<scan><通讯框>||:Let me see...
 TT33(0)<Speaker>Tokarev</Speaker>||:Are things going well for you?
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>Hehe, very well indeed, we're running circles around the enemy. </color>
+PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>Hehe, very well indeed, we're running circles around the enemy. </color>
 TT33(0)<Speaker>Tokarev</Speaker>||:That's good to hear.
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>See you at the next check-in. </color>
+PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>See you at the next check-in. </color>
 ()||<SE1>AVG_tele_disconnect</SE1>:PPK hangs up. +The call seems to have given Tokarev strength, because she works up her courage and leaps out of the doorway.
 ()||<SE2>Gunfight</SE2><黑点1>:Bangbangbang! +The bullets seem to be grazing past her... 
 ()||<黑点2><BIN>393</BIN><BGM>BGM_Empty</BGM>:...At the blockade. It has lasted for 9 minutes and 23 seconds so far.
@@ -83,21 +83,21 @@ PPK(0)<Speaker>PPK</Speaker>||:Heiß von hunderttausend kleinen Bienelein ♪+ W
 ()||<黑点1>:She can no longer hear the cannonfire and the hurried steps of the enemy. All that remains is PPK's quavering voice as she sings her song. MP-443 clutches her shovel and smiles.
 ()||<黑点2><BIN>15</BIN>:... 0 meters from the damaged power conduit. +Tokarev rushes to repair the severed power lines with trembling hands. +The footsteps of the enemy behind her draw close. It seems they're just one corner away from coming up behind her... 
 TT33(0)<Speaker>Tokarev</Speaker>||:PPK, I'm almost done!
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>How much longer?</color>
-TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<通讯框>||:37 seconds!
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>Work faster. </color>
-TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<通讯框>||:I'm going as fast as I can... +PPK, why does your voice sound so weird?
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>Is that a confusing kind of weird or a sexy kind of weird?</color>
-TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<通讯框>||:... +Okay, seriously, are you guys alright? It feels like I haven't heard from Ribeyrolles and MP-443 in a while... 
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>What, are you so sick of hearing my voice?</color>
-TT33(0)<Speaker>Tokarev</Speaker>PPK(0)<通讯框>||:No! Good thing you've been talking to me all this time... 
+TT33(0);PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>How much longer?</color>
+TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<scan><通讯框>||:37 seconds!
+TT33(0);PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>Work faster. </color>
+TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<scan><通讯框>||:I'm going as fast as I can... +PPK, why does your voice sound so weird?
+TT33(0);PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>Is that a confusing kind of weird or a sexy kind of weird?</color>
+TT33(0)<Speaker>Tokarev</Speaker>;PPK(0)<scan><通讯框>||:... +Okay, seriously, are you guys alright? It feels like I haven't heard from Ribeyrolles and MP-443 in a while...
+TT33(0);PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>What, are you so sick of hearing my voice?</color>
+TT33(0)<Speaker>Tokarev</Speaker>PPK(0)<scan><通讯框>||:No! Good thing you've been talking to me all this time...
 TT33(0)<Speaker>Tokarev</Speaker>||:Otherwise, I'd probably have broken down by now... 
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>I'm sorry. </color>
+PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>I'm sorry. </color>
 TT33(0)<Speaker>Tokarev</Speaker>||:Huh?
-()<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>This is as far as I can go with you. </color>
+()<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>This is as far as I can go with you. </color>
 TT33(0)<Speaker>Tokarev</Speaker>||:PPK, what happened to you?
 ()||:The power conduit is repaired and the power comes back on.
-()<Speaker>PPK</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Run, Tokarev. Run and don't look back. </color>
+()<Speaker>PPK</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Run, Tokarev. Run and don't look back. </color>
 TT33(0)<Speaker>Tokarev</Speaker>||:PPK?!
 ()||<SE1>AVG_Explo_Distance</SE1>:Kaboom! The sound of a massive explosion assaults Tokarev's ear.
 TT33(0)<Speaker>Tokarev</Speaker>||<震屏>:...PPK!!!

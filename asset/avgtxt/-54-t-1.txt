@@ -7,11 +7,11 @@
 ()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
 ()||<睁眼><BIN>532</BIN>:... +Tareus opens her eyes.
 NPC-Tareus(1)<Speaker>Tareus</Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:...
-NPC-Bramedb(0)<Speaker>Bramedb</Speaker><通讯框>;NPC-Tareus(1)||:<color=#00CCFF>Any questions?</color>
-NPC-Bramedb(0)<通讯框>;NPC-Tareus(1)<Speaker>Tareus</Speaker>||:Not at all, Big Sister Bramedb.
-NPC-Bramedb(0)<Speaker>Bramedb</Speaker><通讯框>;NPC-Tareus(1)||:<color=#00CCFF>You must complete the interception. Not a single fly is to make it into Germany.</color> +<color=#00CCFF>Do you understand?</color>
-NPC-Bramedb(0)<通讯框>;NPC-Tareus(1)<Speaker>Tareus</Speaker>||:Yes... All the routes are being watched. +And I will watch the "Lifeline" throughout the process.
-NPC-Bramedb(0)<Speaker>Bramedb</Speaker><通讯框>||:<color=#00CCFF>Do not fail.</color> +<color=#00CCFF>Surely you know what came of the last imbecile?</color>
+NPC-Bramedb(0)<Speaker>Bramedb</Speaker><scan><通讯框>;NPC-Tareus(1)||:<color=#00CCFF>Any questions?</color>
+NPC-Bramedb(0)<scan><通讯框>;NPC-Tareus(1)<Speaker>Tareus</Speaker>||:Not at all, Big Sister Bramedb.
+NPC-Bramedb(0)<Speaker>Bramedb</Speaker><scan><通讯框>;NPC-Tareus(1)||:<color=#00CCFF>You must complete the interception. Not a single fly is to make it into Germany.</color> +<color=#00CCFF>Do you understand?</color>
+NPC-Bramedb(0)<scan><通讯框>;NPC-Tareus(1)<Speaker>Tareus</Speaker>||:Yes... All the routes are being watched. +And I will watch the "Lifeline" throughout the process.
+NPC-Bramedb(0)<Speaker>Bramedb</Speaker><scan><通讯框>||:<color=#00CCFF>Do not fail.</color> +<color=#00CCFF>Surely you know what came of the last imbecile?</color>
 ()||:Tareus can't help but tremble.
 NPC-Tareus(1)<Speaker>Tareus</Speaker>||:I will intercept it, no matter what.
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
@@ -64,7 +64,7 @@ NPC-Tareus(1)<Speaker>Tareus</Speaker>||:<color=#A9A9A9>...</color> +<color=#A9A
 ()||<SE1>AVG_tele_connect</SE1>:Tareus receives another message.
 ()||<narrator>:Forces have reached the military chopper crash site. Search indicates and confirms that it has lost all transport capacity.
 NPC-Tareus(1)<Speaker>Tareus</Speaker>||:<color=#A9A9A9>One wong option eliminated.</color>
-NPC-Tareus(1);ColtWalker(1)<Speaker>Maggie</Speaker><通讯框>||:<color=#00CCFF>Potential target has appeared.</color> +<color=#00CCFF>Will confirm precise location once the signal is verified...</color>
+NPC-Tareus(1);ColtWalker(1)<Speaker>Maggie</Speaker><scan><通讯框>||:<color=#00CCFF>Potential target has appeared.</color> +<color=#00CCFF>Will confirm precise location once the signal is verified...</color>
 NPC-Tareus(1)<Speaker>Tareus</Speaker>||:! +<color=#A9A9A9>The bear trap has been sprung.</color>
 ()||<黑屏1>:
 NPC-Tareus(1)<Speaker>Tareus</Speaker>||<黑屏2><BIN>528</BIN>:...

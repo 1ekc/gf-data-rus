@@ -15,11 +15,11 @@ NPC-Kalin(2)<Speaker>Commander</Speaker><同时置暗>||:Have you contacted OBR 
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Um... Not yet. Logically speaking, once the neural upgrade is lined up, all that remains is for the Doll to go along with the program. +But we can't have people dragging their feet like OBR... +I'll look into it at once, Commander!
 ()||<BGM>BGM_Empty</BGM><黑点1>:
 ()<Speaker></Speaker>||<黑点2><SE1>AVG_tele_connect</SE1>:30 minutes later, the Commander finds a comm request from Kalina flashing urgently on his monitor.
-NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF><size=50>Terrible news, Commander! OBR's gone missing!</size></color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker><scan><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF><size=50>Terrible news, Commander! OBR's gone missing!</size></color>
 NPC-Kalin(8)<Speaker>Commander</Speaker><同时置暗>||:How could that be?
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>(Sobs) It's true!</color> +<color=#00CCFF>The lab staff swore they never saw OBR nor received any communications from her. I asked all the Dolls, and they said they hadn't seen OBR either.</color> +<color=#00CCFF>And OBR hasn't responded to her calls until now!</color> +<color=#00CCFF>(Sob) What should we do? Could she have been Dollnapped?!</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>(Sobs) It's true!</color> +<color=#00CCFF>The lab staff swore they never saw OBR nor received any communications from her. I asked all the Dolls, and they said they hadn't seen OBR either.</color> +<color=#00CCFF>And OBR hasn't responded to her calls until now!</color> +<color=#00CCFF>(Sob) What should we do? Could she have been Dollnapped?!</color>
 NPC-Kalin(4)<Speaker>Commander</Speaker><同时置暗>||:Calm down. Use my security permissions to access the base cameras and databases and see if there are any signs of OBR's movements in them.
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Phew... Thank you, Commander!</color> +<color=#00CCFF>Don't scare me, OBR...</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Phew... Thank you, Commander!</color> +<color=#00CCFF>Don't scare me, OBR...</color>
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><SE1>RunStep</SE1><SE1>AVG_BaseDoor_Open</SE1>:10 minutes later, Kalina storms into the Ops Room.
 NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Commander, I've got a lead! +The logs show that OBR went out on dispatch the day before. She typically leaves early and comes back late, which puts her out of contact with most Dolls... No wonder everyone said they didn't see her... +Whew... That scared the crap out of me. If she'd really gone missing, I'd be in hot water!
@@ -41,15 +41,15 @@ NPC-Kalin(0)<Speaker>Commander</Speaker><同时置暗>||:???
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||:3— +... +2— +...
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:—Beep!
 ()<Speaker></Speaker>||:The Commander nearly falls out of their chair the moment the comm alert comes on. +OBR's face flashes violently on screen. +Kalina smiles wickedly, then puts on a playful expression before picking up the comms.
-OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>||:<color=#00CCFF>Miss Kalina! Miss Kalina, are you there?</color>
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><scan><通讯框>||:<color=#00CCFF>Miss Kalina! Miss Kalina, are you there?</color>
 OBR(0)<Position>0,190</Position>;NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Hello, Miss OBR! Is something the matter?
-OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>;NPC-Kalin(1)||:<color=#00CCFF>Miss Kalina... Is that dispatch assignment you announced just now still available? I-I'd like to take part in it very much!</color>
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><scan><通讯框>;NPC-Kalin(1)||:<color=#00CCFF>Miss Kalina... Is that dispatch assignment you announced just now still available? I-I'd like to take part in it very much!</color>
 OBR(0)<Position>0,190</Position>;NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Yup, we still have places open, and you were the first to contact me, Miss OBR!
-OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>;NPC-Kalin(1)||:<color=#00CCFF>Oh thank goodness! I got it at last!</color> +<color=#00CCFF>Miss Kalina, please send me the mission details!</color>
-OBR(0)<Position>0,190</Position><通讯框>;NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Hang on. This mission is a little complicated, so you'll need special equipment for it. +Head over to the Ops Room now to pick it up.
-OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Right now? I'm sorry, but I can't spare the time...</color>
-OBR(0)<Position>0,190</Position><通讯框>;NPC-Kalin(3)<Speaker>Kalina</Speaker>||:I see... We'll just have to consider another Doll for the position, then...
-OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>||:<color=#00CCFF>Nonononono! I really need the mon—I mean, this dispatch assignment! </color> +<color=#00CCFF>Ah... Could I come over to the Ops Room at 3 AM to collect the mission items?</color> +<color=#00CCFF>Please, please, I'm begging you~ Miss Kalina...</color>
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><scan><通讯框>;NPC-Kalin(1)||:<color=#00CCFF>Oh thank goodness! I got it at last!</color> +<color=#00CCFF>Miss Kalina, please send me the mission details!</color>
+OBR(0)<Position>0,190</Position><scan><通讯框>;NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Hang on. This mission is a little complicated, so you'll need special equipment for it. +Head over to the Ops Room now to pick it up.
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><scan><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Right now? I'm sorry, but I can't spare the time...</color>
+OBR(0)<Position>0,190</Position><scan><通讯框>;NPC-Kalin(3)<Speaker>Kalina</Speaker>||:I see... We'll just have to consider another Doll for the position, then...
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><scan><通讯框>||:<color=#00CCFF>Nonononono! I really need the mon—I mean, this dispatch assignment! </color> +<color=#00CCFF>Ah... Could I come over to the Ops Room at 3 AM to collect the mission items?</color> +<color=#00CCFF>Please, please, I'm begging you~ Miss Kalina...</color>
 ()<Speaker></Speaker>||:3 AM? +The Commander and Kalina consider the timeframe and then exchange looks. +However, this is the quickest way to catch OBR... +The Commander nods in resignation, and Kalina sighs.
 NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Alright, Miss OBR. 3 AM in the Ops Room. Don't be late!
 ()||<黑屏1>:

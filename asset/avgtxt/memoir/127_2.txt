@@ -81,17 +81,17 @@ NPC-Kalin(0)<Speaker></Speaker>||<narrator><BIN>9</BIN><黑点2>:There's a 2% di
 79type(0)<Speaker>Type 79</Speaker>||:Coffee... +Should be over here.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Type 79 reaches for the shelf and fetches a bag of coffee. She then turns around and prepares to acquire the rest of the snacks.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Just then, her comms starts ringing.
-M99(0)<Speaker>M99</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>79~!</color>
-79type(0)<Speaker>Type 79</Speaker>;M99(0)<Position>0,150</Position><通讯框>||:Captain? How did you have time to call me? Have you completed the mission?
-79type(0);59type(0)<Speaker>Type 59</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>Of course, we've taken care of the baddies neatly!</color> +<color=#00CCFF>Captain was worried about you the whole time while she was in combat, so she immediately called you after the fight.</color>
-79type(0)<Speaker>Type 79</Speaker>;59type(0)<Position>0,100</Position><通讯框>||:Well, the Captain is a worrywart after all.
-79type(0);59type(0)<Speaker>Type 59</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>Hehehe. That's what makes our Captain so adorable~!</color>
-79type(0);M99(0)<Speaker>M99</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>I-I heard that!</color> +<color=#00CCFF>By the way, 79. I think I can hear a car on your side. Aren't you in the repair shop?</color>
-79type(0)<Speaker>Type 79</Speaker>;M99(0)<Position>0,150</Position><通讯框>||:Oh. Miss Kalina asked me to run an errand on the street.
-79type(0);M99(0)<Speaker>M99</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>Eh?! What kind of mission is it? Can't be a dangerous one, right?!</color>
-79type(0)<Speaker>Type 79</Speaker>;M99(0)<Position>0,150</Position><通讯框>||:It's just getting groceries, where's the danger in th—
-79type(0);59type(0)<Speaker>Type 59</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>What, you want something exciting to happen?</color>
-79type(0)<Speaker>Type 79</Speaker>;59type(0)<Position>0,100</Position><通讯框>||<SE1>AVG_engine_speedup</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=4</controll_shake>:Heck, I wish something—
+M99(0)<Speaker>M99</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>79~!</color>
+79type(0)<Speaker>Type 79</Speaker>;M99(0)<Position>0,150</Position><scan><通讯框>||:Captain? How did you have time to call me? Have you completed the mission?
+79type(0);59type(0)<Speaker>Type 59</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>Of course, we've taken care of the baddies neatly!</color> +<color=#00CCFF>Captain was worried about you the whole time while she was in combat, so she immediately called you after the fight.</color>
+79type(0)<Speaker>Type 79</Speaker>;59type(0)<Position>0,100</Position><scan><通讯框>||:Well, the Captain is a worrywart after all.
+79type(0);59type(0)<Speaker>Type 59</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>Hehehe. That's what makes our Captain so adorable~!</color>
+79type(0);M99(0)<Speaker>M99</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>I-I heard that!</color> +<color=#00CCFF>By the way, 79. I think I can hear a car on your side. Aren't you in the repair shop?</color>
+79type(0)<Speaker>Type 79</Speaker>;M99(0)<Position>0,150</Position><scan><通讯框>||:Oh. Miss Kalina asked me to run an errand on the street.
+79type(0);M99(0)<Speaker>M99</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>Eh?! What kind of mission is it? Can't be a dangerous one, right?!</color>
+79type(0)<Speaker>Type 79</Speaker>;M99(0)<Position>0,150</Position><scan><通讯框>||:It's just getting groceries, where's the danger in th—
+79type(0);59type(0)<Speaker>Type 59</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>What, you want something exciting to happen?</color>
+79type(0)<Speaker>Type 79</Speaker>;59type(0)<Position>0,100</Position><scan><通讯框>||<SE1>AVG_engine_speedup</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=4</controll_shake>:Heck, I wish something—
 79type(0)<Speaker>Type 79</Speaker>||<BGM>BGM_Empty</BGM>:Huh?
 ()<Speaker></Speaker>||:Halfway through her words, Type 79 suddenly hears a sharp braking sound from outside.
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=500%%delay=0.1%%range=4</controll_shake><SE1>AVG_brake</SE1>:Right after that, she sees a police car come barreling straight at the store windows—

@@ -52,7 +52,7 @@ NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||:Such a beautiful Halloween should be 
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:She pulls out a small piece of bread and takes a dainty bite. It does not taste particularly delicious with the overpowering spices, but as a kind of festive delicacy, it is sufficiently delightful.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep.
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>||:Graff, is our corn maze ready yet?
-NytoWhite(0)<Speaker>Graff</Speaker><通讯框>||:<color=#00CCFF>Of course, Sister Embla. All the actors and props are in position.</color> +<color=#00CCFF>Once you are here, we can kickstart this exhilarating "All Hallows' Eve".</color>
+NytoWhite(0)<Speaker>Graff</Speaker><scan><通讯框>||:<color=#00CCFF>Of course, Sister Embla. All the actors and props are in position.</color> +<color=#00CCFF>Once you are here, we can kickstart this exhilarating "All Hallows' Eve".</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Embla terminates the call. She breathes out a ghostly plume into the frosty air as she studies the sculptures of Pegasus and each of the Muses that adorn the rooftop of the building.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2>:She enters the Alte Oper from the main entrance and ambles through the vestibule.
@@ -76,9 +76,9 @@ NPC_Embla_RPK(0)<Speaker>Embla</Speaker>||:If the Devil can satisfy all your hea
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Embla starts humming softly as her fingers brush softly across a copy of the script laid aside.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep-beep-beep. +Just then, her communicator chirps.
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>||:Who's this?
-NytoWhite(0)<Speaker>Graff</Speaker><通讯框>||:<color=#00CCFF>—Atta—</color>
+NytoWhite(0)<Speaker>Graff</Speaker><scan><通讯框>||:<color=#00CCFF>—Atta—</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>||:Hm?
-NytoWhite(0)<Speaker>Graff</Speaker><通讯框>||:<color=#00CCFF><size=50>...We're under attack!!</size></color> +<color=#00CCFF>It's DEFY!</color> +<color=#00CCFF>Sister Embla... in the Alte Oper...</color>
+NytoWhite(0)<Speaker>Graff</Speaker><scan><通讯框>||:<color=#00CCFF><size=50>...We're under attack!!</size></color> +<color=#00CCFF>It's DEFY!</color> +<color=#00CCFF>Sister Embla... in the Alte Oper...</color>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang-bang!
 ()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:Pzzzt...
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The line is dead.

@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>129</BIN>:... 
 NPC-Nele(1)<Speaker>Nele</Speaker>||:As for that Umruss person... This is where he lives now. +I guess that counts as a result? That's all I can do for you.
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>—That's enough. It'll be very useful. </color> +<color=#00CCFF>Please keep looking, if you don't mind. There might be other clues. </color>
+NPC-Keven(0)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>—That's enough. It'll be very useful. </color> +<color=#00CCFF>Please keep looking, if you don't mind. There might be other clues. </color>
 NPC-Nele(1)<Speaker>Nele</Speaker>||:...Okay, got it.
 ()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:After hanging up, Nele takes out a collection of essays from her bookcase. +The inscription on it belongs to an outstanding woman—Gray.
 APC556(2)<Speaker>Mia</Speaker><Position>0,120</Position>||:Nele—

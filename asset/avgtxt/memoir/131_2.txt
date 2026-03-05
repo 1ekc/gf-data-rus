@@ -1,9 +1,9 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>129</BIN><BGM>GF_Swim_Marnie</BGM>:The next morning, in the bakery kitchen.
 ()||<SE1>AVG_tele_connect</SE1>:Beep. Message playback...
-VZ61(0)<通讯框><Speaker>Skorpion</Speaker>||:<color=#00CCFF>Captain! We have arrived at the target of our expedition and are about to enter a dead zone. </color>+<color=#00CCFF>Too bad we didn't get to taste your cakes last night. Let's make up for it when we get back!</color>
-CZ2000(0)<通讯框><Speaker>CZ2000</Speaker>||:<color=#00CCFF>Make way, make way! Hey, Captain! Please don't blame us.</color>+<color=#00CCFF>Miss Kalina's the one that assigned us an urgent mission, and before we knew it, we were already packed and shipped away! What a shitty task!</color>+<color=#00CCFF>She also said that you have other things to take care of and must stay at the base... Anyway, I miss you! </color>
-VZ61(0)<通讯框><Speaker>Skorpion</Speaker>||:<color=#00CCFF>M-me too! </color> +<color=#00CCFF>I want my chocolate cake when the expedition is over— </color>
+VZ61(0)<scan><通讯框><Speaker>Skorpion</Speaker>||:<color=#00CCFF>Captain! We have arrived at the target of our expedition and are about to enter a dead zone. </color>+<color=#00CCFF>Too bad we didn't get to taste your cakes last night. Let's make up for it when we get back!</color>
+CZ2000(0)<scan><通讯框><Speaker>CZ2000</Speaker>||:<color=#00CCFF>Make way, make way! Hey, Captain! Please don't blame us.</color>+<color=#00CCFF>Miss Kalina's the one that assigned us an urgent mission, and before we knew it, we were already packed and shipped away! What a shitty task!</color>+<color=#00CCFF>She also said that you have other things to take care of and must stay at the base... Anyway, I miss you! </color>
+VZ61(0)<scan><通讯框><Speaker>Skorpion</Speaker>||:<color=#00CCFF>M-me too! </color> +<color=#00CCFF>I want my chocolate cake when the expedition is over— </color>
 ()||<SE1>AVG_tele_disconnect</SE1>:Beep. End of message.
 EVO3(0)<Speaker>EVO3</Speaker>||:<color=#A9A9A9>...</color>+<color=#A9A9A9>If Skorpion and CZ2000 knew that I was the one who made the mission request to Kalina to divert them away, they would surely scold me.</color><color=#A9A9A9>Also, how am I going to explain this "old body"...</color>
 ()||<SE1>AVG_2022Saros_button</SE1>:Ding! The oven suddenly extinguishes, interrupting EVO3's tumultuous thoughts. +A Doll with a double braid steps in and masterfully lifts the tray of golden bread out of the oven.

@@ -1,10 +1,10 @@
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:Well done. You passed the test with flying colors once again.
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:Well done. You passed the test with flying colors once again.
 SOPII(0)<Speaker>SOPII</Speaker>||:I took out the most enemies! Praise me!
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:That was some great work, SOP2. +As a reward, I'm allowing you to scavenge enemy parts.
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:That was some great work, SOP2. +As a reward, I'm allowing you to scavenge enemy parts.
 SOPII(0)<Speaker>SOPII</Speaker>||:YEAH!!!
 M4A1(3)<Speaker>M4A1</Speaker>||:Be careful, SOP2 !
 AR15(0)<Speaker>AR15</Speaker>||:Who needs any of that scrap...
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:You two, get some rest. The next round may be coming any minute.
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:You two, get some rest. The next round may be coming any minute.
 M4A1(0)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Okay, Sis 16. We'll be in touch.
 AR15(0)<Speaker>AR15</Speaker>||:...
 M4A1(0)<Speaker>M4A1</Speaker>||:15, about that deja vu you mentioned earlier...

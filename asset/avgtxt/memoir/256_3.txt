@@ -35,27 +35,27 @@ Falcon(0)<Speaker>Falcon</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:I'
 ()<Speaker>???？</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Falcon, respond if you copy! </color>
 Falcon(0)<Speaker>Falcon</Speaker>||:C-copy!
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Concealed in the shadows, Falcon answers the comms hastily. The image of CZ2000 surfaces in her vision.
-CZ2000(0)<Speaker>CZ2000</Speaker><通讯框>||:<color=#00CCFF>Our target just appeared. I've sent you the coordinates.</color> +<color=#00CCFF> Can you spot it from your position?</color>
+CZ2000(0)<Speaker>CZ2000</Speaker><scan><通讯框>||:<color=#00CCFF>Our target just appeared. I've sent you the coordinates.</color> +<color=#00CCFF> Can you spot it from your position?</color>
 ()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:After seeing CZ2000 waving at her from a distance, Falcon adjusts the angle of her rifle. A few hundred meters off the coordinates, she picks up the silhouette of a hulking autonomous weapon.
 Falcon(0)<Speaker>Falcon</Speaker>||:I-I see it...!
-CZ2000(0)<Speaker>CZ2000</Speaker><通讯框>||:<color=#00CCFF>Okay, Falcon, now's your time to shine~! </color>
+CZ2000(0)<Speaker>CZ2000</Speaker><scan><通讯框>||:<color=#00CCFF>Okay, Falcon, now's your time to shine~! </color>
 Falcon(0)<Speaker>Falcon</Speaker>||:Yes...!
-VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You okay, Falcon? Your voice is shaking. Are you still nervous? </color>
+VZ61(0)<Speaker>Skorpion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You okay, Falcon? Your voice is shaking. Are you still nervous? </color>
 Falcon(0)<Speaker>Falcon</Speaker>||:Ah...
-CZ2000(0)<Speaker>CZ2000</Speaker><通讯框>||:<color=#00CCFF>It's her first combat mission since joining our squad. Cut her some slack; you'd be nervous, too, if you were in her position! </color>
-VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:<color=#00CCFF>Hah, if it was me, I'd charge straight in there right now and give that hunk of scrap metal a taste of my submachine guns!</color>
-CZ2000(0)<Speaker>CZ2000</Speaker><通讯框>||:<color=#00CCFF>What a rash dumbo...</color> + <color=#00CCFF>Falcon, forget about her. Just focus on doing your part!</color>
+CZ2000(0)<Speaker>CZ2000</Speaker><scan><通讯框>||:<color=#00CCFF>It's her first combat mission since joining our squad. Cut her some slack; you'd be nervous, too, if you were in her position! </color>
+VZ61(0)<Speaker>Skorpion</Speaker><scan><通讯框>||:<color=#00CCFF>Hah, if it was me, I'd charge straight in there right now and give that hunk of scrap metal a taste of my submachine guns!</color>
+CZ2000(0)<Speaker>CZ2000</Speaker><scan><通讯框>||:<color=#00CCFF>What a rash dumbo...</color> + <color=#00CCFF>Falcon, forget about her. Just focus on doing your part!</color>
 Falcon(0)<Speaker>Falcon</Speaker><Delay>||<SE1>AVG_tele_disconnect</SE1>:Yes, I'll make this one count!
 Falcon(0)<Speaker>Falcon</Speaker>||:...Breath... Relax...
 ()<Speaker></Speaker>||:However, the more pressure she puts on herself, the harder it is for Falcon to steady her hands.
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏3>:Bang!
 ()<Speaker></Speaker>||:The bullet turns into a thin ray of light headed straight towards the target...+...
-VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:<color=#00CCFF> Eh?! Looks like that guy didn't get hit? </color>
+VZ61(0)<Speaker>Skorpion</Speaker><scan><通讯框>||:<color=#00CCFF> Eh?! Looks like that guy didn't get hit? </color>
 VZ61(0)<Speaker>Skorpion</Speaker>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>It picked up that shot. It's scanning for us now. Get down! </color>
 Falcon(0)<Speaker>Falcon</Speaker>||:Oh no...!
 ()<Speaker></Speaker>||:Bang!
 ()<Speaker></Speaker>||:In the heat of the moment, Falcon pulls the trigger once again.
-CZ2000(0)<Speaker>CZ2000</Speaker><通讯框>||:<color=#00CCFF>Falcon, stop shooting. You'll expose yourself like that! </color>
+CZ2000(0)<Speaker>CZ2000</Speaker><scan><通讯框>||:<color=#00CCFF>Falcon, stop shooting. You'll expose yourself like that! </color>
 Falcon(0)<Speaker>Falcon</Speaker>||:...!!
 ()<Speaker></Speaker>||:Just as CZ2000 warned, Falcon realizes that she's staring down her opponent's barrel.
 Falcon(0)<Speaker>Falcon</Speaker>||:Cr-crap!
@@ -108,7 +108,7 @@ Falcon(0)<Speaker>Falcon</Speaker>||:Roger that!
 ()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:She ducks behind the partially destroyed wall and readies her crosshair at the enemy currently pursuing CZ2000 and Skorpion. Due to its constant movement, Falcon can barely maintain her lead on the target.
 Falcon(0)<Speaker>Falcon</Speaker>||:...
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:Bang!+...
-VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF> Falcon, that one missed. That guy's still alive and kicking! </color>
+VZ61(0)<Speaker>Skorpion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF> Falcon, that one missed. That guy's still alive and kicking! </color>
 Falcon(0)<Speaker>Falcon</Speaker>||:H-he's moving too fast! I'll try again... Ah!
 ()<Speaker></Speaker>||:That earlier shot did in fact alert the autonomous weapon, and Falcon sees through her scope that it's rapidly approaching her while utilizing the ruins as cover.
 Falcon(0)<Speaker>Falcon</Speaker>||:Crap...!

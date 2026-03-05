@@ -1,28 +1,28 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>129</BIN><Night><BGM>BGM_Room</BGM>:In a certain VIP room.
 Lewis(9)<Speaker>Lewis</Speaker>||:This is the last room. Other than some boring and over-the-top décor, I don't see anything in here.
-Thunder50(2)<Speaker>Thunder</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>My room is also empty.</color>
-M200(4)<Speaker>M200</Speaker><通讯框>||:<color=#00CCFF>Same here. I think the resident of this room is just some regular rich guy.</color>
-Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>I've even searched the second-class cabin downstairs. Nothing unusual either...</color> +<color=#00CCFF>Are you sure this is the place? Should we confirm it again with Miss Snow?</color>
+Thunder50(2)<Speaker>Thunder</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>My room is also empty.</color>
+M200(4)<Speaker>M200</Speaker><scan><通讯框>||:<color=#00CCFF>Same here. I think the resident of this room is just some regular rich guy.</color>
+Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>I've even searched the second-class cabin downstairs. Nothing unusual either...</color> +<color=#00CCFF>Are you sure this is the place? Should we confirm it again with Miss Snow?</color>
 Lewis(9)<Speaker>Lewis</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Lady Paula would not lie to us! It's got to be here! I...I'll look again!
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Lewis conducts another search around the room. She has checked each sheet of paper on the desk three times. +However, there's still nothing suspicious in the room.
 Lewis(9)<Speaker>Lewis</Speaker>||:Dammit! Why isn't there anything?!
-MDR(4)<Speaker>MDR</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Watch out! About a dozen people are heading from the ballroom to the VIP rooms. The corridor is already within their view! Do not exit your rooms!</color> +<color=#00CCFF>Hide somewhere close!</color>
+MDR(4)<Speaker>MDR</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Watch out! About a dozen people are heading from the ballroom to the VIP rooms. The corridor is already within their view! Do not exit your rooms!</color> +<color=#00CCFF>Hide somewhere close!</color>
 Lewis(7)<Speaker>Lewis</Speaker>||:What? S-Someone actually lives inside this room. Where am I supposed to hide...?
-Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>There are ventilation ducts in all the rooms. That should work!</color>
-Lewis(9)<Speaker>Lewis</Speaker>;Welrod(2)<通讯框>||:Ugh, it's so dirty in there!
-Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>Is this really the time to worry about sanitation?!</color>
+Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>There are ventilation ducts in all the rooms. That should work!</color>
+Lewis(9)<Speaker>Lewis</Speaker>;Welrod(2)<scan><通讯框>||:Ugh, it's so dirty in there!
+Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>Is this really the time to worry about sanitation?!</color>
 ()<Speaker></Speaker>||:The footsteps grow louder. Lewis can even hear the sound of rustling clothes outside the door.
 Lewis(9)<Speaker>Lewis</Speaker>||:Hm, don't panic. There must be a good hiding spot. Let me see...
-MDR(4)<Speaker>MDR</Speaker><通讯框>||:<color=#00CCFF>You're running out of time! They're opening the door!</color>
+MDR(4)<Speaker>MDR</Speaker><scan><通讯框>||:<color=#00CCFF>You're running out of time! They're opening the door!</color>
 Lewis(7)<Speaker>Lewis</Speaker>||:Huh?!
 ()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>AVG_Door_Open_Close</SE1>:...
 ()<Speaker>???</Speaker>||:... +Are they all settled?
 ()<Speaker>Respectful Voice</Speaker>||:Yes, everything is going according to plan.
 ()<Speaker>???</Speaker>||:Right.
 Lewis(9)<Speaker>Lewis</Speaker>||:...
-Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>Lewis? Lewis?</color> +<color=#00CCFF>Are you exposed?</color>
-Lewis(9)<Speaker>Lewis</Speaker>;Welrod(2)<通讯框>||:No... I'm in the wardrobe.
+Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>Lewis? Lewis?</color> +<color=#00CCFF>Are you exposed?</color>
+Lewis(9)<Speaker>Lewis</Speaker>;Welrod(2)<scan><通讯框>||:No... I'm in the wardrobe.
 Lewis(9)<Speaker>Lewis</Speaker>||:They won't spot me. +I hope...
 ()<Speaker>???</Speaker>||:What about things on "Eric's" end?
 ()<Speaker>Respectful Voice</Speaker>||:He disappeared... Should I send someone to investigate?

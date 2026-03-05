@@ -3,9 +3,9 @@
 ()<Speaker></Speaker>||:......At the secret underground entrance to a Paradeus factory.
 ()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:Morridow leads Laplace swiftly through the tunnel, using a secure internal line to contact the squad assigned to her by Nemhran.
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||<SE1>AVG_tele_connect</SE1>:Meet me at ST3 immediately.
-NPC-MorridowNew(0);NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Sister Morridow, the ST-series tunnels require top-level clearance. We—</color>
+NPC-MorridowNew(0);NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Sister Morridow, the ST-series tunnels require top-level clearance. We—</color>
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>;NytoWhite(0)<Position>0,50</Position>||:I've already approved your access. Be in position in two minutes.
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Understood!</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Understood!</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:After ending the call, Morridow executes a complex authentication process at the control center.
 ()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:Whirrr—+The smooth floor parts open, revealing a small elevator platform.
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:Please mind your step, Lady Laplace.
@@ -54,9 +54,9 @@ NPC-Laplace(13)<Speaker>Laplace</Speaker>;NPC-MorridowNew(0)||:No need. If she h
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:Got it.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Morridow focuses on driving when suddenly, the vehicle's internal comms crackle to life.
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:What did you find?
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Sister Morridow, I just received a command from Sister Gray...</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Sister Morridow, I just received a command from Sister Gray...</color>
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:Gray? Her access should've been revoked again...
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>She said to tell you... she's prepared a surprise for you...</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>She said to tell you... she's prepared a surprise for you...</color>
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:...
 ()<Speaker></Speaker>||:As if to confirm those words, a violent crash erupts ahead in the tunnel—
 ()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:BOOM!
@@ -78,7 +78,7 @@ NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position>||:Yes, Sister
 AK15MOD(6)<Speaker>AK-15</Speaker><Shake>||<SE1>AVG_Bullte_Ricochet</SE1>:...
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=5%%delay=0%%range=2</controll_shake><SE1>AVG_brake</SE1><SE1>AVG_engine_speedup</SE1>:Morridow calmly maneuvers the vehicle to swerve past AK-15, who is currently surrounded, and speeds toward their destination.
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:Pin her down.
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>...Understood.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>...Understood.</color>
 ()||<黑点1>:
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><黑屏2><BIN>729</BIN><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||:The sound of gunfire fades behind them. Laplace turns to Morridow.
@@ -103,20 +103,20 @@ NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:Got it.+Erasing it will take a b
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><BIN>9</BIN><黑屏2><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<BGM>GF_2022_Summer_Battle_2</BGM><SE1>AVG_whitenoise</SE1><SE1>AVG_21Winter_Open_Light</SE1><BIN>167</BIN><Night>:Clang.+All lights go out. In the pitch-black tunnel, only headlights remain.
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Sister Morridow, there seems to be a power failure. Should we stop?</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Sister Morridow, there seems to be a power failure. Should we stop?</color>
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:...+No. Keep going.
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Yes, Sister.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Yes, Sister.</color>
 ()<Speaker></Speaker>||<SE1>AVG_Explo_Close</SE1><震屏3>:BOOM!+A loud noise rings out from the vehicle in the back of the convoy.
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=50000%%delay=0%%range=3</controll_shake><SE1>AVG_Car_Crash</SE1>:Then comes a thunderous crash—
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=5%%delay=0%%range=3</controll_shake><SE1>AVG_brake</SE1>:Morridow feels a massive impact to the rear of their vehicle and brakes hard.
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Sister Morridow, we're under attack!</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Sister Morridow, we're under attack!</color>
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||<SE1>ClothingUp</SE1>:...
 ()<Speaker></Speaker>||:Through the rearview mirror, Morridow sees the figure of a Doll emerging in the trailing vehicle's headlights, her hair catching the light.
 AK15MOD(0)<Speaker>AK-15</Speaker>||<SE1>RunStep</SE1>:...
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:No way! DEFY has caught up!
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||<SE1>AVG_Spanner</SE1>:<color=#00CCFF>Sister Morridow, our vehicle won't start...</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||<SE1>AVG_Spanner</SE1>:<color=#00CCFF>Sister Morridow, our vehicle won't start...</color>
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:...You distract her.+Watch out for other DEFY members.
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Understood!</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Understood!</color>
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_Explo_Close</SE1>:BOOM!+Almost as soon as the words leave her mouth, Morridow watches as the remaining Nytos get taken down.
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:...
 NPC-Laplace(11)<Speaker>Laplace</Speaker>||:This vehicle's done. Time for a new plan.

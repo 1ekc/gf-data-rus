@@ -60,12 +60,12 @@ M1928A1(0)<Speaker>Thompson</Speaker>||:Это наши предыдущие д�
 M1928A1(0)<Speaker>Thompson</Speaker>||<黑屏1>0,6</黑屏1>:Что?!
 ()||<黑屏2>0,2</黑屏2><BIN>9</BIN><SE1>Explode</SE1><黑屏1><BGM>BGM_Boss</BGM>:...Бэнг.
 T77(0)<Speaker>T77</Speaker>||<黑点2><BIN>10</BIN>:Ты в норме?!
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>Мы выиграем для вас время! Вперёд!</color>
-M14(0)<Speaker>M14</Speaker><通讯框>||:<color=#00CCFF>Смотри на меня!</color> +<color=#00CCFF>Целься... огонь!</color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>Мы выиграем для вас время! Вперёд!</color>
+M14(0)<Speaker>M14</Speaker><scan><通讯框>||:<color=#00CCFF>Смотри на меня!</color> +<color=#00CCFF>Целься... огонь!</color>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:...Кукла Сангвис остается равнодушной к атакам M14 и Thompson.
 BossJustice(0)<Speaker>Судья</Speaker>||:... +Я предполагала, что это будет обычная операция по поиску и уничтожению... Совсем не ожидала, что мне придется действовать серьезно и выполнить приказ Владыки.
 ()<Speaker></Speaker>||:...Она игнорирует Thompson и М14 и бросается прямо на остальных.
-M14(0)<Speaker>M14</Speaker><通讯框>||:<color=#00CCFF>Стой! Это мы в тебя стреляем!</color>
+M14(0)<Speaker>M14</Speaker><scan><通讯框>||:<color=#00CCFF>Стой! Это мы в тебя стреляем!</color>
 T77(0)<Speaker>T77</Speaker>||<震屏>:Она идет!
 T65(0)<Speaker>T65</Speaker>||:Ааааа! Мы не так договаривались, мисс Thompson! +Она направляется прямо к нам!
 m1(0)<Speaker>M1 Garand</Speaker>||:Почему?! +Разве мисс Thompson не является гораздо большей угрозой?!

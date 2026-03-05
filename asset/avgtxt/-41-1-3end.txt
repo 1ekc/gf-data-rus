@@ -43,7 +43,7 @@ NPC-Kalin(4)<Speaker>Commander</Speaker>||:...?
 NPC-Kalin(8)<Speaker>Kalina</Speaker>||<BGM>BGM_Empty</BGM>:Commander, you great big dummy!
 ()<Speaker></Speaker>||:Kalina suddenly turns and runs out of my office, slamming the door behind her with a loud bang.
 指挥官()<Speaker>Commander</Speaker>||:Er, I think I went too far with that joke.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><通讯框>||<BGM>m_avg_casual</BGM>:Ahem... Commander, I wonder if I should say you're not the least bit funny, or if you really are just a "great big dummy", as Miss Kalina described?
+NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||<BGM>m_avg_casual</BGM>:Ahem... Commander, I wonder if I should say you're not the least bit funny, or if you really are just a "great big dummy", as Miss Kalina described?
 NytoIsomer(3)<Speaker>Commander</Speaker>||:Ah, Dandelion, so you're here.
 NytoIsomer(3)<Speaker>Dandelion</Speaker>||:I was in the system inspecting the file Havier sent until you made Miss Kalina cry.
 NytoIsomer(3)<Speaker>Commander</Speaker>||:Crap. I really need to apologize to her now...
@@ -69,7 +69,7 @@ NytoIsomer(4)<Speaker>Commander</Speaker>||:I hope you're right.
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>82</BIN><Night><黑屏2>:...The next day, 4am. +In the dorm.
 ()<Speaker></Speaker>||:Beep beep beep beep beep... +Beep beep beep beep beep...
 指挥官()<Speaker>Commander</Speaker>||:(Groans) Ugh... What time is it? +Hello?
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:Commander, you've got an incoming comms request. +Please report to the Command Room to answer it.
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Commander, you've got an incoming comms request. +Please report to the Command Room to answer it.
 NPC-Kalin(3)<Speaker>Commander</Speaker>||:Who could be calling at this hour...
 NPC-Kalin(3)<Speaker>Kalina</Speaker>||:It's Miss Persica.
 NPC-Kalin(3)<Speaker>Commander</Speaker>||:Oh, that's right, only she would call at a time like this... +Hey, Kalina, want to join me at the Command Room?
@@ -79,7 +79,7 @@ NPC-Kalin(3)<Speaker>Kalina</Speaker>||:No. Goodbye.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:I struggle into my clothes and stumble into the Command Room. +The screen shows a flashing Call Waiting icon. I sigh, then press the button to take it.
 指挥官()<Speaker>Commander</Speaker>||:Persica?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:Good morning, Commander.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Good morning, Commander.
 NPC-Persica(0)<Speaker>Commander</Speaker>||:It IS pretty early in the morning, yes... +Do you always wake up at this time?
 NPC-Persica(0)<Speaker>Persica</Speaker>||:I haven't slept yet. These are my working hours.
 NPC-Persica(0)<Speaker>Commander</Speaker>||:I shouldn't be surprised... After all, scientists aren't quite the same as us normal people.

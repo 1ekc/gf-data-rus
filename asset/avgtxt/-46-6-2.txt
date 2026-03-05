@@ -73,7 +73,7 @@ Medusa(4)<Speaker>Medusa</Speaker>||:We're best friends!
 K5(0)<Speaker>K5</Speaker>||:S-several thousand years! Then you three must be very close... +Oh! I get it now, so you're the sort of friends who get into fights and make a ruckus and argue non-stop whenever you meet, but you miss each other whenever you're apart, right?
 ()||<SE1>AVG_tele_connect</SE1>:Beep— The Commander's communicator goes off.
 ()<Speaker>Commander</Speaker>||:What is it?
-BOSS-8(0)<Speaker>Agent</Speaker><通讯框>||:<color=#00CCFF>Commander, Yurine has woken up.</color>
+BOSS-8(0)<Speaker>Agent</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, Yurine has woken up.</color>
 ()<Speaker>Commander</Speaker>||<黑点1>:Understood. We'll come over right away.
 Minosu(0)<Speaker>Minos</Speaker>||<黑点2><BIN>8</BIN>:...Huh? We're going back right now?
 Yurine(0)<Speaker>Yurine</Speaker>||:I'm a little worried about Jashin-chan.

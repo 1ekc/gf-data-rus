@@ -5,7 +5,7 @@
 ()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARH2</SE1><震屏3><SE1>AVG_Bullet_Drop</SE1>:Amaris takes aim and pulls the trigger—
 ()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1>:And the enemy soldier collapses as the shot rings out.
 ()<Speaker>Amaris</Speaker>||<SE1>AVG_2022Saros_SCARH3</SE1>:Point A12 is clear.
-NPC-SCAR-L(1)<Speaker>Aliana</Speaker><通讯框>||:<color=#00CCFF>Copy.</color>
+NPC-SCAR-L(1)<Speaker>Aliana</Speaker><scan><通讯框>||:<color=#00CCFF>Copy.</color>
 ()<Speaker>Amaris</Speaker>||:Aliana, we can't move further forward!
 ()<Speaker>Amaris</Speaker>||:Hey, are you listening to me?
 ()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Wall</SE1><震屏3>:Bang—
@@ -14,23 +14,23 @@ NPC-SCAR-L(1)<Speaker>Aliana</Speaker><通讯框>||:<color=#00CCFF>Copy.</color>
 ()<Speaker></Speaker>||<SE1>AVG_Helicopter</SE1>:Whup, whup, whup—She can hear the beating of chopper blades outside the building.
 ()<Speaker></Speaker>||<SE1>RunStep</SE1>:Amaris repositions and checks the number of enemies through a crack in the wall.
 ()<Speaker>Amaris</Speaker>||:1, 2, 3, 4, 5... +We're facing at least 6 elite squads here!
-NPC-SCAR-L(1)<Speaker>Aliana</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hang in there.</color>
+NPC-SCAR-L(1)<Speaker>Aliana</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hang in there.</color>
 ()<Speaker>Amaris</Speaker>||:What bullshit is that?+SATNAV's down, we're dangerously low on ammo, there's no support, and we don't have eyes or ears. How are we supposed to fight them?
-NPC-SCAR-L(1)<Speaker>Aliana</Speaker><通讯框>||:<color=#00CCFF>Our only choice is to break through their fields of fire before they can meet up and seize Capita!</color>
+NPC-SCAR-L(1)<Speaker>Aliana</Speaker><scan><通讯框>||:<color=#00CCFF>Our only choice is to break through their fields of fire before they can meet up and seize Capita!</color>
 ()<Speaker></Speaker>||:Inside her hiding place, Amaris' face fills with despair.
 ()<Speaker>Amaris</Speaker>||:It's no good. We can't break through with only this much firepower!
-NPC-SCAR-L(1)<Speaker>Aliana</Speaker><通讯框>||:<color=#00CCFF>...You must not give up!</color>
+NPC-SCAR-L(1)<Speaker>Aliana</Speaker><scan><通讯框>||:<color=#00CCFF>...You must not give up!</color>
 ()<Speaker>Amaris</Speaker>||:Bloody hell!+If satellite comms weren't cut off, the Commander would have agreed to retreat too!
-NPC-SCAR-L(1)<Speaker>Aliana</Speaker><通讯框>||:<color=#00CCFF>If only I were 7% faster and 1.5% more accurate...</color>
+NPC-SCAR-L(1)<Speaker>Aliana</Speaker><scan><通讯框>||:<color=#00CCFF>If only I were 7% faster and 1.5% more accurate...</color>
 ()<Speaker>Amaris</Speaker>||:You could double them and it still wouldn't be enough!
 ()<Speaker>Amaris</Speaker>||<SE1>AVG_tele_connect</SE1>:Eula, grab that madwoman!+Eula—Eula?
 ()<Speaker></Speaker>||:There is no answer from the communicator.
 ()<Speaker>Amaris</Speaker>||:Eula? Are you there?
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Eula's name goes gray in the Daybreak System.+Amaris watches as it changes to "Deleted".
 ()<Speaker>Amaris</Speaker>||:<size=50>Aliana, what the hell are you doing!?</size>+Wasn't Eula with you just now?
-NPC-SCAR-L(1)<Speaker>Aliana</Speaker><通讯框>||<SE1>AVG_2022Saros_SCARL1</SE1>:<color=#00CCFF>We need to break through and complete the mission.</color>+<color=#00CCFF>Daybreak leads the way, never taking a step back—</color>
+NPC-SCAR-L(1)<Speaker>Aliana</Speaker><scan><通讯框>||<SE1>AVG_2022Saros_SCARL1</SE1>:<color=#00CCFF>We need to break through and complete the mission.</color>+<color=#00CCFF>Daybreak leads the way, never taking a step back—</color>
 ()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL3</SE1>:Aliana raises her gun and rushes forward like lightning—
-NPC-SCAR-L(1)<Speaker>Aliana</Speaker><通讯框>||:<color=#00CCFF>Amaris, cover me!</color>+<color=#00CCFF>Amaris?</color>
+NPC-SCAR-L(1)<Speaker>Aliana</Speaker><scan><通讯框>||:<color=#00CCFF>Amaris, cover me!</color>+<color=#00CCFF>Amaris?</color>
 ()<Speaker></Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_Explosion</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:The shells rip through the air, trailing a hurricane in their wake—
 ()<Speaker></Speaker>||<SE1>AVG_tinnitus_0</SE1><BGM>BGM_Empty</BGM>:Whum—Time stretches out and all sound dissolves into echoes of white noise.

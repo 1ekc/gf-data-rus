@@ -1,11 +1,11 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-NPC-MorridowNew(1)<Speaker>Morridow</Speaker><通讯框>||<BIN>72</BIN><黑屏2><SE1>AVG_tele_connect</SE1><BGM>10220</BGM>:<color=#00CCFF>Grig's and Bramedb's signals are offline.</color> +<color=#00CCFF>The enemy's gotten into the command center and all signals have been cut. I don't think we can hold out for the originally projected time.</color>
-NPC-MorridowNew(1);NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>The aircraft on the roof is ready. They have a full set of rescue gear.</color>
-NPC-MorridowNew(1);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>Father has given new orders.</color> +<color=#00CCFF>Take Nimogen alive.</color>
-NPC-MorridowNew(1);NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>We might not have enough time for that...</color>
-NPC-MorridowNew(1);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>We have Sana.</color> +<color=#00CCFF>And the thing on level 70.</color>
-NPC-MorridowNew(1)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Who will activate it?</color>
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||<黑屏1>:<color=#00CCFF>I will.</color>
+NPC-MorridowNew(1)<Speaker>Morridow</Speaker><scan><通讯框>||<BIN>72</BIN><黑屏2><SE1>AVG_tele_connect</SE1><BGM>10220</BGM>:<color=#00CCFF>Grig's and Bramedb's signals are offline.</color> +<color=#00CCFF>The enemy's gotten into the command center and all signals have been cut. I don't think we can hold out for the originally projected time.</color>
+NPC-MorridowNew(1);NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>The aircraft on the roof is ready. They have a full set of rescue gear.</color>
+NPC-MorridowNew(1);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>Father has given new orders.</color> +<color=#00CCFF>Take Nimogen alive.</color>
+NPC-MorridowNew(1);NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>We might not have enough time for that...</color>
+NPC-MorridowNew(1);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>We have Sana.</color> +<color=#00CCFF>And the thing on level 70.</color>
+NPC-MorridowNew(1)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Who will activate it?</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||<黑屏1>:<color=#00CCFF>I will.</color>
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>417</BIN>:Inside the empty Bee Sting control center, Nemhran stands alone in front of a monitor.
 ()<Speaker></Speaker>||:A torrent of data flows through the main screen, and on another monitor, Taraxacum has shaken off the Nytos on level 44 and is rushing up to level 45. +The Nytos are gunned down one after another, and the Eastern Tower's defense lines crumble little by little. +Nemhran studies Dandelion closely on the monitor.
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position>||<黑屏1>:You've come back, Lunasia.

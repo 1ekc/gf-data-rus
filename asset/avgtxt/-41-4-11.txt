@@ -10,16 +10,16 @@ NPC-Keven(0);NPC-Morridow(1)<Speaker>Morridow</Speaker>||:Huh? Surely the Flora 
 NPC-Ange(2)<Speaker>Angelia</Speaker>;NPC-Morridow(1)||:This is confirmed in the ledger, and coincidentally, Powell is also the one who signed these receipts. +This place has ties with both the orphanage and the botanical research institute.
 NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:So the GIP is really working with Paradeus?
 NPC-Ange(2)<Speaker>Angelia</Speaker>;NPC-Keven(0)||:Most definitely, but we need more incontestable evidence. +It wouldn't mean a thing to those bastards even if Ulrich threw what we've found at their faces. +Lucia, how are things out there?
-NPC-Ange(2);AK12(12)<Speaker>AK-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>There are more and more refugees surrounding the church.</color> +<color=#00CCFF>There are also people who don't look like refugees hidden in the crowd.</color>
+NPC-Ange(2);AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>There are more and more refugees surrounding the church.</color> +<color=#00CCFF>There are also people who don't look like refugees hidden in the crowd.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:We can't stay here for long. +Renate, report. +... +Renate?
 ()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:Ange attempts to establish contact with RPK-16, but before the call can connect, a thunderous explosion erupts in Zone A.
 ()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:Hopps immediately moves Ange behind him, but Ange steps around him and stares outside the window in silence. +More refugees have taken to the disordered streets due to the noise and tremor of the explosion.
 NPC-Morridow(1)<Speaker>Morridow</Speaker>||:What was that?!
 NPC-Hopps(0)<Speaker>Hopps</Speaker>||:The enemy must be on the move.
-AN94(11)<Speaker>AN-94</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ange, there was an explosion of unknown origin in Zone A. The refugees are getting agitated. This is bad.</color>
+AN94(11)<Speaker>AN-94</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ange, there was an explosion of unknown origin in Zone A. The refugees are getting agitated. This is bad.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>;AN94(11)||:That must've been a signal. Someone is about to get serious.
 AN94(12)<Speaker>AN-94</Speaker>||:<color=#00CCFF>We can't get in touch with Renate or AK-15.</color> +<color=#00CCFF>Ange, their comms are offline. </color>
-AK12(12)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Is it because of the explosion?</color>
+AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Is it because of the explosion?</color>
 ()<Speaker></Speaker>||<SE2>Alarm</SE2>:Just then, the "silence" is shattered by the klaxons that are blaring throughout the settlement.
 NPC-Keven(0)<Speaker>J</Speaker>||:Good God, what is it this time?!
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:(Beep)
@@ -32,26 +32,26 @@ NPC-Ange(2)<Speaker>Angelia</Speaker>;NPC-Hopps(0)||:Looks like someone is tryin
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Yeah, even our escape route is no-go. +Our only hope of getting out of here is that helicopter.
 NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:Isn't this supposed to be a disastrous situation? +Somehow you said that in the same tone as how someone would say, "oh drat, there's only bread for breakfast today."
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:It's kinda like that, actually. +Lucia, can you join us?
-AK12(12)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>I can jump in through the roof.</color>
+AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>I can jump in through the roof.</color>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:AK-12 leans out of the window but AN-94, sensing something wrong in the distance, immediately pulls her back inside. +Bullets smash the window to bits. The two Dolls switch positions and try to locate the shooter.
-AK12(12)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Ange, someone's firing at us!</color> +<color=#00CCFF>Can you see them from where you are?</color>
+AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Ange, someone's firing at us!</color> +<color=#00CCFF>Can you see them from where you are?</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:I heard it. Holy crap, what the heck are those?
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:A row of automatons are advancing on the church with riot shields and submachine guns, muzzles flashing menacingly. +The surrounding refugees scatter in panic but a lot of them are shot.
 NPC-Hopps(0)<Speaker>Hopps</Speaker>||:The garrison's anti-riot automatons. Have they also been hacked?
 NPC-Ange(2)<Speaker>Angelia</Speaker>;NPC-Hopps(0)||:Not necessarily.
 NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:Our pistols won't even leave a dent on them. +They're closing in fast!
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Lucia, can you hack them?
-NPC-Ange(2);AK12(12)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>I've tried, but they can't be accessed remotely at all.</color> +<color=#00CCFF>All their ports are closed.</color>
+NPC-Ange(2);AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>I've tried, but they can't be accessed remotely at all.</color> +<color=#00CCFF>All their ports are closed.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>;AK12(12)||:They know us and they came prepared. +You have permission to use your weapons. Link up with us once you destroy those automatons. +We'll be leaving soon.
 AK12(12)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Acknowledged.</color> +<color=#00CCFF>Antje, get out our rifles and prepare to move.</color>
-AN94(11)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Right.</color> +<color=#00CCFF>We don't have much ammo with us so we need to make every shot count.</color>
+AN94(11)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Right.</color> +<color=#00CCFF>We don't have much ammo with us so we need to make every shot count.</color>
 ()<Speaker></Speaker>||:AK-12 takes a second to observe the situation. Under such intense enemy fire, it's impossible to reach the church by jumping across rooftops.
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:She and AN-94 promptly return to ground level. A few of the anti-riot automatons are charging straight toward the church. The two Dolls take out the closest ones from around the corner.
 ()<Speaker></Speaker>||<SE1>Select</SE1>:With the most imminent threats neutralized, AK-12 reloads and makes for the church while keeping her body close to the ground. +The automatons start shifting their attention to AN-94, who proceeds to switch positions and lay down suppressive fire. Meanwhile, AK-12 dives next to a refugee's corpse, using it as a meat shield while returning fire at the enemies.
-AK12(12)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>They're pretty slow. This won't be too difficult.</color>
-AN94(11)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Lucia, watch out!</color>
+AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>They're pretty slow. This won't be too difficult.</color>
+AN94(11)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Lucia, watch out!</color>
 ()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:The anti-riot automaton that got shot down in front of AK-12 suddenly blows up. +Understanding the dreadful implication, she scrambles quickly to her feet and dashes towards the church. +94 also makes a run for it under the cover of the billowing smoke. They both reach the perimeter of the church with lightning speed.
-AK12(13)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Ange, get out of there!</color> +<color=#00CCFF>The automatons are rigged with explosives! This church can't withstand the impact!</color>
+AK12(13)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Ange, get out of there!</color> +<color=#00CCFF>The automatons are rigged with explosives! This church can't withstand the impact!</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Shit! They must be insane. Everyone out the windows!! NOW!!
 ()<Speaker></Speaker>||:More exploding anti-riot automatons are trying to break into the church. AK-12 stops their approach with accurate shots.
 ()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:But the explosions are getting dangerously close to this eighth-century church. The weathered stones and bricks are starting to shake.
@@ -63,7 +63,7 @@ NPC-Ange(2)<Speaker>Angelia</Speaker>;NPC-Hopps(0)||:And get shot full of holes 
 NPC-Ange(2);NPC-Morridow(1)<Speaker>Morridow</Speaker>||:I...I suppose...
 NPC-Ange(2)<Speaker>Angelia</Speaker>;NPC-Morridow(1)||:When I give the word, run with all your might and do not stop! +J, if she can't keep up, carry her.
 NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:Alright!
-NPC-Ange(2);AK12(12)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Ange, go!</color> +<color=#00CCFF>We're almost out of ammo!</color>
+NPC-Ange(2);AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Ange, go!</color> +<color=#00CCFF>We're almost out of ammo!</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:We're leaving our backs to you!
 ()<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:Ange's group start running towards the residential area while the two Dolls cover their escape.
 AN94(11)<Speaker>AN-94</Speaker>||:...We've got to go too.

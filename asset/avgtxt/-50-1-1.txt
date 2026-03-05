@@ -24,14 +24,14 @@ NPC-Kalin(1)<Speaker>Kalina</Speaker>||:Fine. I'll look forward to it then.
 ()<Speaker></Speaker>||:Completely reassured, Kalina smiles and waves the Commander goodbye before heading off to her accommodation. +After sending her off, the Commander turns around and gazes at the stacks of gifts in the warehouse.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. +The communicator chirps.
 ()<Speaker>Commander</Speaker>||:Hm?
-Lewis(0)<Speaker>Lewis</Speaker><通讯框>||:<color=#00CCFF>Good evening, Commander!</color>
+Lewis(0)<Speaker>Lewis</Speaker><scan><通讯框>||:<color=#00CCFF>Good evening, Commander!</color>
 Lewis(0)<Speaker>Commander</Speaker><同时置暗>||:Lewis? What is it?
 Lewis(0)<Speaker>Lewis</Speaker>||:<color=#00CCFF>We just came back from a mission!</color> +<color=#00CCFF>We're just wondering... when we should come to collect our chocolate tomorrow?</color>
 Lewis(0)<Speaker>Commander</Speaker><同时置暗>||:Oh... 10am.
 Lewis(0)<Speaker>Lewis</Speaker>||:<color=#00CCFF>10am... I see! Got it!</color>
 Lewis(0)<Speaker>Type 97's Voice</Speaker><同时置暗>||:<color=#00CCFF>10 in the morning? That's ages from now!</color>
 ()<Speaker></Speaker>||:Type 97's voice comes through the comms, making the Commander chuckle.
-Lewis(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Get some rest. Time will pass very quickly once you're asleep.
+Lewis(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Get some rest. Time will pass very quickly once you're asleep.
 Lewis(0)<Speaker>Lewis</Speaker>||:<color=#00CCFF>Right! Then we're turning in!</color>
 ()<Speaker>Commander</Speaker>||:Good work, and goodnight.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +The transmission ends. +The Commander looks down at the communicator and snorts. +...They're REALLY hyped about this.

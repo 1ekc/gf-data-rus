@@ -34,35 +34,35 @@ RO635(3)<Speaker>RO635</Speaker>||:Is that so...? But we have more important thi
 RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:Just now we received word from the Commander that Tallinn City Station came under artillery fire. Our forces have detected a military armored train heading straight for us, so we have to rush back and set up our defenses!
 ()||<黑屏2><BIN>202</BIN><BGM>BGM_Empty</BGM>:A few minutes ago.
 ()||<BGM>BGM_Room</BGM>:Outside of Tallinn. +In the command center on board the Intercontinental Railway.
-NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Good news, Commander! The interference affecting our Dolls has been neutralized!</color>+<color=#00CCFF>We've been hearing from our echelons - everyone is safe, no casualties.</color>
-NPC-Kalin(1)<Speaker>Commander</Speaker><通讯框>||:Understood. +I'm guessing the AR Team must've done something... +Keep an eye on enemy movements. +Have our echelons resume their original mission.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Roger that!</color>
+NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Good news, Commander! The interference affecting our Dolls has been neutralized!</color>+<color=#00CCFF>We've been hearing from our echelons - everyone is safe, no casualties.</color>
+NPC-Kalin(1)<Speaker>Commander</Speaker><scan><通讯框>||:Understood. +I'm guessing the AR Team must've done something... +Keep an eye on enemy movements. +Have our echelons resume their original mission.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Roger that!</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Now we just have to wait for their next report...
 ()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Danger</BGM>:An incoming transmission.
-M1895MG(0)<Speaker>M1895 CB</Speaker><通讯框>||:<color=#00CCFF>Commander, this is Squad Desert Eagle!</color>+<color=#00CCFF>Our Leader told me to inform you that they'd spotted something moving at high speed towards you via another railway track which goes through Tallinn!</color>
-M1895MG(0)<Speaker>Commander</Speaker><通讯框>||:...!!
-M1895MG(0)<Speaker>M1895 CB</Speaker><通讯框><Shake>||:<color=#00CCFF>Oh, I can see it from here! Looks like a massive train— Holy—!</color>
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, this is Squad Desert Eagle!</color>+<color=#00CCFF>Our Leader told me to inform you that they'd spotted something moving at high speed towards you via another railway track which goes through Tallinn!</color>
+M1895MG(0)<Speaker>Commander</Speaker><scan><通讯框>||:...!!
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框><Shake>||:<color=#00CCFF>Oh, I can see it from here! Looks like a massive train— Holy—!</color>
 ()||<SE1>Explode</SE1><SE2>AVG_tele_disconnect</SE2>:M1895 CB's report is interrupted by a deafening boom.
 ()<Speaker>Commander</Speaker>||:M1895 CB?! Are you alright?!
-M1895MG(0)<Speaker>M1895 CB</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Cough... All our signals are still accounted for. We're fine...</color>+<color=#00CCFF>That train is mounted with multiple cannons... Watch out, Commander...</color>
-M1895MG(0)<Speaker>Commander</Speaker><通讯框>||:Acknowledged. +M1895 CB, tell your team to follow the original plan and proceed to the next rallying point.
-M1895MG(0)<Speaker>M1895 CB</Speaker><通讯框>||:<color=#00CCFF>Understood! We'll be on our way!</color>
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Cough... All our signals are still accounted for. We're fine...</color>+<color=#00CCFF>That train is mounted with multiple cannons... Watch out, Commander...</color>
+M1895MG(0)<Speaker>Commander</Speaker><scan><通讯框>||:Acknowledged. +M1895 CB, tell your team to follow the original plan and proceed to the next rallying point.
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>Understood! We'll be on our way!</color>
 ()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏>:BOOM!!!
 ()<Speaker>Commander</Speaker>||<:...Ack!
 ()||<黑屏1>:As the blast goes off, the entire train shakes violently.
 ()||<黑屏2><BIN>9</BIN>:The lights installed on the ceiling keep flickering and go out eventually.
 ()||<BGM>10065</BGM><SE1>AVG_keyboardtype_sci</SE1>:I grab hold of the edge of the desk to keep my balance, then I snatch up my tablet from among the objects that have scattered all around in the tremors and activate the comms channel.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:Kalina?!
-NPC-Kalin(9)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Commander, I'm okay!</color>+<color=#00CCFF>How is it on your end?</color>
-NPC-Kalin(9)<Speaker>Commander</Speaker><通讯框>||:I'm alive, no injuries. +Take stock of our casualties... Never mind, leave it. +Order all echelons to stick to the original plan and execute Operation Golden Fleece at once.
-NPC-Kalin(9)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Are we really carrying out such a risky plan?</color>
-NPC-Kalin(9)<Speaker>Commander</Speaker><通讯框>||:The quarantine wall is still closed; even if they manage to open it, there's no guarantee that we can escape. +So let's give those disgusting stalkers a little surprise. Besides, to be completely honest, Havier is such a tightwad for giving us this rickety train. I want to switch to something bigger and comfier.
-NPC-Kalin(9)<Speaker>Kalina</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Commander... This is way too reckless... But who cares? Since when have you NOT been reckless?</color>+<color=#00CCFF>It's about time we showed those green bastards we aren't to be messed with!</color>
+NPC-Kalin(9)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I'm okay!</color>+<color=#00CCFF>How is it on your end?</color>
+NPC-Kalin(9)<Speaker>Commander</Speaker><scan><通讯框>||:I'm alive, no injuries. +Take stock of our casualties... Never mind, leave it. +Order all echelons to stick to the original plan and execute Operation Golden Fleece at once.
+NPC-Kalin(9)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Are we really carrying out such a risky plan?</color>
+NPC-Kalin(9)<Speaker>Commander</Speaker><scan><通讯框>||:The quarantine wall is still closed; even if they manage to open it, there's no guarantee that we can escape. +So let's give those disgusting stalkers a little surprise. Besides, to be completely honest, Havier is such a tightwad for giving us this rickety train. I want to switch to something bigger and comfier.
+NPC-Kalin(9)<Speaker>Kalina</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Commander... This is way too reckless... But who cares? Since when have you NOT been reckless?</color>+<color=#00CCFF>It's about time we showed those green bastards we aren't to be messed with!</color>
 ()||<黑屏2><BIN>208</BIN><BGM>BGM_Empty</BGM><SE1>AVG_wind_grass</SE1>:Meanwhile, 416, who's currently scouting the area from a high vantage point in the city ruins, spots a giant mechanical beast making a beeline for Tallinn.
 ()||<BGM>BGM_Boss</BGM>:The fading sunset does nothing to soften its harsh outline. Instead, it dyes the armor plates a horrific shade of blood.
 ()<Speaker>416</Speaker>||:That looks like extremely bad news...
 ()||:As the dual-rail train approaches, its cannons swivel around to point straight at Tallinn City Station.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>What's the situation?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>What's the situation?</color>
 UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:It appears to be a military armored train. Whoever sent this seems dead set on blowing us to kingdom come.
 UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>That's only to be expected. This entire city is worth absolutely nothing for them.</color>+<color=#00CCFF>Worst case, we'll have to give our friends the slip. Armored trains are far beyond what we can deal with.</color>
 UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:How will the Commander fare against this?

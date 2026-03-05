@@ -27,6 +27,6 @@ NPC-Shadowless(8)<Speaker>Shadowless</Speaker>||:Coming.
 ()<Speaker></Speaker>||:After the press corps has left, Light strolls out from a corner that Shadowless' gaze has swept over.
 NPC-Light(3)<Speaker>Light</Speaker>||:...Her sixth sense is sharp as ever.
 NPC-Light(3)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click.
-NPC-Light(3);NPC-Ange(2)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Light, where are you?</color> +<color=#00CCFF>We're done over here.</color>
+NPC-Light(3);NPC-Ange(2)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Light, where are you?</color> +<color=#00CCFF>We're done over here.</color>
 NPC-Light(3)<Speaker>Light</Speaker>;NPC-Ange(2)||:Right. I'll be right there.
 NPC-Light(3)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><黑屏1>:Light turns off his comms and strokes his chin. +...She didn't see me, I hope. +With a faint sense of unease, he once again retreats into the blind spot of the CCTV system. 

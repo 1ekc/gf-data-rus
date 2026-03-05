@@ -10,7 +10,7 @@ WA2000(2)<Speaker>WA2000</Speaker>||:It's not like we can't take them in. I mean
 G36(4)<Speaker>Gr G36</Speaker>||:We can't just leave them out here in this cold...
 M1903(2)<Speaker>Springfield</Speaker>||<黑点1>:Seeing as we're all in agreement, then let's keep them for now. We'll let the Commander decide later.
 ()<Speaker></Speaker>||<BIN>7</BIN><黑点2><Night>:... Behind a shady corner near the Griffin base. +As she watches the Griffin T-Dolls taking in her modified Dinergates, Destroyer rolls around on the snow in glee.
-BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:<color=#00CCFF>You might pay for letting your guard down so quickly.</color>
+BOSS-7(0)<Speaker>Gager</Speaker><scan><通讯框>||:<color=#00CCFF>You might pay for letting your guard down so quickly.</color>
 ()<Speaker></Speaker>||:Destroyer gets back onto her feet with poise.
 BOSS-6(0)<Speaker>Destroyer</Speaker>||:Don't worry. I won't repeat the same mistake.
 ()<Speaker></Speaker>||<黑点1><BGM>BGM_Empty</BGM>:Destroyer clenches her fist, her eyes glinting with determination.

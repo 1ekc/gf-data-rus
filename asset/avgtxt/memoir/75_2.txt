@@ -12,7 +12,7 @@ FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:Oui... I see. Copy. +Everyone, we've 
 M1918(0)<Speaker>M1918</Speaker>;FAL(0)||<BIN>1</BIN>:(Sighs) What a pain... +And this is already the most ideal route. +We'll have to go to a lot of trouble to change our course...
 FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:Really? I guess that's true. +In that case, we have no choice. +XM3, this is FAL, do you read me?
 M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:XM3? Is she part of this operation too?
-xm3(0)<Speaker>XM3</Speaker><通讯框>||<BIN>1</BIN>:XM3, reading you loud and clear. +How can I help? +How's our worthless leader doing over there?
+xm3(0)<Speaker>XM3</Speaker><scan><通讯框>||<BIN>1</BIN>:XM3, reading you loud and clear. +How can I help? +How's our worthless leader doing over there?
 xm3(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:Don't worry about her. +We've encountered an unavoidable S.F. cannon near the objective, and we need support.
 xm3(0)<Speaker>XM3</Speaker>;FAL(0)||<BIN>1</BIN>:... +You need us to draw its attention, right?
 FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN><BGM>BGM_Empty</BGM>:We'll leave that to you, then.

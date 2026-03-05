@@ -70,28 +70,28 @@ RO635Mod(0)<Speaker>RO635</Speaker>||:It's because of "Hela"...
 RO635Mod(3)<Speaker>RO635</Speaker>||:...
 ()<Speaker></Speaker>||:RO635 is so shocked, she only manages to answer in acknowledgment after a good few seconds.
 RO635Mod(3)<Speaker>RO635</Speaker>||:...45?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>GF_22W_BGM_2</BGM>:<color=#00CCFF>RO, it's me.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>GF_22W_BGM_2</BGM>:<color=#00CCFF>RO, it's me.</color>
 RO635Mod(2)<Speaker>RO635</Speaker>||:...
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ()<Speaker></Speaker>||:RO635 feels like crying. She has a ton of questions to ask UMP45, but once she opens her mouth, everything she wants to say is lodged in her throat.
 RO635Mod(0)<Speaker>RO635</Speaker>||:...What's the situation on your end?
-RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I'm okay for the moment. I can keep the Aeneas Conference Room up and running.</color>
+RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I'm okay for the moment. I can keep the Aeneas Conference Room up and running.</color>
 RO635Mod(3)<Speaker>RO635</Speaker>;UMP45Mod(0)||:Can you get in touch with the others?
-RO635Mod(3);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>No one else is online.</color>
+RO635Mod(3);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>No one else is online.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:...I see.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I'll keep trying to get through to them.</color> +<color=#00CCFF>What about you? Have you found Ange?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I'll keep trying to get through to them.</color> +<color=#00CCFF>What about you? Have you found Ange?</color>
 RO635Mod(2)<Speaker>RO635</Speaker>;UMP45Mod(0)||:I have, but we can't get her out yet. +I... We're working on it.
-RO635Mod(2);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Figures... When have our missions ever been easy?</color> +<color=#00CCFF>But we're counting on you.</color>
+RO635Mod(2);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Figures... When have our missions ever been easy?</color> +<color=#00CCFF>But we're counting on you.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>;UMP45Mod(0)||:...I won't let you down.
-RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I'll support you remotely.</color>
+RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I'll support you remotely.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>;UMP45Mod(0)||:Right, I'll send you info about the lab in a bit.
-RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>No problem.</color> +<color=#00CCFF>...</color>
+RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>No problem.</color> +<color=#00CCFF>...</color>
 RO635Mod(3)<Speaker>RO635</Speaker>;UMP45Mod(0)||:What?
-RO635Mod(3);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>RO, I have a request.</color>
+RO635Mod(3);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>RO, I have a request.</color>
 RO635Mod(3)<Speaker>RO635</Speaker>;UMP45Mod(0)||:What request?
-RO635Mod(3);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>Nevermind. Even if I don't say anything, you'll do your best to sort this out.</color>
+RO635Mod(3);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>Nevermind. Even if I don't say anything, you'll do your best to sort this out.</color>
 RO635Mod(5)<Speaker>RO635</Speaker>;UMP45Mod(0)||:I will.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Good luck, RO.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Good luck, RO.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The Aeneas Conference Room falls silent again, but RO635 now finds calm in this silence.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>569</BIN><BGM>BGM_Empty</BGM>:Lake of Cognition, Avernus.

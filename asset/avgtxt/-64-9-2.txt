@@ -30,13 +30,13 @@ NPC-Purin(1)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position>||:Get him!
 ()<Speaker>Commander</Speaker>||<BGM>GF_21summer_intro_DemonVariation</BGM>:...Purin? 433?
 ()||:The command room is completely empty save for the Commander.+It is also quiet, like when their adjutant still hasn't arrived at work.
 ()||<SE1>AVG_whitenoise</SE1>:Pzzt...
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>Commander, do you believe yourself to be unique and irreplaceable?</color>
-NPC-Takashi(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>Commander, do you believe yourself to be unique and irreplaceable?</color>
+NPC-Takashi(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...
 ()||:Takashi Shimamura's gloomy face appears on the monitor display.
 ()<Speaker>Commander</Speaker>||:What do you want? What have you done with Purin and the Dolls?
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>We have been giving you chances repeatedly, but that does not mean we have no other alternatives.</color>
-NPC-Takashi(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:What does that mean?
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>We have grown tired of wasting time and energy on you. Now it is time to take back what we have so generously given you.</color>
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>We have been giving you chances repeatedly, but that does not mean we have no other alternatives.</color>
+NPC-Takashi(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:What does that mean?
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>We have grown tired of wasting time and energy on you. Now it is time to take back what we have so generously given you.</color>
 ()||<SE1>AVG_tele_disconnect</SE1><黑点1>:The dour face disappears.
 ()||<黑点2><BIN>434</BIN>:The screen is now showing a real-time CCTV feed from inside the command room.
 ()<Speaker>Commander</Speaker>||:Isn't this...
@@ -53,25 +53,25 @@ NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>W
 ()<Speaker>QBU-191</Speaker>||<黑点1>:<color=#00CCFF>...Commander?</color>
 ()||<黑点2><Night><BIN>8</BIN>:The imposter is conversing with the Dolls and Purin wearing the Commander's own face. The mellow scene sends chills down their spine.
 ()<Speaker>Commander</Speaker>||:What have you done?!+Why is there another me with them?
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>Let's return to the first question I posed you—do you believe you are unique and irreplaceable?</color>
-NPC-Takashi(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:You created a doppelgänger of me using my data here, didn't you?! You did the same with Purin!
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>I did not want to resort to this. Replicating a human takes up a lot of processing power.</color>
-NPC-Takashi(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Dammit...
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>Remember, you chose this.</color>
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>Let's return to the first question I posed you—do you believe you are unique and irreplaceable?</color>
+NPC-Takashi(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:You created a doppelgänger of me using my data here, didn't you?! You did the same with Purin!
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>I did not want to resort to this. Replicating a human takes up a lot of processing power.</color>
+NPC-Takashi(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Dammit...
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>Remember, you chose this.</color>
 ()||:The Commander pulls up their own command interface so as to—
 ()<Speaker>Commander</Speaker>||<SE1>AVG_21Winter_Error</SE1>:...
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>As you have noticed, you will no longer be able to log out of Sector 2Z64.</color>
-NPC-Takashi(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Are you planning to trap my consciousness until my physical body dies in the real world?
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>I have no desire to torment you. Once Suzuka finishes dispatching the people from Section 9, she will head to the real world to send you off.</color>+<color=#00CCFF>Now enjoy your final moments.</color>
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>As you have noticed, you will no longer be able to log out of Sector 2Z64.</color>
+NPC-Takashi(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Are you planning to trap my consciousness until my physical body dies in the real world?
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>I have no desire to torment you. Once Suzuka finishes dispatching the people from Section 9, she will head to the real world to send you off.</color>+<color=#00CCFF>Now enjoy your final moments.</color>
 ()<Speaker>Commander</Speaker>||:...
 ()||:The Commander turns their attention back to the monitor. Purin is currently arguing with the "Commander" fiercely over their new directive.
-NPC-Purin(2)<Speaker>Purin Esaki</Speaker><通讯框>||:<color=#00CCFF>...Why are you putting on the brakes now? I thought you'd found your resolve?!</color>
-NPC-Purin(2)<Speaker>Commander (?)</Speaker><通讯框><同时置暗>||:<color=#00CCFF>I changed my mind.</color>
-NPC-QBU191(1)<Speaker>QBU-191</Speaker><Position>-80,0</Position><通讯框>||:<color=#00CCFF>Commander, just what is going on...?</color>
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||:<color=#00CCFF>...</color>
-NPC-Purin(2)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><通讯框>||:<color=#00CCFF>We've been working so hard for the plan to work all this time! Why would you suddenly—</color>
-NPC-Purin(2)<Speaker>Commander (?)</Speaker><通讯框><同时置暗>||:<color=#00CCFF>Calm down, Purin. Think about the world that the Griffin base belongs to.</color>+<color=#00CCFF>Even if I bring the Dolls back to reality, I'd just be leading them all into an apocalypse.</color>
-NPC-HK433(3)<Speaker>433</Speaker><Position>0,130</Position><通讯框>||:<color=#00CCFF>Commander... Why are you so pessimistic all of a sudden?</color>
+NPC-Purin(2)<Speaker>Purin Esaki</Speaker><scan><通讯框>||:<color=#00CCFF>...Why are you putting on the brakes now? I thought you'd found your resolve?!</color>
+NPC-Purin(2)<Speaker>Commander (?)</Speaker><scan><通讯框><同时置暗>||:<color=#00CCFF>I changed my mind.</color>
+NPC-QBU191(1)<Speaker>QBU-191</Speaker><Position>-80,0</Position><scan><通讯框>||:<color=#00CCFF>Commander, just what is going on...?</color>
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+NPC-Purin(2)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><scan><通讯框>||:<color=#00CCFF>We've been working so hard for the plan to work all this time! Why would you suddenly—</color>
+NPC-Purin(2)<Speaker>Commander (?)</Speaker><scan><通讯框><同时置暗>||:<color=#00CCFF>Calm down, Purin. Think about the world that the Griffin base belongs to.</color>+<color=#00CCFF>Even if I bring the Dolls back to reality, I'd just be leading them all into an apocalypse.</color>
+NPC-HK433(3)<Speaker>433</Speaker><Position>0,130</Position><scan><通讯框>||:<color=#00CCFF>Commander... Why are you so pessimistic all of a sudden?</color>
 ()<Speaker>Commander (?)</Speaker>||:<color=#00CCFF>I've just finally accepted the truth.</color>
 ()||:The Commander notices a flash of suspicion in Purin's eyes.
 ()<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM>:<color=#A9A9A9>I must get in touch with them immediately...</color>
@@ -94,13 +94,13 @@ NPC-HK433(3)<Speaker>433</Speaker><Position>0,130</Position><通讯框>||:<color
 ()||<SE1>AVG_21Winter_Error</SE1>:After a few seconds of silence, the tracker answers in the negative.
 ()<Speaker>Commander</Speaker>||<黑点1>:...+Right. Can you think of a way to establish contact with the room they're in?+Do whatever you can to warn them that it's a doppelgänger.
 ()||<黑点2><BIN>563</BIN><SE1>AVG_Piano_Ambience</SE1>:Pling.+The light suddenly goes out, and the surroundings are plunged in darkness.+The command room collapses all around the Commander. Even the monitor that allowed them to see Purin and the Dolls has gone dark.
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>I seem to have given you too much time.</color>+<color=#00CCFF>Long enough to give you the false impression that you could struggle free.</color>
-NPC-Takashi(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>I seem to have given you too much time.</color>+<color=#00CCFF>Long enough to give you the false impression that you could struggle free.</color>
+NPC-Takashi(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...
 ()||<SE1>ClothingUp</SE1>:The Commander slips the tracker back into their pocket and gazes calmly at the monitor floating in the darkness.
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>There is no point in calling for help. They are in dire straits themselves.</color>
-NPC-Takashi(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:I have faith in them...
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>They may be able to buy you a small amount of time, but it will not make any difference.</color>
-NPC-Takashi(1)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>To alleviate the boredom, I will provide some entertainment.</color>
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>There is no point in calling for help. They are in dire straits themselves.</color>
+NPC-Takashi(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:I have faith in them...
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>They may be able to buy you a small amount of time, but it will not make any difference.</color>
+NPC-Takashi(1)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>To alleviate the boredom, I will provide some entertainment.</color>
 ()||<SE1>AVG_Piano_Ambience</SE1>:Pling.+An ominous sound can be heard. At the same time, a faint light outlines a blurry silhouette in the distance.
 ()<Speaker>Commander</Speaker>||:...
 ()||:Whenever the Commander is faced with a difficult choice, they always have to wrestle with their inner demon.+But this is the first time they are meeting this "demon" face-to-face.
@@ -127,9 +127,9 @@ NPC-Takashi(1)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>T
 ()<Speaker>Commander</Speaker>||:You are not worthy of wielding this pistol.
 ()||<SE1>Select</SE1>:Ka-chak.+The Commander aims for the doppelgänger's head.
 ()||<SE1>AVG_Piano_Ambience</SE1>:Pling.+The ominous sound can be heard again. The Commander feels a chill down their spine, and before they can react, the doppelgänger has been whisked away.
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>I am starting to regret not performing the cyberbrain conversion on you. Even if you had died during the procedure, your neural data would have benefited Sector 2Z64 greatly.</color>
-NPC-Takashi(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Too late. This piece of garbage that you crafted so painstakingly isn't fooling anyone.
-NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><通讯框>||:<color=#00CCFF>Maybe not while you are still alive.</color>
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>I am starting to regret not performing the cyberbrain conversion on you. Even if you had died during the procedure, your neural data would have benefited Sector 2Z64 greatly.</color>
+NPC-Takashi(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Too late. This piece of garbage that you crafted so painstakingly isn't fooling anyone.
+NPC-Takashi(0)<Speaker>Takashi Shimamura</Speaker><scan><通讯框>||:<color=#00CCFF>Maybe not while you are still alive.</color>
 ()||:Shimamura pulls up the command interface again and silently turns up all the parameters to the maximum.
 ()||<SE1>AVG_Piano_Ambience</SE1><BGM>BGM_Empty</BGM>:Pling.
 ()||<黑屏1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=15</controll_shake>:From this moment on, the Commander starts disconnecting from Sector 2Z64 at maximum speed.+Like a lone astronaut separated from their spaceship, drifting off into the dark and silent void...

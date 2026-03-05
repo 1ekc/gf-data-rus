@@ -3,7 +3,7 @@
 NPC-Bramedb(2)<Speaker>???</Speaker>||:(Exhales)
 ()<Speaker></Speaker>||:The woman's eyes fall on a large poster advertising the Galatea Corporation. +She takes out her communicator... 
 NPC-Bramedb(2)<Speaker>???</Speaker>||<SE1>AVG_tele_connect</SE1>:(Exhales) Esteemed tsundere of Galatea—Mrs. Gray, how have you been?
-NPC-MrsGray(4)<Speaker>Mrs. Gray</Speaker><通讯框>;NPC-Bramedb(2)||:<color=#00CCFF>You actually got in touch with me.</color> +<color=#00CCFF>How very unusual, Bramedb.</color>
+NPC-MrsGray(4)<Speaker>Mrs. Gray</Speaker><scan><通讯框>;NPC-Bramedb(2)||:<color=#00CCFF>You actually got in touch with me.</color> +<color=#00CCFF>How very unusual, Bramedb.</color>
 NPC-MrsGray(4);NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:The route is compromised.
 NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker>;NPC-Bramedb(2)||:<color=#00CCFF>...I see.</color> +<color=#00CCFF>Aren't you taking a bit too long?</color>
 NPC-MrsGray(0);NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:(Exhales) Am I? +We're working non-stop 24/7 over here. Unlike you, we don't have the luxury of enjoying the AC in an office.
@@ -32,7 +32,7 @@ KH2002(0)<Speaker>Khaybar</Speaker>||:Hm... But nobody's home... +Bailey, let's 
 ()<Speaker></Speaker>||:An Autobahn snakes around a mountain like a scarf, with vehicles whizzing by every so often. +One must raise their voice by several decibels in order to be heard over the noise.
 ()<Speaker>Commander</Speaker>||:Begin the investigation. Leave no stone unturned.
 ()<Speaker></Speaker>||:Upon receiving the order, the AR Team spread out and slowly starts searching the area.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I've taken a look at the surveillance cameras nearby. Whoever sabotaged the system...Is an EW expert.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I've taken a look at the surveillance cameras nearby. Whoever sabotaged the system...Is an EW expert.</color>
 UMP45Mod(0)<Speaker>Commander</Speaker>||:The truck couldn't have just vanished into thin air... +It's not exactly easy to build any mechanisms on a highway without attracting attention.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>Hm... There's no sign of emergency braking on the surface of the road, and the Traffic Department has no record of any tailgating or traffic accidents either.</color> +<color=#00CCFF>I've inspected the Autobahn closely—I don't see any unnatural joints on the road, so there shouldn't be any major mechanisms.</color>
 UMP45Mod(0)<Speaker>Commander</Speaker>||:...What if it's underground?
@@ -58,7 +58,7 @@ M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Yeah!
 ()<Speaker>Commander</Speaker>||<黑点2><BIN>2</BIN><Night>:The truck was transporting Iaso's Boxes.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:What?!!! So the truck was related to Galatea?
 ()<Speaker></Speaker>||:Just then, the communicator suddenly comes to life—it's M4, who is still in the middle of her own investigation.
-NytoIsomer(11)<Speaker>M4A1</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander!</color> +<color=#00CCFF>I followed the tracks and found an exit from the Autobahn over here.</color>
+NytoIsomer(11)<Speaker>M4A1</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander!</color> +<color=#00CCFF>I followed the tracks and found an exit from the Autobahn over here.</color>
 NytoIsomer(11)<Speaker>Commander</Speaker>||:There shouldn't be any junctions here.
 NytoIsomer(11)<Speaker>M4A1</Speaker>||:<color=#00CCFF>It looks like two straight roads plus a beltway on the surface.</color> +<color=#00CCFF>But there's actually a very well-hidden mine entrance next to one of the straight roads directly underneath the beltway.</color> +<color=#00CCFF>One can drive straight into it with sufficient skills.</color> +<color=#00CCFF>The junction is obscured by grass and rocks—perfect and natural camouflage.</color>
 NytoIsomer(11)<Speaker>Commander</Speaker>||:We're heading over right away.

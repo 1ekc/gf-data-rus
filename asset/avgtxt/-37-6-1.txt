@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-G36C(0)<Speaker>Gr G36c</Speaker><通讯框>||<BIN>240</BIN><黑屏2><BGM>BGM_Room</BGM>:<color=#00CCFF>Status report – nothing unusual.</color>
+G36C(0)<Speaker>Gr G36c</Speaker><scan><通讯框>||<BIN>240</BIN><黑屏2><BGM>BGM_Room</BGM>:<color=#00CCFF>Status report – nothing unusual.</color>
 MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:Stand by. We'll get in touch again in 30 minutes. +Lee Enfield out.
 TT33(0)<Speaker>Tokarev</Speaker>||:What are your thoughts, Miss Lee?
 MLEMK1(0)<Speaker>Lee Enfield</Speaker>||:About what?

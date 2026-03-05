@@ -32,26 +32,26 @@ NPC-Helian(0)<Speaker>Helian</Speaker>||:We have no choice.
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>357</BIN><BGM>BGM_Room</BGM>:In the safe house in Berlin.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:...This isn't what was planned.
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF> You sound like a kid who received a workbook for Christmas.</color>
+NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF> You sound like a kid who received a workbook for Christmas.</color>
 ()<Speaker></Speaker>||:The Commander shakes their head and sighs into the communicator... After all that's happened, even something like this isn't enough to alarm the Commander.
 ()<Speaker>Commander</Speaker>||:I'll think of a way to deal with this... The Earl should have a solution.
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Probably for the best. I don't want to have to manage an MCV full of Dolls for you...</color>
-NPC-Persica(3)<Speaker>Commander</Speaker><通讯框><同时置暗>||:How's the progress on the Doll repairs?
-NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||<震屏3>:<color=#00CCFF>Huuuhhh?! Are you rushing me?</color> +<color=#00CCFF>I came to your base for a vacation... I mean, to be protected!</color> +<color=#00CCFF>Now I'm stuck wandering around with you and you have the gall to rush me?!</color>
+NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Probably for the best. I don't want to have to manage an MCV full of Dolls for you...</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:How's the progress on the Doll repairs?
+NPC-Persica(1)<Speaker>Persica</Speaker><scan><通讯框>||<震屏3>:<color=#00CCFF>Huuuhhh?! Are you rushing me?</color> +<color=#00CCFF>I came to your base for a vacation... I mean, to be protected!</color> +<color=#00CCFF>Now I'm stuck wandering around with you and you have the gall to rush me?!</color>
 ()<Speaker>Commander</Speaker>||:Er... That's not what I meant. +But I really need backup right now...
 ()<Speaker></Speaker>||:The Commander falls silent.
 ()<Speaker>Commander</Speaker>||:I need to be able to dispatch a forward expeditionary team. +But this will be a private operation undertaken without the Earl's permission.
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>That's strange.</color> +<color=#00CCFF>So you won't go rescue Ange if you don't get support, money or manpower?</color>
-NPC-Persica(3)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...No, I will.
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Then isn't it settled?</color> +<color=#00CCFF>Just do what you want. Why are you putting so much thought into it?</color> +<color=#00CCFF>I drink a cup of coffee when I wake up every morning, but that doesn't mean I need to spend the day working.</color>
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>You need to go with your gut and your instincts, whether you're a soldier or a scientist.</color>
-NPC-Persica(2)<Speaker>Commander</Speaker><同时置暗><通讯框>||:... +...It feels kind of weird to hear you lecturing me about this.
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>You're just overthinking things.</color>
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I haven't seen Ange keep a cat yet, so letting her die just like that would be a bit of a shame.</color>
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>How about this, I'll send an intellectually-inclined Doll with my new invention to help you out. Don't expect anything else, though, since I've used all the combat-grade parts on them.</color>
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>...Honestly, she's been gone for so long but she's still finding ways to cause me problems.</color>
-NPC-Persica(3)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Um, thanks.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Right, is that conference room any good? I didn't have the chance to test it out.</color>
+NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>That's strange.</color> +<color=#00CCFF>So you won't go rescue Ange if you don't get support, money or manpower?</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...No, I will.
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Then isn't it settled?</color> +<color=#00CCFF>Just do what you want. Why are you putting so much thought into it?</color> +<color=#00CCFF>I drink a cup of coffee when I wake up every morning, but that doesn't mean I need to spend the day working.</color>
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>You need to go with your gut and your instincts, whether you're a soldier or a scientist.</color>
+NPC-Persica(2)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:... +...It feels kind of weird to hear you lecturing me about this.
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>You're just overthinking things.</color>
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I haven't seen Ange keep a cat yet, so letting her die just like that would be a bit of a shame.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>How about this, I'll send an intellectually-inclined Doll with my new invention to help you out. Don't expect anything else, though, since I've used all the combat-grade parts on them.</color>
+NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>...Honestly, she's been gone for so long but she's still finding ways to cause me problems.</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Um, thanks.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Right, is that conference room any good? I didn't have the chance to test it out.</color>
 ()<Speaker>Commander</Speaker>||:Uh... hang on, I'll send you the feedback data...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:On the outskirts of Berlin, near Bohnsdorf.
@@ -61,7 +61,7 @@ Nyto(1)<Speaker>Black Nyto</Speaker>||<SE1>ClothingUp</SE1>:Sister Olga... We've
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>||:Log all the samples you could harvest. +Have you still not found 10876's body yet?
 Nyto(1)<Speaker>Black Nyto</Speaker>||:No, we haven't. We've examined the blood samples from this region but there are no corpses that match our data. +Considering how bad the damage is... Can it still be recovered for use?
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>||<SE1>AVG_tele_connect</SE1>:How is the instrument probe going?
-()<Speaker>White Nyto</Speaker><通讯框>||:<color=#00CCFF>Big Sister Olga, the production lines here are all inoperable, although we managed to recover samples of 10876's blood from some of the devices.</color>
+()<Speaker>White Nyto</Speaker><scan><通讯框>||:<color=#00CCFF>Big Sister Olga, the production lines here are all inoperable, although we managed to recover samples of 10876's blood from some of the devices.</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>||:That's enough. Her only value now is in that. +While this experimental batch was a failure, we managed to recover a partial success.
 Nyto(1)<Speaker>Black Nyto</Speaker>||<BGM>BGM_Empty</BGM>:Yes.
 ()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><BGM>GF_22W_BGM_1</BGM>:An elongated shadow extends out from the direction of the light. Olga looks up and sees a towering figure. +The cold wind ruffles her cloak and her hair, and though her back is to the light, the gun she is holding is both eye-catching and an eyesore.

@@ -132,14 +132,14 @@ RO635Mod(0)<Speaker>Commander</Speaker><同时置暗>||:...
 ()||:The Commander looks up at the AR Team. +Ever since they arrived in Berlin, these Dolls have never rested. They've been on high alert and in constant danger the whole time. +They may be Dolls, but even they are near their limit.
 ()<Speaker>Commander</Speaker>||<黑点1>:Let's push it one last time. For our final mission.
 ()||<黑点2><BGM>BGM_Empty</BGM>:At the agreed time, the Commander has Khaybar dial the number. +The call is picked up after seven rings.
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||<BGM>BGM_stage11</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You are very punctual, Commander. Have you come to a decision regarding our deal?</color>
-NPC-MrsGray(6)<Speaker>Commander</Speaker><通讯框><同时置暗>||:I'll agree to the exchange, but I want to speak to Ange before that.
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>What if I say no?</color>
-NPC-MrsGray(6)<Speaker>Commander</Speaker><通讯框><同时置暗>||:I need to be certain that she is still alive and well. If you can't even afford us this courtesy, then it will be difficult for us to proceed with the exchange.
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||<BGM>BGM_stage11</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You are very punctual, Commander. Have you come to a decision regarding our deal?</color>
+NPC-MrsGray(6)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:I'll agree to the exchange, but I want to speak to Ange before that.
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>What if I say no?</color>
+NPC-MrsGray(6)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:I need to be certain that she is still alive and well. If you can't even afford us this courtesy, then it will be difficult for us to proceed with the exchange.
 ()||:The person on the other end snickers and puts down the handset. +Shortly after, a stifled scream comes through the speaker.
 ()||<SE1>Rope</SE1>:The Commander grips the handset tightly, their knuckles are white.
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>Satisfied?</color> +<color=#00CCFF>Now you know for sure that Ange is indeed still alive and well.</color>
-NPC-MrsGray(6)<Speaker>Commander</Speaker><通讯框><同时置暗>||:... 
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>Now, about the exchange.</color>
-NPC-MrsGray(6)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Two hours from now, same place. We'll meet at the airport.
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>No problem.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>Satisfied?</color> +<color=#00CCFF>Now you know for sure that Ange is indeed still alive and well.</color>
+NPC-MrsGray(6)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>Now, about the exchange.</color>
+NPC-MrsGray(6)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Two hours from now, same place. We'll meet at the airport.
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>No problem.</color>

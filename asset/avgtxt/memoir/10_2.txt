@@ -11,13 +11,13 @@ NPC-Kalin(7)<Speaker>Commander</Speaker><同时置暗>||:...
 PPKMod(0)<Speaker>PPK</Speaker>||:... +Are you an elementary schooler? You won't get into middle school if you keep reading all those trashy stories.
 ()||:PPK's sarcasm doesn't get a response from Sanaya. +It seems she only appears when battle is imminent.
 ()||<SE1>AVG_tele_connect</SE1>:Beep—Her squad comms go off.
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>PPK, the Commander said that there's no solution for your problem for the time being. Is that true?</color>
-PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<通讯框>||:Mhm, looks like my problem is something else.
-PPKMod(0);Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>MP-443's finished her sweep. I'll send her over to help you out.</color>
-PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<通讯框>||:...
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>PPK, the Commander said that there's no solution for your problem for the time being. Is that true?</color>
+PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<scan><通讯框>||:Mhm, looks like my problem is something else.
+PPKMod(0);Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>MP-443's finished her sweep. I'll send her over to help you out.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<scan><通讯框>||:...
 PPKMod(0)<Speaker>PPK</Speaker>||:To help me out or take me out?
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>Hey! I'm on this channel too, you know!</color> +<color=#00CCFF>Also, I'm on the way, ETA 15 minutes.</color>
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>PPK, go meet up with MP-443, then hurry up and complete the mission so you can go back for servicing!</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>Hey! I'm on this channel too, you know!</color> +<color=#00CCFF>Also, I'm on the way, ETA 15 minutes.</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>PPK, go meet up with MP-443, then hurry up and complete the mission so you can go back for servicing!</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:Yes, yes, I know.
 ()||<SE1>AVG_tele_disconnect</SE1>:Click—The team call ends. +PPK does another gear check again and waits for MP-443 to arrive so she can rendezvous with her.
 ()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:While she waits, she goes over the events and progress of the mission thus far and begins filling in a mission report. +There's the time, the location, the mission type...

@@ -1,14 +1,14 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>288</BIN><BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE1>GF_Halloween_Wind_loop</SE1>:0012 hours. The "Hungry" icon on top of Vector's head has vanished. She slowly rises to her feet, and the only sound in her ears is the harsh whistling of the wind.
 Vector(0)<Speaker>Vector</Speaker>||:... +P...
-Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Agent.</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||<SE1>Stop_AVG_loop</SE1>:...Oh, it's you.
-Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>PP-90 has left the game. I am sorry for your loss, Agent.</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||:PP-90...
-Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Springfield's team passed through here just now.</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1))<通讯框>||:Were they also headed toward the Dark Zone?
-Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Yes.</color>
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>All the surviving teams should be headed toward the Dark Zone now.</color>
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Agent.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<scan><通讯框>||<SE1>Stop_AVG_loop</SE1>:...Oh, it's you.
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>PP-90 has left the game. I am sorry for your loss, Agent.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<scan><通讯框>||:PP-90...
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Springfield's team passed through here just now.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1))<scan><通讯框>||:Were they also headed toward the Dark Zone?
+Vector(0);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Yes.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>All the surviving teams should be headed toward the Dark Zone now.</color>
 Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:Alright. I'll go meet R93 and the others at the train station, then.
 ()||<黑屏2><BIN>55</BIN><Night><BGM>BGM_Empty</BGM>:...In Bryant Park, which is surrounded by tall buildings.
 M870P(0)<Speaker>M870</Speaker>||<BGM>GF_xDivision_Scene1</BGM>:(Pants heavily) +Did those cowards spend all their skill points on running speed just so they can flee?!
@@ -35,10 +35,10 @@ M870P(0)<Speaker>M870</Speaker>;VSK(0)||:Don't worry. A kidnapper's going to cal
 M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:...
 M870P(0)<Speaker>M870</Speaker>;VSK(0)||:I was just KIDDING. You know, to lighten the mood and all that? Don't go taking it so seriously. +They might have already entered the Dark Zone. Remember those system messages that kept coming up? +What was it, "Agents have entered the Dark Zone" and all that?
 M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:Doesn't that make things worse? +They'll have a hard time dealing with the dangers of the Dark Zone by themselves.
-M870P(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Correct. It will be very difficult for them to survive by themselves in the Dark Zone.</color>
-M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)<通讯框>||:Oi! Don't suddenly butt in like that! Are you trying to scare me or what?!
-M870P(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>My apologies, Agent.</color>
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>However, I would still advise you to go to their aid immediately.</color>
+M870P(0);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Correct. It will be very difficult for them to survive by themselves in the Dark Zone.</color>
+M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)<scan><通讯框>||:Oi! Don't suddenly butt in like that! Are you trying to scare me or what?!
+M870P(0);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>My apologies, Agent.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>However, I would still advise you to go to their aid immediately.</color>
 M870P(0)<Speaker>M870</Speaker>||:Fine fine, you can shut up now.
 VSK(0)<Speaker>VSK-94</Speaker>||:We need to go to the Dark Zone right now.
 M870P(0)<Speaker>M870</Speaker>||:...Fine, I get it. Let's head over there.

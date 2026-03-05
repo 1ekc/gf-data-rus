@@ -242,11 +242,11 @@ K5(0)<Speaker>K5</Speaker>||:So what you said about a portal that directly links
 Yurine(0)<Speaker>Yurine</Speaker>||:Yes, I've been reading through magical tomes the entire afternoon and found that this solution is the simplest, though it is also somewhat draining.
 Minosu(0)<Speaker>Minos</Speaker>||:Yurine is amazing!
 ()<Speaker>Commander</Speaker>||:Well, that's won—
-NPC-Kalin(5)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander! Bad news!</color>
-NPC-Kalin(5)<Speaker>Commander</Speaker><通讯框>||:What is it, Kalin?
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>The big storm is here! The contamination index around the base is spiking!</color>
-NPC-Kalin(4)<Speaker>Commander</Speaker><通讯框>||:...
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>And it's brought tons of ELIDs with it...</color>
+NPC-Kalin(5)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander! Bad news!</color>
+NPC-Kalin(5)<Speaker>Commander</Speaker><scan><通讯框>||:What is it, Kalin?
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>The big storm is here! The contamination index around the base is spiking!</color>
+NPC-Kalin(4)<Speaker>Commander</Speaker><scan><通讯框>||:...
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>And it's brought tons of ELIDs with it...</color>
 ()<Speaker>Commander</Speaker>||:Understood. Dispatch our teams immediately.
 BOSS-8(0)<Speaker>Agent</Speaker>||:What great timing.
 Yurine(0)<Speaker>Yurine</Speaker>||:You seem to be having some kind of trouble.

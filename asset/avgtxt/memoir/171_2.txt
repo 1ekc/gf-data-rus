@@ -15,14 +15,14 @@ Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||<BGM>BGM_Empty</BGM>:...Huh?
 ()<Speaker>Clerk</Speaker>||:It's such value for money. You will definitely come again after the first time, I guarantee it.
 Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||:Alright then... It doesn't seem too expensive.
 ()||<黑屏1>:
-NPC-Maid(0)<Speaker>CS 0003</Speaker><通讯框>||<黑屏2><BIN>72</BIN>:<color=#00CCFF>Hello, I am Customer Service Unit 0003 at Bridge of Sighs.</color> +<color=#00CCFF>Your standard package has been unlocked. Please choose a number from 1 to 99.</color>
+NPC-Maid(0)<Speaker>CS 0003</Speaker><scan><通讯框>||<黑屏2><BIN>72</BIN>:<color=#00CCFF>Hello, I am Customer Service Unit 0003 at Bridge of Sighs.</color> +<color=#00CCFF>Your standard package has been unlocked. Please choose a number from 1 to 99.</color>
 Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||:Just randomly?
-NPC-Maid(0)<Speaker>CS 0003</Speaker><通讯框>||:<color=#00CCFF>That's right, we randomize the bodies we provide for our clients, so just pick a number that speaks to you.</color>
+NPC-Maid(0)<Speaker>CS 0003</Speaker><scan><通讯框>||:<color=#00CCFF>That's right, we randomize the bodies we provide for our clients, so just pick a number that speaks to you.</color>
 Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||:...I'll go with the last number then.
-NPC-Maid(0)<Speaker>CS 0003</Speaker><通讯框>||:<color=#00CCFF>Request acknowledged. You now have access to Body No. 99.</color> +<color=#00CCFF>You may use it for 24 hours. I will contact you 20 minutes before your time is up.</color>
+NPC-Maid(0)<Speaker>CS 0003</Speaker><scan><通讯框>||:<color=#00CCFF>Request acknowledged. You now have access to Body No. 99.</color> +<color=#00CCFF>You may use it for 24 hours. I will contact you 20 minutes before your time is up.</color>
 Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||:Okay.
 ()||<黑屏1>:
-NPC-Maid(0)<Speaker>CS 0003</Speaker><通讯框>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>Now just enjoy yourself.</color>
+NPC-Maid(0)<Speaker>CS 0003</Speaker><scan><通讯框>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>Now just enjoy yourself.</color>
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Connecting to body... +... +...
 ()||<黑屏1>:
 NPC_Dragoon(0)<Speaker>Ribeyrolles</Speaker>||<黑屏2><BIN>89</BIN><SE1>AVG_Grey_Hand_Mech</SE1>:... +Huh? ...My arms are really long... +And my legs feel so powerful...
@@ -54,7 +54,7 @@ NPC_Dragoon(0)<Speaker>Ribeyrolles</Speaker>||:...Oh.
 ()||<黑点1>:
 ()<Speaker>System</Speaker>||<震屏3><黑点2><BIN>99</BIN><SE2>Gunfight</SE2><SE1>Battlefield</SE1>:<color=#00CCFF>Combat over. 18,888 enemies eliminated. Would you like to continue?</color>
 NPC_Dragoon(0)<Speaker>Ribeyrolles</Speaker>||<SE1>Select</SE1>:Yes, I want to go up a difficulty level.
-NPC-Maid(0)<Speaker>CS 0003</Speaker><通讯框>||:<color=#00CCFF>Hello, your session will terminate in 20 minutes. Please move your body to the designated location and prepare to transfer back to your own body.</color>
+NPC-Maid(0)<Speaker>CS 0003</Speaker><scan><通讯框>||:<color=#00CCFF>Hello, your session will terminate in 20 minutes. Please move your body to the designated location and prepare to transfer back to your own body.</color>
 NPC_Dragoon(0)<Speaker>Ribeyrolles</Speaker>||:...Okay.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>BGM_Empty</BGM>:...The next day.
@@ -69,7 +69,7 @@ Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||:Y-yes please.
 NPC_Dragoon(0)<Speaker>Ribeyrolles</Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Grey_Hand_Mech</SE1>:Phew, I'm back.
 ()<Speaker></Speaker>||:...
 ()<Speaker></Speaker>||:...
-NPC-Maid(0)<Speaker>CS 0003</Speaker><通讯框>||:<color=#00CCFF>Hello, your session will terminate in 20 minutes. Please move your body to the designated location and prepare to transfer back to your own body.</color>
+NPC-Maid(0)<Speaker>CS 0003</Speaker><scan><通讯框>||:<color=#00CCFF>Hello, your session will terminate in 20 minutes. Please move your body to the designated location and prepare to transfer back to your own body.</color>
 ()<Speaker></Speaker>||:...
 Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||:I'd like another session!
 ()<Speaker>Clerk</Speaker>||:Sure thing.
@@ -85,9 +85,9 @@ Ribeyrolles(0);NPC_Dragoon(0)<Speaker>Ribeyrolles</Speaker>||:I'm so much more l
 Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>;NPC_Dragoon(0)||:I must return to that body as soon as possible. I don't care how much credit it costs.
 NPC_Dragoon(0)<Speaker>Ribeyrolles</Speaker>||:Ahh... This is where I belong...
 ()<Speaker></Speaker>||:... +......
-NPC-Maid(0)<Speaker>CS 0003</Speaker><通讯框>||:<color=#00CCFF>Hello, your session will terminate in 20 minutes. Please move your body to the designated location and prepare to transfer back to your own body.</color>
+NPC-Maid(0)<Speaker>CS 0003</Speaker><scan><通讯框>||:<color=#00CCFF>Hello, your session will terminate in 20 minutes. Please move your body to the designated location and prepare to transfer back to your own body.</color>
 NPC_Dragoon(0)<Speaker>Ribeyrolles</Speaker>||:Another session, please.
-NPC-Maid(0)<Speaker>CS 0003</Speaker><通讯框>||:<color=#00CCFF>I'm sorry, but you have run out of credit.</color>
+NPC-Maid(0)<Speaker>CS 0003</Speaker><scan><通讯框>||:<color=#00CCFF>I'm sorry, but you have run out of credit.</color>
 NPC_Dragoon(0)<Speaker>Ribeyrolles</Speaker>||:...Oh well, I'll save up more next time.
 ()||<黑屏1>:
 Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||<黑屏2><BIN>72</BIN>:(Sighs) Time to go, I guess.

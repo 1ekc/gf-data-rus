@@ -26,65 +26,65 @@ ColtWalker(1)<Speaker>Maggie</Speaker>||:Ah—Fantastic!
 ColtWalker(1)<Speaker>Maggie</Speaker>||:Something seems to be missing.
 ()||<SE1>AVG_20Winter_Whistle</SE1>:Maggie snaps her fingers, and a glass of whiskey appears on the table as an apéritif.
 ColtWalker(1)<Speaker>Maggie</Speaker>||:...Mhmm, now we're talking. +Let's get to work, Catherine, Quimby.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hold on, Maggie. Where did you leave your body? At that bar?</color>
-NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Yeah, there's so much to do, I couldn't wait for you to get here.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>You may be a regular at the bar... but it doesn't feel very safe leaving your body unguarded...</color>
-NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Stop fretting. The barkeeper won't let anyone drag me off.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>I know he can be trusted, but...</color>
-NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:But what? Who are you to question my security awareness? My body has gone missing on your watch at least three times.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>Hey, we agreed—no raking over the ashes!</color>
-NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Where's Quimby?
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>I'm ready, Mistress!</color> +<color=#00CCFF>Transaction data have been refreshed.</color>
-NPC-Quimby(0)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:How long will it take to convert all the credits into Sadis Gold?
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>Gold is a very popular commodity these days. I suppose everyone is sick of having every single transaction logged by the credit system.</color> +<color=#00CCFF>I just ran some calculations. It will take 15 working days to convert all the credits, especially those from your stocks and real estate.</color>
-NPC-Quimby(0)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Right. Starting from today, all funds invested in Tequila Manufacturing can only be traded in cash. 
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>No problem. Next up is the latest ledger.</color>
-NPC-Quimby(0)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Let me see.
-NPC-Scalper(1)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>How many digits is this...</color> +<color=#00CCFF>Maggie!!! We're absolutely loaded!!!</color>
-NPC-Scalper(1)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:...Don't get ahead of yourself. The money is only ours after it's completely transferred to our personal account.
-NPC-Scalper(0)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>Tsk, you don't give me my bonus in advance, and now you don't even let me celebrate ahead of time?</color>
-NPC-Scalper(0)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Well, let me give you even more good news. Someone keeps paying us big money. +While we've been chattering away, a private solicitor working for an aristocratic family just contacted me.
-NPC-Scalper(0)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>Hahahaha, you're a genius for coming up with this idea!</color>
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hold on, Maggie. Where did you leave your body? At that bar?</color>
+NPC-Scalper(3)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Yeah, there's so much to do, I couldn't wait for you to get here.
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>You may be a regular at the bar... but it doesn't feel very safe leaving your body unguarded...</color>
+NPC-Scalper(3)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Stop fretting. The barkeeper won't let anyone drag me off.
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>I know he can be trusted, but...</color>
+NPC-Scalper(3)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:But what? Who are you to question my security awareness? My body has gone missing on your watch at least three times.
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>Hey, we agreed—no raking over the ashes!</color>
+NPC-Scalper(3)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Where's Quimby?
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>I'm ready, Mistress!</color> +<color=#00CCFF>Transaction data have been refreshed.</color>
+NPC-Quimby(0)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:How long will it take to convert all the credits into Sadis Gold?
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>Gold is a very popular commodity these days. I suppose everyone is sick of having every single transaction logged by the credit system.</color> +<color=#00CCFF>I just ran some calculations. It will take 15 working days to convert all the credits, especially those from your stocks and real estate.</color>
+NPC-Quimby(0)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Right. Starting from today, all funds invested in Tequila Manufacturing can only be traded in cash.
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>No problem. Next up is the latest ledger.</color>
+NPC-Quimby(0)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Let me see.
+NPC-Scalper(1)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>How many digits is this...</color> +<color=#00CCFF>Maggie!!! We're absolutely loaded!!!</color>
+NPC-Scalper(1)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:...Don't get ahead of yourself. The money is only ours after it's completely transferred to our personal account.
+NPC-Scalper(0)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>Tsk, you don't give me my bonus in advance, and now you don't even let me celebrate ahead of time?</color>
+NPC-Scalper(0)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Well, let me give you even more good news. Someone keeps paying us big money. +While we've been chattering away, a private solicitor working for an aristocratic family just contacted me.
+NPC-Scalper(0)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>Hahahaha, you're a genius for coming up with this idea!</color>
 ColtWalker(1)<Speaker>Maggie</Speaker>||:...I can't take credit for the idea. I simply like reading up on history. +People are very bad at learning from the past.
 ()||<SE1>AVG_tele_connect</SE1>:Ring— +Maggie's private communicator comes to life.
 ColtWalker(1)<Speaker>Maggie</Speaker>||:What is it, Nikolai?
-NPC-NervousMan(0)<Speaker>Nikolai</Speaker><通讯框>||:<color=#00CCFF>Maggie, pay me the dividends for this month two days earlier. I need to take a trip to Germany.</color>
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>||:<color=#00CCFF>...</color>
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-NervousMan(0)<Speaker>Nikolai</Speaker><scan><通讯框>||:<color=#00CCFF>Maggie, pay me the dividends for this month two days earlier. I need to take a trip to Germany.</color>
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ColtWalker(1)<Speaker>Maggie</Speaker>||:It's alright, the jammer is on. You can see him, but he can't see you.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>So what is this idiot trying to pull this time?!</color>
-NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Watch your attitude, Catherine. Whoever gives us money is our boss. +Fend him off using my comms. Make some conversation and try to change the subject. +Oh, and don't accept any invitations to balls or parties. Right now, every minute wasted is money wasted.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>Right, I'll do my best.</color>
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>So what is this idiot trying to pull this time?!</color>
+NPC-Scalper(3)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Watch your attitude, Catherine. Whoever gives us money is our boss. +Fend him off using my comms. Make some conversation and try to change the subject. +Oh, and don't accept any invitations to balls or parties. Right now, every minute wasted is money wasted.
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>Right, I'll do my best.</color>
 ColtWalker(1)<Speaker>Maggie</Speaker>||:Quimby, keep working.
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
-NPC-NervousMan(0)<Speaker>Nikolai</Speaker><通讯框>||:<color=#00CCFF>Maggie?</color>
-NPC-Scalper(0)<Speaker>Maggie</Speaker><通讯框>||:<color=#00CCFF>I was just checking our accounts.</color> +<color=#00CCFF>You should've asked earlier. We just finished putting our books in order this month. We'd have to start all over again if we made any changes.</color>
-NPC-NervousMan(0)<Speaker>Nikolai</Speaker><通讯框>||:<color=#00CCFF>Then just shift some funds from someone else. It's an emergency.</color>
-NPC-Scalper(3)<Speaker>Maggie</Speaker><通讯框>||:<color=#00CCFF>But we've already invested everything on hand...</color>
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
+NPC-NervousMan(0)<Speaker>Nikolai</Speaker><scan><通讯框>||:<color=#00CCFF>Maggie?</color>
+NPC-Scalper(0)<Speaker>Maggie</Speaker><scan><通讯框>||:<color=#00CCFF>I was just checking our accounts.</color> +<color=#00CCFF>You should've asked earlier. We just finished putting our books in order this month. We'd have to start all over again if we made any changes.</color>
+NPC-NervousMan(0)<Speaker>Nikolai</Speaker><scan><通讯框>||:<color=#00CCFF>Then just shift some funds from someone else. It's an emergency.</color>
+NPC-Scalper(3)<Speaker>Maggie</Speaker><scan><通讯框>||:<color=#00CCFF>But we've already invested everything on hand...</color>
 ()||:Nikolai's face darkens with obvious displeasure.
 ColtWalker(3)<Speaker>Maggie</Speaker>||:...Never mind. Catherine, go sort out the issue with the account that I told you about. +It took me way too long to patch things up the last time you started an argument with him.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>||:<color=#00CCFF>Ugh, I'm really no good at dealing with morons like him.</color> +<color=#00CCFF>Which account was it again? Give me the address. Seriously, why do we still need to authenticate large transactions offline? What era is this?</color>
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>||:<color=#00CCFF>I've sent you the address!</color>
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>||:<color=#00CCFF>Ugh, I'm really no good at dealing with morons like him.</color> +<color=#00CCFF>Which account was it again? Give me the address. Seriously, why do we still need to authenticate large transactions offline? What era is this?</color>
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>||:<color=#00CCFF>I've sent you the address!</color>
 ()||<SE1>ClothingUp</SE1>:Catherine shrugs helplessly and starts sorting out the account with Quimby. +Maggie turns to address Nikolai through the comms.
 ColtWalker(2)<Speaker>Maggie</Speaker>||:As you know, your affairs are always a priority here. +But settling the accounts took a great deal of effort this time. It would be a massive headache if we had to start from scratch. +How about this? I'll transfer 200 shares in the venture capital company that you've got your eyes on to your name. Think of it as a subsequent investment.
-NPC-NervousMan(0)<Speaker>Nikolai</Speaker><通讯框>;ColtWalker(2)||:<color=#00CCFF>Thank you for the suggestion, but I urgently need the cash right now.</color>
-NPC-NervousMan(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:... +Do you mind telling me why the urgency? Let me see if I can come up with other alternatives.
-NPC-NervousMan(0)<Speaker>Nikolai</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>I need to set up a new branch in Germany.</color>
-NPC-NervousMan(0)<通讯框>;ColtWalker(2)<Speaker>Maggie</Speaker>||:Congratulations! Speaking of Germany... +I've got an idea. I will transfer part of the gold stocks from Germany to you. That way you won't need to worry about the exchange rate when you cash out over there.
-NPC-NervousMan(0)<Speaker>Nikolai</Speaker><通讯框>;ColtWalker(2)||:<color=#00CCFF>...Fine. Then I'll be waiting for the transfer. This is the account I'm using.</color> +<color=#00CCFF>I've sent you the details. Take a look.</color>
+NPC-NervousMan(0)<Speaker>Nikolai</Speaker><scan><通讯框>;ColtWalker(2)||:<color=#00CCFF>Thank you for the suggestion, but I urgently need the cash right now.</color>
+NPC-NervousMan(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:... +Do you mind telling me why the urgency? Let me see if I can come up with other alternatives.
+NPC-NervousMan(0)<Speaker>Nikolai</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>I need to set up a new branch in Germany.</color>
+NPC-NervousMan(0)<scan><通讯框>;ColtWalker(2)<Speaker>Maggie</Speaker>||:Congratulations! Speaking of Germany... +I've got an idea. I will transfer part of the gold stocks from Germany to you. That way you won't need to worry about the exchange rate when you cash out over there.
+NPC-NervousMan(0)<Speaker>Nikolai</Speaker><scan><通讯框>;ColtWalker(2)||:<color=#00CCFF>...Fine. Then I'll be waiting for the transfer. This is the account I'm using.</color> +<color=#00CCFF>I've sent you the details. Take a look.</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>||:Catherine, get on it.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>||:<color=#00CCFF>Okay.</color>
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>||:<color=#00CCFF>Okay.</color>
 ()||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Click_Keyboard</SE1>:Catherine starts typing away at her console, but then she freezes and looks up.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>||:<color=#00CCFF>Hold on a sec—</color> +<color=#00CCFF>Maggie, something's wrong...</color>
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>||:<color=#00CCFF>Hold on a sec—</color> +<color=#00CCFF>Maggie, something's wrong...</color>
 ()||<BGM>GF_21winter_avg_betray</BGM><SE1>AVG_tele_disconnect</SE1>:Pzzt— +Catherine's screen suddenly dies.
 ColtWalker(4)<Speaker>Maggie</Speaker>||:...Quimby, wipe all the data.
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>||:<color=#00CCFF>Yes, ma'am!</color>
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, ma'am!</color>
 ()||<SE1>AVG_whitenoise</SE1>:Quimby immediately executes the data destruction protocol, but the system notification sounds are all choppy and garbled.
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>||:<color=#00CCFF>...protocol... initiated.</color>
-NPC-Quimby(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Is there a system malfunction...?
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>M-Mistress... y... you are breaking up...</color>
-NPC-Quimby(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Me? +... +...I got... disconnected...
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>||:<color=#00CCFF>Mag... gie...!</color>
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>||:<color=#00CCFF>...protocol... initiated.</color>
+NPC-Quimby(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Is there a system malfunction...?
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>M-Mistress... y... you are breaking up...</color>
+NPC-Quimby(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Me? +... +...I got... disconnected...
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>||:<color=#00CCFF>Mag... gie...!</color>
 ()||:The hardwood flooring in the carriage becomes soft like a giant marshmallow. Maggie watches as her surroundings dissolve into a puddle of nonsense and gradually loses consciousness...
 ()||<黑屏1>:
 ()||<睁眼><BIN>313</BIN>:Maggie opens her eyes and finds herself slumped over a table in the corner of the bar.

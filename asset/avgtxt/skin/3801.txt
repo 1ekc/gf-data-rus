@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BGM>BGM_Hello</BGM><BIN>73</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:In the Griffin base, at the firing range.
 QBU88(0)<Speaker>QBU-88</Speaker>||:Say what—?!
-QBU88(0)<通讯框>;KSVK(4)<Speaker>KSVK</Speaker><通讯框>||:<color=#00CCFF>Those who never give anything will never receive anything. There is no escaping this principle during tonight's activities.</color>+<color=#00CCFF>Among the prizes which this year's organizers have furnished is a 20%-off discount coupon, valid at all supermarkets.</color>
+QBU88(0)<scan><通讯框>;KSVK(4)<Speaker>KSVK</Speaker><scan><通讯框>||:<color=#00CCFF>Those who never give anything will never receive anything. There is no escaping this principle during tonight's activities.</color>+<color=#00CCFF>Among the prizes which this year's organizers have furnished is a 20%-off discount coupon, valid at all supermarkets.</color>
 QBU88(0)<Speaker>QBU-88</Speaker>;KSVK(4)||:No way! I've never heard of anything like that before!+There's no way I'd miss out on that if it were true... But I didn't sign up for the event!
 QBU88(0);KSVK(4)<Speaker>KSVK</Speaker>||:<color=#00CCFF>There are always surprises in life, so become a surprise in your own right.</color>+<color=#00CCFF>I have relayed what I should pass on. Now, what awaits is the choice you make...</color>
 QBU88(0)<Speaker>QBU-88</Speaker>;KSVK(4)||:I'll go! How could I possibly miss out on a deal like that?!

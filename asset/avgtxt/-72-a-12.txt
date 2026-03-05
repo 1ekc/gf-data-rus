@@ -19,19 +19,19 @@ NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||:Thank you, sir.
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep-beep. Like a spirit that refuses to rest in peace, the urgent beeping of the incoming comms request shows no sign of stopping.
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||:...+Who's this?
-NPC-SCAR-H(0);NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><通讯框>||:<color=#99CC33>It's me.</color>
+NPC-SCAR-H(0);NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><scan><通讯框>||:<color=#99CC33>It's me.</color>
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>;NPC_Stevens520(0)<Position>0,60</Position>||:...
-NPC-SCAR-H(0);NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><通讯框>||:<color=#99CC33>Are you still not here? Did they bar you from entering?</color>+<color=#99CC33>If they aren't letting you through, show them this authentication code that I just sent you. It's Doctor Hume's VIP code. He funded the construction of a building in this university.</color>
+NPC-SCAR-H(0);NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><scan><通讯框>||:<color=#99CC33>Are you still not here? Did they bar you from entering?</color>+<color=#99CC33>If they aren't letting you through, show them this authentication code that I just sent you. It's Doctor Hume's VIP code. He funded the construction of a building in this university.</color>
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>;NPC_Stevens520(0)<Position>0,60</Position>||:...
-NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><通讯框>||<CGDelay>0.5</CGDelay>:
-NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><Position>0,60</Position><通讯框>||<SE1>ClothingUp</SE1>:<color=#99CC33>Hello? Say something!</color>
-NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><Position>0,60</Position><通讯框>||:<color=#99CC33>Strange, the signal is clear. Surely a legendary Doll can handle a few security guards at the entrance herself, right...?</color>
+NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><scan><通讯框>||<CGDelay>0.5</CGDelay>:
+NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><Position>0,60</Position><scan><通讯框>||<SE1>ClothingUp</SE1>:<color=#99CC33>Hello? Say something!</color>
+NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><Position>0,60</Position><scan><通讯框>||:<color=#99CC33>Strange, the signal is clear. Surely a legendary Doll can handle a few security guards at the entrance herself, right...?</color>
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||:...+I'm in. I'm on my way.+But... why are you using this channel? Couldn't you have used a regular one?
-NPC-SCAR-H(0);NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><通讯框>||:<color=#99CC33>I saw that this is the most secure comms channel in your system!</color>+<color=#99CC33>What's wrong? Does this channel charge extra or something? Don't worry, I'll pay for a monthly plan.</color>
+NPC-SCAR-H(0);NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><scan><通讯框>||:<color=#99CC33>I saw that this is the most secure comms channel in your system!</color>+<color=#99CC33>What's wrong? Does this channel charge extra or something? Don't worry, I'll pay for a monthly plan.</color>
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||:...
 ()<Speaker></Speaker>||:Amaris wants to say something, but the words are stuck in her throat.+In the end, she simply lets out a heavy sigh.
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||:Never mind. You can hang up. I'm almost there.
-NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><通讯框>||:<color=#99CC33>Great.</color>
+NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position><scan><通讯框>||:<color=#99CC33>Great.</color>
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1><CGDelay>0.5</CGDelay>:
 ()||<黑屏1><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1><黑屏2><BIN>768</BIN>:...VIP Lounge, Johannes Gutenberg University of Mainz.
@@ -95,13 +95,13 @@ PPQ(0);Sterling(0)<Speaker>Sterling</Speaker>||:...Well, someone just did.+Right
 PPQ(0)<Speaker>Brigitte</Speaker>||:Oh, okay.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><CGDelay>0.7</CGDelay>:
 PPQ(0)<Speaker>Brigitte</Speaker>||:Edith?
-PPQ(0);LS26(0)<Speaker>Edith</Speaker><通讯框>||:<color=#00CCFF>Yes?</color>
+PPQ(0);LS26(0)<Speaker>Edith</Speaker><scan><通讯框>||:<color=#00CCFF>Yes?</color>
 PPQ(0)<Speaker>Brigitte</Speaker>;LS26(0)||:How are things on your end?
-PPQ(0);LS26(0)<Speaker>Edith</Speaker><通讯框>||:<color=#00CCFF>Remember the card matching game we played before?</color>+<color=#00CCFF>The one where you're given several seconds to memorize where all the cards are, then the cards are turned upside down, and you have to flip them over again to form matching pairs?</color>
+PPQ(0);LS26(0)<Speaker>Edith</Speaker><scan><通讯框>||:<color=#00CCFF>Remember the card matching game we played before?</color>+<color=#00CCFF>The one where you're given several seconds to memorize where all the cards are, then the cards are turned upside down, and you have to flip them over again to form matching pairs?</color>
 PPQ(0)<Speaker>Brigitte</Speaker>;LS26(0)||:Sure...
-PPQ(0);LS26(0)<Speaker>Edith</Speaker><通讯框>||:<color=#00CCFF>This is basically that game, but at the highest difficulty!</color>+<color=#00CCFF>These stupid human agents... This would be utterly impossible for them!!!</color>
+PPQ(0);LS26(0)<Speaker>Edith</Speaker><scan><通讯框>||:<color=#00CCFF>This is basically that game, but at the highest difficulty!</color>+<color=#00CCFF>These stupid human agents... This would be utterly impossible for them!!!</color>
 PPQ(0)<Speaker>Brigitte</Speaker>||:...
-LS26(0)<Speaker>Edith</Speaker><通讯框>||:<color=#00CCFF>Where the hell are you? Haul your asses here already! It's an emergency!</color>
+LS26(0)<Speaker>Edith</Speaker><scan><通讯框>||:<color=#00CCFF>Where the hell are you? Haul your asses here already! It's an emergency!</color>
 PPQ(0)<Speaker>Brigitte</Speaker>||:Gotcha...
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Brigitte hangs up apprehensively.
@@ -113,13 +113,13 @@ PPQ(0)<Speaker>Brigitte</Speaker>||:...I just hope the Commander will find Q's c
 ()||<黑屏1><SE1>AVG_footsteps_woodfloor</SE1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>553</BIN>:...In a corridor in the laboratory building, Johannes Gutenberg University of Mainz.+With extreme reluctance, Amaris enters the laboratory building with Stevens M520.
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Scar_Main</BGM>:I've told you—I'm on an even more important mission, so why are you dragging me along for this kind of menial task?+Surely you can find someone out of all the Dolls at Griffin who's more suited to being a bodyguard!+Also, I demand a change in partner.
-NPC-SCAR-H(0);AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>I have already explained the reasoning behind the arrangement.</color>+<color=#00CCFF>If you need to refresh your memory, please review your neural logs.</color>
+NPC-SCAR-H(0);AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>I have already explained the reasoning behind the arrangement.</color>+<color=#00CCFF>If you need to refresh your memory, please review your neural logs.</color>
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>;AR18(3)||:I know! I heard you just fine!+If I can't ditch this mission, at least give me a different partner!
-NPC-SCAR-H(0);AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>There is no better candidate than Stevens M520 for this mission.</color>
+NPC-SCAR-H(0);AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>There is no better candidate than Stevens M520 for this mission.</color>
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>;AR18(3)||:Just because Doctor Hume donated money to build a thing on this campus?
-NPC-SCAR-H(0);AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>Your request for a change in partner is rejected. Is there anything else?</color>
+NPC-SCAR-H(0);AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>Your request for a change in partner is rejected. Is there anything else?</color>
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>;AR18(3)||:...+It's just freaking like you to pretend you didn't hear a word of what I just said!
-AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>Since you have no more questions, please execute the mission to the best of your ability and check in with me regularly to report your progress.</color>
+AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>Since you have no more questions, please execute the mission to the best of your ability and check in with me regularly to report your progress.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. The comms line cuts out ruthlessly.
 ()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||<CGDelay>0.5</CGDelay>:

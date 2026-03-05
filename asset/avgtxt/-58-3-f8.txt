@@ -1,29 +1,29 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>446</BIN><黑屏2>:...On the spiral staircase, Eastern Tower, Avernus.
-NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>||<BGM>GF_EV9_Intermission</BGM>:<color=#00CCFF>Clear!</color>
-NPC-SCR(2)<通讯框>;Contender(0)<Speaker>Contender</Speaker><通讯框>||:<color=#00CCFF>Clear!</color>
-NPC-SCR(2)<通讯框>;M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position><通讯框>||:<color=#00CCFF>No hostiles spotted!</color>
-NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>;M26MASS(0)<Position>-200,80</Position><通讯框>||:<color=#00CCFF>Why are there fewer enemies the higher we go?</color>
-NPC-SCR(2)<通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Position check.
-NPC-SCR(0)<Speaker>SCR</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>Level 69.</color>
-NPC-SCR(0)<通讯框>;Contender(0)<Speaker>Contender</Speaker><通讯框>||:<color=#00CCFF>Level 68.</color>
-NPC-SCR(0)<通讯框>;M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position><通讯框>||:<color=#00CCFF>Level 69.</color>
-NPC-SCR(0);M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>Level 65.</color>
+NPC-SCR(2)<Speaker>SCR</Speaker><scan><通讯框>||<BGM>GF_EV9_Intermission</BGM>:<color=#00CCFF>Clear!</color>
+NPC-SCR(2)<scan><通讯框>;Contender(0)<Speaker>Contender</Speaker><scan><通讯框>||:<color=#00CCFF>Clear!</color>
+NPC-SCR(2)<scan><通讯框>;M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position><scan><通讯框>||:<color=#00CCFF>No hostiles spotted!</color>
+NPC-SCR(2)<Speaker>SCR</Speaker><scan><通讯框>;M26MASS(0)<Position>-200,80</Position><scan><通讯框>||:<color=#00CCFF>Why are there fewer enemies the higher we go?</color>
+NPC-SCR(2)<scan><通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Position check.
+NPC-SCR(0)<Speaker>SCR</Speaker><scan><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>Level 69.</color>
+NPC-SCR(0)<scan><通讯框>;Contender(0)<Speaker>Contender</Speaker><scan><通讯框>||:<color=#00CCFF>Level 68.</color>
+NPC-SCR(0)<scan><通讯框>;M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position><scan><通讯框>||:<color=#00CCFF>Level 69.</color>
+NPC-SCR(0);M82A1(0)<Speaker>M82A1</Speaker><scan><通讯框>||:<color=#00CCFF>Level 65.</color>
 NPC-SCR(0);NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:...Hold position. Find cover immediately.
-NPC-SCR(4)<Speaker>SCR</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>Why is there such a big difference when we're all together?</color> +<color=#00CCFF>Leader, what's your position?</color>
-NPC-SCR(0)<通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||<黑屏1>:...My locator puts me at level 70. +We need electronic support.
+NPC-SCR(4)<Speaker>SCR</Speaker><scan><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>Why is there such a big difference when we're all together?</color> +<color=#00CCFF>Leader, what's your position?</color>
+NPC-SCR(0)<scan><通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||<黑屏1>:...My locator puts me at level 70. +We need electronic support.
 ()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:...Inside the Muromets Conference Room.
 BossJustice(0)<Speaker>Judge</Speaker>||:Fe56-D has disarmed the Western Tower. They encountered practically no resistance. +Team C is moving up to assist Daybreak. They've also activated the sensitive site exploitation system to search for the mission objective.
 NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Daybreak is working their way up the Eastern Tower and just made contact with Bramedb.
-AR18(2)<Speaker>AR-18</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>Were there any losses?</color>
-AR18(2)<Position>0,120</Position><通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Team B lost two people, but Daybreak can still fight.
-AR18(2)<Speaker>AR-18</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>Understood.</color>
-AR18(2)<通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Also, we're having a problem with our positioning.
-AR18(2)<Speaker>AR-18</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>I'm not picking up any signal issues.</color>
-AR18(2)<通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:We can't identify the cause. Requesting Taraxacum to help provide signal stability and positioning.
-AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>Commander, Daybreak is requesting Taraxacum's assistance.</color>
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>Were there any losses?</color>
+AR18(2)<Position>0,120</Position><scan><通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Team B lost two people, but Daybreak can still fight.
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>Understood.</color>
+AR18(2)<scan><通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Also, we're having a problem with our positioning.
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>I'm not picking up any signal issues.</color>
+AR18(2)<scan><通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:We can't identify the cause. Requesting Taraxacum to help provide signal stability and positioning.
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, Daybreak is requesting Taraxacum's assistance.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Granted, but you must guarantee Taraxacum's safety.</color>
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Understood.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Understood.</color>
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>446</BIN>:...On the spiral staircase, Eastern Tower, Avernus.
 Nyto(1)<Speaker>Black Nyto</Speaker>||:Big Sister, we're picking up enemy signals.
 NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position>;Nyto(1)||:Find them.
@@ -35,15 +35,15 @@ G11Mod(0)<Speaker>Gr G11</Speaker>||:Hm... No more enemies.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Copy.
 ()<Speaker></Speaker>||:Taraxacum spreads out, and ST AR-15 verifies that everyone is present.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Taraxacum has arrived at the designated location.
-AR15Mod(0);NPC-SCAR-L(0)<Speaker>Aliana</Speaker><通讯框>||:<color=#00CCFF>Copy that.</color>
+AR15Mod(0);NPC-SCAR-L(0)<Speaker>Aliana</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that.</color>
 AR15Mod(5)<Speaker>ST AR-15</Speaker>;NPC-SCAR-L(0)||:... +Daybreak? Are your signals still being disrupted?
-AR15Mod(5);NPC-SCAR-L(0)<Speaker>Aliana</Speaker><通讯框>||:<color=#00CCFF>Yes, and the disruption is getting worse.</color> +<color=#00CCFF>We're standing next to each other, but our positional readings show us as over 10 floors apart.</color>
-AR15Mod(5);Erma(13)<Position>0,50</Position><Speaker>Erma</Speaker><通讯框>||:<color=#00CCFF>Mercury requests the current coordinates for Daybreak and Taraxacum.</color>
+AR15Mod(5);NPC-SCAR-L(0)<Speaker>Aliana</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, and the disruption is getting worse.</color> +<color=#00CCFF>We're standing next to each other, but our positional readings show us as over 10 floors apart.</color>
+AR15Mod(5);Erma(13)<Position>0,50</Position><Speaker>Erma</Speaker><scan><通讯框>||:<color=#00CCFF>Mercury requests the current coordinates for Daybreak and Taraxacum.</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>;Erma(13)||:Already shared.
-AR15Mod(0);Erma(15)<Position>0,50</Position><Speaker>Erma</Speaker><通讯框>||:<color=#00CCFF>I can definitely tell there's some kind of disruption going on, but the cause is unclear for the moment. All I can do is request that the field tech team provide assistance.</color>
+AR15Mod(0);Erma(15)<Position>0,50</Position><Speaker>Erma</Speaker><scan><通讯框>||:<color=#00CCFF>I can definitely tell there's some kind of disruption going on, but the cause is unclear for the moment. All I can do is request that the field tech team provide assistance.</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Roger that. Dandelion?
 NytoIsomer(3)<Speaker>Dandelion</Speaker>||:I can feel a massive energy fluctuation. +But we'll need to keep looking.
-Erma(13)<Position>0,50</Position><Speaker>Erma</Speaker><通讯框>||:<color=#00CCFF>Understood. I'll send you the location of several regions of concentrated disruption.</color>
+Erma(13)<Position>0,50</Position><Speaker>Erma</Speaker><scan><通讯框>||:<color=#00CCFF>Understood. I'll send you the location of several regions of concentrated disruption.</color>
 AR15Mod(3)<Speaker>ST AR-15</Speaker>||<黑屏1>:Alright, let's move on. +45 and 416, protect Dandelion. Gr G11, cover me as I advance.
 ()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><SE1>AVG_Team_Running</SE1>:The squad moves swiftly and silently as they ascend the winding stairs. +They encounter practically zero enemies beyond the ones they met when they first arrived.
 G11Mod(0)<Speaker>Gr G11</Speaker>||:This place is huge... Aren't there more accurate maps of it?

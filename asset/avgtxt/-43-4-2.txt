@@ -14,7 +14,7 @@ Vector(0)<Speaker>Vector</Speaker>||:...
 ()<Speaker></Speaker>||<白屏1>:The first to act will win, and both sides are on equal footing. Yet neither side pulls their respective triggers — they appear to have seen the same confusion they are feeling mirrored in each other's eyes.
 ()<Speaker></Speaker>||<BIN>287</BIN><BGM>BGM_Frontline</BGM><SE1>AVG_The_Division_Flare_Gun</SE1><白屏2>:The brief silence is broken by a screeching noise. A red signal flare climbs into the air above the city's skyline, far in the distance.+It is the landing beacon for the extraction chopper.
 ()<Speaker>System</Speaker>||:"aaaa" has called for Agent extraction.+9:59:62 until evac chopper arrives.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>A-Agents! Someone's launched the evac signal flare! Please hurry here and meet up ASAP!</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>A-Agents! Someone's launched the evac signal flare! Please hurry here and meet up ASAP!</color>
 Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:If you're so worried, you can go yourself. I've got more important things to take care of.
 HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)||:You're really not going to let it go?
 Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:Whose fault do you think it is, anyway?
@@ -24,11 +24,11 @@ Vector(0)<Speaker>ISAC</Speaker>||:Detecting large numbers of hostile signals.
 HK416Mod(0)<Speaker>416</Speaker>||:At a time like this...
 HK416Mod(0)<Speaker></Speaker>||<SE1>Explode</SE1>:Right after ISAC's warning, 416 and Vector both feel their vision distorting almost simultaneously.+Right after that, they hear the quiet sound of metal clinking, and throw themselves away from each other in a reflexive dodge — and the place they had occupied just a moment ago is promptly engulfed in a series of explosions.+The blasts were caused by several HE grenades, coming from the direction of the signal flare. The rogue agents have appeared once more.
 HK416Mod(0)<Speaker>416</Speaker>||:Aren't these numbers a bit much?
-HK416Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<size=25><color=#00CCFF>All the surrounding enemies are converging on the extraction point, in addition to the ones who have already spotted you.</color></size>
-HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)<通讯框>||<BGM>BGM_Empty</BGM>:Was it because 45 called the evac chopper?+—Come to think of it, how come your voice is so soft now?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Don't worry about me for now, focus on what's in front of you, Agents!</color>+<color=#00CCFF>You guys are in a spot of trouble...</color>
+HK416Mod(0);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<size=25><color=#00CCFF>All the surrounding enemies are converging on the extraction point, in addition to the ones who have already spotted you.</color></size>
+HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)<scan><通讯框>||<BGM>BGM_Empty</BGM>:Was it because 45 called the evac chopper?+—Come to think of it, how come your voice is so soft now?
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Don't worry about me for now, focus on what's in front of you, Agents!</color>+<color=#00CCFF>You guys are in a spot of trouble...</color>
 ()<Speaker>???</Speaker>||<BGM>BGM_Danger</BGM>:—Are you ready...to die?+—The moment...when everything ends...
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>We're doomed...</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>We're doomed...</color>
 HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)||<SE2>Gunfight</SE2>:Wait a minute, that voice is...
 HK416Mod(0)<Speaker></Speaker>;NPC-Dima(1)||<SE1>Explode</SE1>:A nearby explosion from a grenade interrupts 416's train of thought — the rogue agents have surrounded them.+After finding a hiding place, 416 checks her mag and verifies Vector's position.
 HK416Mod(0)<Speaker>416</Speaker>;NPC-Dima(1)||:So the enemy is targeting her too?

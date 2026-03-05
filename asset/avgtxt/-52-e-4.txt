@@ -135,10 +135,10 @@ FN57(8)<Speaker>FN-57</Speaker><Position>0,60</Position><Shake>||<SE1>AVG_Combat
 ()<Speaker>众人</Speaker>||: ……！！+谁？！谁在尖叫？！！
 ()||:混乱的场面瞬间按下暂停键，所有人的目光都不约而同地投向声音的源头——
 ()||<SE1>AVG_whitenoise</SE1>:滋啦，滋啦……+四式的通讯器屏幕在沙粒间夺目地闪烁着。
-Saiga12(0)<Speaker>Saiga-12</Speaker><通讯框>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:<color=#00CCFF>呜呜呜呜……《格里芬海边play》的新一话也太精彩了吧！！！！</color>+<color=#00CCFF>好多美妙的……嘿嘿嘿嘿……嘿嘿嘿……</color>
+Saiga12(0)<Speaker>Saiga-12</Speaker><scan><通讯框>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:<color=#00CCFF>呜呜呜呜……《格里芬海边play》的新一话也太精彩了吧！！！！</color>+<color=#00CCFF>好多美妙的……嘿嘿嘿嘿……嘿嘿嘿……</color>
 4type(2)<Speaker>四式</Speaker>||:噫……！
 ()||:四式用力挣脱，却无济于事。
-Saiga12(0)<Speaker>Saiga-12</Speaker><通讯框>||:<color=#00CCFF>啊！我吃得好饱！</color>+<color=#00CCFF>我好满足！！</color>+<color=#00CCFF>我好幸福！！！！</color>+<size=50><color=#00CCFF>我单方面宣布四式老师您就是格里芬最伟大的漫画老师！！！</color></size>+<size=50><color=#00CCFF>您就是我的神啊啊啊啊啊啊啊啊啊啊——</color></size>
+Saiga12(0)<Speaker>Saiga-12</Speaker><scan><通讯框>||:<color=#00CCFF>啊！我吃得好饱！</color>+<color=#00CCFF>我好满足！！</color>+<color=#00CCFF>我好幸福！！！！</color>+<size=50><color=#00CCFF>我单方面宣布四式老师您就是格里芬最伟大的漫画老师！！！</color></size>+<size=50><color=#00CCFF>您就是我的神啊啊啊啊啊啊啊啊啊啊——</color></size>
 ()||<SE1>AVG_tele_disconnect</SE1>:滴。留言结束。
 ()||:……
 G41(2)<Speaker>G41</Speaker><Position>0,60</Position>||:诶？Saiga-12小姐怎么听起来很激动的样子……？
@@ -165,8 +165,8 @@ NTW20(6)<Speaker>NTW-20</Speaker><Shake>||:喂！你们干什么？！+别拉我
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><关闭蒙版><BIN>163</BIN><BGM>GF_Swim_Marnie</BGM>:另一边，沙滩之上。
 ()||<SE1>AVG_tele_connect</SE1>:滴！滴！……+随着四式的匆忙遁逃，手中的通讯器接二连三地发出信息提示音。
-G28(4)<Speaker>G28</Speaker><Position>0,130</Position><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>呼！还好G36姐刚才没翻到我们的聊天记录！</color>+<color=#00CCFF>四式老师快跑啊！</color>
-CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>我正在拖延NTW的时间！</color>+<color=#00CCFF>之前的文件我全删掉了，你那边也记得清空一下！千万别忘了！！！</color>
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>呼！还好G36姐刚才没翻到我们的聊天记录！</color>+<color=#00CCFF>四式老师快跑啊！</color>
+CBJMS(4)<Speaker>C-MS</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>我正在拖延NTW的时间！</color>+<color=#00CCFF>之前的文件我全删掉了，你那边也记得清空一下！千万别忘了！！！</color>
 ()<Speaker>某匿名用户A</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>四式！！！没想到您就是传说中那位伟大的漫画太太！！！</color>+<color=#00CCFF>我是您的忠实粉丝！麻烦加个好友吧！</color>+<size=50><color=#00CCFF>加个好友吧！！！</color></size>
 ()<Speaker>某匿名用户B</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>漫画考虑拿来卖吗？</color>+<color=#00CCFF>最好看的R18我全包了！随你开价！</color>
 ()||:……

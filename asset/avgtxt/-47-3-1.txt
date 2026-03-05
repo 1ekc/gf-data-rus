@@ -9,40 +9,40 @@ NPC_baolan(2)<Speaker>Paula Snow</Speaker>||:...Sure.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><SE1>AVG_door_elecport</SE1>:Backstage area of the charity ball.
 NPC_baolan(0)<Speaker>Paula Snow</Speaker>||:Phew... I'm finally in!
-NPC_baolan(0);MDR(4)<Speaker>MDR</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Please, you just walked through the door! Why are you so nervous?!</color>
-NPC_baolan(0);NPC_baolan(4)<Speaker>Paula Snow</Speaker><通讯框>||:<color=#00CCFF>Miss Lewis is doing a wonderful job.</color> +<color=#00CCFF>Even I can't impersonate someone else with so little time to prepare.</color>
-NPC_baolan(2)<Speaker>Lewis</Speaker>;NPC_baolan(4)<通讯框>||:You're too kind, Lady Paula!!!
-NPC_baolan(2);NPC_baolan(4)<Speaker>Paula Snow</Speaker><通讯框>||:<color=#00CCFF>Just Paula, please. That's what my friends call me.</color>
-NPC_baolan(0)<Speaker>Lewis</Speaker>;NPC_baolan(4)<通讯框>||:P...Paula, c-can I really call you that?
-NPC_baolan(0);NPC_baolan(4)<Speaker>Paula Snow</Speaker><通讯框>||:<color=#00CCFF>Of course, you are all my friends.</color>
-NPC_baolan(2)<Speaker>Lewis</Speaker>;NPC_baolan(4)<通讯框>||:This...This makes me so happy!!!
-NPC_baolan(2);Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>May I remind you that you're on a mission here.</color>
+NPC_baolan(0);MDR(4)<Speaker>MDR</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Please, you just walked through the door! Why are you so nervous?!</color>
+NPC_baolan(0);NPC_baolan(4)<Speaker>Paula Snow</Speaker><scan><通讯框>||:<color=#00CCFF>Miss Lewis is doing a wonderful job.</color> +<color=#00CCFF>Even I can't impersonate someone else with so little time to prepare.</color>
+NPC_baolan(2)<Speaker>Lewis</Speaker>;NPC_baolan(4)<scan><通讯框>||:You're too kind, Lady Paula!!!
+NPC_baolan(2);NPC_baolan(4)<Speaker>Paula Snow</Speaker><scan><通讯框>||:<color=#00CCFF>Just Paula, please. That's what my friends call me.</color>
+NPC_baolan(0)<Speaker>Lewis</Speaker>;NPC_baolan(4)<scan><通讯框>||:P...Paula, c-can I really call you that?
+NPC_baolan(0);NPC_baolan(4)<Speaker>Paula Snow</Speaker><scan><通讯框>||:<color=#00CCFF>Of course, you are all my friends.</color>
+NPC_baolan(2)<Speaker>Lewis</Speaker>;NPC_baolan(4)<scan><通讯框>||:This...This makes me so happy!!!
+NPC_baolan(2);Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>May I remind you that you're on a mission here.</color>
 NPC_baolan(0)<Speaker>Lewis</Speaker>||:Oh, right, I am the superstar Paula Snow, here to find the man with feather cufflinks!
-M200(4)<Speaker>M200</Speaker><通讯框>||:<color=#00CCFF>You don't have to say it out loud.</color>
+M200(4)<Speaker>M200</Speaker><scan><通讯框>||:<color=#00CCFF>You don't have to say it out loud.</color>
 ()<Speaker>???</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Paula, it's been a while!
 NPC_baolan(0)<Speaker>Lewis</Speaker>||:(Who's this???) +...It really has.
 NPC_baolan(4)<Speaker>???</Speaker>||:I love "The Wave Wrangler"! I planned this trip just to see you!
 NPC_baolan(4)<Speaker>Lewis</Speaker>||:...Ha...haha... Fancy seeing you here.
 NPC_baolan(4)<Speaker>???</Speaker>||:This isn't a chance meeting though. I am pursuing you one-sidedly. +Would you do me the honor of spending some time with me outside later tonight?
-M200(4)<Speaker>M200</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This guy's cufflinks aren't feather-shaped.</color>
+M200(4)<Speaker>M200</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This guy's cufflinks aren't feather-shaped.</color>
 NPC_baolan(4)<Speaker>Lewis</Speaker>||:Sorry, I'm feeling a bit under the weather. Being in the wind gives me a headache.
 NPC_baolan(4)<Speaker>???</Speaker>||:That's a real shame.
 ()<Speaker></Speaker>||:Lewis is just about to find somewhere to sit down when another man approaches her. From his demeanor, he must've known Paula for at least ten days.
 NPC-handyman(0)<Speaker>???</Speaker>||:I thought you're the main act tonight. Why are you here so early?
 NPC_baolan(0)<Speaker>Lewis</Speaker>;NPC-handyman(0)||:...That's none of your business.
 NPC_baolan(0);NPC-handyman(0)<Speaker>???</Speaker>||:??? +Paula?
-NPC_baolan(0);NPC_baolan(0)<Speaker>Paula Snow</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Um, that's Kane, the male lead in "The Wave Wrangler".</color>
+NPC_baolan(0);NPC_baolan(0)<Speaker>Paula Snow</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Um, that's Kane, the male lead in "The Wave Wrangler".</color>
 NPC_baolan(1)<Speaker>Lewis</Speaker>;NPC_baolan(0)||:Oh my god, he looks so different in real life! Even his fans wouldn't recognize him in person!
 NPC_baolan(1);NPC-handyman(0)<Speaker>Kane</Speaker>||:Paula? +Who are you talking to?
-NPC_baolan(1);MDR(4)<Speaker>MDR</Speaker><通讯框>||:<color=#00CCFF>He means you!</color>
+NPC_baolan(1);MDR(4)<Speaker>MDR</Speaker><scan><通讯框>||:<color=#00CCFF>He means you!</color>
 NPC_baolan(4)<Speaker>Lewis</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Oh, nothing. I'm just feeling a bit tired today. I thought I'd come early so that I can leave and turn in early as well.
 NPC_baolan(4);NPC-handyman(0)<Speaker>Kane</Speaker>||:Are you drunk? +These kinds of charity balls don't tend to end before midnight, not to mention you're the final act. You can't leave early...
 NPC_baolan(4);NPC-handyman(0)<Speaker>Kane</Speaker>||:You should go easy on the booze and drink some more coffee. +Or...we could do something else to clear your head?
 NPC_baolan(0)<Speaker>Lewis</Speaker>||:...I don't need booze or coffee.
-NPC_baolan(0);M200(4)<Speaker>M200</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Jeez, even celebrities have to suffer so much harassment.</color>
-NPC_baolan(0);NPC_baolan(0)<Speaker>Paula Snow</Speaker><通讯框>||:<color=#00CCFF>...Actors are always different from the roles they play in movies.</color> +<color=#00CCFF>Movies are art, after all, and ordinary people have no place in art.</color>
+NPC_baolan(0);M200(4)<Speaker>M200</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Jeez, even celebrities have to suffer so much harassment.</color>
+NPC_baolan(0);NPC_baolan(0)<Speaker>Paula Snow</Speaker><scan><通讯框>||:<color=#00CCFF>...Actors are always different from the roles they play in movies.</color> +<color=#00CCFF>Movies are art, after all, and ordinary people have no place in art.</color>
 NPC_baolan(0);NPC_baolan(4)<Speaker>Lewis</Speaker>;NPC_baolan(0)||:I feel so sorry that you have to deal with people like this, Paula!
-NPC_baolan(0);Thunder50(2)<Speaker>Thunder</Speaker><通讯框>||:<color=#00CCFF>Your priority is to search for the man with the feather cufflinks. Don't get distracted.</color>
+NPC_baolan(0);Thunder50(2)<Speaker>Thunder</Speaker><scan><通讯框>||:<color=#00CCFF>Your priority is to search for the man with the feather cufflinks. Don't get distracted.</color>
 NPC_baolan(0)<Speaker>Lewis</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Alright!
 NPC-handyman(0)<Speaker>Kane</Speaker>||:Paula, what's wrong with you today? You don't seem to be paying any attention to me.
 NPC_baolan(0)<Speaker>Lewis</Speaker>;NPC-handyman(0)||:(You've got to have something that's worth my attention, for god's sake!) +...No, I'm just not feeling very well.
@@ -60,7 +60,7 @@ NPC_baolan(4);NPC_girill(0)<Speaker>???</Speaker>||:It is a great honor to atten
 NPC_baolan(4)<Speaker>Lewis</Speaker>;NPC_girill(0)||:...Thank you.
 NPC_baolan(4);NPC_girill(0)<Speaker>???</Speaker>||:The ball won't officially begin until another half an hour. I'm surprised that you don't seem to put on any airs despite being a superstar. +You truly deserved winning Best Actress for "The Wave Wrangler". My friends and I couldn't even set up a proper bet because we were all certain that you would win.
 NPC_baolan(2)<Speaker>Lewis</Speaker>||:"The Wave Wrangler" really is a fantastic movie!
-Thunder50(2)<Speaker>Thunder</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Do you see his cufflinks?!</color>
+Thunder50(2)<Speaker>Thunder</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Do you see his cufflinks?!</color>
 NPC_baolan(1)<Speaker>Lewis</Speaker>||:...It's him!
 NPC_baolan(1);NPC_girill(0)<Speaker>???</Speaker>||:Who?
 NPC_baolan(2)<Speaker>Lewis</Speaker>;NPC_girill(0)||:Hahaha, oh, nothing. Um, I'd like to have some fruit at the resting area. Would you like to come?
@@ -70,19 +70,19 @@ NPC_baolan(2);NPC_girill(0)<Speaker>???</Speaker>||:Then should we head over to 
 NPC_baolan(4)<Speaker>Lewis</Speaker>||:Sure.
 NPC-handyman(0)<Speaker>Kane</Speaker>||:Hey, Paula! You're just leaving with him? Do you know him?
 NPC_baolan(0)<Speaker>Lewis</Speaker>||:...
-Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Paula, do you know this man?</color>
-M200(4)<Speaker>M200</Speaker><通讯框>||:<color=#00CCFF>Paula?</color>
-Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>That's strange, she's offline...</color>
-MDR(4)<Speaker>MDR</Speaker><通讯框>||:<color=#00CCFF>That shouldn't happen. She's in our room, why would she get disconnected?!</color>
-Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>It could be bad reception. Lewis, play it by ear for now and see how things play out. We're all standing by in the corridor. If anything happens, just let us know.</color>
+Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Paula, do you know this man?</color>
+M200(4)<Speaker>M200</Speaker><scan><通讯框>||:<color=#00CCFF>Paula?</color>
+Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>That's strange, she's offline...</color>
+MDR(4)<Speaker>MDR</Speaker><scan><通讯框>||:<color=#00CCFF>That shouldn't happen. She's in our room, why would she get disconnected?!</color>
+Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>It could be bad reception. Lewis, play it by ear for now and see how things play out. We're all standing by in the corridor. If anything happens, just let us know.</color>
 NPC_baolan(1)<Speaker>Lewis</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Huh?! But I...
 NPC_girill(2)<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:Alright, missy. He's gone now, so you can drop the act. +Hand it to me.
 NPC_baolan(0)<Speaker>Lewis</Speaker>;NPC_girill(2)||:...Who are you?
 NPC_baolan(0);NPC_girill(2)<Speaker>Valentin</Speaker>||:You can call me Valentin. +I'm generally very patient with pretty girls, but there's a limit even to my patience.
 NPC_baolan(4)<Speaker>Lewis</Speaker>;NPC_girill(2)||:Really? Same here! +Actually, I don't quite understand...
 NPC_girill(2)<Speaker>Valentin</Speaker>||:...Don't play dumb with me. Surely you know what's good for you, missy?
-Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What's going on?</color>
-Thunder50(2)<Speaker>Thunder</Speaker><通讯框>||:<color=#00CCFF>I have a bad feeling about this...</color>
+Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What's going on?</color>
+Thunder50(2)<Speaker>Thunder</Speaker><scan><通讯框>||:<color=#00CCFF>I have a bad feeling about this...</color>
 ()<Speaker></Speaker>||<SE1>AVG_alarm</SE1><BGM>BGM_Empty</BGM>:...!
 ()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:The alarm suddenly goes off, and everyone at the resting area instantly becomes uneasy.
 NPC_baolan(1)<Speaker>Lewis</Speaker>||:! +What just happened?

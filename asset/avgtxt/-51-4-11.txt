@@ -255,27 +255,27 @@ NPC-MrsGray(7)<Speaker>Gray</Speaker>||<SE1>RunStep</SE1>:Out of the way!
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:Gray runs towards the stairs and pushes her way through the soldiers in her way roughly.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. +Call connected.
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:Sister Nemhran.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>...What is it this time?</color> +<color=#00CCFF>I'm very busy right now.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>...What is it this time?</color> +<color=#00CCFF>I'm very busy right now.</color>
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:...I require support.
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bangbangbang!!! +The vehement gunshots coming from behind her are holding back an entire army. Gray lowers her voice and quickens her pace.
 ()<Speaker></Speaker>||<SE1>AVG_21Winter_Error</SE1>:This isn't working either... +Shooting an angry glance at the tightly shut elevator doors, Gray resumes her climb on the stairs.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>...I should've already sent you detailed data about them.</color> +<color=#00CCFF>You're actually having trouble dealing with enemies like these?</color> +<color=#00CCFF>Stop astounding me with your incompetence... Gray.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>...I should've already sent you detailed data about them.</color> +<color=#00CCFF>You're actually having trouble dealing with enemies like these?</color> +<color=#00CCFF>Stop astounding me with your incompetence... Gray.</color>
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:The situation is different than you imagined, Sister Nemhran... +There is information that's out of even the Bee Sting System's reach.
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Gray transfers the data she has collected during her encounter with AK-15 to Nemhran as she speaks.
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:AK-15 is not her old self. Both her physical strength and strategic acumen... +Have improved far beyond our expectation. The fact that such results were achieved without a trace of Relic tech makes it all the more incredible.
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:This isn't mentioned in your database, I believe? +If she's already this powerful on her own, then what are we supposed to do if her friend, who's working in the shadows, surfaces as well? +This other Doll is most probably the actual leader—she even has the ability to hack our systems.
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:...If we manage to capture them, I'm sure Father would be very interested.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>...I see.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>...I see.</color>
 ()<Speaker></Speaker>||:Nemhran is rather impressed by the data sent by Gray.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>...This is indeed some very surprising findings.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>...This is indeed some very surprising findings.</color>
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:Now that you understand...
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>I'm sorry, but I really have my hands full at the moment.</color> +<color=#00CCFF>I can send some reinforcements your way, but...</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>I'm sorry, but I really have my hands full at the moment.</color> +<color=#00CCFF>I can send some reinforcements your way, but...</color>
 ()<Speaker>???</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>No need for that. Leave everything to me, Nemhran—Sister.</color>
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>...?!</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>...?!</color>
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:You... so soon?!
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>...Very well.</color> +<color=#00CCFF>Is the matter settled then?</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>...Very well.</color> +<color=#00CCFF>Is the matter settled then?</color>
 ()<Speaker>???</Speaker>||:<color=#00CCFF>Yes... It was a great success.</color>
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>In that case... Gray, fall back to the elevator on Level 30.</color> +<color=#00CCFF>Our new recruit will meet up with you there.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>In that case... Gray, fall back to the elevator on Level 30.</color> +<color=#00CCFF>Our new recruit will meet up with you there.</color>
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:...Understood.
 ()<Speaker>???</Speaker>||:<color=#00CCFF>Wait for me, Gray...</color> +<color=#00CCFF>I'll be there in no time.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +Call disconnected.
@@ -364,7 +364,7 @@ M16A1BOSS(2)<Speaker>M16A1</Speaker>||:Good luck.
 ()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:RPK-16 licks the blood off her lips as she gazes at M16's receding back. She leans back into the wall behind her and slowly closes her eyes.
 ()||<黑屏1>:
 RPK16_Nyto(0)<Speaker>RPK-16</Speaker><Position>0,-50</Position>||<BIN>9</BIN><黑屏2><SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:...Hey, New Boss, I came across your target over here. Combat record of our little scuffle has been sent to you.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>Well done... That's more than enough.</color> +<color=#00CCFF>Just two more fish to catch.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>Well done... That's more than enough.</color> +<color=#00CCFF>Just two more fish to catch.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +Call disconnected.
 RPK16_Nyto(0)<Speaker>RPK-16</Speaker><Position>0,-50</Position>||:...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Resting against the wall, RPK-16 closes her eyes again.

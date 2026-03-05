@@ -44,7 +44,7 @@ m45(0)<Speaker>m45</Speaker>||:(Whimpers…)
 m45(0)<Speaker>m45</Speaker>||:M-Miss WA2000!
 ()<Speaker>WA2000</Speaker>||:…+What did you do?
 m45(0)<Speaker>m45</Speaker>||:I-I didn't do anything!+I only turned it on like you told me to!
-m45(0);WA2000(4)<Speaker>WA2000</Speaker><通讯框>||<BGM>BGM_Hello</BGM>:Ja ja… I underestimated how bad things can get.+…You should've told me earlier if you couldn't handle it, then I wouldn't have brought you along with me.+I would've been better off by myself if I knew things would end up like this.
+m45(0);WA2000(4)<Speaker>WA2000</Speaker><scan><通讯框>||<BGM>BGM_Hello</BGM>:Ja ja… I underestimated how bad things can get.+…You should've told me earlier if you couldn't handle it, then I wouldn't have brought you along with me.+I would've been better off by myself if I knew things would end up like this.
 m45(0)<Speaker>m45</Speaker>;WA2000(4)||:I'm sorry…!+I'll look for the correct switch right now…
 m45(0);WA2000(4)<Speaker>WA2000</Speaker>||:Don't, I'll do it myself. I really don't understand how you could even screw this up.
 m45(0)<Speaker>m45</Speaker>||:Miss WA2000… I…+I shouldn't have left the kitchen…

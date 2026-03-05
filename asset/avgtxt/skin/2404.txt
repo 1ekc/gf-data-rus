@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BGM>BGM_Room</BGM>:AK-12, do you read me? I'm picking up signals from other T-Dolls in this area.
-AK12(7)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Received. They're Griffin signals. No need to worry.</color>
+AK12(7)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Received. They're Griffin signals. No need to worry.</color>
 AK12(7)<Speaker>AN-94</Speaker>||:Understood. +...But if they came to recover our mission objective as well...
 AK12(7)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Hmm...that's definitely a possibility. No need to worry, I'll take care of it. </color>
 AK12(7)<Speaker>AN-94</Speaker>||:Alright. I'll continue searching. +Any further instructions?
@@ -10,7 +10,7 @@ AK12(7)<Speaker>AK-12</Speaker>||:<color=#00CCFF>...</color>
 AK12(7)<Speaker>AN-94</Speaker>||:...Do you not think so, AK-12? +Then I will try to learn how to relax.
 AK12(7)<Speaker>AK-12</Speaker>||:<color=#00CCFF>You can make your own decisions and think independently to some extent, you know.</color>+<color=#00CCFF>What do you think relaxing is like?</color>
 ()<Speaker>AN-94</Speaker>||:Relaxing, hmm... The definition is "becoming less tense with respect to one's mindfulness or control of a situation." +Does that mean I should sleep? Carry out another mission? Adjust my operational tempo?
-AK12(7)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>...A boring answer, as I expected.</color>
+AK12(7)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>...A boring answer, as I expected.</color>
 AK12(7)<Speaker>AN-94</Speaker>||:But...a T-Doll's actions all run on programmed logic.
 AK12(7)<Speaker>AK-12</Speaker>||:<color=#00CCFF>You're right. After all, this isn't something that can be changed just by talking about it.</color> +<color=#00CCFF>I can see the Griffin Commander. </color> +<color=#00CCFF>See you in a bit. It's your free time, AN-94.</color>
 ()<Speaker></Speaker>||:...AK-12 ends the transmission.

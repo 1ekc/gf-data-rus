@@ -107,9 +107,9 @@ NytoIsomer(10)<Speaker>M4A1</Speaker>||:Yeah.
 ()<Speaker></Speaker>||:The AR Team slowly disappears through the door.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>229</BIN><BGM>BGM_Empty</BGM>:In the passageway inside the Paradeus base.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>GF_21summer_battle_3</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is 45. AR Team, do you copy?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<BGM>GF_21summer_battle_3</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is 45. AR Team, do you copy?</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:Loud and clear.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>To avoid having the same problem as last time, everyone has been equipped with a GPS tracker and intercom.</color> +<color=#00CCFF>If the signal gets jammed, follow the planned route, okay?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>To avoid having the same problem as last time, everyone has been equipped with a GPS tracker and intercom.</color> +<color=#00CCFF>If the signal gets jammed, follow the planned route, okay?</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:Acknowledged.
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>That's all for now. UMP45 out.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:After the transmission is terminated, the unrestrained Morridow suddenly comes to a halt. She places a hand on the wall and leans against it weakly. ST AR-15 presses her muzzle against Morridow's head.

@@ -5,7 +5,7 @@
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<睁眼><BIN>468</BIN><CGDelay>1</CGDelay>:
 79type(0)<Speaker>Type 79</Speaker>||:W-What happened...
-M99(0)<Speaker>M99</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>79? What's going on?!</color>
+M99(0)<Speaker>M99</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>79? What's going on?!</color>
 79type(0)<Speaker>Type 79</Speaker>||:Captain...?
 ()<Speaker></Speaker>||:The massive impact brings a wave of dizziness. Type 79 shakes her head and struggles to assess the current situation. +The police car from earlier has crashed into the store, knocking over all the neatly arranged shelves. +The crash has also triggered the store's fire suppression system, spraying curtains of water onto the police car and the mess of products scattered on the floor after some brief buzzing.
 79type(0)<Speaker>Type 79</Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:...?!
@@ -14,12 +14,12 @@ M99(0)<Speaker>M99</Speaker><Position>0,150</Position><通讯框>||:<color=#00CC
 ()<Speaker></Speaker>||<SE1>AVG_Alarm_Distance</SE1>:Soon, police sirens gather outside the store.
 NPC-PasserbyM(0)<Speaker>Thug</Speaker>||:Damn it!
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><震屏3><BGM>BGM_Empty</BGM>:Facing encirclement, the thug commands his automaton and exchanges fire with the police. The surrounding area is quickly drowned out with gunfire.
-M99(0)<Speaker>M99</Speaker><Position>0,150</Position><通讯框>||<BGM>10194</BGM>:<color=#00CCFF>79, are those gunshots I'm hearing?!</color>
+M99(0)<Speaker>M99</Speaker><Position>0,150</Position><scan><通讯框>||<BGM>10194</BGM>:<color=#00CCFF>79, are those gunshots I'm hearing?!</color>
 79type(0)<Speaker>Type 79</Speaker>||:I—
 ()<Speaker>Clerk</Speaker>||:<size=50>H-help—!!!!</size>
 ()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:The previously slacking clerk is terrified by the situation unfolding right in front of his eyes. He screams and tries to make a run for the employee's lounge, only to be yanked back by the automaton whilst on the way there. 
 79type(0)<Speaker>Type 79</Speaker>||:What a hassle...! +Captain, I'll call you later!
-M99(0)<Speaker>M99</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>Wait, you're not thinking—</color>
+M99(0)<Speaker>M99</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>Wait, you're not thinking—</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><CGDelay>0.4</CGDelay>:
 ()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:Hanging up on the comms link, Type 79 circles around the collapsed shelves until she finds herself behind the thug and the automaton. She then trains her weapon on the power core of the automaton.
 ()||<黑屏1>:

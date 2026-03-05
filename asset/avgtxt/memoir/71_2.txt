@@ -87,14 +87,14 @@ AR(0)<Speaker>Galil</Speaker>||<黑屏1>:Thank you very much!
 AR(0)<Speaker>Galil</Speaker>||<BGM>BGM_Hello</BGM>:...La-la-la... ♪ +It's getting dark. Why isn't anyone home yet? +Are there any special events tonight?
 ()||<SE1>AVG_tele_connect</SE1>:As the sky grows darker outside the window, Galil calls Micro Uzi on her communicator.
 AR(0)<Speaker>Galil</Speaker>||:Uzi, how come you're still out?
-AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>Oh, we forgot to tell you!</color>
-AR(0);TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||:<color=#00CCFF>Galil, we received an urgent assignment and we're setting off tonight.</color>
-AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>We're already on the way!</color>
-AR(0)<Speaker>Galil</Speaker>;MicroUZIMod(0)<通讯框>||:Oh...
-AR(0);TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||:<color=#00CCFF>Negev said you don't have to come since you've already transferred to another department, that's why...</color>
-AR(0)<Speaker>Galil</Speaker>;TAR21(0)<通讯框>||:It's totally okay. I was just wondering when you'd come home.
-AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>We'll be back in a few days. We'll catch up then, Galil!</color>
-AR(0)<Speaker>Galil</Speaker>;MicroUZIMod(0)<通讯框>||:Alright, stay safe.
-AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>Yeah, gotta go.</color>
-MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>Negev is calling a meeting!</color>
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><scan><通讯框>||:<color=#00CCFF>Oh, we forgot to tell you!</color>
+AR(0);TAR21(0)<Speaker>TAR-21</Speaker><scan><通讯框>||:<color=#00CCFF>Galil, we received an urgent assignment and we're setting off tonight.</color>
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><scan><通讯框>||:<color=#00CCFF>We're already on the way!</color>
+AR(0)<Speaker>Galil</Speaker>;MicroUZIMod(0)<scan><通讯框>||:Oh...
+AR(0);TAR21(0)<Speaker>TAR-21</Speaker><scan><通讯框>||:<color=#00CCFF>Negev said you don't have to come since you've already transferred to another department, that's why...</color>
+AR(0)<Speaker>Galil</Speaker>;TAR21(0)<scan><通讯框>||:It's totally okay. I was just wondering when you'd come home.
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><scan><通讯框>||:<color=#00CCFF>We'll be back in a few days. We'll catch up then, Galil!</color>
+AR(0)<Speaker>Galil</Speaker>;MicroUZIMod(0)<scan><通讯框>||:Alright, stay safe.
+AR(0);MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><scan><通讯框>||:<color=#00CCFF>Yeah, gotta go.</color>
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><scan><通讯框>||:<color=#00CCFF>Negev is calling a meeting!</color>
 ()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:The call ends abruptly. +Galil puts down the cutleries and stares at the table full of dishes in silence. +By then, the sky outside the window is already pitch dark.

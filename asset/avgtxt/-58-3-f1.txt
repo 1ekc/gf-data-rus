@@ -7,9 +7,9 @@ AR18(5)<Speaker>AR-18</Speaker><Position>0,120</Position>||:... +It's going to r
 AR18(2)<Speaker>AR-18</Speaker><Position>0,120</Position>||:The backup bodies and Dummy reserves are all in position. +So are the vehicles, night vision optics, supplies, and emergency body repair kits. +Now all that's left is...
 ()<Speaker></Speaker>||:AR-18's eyes narrow as she focuses on the last item on the checklist.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:She reaches out and contacts the air traffic control squad responsible for the final item.
-QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>Good evening, Miss AR-18. This is QBU-191 here; please let the Commander know that the air traffic control and aerial support echelons are in position.</color>
+QBU-191(0)<Speaker>QBU-191</Speaker><scan><通讯框>||:<color=#00CCFF>Good evening, Miss AR-18. This is QBU-191 here; please let the Commander know that the air traffic control and aerial support echelons are in position.</color>
 AR18(3)<Speaker>AR-18</Speaker><Position>0,120</Position>||:The Elmo is ready. We're proceeding to the target location.
-QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>Roger that, we're beginning the activation process.</color> +<color=#00CCFF>We've finished deploying and are now standing by at the designated locations. We'll start once we pick up the signal.</color>
+QBU-191(0)<Speaker>QBU-191</Speaker><scan><通讯框>||:<color=#00CCFF>Roger that, we're beginning the activation process.</color> +<color=#00CCFF>We've finished deploying and are now standing by at the designated locations. We'll start once we pick up the signal.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:AR-18 puts down her communicator and finishes checking off all the items on the preparation checklist.
 ()<Speaker></Speaker>||<SE1>AVG_Knock</SE1>:Knock, knock—she raps on the dorm door.
 ()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:The Commander opens the door, eyes still bleary with sleep, and heads over to the ops room.
@@ -19,7 +19,7 @@ AR18(3)<Speaker>AR-18</Speaker><Position>0,120</Position>||:All items have been 
 ()<Speaker>Commander</Speaker>||:Let's have Erma begin immediately, then.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<BIN>72</BIN><黑点2><BGM>BGM_Empty</BGM>:...Inside the Muromets Conference Room.
-AR18(3)<Speaker>AR-18</Speaker><Position>0,120</Position><通讯框>||<BGM>GF_EV9_Story</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Commence operation.</color>
+AR18(3)<Speaker>AR-18</Speaker><Position>0,120</Position><scan><通讯框>||<BGM>GF_EV9_Story</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Commence operation.</color>
 Erma(14)<Speaker>Erma</Speaker>||:This is Mercury, acknowledged.
 ()<Speaker></Speaker>||:The only ones in this vast virtual domain which is not officially open yet are a few Dolls responsible for providing signal support. Erma gathers them together.
 Erma(14)<Speaker>Erma</Speaker>||:Everyone, we've received the order to officially begin the operation. +TPS, what's our latest data transmission speed and stability?
@@ -35,44 +35,44 @@ ColtWalker(1)<Speaker>Maggie</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Alright,
 ()<Speaker></Speaker>||:<color=#FFFF00>Special Operation Member "Umbrella" has logged in.</color> +<color=#FFFF00>"Unicorn" has logged in.</color>
 ColtWalker(2)<Speaker>Maggie</Speaker>||:And that makes everyone~
 Erma(14)<Speaker>Erma</Speaker>||:Taraxacum, is your audio and visual signal stable?
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>This is Taraxacum, we've got a stable connection and good quality.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>This is Taraxacum, we've got a stable connection and good quality.</color>
 Erma(18)<Speaker>Erma</Speaker>||:Alright, you're up, Commander!
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:The Commander, who has been watching from the side for a while, begins to speak.
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Give me a sitrep.</color>
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>We've finished clearing out the enemies and recovered Unicorn. We're currently stationed in a temporary signal station to the north of Avernus.</color>
-AR15Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:<color=#00CCFF>How is Unicorn doing?</color>
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>We've recovered 9's core, but we had Dandelion make a backup just to be safe.</color> +<color=#00CCFF>45 can still continue operations, but she has requested to join us.</color>
-AR15Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:<color=#00CCFF>45?</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>It's only been two days, but I still want to say it's been a long time, Commander.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:<color=#00CCFF>...</color> +<color=#00CCFF>Are you sure you can continue with the mission in your current condition?</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Yeah, it's nothing serious. 416 and Gr G11 have already got me sorted.</color> +<color=#00CCFF>Also, you need me around for a stable connection with the Aeneas Conference Room.</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>You call this "nothing serious"? If we hadn't picked up your signal when we came in, we would have thought you were scrap!</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>We've finished clearing out the enemies and recovered Unicorn. We're currently stationed in a temporary signal station to the north of Avernus.</color>
+AR15Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:<color=#00CCFF>How is Unicorn doing?</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>We've recovered 9's core, but we had Dandelion make a backup just to be safe.</color> +<color=#00CCFF>45 can still continue operations, but she has requested to join us.</color>
+AR15Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:<color=#00CCFF>45?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>It's only been two days, but I still want to say it's been a long time, Commander.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:<color=#00CCFF>...</color> +<color=#00CCFF>Are you sure you can continue with the mission in your current condition?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Yeah, it's nothing serious. 416 and Gr G11 have already got me sorted.</color> +<color=#00CCFF>Also, you need me around for a stable connection with the Aeneas Conference Room.</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>||:<color=#00CCFF>You call this "nothing serious"? If we hadn't picked up your signal when we came in, we would have thought you were scrap!</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>...</color>
 ()<Speaker></Speaker>||:UMP45's wounds give the Commander pause, but the determined look in her eyes tells the Commander that she's already made her decision.
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>I'll allow you to take part, but only on the condition that you know your limits.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Will do.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Will do.</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Erma, verify everyone's connection stability.</color>
 Erma(14)<Speaker>Erma</Speaker>||:Roger.
 ()||<黑点1>:
 AR18(3)<Speaker>AR-18</Speaker><Position>0,120</Position>||<BGM>BGM_Empty</BGM><BIN>202</BIN><黑点2>:Commander, I've just received a comms request from Miss Persica.
 ()<Speaker>Commander</Speaker>||:Put her through now!
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Truth</BGM>:<color=#00CCFF>Commander, I received a signal from Strongarm 17.34 seconds ago.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:How's Ange?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Give me a few more seconds, I'm decoding the info.</color> +<color=#00CCFF>...</color>
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Tsk...</color>
-NPC-Persica(3)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Is she alright?
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>She's still alive.</color>
-NPC-Persica(3)<Speaker>Commander</Speaker><通讯框><同时置暗>||:That's good...
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>But she isn't that far from becoming a corpse.</color> +<color=#00CCFF>Her heart rate, respiratory rate, body temperature... They're all a mess.</color>
-NPC-Persica(3)<Speaker>Commander</Speaker><通讯框><同时置暗>||:How much longer can she hold out?
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>A normal person can last about two hours at most.</color>
-NPC-Persica(3)<Speaker>Commander</Speaker><通讯框><同时置暗>||:We'll make it...
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Commander, you might not want to hear what I'm about to say, but I'm sure Ange would want me to nag you about it.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:What do you mean?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>You know how Ange is. Once she's made up her mind, nobody can make her change it.</color> +<color=#00CCFF>There are many times when I don't know what's going through her head, but just remember that Ange is Ange, so don't get your hopes up about saving her.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:... +Is this a roundabout way of telling me that the mission might fail?
-NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Since you're also a hardhead yourself, I have to be long-winded to get through to you.</color>
-NPC-Persica(3)<Speaker>Commander</Speaker><通讯框><同时置暗>||:We'll think of a way to save her, no matter what kind of condition she's in.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Truth</BGM>:<color=#00CCFF>Commander, I received a signal from Strongarm 17.34 seconds ago.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:How's Ange?
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Give me a few more seconds, I'm decoding the info.</color> +<color=#00CCFF>...</color>
+NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Tsk...</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Is she alright?
+NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>She's still alive.</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:That's good...
+NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>But she isn't that far from becoming a corpse.</color> +<color=#00CCFF>Her heart rate, respiratory rate, body temperature... They're all a mess.</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:How much longer can she hold out?
+NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>A normal person can last about two hours at most.</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:We'll make it...
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, you might not want to hear what I'm about to say, but I'm sure Ange would want me to nag you about it.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:What do you mean?
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>You know how Ange is. Once she's made up her mind, nobody can make her change it.</color> +<color=#00CCFF>There are many times when I don't know what's going through her head, but just remember that Ange is Ange, so don't get your hopes up about saving her.</color>
+NPC-Persica(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:... +Is this a roundabout way of telling me that the mission might fail?
+NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Since you're also a hardhead yourself, I have to be long-winded to get through to you.</color>
+NPC-Persica(3)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:We'll think of a way to save her, no matter what kind of condition she's in.
 NPC-Persica(2)<Speaker>Persica</Speaker>||:<color=#00CCFF>Alright then, I'll be waiting to hear from you, hardhead.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Persica hangs up, and the Commander leans back against their chair with a long and heavy sigh.
 AR18(3)<Speaker>AR-18</Speaker><Position>0,120</Position>||:Commander, your directions, please.
@@ -89,7 +89,7 @@ AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Taraxacum will be responsible for ensuri
 NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Yes. +Squad Puzzle and Squad Palette will provide ground-based fire direction. +Fe56 will split into two teams; Team D will be airdropped onto the roof of the Western Tower when the mission begins, where they will proceed to work downward and eliminate the tower's artillery emplacements. Team C will land on the tower platform and draw their fire. Exploiting the weather condition and the blind spots of the Western Tower, Daybreak will circle around stealthily to launch an assault on the Eastern Tower and search for the mission objective. +Taraxacum will stay put and wait for Daybreak's signal. +After we find the objective, we'll retreat ASAP and ensure a successful segue into Operation Kriemhild.
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Any questions?</color>
 ()<Speaker></Speaker>||:The Muromets Conference Room briefly quiets down.
-AR18(2)<Speaker>AR-18</Speaker><Position>0,120</Position><通讯框>||:<color=#00CCFF>Commander, the Elmo has entered the Black Zone. We're 27 km from our objective, Avernus.</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,120</Position><scan><通讯框>||:<color=#00CCFF>Commander, the Elmo has entered the Black Zone. We're 27 km from our objective, Avernus.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Got it.</color>
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:The Commander looks around at everyone in the room and calmly declares...
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>We will now commence Operation Ilya Muromets.</color>

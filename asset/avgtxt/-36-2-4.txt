@@ -1,8 +1,8 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>10051</BGM>:...At the Military staging area.
-NPC-Soldier(0)<Speaker>Mobile Team Leader</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Quartz to Terra, we've succeeded in breaching the quarantine wall. Proceeding with the mission. Over.</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<通讯框>||:Terra copies. Don't be careless. Over.
-NPC-Soldier(0)<Speaker>Mobile Team Leader</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Copy that. Quartz out.</color>
+NPC-Soldier(0)<Speaker>Mobile Team Leader</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Quartz to Terra, we've succeeded in breaching the quarantine wall. Proceeding with the mission. Over.</color>
+NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Terra copies. Don't be careless. Over.
+NPC-Soldier(0)<Speaker>Mobile Team Leader</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Copy that. Quartz out.</color>
 ()||:Yegor ends the transmission.
 NPC-Yegor(4)<Speaker>Yegor</Speaker>||:How goes the extermination of Griffin?
 NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker>||:Sir, Griffin is still putting up a fight. +We are attempting to eliminate them without damaging the railway.

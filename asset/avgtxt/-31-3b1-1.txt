@@ -17,19 +17,19 @@ M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:What do you mean?
 M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||:Your friend told me a few things about you so I didn't expect much from you in battle.
 M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:...That only serves to illustrate that a deserter who didn't even bother to say goodbye is not a reliable source. +People who believe in gossip and pry into others' affairs are even more unreliable.
 M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||:Don't misunderstand, I'm genuinely curious, and I intend to keep observing you like a hawk. +But right now we have more important things... Ange? What's the matter?
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>Are you reading AN-94's and AR-15's signals?</color>
-NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK-12</Speaker>||:...Nyet, we haven't received any signals or picked up any transmissions so far. +You haven't been able to contact them?
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>That's why I'm asking you.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>It's been almost half an hour since they last got in touch. I just have a bad feeling about this.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>How far are you from the opera house?</color>
-NPC-AngeStreet(0)<通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:Judging by the direct distance... Another ten minutes on foot, I'd say.
-NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK-12</Speaker>||:Assuming nothing unexpected happens on the way.
-NPC-AngeStreet(0)<通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:Have you found the new safe house, Ange?
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>Don't worry about me. It's pretty safe where I am. Just focus on re-establishing communication with AN-94 and AR-15.</color>
-NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK-12</Speaker>||:I hope you're right. If you've got ELIDs where you are, we're too far away to run to your rescue, you know.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>Anyway, just get there ASAP. If there's any new information or development, give me a report immediately.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>I can fend for myself. Ange out.</color>
-NPC-AngeStreet(0)<Speaker></Speaker><通讯框>||:Click.
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>;AK12(0)||:<color=#00CCFF>Are you reading AN-94's and AR-15's signals?</color>
+NPC-AngeStreet(0)<scan><通讯框>;AK12(2)<Speaker>AK-12</Speaker>||:...Nyet, we haven't received any signals or picked up any transmissions so far. +You haven't been able to contact them?
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>;AK12(0)||:<color=#00CCFF>That's why I'm asking you.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>;AK12(0)||:<color=#00CCFF>It's been almost half an hour since they last got in touch. I just have a bad feeling about this.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>;AK12(0)||:<color=#00CCFF>How far are you from the opera house?</color>
+NPC-AngeStreet(0)<scan><通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:Judging by the direct distance... Another ten minutes on foot, I'd say.
+NPC-AngeStreet(0)<scan><通讯框>;AK12(2)<Speaker>AK-12</Speaker>||:Assuming nothing unexpected happens on the way.
+NPC-AngeStreet(0)<scan><通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:Have you found the new safe house, Ange?
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>;M4A1Mod(0)||:<color=#00CCFF>Don't worry about me. It's pretty safe where I am. Just focus on re-establishing communication with AN-94 and AR-15.</color>
+NPC-AngeStreet(0)<scan><通讯框>;AK12(2)<Speaker>AK-12</Speaker>||:I hope you're right. If you've got ELIDs where you are, we're too far away to run to your rescue, you know.
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>;AK12(0)||:<color=#00CCFF>Anyway, just get there ASAP. If there's any new information or development, give me a report immediately.</color>
+NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>;AK12(0)||:<color=#00CCFF>I can fend for myself. Ange out.</color>
+NPC-AngeStreet(0)<Speaker></Speaker><scan><通讯框>||:Click.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Is she going to be alright?
 M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Why wouldn't she be? +She said she's okay on her own, so she's going to be alright.
 M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(2)||:What a clear and simple answer.

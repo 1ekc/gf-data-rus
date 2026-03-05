@@ -19,9 +19,9 @@ NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position>||:Yes, Sister.
 ()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:All the white Nytos present quietly file out of the room, not daring to make a peep.+Only when everyone else has gone does Nemhran starts analyzing the information intercepted by the Bee Sting System.+It is a list of newly acquired books at the Frankfurt District Library.
 ()<Speaker></Speaker>||:The book title that has triggered the alarm is... "Human Intelligence Research (18th Edition)".
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Nemhran gathers all the information and sends it over to Laplace.+A few minutes later, she receives a comms request from her.
-NPC-Laplace(11)<Speaker>Laplace</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I want the physical copy.</color>
+NPC-Laplace(11)<Speaker>Laplace</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I want the physical copy.</color>
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:All we have at the moment is the fact that it has appeared in the library; we know nothing about the date of publication, word count, or contents.+I have already located the book, and I'll send someone to extract it for you later.
-NPC-Laplace(13)<Speaker>Laplace</Speaker><通讯框>||:<color=#00CCFF>Sure.</color>
+NPC-Laplace(13)<Speaker>Laplace</Speaker><scan><通讯框>||:<color=#00CCFF>Sure.</color>
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_disconnect</SE1>:Beep. The call ends.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:
@@ -38,7 +38,7 @@ Nyto(0)<Speaker>Black Nyto</Speaker>||:...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||:In a hidden basement near the Paradeus factory.
-AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>DEFY has withdrawn safely. You're up.</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>DEFY has withdrawn safely. You're up.</color>
 HK416Mod(0)<Speaker>416</Speaker>||:Copy that.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_disconnect</SE1>:
 UMP9Mod(0)<Speaker>UMP9</Speaker>||:Humph~ The copy of "Human Intelligence Research (18th Edition)" in Frankfurt Library has already been locked onto.

@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>55</BIN>:Squad Thompson in the middle of a mission.
-M1911(0)<Speaker>M1911</Speaker><通讯框>||<BGM>BGM_Room</BGM>:Are you in position, M21?
+M1911(0)<Speaker>M1911</Speaker><scan><通讯框>||<BGM>BGM_Room</BGM>:Are you in position, M21?
 M21(0)<Speaker>M21</Speaker>;M1911(0)||:M14 and I are ready. We can punch our enemies full of holes anytime!
 M21(0);M1911(0)<Speaker>M1911</Speaker>||:Good. Please keep an eye on M14. Tell her about the way you fight if you've got free time.
 M21(0)<Speaker>M21</Speaker>;M1911(0)||:No problem. Leave it to me!
@@ -18,7 +18,7 @@ M14(0)<Speaker>M14</Speaker>;M21(0)||:Well...we do it so that M14 never forgets 
 M14(0);M21(0)<Speaker>M21</Speaker>||:Old companions?
 M14(0)<Speaker>M14</Speaker>||:Yeah. It was a long time ago...
 ()||:At that moment, Thompson's voice comes through the comm link with gunshots in the background.
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||<SE1>Gunfight</SE1>:<color=#00CCFF>Save your chatting for later, ladies.</color> +<color=#00CCFF>If you want any extra bounty, get to work and pull your weight.</color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||<SE1>Gunfight</SE1>:<color=#00CCFF>Save your chatting for later, ladies.</color> +<color=#00CCFF>If you want any extra bounty, get to work and pull your weight.</color>
 M21(0)<Speaker>M21</Speaker>||<黑点1>:Alright, here we go! +Tell me the rest after the fight, M14.
 ()||<黑点2><BGM>BGM_Empty</BGM>:...Several minutes later. +... +Combat over.
 M14(0)<Speaker>M14</Speaker>||<BGM>BGM_Room</BGM>:Thompson! Thompson!
@@ -49,11 +49,11 @@ M14(0)<Speaker>???</Speaker>||<黑屏2>0,5<黑屏2><回忆><黑屏1>0,5<黑屏1>
 M14(0)<Speaker>M14</Speaker><shake>||<白屏2><BIN>85</BIN><BGM>BGM_Empty</BGM>:?!
 M14(0)<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:A voice suddenly comes through the comm link. M14 jumps to her feet right away.
 M14(0)<Speaker>M14</Speaker>||:We're here! +Is this M21?! Is something wrong?
-M14(0);M21(0)<Speaker>M21</Speaker><通讯框>||:<color=#00CCFF>Cough... M14, withdraw immediately!</color>
+M14(0);M21(0)<Speaker>M21</Speaker><scan><通讯框>||:<color=#00CCFF>Cough... M14, withdraw immediately!</color>
 M14(0)<Speaker>M14</Speaker>;M21(0)||:But our order is to...
-M14(0);M1911(0)<Speaker>M1911</Speaker><通讯框>||:<color=#00CCFF>M14, you must leave that safe house at once!</color> +<color=#00CCFF>The enemy is much tougher than we imagined... A platoon we didn't manage to get is heading straight towards your location!</color>
-M14(0);M9(0)<Speaker>M9</Speaker><通讯框>||:<color=#00CCFF>Stop chatting! They're on us again!</color>
-M14(0);M21(0)<Speaker>M21</Speaker><通讯框>||:<color=#00CCFF>Alright, got it! I'll—</color> +<color=#00CCFF>M14, we're in a bit of a spot now, but we'll get you as soon as we can...</color>
+M14(0);M1911(0)<Speaker>M1911</Speaker><scan><通讯框>||:<color=#00CCFF>M14, you must leave that safe house at once!</color> +<color=#00CCFF>The enemy is much tougher than we imagined... A platoon we didn't manage to get is heading straight towards your location!</color>
+M14(0);M9(0)<Speaker>M9</Speaker><scan><通讯框>||:<color=#00CCFF>Stop chatting! They're on us again!</color>
+M14(0);M21(0)<Speaker>M21</Speaker><scan><通讯框>||:<color=#00CCFF>Alright, got it! I'll—</color> +<color=#00CCFF>M14, we're in a bit of a spot now, but we'll get you as soon as we can...</color>
 M14(0)<Speaker>M14</Speaker>;M21(0)||:<color=#A9A9A9>(M21 seems to be in serious trouble...)</color> +Why don't we stay here and ambush them?!
 M21(0)<Speaker>M21</Speaker><shake>||:<color=#00CCFF>What?! Don't even think about it! Not funny at all!</color> +<color=#00CCFF>Just run! We'll do our best to catch up!</color>
 ()||:...Transmission terminated.
@@ -68,7 +68,7 @@ M14(0)<Speaker>M14</Speaker>||<黑屏2><BIN>85</BIN><黑屏1>:The remaining unit
 M14(0)<Speaker>M14</Speaker>||<黑屏2><BIN>85</BIN>:I... +WE aren't defective, useless T-Dolls! +We have to fight!
 ()||:M14 connects to Thompson's communication channel.
 M14(0)<Speaker>M14</Speaker>||:Thompson!
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>M14? I don't have time...</color> +<color=#00CCFF>Wait, why are you still at the safe house?!</color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>M14? I don't have time...</color> +<color=#00CCFF>Wait, why are you still at the safe house?!</color>
 M14(0)<Speaker>M14</Speaker>||<黑屏1>:Listen to us, Thompson! +We have an idea...
 ()||<黑屏2><BIN>9</BIN><黑屏1>:... +I will go forward on their behalf. This is our wish. +I will never forget about this wish from now on. +I will remember our past and live on... +This is our fight.
 ()||<黑屏1>:I must work even harder for this goal.

@@ -1,35 +1,35 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>|||<BIN>99</BIN><黑屏2><SE1>AVG_Helicopter_BG</SE1><BGM>BGM_Sneak</BGM>:The transport chopper is wreathed in turbulence as it descends upon a silent wasteland on the border of the contaminated zone.
 ()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:If one were to direct one's scope at the uneven horizon, they would be able to see countless sinister-looking dark shapes wobbling there... They are the ELID Infected, and the main objective of this clearing operation...
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Gr MG3! We're up!</color> +<color=#00CCFF>Beat back the enemy trying to break through the left flank and chase them back into the lowlands!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Gr MG3! We're up!</color> +<color=#00CCFF>Beat back the enemy trying to break through the left flank and chase them back into the lowlands!</color>
 97typeSMod(0);NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:Roger! I'm on my way! Cover me!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>;NPC-Maid(0)||:<color=#00CCFF>I didn't think you'd actually take part in the mission while looking like this.</color> +<color=#00CCFF>Looks like you're getting quite used to this new body, no?</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>;NPC-Maid(0)||:<color=#00CCFF>I didn't think you'd actually take part in the mission while looking like this.</color> +<color=#00CCFF>Looks like you're getting quite used to this new body, no?</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:Relax, Hawk. My stats might be a little different from before, but my skills are still the real deal!
 ()<Speaker></Speaker>||:After changing into her lightweight body, Gr MG3 races across the battlefield, making full use of her mobility. +With Type 97S covering her, she darts nimbly through the hordes of Infected and easily reaches favorable terrain.
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:I'm in position! Preparing to lay on the fire!
 ()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1>:Gr MG3 lifts her machinegun and savagely racks its charging handle. A hail of vicious gunfire sweeps away the enemies before her.
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>Whoa, nice work, Gr MG3!</color> +<color=#00CCFF>I'm actually starting to envy how you got yourself together so quickly!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>Whoa, nice work, Gr MG3!</color> +<color=#00CCFF>I'm actually starting to envy how you got yourself together so quickly!</color>
 97typeSMod(0);NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:But of course. After all, I'm not my sluggish self anymore. +Hawk, you can push forward as much as you like. I'm sure I can keep up with you!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:<color=#00CCFF>Someone's feeling pretty confident, eh?</color> +<color=#00CCFF>Looks like I'd better show my stuff too, or else you'll end up looking down on me!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:<color=#00CCFF>Someone's feeling pretty confident, eh?</color> +<color=#00CCFF>Looks like I'd better show my stuff too, or else you'll end up looking down on me!</color>
 ()<Speaker></Speaker>||<SE1>RunStep</SE1>:After being spurred into doing her best, Type 97S picks up the pace and advances. Gr MG3 follows closely behind her, and before long the two of them are leading the pack...
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>How's that? Make sure you let me know if you can't keep up.</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>How's that? Make sure you let me know if you can't keep up.</color>
 97typeSMod(0);NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:That was just a warmup!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>;NPC-Maid(0)||:<color=#00CCFF>Be careful, we're about to enter their turf.</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>;NPC-Maid(0)||:<color=#00CCFF>Be careful, we're about to enter their turf.</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:Roger!
 ()<Speaker></Speaker>||<黑点2><BIN>480</BIN><SE1>AVG_Geiger_Counter</SE1><BGM>BGM_stage1</BGM>:The two of them fight their way into the depths of the contaminated zone without stopping. +As the heart of a former disaster zone, the radiation here has spiked in intensity, and the terrain is rougher than before, while the urban ruins are scattered in large, dangerous-looking chunks...
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Gr MG3! Help me clear the obstacle up ahead!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Gr MG3! Help me clear the obstacle up ahead!</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:Leave it to me!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:<color=#00CCFF>Gr MG3! Take out the enemies trying to encircle us!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:<color=#00CCFF>Gr MG3! Take out the enemies trying to encircle us!</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:Coming!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:<color=#00CCFF>Gr MG3!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:<color=#00CCFF>Gr MG3!</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:Yes, yes, I know!
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:... +After several bouts of pitched battle, Gr MG3 tiredly leans against the cover behind her. +Her face is red, and it feels like a fire is burning inside her.
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:(Pants heavily) I can't believe my core temperature is so high! +Heat dissipation modules... normal. Coolant levels... adequate. +This isn't right, it was just a short march of less than twenty klicks. What's going on? +Are the shorties always this hot and bothered whenever they go on missions?
 ()<Speaker></Speaker>||:Baffled, Gr MG3 rubs her overheated chest, then scratches her head in confusion.
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hey, Gr MG3! Come over and lend me a hand!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hey, Gr MG3! Come over and lend me a hand!</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:Yes, yes! Just give me a bit...
 ()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:Upon hearing her teammate call out to her, she grabs her weapon and heads over to help without any hesitation.
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||<SE1>AVG_weapon_reload</SE1>:<color=#00CCFF>I'm reloading! Cover me!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||<SE1>AVG_weapon_reload</SE1>:<color=#00CCFF>I'm reloading! Cover me!</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:Got it!
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:After receiving another fire support request, Gr MG3 pulls the trigger and forcefully wrestles down her roaring machine gun. +However, a shrill alert suddenly rings out, and eye-catching red letters appear before her.
 ()<Speaker>System</Speaker>||<SE1>AVG_ElecSpace</SE1>:<color=#FF0000>WARNING—Chassis endurance overloaded. Core operating beyond safety parameters. Mobility systems shutting down in 15 seconds...</color>
@@ -37,14 +37,14 @@ NPC-Maid(0)<Speaker>Gr MG3</Speaker>||<BGM>GF_21winter_battle_3</BGM>:You're shu
 ()<Speaker>System</Speaker>||:<color=#FF0000>Override orders cannot be ignored. Implementing order in 12 seconds...</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:Son of a bitch!
 ()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1>:Gr MG3 frantically pours on the firepower, trying to wipe them all out before the override order is executed.
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Gr MG3, are you alright? You seem a little panicked to me!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Gr MG3, are you alright? You seem a little panicked to me!</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:I'm fine! Just pull back!
-NPC-Maid(0);97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:<color=#00CCFF>What, you can't hack it anymore?</color>
+NPC-Maid(0);97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:<color=#00CCFF>What, you can't hack it anymore?</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>;97typeSMod(0)||:Says who?! I was worried for you because you were waddling around like a penguin!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:<color=#00CCFF>Heh, says the one who's hiding behind me like a turtle...</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:<color=#00CCFF>Heh, says the one who's hiding behind me like a turtle...</color>
 ()<Speaker>System</Speaker>||:<color=#FF0000>Implementing order in 6 seconds...</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:... +Hawk! Cut the crap and pull back now!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:<color=#00CCFF>Hah?! What the hell's going on with you?</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:<color=#00CCFF>Hah?! What the hell's going on with you?</color>
 ()<Speaker>System</Speaker>||:<color=#FF0000>Implementing order in 3 seconds...</color>
 NPC-Maid(0)<Speaker>Gr MG3</Speaker>||:I...
 ()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:As the system alerts blare out, Gr MG3's body loses control of itself, and her gun falls to the ground. +The suppressed ELID horde takes this opportunity to swarm them...

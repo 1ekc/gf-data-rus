@@ -62,7 +62,7 @@ PTRD(0)<Speaker>PTRD</Speaker>||<黑屏1>:I think I understand what you're think
 杀手A()<Speaker>Killer A</Speaker>||<黑点1>:Ahaha, alright!
 ()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:...Meanwhile, inside a room on the second floor.
 TEC9(0)<Speaker>TEC-9</Speaker>||:It's them! Those two killers are very dangerous! +One of them is mean and has a bad temper, and the other one seems like a moron that keeps going "ahaha", but he's actually hiding a vicious streak! +Be careful, NTW-20...
-NTW20(0)<speaker>NTW-20</speaker><通讯框>||<黑点1>:<color=#00CCFF>Don't worry, just stick with the plan.</color>
+NTW20(0)<speaker>NTW-20</speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Don't worry, just stick with the plan.</color>
 ()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:Three minutes later, on the second floor.
 杀手A()<Speaker>Killer A</Speaker>||:Ahaha, let's see what cuties are waiting for me on the second floor!
 ()<speaker></speaker>||:Despite Killer A's frivolous calls, every step he takes is steady and cautious.

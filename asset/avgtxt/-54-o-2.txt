@@ -52,7 +52,7 @@ NPC-Scalper(3)<Speaker>Catherine</Speaker>||:The cops aren't around but the secu
 NPC-Scalper(3)<Speaker>Catherine</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:<size=50>OWWWWWW—Hey!! Quit pushing!</size> +<size=50>Ahhhh—!! I'm so pissed off, why do I have to be the one squeezing with people in the second-class carriage anyway?!</size>
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Catherine sighs and looks at her communicator—
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. The call connects. +Perhaps it's because they've entered a Red Zone, or because reception in the second-class carriage is really bad, it has taken a very long time for Catherine to get the call through. The moment it connects, she starts complaining.
-ColtWalker(1)<Speaker>Maggie</Speaker><通讯框>||<BGM>GF_21winter_avg_nightbar</BGM>:<color=#00CCFF>...Catherine?</color>
+ColtWalker(1)<Speaker>Maggie</Speaker><scan><通讯框>||<BGM>GF_21winter_avg_nightbar</BGM>:<color=#00CCFF>...Catherine?</color>
 ColtWalker(1);NPC-Scalper(3)<Speaker>Catherine</Speaker>||:Hey, Maggie! Why did you have to give me a second-class ticket?!
 ColtWalker(1)<Speaker>Maggie</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>Because I was worried about you slacking off in the dining carriage again. Remember last time when you forgot to check the tickets and caused over a dozen of our clients to be unable to board the train?</color>
 ColtWalker(1);NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<size=50>...Oh come on, we agreed—no raking over the ashes!</size>
@@ -63,7 +63,7 @@ NPC-Scalper(0)<Speaker>Catherine</Speaker>||:Aw, relax!
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Doorbell</SE1>:A loud voice suddenly cuts through the clamor of the carriage—
 ()<Speaker>Broadcast</Speaker>||:<color=#00CCFF>Dear passengers, may I have your attention please.</color> +<color=#00CCFF>The Future is now in high-speed cruise mode. </color> +<color=#00CCFF>Passengers who need to pay their outstanding ticket fares, please proceed to Carriage 9.</color>
 ()<Speaker>Broadcast</Speaker>||:<color=#00CCFF>Dear passengers, may I have your attention please.</color> +<color=#00CCFF>The Future is now in high-speed cruise mode. </color> +<color=#00CCFF>Passengers who need to pay their outstanding ticket fares, please proceed to Carriage 9.</color>
-ColtWalker(1)<Speaker>Maggie</Speaker><通讯框>||:<color=#00CCFF>...Right, catch you later.</color>
+ColtWalker(1)<Speaker>Maggie</Speaker><scan><通讯框>||:<color=#00CCFF>...Right, catch you later.</color>
 NPC-Scalper(3)<Speaker>Catherine</Speaker>||:...Sure.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Catherine nods, and then hangs up her call with Maggie. +...It's time.
 ()<Speaker></Speaker>||<SE1>Rope</SE1>:She struggles to her feet and leans against Pavel's large body.

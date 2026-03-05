@@ -56,33 +56,33 @@ NPC-Maid(0)<Speaker>Marie</Speaker>||:I've never harmed any humans... Please don
 M16A1BOSS(2)<Speaker>M16A1</Speaker>||:...
 ()<Speaker></Speaker>||:In the distance, high-definition cameras slowly revolve, scanning the area.+Unfazed, M16 keeps her face blank as she continues to play the law-abiding Doll. Meanwhile, she logs onto the encrypted comms channel.
 M16A1BOSS(2)<Speaker>M16A1</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The "Interim Regulations for Doll Security" are now in full effect. Any Doll that don't meet the requirements are being taken away for inspection.</color>+<color=#00CCFF>And the office that handles all the admin procedures just so happens to be closed at such a critical time.</color>+<color=#00CCFF>Put it simply, they're not giving us Dolls any time to react at all.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Are you affected?</color>
-UMP45Mod(0)<通讯框>;M16A1BOSS(3)<Speaker>M16A1</Speaker>||:<color=#00CCFF>No. The sly old fox got me some special permit, which should be more than enough to get me through any inspection.</color>+<color=#00CCFF>The biggest problem is with DEFY. The Stasi has placed such a huge bounty on their heads that the poachers on the black market are all out for blood.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;M16A1BOSS(3)||:<color=#00CCFF>Not gonna lie, even I find the sum very tempting.</color>+<color=#00CCFF>Still, isn't their hideout in the Altstadt? I doubt the inspection can be thoroughly enforced there.</color>
-UMP45Mod(0)<通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>The Altstadt is pretty raucous, so it does make for the perfect hideout for outlaws.</color>+<color=#00CCFF>But no matter how lawless it is, the residents aren't blind. AK-15 sticks out wherever she goes, and since anti-Doll sentiments are running really high right now, people would just call the police if they see a Doll out in the streets.</color>+<color=#00CCFF>So they can't stay in one place for long.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Right, but I still don't think DEFY is your biggest problem here.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Are you affected?</color>
+UMP45Mod(0)<scan><通讯框>;M16A1BOSS(3)<Speaker>M16A1</Speaker>||:<color=#00CCFF>No. The sly old fox got me some special permit, which should be more than enough to get me through any inspection.</color>+<color=#00CCFF>The biggest problem is with DEFY. The Stasi has placed such a huge bounty on their heads that the poachers on the black market are all out for blood.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>;M16A1BOSS(3)||:<color=#00CCFF>Not gonna lie, even I find the sum very tempting.</color>+<color=#00CCFF>Still, isn't their hideout in the Altstadt? I doubt the inspection can be thoroughly enforced there.</color>
+UMP45Mod(0)<scan><通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>The Altstadt is pretty raucous, so it does make for the perfect hideout for outlaws.</color>+<color=#00CCFF>But no matter how lawless it is, the residents aren't blind. AK-15 sticks out wherever she goes, and since anti-Doll sentiments are running really high right now, people would just call the police if they see a Doll out in the streets.</color>+<color=#00CCFF>So they can't stay in one place for long.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Right, but I still don't think DEFY is your biggest problem here.</color>
 M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Why?</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>Oh please, I've grown out of taking petty revenge while on a mission.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>How very reassuring to hear. Then I'll let you do the talking. I'm off to find AR-18.</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Hey, wait! I'll go...</color>+<color=#00CCFF>...</color>
-HK416Mod(0)<通讯框>;M16A1BOSS(2)<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:
-HK416Mod(0)<通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>What's the situation on your end?</color>+<color=#00CCFF>From what I know, the level of security you'll have to deal with when getting off the autobahn and driving into the city will be even crazier than before.</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Yeah, there are definitely more checkpoints than before. There's no way we can get past them without a permit.</color>+<color=#00CCFF>Not to mention so many cars are trying to get into Frankfurt the queues extend all the way up to the autobahn itself.</color>
-HK416Mod(0)<通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Still no news from AR-18?</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>She said she's still waiting, but she'll hear back by the end of today, one way or another.</color>+<color=#00CCFF>But there's really no telling... how things will turn out.</color>
-HK416Mod(0)<通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>I'll update you on the curfew situation within the city later, hopefully the information will come in useful for you after you get in.</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Right. If things don't work out on AR-18's end, we'll also try other ways to get in.</color>
-HK416Mod(0)<通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||<CGDelay>0.6</CGDelay>:<color=#00CCFF>Alright.</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>Oh please, I've grown out of taking petty revenge while on a mission.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>How very reassuring to hear. Then I'll let you do the talking. I'm off to find AR-18.</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Hey, wait! I'll go...</color>+<color=#00CCFF>...</color>
+HK416Mod(0)<scan><通讯框>;M16A1BOSS(2)<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:
+HK416Mod(0)<scan><通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>What's the situation on your end?</color>+<color=#00CCFF>From what I know, the level of security you'll have to deal with when getting off the autobahn and driving into the city will be even crazier than before.</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Yeah, there are definitely more checkpoints than before. There's no way we can get past them without a permit.</color>+<color=#00CCFF>Not to mention so many cars are trying to get into Frankfurt the queues extend all the way up to the autobahn itself.</color>
+HK416Mod(0)<scan><通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Still no news from AR-18?</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>She said she's still waiting, but she'll hear back by the end of today, one way or another.</color>+<color=#00CCFF>But there's really no telling... how things will turn out.</color>
+HK416Mod(0)<scan><通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>I'll update you on the curfew situation within the city later, hopefully the information will come in useful for you after you get in.</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Right. If things don't work out on AR-18's end, we'll also try other ways to get in.</color>
+HK416Mod(0)<scan><通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||<CGDelay>0.6</CGDelay>:<color=#00CCFF>Alright.</color>
 M16A1BOSS(3)<Speaker>M16A1</Speaker>||<CGDelay>0.7</CGDelay>:
 M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>416.</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Yes?</color>
-HK416Mod(0)<通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Do you really not mind working with me?</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>...</color>+<color=#00CCFF>I've told you already! It's all water under the bridge for me!</color>+<color=#00CCFF>Can we just focus on the mission at hand?!</color>
-HK416Mod(0)<通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Glad to hear it. This is a mission of critical importance.</color>+<color=#00CCFF>Our priority is to locate the Commander. Then we must try our best to monitor Paradeus' system and activities.</color>+<color=#00CCFF>I don't want any problems among ourselves.</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>Ha, you're not implying that 404 is a hindrance, are you?</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>Yes?</color>
+HK416Mod(0)<scan><通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>Do you really not mind working with me?</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>;M16A1BOSS(2)||:<color=#00CCFF>...</color>+<color=#00CCFF>I've told you already! It's all water under the bridge for me!</color>+<color=#00CCFF>Can we just focus on the mission at hand?!</color>
+HK416Mod(0)<scan><通讯框>;M16A1BOSS(2)<Speaker>M16A1</Speaker>||:<color=#00CCFF>Glad to hear it. This is a mission of critical importance.</color>+<color=#00CCFF>Our priority is to locate the Commander. Then we must try our best to monitor Paradeus' system and activities.</color>+<color=#00CCFF>I don't want any problems among ourselves.</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>||:<color=#00CCFF>Ha, you're not implying that 404 is a hindrance, are you?</color>
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M16's lips curl into a smile.
 M16A1BOSS(5)<Speaker>M16A1</Speaker>||:<color=#00CCFF>I can see that you're rearing to go, 416.</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>The Commander still has a lot of outstanding debt! We're going to hunt them down to collect it even if it takes us to the end of the world!</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>||:<color=#00CCFF>The Commander still has a lot of outstanding debt! We're going to hunt them down to collect it even if it takes us to the end of the world!</color>
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:
 ()||<黑屏1><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><CGDelay>0.5</CGDelay><BIN>9</BIN>:

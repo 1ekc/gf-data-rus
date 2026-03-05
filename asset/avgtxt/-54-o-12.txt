@@ -7,22 +7,22 @@ Erma(7)<Speaker>Erma</Speaker>||:...Are we really not going to take her? +At the
 ColtWalker(3)<Speaker>Maggie</Speaker>||:If you waste a single moment, I'm going to leave you behind.
 Erma(6)<Speaker>Erma</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click— +A message comes in through the comms channel.
-AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><通讯框>||:<color=#00CCFF>How long until you reach Carriage F02?</color>
+AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#00CCFF>How long until you reach Carriage F02?</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>;AR18(6)<Position>0,70</Position>||:40 seconds! +No, half a minute tops!
-ColtWalker(3);AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><通讯框>||:<color=#00CCFF>...Then, do you have any questions?</color>
+ColtWalker(3);AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#00CCFF>...Then, do you have any questions?</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>;AR18(6)<Position>0,70</Position>||:We just need to wait, yeah?
-ColtWalker(3);AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><通讯框>||:<color=#00CCFF>That's right. Help is on the way.</color>
+ColtWalker(3);AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#00CCFF>That's right. Help is on the way.</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>||:Then I'm good.
 Erma(6)<Speaker>Erma</Speaker>||:... +You're going to do something very dangerous, right?
-Erma(6);AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><通讯框>||:<color=#00CCFF>...Yeah. I'm going to do what I ought to do.</color>
+Erma(6);AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#00CCFF>...Yeah. I'm going to do what I ought to do.</color>
 Erma(6)<Speaker>Erma</Speaker>;AR18(6)<Position>0,70</Position>||:...So you're not going to explain anything to me?
-Erma(6);AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>I'm sorry, Doctor Hume is a military secret.</color>
+Erma(6);AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>I'm sorry, Doctor Hume is a military secret.</color>
 Erma(7)<Speaker>Erma</Speaker>;AR18(6)<Position>0,70</Position>||:...Do you want to back yourself up in my neural cloud? +The Summer Garden—you should know what it is.
-AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><通讯框>||:<color=#00CCFF>...There's no need for that.</color> +<color=#00CCFF>I work for the Military.</color>
+AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#00CCFF>...There's no need for that.</color> +<color=#00CCFF>I work for the Military.</color>
 ()<Speaker></Speaker>||:The transmission seems exceptionally quiet for a moment.
-AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><通讯框>||:<color=#00CCFF>10 seconds.</color>
+AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#00CCFF>10 seconds.</color>
 Erma(6)<Speaker>Erma</Speaker>||:...Is your real name Lyudmila?
-AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><通讯框>||:<color=#00CCFF>...It's a name I have given myself.</color>
+AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#00CCFF>...It's a name I have given myself.</color>
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><SE1>AVG_tele_disconnect</SE1><BIN>9</BIN>:Click. +With that, Lyudmila terminates the transmission. +She listens to the pattering of rain outside the door, then she lowers her head and sighs.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position><同时置暗>||:...Do you regret this?
@@ -67,9 +67,9 @@ NPC-Soldier(0)<Speaker>Soldier A</Speaker>||:Yes, sir.
 ()<Speaker></Speaker>||:As he looks at the relit train in the distance, Captain Ivan picks up his communicator and makes a call.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click— +The call connects.
 ()<Speaker>Captain Ivan</Speaker>||:We have swept through 21 carriages so far. +Should we continue?
-NPC-Tareus(3)<Speaker>Tareus</Speaker><通讯框>||:<color=#00CCFF>Proceed.</color> +<color=#00CCFF>You are too inefficient.</color>
+NPC-Tareus(3)<Speaker>Tareus</Speaker><scan><通讯框>||:<color=#00CCFF>Proceed.</color> +<color=#00CCFF>You are too inefficient.</color>
 NPC-Tareus(3)<Speaker>Captain Ivan</Speaker><同时置暗>||:Then grant us permission to use heavy weapons.
-NPC-Tareus(3)<Speaker>Tareus</Speaker><通讯框>||:<color=#00CCFF>Permission granted, but wait until I eliminate this target.</color>
+NPC-Tareus(3)<Speaker>Tareus</Speaker><scan><通讯框>||:<color=#00CCFF>Permission granted, but wait until I eliminate this target.</color>
 ()<Speaker></Speaker>||:Tareus' cold, robotic voice rings with authority.
 ()<Speaker>Captain Ivan</Speaker>||:Roger.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +The transmission ends.

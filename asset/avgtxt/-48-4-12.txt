@@ -132,52 +132,52 @@ KH2002(0)<Speaker>Khaybar</Speaker>||:He hasn't scheduled a call. +Besides, if i
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. +Call connected.
 ()<Speaker></Speaker>||:Not a sound comes through the communicator.
 ()<Speaker></Speaker>||:This disconcerting silence lasts for several seconds.
-()<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>... </color>
+()<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>... </color>
 ()<Speaker></Speaker>||:...Is that panting they hear? +The Dolls look at each other tensely.
-NPC-Ange(8)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>... Commander.</color>
+NPC-Ange(8)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>... Commander.</color>
 ()<Speaker>Commander</Speaker>||<BGM>GF_EV9_Intermission</BGM>:An—!
 ()<Speaker></Speaker>||:The Commander jumps to their feet.
 ()<Speaker>Commander</Speaker>||:...Ange?! +Where are you now?!
 ()<Speaker></Speaker>||:They shout into the communicator anxiously, but a different voice answers back.
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>...Good afternoon, Commander.</color> +<color=#00CCFF>I hope you don't mind this abrupt call.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>...Good afternoon, Commander.</color> +<color=#00CCFF>I hope you don't mind this abrupt call.</color>
 ()<Speaker>Commander</Speaker>||:Who are you?! +What have you done to Ange?!
 ()<Speaker></Speaker>||:The Commander immediately gestures for RO635 and UMP45 to turn on the computer quickly. +SOP-II is crouched under the table, fixing the communicator with a murderous glare.
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Khaybar is also focused on the communicator. The caller's face isn't shown, but she swears she has heard this voice somewhere before.
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>That isn't something you need to know.</color> +<color=#00CCFF>I doubt you care about that anyway. After all, you are much more concerned about something else.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>That isn't something you need to know.</color> +<color=#00CCFF>I doubt you care about that anyway. After all, you are much more concerned about something else.</color>
 ()<Speaker></Speaker>||:The Commander takes a deep breath and forces themselves to keep calm.
 ()<Speaker>Commander</Speaker>||:...You have Ange? What do you want?
-NPC-Ange(8)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Ugh... Argh!!!</color>
+NPC-Ange(8)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Ugh... Argh!!!</color>
 ()<Speaker>Commander</Speaker>||:Ange!!! +Dammit! Don't you dare, I'm warning you!! +What exactly do you want?!
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>Morridow.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>Morridow.</color>
 ()<Speaker></Speaker>||:The voice on the other end suddenly grows steely.
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>An exchange of hostages. I hand Miss Angelia back to you.</color> +<color=#00CCFF>In return, I demand that you give us Morridow.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>An exchange of hostages. I hand Miss Angelia back to you.</color> +<color=#00CCFF>In return, I demand that you give us Morridow.</color>
 ()<Speaker>Commander</Speaker>||:... 
 ()<Speaker></Speaker>||:Khaybar's eyes widen. She turns to look at the Commander. +The Commander just stares at the communicator, their face completely blank and devoid of emotion.
 ()<Speaker>Commander</Speaker>||:Location?
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>Airport.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>Airport.</color>
 ()<Speaker></Speaker>||:The caller's speech is curt, concise, and extremely matter-of-fact.
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>I will inform you of the time momentarily.</color> +<color=#00CCFF>We will both get what we want; everybody is happy... Don't disappoint me, Commander.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>I will inform you of the time momentarily.</color> +<color=#00CCFF>We will both get what we want; everybody is happy... Don't disappoint me, Commander.</color>
 ()<Speaker>Commander</Speaker>||:...The airport is your territory. Why should I trust you?
-NPC-Ange(8)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Ugh... Aaaargh!!</color>
+NPC-Ange(8)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Ugh... Aaaargh!!</color>
 ()<Speaker>Commander</Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:Enough!
 ()<Speaker></Speaker>||:The Commander slams their fists on the table angrily.
 ()<Speaker>Commander</Speaker>||:You touch her again, and I'll send Morridow off to the next world!
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>This could be the very last chance you get to see Miss Angelia.</color> +<color=#00CCFF>You wouldn't do something so unwise. You wouldn't dare.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>This could be the very last chance you get to see Miss Angelia.</color> +<color=#00CCFF>You wouldn't do something so unwise. You wouldn't dare.</color>
 NPC-MrsGray(6)<Speaker>Commander</Speaker>||:If anything happens to Ange at all, I'll show you all the things I very much dare do. +Let me see her. I want to make sure she's safe.
 ()<Speaker></Speaker>||<SE1>Rope</SE1>:Gripping at the communicator tightly, the Commander speaks through clenched teeth.
-()<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>... </color>
+()<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>... </color>
 ()<Speaker></Speaker>||:The other end of the call falls silent for a while. Then a familiar face finally appears on the previously blank screen.
 ()<Speaker>Commander</Speaker>||:Ange...!
 ()<Speaker></Speaker>||:The Commander's voice almost breaks upon seeing Ange. +Through the screen, she looks deathly pale and rather battered, but she doesn't seem to be too badly injured, much to the Commander's relief.
 ()<Speaker>Commander</Speaker>||:Are you... Are you okay?
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>...Getting my tats hurt more than this.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>...Getting my tats hurt more than this.</color>
 ()<Speaker></Speaker>||:Ange's voice has lost its usual edge. She gazes at the Commander silently for a moment.
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Don't do anything stupid, Commander. I—</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Don't do anything stupid, Commander. I—</color>
 ()<Speaker></Speaker>||:The screen flickers once before going black.
 ()<Speaker>Commander</Speaker>||:Wait!
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>Time's up, Commander.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>Time's up, Commander.</color>
 NPC-MrsGray(6)<Speaker>Commander</Speaker>||:...Don't lay a finger on her.
-NPC-MrsGray(6)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>... </color> +<color=#00CCFF>I await good news from you.</color>
+NPC-MrsGray(6)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>... </color> +<color=#00CCFF>I await good news from you.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +Transmission terminated.
 ()<Speaker>Commander</Speaker>||:... 
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:...Tsk, the line was too convoluted. +I couldn't trace the call.

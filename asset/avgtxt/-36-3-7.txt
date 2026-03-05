@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>BGM_Battle</BGM><SE1>Battlefield</SE1>:The rear guard team has taken massive damage from the Military's heavy bombardments.
 Webley(0)<Speaker>Webley</Speaker>||<SE2>Gunfight</SE2>:Wounded Dolls, get to cover and repair yourselves on the spot! Other Dolls, provide cover fire! +INSAS, how are you?
-INSAS(0)<Speaker>INSAS</Speaker><通讯框>;Webley(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hmph, mind yourself, don't...</color>
+INSAS(0)<Speaker>INSAS</Speaker><scan><通讯框>;Webley(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hmph, mind yourself, don't...</color>
 Webley(0)<Speaker></Speaker>||<SE1>Explode</SE1>:Boom—
 Webley(0)<Speaker>Webley</Speaker>||<SE1>AVG_tele_disconnect</SE1>:INSAS?
 06TypeSMG(0)<Speaker></Speaker>||:CF-05 shakes her head.
@@ -42,18 +42,18 @@ RPK16(0)<Speaker>Commander</Speaker>;AK15(0)||:Do it. Blow the damn thing to hel
 AK15(0)<Speaker>AK-15</Speaker>||:Received.
 ()<Speaker></Speaker>||<黑点1>:The demolished base entrance is covered in layer upon layer of rubble. It has been completely destroyed.
 NPC-Yegor(4)<Speaker>Yegor</Speaker>||<黑点2>:Terra to Hematite. What is your progress? Over.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hematite copies. We've broken through their defense line. The Griffin remnants have destroyed the base entrance. We're searching for another entry point.</color>
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hematite copies. We've broken through their defense line. The Griffin remnants have destroyed the base entrance. We're searching for another entry point.</color>
 NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)||<SE1>AVG_tele_disconnect</SE1>:Humph. Futile death throes. +Terra to Quartz, sitrep.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We've destroyed the shore gun. The enemy can no longer carry out fire support.</color>+<color=#00CCFF>Requesting permission to halt the attack. We've taken excessive casualties. We'll enter the base through the breach in the quarantine wall once we send our wounded to the rear.</color>
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We've destroyed the shore gun. The enemy can no longer carry out fire support.</color>+<color=#00CCFF>Requesting permission to halt the attack. We've taken excessive casualties. We'll enter the base through the breach in the quarantine wall once we send our wounded to the rear.</color>
 NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)||:Permission denied! Enter the quarantine wall immediately! We must take control of the base as soon as possible!
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>...</color>+<color=#00CCFF>Understood, we're moving out now.</color>
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>...</color>+<color=#00CCFF>Understood, we're moving out now.</color>
 ()||<BGM>BGM_Empty</BGM><黑屏2><BIN>99</BIN>:On the AR Team's end.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_tension</BGM>:The enemy attack seems to have slowed. Let's hurry back to the base and meet up with the Commander.
 M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:But their armored units are still on the perimeter. Even if we rendezvous with them, we might end up getting wiped out together.
 M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Still, we can't stay here and wait to be killed.
 M4A1Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:That's right! Even if we're finished, we need to take a few of the bad guys down with us!
 M4A1Mod(0)<Speaker>M4A1</Speaker>;M4 SOPMOD IIMod(0)||:Dandelion, there are too many Military armored units for us to handle. We're on the way back to the base.+How are things with the Commander?
-M4A1Mod(0);NytoIsomer(3)<Speaker>Dandelion</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Griffin has withdrawn to the interior of the base. They have blown up the southern entrance and the Military is unable to fire on them for the time being.</color>+<color=#00CCFF>However, your position is extremely dangerous. The Military's main forces are on their way to rendezvous with the armored units on your side.</color>
+M4A1Mod(0);NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Griffin has withdrawn to the interior of the base. They have blown up the southern entrance and the Military is unable to fire on them for the time being.</color>+<color=#00CCFF>However, your position is extremely dangerous. The Military's main forces are on their way to rendezvous with the armored units on your side.</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:I see them already...
 M4A1Mod(0);NytoIsomer(3)<Speaker>Dandelion</Speaker>||:<color=#00CCFF>You haven't been discovered yet. Avoid those Military units and come to the north entrance. I will meet you there.</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:The Military will surely attack again once they link up. What can we do about that?

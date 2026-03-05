@@ -18,9 +18,9 @@ SpectreM4(0)<Speaker>Spectre M4</Speaker>||:Why didn't you ask me?! I raised my 
 HK45(0)<Speaker>Gr HK45</Speaker>||:I believe in all of you. Right, I'm going to call Stechkin now.
 P38(0)<Speaker>P38</Speaker>||:The suspense is killing me...
 HK45(0)<Speaker>Gr HK45</Speaker>||:Hello? Is that Stechkin? +We've gathered the sum you asked for.
-APS(0)<Speaker>Stechkin</Speaker><通讯框>||:<color=#00CCFF>Wow, you actually managed to do it in a week?</color>+<color=#00CCFF>Looks like you're all pretty determined about this.</color>
+APS(0)<Speaker>Stechkin</Speaker><scan><通讯框>||:<color=#00CCFF>Wow, you actually managed to do it in a week?</color>+<color=#00CCFF>Looks like you're all pretty determined about this.</color>
 SpectreM4(0)<Speaker>Spectre M4</Speaker>||:We're super serious, you know!
-APS(0)<Speaker>Stechkin</Speaker><通讯框>||<黑点1>:<color=#00CCFF>Yes, yes, I can see that.</color>+<color=#00CCFF>Send the money over to my account! Consider it a tuition fee.</color>+<color=#00CCFF>Once I receive it, I'll introduce you to that amazing veteran.</color>
+APS(0)<Speaker>Stechkin</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Yes, yes, I can see that.</color>+<color=#00CCFF>Send the money over to my account! Consider it a tuition fee.</color>+<color=#00CCFF>Once I receive it, I'll introduce you to that amazing veteran.</color>
 ()||<黑点2><BGM>BGM_Empty</BGM>清空BGM:Ten minutes later, the sound of leather shoes clacking against the floor comes from the end of the corridor.
 ()||<SE1>AVG_footsteps_cave</SE1>:The crisp footsteps seem to pound on the hearts of the idols-to-be.
 P38(0)<Speaker>P38</Speaker>||:<color=#A9A9A9>I think Gr HK45 guessed who it was, but she's not telling us.</color>+<color=#A9A9A9>Who could it be?</color>

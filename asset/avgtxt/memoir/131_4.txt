@@ -76,13 +76,13 @@ EVO3Mod(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Miss Gr G36 should be in the 
 EVO3Mod(0)<Speaker>EVO3</Speaker>||:Alright, I'll be waiting then.
 ()||:Kalina rubs her hands anxiously as she watches EVO3 leave the office.
 ()||<SE1>AVG_BaseDoor_Close</SE1>:After confirming that she really is gone, Kalina hops up, sneakily locks the door, and sets up the comms link she had put aside.
-G36Mod(0)<通讯框><Speaker>Gr G36</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...</color>+<color=#00CCFF>Looks like things are going well. </color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker>;G36Mod(0)<通讯框>||:Heheh... I didn't expect it at all! +The contract EVO3 signed at the end must've boosted her confidence and led to a "grand realization"... +This is all thanks to your arrangements, Miss Gr G36!
-NPC-Kalin(0);G36Mod(0)<通讯框><Speaker>Gr G36</Speaker>||:<color=#00CCFF>About that... I think you're probably wrong.</color>+<color=#00CCFF>I didn't arrange anything; even the decision to give the contract for the European bread was unbiased and purely based on objective truths.</color>+<color=#00CCFF>Miss EVO3's transition was entirely of her own determination, not mine. </color>
+G36Mod(0)<scan><通讯框><Speaker>Gr G36</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...</color>+<color=#00CCFF>Looks like things are going well. </color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker>;G36Mod(0)<scan><通讯框>||:Heheh... I didn't expect it at all! +The contract EVO3 signed at the end must've boosted her confidence and led to a "grand realization"... +This is all thanks to your arrangements, Miss Gr G36!
+NPC-Kalin(0);G36Mod(0)<scan><通讯框><Speaker>Gr G36</Speaker>||:<color=#00CCFF>About that... I think you're probably wrong.</color>+<color=#00CCFF>I didn't arrange anything; even the decision to give the contract for the European bread was unbiased and purely based on objective truths.</color>+<color=#00CCFF>Miss EVO3's transition was entirely of her own determination, not mine. </color>
 NPC-Kalin(1)<Speaker>Kalina</Speaker>||:I see, I see... Miss Gr G36, you're as just and impartial as always!
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||:By the way, regarding the payment EVO3 mentioned, I have some ideas to discuss with you... +Since EVO3 no longer has to pay off her debts now, could this small paycheck be, let's say, donated to the base in the name of the cafeteria or something...?
 ()||:Even across the screen, one can feel Gr G36's sigh.
-G36Mod(0)<通讯框><Speaker>Gr G36</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I sent the payment documents to the Commander for signoff ten minutes ago, and it's just been approved.</color>+<color=#00CCFF>Pardon me, I still have some tasks to take care of, so please pardon me for my sudden departure.</color>
+G36Mod(0)<scan><通讯框><Speaker>Gr G36</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I sent the payment documents to the Commander for signoff ten minutes ago, and it's just been approved.</color>+<color=#00CCFF>Pardon me, I still have some tasks to take care of, so please pardon me for my sudden departure.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:Beep.
 NPC-Kalin(3)<Speaker>Kalina</Speaker>||<SE1>AVG_20Winter_Book</SE1>:As expected of Miss Gr G36; as just and impartial as always....
 ()||<SE1>AVG_Cloak_Whoosh</SE1>:Kalina hops off the desk and opens the command room doors.

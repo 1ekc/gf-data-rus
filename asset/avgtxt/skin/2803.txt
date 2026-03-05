@@ -4,7 +4,7 @@
 ART556(0)<Speaker>ART556</Speaker>||:真是的……明明说好了一年之内不捣蛋就给我特赦的嘛……+干嘛特意在过节之前塞给我【你还记得上一个春节的事吗】这种小纸条……！
 ()<Speaker></Speaker>||:<color=#00CCFF>滴——！</color>
 ART556(0)<Speaker>ART556</Speaker>||:新消息？如果是指挥官那个大坏蛋发来的我才不回呢——+嗯？是FN57啊。
-FN57(0)<Speaker>FN57</Speaker><通讯框>||:<color=#00CCFF>还有赖在宿舍里的人形吗？人手不够了，速来指挥室领任务。</color>+<color=#00CCFF>最先到的人形可以在任务结束后于咖啡厅多领一份糖果。</color>
+FN57(0)<Speaker>FN57</Speaker><scan><通讯框>||:<color=#00CCFF>还有赖在宿舍里的人形吗？人手不够了，速来指挥室领任务。</color>+<color=#00CCFF>最先到的人形可以在任务结束后于咖啡厅多领一份糖果。</color>
 ()<Speaker></Speaker>||:ART556猛地从床上坐起，搓了搓手，然后从衣柜里翻出好几天前就做好了的衣服。
 ART556(0)<Speaker>ART556</Speaker>||<黑点1>:啊哈，这下就连指挥官也不能阻止我出门啦！+我可是去做任务的呢！是任务！
 ()<Speaker></Speaker>||<BIN>9</BIN><黑点2>0,5</黑点2><黑点1>0,5</黑点1>:……一小时后。

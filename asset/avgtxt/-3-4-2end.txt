@@ -5,7 +5,7 @@ BOSS-9(0)<Speaker>Architect</Speaker>||:Боже... Неужели игра в �
 BOSS-9(0)<Speaker>Architect</Speaker>||<黑屏1>:Хехе! Должно быть, этот выстрел был неплохим приветствием! +Посмотрим, что из этого вышло!
 ()||<BGM>BGM_Empty</BGM><BIN>7</BIN><Night><黑屏2>:...
 BOSS-9(0)<Speaker>Architect</Speaker>||:А? Где они? +Почему... их здесь нет?
-BOSS-7(0)<Speaker>Замерщица</Speaker><通讯框>;BOSS-9(0)||:Архитектор!
+BOSS-7(0)<Speaker>Замерщица</Speaker><scan><通讯框>;BOSS-9(0)||:Архитектор!
 BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:А? Ищешь меня? Ты поймал Команду AR?
 BOSS-7(0)<Speaker>Замерщица</Speaker>;BOSS-9(0)||:Ты... +Ты ИДИОТКА! Твой ИИ закоротило?! Почему ты свалила с базы?!
 BOSS-7(0);BOSS-9(0)<Speaker>Architect</Speaker>||:Хм... +Остынь. Я запустила программу защиты. Они не смогут проникнуть внутрь.

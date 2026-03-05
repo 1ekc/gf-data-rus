@@ -19,7 +19,7 @@ G36(8)<Speaker>G36</Speaker>;FN57(6)<Position>0,60</Position>||:一场游戏而�
 G36(8);FN57(6)<Speaker>FN-57</Speaker><Position>0,60</Position>||:那不就结了？一场游戏而已。+今晚的拉票也是游戏，狼队稍稍用些擅长的欺诈之术又有什么关系？+这明明是行之有效的致胜策略……
 G36(8)<Speaker>G36</Speaker>||:……
 ()||<SE1>AVG_tele_connect</SE1>:滴滴。+恰在此时，众人的通讯一同响起。
-NPC-KalinSwim(0)<Speaker>格琳娜</Speaker><通讯框>||:<color=#00CCFF>咳咳，大家晚上好哇！</color>+<color=#00CCFF>“里坎禁猎区”颁奖典礼将于五分钟后准时开始，请大家速速前往领奖台前集合!</color>+<color=#00CCFF>重复一遍……</color>
+NPC-KalinSwim(0)<Speaker>格琳娜</Speaker><scan><通讯框>||:<color=#00CCFF>咳咳，大家晚上好哇！</color>+<color=#00CCFF>“里坎禁猎区”颁奖典礼将于五分钟后准时开始，请大家速速前往领奖台前集合!</color>+<color=#00CCFF>重复一遍……</color>
 DP12(4)<Speaker>DP-12</Speaker>||:走吧，亲爱的57队长？
 FN57(6)<Speaker>FN-57</Speaker><Position>0,60</Position>||:好啊，我已经等不及见证最终的结果了呢……+一会儿见，G36小姐~
 ()||:FN-57嫣然一笑，惬意地挽着DP-12扬长而去。

@@ -1,5 +1,5 @@
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:The comms suddenly come to life. It's UMP45.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Attention! We just detected traces of buried explosives.</color> +<color=#00CCFF>Not only have they deployed units, they've also rigged the place with high explosives.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Attention! We just detected traces of buried explosives.</color> +<color=#00CCFF>Not only have they deployed units, they've also rigged the place with high explosives.</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:They're giving us such a warm welcome.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Guess this is the drawback of being so popular. Are you ready to face your "crazy fans"?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Guess this is the drawback of being so popular. Are you ready to face your "crazy fans"?</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...Let's go. It's time to give them a wake-up call.

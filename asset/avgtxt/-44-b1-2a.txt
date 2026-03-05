@@ -20,10 +20,10 @@ NPC-Lilyan(0)<Speaker>Elsa</Speaker>||:Robin? Okay, I'll remember that... +Then 
 NPC-Lilyan(0)<Speaker>Commander</Speaker>||:Alright.
 ()<Speaker></Speaker>||<黑屏1>:I lightly tap my micro communicator and send the AR Team the code that indicates I'm safe. +After that, this eager young girl drags me into this mysterious village...
 ()<Speaker></Speaker>||<BIN>270</BIN><Night><黑屏2>:...The next morning, I lean against the window and watch the scenery outside while checking in with the AR Team.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, we haven't found any suspicious targets yet.</color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框>||:That's fine. After all, it's been less than 24 hours since I arrived.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>We'll continue searching.</color> +<color=#00CCFF>Oh yes, Bohnsdorf is going to hold an open day tomorrow. Dandelion has already hacked the system to give herself a fake identity and invitation.</color> +<color=#00CCFF>That way we'll be able to support you from two sides at once. </color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框>||:Copy that. +I believe tomorrow is also Bohnsdorf's founding anniversary...
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, we haven't found any suspicious targets yet.</color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:That's fine. After all, it's been less than 24 hours since I arrived.
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>We'll continue searching.</color> +<color=#00CCFF>Oh yes, Bohnsdorf is going to hold an open day tomorrow. Dandelion has already hacked the system to give herself a fake identity and invitation.</color> +<color=#00CCFF>That way we'll be able to support you from two sides at once. </color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Copy that. +I believe tomorrow is also Bohnsdorf's founding anniversary...
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:A series of rapid footsteps comes from the staircase and I immediately hang up.
 NPC-Lilyan(0)<Speaker>Elsa</Speaker>||<SE1>RunStep</SE1>:I just knew you'd be spacing out here again, Robin. Let's go eat.
 NPC-Lilyan(0)<Speaker></Speaker>||:Elsa laughs innocently as she addresses me by the alias I'm using for this mission.

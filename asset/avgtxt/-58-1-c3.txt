@@ -20,14 +20,14 @@ NPC-Ange(38)<Speaker>?</Speaker>||<BIN>7</BIN><黑屏2><回忆><黑屏1>:...
 NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>||<黑屏2><关闭蒙版><BIN>417</BIN>:Not again... +Teacher... I require treatment...
 ()||:He makes a call on his communicator as he hyperventilates.
 NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>||:Teacher...!
-NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>White Nyto</Speaker><通讯框>||:<color=#00CCFF>Sister Sana is currently undergoing reconfiguration. If you have anything urgent to report, I will relay it once the procedure is completed.</color>
-NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>;NytoWhite(0)<通讯框>||:Sana... +My neuro-stabilizer is malfunctioning again. I need the Teacher.
-NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>White Nyto</Speaker><通讯框>||:<color=#00CCFF>I will notify her as soon as the experiment is over.</color>
-NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>;NytoWhite(0)<通讯框>||:Right...
-NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>White Nyto</Speaker><通讯框>||:<color=#00CCFF>Is there anything else I could help you with?</color>
-NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>;NytoWhite(0)<通讯框>||:How... how is Sana doing?
-NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>White Nyto</Speaker><通讯框>||:<color=#00CCFF>Her condition is stable. Teacher said to reassure you if you inquire about this.</color>
-NytoWhite(0)<Speaker>White Nyto</Speaker><通讯框>||:<color=#00CCFF>Focus on completing your mission. Do not forget what you have been through.</color>
+NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>White Nyto</Speaker><scan><通讯框>||:<color=#00CCFF>Sister Sana is currently undergoing reconfiguration. If you have anything urgent to report, I will relay it once the procedure is completed.</color>
+NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>;NytoWhite(0)<scan><通讯框>||:Sana... +My neuro-stabilizer is malfunctioning again. I need the Teacher.
+NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>White Nyto</Speaker><scan><通讯框>||:<color=#00CCFF>I will notify her as soon as the experiment is over.</color>
+NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>;NytoWhite(0)<scan><通讯框>||:Right...
+NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>White Nyto</Speaker><scan><通讯框>||:<color=#00CCFF>Is there anything else I could help you with?</color>
+NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>;NytoWhite(0)<scan><通讯框>||:How... how is Sana doing?
+NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>White Nyto</Speaker><scan><通讯框>||:<color=#00CCFF>Her condition is stable. Teacher said to reassure you if you inquire about this.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><scan><通讯框>||:<color=#00CCFF>Focus on completing your mission. Do not forget what you have been through.</color>
 NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>||:Understood.
 ()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1>:He puts down the communicator and slowly sits down on the metal chair. +He no longer sees the interrogation room at the Griffin base, and he is no longer in a heavily contaminated wasteland.
 ()||<黑屏2><边框>2</边框><BIN>7</BIN><SE1>GF_Halloween_Wind_loop</SE1>:He has returned to the birch woodland back home, and Sana is waiting for him under a tree. +They agreed to go looking for birds in the woods today.
@@ -118,27 +118,27 @@ NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:Dammit. I'm so cl
 NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>||<BGM>BGM_Empty</BGM>:What's this...
 ()||:She gets up from the floor irritably, steps over the stains left by her cold sweat, and looks for the source of the vibration. +Soon, the statue of wolves by the door catches her attention. The statue was a gift from Shaw. +She spots the strange glint in the eyes of one of the wolves, so she reaches out a hand—
 NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>||<SE1>AVG_PPT_Switch</SE1>:...
-NPC-shaw(5)<Speaker>Shaw</Speaker><通讯框>||<BGM>10051</BGM>:<color=#00CCFF>Ange, we meet again.</color>
-NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(5)<通讯框>||:When did this...
-NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(3)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>Actually, it's 12's idea.</color>
-NPC-Ange(12)<Position>0,25</Position>;AK12(4)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Hi, Commander Angelia. Long time no see. Surprised?</color>
-NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>;AK12(4)<通讯框>||:...
-NPC-Ange(13)<Position>0,25</Position>;AK12(4)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Always keep an eye on even one's closest ally—you taught me that.</color>
+NPC-shaw(5)<Speaker>Shaw</Speaker><scan><通讯框>||<BGM>10051</BGM>:<color=#00CCFF>Ange, we meet again.</color>
+NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(5)<scan><通讯框>||:When did this...
+NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(3)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>Actually, it's 12's idea.</color>
+NPC-Ange(12)<Position>0,25</Position>;AK12(4)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Hi, Commander Angelia. Long time no see. Surprised?</color>
+NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>;AK12(4)<scan><通讯框>||:...
+NPC-Ange(13)<Position>0,25</Position>;AK12(4)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Always keep an eye on even one's closest ally—you taught me that.</color>
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:I didn't tell you to... Nevermind. Thanks to you, I can still communicate with the outside world.
-NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>I hear you're in big trouble.</color>
-NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:Not really, but the timing is truly terrible...
-NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>By the by, my offer still stands.</color>
-NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:...
-NPC-shaw(5)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>You desperately need to get out of your current predicament and continue your quest, don't you?</color>
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>I hear you're in big trouble.</color>
+NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<scan><通讯框>||:Not really, but the timing is truly terrible...
+NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>By the by, my offer still stands.</color>
+NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<scan><通讯框>||:...
+NPC-shaw(5)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>You desperately need to get out of your current predicament and continue your quest, don't you?</color>
 ()||:Ange is struck in her Achilles' heel. Veins appear on her forehead as she suppresses her anger.
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:... +I'll consider it.
-NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>How unfortunate. Then, I suppose this is the end of our little arrangement.</color>
-NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:Do you have to come mess with me when my temper is at its worst?
-NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>Then start hurling abuse, like you usually do.</color>
-NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:...
-NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(5)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>Ha, you can't do that because you need me to get you out of this mess.</color>
-NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(5)<通讯框>||:Ёбаная ты сука.
-NPC-Ange(13)<Position>0,25</Position>;NPC-shaw(1)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>How very like you. Such a unique way of begging for a favor.</color>
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>How unfortunate. Then, I suppose this is the end of our little arrangement.</color>
+NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<scan><通讯框>||:Do you have to come mess with me when my temper is at its worst?
+NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>Then start hurling abuse, like you usually do.</color>
+NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<scan><通讯框>||:...
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(5)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>Ha, you can't do that because you need me to get you out of this mess.</color>
+NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(5)<scan><通讯框>||:Ёбаная ты сука.
+NPC-Ange(13)<Position>0,25</Position>;NPC-shaw(1)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>How very like you. Such a unique way of begging for a favor.</color>
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:...
 ()||:Ange rubs her throbbing temples. Holding back the urge to annihilate the world, she looks at the hateful face in the communicator.
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||<黑屏1>:Fine, I accept your offer.
@@ -147,22 +147,22 @@ NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||<黑屏1>:Fine, I 
 ()<Speaker>Guard</Speaker>||:Sorry to disturb you, Commander Angelia. Please come with us for further questioning.
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:Alright, I'll be out in a minute.
 ()||:Ange contains her anger and cleans herself up promptly.
-AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>You slept for 3 hours 12 minutes and had only 15 minutes of REM sleep. You're suffering from severe sleep deprivation, Commander Angelia.</color>
+AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>You slept for 3 hours 12 minutes and had only 15 minutes of REM sleep. You're suffering from severe sleep deprivation, Commander Angelia.</color>
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:I don't need you to tell me that.
-AN94(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Commander, we have reached the target location. Please provide further directives.</color>
+AN94(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, we have reached the target location. Please provide further directives.</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:That is the weak point in the security of the Griffin base. The CCTV here broke down a few days before the incident. I suspect that the murderer entered the base from there.
-AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>It does look pretty close to where Commander Novikov was found dead on this map.</color>
+AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>It does look pretty close to where Commander Novikov was found dead on this map.</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:See if you can find any traces left behind by the culprit.
-AN94(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
-AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Commander Angelia, why didn't you bring this to the investigation team's attention? Wouldn't this clear you of any suspicion?</color>
+AN94(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
+AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Commander Angelia, why didn't you bring this to the investigation team's attention? Wouldn't this clear you of any suspicion?</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:I don't trust them. +Besides, the state Novikov's body was in is a little...
 ()||<SE1>AVG_Door_Hit</SE1>:Thunk-thunk-thunk! +The knocking grows even more forceful.
 ()<Speaker>Guard</Speaker>||:Commander Angelia, you are currently on suspension. Please cease everything you're doing and cooperate with the investigation.
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:I'm coming.
 ()||:The shouting from outside the door continues to grate on Ange's ears. She is just about to put away the micro-communicator when AN-94 pipes up a bit anxiously.
-AN94(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Commander, we just discovered new traces of another break-in.</color> +<color=#00CCFF>They seem to be older than the other traces, but definitely left by the same people.</color>
+AN94(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, we just discovered new traces of another break-in.</color> +<color=#00CCFF>They seem to be older than the other traces, but definitely left by the same people.</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:Good. Keep looking.
-AK12(3)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>94, cover me. They're right—</color>
+AK12(3)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>94, cover me. They're right—</color>
 ()||<SE1>AVG_Explo_Close</SE1>:Boom!
 NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>||:...
 ()||:Ange does a double-take at the sudden loud noise.

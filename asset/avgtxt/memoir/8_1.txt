@@ -39,8 +39,8 @@ NPC_Golyat(5)<Position>0,150</Position><Speaker>???</Speaker>||:...
 ()||:It does not answer. It simply keeps backing away distrustfully. Its small figure eventually disappears behind a mound.
 ()||<SE1>AVG_lifttable</SE1>:I follow suit and climb up the mound that it just vanished behind, but the thin wooden plank I'm stepping on snaps and my leg falls right through. +By the time I free my leg, the bot is already nowhere to be seen.
 PM(0)<Speaker>Makarov</Speaker>||:... +I got bamboozled by a roomba...
-PM(0);92type(0)<Speaker>Type 92</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hey, Makarov! Where are you?</color> +<color=#00CCFF>We're ready to go.</color>
-PM(0);AAT52(0)<Speaker>AAT-52</Speaker><通讯框>||:<color=#00CCFF>Come back already! I wanna go home!</color>
+PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hey, Makarov! Where are you?</color> +<color=#00CCFF>We're ready to go.</color>
+PM(0);AAT52(0)<Speaker>AAT-52</Speaker><scan><通讯框>||:<color=#00CCFF>Come back already! I wanna go home!</color>
 PM(0)<Speaker>Makarov</Speaker>||:I'll be right there.
 ()||<SE1>AVG_tele_disconnect</SE1><黑点1>:Disgruntled, I sweep my gaze over the place once more, but still the bot eludes me. In the end, I have to give up and return to the rest area.
 ()||<黑点2>:...The next day, at the mechanical mass grave. +Compelled by god-knows-what, I find myself back at this place.

@@ -141,22 +141,22 @@ Dana(0)<Speaker>Dana</Speaker>||<黑屏1>:We're just logically evading the illog
 ()<Speaker>Dana</Speaker>||:You won't find anyone out here except the White Knights, but— +Wait... +Do you hear the sound of engines?
 ()<Speaker>Super-Shorty</Speaker>||:To our 7.
 ()<Speaker>Super-Shorty</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:...There's more than one sound, and from different models.
-Jericho(0)<Speaker>Jericho</Speaker><通讯框>||<BIN>187</BIN><黑点2><BGM>m_va_digital_drive</BGM>:<color=#00CCFF>Architect of Sangvis Ferri Manufacture, you have nowhere to run. Cease your resistance immediately!</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:<color=#00CCFF>Haha, are you really putting the pedal to the metal!?</color> +<color=#00CCFF>You won't catch up with me at this rate! Come on, try harder!</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>||:<color=#00CCFF>Hah! I didn't think we'd be so lucky!</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>||<SE1>AVG_engine_speedup</SE1>:<color=#00CCFF>Those White Knights weren't here to catch us, but to pursue that S.F. Doll! Hold on tight,  I'm going to speed up!</color>
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>Eh? S.F.?</color> +<color=#00CCFF>...I still have a few fragments of my memories remaining, and I have the feeling that I don't like them!</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Nobody likes them. S.F. Dolls have always been the public enemy of the entire world. They specialize in attacking Griffin Dolls and humans without any rhyme or reason.</color> +<color=#00CCFF>However, their time had ended since the global sand rains began three years ago.</color> +<color=#00CCFF>Right now, there's only one S.F. ringleader Doll left by the name of Architect. She's the worst thing in the world apart from the sand!</color>
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>That makes her pretty dangerous, doesn't it!? Then why are you so happy?</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Is there anything more enjoyable than being able to agreeably and logically (though not too legally) take out the last bad guy in the entire world?</color>
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>I think you're insane to fight with the city's police for a criminal!</color> +<color=#00CCFF>Dana, I don't remember anything, but I don't like this!</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>I really hope you weren't a White Knight before you lost your memories. Hold on tight, we're charging in at full speed!</color>
-SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>Ahhhhhhhh!</color> +<color=#00CCFF>Hey! This speed — you must've modified this car, didn't you!?</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:<color=#00CCFF>Oh my, did a new player join us?</color>
-BOSS-9(0);Dana(0)<Speaker>Dana</Speaker><通讯框>||:<color=#00CCFF>I'm an old friend, Architect.</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>;Dana(0)||:<color=#00CCFF>I still remember you. Going for round two?</color>
-BOSS-9(0);Dana(0)<Speaker>Dana</Speaker><通讯框>||:<color=#00CCFF>Gladly, but those mooks of yours are really annoying.</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:<color=#00CCFF>You brought a little helper of yours too! Look at her size, she's pretty cute!</color>
-SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>Don't call me short!</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<黑点1>:<color=#00CCFF>Come on, let's do this fair and square! The winner takes their opponent's life!</color>+<color=#00CCFF>I should remind you that natives only live once, so please drive safely, okay?</color>+<color=#00CCFF>Let the games begin! Come on, come on! Ahahahahahaha—!</color>
+Jericho(0)<Speaker>Jericho</Speaker><scan><通讯框>||<BIN>187</BIN><黑点2><BGM>m_va_digital_drive</BGM>:<color=#00CCFF>Architect of Sangvis Ferri Manufacture, you have nowhere to run. Cease your resistance immediately!</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||:<color=#00CCFF>Haha, are you really putting the pedal to the metal!?</color> +<color=#00CCFF>You won't catch up with me at this rate! Come on, try harder!</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>||:<color=#00CCFF>Hah! I didn't think we'd be so lucky!</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>||<SE1>AVG_engine_speedup</SE1>:<color=#00CCFF>Those White Knights weren't here to catch us, but to pursue that S.F. Doll! Hold on tight,  I'm going to speed up!</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><scan><通讯框>||:<color=#00CCFF>Eh? S.F.?</color> +<color=#00CCFF>...I still have a few fragments of my memories remaining, and I have the feeling that I don't like them!</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>;SuperShorty(0)||:<color=#00CCFF>Nobody likes them. S.F. Dolls have always been the public enemy of the entire world. They specialize in attacking Griffin Dolls and humans without any rhyme or reason.</color> +<color=#00CCFF>However, their time had ended since the global sand rains began three years ago.</color> +<color=#00CCFF>Right now, there's only one S.F. ringleader Doll left by the name of Architect. She's the worst thing in the world apart from the sand!</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><scan><通讯框>||:<color=#00CCFF>That makes her pretty dangerous, doesn't it!? Then why are you so happy?</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>;SuperShorty(0)||:<color=#00CCFF>Is there anything more enjoyable than being able to agreeably and logically (though not too legally) take out the last bad guy in the entire world?</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><scan><通讯框>||:<color=#00CCFF>I think you're insane to fight with the city's police for a criminal!</color> +<color=#00CCFF>Dana, I don't remember anything, but I don't like this!</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>;SuperShorty(0)||:<color=#00CCFF>I really hope you weren't a White Knight before you lost your memories. Hold on tight, we're charging in at full speed!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><scan><通讯框>||:<color=#00CCFF>Ahhhhhhhh!</color> +<color=#00CCFF>Hey! This speed — you must've modified this car, didn't you!?</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||:<color=#00CCFF>Oh my, did a new player join us?</color>
+BOSS-9(0);Dana(0)<Speaker>Dana</Speaker><scan><通讯框>||:<color=#00CCFF>I'm an old friend, Architect.</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>;Dana(0)||:<color=#00CCFF>I still remember you. Going for round two?</color>
+BOSS-9(0);Dana(0)<Speaker>Dana</Speaker><scan><通讯框>||:<color=#00CCFF>Gladly, but those mooks of yours are really annoying.</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||:<color=#00CCFF>You brought a little helper of yours too! Look at her size, she's pretty cute!</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><scan><通讯框>||:<color=#00CCFF>Don't call me short!</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Come on, let's do this fair and square! The winner takes their opponent's life!</color>+<color=#00CCFF>I should remind you that natives only live once, so please drive safely, okay?</color>+<color=#00CCFF>Let the games begin! Come on, come on! Ahahahahahaha—!</color>
 ()||<黑点2><BIN>10</BIN>:

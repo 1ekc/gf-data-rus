@@ -43,11 +43,11 @@ NPC-maya(0)<Speaker>Q</Speaker>||:……
 ()||<黑点1><SE1>AVG_door_elecport</SE1>:
 ()<Speaker></Speaker>||<黑点2><BIN>743</BIN>:……+穿过空旷的大厅，Q走到通往斯塔西总部的电梯前。
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:她取出通讯器，选择内部的加密频道。
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>法兰克福空袭信息已同步。</color>+<color=#00CCFF>这边等待斯塔西下一步指令。</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>法兰克福空袭信息已同步。</color>+<color=#00CCFF>这边等待斯塔西下一步指令。</color>
 NPC-Jason(2);NPC-maya(0)<Speaker>Q</Speaker>||:经过排查和确认，法兰克福的防空系统没有生效。+现在防空力量遭到卡特叛军的空军大规模空袭，但目前尚未发现叛军的地面部队。
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>;NPC-maya(0)||:<color=#00CCFF>这么多轰炸机一点预警都没有吗？</color>+<color=#00CCFF>卫戍团那边难道没有任何的动作？</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>;NPC-maya(0)||:<color=#00CCFF>这么多轰炸机一点预警都没有吗？</color>+<color=#00CCFF>卫戍团那边难道没有任何的动作？</color>
 NPC-Jason(2);NPC-maya(0)<Speaker>Q</Speaker>||:卫戍团团长库姆少将正在国防委员会做汇报。+现在国防委员会已通电陆军司令部进入战时状态，授权边境武装展开护卫行动。
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>;NPC-maya(0)||:<color=#00CCFF>……</color>+<color=#00CCFF>乌尔利赫主席已经启程，我们正在前往法兰克福的路上。</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>;NPC-maya(0)||:<color=#00CCFF>……</color>+<color=#00CCFF>乌尔利赫主席已经启程，我们正在前往法兰克福的路上。</color>
 NPC-maya(0)<Speaker>Q</Speaker>||:好，我会安排的。
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Q结束通讯，走进电梯。
 ()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Close</SE1>:在静谧的氛围中，电梯载着Q上升至地面。+大地的震颤渐渐清晰起来，Q知道，她在一步步走进战场。

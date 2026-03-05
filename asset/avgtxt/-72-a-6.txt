@@ -4,28 +4,28 @@
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click.+It's Hebe's dedicated channel.
 NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position>||:Please go ahead.
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Sister Ashley, I am calling to update you on our progress.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Sister Ashley, I am calling to update you on our progress.</color>
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
 NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position>||:Have you finished taking stock of Sister Hebe's factories?
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Yes. Including all the facilities in Frankfurt and subtracting what's already been used for the White Zone, we have around a thousand units of manpower in reserve.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Yes. Including all the facilities in Frankfurt and subtracting what's already been used for the White Zone, we have around a thousand units of manpower in reserve.</color>
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
 NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position>||:That still isn't enough to meet the requirements of the plan.
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Sister Hebe has already ordered full-scale production across all factories. At this pace, we expect to make up about 500 manpower units and matching white-class weapons within a week.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Sister Hebe has already ordered full-scale production across all factories. At this pace, we expect to make up about 500 manpower units and matching white-class weapons within a week.</color>
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
 NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position>||:Then the plan proceeds as scheduled.
 NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position>||:What about the production line for the epiphyllums?
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>As the key part of the plan, production of the epiphyllums is also nearly complete. Sister Hebe has produced extra batches as backups.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>As the key part of the plan, production of the epiphyllums is also nearly complete. Sister Hebe has produced extra batches as backups.</color>
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
 NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position>||:Good. I'm still wrapping up inventory on the new factory here. Once that's done, I'll send you the final report.
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||<CGDelay>0.5</CGDelay>:<color=#00CCFF>Understood.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||<CGDelay>0.5</CGDelay>:<color=#00CCFF>Understood.</color>
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
 NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position>||:Anything else?
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
-NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Sister Hebe asked me to pass along a message to Sister Nemhran—she's found a lead on the rats' hiding place.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Sister Hebe asked me to pass along a message to Sister Nemhran—she's found a lead on the rats' hiding place.</color>
 ()<Speaker></Speaker>||<CGDelay>0.2</CGDelay>:
 NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position>||:Got it. I'll inform Sister Nemhran immediately.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><CGDelay>0.5</CGDelay>:
@@ -162,17 +162,17 @@ NPC-SIG-Cross(0)<Speaker>Cross</Speaker><Position>0,150</Position>||:I've alread
 AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||<SE1>AVG_tele_connect</SE1>:45, where are you? Come to the ops room immediately.
 ()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:Pzzzt. There's noticeable static interference in the transmission.
 AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||:45?
-AR18(5)<Position>0,100</Position>;UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I... I'm... right here.</color>
+AR18(5)<Position>0,100</Position>;UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I... I'm... right here.</color>
 AR18(5)<Speaker>AR-18</Speaker><Position>0,100</Position>;UMP45Mod(0)||<CGDelay>0.5</CGDelay>:
 AR18(5)<Speaker>AR-18</Speaker><Position>0,100</Position>;UMP45Mod(0)||:...Where exactly are you?
-AR18(5)<Position>0,100</Position>;UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I'm right...</color> + <color=#00CCFF>...beside you~</color>
+AR18(5)<Position>0,100</Position>;UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I'm right...</color> + <color=#00CCFF>...beside you~</color>
 AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||:...
 RO635Mod(0)<Speaker>RO635</Speaker>||:Something wrong?
 AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||:45's signal is off. She says she's "right here".
 M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:What kind of creepy nonsense is she saying?
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Taking AR-18's communicator, RO635 tries speaking to UMP45.
 RO635Mod(3)<Speaker>RO635</Speaker>||:45?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I... am...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I... am...</color>
 ()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Scene_Transfer</SE1>:<color=#FF0000>Tee-hee...</color>
 ()<Speaker></Speaker>||<BGM>GF_2022_Summer_Battle_1</BGM>:An eerie giggle snaps everyone to attention.
 RO635Mod(4)<Speaker>RO635</Speaker>||:<size=50>Wait... that's not 45's signal!</size>
@@ -184,5 +184,5 @@ AR15Mod(5)<Speaker>ST AR-15</Speaker>||:AR-18, organize the defense.
 AR18(4)<Speaker>AR-18</Speaker><Position>0,100</Position>||:Right.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AR-18 turns to the surveillance footage. On the screen, a graceful, poised woman waves at the camera.
 ()||<黑屏1><CGDelay>0.5</CGDelay>:
-NPC-Hebe(10)<Speaker>???</Speaker><通讯框>||<BIN>9</BIN><黑屏2><CGDelay>0.5</CGDelay>:<color=#00CCFF>Greetings.</color>+<color=#00CCFF>It's terribly rude of me to be taking your lives on our first meeting, isn't it? I do beg your pardon.</color>
+NPC-Hebe(10)<Speaker>???</Speaker><scan><通讯框>||<BIN>9</BIN><黑屏2><CGDelay>0.5</CGDelay>:<color=#00CCFF>Greetings.</color>+<color=#00CCFF>It's terribly rude of me to be taking your lives on our first meeting, isn't it? I do beg your pardon.</color>
 ()||<黑点1>:

@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><SE2>Gunfight</SE2><BIN>167</BIN><BGM>BGM_Boss</BGM>:...Бах бах!
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Проклятье, они разбили наши ряды! +Mk46, у твоей команды всё в порядке?!
-Mk46(0)<Speaker>Mk46</Speaker><通讯框>;M4 SOPMOD IIMod(0)||:<color=#00CCFF>Мы сможем продержаться, но враги уже идут к тебе!</color>
+Mk46(0)<Speaker>Mk46</Speaker><scan><通讯框>;M4 SOPMOD IIMod(0)||:<color=#00CCFF>Мы сможем продержаться, но враги уже идут к тебе!</color>
 Mk46(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Мы что-нибудь придумаем! Давайте пока разделимся! Не дайте им окружить вас!
 Mk46(0)<Speaker>Mk46</Speaker>;M4 SOPMOD IIMod(0)||:<color=#00CCFF>Но... мы не можем просто оставить тебя!</color>
 Mk46(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Мы элитные Т-Куклы, и с нами двумя им будет сложно справиться. Лучше позаботьтесь о себе!

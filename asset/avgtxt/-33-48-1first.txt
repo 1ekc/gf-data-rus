@@ -1,15 +1,15 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BGM>BGM_Reverse</BGM><Night><BIN>208</BIN>:... +On the roof of the military armored train.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:How many shield generators left?
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Three more to go!</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<SE2>Gunfight</SE2>:<color=#00CCFF>Now just two!</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Three more to go!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||<SE2>Gunfight</SE2>:<color=#00CCFF>Now just two!</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:There should be one somewhere around here... Found it!
 ()||:ST AR-15 maneuvers herself nimbly as she evades the attack from the machine gun turret and darts around to its blind spot. +She finds the shield generator in a spot behind the turret and promptly destroys it with a shot.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:One more. +RO, where's the last one?
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Somewhere near me... But enemies are coming out from the doors! I need some help!</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Somewhere near me... But enemies are coming out from the doors! I need some help!</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Dammit... I'm also pinned down here...
 ()||<SE1>Explode</SE1>:A blast interrupts ST AR-15.
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>...All shield generators destroyed!</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>...All shield generators destroyed!</color>
 ()||:ST AR-15 looks down to the side of the train and sees M4 packing up her launcher while running in their direction.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:I believe it's mission accomplished, Commander. Do you copy? All shield generators have been destroyed. Please prepare to blow them up!
 AR15Mod(4)<Speaker>ST AR-15</Speaker>||:...Jeez. Did you have to take credit for the most ostentatious shot?

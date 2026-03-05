@@ -3,9 +3,9 @@
 SAT8(0)<Speaker>S.A.T.8</Speaker>||:Participants... No problem there. +Special costumes for the festival... Hmm, all done. +Next is...
 ()||:...Click +...A comms request.
 SAT8(0)<Speaker>S.A.T.8</Speaker>||:Oh, Miss Kalina!
-SAT8(0);NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>||:<color=#00CCFF>S.A.T.8, are you busy?</color> +<color=#00CCFF>The stuff you applied for is ready.</color>
+SAT8(0);NPC-Kalin(0)<Speaker>Kalin</Speaker><scan><通讯框>||:<color=#00CCFF>S.A.T.8, are you busy?</color> +<color=#00CCFF>The stuff you applied for is ready.</color>
 SAT8(0)<Speaker>S.A.T.8</Speaker>;NPC-Kalin(0)||:Fantastic! Thanks a bunch, Miss Kalina.
-SAT8(0);NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>||:<color=#00CCFF>Don't mention it, it hasn't been used in a long time anyway.</color> + <color=#00CCFF>However, some of the bulkier old equipment hasn't been moved away, so make sure you leave them alone when you're using the space...</color> +<color=#00CCFF>Also, about the Commander...</color>
+SAT8(0);NPC-Kalin(0)<Speaker>Kalin</Speaker><scan><通讯框>||:<color=#00CCFF>Don't mention it, it hasn't been used in a long time anyway.</color> + <color=#00CCFF>However, some of the bulkier old equipment hasn't been moved away, so make sure you leave them alone when you're using the space...</color> +<color=#00CCFF>Also, about the Commander...</color>
 SAT8(0)<Speaker>S.A.T.8</Speaker>;NPC-Kalin(0)||<黑点1>:I understand. Don't worry, Miss Kalina. +I'll swear everyone to secrecy and tell them not to touch anything.
 ()||<黑点2>:...Transmission terminated.
 SAT8(0)<Speaker>S.A.T.8</Speaker>||:Hmm...that's the venue settled as well. +All that's left is the props and tools...which have all been procured. +Lovely, everything is ready! Now we just have to wait for Halloween...

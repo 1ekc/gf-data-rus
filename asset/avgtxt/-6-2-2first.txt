@@ -11,7 +11,7 @@ G11(2)<Speaker>Gr G11</Speaker>;UMP45(2)||<SE2>Gunfight</SE2>:D-doing it!
 UMP9(4)<Speaker>UMP9</Speaker>;UMP45(2)||:Deploying smoke grenade!
 UMP45(2)<Speaker>UMP45</Speaker>||<SE1>Battlefield</SE1><黑屏1><SE2>Gunfight</SE2>:Everyone! Run now!
 HunterElite(0)<Speaker>Hunter</Speaker>||<SE1>Battlefield</SE1><黑屏2><BGM>BGM_Empty</BGM>:Tch...
-Weaver(0)<Speaker>Ouroboros</Speaker><通讯框>;HunterElite(0)||:Why aren't you after them, Hunter?
+Weaver(0)<Speaker>Ouroboros</Speaker><scan><通讯框>;HunterElite(0)||:Why aren't you after them, Hunter?
 Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:That silver-haired brat destroyed my Exo equipment. I can't chase after them unless it's repaired first.
 Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||<BGM>BGM_Boss</BGM>:So you're giving up just like that? I thought you'd be more persistent in chasing after your prey.
 Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:They'll be back for the location of the jammer.+I can delay their guerrilla tactics as long as your reinforcements arrive on time.

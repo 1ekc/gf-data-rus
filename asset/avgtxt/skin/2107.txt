@@ -1,5 +1,5 @@
 ()||<BIN>8</BIN><BGM>BGM_Room</BGM>:Griffin Control.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||<BIN>8</BIN>:...Simply put, the client would like Griffin to stage a burglary.+We will steal the "Star of Glory" from a public venue and secretly return the jewel.
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||<BIN>8</BIN>:...Simply put, the client would like Griffin to stage a burglary.+We will steal the "Star of Glory" from a public venue and secretly return the jewel.
 NPC-Helian(0)<Speaker></Speaker>||<BIN>8</BIN>:Helian notices my bewildered eyes.
 NPC-Helian(0)<Speaker>Helian</Speaker>||<BIN>8</BIN>:That should be enough to make outsiders abandon their schemes for the jewel, leaving the client free to live their twilight years in peace.
 NPC-Helian(0)<Speaker></Speaker>||<BIN>8</BIN>:Even though the client's message has been appropriately censored, they're still prominent enough that I could easily discern their identity.+She's an old lady who survived the Collapse and World War 3.+A vast fortune left behind by her husband, her excellent eye for investments, and a healthy dose of luck ensured her fame on the list of the world's billionaires.+The huge jewel mentioned in the file is so big that it could not be made into a ring or some other jewelry. Surely the client must have had a hard time in ensuring its security...

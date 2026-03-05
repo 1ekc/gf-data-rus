@@ -84,9 +84,9 @@ Type100(0)<Speaker>100 Shiki</Speaker>||<BGM>10021</BGM>:...!!
 ()||<黑点1><BIN>9</BIN>:... +So... She fell into a trap right off the bat?
 ()||<黑点2>:
 ()||<BIN>8</BIN>:... +At the Griffin base.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>...So, her neural cloud has fallen into a "cyber trap"? </color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>...So, her neural cloud has fallen into a "cyber trap"? </color>
 FP6(0)<Speaker>FP6</Speaker>||:I've tried to wake her up on our way back, but the trap is so complex that I can't decipher it. +Now, with her core temperature continuously rising, if she doesn't wake in time, tsk~
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Well, 100 Shiki's situation is a bit more complex...</color>+<color=#00CCFF>Anyway, you'll have to wake her up first.</color>+<color=#00CCFF>Only thing is, you have to link yourself up to her core and enter the "trap" to do so... Which means, it's just a LITTLE bit risky.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Well, 100 Shiki's situation is a bit more complex...</color>+<color=#00CCFF>Anyway, you'll have to wake her up first.</color>+<color=#00CCFF>Only thing is, you have to link yourself up to her core and enter the "trap" to do so... Which means, it's just a LITTLE bit risky.</color>
 ()||:FP-6 with her gun in one hand, twirls her handcuffs in the other, spinning it around her fingertip.
 ()||<SE1>AVG_20Winter_Whistle</SE1>:She suddenly catches the handcuffs in mid-air and blows a whistle.
 FP6(0)<Speaker>FP6</Speaker>||:It's my duty to punish bad guys, uphold justice, and protect my comrades.

@@ -77,7 +77,7 @@ G28(6)<Speaker>Gr G28</Speaker>||:Huh? What? Who?
 ()<Speaker>Commander</Speaker>||<黑屏1>:...+No, it's nothing. Pretend that I never said anything. +Just think of it as I believe in you to the point where I think of assistance as unnecessary.
 G28(6)<Speaker>Gr G28</Speaker>||<黑屏2><关闭蒙版><震屏>:... +Ahhhhhh! +Why didn't you finish your sentence back then, Commander! +You big dummy!
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click...
-K2(4)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>Miss Gr G28...we should just give up if you can't find anyone...</color>+<color=#00CCFF>I secretly asked Miss Sabrina about AK-12 and AN-94 just now, and she says that they're in a completely different league from us.</color>+<color=#00CCFF>So it's perfectly reasonable that we can't beat them...</color>
+K2(4)<Speaker>K2</Speaker><scan><通讯框>||:<color=#00CCFF>Miss Gr G28...we should just give up if you can't find anyone...</color>+<color=#00CCFF>I secretly asked Miss Sabrina about AK-12 and AN-94 just now, and she says that they're in a completely different league from us.</color>+<color=#00CCFF>So it's perfectly reasonable that we can't beat them...</color>
 K2(4);G28(6)<Speaker>Gr G28</Speaker>||:Admitting defeat before you start is the same as being defeated! +You need to fight until the end with whatever cards you have on hand, that's the way to win Texas Hold 'Em.
 K2(4)<Speaker>K2</Speaker>;G28(6)||:<color=#00CCFF>Ah...she's gotten into it now...</color>
 G28(6)<Speaker>Gr G28</Speaker>||<黑点1>:I'll make sure I come back with someone amazing! +And then we'll turn everything around together!
@@ -139,26 +139,26 @@ K2(4);G28(6)<Speaker>Gr G28</Speaker>||<SE1>AVG_tele_connect</SE1>:...
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#00CCFF>...Miss Edelweiss?</color>
 ()<Speaker></Speaker>||:...
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#00CCFF>Miss Edelweiss, I have something to ask you...</color>
-G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><通讯框>||:<color=#00CCFF>What is it?</color>+<color=#00CCFF>Why are you using a comm channel at the table? Don't you have a mouth?</color>
+G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><scan><通讯框>||:<color=#00CCFF>What is it?</color>+<color=#00CCFF>Why are you using a comm channel at the table? Don't you have a mouth?</color>
 G28(6)<Speaker>Gr G28</Speaker>;HK416(4)||:<color=#00CCFF>Miss Edelweiss, it isn't just because of luck that those two Dolls keep winning, right?</color>
 G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker>||:<color=#00CCFF>Do you actually believe that nonsense the Commander was saying about "luck being the whole of your strength"?</color>
 G28(6)<Speaker>Gr G28</Speaker>;HK416(4)||:<color=#00CCFF>As if.</color> +<color=#00CCFF>But as representatives of Griffin in this game, we don't want to lose, so we want to know what to do.</color>
-G28(6);K2(4)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>...</color>
-G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><通讯框>||:<color=#00CCFF>There's nothing you can do. This game relies on calculating probabilities by counting cards and having a firm grasp of your opponent's situation.</color>+<color=#00CCFF>In terms of calculation accuracy and processing speed, the two of you never stood a chance to begin with.</color>
-G28(6);K2(4)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>If it's just calculations...I won't lose!</color>
-G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><通讯框>||:<color=#00CCFF>Nobody asked you.</color>
+G28(6);K2(4)<Speaker>K2</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><scan><通讯框>||:<color=#00CCFF>There's nothing you can do. This game relies on calculating probabilities by counting cards and having a firm grasp of your opponent's situation.</color>+<color=#00CCFF>In terms of calculation accuracy and processing speed, the two of you never stood a chance to begin with.</color>
+G28(6);K2(4)<Speaker>K2</Speaker><scan><通讯框>||:<color=#00CCFF>If it's just calculations...I won't lose!</color>
+G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><scan><通讯框>||:<color=#00CCFF>Nobody asked you.</color>
 G28(6)<Speaker>Gr G28</Speaker>;HK416(4)||:<color=#00CCFF>AN-94 just raised her bet by 5000, why is that?</color>
 HK416(4)<Speaker>Miss Edelweiss</Speaker>||:<color=#00CCFF>She's got a good hand. Don't call.</color>+<color=#00CCFF>AN-94 has no facial expressions, but she hasn't learned how to lie, and she follows AK-12 in everything. </color>+<color=#00CCFF>She only takes action when AK-12's hole cards have no chance of winning. </color>
-K2(4)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>Huh? Why didn't you say that earlier—</color>
-HK416(4)<Speaker>Miss Edelweiss</Speaker><通讯框>||:<color=#00CCFF>There is no need for me to take responsibility for your idiocy.</color>
-K2(4)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>Damn...she's cold...</color>
+K2(4)<Speaker>K2</Speaker><scan><通讯框>||:<color=#00CCFF>Huh? Why didn't you say that earlier—</color>
+HK416(4)<Speaker>Miss Edelweiss</Speaker><scan><通讯框>||:<color=#00CCFF>There is no need for me to take responsibility for your idiocy.</color>
+K2(4)<Speaker>K2</Speaker><scan><通讯框>||:<color=#00CCFF>Damn...she's cold...</color>
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#00CCFF>That's amazing...you just sat down but you already saw so many things...</color>
-G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><通讯框>||:<color=#00CCFF>It's just experience.</color>+<color=#00CCFF>Compared to AN-94, if AK-12 immediately raises the stakes in the first round, the odds that she's bluffing are 85%. Go think about it yourself.</color>
+G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><scan><通讯框>||:<color=#00CCFF>It's just experience.</color>+<color=#00CCFF>Compared to AN-94, if AK-12 immediately raises the stakes in the first round, the odds that she's bluffing are 85%. Go think about it yourself.</color>
 G28(6)<Speaker>Gr G28</Speaker>;HK416(4)||:<color=#00CCFF>Understood. Danke, Miss Edelweiss.</color>+<color=#00CCFF>...</color>+<color=#00CCFF>Miss Edelweiss, I have a 4 of Diamonds and a 7 of Hearts.</color>
 G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker>||:<color=#00CCFF>...</color>
-G28(6);K2(4)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>Gr G28, that's cheating!</color>
+G28(6);K2(4)<Speaker>K2</Speaker><scan><通讯框>||:<color=#00CCFF>Gr G28, that's cheating!</color>
 G28(6)<Speaker>Gr G28</Speaker>;K2(4)||:<color=#00CCFF>So what!</color>+<color=#00CCFF>Odds are, the Dolls on the other side are already cheating, so we need to even the playing field!</color>
-G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><通讯框>||:<color=#00CCFF>Don't push it.</color>
+G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker><scan><通讯框>||:<color=#00CCFF>Don't push it.</color>
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#00CCFF>...Okay.</color>
 ()<Speaker></Speaker>||:...
 AK12(11)<Speaker>AK-12</Speaker>||:This is the last round, so isn't it about time we settled things once and for all? +Right now, the people with the fewest chips are...the adorable little green-haired girl in the white dress and her good friend, Miss Sweet Tooth.
@@ -208,10 +208,10 @@ AK12(11)<Speaker>AK-12</Speaker>||:It's down to the two of us. +If you think you
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#A9A9A9>(What should I do...? It took so long for me to get into a situation like this...)</color> +<color=#A9A9A9>(But if even Miss Edelweiss is folding...then what chance do I have...?)</color>
 G28(6)<Speaker>Gr G28</Speaker>||:I...I fo—
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click.
-HK416(4)<Speaker>Miss Edelweiss</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>She's bluffing.</color>
+HK416(4)<Speaker>Miss Edelweiss</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>She's bluffing.</color>
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#00CCFF>...Huh?</color>
-K2(4)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>But we don't know what cards AK-12 has... How can we tell—</color>
-HK416(4)<Speaker>Miss Edelweiss</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Don't make me repeat myself.</color>+<color=#00CCFF>She's bluffing, Gr G28.</color>+<color=#00CCFF>That's because—</color>
+K2(4)<Speaker>K2</Speaker><scan><通讯框>||:<color=#00CCFF>But we don't know what cards AK-12 has... How can we tell—</color>
+HK416(4)<Speaker>Miss Edelweiss</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Don't make me repeat myself.</color>+<color=#00CCFF>She's bluffing, Gr G28.</color>+<color=#00CCFF>That's because—</color>
 ()<Speaker>Miss Edelweiss</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><CGDelay>0.6</CGDelay>:<color=#00CCFF>The King of Spades was in the hand that I discarded.</color>
 G28(6)<Speaker>Gr G28</Speaker>||<Night><BIN>97</BIN><黑屏2>0,0.4</黑屏2><BGM>GF_Memorial</BGM>:W-wait a minute!
 G28(6);HK416(4)<Speaker>Miss Edelweiss</Speaker>||:...Why are you leaving the hall to look for me at a time like this? +Your friend's still on stage, isn't she?

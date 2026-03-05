@@ -4,7 +4,7 @@ NPC-grig(0)<Speaker>???</Speaker>||:...
 ()<Speaker></Speaker>||:A tall and slender figure is standing on the other side of the highway. +Her cold eyes are unlike those of anyone the Dolls have fought before. She gazes at her targets as though they were already corpses. +The Dolls can clearly tell just by this brief standoff that she is totally different from the regular white Nytos.
 ()||<黑点1>:
 ()<Speaker>Commander</Speaker>||<黑点2><BIN>2</BIN><Night><SE1>AVG_tele_connect</SE1>:... Can we gauge their numbers and combat style?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>There is only one unknown Nyto. Judging by the way she moves, she's probably the frontal assault type.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>There is only one unknown Nyto. Judging by the way she moves, she's probably the frontal assault type.</color>
 UMP45Mod(0)<Speaker>Commander</Speaker>||:45, get word to J. Let him know we've got the clues and their M.O figured out.
 ()||<黑点1>:
 ()<Speaker>Commander</Speaker>||<黑点2><BIN>2</BIN><Night><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>AR Team, we're making our way back to our vehicle. We're not here for a fight.</color>
@@ -13,10 +13,10 @@ RO635Mod(0)<Speaker>RO635</Speaker>||:Rog—!
 RO635Mod(4)<Speaker>RO635</Speaker>||<BGM>10130</BGM>:Tsk!
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>RO?! What's happening?!</color>
 RO635Mod(4)<Speaker>RO635</Speaker>||:—She's here! 15, get SOP-II and go! I'll hold her off!
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I can't!</color> +<color=#00CCFF>...She's here with me!</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I can't!</color> +<color=#00CCFF>...She's here with me!</color>
 RO635Mod(3)<Speaker>RO635</Speaker>||:What?!
 ()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:Shingggg... +The white shadow moves like a phantom. Even though she's so close, no one can catch a proper glimpse of her appearance. +The blade slices through the air with a piercing sound.
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Dammit!</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Dammit!</color>
 ()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:With a flash, a deep crevice opened up at RO635's original position. +A Tactical's Doll's body is about as fragile as a piece of paper under that blade.
 ()||<黑点1>:
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑点2><BIN>2</BIN><Night>:Protect the Commander!

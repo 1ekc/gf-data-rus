@@ -26,7 +26,7 @@ AR18(2)<Speaker>Commander</Speaker><Position>0,120</Position><同时置暗>||:<s
 AR18(2)<Speaker>AR-18</Speaker><Position>0,120</Position>||:...I'm informing all personnel to search for Umbrella.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click.
 ()<Speaker></Speaker>||:The Commander gets a call from Persica.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>...Commander.</color> +<color=#00CCFF>The heart rate on Strongarm has flatlined.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>...Commander.</color> +<color=#00CCFF>The heart rate on Strongarm has flatlined.</color>
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:Thud. The Commander falls back into their chair. The coffee from the cup they're holding splashes all over the files on the table.
 AR18(5)<Speaker>AR-18</Speaker><Position>0,120</Position>||:My condolences, Commander.
 AR18(5)<Speaker>Commander</Speaker><Position>0,120</Position><同时置暗>||:...
@@ -37,9 +37,9 @@ AR18(5)<Speaker>AR-18</Speaker><Position>0,120</Position>||<SE1>AVG_tele_connect
 AR18(2)<Speaker>AR-18</Speaker><Position>0,120</Position>||:Understood.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:The Commander contacts air traffic control.
 ()<Speaker>Commander</Speaker>||:This is the Elmo.
-QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>Your instructions, Commander?</color>
+QBU-191(0)<Speaker>QBU-191</Speaker><scan><通讯框>||:<color=#00CCFF>Your instructions, Commander?</color>
 QBU-191(0)<Speaker>Commander</Speaker><同时置暗>||:I will activate the cipher key in ten minutes.
-QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>Copy that. Thank you for everything you've done to make this day possible.</color>
+QBU-191(0)<Speaker>QBU-191</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that. Thank you for everything you've done to make this day possible.</color>
 ()<Speaker></Speaker>||<SE1>Rope</SE1><BGM>BGM_Empty</BGM>:The Commander hangs up and buries their face in their hands.
 ()||<黑屏1>:
 ()||<黑屏2><SE1>AVG_AMB_Wind</SE1><BGM>GF_21summer_avg_Demon</BGM><Night><BIN>232</BIN>:On the roof of the Eastern Tower. +The night wind blows across the balcony, making Nemhran's clothes flutter.

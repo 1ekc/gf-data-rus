@@ -1,9 +1,9 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<SE1>AVG_amb_thunderrain</SE1><common_effect>%%code=CJ_rain%%</common_effect><黑屏2><BIN>485</BIN><BGM>BGM_stage9</BGM>:...At the edge of the "Dead Sea".
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=6</controll_shake><SE1>AVG_engine_speedup</SE1><SE1>AVG_Robots_Floor</SE1>:Several jeeps exit the Elmo and race toward Avernus.
-PMMod(0)<Speaker>Makarov</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is Squad Palette. Come in, Squad Puzzle.</color>
+PMMod(0)<Speaker>Makarov</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is Squad Palette. Come in, Squad Puzzle.</color>
 VHS(0)<Speaker>VHS</Speaker>||:This is Squad Puzzle.
-PMMod(0)<Speaker>Makarov</Speaker><通讯框>||:<color=#00CCFF>Squad Palette will be performing fire guidance on the enemy's right flank in one minute's time.</color>
+PMMod(0)<Speaker>Makarov</Speaker><scan><通讯框>||:<color=#00CCFF>Squad Palette will be performing fire guidance on the enemy's right flank in one minute's time.</color>
 VHS(0)<Speaker>VHS</Speaker>||:Squad Puzzle copies. We'll mark targets on the left flank later on.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:After ending her transmission to the other squad, VHS turns to the driver from the front passenger's seat.
 VHS(0)<Speaker>VHS</Speaker>||:AUG Para, get closer to the enemy. There's too much margin of error if we fire at this range.
@@ -39,7 +39,7 @@ BOSS-5(0)<Speaker>Alchemist</Speaker>||:I thought you'd have gotten used to it b
 ()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:Boom!
 ()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:Kaboom! +Destroyer deftly detonates the explosives planted at the entrance, cutting off the route which the Nytos planned to use to retreat.
 BOSS-6(0)<Speaker>Destroyer</Speaker>||<SE1>AVG_tele_connect</SE1>:Dreamer, have you pinpointed the location of those two pieces of trash?
-BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||:<color=#00CCFF>The signal is coming from the warehouse at your two o'clock. Well, I say warehouse, but it's more like a garbage dump.</color>
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker><scan><通讯框>||:<color=#00CCFF>The signal is coming from the warehouse at your two o'clock. Well, I say warehouse, but it's more like a garbage dump.</color>
 BOSS-6(0)<Speaker>Destroyer</Speaker>||:Ha, then it's perfect for them!
 BOSS-5(0)<Speaker>Alchemist</Speaker>||:I'll go get them back. Cover me, Destroyer.
 BOSS-6(0)<Speaker>Destroyer</Speaker>||:No problem! Just go ahead!
@@ -48,14 +48,14 @@ BOSS-6(0)<Speaker>Destroyer</Speaker>||:No problem! Just go ahead!
 ()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><SE1>Stop_AVG_loop</SE1><回忆><BGM>BGM_Empty</BGM><边框>2</边框>:...In the Muromets network. +UMP45 has transferred the Aeneas Conference Room's resources here.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<边框>2</边框><BGM>GF_EV9_Story</BGM>:This was left behind from Squad Ferrum's encounter with Narciss.
 BossJustice(0)<Speaker>Judge</Speaker>||<边框>2</边框>:... +Play it.
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hurry up and figure something out! Is there really no end to her floating blades?!</color>
-BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Listen up. Once I give the order, fire on her.</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>It's no use! All my shots do is explode harmlessly on her in a shower of sparks!</color>
-BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Just do as I say!</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hurry up and figure something out! Is there really no end to her floating blades?!</color>
+BOSS-7(0)<Speaker>Gager</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Listen up. Once I give the order, fire on her.</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>It's no use! All my shots do is explode harmlessly on her in a shower of sparks!</color>
+BOSS-7(0)<Speaker>Gager</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Just do as I say!</color>
 ()<Speaker></Speaker>||<SE1>Explode</SE1><边框>2</边框>:Boom! The sound of a single grenade striking home can be heard amidst the background noise.
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Wow, how did you do that? She was just about to deploy a floating blade but you interrupted her!</color>
-BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>She needs to concentrate when deploying a floating blade for a long-ranged attack. Attack her when she's doing that and buy me time.</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Leave it to me!</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Wow, how did you do that? She was just about to deploy a floating blade but you interrupted her!</color>
+BOSS-7(0)<Speaker>Gager</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>She needs to concentrate when deploying a floating blade for a long-ranged attack. Attack her when she's doing that and buy me time.</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Leave it to me!</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><边框>2</边框>:UMP45 turns off the recording.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:Unfortunately, they didn't manage to escape Narciss because of Paradeus reinforcements. +But I believe that recording gives some very valuable insights.
 BossJustice(0)<Speaker>Judge</Speaker>||<边框>2</边框>:...
@@ -70,9 +70,9 @@ BossJustice(0)<Speaker>Judge</Speaker>||:That's good enough.
 ()||<黑屏1><关闭蒙版>:
 ()<Speaker></Speaker>||<黑屏2><SE1>AVG_amb_thunderrain</SE1><BIN>482</BIN><common_effect>%%code=CJ_rain%%</common_effect>:...On the platform outside the Western Tower, Avernus.
 ()<Speaker></Speaker>||<SE1>AVG_Explo_Close</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:(Rumble) The continuous bombardments make the ground tremble.
-BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Oi, HQ, this is Team D.</color>
+BOSS-4(0)<Speaker>Intruder</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Oi, HQ, this is Team D.</color>
 BossJustice(0)<Speaker>Judge</Speaker>||:Report in.
-BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>||:<color=#00CCFF>We've successfully landed on the roof, but we haven't made contact with the enemy yet.</color> +<color=#00CCFF>It's just like our intel said. The defenses here are very weak.</color>
+BOSS-4(0)<Speaker>Intruder</Speaker><scan><通讯框>||:<color=#00CCFF>We've successfully landed on the roof, but we haven't made contact with the enemy yet.</color> +<color=#00CCFF>It's just like our intel said. The defenses here are very weak.</color>
 BossJustice(0)<Speaker>Judge</Speaker>||:Carry on. Stick to the plan.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Judge puts down her communicator.
 BossJustice(0)<Speaker>Judge</Speaker>||:Keep firing. Cover Team D.

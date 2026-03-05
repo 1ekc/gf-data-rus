@@ -59,23 +59,23 @@ M1928A1(0)<Speaker>Thompson</Speaker>||:Wake up, WA. The target's on the move.
 WA2000(0)<Speaker>WA2000</Speaker>||:Hm... What?!
 ()||:The groggy WA2000 immediately bolts awake.
 WA2000(0)<Speaker>WA2000</Speaker><Shake>||:Attention! Lee! Kar!
-WA2000(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I'm here, go ahead. </color>
-WA2000(0);MLEMK1(0)<Speaker>Lee Enfield</Speaker><通讯框>||:<color=#00CCFF>Has the target's status changed?</color>
-WA2000(0)<Speaker>WA2000</Speaker>;MLEMK1(0)<通讯框>||:Target is on the move, about to reach the office corridor. Everyone, mind your movements!
-MLEMK1(0)<Speaker>Lee Enfield</Speaker><通讯框>||:<color=#00CCFF>Roger. </color>
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Understood. </color>
+WA2000(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I'm here, go ahead. </color>
+WA2000(0);MLEMK1(0)<Speaker>Lee Enfield</Speaker><scan><通讯框>||:<color=#00CCFF>Has the target's status changed?</color>
+WA2000(0)<Speaker>WA2000</Speaker>;MLEMK1(0)<scan><通讯框>||:Target is on the move, about to reach the office corridor. Everyone, mind your movements!
+MLEMK1(0)<Speaker>Lee Enfield</Speaker><scan><通讯框>||:<color=#00CCFF>Roger. </color>
+98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||:<color=#00CCFF>Understood. </color>
 M1928A1(0)<Speaker>Thompson</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Tonight's entertainment is about to begin. I'll go look over there, you keep watch.
 WA2000(0)<Speaker>WA2000</Speaker>||:Got it.
 ()||<黑屏1>:Thompson hurries off. At the same time, WA2000's carefully-composed emails are sent out to various recipients.
 ()||<黑屏2><BIN>1</BIN><Night>:...In the woods near the base, several figures on motorbikes race back to the base at eye-watering speeds.
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Thompson hailing FlashDel Squad. </color>
-NTW20Mod(0)<Speaker>NTW-20</Speaker>;M1928A1(0)<通讯框>||:FlashDel Squad leader NTW here.
-NTW20Mod(0);M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>The target started moving ahead of schedule. Can you move up your return to base?</color>
-NTW20Mod(0)<Speaker>NTW-20</Speaker>;M1928A1(0)<通讯框>||:Ahead of schedule...? That's unexpected... Understood. We can do it.
-NTW20Mod(0);M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Roger. </color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Thompson hailing FlashDel Squad. </color>
+NTW20Mod(0)<Speaker>NTW-20</Speaker>;M1928A1(0)<scan><通讯框>||:FlashDel Squad leader NTW here.
+NTW20Mod(0);M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>The target started moving ahead of schedule. Can you move up your return to base?</color>
+NTW20Mod(0)<Speaker>NTW-20</Speaker>;M1928A1(0)<scan><通讯框>||:Ahead of schedule...? That's unexpected... Understood. We can do it.
+NTW20Mod(0);M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Roger. </color>
 NTW20Mod(0)<Speaker>NTW-20</Speaker>||:Hailing Grizzly, hailing Spitfire. They're moving the plan up. We're going to pick up the pace.
-Grizzly(0)<Speaker>Grizzly</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Received, I'll be at the kitchen's back door in seven seconds. </color>
-Spitfire(0)<Speaker>Spitfire</Speaker><通讯框>||:<color=#00CCFF>Big Sis 75 and I will be right behind you. </color>
+Grizzly(0)<Speaker>Grizzly</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Received, I'll be at the kitchen's back door in seven seconds. </color>
+Spitfire(0)<Speaker>Spitfire</Speaker><scan><通讯框>||:<color=#00CCFF>Big Sis 75 and I will be right behind you. </color>
 NTW20Mod(0)<Speaker>NTW-20</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Alright, see you at the next check-in.
 ()||<黑屏1>:NTW-20 hangs up and double-checks the positions of her friends in the rear-view mirror.
 ()||<黑屏2><BIN>88</BIN>:...In a dark warehouse, a face illuminated by an LED screen reveals a pained yet savage expression.
@@ -96,13 +96,13 @@ NPC-Helian(0)<Speaker>Helian</Speaker>||:If I can get a little more done tomorro
 NPC-Helian(0)<Speaker></Speaker>||<黑屏1>:Helian's eyes fall on the big red circled date on the calendar.
 ()||<BIN>18</BIN><黑屏2><Night><BGM>m_avg_casual</BGM>:...In front of Kryuger's office.
 WA2000(0)<Speaker>WA2000</Speaker>||:Attention, target is about to leave the office, are you all gathered at the main hall yet?
-MLEMK1(0)<Speaker>Lee Enfield</Speaker><通讯框>||:<color=#00CCFF>Received. </color>
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>We're all assembled at the hall. </color>
+MLEMK1(0)<Speaker>Lee Enfield</Speaker><scan><通讯框>||:<color=#00CCFF>Received. </color>
+98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||:<color=#00CCFF>We're all assembled at the hall. </color>
 WA2000(0)<Speaker>WA2000</Speaker>||:Good, I'll hurry over now.
 ()||<黑屏1>:WA2000 runs into the night.
-Grizzly(0)<Speaker>Grizzly</Speaker><通讯框>||<黑屏2><BIN>1</BIN><Night>:<color=#00CCFF>I'm bringing the squad to meet up at the main hall entrance. </color>
+Grizzly(0)<Speaker>Grizzly</Speaker><scan><通讯框>||<黑屏2><BIN>1</BIN><Night>:<color=#00CCFF>I'm bringing the squad to meet up at the main hall entrance. </color>
 NTW20Mod(0)<Speaker>NTW-20</Speaker>||:Roger. +Hailing Spitfire and CZ, are you there yet?
-Spitfire(0)<Speaker>Spitfire</Speaker><通讯框>||:<color=#00CCFF>We had to make a detour to pick up the goods, we'll be there right away. </color>
+Spitfire(0)<Speaker>Spitfire</Speaker><scan><通讯框>||:<color=#00CCFF>We had to make a detour to pick up the goods, we'll be there right away. </color>
 ()||<SE1>AVG_brake</SE1>:The screech of braking tires echoes through the silent forest.
 CZ75(0)<Speaker>CZ75</Speaker>||:We're here, let's go!
 NTW20Mod(0)<Speaker>NTW-20</Speaker>||:Took you long enough, and what are all these traffic tickets...?

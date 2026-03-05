@@ -37,15 +37,15 @@ Vector(0)<Speaker>Vector</Speaker>||:So I'm a team leader who puts her team memb
 PP90(0)<Speaker>PP-90</Speaker>||:That's not your fault! +Oh, right! R93! Why don't you contact them and see how things are?
 Vector(0)<Speaker>Vector</Speaker>||:I... Yes, I should talk to them. +They might have supplies on their side.
 ()||<SE1>AVG_tele_connect</SE1>:Click—
-R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>Hello? Vivi? What's wrong?</color>
+R93(0)<Speaker>R93</Speaker><scan><通讯框>||:<color=#00CCFF>Hello? Vivi? What's wrong?</color>
 Vector(0)<Speaker>Vector</Speaker>||:It's an emergency, R93. +Do you have any food with you?
-R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>Food? Sure we do. We're all very full. Practically stuffed, in fact.</color>
+R93(0)<Speaker>R93</Speaker><scan><通讯框>||:<color=#00CCFF>Food? Sure we do. We're all very full. Practically stuffed, in fact.</color>
 PP90(0)<Speaker>PP-90</Speaker>||:Being overstuffed isn't a good thing... She should rephrase it.
-K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>We're still collecting supplies on our end, but most of it is ammo.</color>+<color=#00CCFF>We basically eat all the food we find on the spot.</color>+<color=#00CCFF>Seeing your temperature or hunger gauge drop feels really bad, even if it's only a little.</color>
-R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>Seeing a full stat bar is as comforting as looking at a 100% charged battery...</color>
-K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>That's it for us. How are things on your end?</color>
+K5(0)<Speaker>K5</Speaker><scan><通讯框>||:<color=#00CCFF>We're still collecting supplies on our end, but most of it is ammo.</color>+<color=#00CCFF>We basically eat all the food we find on the spot.</color>+<color=#00CCFF>Seeing your temperature or hunger gauge drop feels really bad, even if it's only a little.</color>
+R93(0)<Speaker>R93</Speaker><scan><通讯框>||:<color=#00CCFF>Seeing a full stat bar is as comforting as looking at a 100% charged battery...</color>
+K5(0)<Speaker>K5</Speaker><scan><通讯框>||:<color=#00CCFF>That's it for us. How are things on your end?</color>
 Vector(0)<Speaker>Vector</Speaker>||:...Is that so? I see. +We'll think of something for ourselves, then. +See you later, Queen Marie.
-R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>What? Wait a—</color>
+R93(0)<Speaker>R93</Speaker><scan><通讯框>||:<color=#00CCFF>What? Wait a—</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:Click— +The transmission ends.
 Vector(0)<Speaker>Vector</Speaker>||:...
 PP90(0)<Speaker>PP-90</Speaker>||:...

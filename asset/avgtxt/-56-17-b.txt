@@ -34,8 +34,8 @@ NPC-SCR(0)<Speaker>Eula</Speaker>||:Goodbye.
 ()<Speaker>Amaris</Speaker>||<黑屏1>:...
 ()||<黑屏2><BIN>79</BIN><BGM>BGM_Empty</BGM>:Berlin, City Hall.
 ()||<BGM>BGM_Room</BGM><SE1>AVG_AMB_Restaurant</SE1>:The bustling city hall is hosting a lively banquet.+High-ranking officials from all over Germany and various local leaders are gathered here.+Needless to say, this is an important event, and naturally the security detail for it is of the highest quality.
-Sterling(0)<通讯框><Speaker>Sterling</Speaker>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>...There are 45 details of security guards, with 3 men per detail, and they change posts once every 15 minutes.</color>+<color=#00CCFF>Every entrance, exit and emergency passage is watched by someone and there are five more details of guards inside the venue proper.</color>
-PPQ(0)<通讯框><Speaker>Brigitte</Speaker>||:<color=#00CCFF>The "Jack In The Box" has been set.</color>
+Sterling(0)<scan><通讯框><Speaker>Sterling</Speaker>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>...There are 45 details of security guards, with 3 men per detail, and they change posts once every 15 minutes.</color>+<color=#00CCFF>Every entrance, exit and emergency passage is watched by someone and there are five more details of guards inside the venue proper.</color>
+PPQ(0)<scan><通讯框><Speaker>Brigitte</Speaker>||:<color=#00CCFF>The "Jack In The Box" has been set.</color>
 TFQ(0)<Speaker>Dagmar</Speaker><Position>0,100</Position>||<黑点1>:<color=#00CCFF>I, I'm ready, please give the order.</color>
 ()||<黑点2><BIN>315</BIN><SE1>AVG_amb_wilderness</SE1>:...
 ()||:On top of a skyscraper roughly two streets away, Edith puts down the binoculars she is holding.

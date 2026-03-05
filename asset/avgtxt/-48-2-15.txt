@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>356</BIN><黑屏2><Night><BGM>BGM_Room</BGM>:In the Berlin safe house.
 ()<Speaker></Speaker>||:The moon is exceptionally bright tonight. An unexpected battle has finally come to an end. +However, a new signal fire has just been lit.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, very nice to see you.</color>
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, very nice to see you.</color>
 NPC-Griffin(0)<Speaker>Commander</Speaker>||:Likewise, Earl.
 NPC-Griffin(0)<Speaker>Griffin</Speaker>||:<color=#00CCFF>It hasn't been all that long since we last talked.</color> +<color=#00CCFF>But by God am I glad to hear your voice again.</color>
 NPC-Griffin(0)<Speaker>Commander</Speaker>||:I'm very sorry, Earl. +I screwed it up. Even Squad Griffin was... 
@@ -40,7 +40,7 @@ NPC-Morridow(8)<Speaker>Morridow</Speaker><Position>0,90</Position>||:...
 ()<Speaker></Speaker>||:Morridow blinks. Her mouth opens and closes in confusion. She eventually decides against saying anything.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<BIN>356</BIN><黑点2><Night>:The man in the comms channel falls silent for a moment.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>No problem, if support is all you need.</color> +<color=#00CCFF>I can give you that. I will contact the base. A vehicle of sufficient size should be able to transport your forces to you.</color>
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>No problem, if support is all you need.</color> +<color=#00CCFF>I can give you that. I will contact the base. A vehicle of sufficient size should be able to transport your forces to you.</color>
 NPC-Griffin(1)<Speaker>Commander</Speaker>||:...I didn't expect you'd go that far, to be honest.
 NPC-Griffin(1)<Speaker>Griffin</Speaker>||:<color=#00CCFF>My opinion has not changed. Out of all the youngsters... </color> +<color=#00CCFF>You're the most trustworthy. Kryuger believes that, and so do I.</color>
 NPC-Griffin(1)<Speaker>Commander</Speaker>||:I will not betray your trust. +Though frankly speaking, your generous praise is a little disconcerting.

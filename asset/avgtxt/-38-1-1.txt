@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>259</BIN><黑屏2><BGM>GF_xGS2_27</BGM>:... +The garden is imbued with faint aroma. It smells of flowers and tea leaves.
 指挥官()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Is this what it's like on Level II? It looks more realistic than I imagined.</color>
-NPC-Kalin(2)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This girl seems to be a neural cloud consciousness stored within this space. I can detect a massive torrent of data from her.</color>
+NPC-Kalin(2)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This girl seems to be a neural cloud consciousness stored within this space. I can detect a massive torrent of data from her.</color>
 NPC-Kalin(2)<Speaker>Commander</Speaker>||:<color=#00CCFF>So have we found the culprit?</color>
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:<color=#00CCFF>I would say so...but how could such a sweet girl be the nasty hacker that we're after?</color> +<color=#00CCFF>She doesn't seem to have any motive for seizing the neural clouds of our Dolls.</color>
 NPC-Kalin(4)<Speaker>Commander</Speaker>||:<color=#00CCFF>In any case, let's try talking to her.</color> +<color=#00CCFF>Is this "Signore Giuseppe" the original user of this account?</color>
@@ -39,7 +39,7 @@ Henrietta(2)<Speaker>Henrietta</Speaker>||:Nothing... I'm just very happy to hea
 Henrietta(2)<Speaker>Commander</Speaker>||:Right... Hold on, brothers and sisters? +You mean us?
 Henrietta(4)<Speaker>Henrietta</Speaker>||:Have you forgotten, Signore Giuseppe? +We're partners working for the Social Welfare Agency – a "Fratello". +You're my Handler, and I'm your Cyborg. As Cyborgs, we protect our Handler with our own life and do everything we can to help you fulfill your wish.
 Henrietta(4)<Speaker>Commander</Speaker>||:<color=#00CCFF>Kalin, some explanation, please?</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>On it. I searched the database and found an explanatory document of the setting. Sending it to you right now.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>On it. I searched the database and found an explanatory document of the setting. Sending it to you right now.</color>
 ()<Speaker></Speaker>||:Kalina sends me the document and I skim through it quickly without letting Henrietta know.
 ()<Speaker></Speaker>||:In the setting, the "Social Welfare Agency" is a special service department within the government that operates under the facade of a welfare organization. +They take in girls who fell victims to unfortunate accidents and give them a second chance at life by converting them into Cyborg assassins. They are then paired with agents known as "Handlers" and undertake missions for the government under the table.
 ()<Speaker></Speaker>||:Cyborgs... They're similar to T-Dolls, but also vastly different. +The fact that they're called Cyborgs means these are living, breathing human beings with flesh and blood. Their "Handlers" must've carried a much heavier burden than us T-Doll Commanders.

@@ -48,9 +48,9 @@ AR15Mod(5)<Speaker>ST AR-15</Speaker>||:...I'm okay now.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:I took a hit, but it only lasted a second.
 ()<Speaker></Speaker>||:Still feeling very tense and uneasy, UMP45 gets in touch with UMP9.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:9? Respond if you copy.
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>45? What is it?</color>
+UMP9Mod(4)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>45? What is it?</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Did you feel anything just now?
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>No?</color>
+UMP9Mod(4)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>No?</color>
 ()<Speaker></Speaker>||:UMP9 is her usual self. Nothing seems to have happened to her whatsoever.
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Did they not notice anything?
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Looks like it. I suppose the phenomenon was localized to where we are?
@@ -85,7 +85,7 @@ NytoWhite(0)<Speaker>White Nyto</Speaker>||:Yes, ma'am.
 NPC-MrsGray(3)<Speaker>Mrs. Gray</Speaker>||:Get to work.
 NytoWhite(0)<Speaker>White Nyto</Speaker>||:Yes, Ma'am.
 ()<Speaker></Speaker>||:The Nytos take their leave, and Gray lets out a long sigh. +She dials someone's number on her communicator.
-NPC-grig(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...You look dog tired.</color>
+NPC-grig(1)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...You look dog tired.</color>
 NPC-MrsGray(3)<Speaker>Mrs. Gray</Speaker>;NPC-grig(1)||:I am. I just hope it will go smoothly this time. +It's just been trouble after trouble. Tell those at Galatea to take better care.
 NPC-MrsGray(3);NPC-grig(2)<Speaker>???</Speaker>||:<color=#00CCFF>Thank goodness we have you.</color>
 NPC-MrsGray(4)<Speaker>Mrs. Gray</Speaker>;NPC-grig(2)||:...If only she'd think so as well.

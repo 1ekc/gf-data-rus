@@ -56,7 +56,7 @@ QBU88(0)<Speaker></Speaker>||<黑点1>:QBU-88 contemplates the girl who fought t
 ()<Speaker></Speaker>||<黑点2>:Ring, ring, ring! +Five hours later, the alarm she has set goes off. +She puts down her needle and beholds the two evening dresses displayed side-by-side with great satisfaction.
 QBU88(0)<Speaker>QBU-88</Speaker>||:I had the designs beforehand, but still, kudos to me for making two dresses out of the remaining fabric in such a short amount of time!
 QBU88(0)<Speaker></Speaker>||<黑屏1><SE1>RunStep</SE1>:She scoops up the dresses and calls M200 as she runs toward her dorm.
-M200(0)<Speaker>M200</Speaker><通讯框>||<BIN>18</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hm? Hello, M200 speaking.</color>
+M200(0)<Speaker>M200</Speaker><scan><通讯框>||<BIN>18</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hm? Hello, M200 speaking.</color>
 QBU88(6)<Speaker>QBU-88</Speaker>;M200(0)||:M200, come to the banquet with me!
 QBU88(6);M200(0)<Speaker>M200</Speaker>||:<color=#00CCFF>..."Banquet"?</color>
 QBU88(6)<Speaker>QBU-88</Speaker>;M200(0)||:I've sewn a dress for you. Try it on!

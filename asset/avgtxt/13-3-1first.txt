@@ -21,10 +21,10 @@ M16A1BOSS(0)<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:M16 backs away an
 ()<Speaker></Speaker>||:...
 RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:Should we pursue?
 M4A1Mod(0)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:Hold on. +Ange, do you copy? +Yegor's wingman and M16 have both descended to the bottom level. We haven't been able to locate Yegor's mech; I'm guessing he's headed in the other direction.
-M4A1Mod(0);NPC-Ange(1)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>He's after the main control room. We're going to intercept him.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(1)<通讯框>||:Should we link up with you?
-M4A1Mod(0);NPC-Ange(1)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Send our two other members. You stay with M16.</color> +<color=#00CCFF>According to 404's latest report, the Sangvis Mastermind is about to activate the Starfish System on her own.</color> +<color=#00CCFF>We'll each take one target – we MUST prevent both of them from activating it.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(1)<通讯框>||:Acknowledged. +DEFY, you heard Ange.
+M4A1Mod(0);NPC-Ange(1)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>He's after the main control room. We're going to intercept him.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(1)<scan><通讯框>||:Should we link up with you?
+M4A1Mod(0);NPC-Ange(1)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Send our two other members. You stay with M16.</color> +<color=#00CCFF>According to 404's latest report, the Sangvis Mastermind is about to activate the Starfish System on her own.</color> +<color=#00CCFF>We'll each take one target – we MUST prevent both of them from activating it.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(1)<scan><通讯框>||:Acknowledged. +DEFY, you heard Ange.
 M4A1Mod(0);RPK16(0)<Speaker>RPK-16</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Looks like our short-lived but rewarding partnership has come to an end.
 M4A1Mod(0)<Speaker>M4A1</Speaker>;RPK16(0)||:Thank you very much for your support. Leave this side to us.
 M4A1Mod(0)<Speaker></Speaker>||:DEFY's new members bid the AR Team farewell with a nod and depart for Ange's position.

@@ -1,19 +1,19 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>222</BIN><黑屏2><BGM>10213</BGM>:...
 AK47(0)<Speaker>AK-47</Speaker>||<SE1>AVG_tele_connect</SE1>:...This is Corsac Fox. Nothing to report in Zone B.
-SKS(0)<Speaker>SKS</Speaker><通讯框>||:<color=#00CCFF>This is Bullseye. Nothing to report. The target is not in Zone C.</color>
+SKS(0)<Speaker>SKS</Speaker><scan><通讯框>||:<color=#00CCFF>This is Bullseye. Nothing to report. The target is not in Zone C.</color>
 AK47(0)<Speaker>AK-47</Speaker>||:Tiss?
-OTs12(0)<Speaker>OTs-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Sorry for the delay. No sign of the target in Zone A either.</color>
-SKS(0)<Speaker>SKS</Speaker><通讯框>||:<color=#00CCFF>Are you sure the target is in the factory?</color>
+OTs12(0)<Speaker>OTs-12</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Sorry for the delay. No sign of the target in Zone A either.</color>
+SKS(0)<Speaker>SKS</Speaker><scan><通讯框>||:<color=#00CCFF>Are you sure the target is in the factory?</color>
 AK47(0)<Speaker>AK-47</Speaker>||:All the other locations have been cleared. She's got to be here, there's no mistake.
 ()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:Grasping her weapon, AK-47 huddles close to stacks of containers and slowly walks ahead as she explores. 
-SKS(0)<Speaker>SKS</Speaker><通讯框>||:<color=#00CCFF>Do we really have to be so careful? Isn't there only one of them?</color>
+SKS(0)<Speaker>SKS</Speaker><scan><通讯框>||:<color=#00CCFF>Do we really have to be so careful? Isn't there only one of them?</color>
 AK47(0)<Speaker>AK-47</Speaker>||<SE1>Stop_AVG_loop</SE1>:Hush... Don't be ridiculous, Bullseye.
 ()<Speaker></Speaker>||:Apart from the sound of dripping water, all is silent. +AK-47 is on high alert as she scans every nook and cranny conscientiously.
-SKS(0)<Speaker>SKS</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Tiss?</color>
+SKS(0)<Speaker>SKS</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Tiss?</color>
 ()<Speaker></Speaker>||:Just then, SKS's puzzled voice comes through her earpiece.
 ()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:Ba-dump. +An ominous feeling spreads through AK-47. She can almost hear her non-existent heart pumping in her chest.
-SKS(0)<Speaker>SKS</Speaker><通讯框>||:<color=#00CCFF>We've lost contact with Tiss! I'm going to find her!</color>
+SKS(0)<Speaker>SKS</Speaker><scan><通讯框>||:<color=#00CCFF>We've lost contact with Tiss! I'm going to find her!</color>
 AK47(0)<Speaker>AK-47</Speaker>||<BGM>BGM_Empty</BGM>:Something feels off... Crap, this is a trap! +Bullseye, get out of there at once!
 ()<Speaker></Speaker>||<BGM>10082</BGM><SE2>Gunfight</SE2>:Bangbangbangbangbang!!! +All of a sudden, a series of gunshots erupt through the comms line. AK-47 immediately tears out the earpiece.
 AK47(0)<Speaker>AK-47</Speaker>||<SE1>RunStep</SE1>:<size=50>Freaking hell!</size>

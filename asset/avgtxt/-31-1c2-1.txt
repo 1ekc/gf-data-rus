@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<BIN>181</BIN><黑屏2><BGM>BGM_Room</BGM>:...Click. +...The transmission begins.
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>That doesn't mean she had to run off on her own... I'll catch up and follow the vehicle with her.</color>+<color=#00CCFF>If we do find the "Node", should we destroy it immediately?</color>+<color=#00CCFF>What on earth could it be...?</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>That doesn't mean she had to run off on her own... I'll catch up and follow the vehicle with her.</color>+<color=#00CCFF>If we do find the "Node", should we destroy it immediately?</color>+<color=#00CCFF>What on earth could it be...?</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AR15Mod(0)||:You don't need to know. The moment you find something like it, wait for my order and destroy it on the spot.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>...Understood.</color>+<color=#00CCFF>This channel isn't secure. I'll find some way to contact you after I catch up with AN-94.</color>
 AK12(0)<Speaker>AK-12</Speaker>||:Ange, something isn't quite right over here.
@@ -15,7 +15,7 @@ NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Ange, what should we do now?
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||<黑点1>:You and M4 head over to the quarantine wall. Conduct recon and gather information there. +We'll decide on our next move depending on the situation.
 ()||<黑点2><BGM>BGM_Empty</BGM><BIN>169</BIN>:...Several minutes later. +AK-12 and M4A1 reach the wall district.
 AK12(0)<Speaker>AK-12</Speaker>||<BGM>BGM_Sneak</BGM>:Ange, we've got a mutiny here. +The defenders inside the wall have split into two forces and are currently engaged in battle. +I'm sending you the data on the situation.
-AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Got it, understood.</color>
+AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Got it, understood.</color>
 AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Should we stay here and continue observing?
 AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>...No.</color>+<color=#00CCFF>AK-12, M4A1, the two of you will now assist the wall defenders in wiping out the rebel troops.</color>
 AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Ange, are you sure? Using military force on foreign territory, even if it's to wipe out rebel troops...
@@ -39,7 +39,7 @@ AK12(0)<Speaker>AK-12</Speaker>||<黑屏1>:In that case... +Task Force DEFY will
 ()||<BGM>BGM_Empty</BGM><黑屏2>:...Several minutes after Task Force DEFY joins the battle.
 ()||<BGM>BGM_Sneak</BGM>:...A transmission comes through.
 AK12(0)<Speaker>AK-12</Speaker>||<SE1>Gunfight</SE1>:Eh, at a time like this...
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Sounds like you've already started fighting.</color>
+NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Sounds like you've already started fighting.</color>
 AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:We're wiping out a few defensive automatons while approaching the location where the defenders and rebels are exchanging fire. +Ange, if you're contacting us now... I trust it isn't good news, is it?
 AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Correct.</color>+<color=#00CCFF>The storm's begun, and it's driving the infected creatures closer to the wall.</color>
 AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Ugh... That'll make things difficult. +Given the situation at the wall now...it looks like they won't be able to defend it at full strength.

@@ -27,19 +27,19 @@ RO635Mod(0)<Speaker>RO635</Speaker>||:...A transmission from the base.
 ()<Speaker>Commander</Speaker>||:... 
 ()<Speaker></Speaker>||:The Commander shoots Morridow another glance, then turns and follows RO635 to the other side.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:It's me.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>...I'm very glad to see that you're doing well, Commander.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>...I'm very glad to see that you're doing well, Commander.</color>
 NPC-Helian(0)<Speaker>Commander</Speaker>||:Miss Helian? How's Kalina? Is she alright?
 NPC-Helian(0)<Speaker>Helian</Speaker>||:<color=#00CCFF>Relax, Kalina is perfectly fine.</color> +<color=#00CCFF>We have already transferred her to a specialized hospital.</color> +<color=#00CCFF>The juvenile Nyto known as Anna has also been sent to Havier for research.</color>
 NPC-Helian(0)<Speaker>Commander</Speaker>||:Right... Oh, sorry. +You must have called me for a particular reason. Is something the matter?
 NPC-Helian(0)<Speaker>Helian</Speaker>||:<color=#00CCFF>You could say that.</color>
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Hello, Commander.</color>
+NPC-Keven(0)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Hello, Commander.</color>
 NPC-Keven(0)<Speaker>Commander</Speaker>||:...! +Y-you are...?
 NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>A Stasi agent and a colleague of K's. You may call me J.</color>
 ()||<黑点1>:
 ()<Speaker>Commander</Speaker>||<黑点2><BIN>262</BIN>:I see now... You're the one who's been helping Ange this whole time.
 ()<Speaker></Speaker>||:The Commander murmurs with rueful understanding, then lapses into silence. +They didn't expect that to be the last time they would hear from Ange. +Now... there is even more work to do.
 ()<Speaker>Commander</Speaker>||:We are very grateful for your continued support. +We won't forget the favors that you and K have done us.
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Wow, you're not like Ange at all. Anyway, let's not waste time on this kind of empty small talk.</color>
+NPC-Keven(0)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Wow, you're not like Ange at all. Anyway, let's not waste time on this kind of empty small talk.</color>
 NPC-Keven(0)<Speaker>Commander</Speaker>||:... 
 NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>...The fact that K has given me your contact information means he trusts you.</color> +<color=#00CCFF>I trust K, and I trust Ange, which is why I've decided to place my bet on you.</color> +<color=#00CCFF>Isn't it the same for you?</color>
 NPC-Keven(0)<Speaker>Commander</Speaker>||:...You're right. +But regardless, thank you very much for getting in touch with me.
@@ -47,7 +47,7 @@ NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>...As you know, Paradeus' infi
 NPC-Keven(5)<Speaker>Commander</Speaker>||:... 
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:The Commander rubs their forehead and forces themselves to remain calm.
 ()<Speaker>Commander</Speaker>||:What do you need me to do?
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>...As I've said, I'm now under surveillance so I can't get around freely.</color> +<color=#00CCFF>There are many things that I can't really do at the moment, but you have no such limitations.</color> +<color=#00CCFF>I will supply you with intelligence, and in return, I'd like you to share your findings with me.</color>
+NPC-Keven(0)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>...As I've said, I'm now under surveillance so I can't get around freely.</color> +<color=#00CCFF>There are many things that I can't really do at the moment, but you have no such limitations.</color> +<color=#00CCFF>I will supply you with intelligence, and in return, I'd like you to share your findings with me.</color>
 NPC-Keven(0)<Speaker>Commander</Speaker>||:... 
 NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>...My colleague was killed in that mansion.</color> +<color=#00CCFF>But Ange could still be alive. We might still have a chance to rescue her.</color>
 NPC-Keven(5)<Speaker>Commander</Speaker>||:...This is Ange we're talking about. +She couldn't have kicked the bucket just like that.

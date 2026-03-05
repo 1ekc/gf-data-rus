@@ -26,23 +26,23 @@ JS9mm(2)<Speaker>JS9</Speaker>||:What on earth am I doing... +This is why I hate
 ()||:I'd expected something like this would happen when this assignment was dumped on my lap. +I can't do what I can't do. That's just simple logic. +The more capable you are, the more responsibility you have to bear, which means on the flip side, you shouldn't bite off more than you can chew, right?
 JS9mm(2)<Speaker>JS9</Speaker>||:At this rate...this furniture expo is going to be finished before it even begins.
 ()||<SE1>AVG_tele_connect</SE1>:A transmission comes through.
-MG34(2)<Speaker>MG34</Speaker><通讯框>||:<color=#00CCFF>Hello? Is this JS9?</color>
+MG34(2)<Speaker>MG34</Speaker><scan><通讯框>||:<color=#00CCFF>Hello? Is this JS9?</color>
 JS9mm(2)<Speaker>JS9</Speaker>||:JS9 here, I copy.+What's the matter, MG34?
-MG34(2)<Speaker>MG34</Speaker><通讯框>||:<color=#00CCFF>I've started letting the customers in, there's a bunch of interested people here already.</color>+<color=#00CCFF>I couldn't keep them outside because there are quite a lot of them and they've been waiting for a while already.</color>+<color=#00CCFF>They would probably be really displeased if I kept them here any longer...</color>
+MG34(2)<Speaker>MG34</Speaker><scan><通讯框>||:<color=#00CCFF>I've started letting the customers in, there's a bunch of interested people here already.</color>+<color=#00CCFF>I couldn't keep them outside because there are quite a lot of them and they've been waiting for a while already.</color>+<color=#00CCFF>They would probably be really displeased if I kept them here any longer...</color>
 JS9mm(2)<Speaker>JS9</Speaker>||:What? But we haven't finished setting up all the furniture in the venue hall yet. +Oh no...
 ()||:JS9 looks at the exhibition hall. It's still a mess. +Even DP-12, the most reliable one of them all, seems utterly at a loss about what to do with the furniture.
 JS9mm(2)<Speaker>JS9</Speaker>||:...
 ()||:I can't just give up here, or this exhibition is really going to be a failure.
 JS9mm(2)<Speaker>JS9</Speaker>||:Right. I'll think of something on my end. +Keep on doing your thing.
-DP12(2)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>I haven't finished setting up yet and they're already letting the guests in...</color>+<color=#00CCFF>Now where should I put this big cabinet?</color>
+DP12(2)<Speaker>DP-12</Speaker><scan><通讯框>||:<color=#00CCFF>I haven't finished setting up yet and they're already letting the guests in...</color>+<color=#00CCFF>Now where should I put this big cabinet?</color>
 JS9mm(2)<Speaker>JS9</Speaker>||:Sorry, DP-12. Do you have something that needs putting away?+I'll come over in a bit to help you, so please hang in there!
-DP12(2)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>I'll be fine, just leave this place to me.</color>+<color=#00CCFF>Also, relax, JS9.</color>
+DP12(2)<Speaker>DP-12</Speaker><scan><通讯框>||:<color=#00CCFF>I'll be fine, just leave this place to me.</color>+<color=#00CCFF>Also, relax, JS9.</color>
 JS9mm(2)<Speaker>JS9</Speaker>||:Is my anxiety so apparent?
-DP12(2)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>It's quite obvious to me, at the very least.</color>
+DP12(2)<Speaker>DP-12</Speaker><scan><通讯框>||:<color=#00CCFF>It's quite obvious to me, at the very least.</color>
 JS9mm(2)<Speaker>JS9</Speaker>||:I'm sorry. Maybe I'm not cut out for this...
-DP12(2)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>We'll only know that once this mission is over.</color>+<color=#00CCFF>Until then, do the best you can. I'll be with you too.</color>
+DP12(2)<Speaker>DP-12</Speaker><scan><通讯框>||:<color=#00CCFF>We'll only know that once this mission is over.</color>+<color=#00CCFF>Until then, do the best you can. I'll be with you too.</color>
 JS9mm(2)<Speaker>JS9</Speaker>||:Alright... I feel a little more at ease now.+See you later!
-DP12(2)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>See you later, JS9.</color>
+DP12(2)<Speaker>DP-12</Speaker><scan><通讯框>||:<color=#00CCFF>See you later, JS9.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 JS9mm(2)<Speaker>JS9</Speaker>||:...What should I do now?
 ()||:Though she's feeling somewhat more motivated, she still has no idea what she should do next.+Just as JS9 is wavering indecisively, the first batch of customers enter the hall.

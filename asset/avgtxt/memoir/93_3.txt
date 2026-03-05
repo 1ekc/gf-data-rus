@@ -5,8 +5,8 @@ IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN><SE1>Gunfight</SE1>:Uwaah! I almost g
 BrenMK(0)<Speaker>Bren</Speaker>||<BIN>34</BIN>:...SHUT UP. +Can't this annoying cat stop meowing even for a second?!
 IDW(0)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>34</BIN>:But we're pinned down by heavy fire! If we stay here, we'll run out of ammo and rations soon!
 IDW(0);BrenMK(0)<Speaker>Bren</Speaker>||<BIN>34</BIN>:Tell me something I don't know!
-Welrod(0)<通讯框><Speaker></Speaker>||<BIN>34</BIN>:A voice comes through the comms channel.
-Welrod(0)<通讯框><Speaker>Welrod MkII</Speaker>||<BIN>34</BIN>:Bren, what's your sitrep?
+Welrod(0)<scan><通讯框><Speaker></Speaker>||<BIN>34</BIN>:A voice comes through the comms channel.
+Welrod(0)<scan><通讯框><Speaker>Welrod MkII</Speaker>||<BIN>34</BIN>:Bren, what's your sitrep?
 Welrod(0);BrenMK(0)<Speaker>Bren</Speaker>||<BIN>34</BIN>:Our intel was off. Sangvis Ferri have us cornered in the fire escape within the abandoned base.
 Welrod(0)<Speaker>Welrod MkII</Speaker>;BrenMK(0)||<BIN>34</BIN>:I've also run into more scoundrels than expected. It'll take some time to exterminate them.
 Welrod(0);IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:In other words... you can't help us?
@@ -20,7 +20,7 @@ Welrod(0);IDW(0)<Speaker>IDW</Speaker>||<BIN>34</BIN>:Oooooooh! I'm feeling so i
 Welrod(0);BrenMK(0)<Speaker>Bren</Speaker>||<BIN>34</BIN>:You two... +Get along surprisingly well.
 IDW(0)<Speaker>IDW</Speaker>;BrenMK(0)||<BIN>34</BIN>:C'mon, Miss Bren! We can definitely finish off these mechanical abominations!
 BrenMK(0)<Speaker>Bren</Speaker>||<BIN>34</BIN>:Wait, where's this confidence coming from...?!
-Welrod(0)<通讯框><Speaker>Welrod MkII</Speaker>||<BIN>34</BIN>:Go forth, the moment is here to protect the righteousness within you! Hold on till I make my way over to you!
+Welrod(0)<scan><通讯框><Speaker>Welrod MkII</Speaker>||<BIN>34</BIN>:Go forth, the moment is here to protect the righteousness within you! Hold on till I make my way over to you!
 BrenMK(0)<Speaker>Bren</Speaker>||<BIN>34</BIN>:...Wait a second, Captain!
 ()||<BIN>34</BIN>:Welrod ended the transmission. At the same time, everyone received a copy of the blueprint.
 L85A1(0)<Speaker>L85A1</Speaker>||<BIN>34</BIN>:...For some reason, I feel completely hopeless. +Ugh...I'm dying for a cup of earl grey. +I even bought a new tea set last week...

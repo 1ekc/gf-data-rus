@@ -25,10 +25,10 @@ NPC-PasserbyM(0)<Speaker>Male Punk</Speaker><Shake>||<SE1>AVG_pistol_finalshot_s
 ()<Speaker>Trafficker</Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:(Pants) Alright, now I'm safe... gurk!
 ()||<BGM>BGM_Sneak</BGM><SE2>AVG_pistol_finalshot_sup</SE2>:Just as he thinks he's in the clear, a pair of bullets cleanly pierce the trafficker's legs, dropping him to the ground.
 UMP9(0)<Speaker>UMP9</Speaker>||:...45, I've taken care of the fish that slipped the net in the escape tunnel. How about you?
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||:I'm fine. This side is settled.
-UMP9(0);UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<SE2>Gunfight</SE2>:...So that intense gunfire isn't your doing?
-UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)><通讯框>||:Of course not. I only pulled my trigger once during the course of the entire battle.
-UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<黑点1>:Got it. In that case, tighten the net. We'll meet at the appointed rendezvous point.
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker><scan><通讯框>||:I'm fine. This side is settled.
+UMP9(0);UMP45(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE2>Gunfight</SE2>:...So that intense gunfire isn't your doing?
+UMP9(0)<Speaker>UMP9</Speaker>;UMP45(0)><scan><通讯框>||:Of course not. I only pulled my trigger once during the course of the entire battle.
+UMP45(0)<Speaker>UMP45</Speaker><scan><通讯框>||<黑点1>:Got it. In that case, tighten the net. We'll meet at the appointed rendezvous point.
 ()||<黑点2>:After UMP9 walks a short distance forward, she sees UMP45 emerge from another passage.
 ()||<SE2>Gunfight</SE2>:Just as she's about to greet her, she sees intermittent flashes dispersed among the darkness from the corner at the end of the sewer passage, interspersed with human wails and cries.
 UMP9(0)<Speaker>UMP9</Speaker>||:...45, how many of them did you take out?

@@ -28,7 +28,7 @@ RO635Mod(4)<Speaker>RO635</Speaker>||:SOP-II! Don't be rash!
 ()<Speaker></Speaker>||<SE1>Explode</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=10</controll_shake><BGM>BGM_Empty</BGM>:<size=50>BOOM!!!</size>
 ()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:With a mighty explosion, the ruins collapse again. +SOP-II is lost amidst the rubble.
 RO635Mod(4)<Speaker>RO635</Speaker>||<SE1>RunStep</SE1><SE1>AVG_tele_connect</SE1>:Unicorn! We need backup!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Roger!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Roger!</color>
 RO635Mod(4)<Speaker>RO635</Speaker>||:Verifying SOP-II's condition!
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_stage1</BGM>:RO635 immediately starts digging through the rubble in search of SOP-II.
 ()<Speaker></Speaker>||:UMP45 and UMP9 come over to join in the excavation. +Fortunately the ruins have been degraded by long years of radiation exposure and the material is basically rotten, so it didn't hurt SOP-II.

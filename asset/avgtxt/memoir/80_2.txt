@@ -2,10 +2,10 @@
 ()||<黑屏2><BIN>55</BIN><BGM>GF_2022_Summer_AVG_1</BGM>:
 ()||<SE1>AVG_amb_wilderness</SE1>:Sunlight pours through the tree branches, casting specks of shadows down below. +The sound of birdsong from the woods made everything seem quieter.
 ()||<SE1>AVG_weapon_reload</SE1>:M1919A4, thrill-seeking as usual, has just realized that this is her very first mission without her imprinted weapon. She subconsciously starts fiddling with the dummy gun in her hand.
-C96(0)<Speaker>C96</Speaker><通讯框>||:<color=#00CCFF>You got your hands on a weapon? How powerful is it?</color>
+C96(0)<Speaker>C96</Speaker><scan><通讯框>||:<color=#00CCFF>You got your hands on a weapon? How powerful is it?</color>
 M1919A4(0)<Speaker>M1919A4</Speaker>；C96(0)||:Well, it's just a dummy gun that fires rubber bullets... They hit you with about the same force as a gentle slap.
-M1919A4(0)；C96(0)<Speaker>C96</Speaker><通讯框>||:Pfffft—A heavy machine gunner having to fight with a rubber-bullet-firing dummy gun, hahahaha— 
-M1919A4(0)<Speaker>M1919A4</Speaker>；C96(0)<通讯框>||:Quit laughing! No matter how you look at it, this feels like an ordinary game... +Could it be that Miss Kalina was mistaken?
+M1919A4(0)；C96(0)<Speaker>C96</Speaker><scan><通讯框>||:Pfffft—A heavy machine gunner having to fight with a rubber-bullet-firing dummy gun, hahahaha—
+M1919A4(0)<Speaker>M1919A4</Speaker>；C96(0)<scan><通讯框>||:Quit laughing! No matter how you look at it, this feels like an ordinary game... +Could it be that Miss Kalina was mistaken?
 M1919A4(0)<Speaker>M1919A4</Speaker>||:Hmm?
 ()||:M1919A4 is promptly alerted when someone appears to be approaching. She ducks behind a tree trunk, her gun raised.
 NPC-AH400(0)<Speaker>？？</Speaker><GradientShow>2</GradientShow>||:Wow, you're quick on your feet! +I didn't mean any harm, little one. I just wanted to say hi!

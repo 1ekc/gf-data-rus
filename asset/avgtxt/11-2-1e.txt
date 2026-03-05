@@ -6,7 +6,7 @@ RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Все нормал
 RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Ты права, но мы углубились слишком сильно... Будет плохо, если нас окружат...
 RO635(3);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Мы уйдем сразу, как только поможем Командиру. Все будет хорошо!
 RO635(3)<Speaker>RO635</Speaker>||:Ты уверена...? +Ооо? Это... запрос на связь от Грифона?
-Mk46(0)<Speaker>Mk46</Speaker><通讯框>||:<color=#00CCFF>Добрый вечер. Мисс RO635, верно?</color>
+Mk46(0)<Speaker>Mk46</Speaker><scan><通讯框>||:<color=#00CCFF>Добрый вечер. Мисс RO635, верно?</color>
 RO635(0)<Speaker>RO635</Speaker>;Mk46(0)||:Э-э, привет, а ты кто?
 RO635(0);Mk46(0)<Speaker>Mk46</Speaker>||:<color=#00CCFF>Мк46. Только что отправила тебе свой ID. Я временный адъютант Командира в этой операции.</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;Mk46(0)||:Эта новая девчонка кажется совсем невоодушевленной...

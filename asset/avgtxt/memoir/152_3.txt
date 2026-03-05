@@ -5,17 +5,17 @@ NPC-PasserbyM(0)<Speaker>Ivan</Speaker>||:Is it so late already? +Well, we can t
 NPC-PasserbyM(0)<Speaker>EA Member</Speaker>||:Right.
 ()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:...
 ()<Speaker>Ivan</Speaker>||:Phew... +HQ, this is Ivan, please res...
-NPC-PasserbyF(0)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ivan, darling~ Happy birthday!</color>
-NPC-PasserbyF(0)<Speaker>Ivan</Speaker><通讯框>||<BGM>BGM_Moon</BGM>:... +Thank you, dear... But I'm still busy now.
-NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><通讯框>||:<color=#00CCFF>Of course you are. If you weren't, you'd be at home having your slice of the cake with the kids.</color>
-NPC-PasserbyF(0)<Speaker>Ivan</Speaker><通讯框>||:...I'm sorry.
-NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><通讯框>||:<color=#00CCFF>There's nothing to be sorry for, dear.</color>
-NPC-PasserbyF(0)<Speaker>Ivan</Speaker><通讯框>||:I have to work hard now so things will be better down the road.
-NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><通讯框>||:<color=#00CCFF>But you should take care of your family too. It's hard for me to manage by myself...</color>
-NPC-PasserbyF(0)<Speaker>Ivan</Speaker><通讯框>||:...I'm sorry.
-NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><通讯框>||:<color=#00CCFF>You're always like that...</color>+<color=#00CCFF>Oh yes, Mrs. Leysin says that the Domestic Services Agency in the Green Zone has lots of Dolls working for them and they're all really cheap to hire.</color>+<color=#00CCFF>We can easily afford to have one come over once a month even on our income.</color>
-NPC-PasserbyF(0)<Speaker>Ivan</Speaker><通讯框>||:You want to hire a domestic Doll?
-NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><通讯框>||:<color=#00CCFF>It's better than me doing all the chores by myself, right? I'll send you their contact info later. Make sure you help me book one.</color>
+NPC-PasserbyF(0)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ivan, darling~ Happy birthday!</color>
+NPC-PasserbyF(0)<Speaker>Ivan</Speaker><scan><通讯框>||<BGM>BGM_Moon</BGM>:... +Thank you, dear... But I'm still busy now.
+NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><scan><通讯框>||:<color=#00CCFF>Of course you are. If you weren't, you'd be at home having your slice of the cake with the kids.</color>
+NPC-PasserbyF(0)<Speaker>Ivan</Speaker><scan><通讯框>||:...I'm sorry.
+NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><scan><通讯框>||:<color=#00CCFF>There's nothing to be sorry for, dear.</color>
+NPC-PasserbyF(0)<Speaker>Ivan</Speaker><scan><通讯框>||:I have to work hard now so things will be better down the road.
+NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><scan><通讯框>||:<color=#00CCFF>But you should take care of your family too. It's hard for me to manage by myself...</color>
+NPC-PasserbyF(0)<Speaker>Ivan</Speaker><scan><通讯框>||:...I'm sorry.
+NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><scan><通讯框>||:<color=#00CCFF>You're always like that...</color>+<color=#00CCFF>Oh yes, Mrs. Leysin says that the Domestic Services Agency in the Green Zone has lots of Dolls working for them and they're all really cheap to hire.</color>+<color=#00CCFF>We can easily afford to have one come over once a month even on our income.</color>
+NPC-PasserbyF(0)<Speaker>Ivan</Speaker><scan><通讯框>||:You want to hire a domestic Doll?
+NPC-PasserbyF(0)<Speaker>Ivan's Wife</Speaker><scan><通讯框>||:<color=#00CCFF>It's better than me doing all the chores by myself, right? I'll send you their contact info later. Make sure you help me book one.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:【The call ends.】
 ()<Speaker>Terminal</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Message Received—</color>+<color=#00CCFF>【Dear, this is the contact info for the Domestic Services Agency...】</color>+<color=#00CCFF>【Make sure you make a booking right away.】</color>
 ()<Speaker></Speaker>||:...

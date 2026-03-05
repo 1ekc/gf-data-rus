@@ -49,7 +49,7 @@ NPC-Light(1)<Speaker>Light</Speaker>||:Mrs. Gray...
 NPC-MrsGray(4)<Speaker>Gray</Speaker>||:Very graceful.
 ()<Speaker></Speaker>||:Mrs. Gray praises AN-94's nimble movements.
 NPC-Light(1)<Speaker>Light</Speaker>||<SE1>AVG_tele_connect</SE1>:Attack—
-NPC-Ange(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Light?</color>
+NPC-Ange(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Light?</color>
 NPC-Light(1)<Speaker>Light</Speaker>||:We're under attack!! +It's Paradeus! +Miss Ange, please retreat immediately! Get out of there!
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><BGM>10130</BGM>:Whoosh! +The massive stinger on Mrs. Gray's tail swipes at Light faster than the eye can see. Light lurches back, but a wound still opens up on his right arm.
 NPC-Light(1)<Speaker>Light</Speaker>||:Tsk! +The communicator!

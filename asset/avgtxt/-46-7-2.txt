@@ -35,9 +35,9 @@ CZ75(4)<Speaker>CZ75</Speaker>||<黑屏2><关闭蒙版><BIN>22</BIN><BGM>BGM_Emp
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:But why would she do that?
 CZ75(4)<Speaker>CZ75</Speaker>||:Ouroboros said she had something she needed to do.
 ()<Speaker>Commander</Speaker>|| <SE1>AVG_tele_connect</SE1>:Agent, do you have any ideas?
-BOSS-8(0)<Speaker>Agent</Speaker><通讯框>||:<color=#00CCFF>I believe so.</color>+<color=#00CCFF>I'll go stop Ouroboros and bring her back. A reprimand will soon follow.</color>
-BOSS-8(0)<Speaker>Commander</Speaker><通讯框>||:Agent?
-BOSS-8(0)<Speaker>Agent</Speaker><通讯框>||:<color=#00CCFF>As for exactly what it was that she needed to do, I'll let Ouroboros tell you herself.</color>
+BOSS-8(0)<Speaker>Agent</Speaker><scan><通讯框>||:<color=#00CCFF>I believe so.</color>+<color=#00CCFF>I'll go stop Ouroboros and bring her back. A reprimand will soon follow.</color>
+BOSS-8(0)<Speaker>Commander</Speaker><scan><通讯框>||:Agent?
+BOSS-8(0)<Speaker>Agent</Speaker><scan><通讯框>||:<color=#00CCFF>As for exactly what it was that she needed to do, I'll let Ouroboros tell you herself.</color>
 ()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:Agent ends the call.
 ()||<黑屏2><BIN>332</BIN><BGM>GF_21winter_avg_pathfinder</BGM>:...In an empty data simulation space. +The ghost that has always been haunting Ouroboros stands at the very center, her trademark smile on her face.
 NPC-Jormungand(0)<Speaker>Jormungandr</Speaker>||:Hi, Little Snake. Long time no see. ♪
@@ -171,7 +171,7 @@ BOSS-2(0)<Speaker>Executioner</Speaker>||:You're still holding onto that weapon 
 BOSS-8(0)<Speaker>Agent</Speaker>||<黑屏1>:It just means you're unlucky.
 ()||<黑屏2><BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:...Meanwhile, on the other side of the park.
 K5(0)<Speaker>K5</Speaker>||:...Are you really sure you don't need help?
-BOSS-8(0)<Speaker>Agent</Speaker><通讯框>||:<color=#00CCFF>No need for that. We've already picked up Ouroboros' trail and we're preparing to recover her.</color>+<color=#00CCFF>Go after your objective.</color>
+BOSS-8(0)<Speaker>Agent</Speaker><scan><通讯框>||:<color=#00CCFF>No need for that. We've already picked up Ouroboros' trail and we're preparing to recover her.</color>+<color=#00CCFF>Go after your objective.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:Agent ends the call.
 Yurine(0)<Speaker>Yurine</Speaker>||:Everyone has problems that they need to sort out themselves. +Let them take care of it.
 K5(0)<Speaker>K5</Speaker>||:Much as I would like to help, sticking my nose into S.F.'s business is a tricky affair... +I'm sure they'll be fine!

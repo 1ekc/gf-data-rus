@@ -20,15 +20,15 @@ BOSS-8(0)<Speaker>Agent</Speaker><Shake>||:Ugh!
 ()||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:However, a shell explodes in front of the cockpit before it can fire.
 ()||<BGM>BGM_Sneak</BGM><黑点1>:M4 wields the firing platform that she received from M16 as she stands at a high vantage point.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点2><BIN>232</BIN>:Ange, we're currently engaging them in battle. +Our weapons can't damage these mechs at all, but we can just about slow them down!
-NPC-AngeDamage(4)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Alright. We'll stick to the plan and split them up before destroying them piecemeal. We still have a chance to win!</color>
+NPC-AngeDamage(4)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Alright. We'll stick to the plan and split them up before destroying them piecemeal. We still have a chance to win!</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:Understood! I'll try to draw those wingmen off!
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Die!
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Aim for the legs and the cockpit!
 RO635(5)<Speaker>RO635</Speaker>||:Got it!
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ange, go after Yegor! Leave this place to us!
-NPC-AngeDamage(4)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Got it!</color>+<color=#00CCFF>12! 94! With me!</color>
+NPC-AngeDamage(4)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Got it!</color>+<color=#00CCFF>12! 94! With me!</color>
 ()||:Ange picks up her handset and shouts into it.
-NPC-AngeDamage(4)<Speaker>Ange</Speaker><通讯框>||<黑点1>:<color=#00CCFF>RPK-16! Head straight to the second level! Yegor's broken through the encirclement!</color>
+NPC-AngeDamage(4)<Speaker>Ange</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>RPK-16! Head straight to the second level! Yegor's broken through the encirclement!</color>
 ()||<黑点2><BIN>231</BIN>:Elsewhere, M4's heavy-firepower shell might not have penetrated the cockpit of the mech, but it almost caused the mech itself to stall out.+The officer piloting it understands that he's positioned very badly - his machine is caught in the perfect spot for a pincer attack from the Griffin ambushers.+They must have identified him as the one in command here to have opted for this maneuver.
 NPC-Yegor(3)<Speaker>Adjutant</Speaker>||:Amber 2, cover me! We'll pull back to the elevator and regroup!
 NPC-Yegor(3)<Speaker>Pilot</Speaker>||:Yes, sir!

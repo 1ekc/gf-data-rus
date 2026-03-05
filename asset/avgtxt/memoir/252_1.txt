@@ -32,7 +32,7 @@ KSVK(0);NPC-Kalin(6)<Speaker>Kalina</Speaker>||:I'll ask the Commander how to ge
 KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:I'll see you soon then, Miss Kalina.
 ()<Speaker></Speaker>||<BIN>85</BIN><黑屏2>:...
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Incoming transmission.</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Commander, could you spare a minute? I need to ask you about something.</color> +<color=#00CCFF>KSVK wants to find her memory records from before her employment at Griffin. Can I have your permission to do that?</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, could you spare a minute? I need to ask you about something.</color> +<color=#00CCFF>KSVK wants to find her memory records from before her employment at Griffin. Can I have your permission to do that?</color>
 NPC-Kalin(0)<Speaker>Commander</Speaker>||:......<c>Yes. <c>No.
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||<分支>1</分支>:<color=#00CCFF>Awesome! Then I'll submit a request immediately!</color>
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||<分支>2</分支>:<color=#00CCFF>...But isn't that a bit cruel?</color> +<color=#00CCFF>Her neural upgrade could fail if you reject her. Would you change your mind?</color>

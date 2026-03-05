@@ -14,7 +14,7 @@ NPC-Bodyguard1(0)<Speaker>Bodyguard</Speaker>||:Yes, sir.
 NPC-Arla(0)<Speaker>Schweinsteiger</Speaker>||:To think you'd be so impulsive... +You've gotten old, Oberstein.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Schweinsteiger shakes his head and chuckles sardonically before calling up Romy.
 NPC-Arla(0)<Speaker>Schweinsteiger</Speaker>||:Has it been taken care of?
-NPC-Romy(0)<Speaker>Romy</Speaker><通讯框>;NPC-Arla(0)||:<color=#00CCFF>Everything is going according to plan.</color> +<color=#00CCFF>We are steadily erasing the traces in Berlin.</color>
+NPC-Romy(0)<Speaker>Romy</Speaker><scan><通讯框>;NPC-Arla(0)||:<color=#00CCFF>Everything is going according to plan.</color> +<color=#00CCFF>We are steadily erasing the traces in Berlin.</color>
 NPC-Romy(0);NPC-Arla(0)<Speaker>Schweinsteiger</Speaker>||:I'm not just talking about internal business. +You know what I mean.
 NPC-Romy(0)<Speaker>Romy</Speaker>;NPC-Arla(0)||:<color=#00CCFF>Yes. We're also trimming back the tentacles from the outside.</color>
 NPC-Romy(0);NPC-Arla(0)<Speaker>Schweinsteiger</Speaker>||:Well done... However, I sometimes wonder, were we too radical before? +After the "Fireworks" blossomed, the tension in Moscow seems to have spread to Frankfurt.

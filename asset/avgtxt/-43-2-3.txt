@@ -29,6 +29,6 @@ P7(0)<Speaker>P7</Speaker>||:Time to play cat and mouse, heeheehee!
 ()<Speaker></Speaker>||:The two "police" Dolls exchange a glance and grin at each other before pulling out their trusty grenades and bombs. Backed by their theme song, they bear down on their target...
 ()<Speaker>ART556's Voice</Speaker>||:Po—
 ()<Speaker>P7's Voice</Speaker>||:Po—
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>A Cleaner!</color>+<color=#00CCFF>Agents, that's an Incinerator, a very powerful member of the Cleaners! Exercise extreme caution!</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>A Cleaner!</color>+<color=#00CCFF>Agents, that's an Incinerator, a very powerful member of the Cleaners! Exercise extreme caution!</color>
 ()<Speaker>ART556 & P7</Speaker>||:Aaaaahhhhhhh! It's an Incinerator!
 ()||<黑点1>:

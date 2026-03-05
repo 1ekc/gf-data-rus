@@ -1,5 +1,5 @@
 ()||<BIN>10</BIN>:
-NPC-Ange(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>You're the instructor of Team Я, yeah?</color> +<color=#00CCFF>I'll be taking command of the team from now on.</color>
+NPC-Ange(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>You're the instructor of Team Я, yeah?</color> +<color=#00CCFF>I'll be taking command of the team from now on.</color>
 NPC-Ange(0);AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||:Please show your authorizations...
 NPC-Ange(0)<Speaker>Angelia</Speaker>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>This is an order.</color> +<color=#00CCFF>You committed a grave error as the field commander.</color>
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||:...

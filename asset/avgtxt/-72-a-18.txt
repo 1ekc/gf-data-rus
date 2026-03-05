@@ -8,7 +8,7 @@ NPC-Lunasia(0)<Speaker>Lunasia</Speaker>||:It's time to make contact again...
 ()||<黑屏1><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<黑屏2><BIN>463</BIN><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Following countless tangled pathways, Lunasia finally locates a suitable exit.
-NytoWhite(0)<Speaker>White Nyto</Speaker><通讯框>||:<color=#00CCFF>Father, this is what you asked for—</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><scan><通讯框>||:<color=#00CCFF>Father, this is what you asked for—</color>
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_whitenoise</SE1><白屏2>:As Lunasia's consciousness captures her, the white Nyto's pupils dilate sharply. The tray in her hands falls to the ground with a crash...
 ()||<黑屏1><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<黑屏2><SE1>AVG_21Winter_OperatingDisc_Drop</SE1><BIN>566</BIN><CGDelay>0.5</CGDelay>:

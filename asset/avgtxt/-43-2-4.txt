@@ -118,25 +118,25 @@ P7(0)<Speaker>P7</Speaker>||:Look, over there!
 VectorAgent(0)<Speaker>???</Speaker>||:Are you alright?
 P7(0)<Speaker>P7</Speaker>||<BGM>GF_xDivision_Scene2</BGM>:Vivi? It's Vivi! 556, Vivi saved us!
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:Is-is that really you, Vivi?! Thank goodness! We didn't know you were playing too!+Speaking of which, what's with that outfit of yours...?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like you're alright, Agents.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like you're alright, Agents.</color>
 P7(0)<Speaker>P7</Speaker>||:Dima! Where the hell were you?! We got into so much crap because you didn't warn us!
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>I've brought a new agent, haven't I? That should help a little, right?</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>I've brought a new agent, haven't I? That should help a little, right?</color>
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:What do you mean "a little"? If Vivi teams up with us, winning will be a cinch!
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Is she really that amazing?</color>+<color=#00CCFF>Looks like I backed the right horse, then.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Is she really that amazing?</color>+<color=#00CCFF>Looks like I backed the right horse, then.</color>
 P7(0)<Speaker>P7</Speaker>||:This NPC keeps saying weird things, doesn't she? +Right, Vivi, let's team up. You can't just leave us to face the enemy alone on such a cold night, can you?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Don't you two already have a team?</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Don't you two already have a team?</color>
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:Silence, NPC!
 VectorAgent(0)<Speaker>Vector?</Speaker>;ART556(0)<Position>0,40</Position>||:Sorry, but I prefer to work alone.
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:(Sighs) Well, that's a shame. If you were willing to join us, I'm sure we could give those "criminals" a good smackdown.
 ()<Speaker>???</Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:...Obey...
 P7(0)<Speaker>P7</Speaker>||:Huh, did you guys hear that?
 P7(0);ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:Sounded like...a radio transmission.+Did you say something just now, Dima?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;ART556(0)<Position>0,40</Position>||:<color=#00CCFF>No...</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;ART556(0)<Position>0,40</Position>||:<color=#00CCFF>No...</color>
 VectorAgent(0)<Speaker>Vector?</Speaker>;ART556(0)<Position>0,40</Position>||:Hang on, take cover!
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||<SE1>ClothingUp</SE1>:Eeehhhhhh?! W-what now?
 P7(0)<Speaker>P7</Speaker>||<SE1>ClothingUp</SE1>:Whoa, why are the three of us squeezing behind the same piece of cover?!
 ()<Speaker>???</Speaker>||<SE1>AVG_whitenoise</SE1>:...Must...obey.+If you refuse...
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>...!</color>+<color=#00CCFF>This is bad, it's... You guys...hurry up and...!</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>...!</color>+<color=#00CCFF>This is bad, it's... You guys...hurry up and...!</color>
 ART556(0)<Speaker>ART556</Speaker><Position>0,40</Position>||:It's who? Hey, did the signal cut out?+Seriously, at a time like this...mmmmppph!
 ()<Speaker></Speaker>||:Just as ART556 is about to launch into a round of complaints, Vector claps a hand over her mouth. Outside the cover, another figure steps off the road and approaches them.
 HK416(6)<Speaker>???</Speaker>||<BGM>GF_xDivision_Scene3</BGM>:...

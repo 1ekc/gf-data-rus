@@ -101,7 +101,7 @@ ColtWalker(1)<Speaker>Maggie</Speaker>||:...Don't worry, if she can't handle the
 ()||<SE2>Gunfight</SE2>:Bang-bang-bang!!
 ()||<SE1>RunStep</SE1>:The gunshots draw ever closer, followed by chaotic footsteps. +The two Dolls can almost feel their hearts lurch—
 Erma(1)<Speaker>Erma</Speaker>||:Lyu—
-AR18(2)<Position>0,70</Position><通讯框><Speaker>Lyudmila</Speaker>||:<color=#00CCFF>Weigh anchor.</color>
+AR18(2)<Position>0,70</Position><scan><通讯框><Speaker>Lyudmila</Speaker>||:<color=#00CCFF>Weigh anchor.</color>
 ()||:Whoosh— +Maggie and Erma shoot each other a quick glance.
 ()||<SE1>AVG_BaseDoor_Open</SE1>:Without any hesitation, Maggie opens the door with her key. +Lyudmila rolls into the dining carriage in the same second.
 ()||<SE1>AVG_BaseDoor_Close</SE1>:Clang. +Wasting no time, Maggie locks the door again right away. She executes the whole sequence of maneuvers so smoothly, none of the gunshots have made it through the door.

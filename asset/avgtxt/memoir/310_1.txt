@@ -82,9 +82,9 @@ RexZero1(0)<Speaker>Rex Zero 1</Speaker>||<BGM>BGM_Scar_Morichongfeng</BGM>:Are 
 ()||:The woman's leg is injured, causing her to stumble as she gets up. She doesn't notice it and is relieved as she grabs the necklace and looks at the picture inside.
 NPC-AH400(2)<Scale>1.11</Scale><Position>0,-57</Position><Speaker>Woman</Speaker>||:Thank you! Thank you!
 RexZero1(0)<Speaker>Rex Zero 1</Speaker>||:You're welcome. I was merely passing by. Where do you live? Do you need me to escort you to the hospital?
-M1903(10)<Speaker>Springfield</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What happened, Rex Zero 1?</color>
-RexZero1(0)<Speaker>Rex Zero 1</Speaker>；M1903(10)<通讯框>||:Nothing. Just taught some thug a life lesson.
-M1903(13)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>Sounds like something you'd do. Don't waste too much time, I'll have a vehicle pick you up at your current coordinates.</color>
+M1903(10)<Speaker>Springfield</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What happened, Rex Zero 1?</color>
+RexZero1(0)<Speaker>Rex Zero 1</Speaker>；M1903(10)<scan><通讯框>||:Nothing. Just taught some thug a life lesson.
+M1903(13)<Speaker>Springfield</Speaker><scan><通讯框>||:<color=#00CCFF>Sounds like something you'd do. Don't waste too much time, I'll have a vehicle pick you up at your current coordinates.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:Rex Zero 1 hangs up and looks at the woman in front of her. She's roughly in her thirties, dressed in rags and dirty clothes. If not for this neighborhood being notorious for poverty and disorder, she wouldn't be a worthwhile target by any stretch of the imagination.
 NPC-AH400(2)<Scale>1.11</Scale><Position>0,-57</Position><Speaker>Woman</Speaker>||:It's okay, I... I'm fine.
 NPC-AH400(2)<Scale>1.11</Scale><Position>0,-57</Position><Speaker>Woman</Speaker>||:Thank you so much. I wouldn't have known what to do otherwise. But there is nothing I can thank you with...

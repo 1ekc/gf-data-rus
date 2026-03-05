@@ -44,30 +44,30 @@
 ()<Speaker></Speaker>||:With her hand on the microphone, Type 97S loudly explains this year's Halloween activity and signals its beginning.+She looks to the left, then to the right, while the camera on her hat quietly starts filming.
 97typeS(2)<Speaker>Type 97S</Speaker>||:Hehe, once we get into the spirit of things, I'll arrest the Commander, then I'll—
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. +Her comms radio suddenly goes off.
-56-1type(0)<Speaker>Type 56-1</Speaker><通讯框>||:<color=#00CCFF>Hello, where are you, Hawk?</color>+<color=#00CCFF>The ingredient conveyor belt is jammed and there's a piece of meat that I just can't reach. Can you give me a hand?</color>
+56-1type(0)<Speaker>Type 56-1</Speaker><scan><通讯框>||:<color=#00CCFF>Hello, where are you, Hawk?</color>+<color=#00CCFF>The ingredient conveyor belt is jammed and there's a piece of meat that I just can't reach. Can you give me a hand?</color>
 56-1type(0);97typeS(2)<Speaker>Type 97S</Speaker>||:What? Now?
-56-1type(0)<Speaker>Type 56-1</Speaker><通讯框>;97typeS(2)||:<color=#00CCFF>Yeah, we're about to start cooking dinner and if we don't send the meat over, they'll probably replace it with 64's lapcheungs—</color>
+56-1type(0)<Speaker>Type 56-1</Speaker><scan><通讯框>;97typeS(2)||:<color=#00CCFF>Yeah, we're about to start cooking dinner and if we don't send the meat over, they'll probably replace it with 64's lapcheungs—</color>
 97typeS(2)<Speaker>Type 97S</Speaker>||:I get it! I get it! I'll go over and help you right now for the sake of my stomach!
 ()<Speaker></Speaker>||<黑点1><SE1>AVG_tele_disconnect</SE1>:Type 97S hurriedly accepts Type 56-1's request before she can finish, and rushes over after verifying Type 56-1‘s position.
 ()<Speaker></Speaker>||<BIN>83</BIN><黑点2><Night>:...Half an hour later.
 ()<Speaker></Speaker>||:Type 97S rushes back to the test of courage and runs through the activity area where both groups are taking part in the event.
 97typeS(2)<Speaker>Type 97S</Speaker>||<SE1>AVG_tele_connect</SE1>:Security... No, Model L, I was gone for a while. Did anything happen?
-CETME556(0)<Speaker>Model L</Speaker><通讯框>;97typeS(2)||:<color=#00CCFF>There were some minor nuisances but it was no big deal. I'm with MG3 now.</color>
+CETME556(0)<Speaker>Model L</Speaker><scan><通讯框>;97typeS(2)||:<color=#00CCFF>There were some minor nuisances but it was no big deal. I'm with MG3 now.</color>
 CETME556(0);97typeS(2)<Speaker>Type 97S</Speaker>||:Good. +Oh yes, did you see the Commander come over?
-CETME556(0)<Speaker>Model L</Speaker><通讯框>;97typeS(2)||:<color=#00CCFF>The Commander? Not in our area.</color>
+CETME556(0)<Speaker>Model L</Speaker><scan><通讯框>;97typeS(2)||:<color=#00CCFF>The Commander? Not in our area.</color>
 CETME556(0);97typeS(2)<Speaker>Type 97S</Speaker>||:I see... Alright, then, let me know if anything happens on that front.
-CETME556(0)<Speaker>Model L</Speaker><通讯框>;97typeS(2)||:<color=#00CCFF>Are you referring to the "minor nuisances" or the Commander?</color>
+CETME556(0)<Speaker>Model L</Speaker><scan><通讯框>;97typeS(2)||:<color=#00CCFF>Are you referring to the "minor nuisances" or the Commander?</color>
 97typeS(2)<Speaker>Type 97S</Speaker>||:...Both!
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Type 97S hangs up helplessly and walks through the event area.
 97typeS(2)<Speaker>Type 97S</Speaker>||:It's been a while since the event began. I wonder if the Commander's here yet. +I'll just go take a walk around and see if I can capture anything fun... Who knows, I might run into the Commander too—
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. +Once again, the sound of the comms interrupts Type 97S's monologue.
-80type(0)<Speaker>Type 80</Speaker><通讯框>||:<color=#00CCFF>(Shrieks) Come save me, Hawk!</color>
+80type(0)<Speaker>Type 80</Speaker><scan><通讯框>||:<color=#00CCFF>(Shrieks) Come save me, Hawk!</color>
 80type(0);97typeS(2)<Speaker>Type 97S</Speaker>||:Big Sis 80? What's going on? Calm down and tell me slowly.
-80type(0)<Speaker>Type 80</Speaker><通讯框>||:<color=#00CCFF>(Whimpers) 03 lost her little red book that she used for recording the Commander's words...</color>
+80type(0)<Speaker>Type 80</Speaker><scan><通讯框>||:<color=#00CCFF>(Whimpers) 03 lost her little red book that she used for recording the Commander's words...</color>
 ()<Speaker></Speaker>||:A ripple of unease washes through Type 97S' neural cloud.
-80type(0)<Speaker>Type 80</Speaker><通讯框>||:<color=#00CCFF>03's gone mad...she's dragging me everywhere to look for it! </color>+<color=#00CCFF>I barely managed to get the free time to make this call to you...</color>
+80type(0)<Speaker>Type 80</Speaker><scan><通讯框>||:<color=#00CCFF>03's gone mad...she's dragging me everywhere to look for it! </color>+<color=#00CCFF>I barely managed to get the free time to make this call to you...</color>
 ()<Speaker></Speaker>||:The level of uneasiness rises in Type 97S' neural cloud.
-80type(0)<Speaker>Type 80</Speaker><通讯框>||:<color=#00CCFF>03 said that if we couldn't find it, I'd have to follow her so she can copy down everything the Commander said once again...</color>+<color=#00CCFF>And she was going on about how today was the Hungry Ghost Festival, so we couldn't let the Commander wander outside alone...</color>
+80type(0)<Speaker>Type 80</Speaker><scan><通讯框>||:<color=#00CCFF>03 said that if we couldn't find it, I'd have to follow her so she can copy down everything the Commander said once again...</color>+<color=#00CCFF>And she was going on about how today was the Hungry Ghost Festival, so we couldn't let the Commander wander outside alone...</color>
 97typeS(2)<Speaker>Type 97S</Speaker>||<震屏>:Th-th-that can't be allowed to happen! +I...I'll go help 03 look for that book! You two, wait for me!
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Type 97S hangs up and races off toward Type 80 and Type 03's position with the speed of a wildfire.
 97typeS(2)<Speaker>Type 97S</Speaker>||<黑点1>:I can't let the Commander end up with that 03! Otherwise the Commander won't be able to leave all night!
@@ -78,9 +78,9 @@ CETME556(0)<Speaker>Model L</Speaker><通讯框>;97typeS(2)||:<color=#00CCFF>Are
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. +Her comms ring again, and now Type 97S' neural cloud is start to ache.
 97typeS(2)<Speaker>Type 97S</Speaker>||<震屏>:What is it now? Who lost what this time?! Or did something get stuck in a machine again?! +Don't bother me anymore! I don't care if it's salty lapcheungs, I'll just eat them—!
 ()<Speaker></Speaker>||:Type 97S roars into her comms. +After a brief period of silence, a voice comes from the other side.
-MG3(4)<Speaker>MG3</Speaker><通讯框>||:<color=#00CCFF>Uh...Hawk?</color>
+MG3(4)<Speaker>MG3</Speaker><scan><通讯框>||:<color=#00CCFF>Uh...Hawk?</color>
 MG3(4);97typeS(2)<Speaker>Type 97S</Speaker>||:...Ahem, o-oh, it's you, MG3. Sorry, I thought you were...
-MG3(4)<Speaker>MG3</Speaker><通讯框>;97typeS(2)||:<color=#00CCFF>That's okay... Though we have sort of a big problem over by the grove. Could you come over?</color>
+MG3(4)<Speaker>MG3</Speaker><scan><通讯框>;97typeS(2)||:<color=#00CCFF>That's okay... Though we have sort of a big problem over by the grove. Could you come over?</color>
 97typeS(2)<Speaker>Type 97S</Speaker>||<黑点1><SE1>AVG_tele_disconnect</SE1>:Hm? A problem at the test of courage? +Understood, I'll be right there!
 ()<Speaker></Speaker>||<BIN>1</BIN><黑点2><Night>:...Ten minutes later. +Near a certain patch of shrubbery on the Griffin base.
 MG3(4)<Speaker>MG3</Speaker>||:Huh, your Halloween outfit is pretty special, M870.

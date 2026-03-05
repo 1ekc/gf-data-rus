@@ -1,17 +1,17 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<BIN>187</BIN><黑屏2><BGM>m_va_digital_drive</BGM>:...The chase continues, with Dana and Architect's cars neck to neck. The White Knights are behind them.
-SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>Dana! Ahead of you! It's a cliff!</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:<color=#00CCFF>Hehe, you just won't let me go, will you?</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>||:<color=#00CCFF>Of course, you're my final prey — Can you hold on tighter, shorty?</color>
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||<震屏>:<color=#00CCFF>What what what what what are you going to do!?</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Exactly what you have in mind! That's right, you guessed it!</color>
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>I told you there's a cliff up ahead! Are you insane!?</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>You're a Doll, so what if you get broken in the fall?</color>
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>I'm worried about YOU! Who's going to get me out of here after this!?</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>||:<color=#00CCFF>Don't worry, I know what I'm doing! Hang on!</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||:<color=#00CCFF>Still not going to brake, human? I'll bet three backup bodies that my reflexes are faster than yours, and I can afford that bet too!</color>
-Dana(0)<Speaker>Dana</Speaker><通讯框>||:<color=#00CCFF>I agree, you'll definitely beat me in a game of chicken...</color> +<color=#00CCFF>But I don't intend to brake.</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>||<黑屏1><震屏>:<color=#00CCFF>What—!?</color>
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><scan><通讯框>||:<color=#00CCFF>Dana! Ahead of you! It's a cliff!</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||:<color=#00CCFF>Hehe, you just won't let me go, will you?</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>||:<color=#00CCFF>Of course, you're my final prey — Can you hold on tighter, shorty?</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><scan><通讯框>||<震屏>:<color=#00CCFF>What what what what what are you going to do!?</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>;SuperShorty(0)||:<color=#00CCFF>Exactly what you have in mind! That's right, you guessed it!</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><scan><通讯框>||:<color=#00CCFF>I told you there's a cliff up ahead! Are you insane!?</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>;SuperShorty(0)||:<color=#00CCFF>You're a Doll, so what if you get broken in the fall?</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><scan><通讯框>||:<color=#00CCFF>I'm worried about YOU! Who's going to get me out of here after this!?</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>||:<color=#00CCFF>Don't worry, I know what I'm doing! Hang on!</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||:<color=#00CCFF>Still not going to brake, human? I'll bet three backup bodies that my reflexes are faster than yours, and I can afford that bet too!</color>
+Dana(0)<Speaker>Dana</Speaker><scan><通讯框>||:<color=#00CCFF>I agree, you'll definitely beat me in a game of chicken...</color> +<color=#00CCFF>But I don't intend to brake.</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>||<黑屏1><震屏>:<color=#00CCFF>What—!?</color>
 ()<Speaker>Dana</Speaker>||<BIN>9</BIN><黑屏2>:Darling— +Are you ready to go to hell with me?
 ()<Speaker>Super-Shorty</Speaker>||:AAAAAAAHHHHHHHH!
 ()<Speaker></Speaker>||:...Bang! +Dana's car crashes into Architect's, and both vehicles plunge off the cliff together.

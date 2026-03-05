@@ -21,7 +21,7 @@ NPC-Scalper(0);ColtWalker(3)<Speaker>Maggie</Speaker>||:Right now.
 NPC-Scalper(3)<Speaker>Catherine</Speaker>;ColtWalker(3)||:Ah... So how should we begin?
 ColtWalker(3)<Speaker>Maggie</Speaker>||:We'll know tomorrow. So far, our client has only given us a name for the job, "Casino Royale", and an anonymous call.
 ()||<SE1>AVG_tele_connect</SE1>:Click— +Maggie replays that untraceable call.
-()<Speaker>Серый</Speaker><通讯框>||:<color=#00CCFF>Your interview will be at 9am tomorrow at the following coordinates.</color>
+()<Speaker>Серый</Speaker><scan><通讯框>||:<color=#00CCFF>Your interview will be at 9am tomorrow at the following coordinates.</color>
 NPC-Scalper(3)<Speaker>Catherine</Speaker>||:It really is untraceable...
 NPC-Scalper(3);ColtWalker(3)<Speaker>Maggie</Speaker>||:We haven't come up against someone like this in a long time.
 NPC-Scalper(3)<Speaker>Catherine</Speaker>;ColtWalker(3)||:Anyone who can take care of the Vory that easily... is definitely no pushover... +Good grief, out of the frying pan and into the fire.
@@ -68,55 +68,55 @@ NPC-Leone(0)<Speaker>Client</Speaker>||:... +Very well.
 ColtWalker(1)<Speaker>Maggie</Speaker>||:In that case—
 ()||<SE1>AVG_Applause</SE1>:Clap, clap, clap—
 ()||<BGM>BGM_Empty</BGM><Night>:A round of applause reaches her ears, and the power within the room briefly cuts out. +By the time Maggie acclimates to the darkness, Leone is gone. +In its place is a three-dimensional hologram that glows in the dark.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>||<BGM>GF_22W_BGM_1</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Greetings, Miss Maggie.</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Mrs. "Gray", I presume?
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>Aren't you going to use the same trick on me?</color> +<color=#00CCFF>Analyze my voiceprint and use my appearance to verify my identity?</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Nah. +I doubt it'll work on you anyway. +Or rather, the "Mrs. Gray" I'd find wouldn't be the real you.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>I like intelligent people who know their limits, Miss Maggie Ponzi.</color> +<color=#00CCFF>Or should I say, Miss Maggie Ponzi's Doll assistant?</color>
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>||<BGM>GF_22W_BGM_1</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Greetings, Miss Maggie.</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Mrs. "Gray", I presume?
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>Aren't you going to use the same trick on me?</color> +<color=#00CCFF>Analyze my voiceprint and use my appearance to verify my identity?</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Nah. +I doubt it'll work on you anyway. +Or rather, the "Mrs. Gray" I'd find wouldn't be the real you.
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>I like intelligent people who know their limits, Miss Maggie Ponzi.</color> +<color=#00CCFF>Or should I say, Miss Maggie Ponzi's Doll assistant?</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>||:...
 ()||<SE1>ClothingUp</SE1>:The finger Maggie is lightly tapping on the sofa freezes.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>||:<color=#00CCFF>Don't worry, your background is to your advantage.</color> +<color=#00CCFF>At first, I had my doubts about the deception skills of a Doll, but after learning you were one of the Dolls working for the Fox Sisterhood, I began looking forward to your performance.</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:I thought nobody remembered the Fox Sisterhood anymore.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>Humans have forgotten too many things that they should not have.</color> +<color=#00CCFF>I heard they vanished after WWIII.</color> +<color=#00CCFF>To think I'd get to meet someone from that organization today.</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:No wonder you agreed to rescue Catherine so readily.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>I have always been generous to people of worth.</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:So, what else is there, other than my background as part of the Fox Sisterhood? +What is it about us that you find worthwhile?
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>||:<color=#00CCFF>I can always rest easy when speaking with intelligent people.</color>
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>||:<color=#00CCFF>Don't worry, your background is to your advantage.</color> +<color=#00CCFF>At first, I had my doubts about the deception skills of a Doll, but after learning you were one of the Dolls working for the Fox Sisterhood, I began looking forward to your performance.</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:I thought nobody remembered the Fox Sisterhood anymore.
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>Humans have forgotten too many things that they should not have.</color> +<color=#00CCFF>I heard they vanished after WWIII.</color> +<color=#00CCFF>To think I'd get to meet someone from that organization today.</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:No wonder you agreed to rescue Catherine so readily.
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>I have always been generous to people of worth.</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:So, what else is there, other than my background as part of the Fox Sisterhood? +What is it about us that you find worthwhile?
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>||:<color=#00CCFF>I can always rest easy when speaking with intelligent people.</color>
 ()||<SE1>AVG_footsteps_cave</SE1>:Mrs. Gray rises slowly and steps away from the camera before returning shortly afterwards with a cup of coffee.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>That would be the Project Tequila you're helming, or let's be frank here, would it be better to call it the Tequila Scam?</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:...
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>That's why the Vory chased you all over the city, isn't it?</color>
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>That would be the Project Tequila you're helming, or let's be frank here, would it be better to call it the Tequila Scam?</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:...
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>That's why the Vory chased you all over the city, isn't it?</color>
 ColtWalker(1)<Speaker>Maggie</Speaker>||:Oh dear, we've been found out.
 ()||<SE1>AVG_File_Put</SE1>:Maggie chuckles and makes a show of leaning back against the sofa and crossing one leg over the other.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>||:<color=#00CCFF>I have to admit, the idea of the scam does fascinate me.</color> +<color=#00CCFF>Although Ponzi schemes are a relatively old ruse, you made them flower again, Miss Maggie.</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:You flatter me, but that particular project has been wrapped up. If you're interested, I could rehash that idea and—
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>No.</color> +<color=#00CCFF>I want this project.</color>
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>||:<color=#00CCFF>I have to admit, the idea of the scam does fascinate me.</color> +<color=#00CCFF>Although Ponzi schemes are a relatively old ruse, you made them flower again, Miss Maggie.</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:You flatter me, but that particular project has been wrapped up. If you're interested, I could rehash that idea and—
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>No.</color> +<color=#00CCFF>I want this project.</color>
 ColtWalker(4)<Speaker>Maggie</Speaker>||:...Please elaborate.
 ()||<SE1>ClothingUp</SE1>:The subject keeps shifting beyond her expectations, Maggie can't help but sit up straight again.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>||:<color=#00CCFF>"With the frequent outbreaks of wars, a well-known scientist hides behind the scenes, using the power of Relics to develop dirty bombs."</color> +<color=#00CCFF>The reason why Project Tequila is a scam is because none of that is true.</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:...
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>||:<color=#00CCFF>But I can make it come true.</color>
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>||:<color=#00CCFF>"With the frequent outbreaks of wars, a well-known scientist hides behind the scenes, using the power of Relics to develop dirty bombs."</color> +<color=#00CCFF>The reason why Project Tequila is a scam is because none of that is true.</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:...
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>||:<color=#00CCFF>But I can make it come true.</color>
 ()||:Maggie ponders Gray's words. Just the funds and resources needed to make that scam come true is enough to send a chill down her spine.
 ColtWalker(3)<Speaker>Maggie</Speaker>||:You're going to such great lengths just to make a shell company legit?
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>This is only the beginning.</color> +<color=#00CCFF>From now on, there will be no Tequila Manufacturing, only a subsidiary of Galatea Corporation.</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Galatea... +So you were interested in the list of investors for Project Tequila.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>That is only the first step of the assignment.</color>
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>This is only the beginning.</color> +<color=#00CCFF>From now on, there will be no Tequila Manufacturing, only a subsidiary of Galatea Corporation.</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Galatea... +So you were interested in the list of investors for Project Tequila.
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>That is only the first step of the assignment.</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>||:... +Let me guess, here comes the important part of the job?
 ()||<BGM>BGM_Empty</BGM>:Mrs. Gray smiles.
 ()||<SE1>AVG_Shield_Startup</SE1>:A hitherto-dormant screen lights up in front of Maggie.
 ()||<BGM>GF_22W_BGM_2</BGM>:On it is the entire Eurasian landmass. Apart from national borders, the only thing it displays is a legend showing regions of ELID contamination intensity. +The map is covered in red, yellow, and green, with the occasional bit of black speckled on it.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>||:<color=#00CCFF>Before 2030, this world was tightly linked.</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Indeed, the Beilan Island incident changed everything.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>After that, mankind split into two factions, those who supported the reunification of the world, and those who opposed it and wanted to preserve the status quo.</color>
-NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Humanity loves to argue, and where there is an argument, you have people taking sides.
-NPC-MrsGray(0)<Speaker>Серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>Well said. However, taking sides is a privilege of those in power.</color> +<color=#00CCFF>Most people, like myself, for example, simply wish to make the biggest profit we can.</color>
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>||:<color=#00CCFF>Before 2030, this world was tightly linked.</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Indeed, the Beilan Island incident changed everything.
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>After that, mankind split into two factions, those who supported the reunification of the world, and those who opposed it and wanted to preserve the status quo.</color>
+NPC-MrsGray(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Humanity loves to argue, and where there is an argument, you have people taking sides.
+NPC-MrsGray(0)<Speaker>Серый</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>Well said. However, taking sides is a privilege of those in power.</color> +<color=#00CCFF>Most people, like myself, for example, simply wish to make the biggest profit we can.</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>||<黑屏1>:You are a shrewd businesswoman.
 ()||<SE1>AVG_NightVision_Start</SE1><黑屏2><BIN>536</BIN>:A point of light travels from one end of the continent to another, a meandering line that penetrates all of Eurasia. +The contaminated zones in its way do not hinder it in the least.
 ()<Speaker>Серый</Speaker>||:<color=#00CCFF>And now, a great profit lies before us.</color> +<color=#00CCFF>The Siberian Lifeline is reopening, and I need an agent.</color>
 ()<Speaker>Maggie</Speaker>||:You mean... the Intercontinental Railway is starting up again?
 ()<Speaker>Серый</Speaker>||:<color=#00CCFF>Yes, the Intercontinental Railway that spans all of Eurasia, passes through the contaminated zones and connects Germany and Russia.</color>
 ()<Speaker>Maggie</Speaker>||:...What a grand miracle. +So, what do you need me to do for this massive engineering project?
-()<Speaker>Серый</Speaker><通讯框>||:<color=#00CCFF>I need another miracle.</color>
+()<Speaker>Серый</Speaker><scan><通讯框>||:<color=#00CCFF>I need another miracle.</color>
 ()||:Mrs. Gray smiles dangerously.
 ()<Speaker>Серый</Speaker>||:<color=#00CCFF>A miracle on par with the Intercontinental Railway, but for Dolls.</color>
 ()||<黑屏1><BGM>BGM_Empty</BGM>:

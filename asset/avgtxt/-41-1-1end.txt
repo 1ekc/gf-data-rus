@@ -127,7 +127,7 @@ NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Another thing? +Ah, you mean Anna and th
 NPC-Kalin(0)<Speaker>Commander</Speaker>||:Did Ange say anything?
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Not beyond her first letter, no.
 ()||<黑屏1>:
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>||<BIN>8</BIN><黑屏2><通讯框><回忆><SE1>AVG_tele_connect</SE1>:Commander, I'll make this brief. +I'm still on William's trail and I need your help. +I'll contact you once I've pinpointed our objective. +As for Anna and the other girls, I'll be leaving them in your care.
+NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>||<BIN>8</BIN><黑屏2><scan><通讯框><回忆><SE1>AVG_tele_connect</SE1>:Commander, I'll make this brief. +I'm still on William's trail and I need your help. +I'll contact you once I've pinpointed our objective. +As for Anna and the other girls, I'll be leaving them in your care.
 ()||<黑屏1><SE1>AVG_tele_disconnect</SE1>:
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏2><关闭蒙版>:Maybe we'll hear from her tomorrow. That means we'll be busy... +So get some rest, Commander! The base still has me. We'll be fine.
 NPC-Kalin(0)<Speaker>Commander</Speaker>||:Really now... To be honest, I can't relax at all knowing that we've got so many dangerous things inside our base.
@@ -138,7 +138,7 @@ NPC-Kalin(4)<Speaker>Commander</Speaker>||:Then what's got you worried?
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:I mean, is it really okay for her to be in your office? What if she does something to you...
 NPC-Kalin(4)<Speaker>Commander</Speaker>||:Good point. Shall we have her go to your office, then?
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Er... I'm not very comfortable being around her.
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>;NPC-Kalin(4)||<SE1>AVG_tele_connect</SE1>:There is no need to worry, Miss Kalina.
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>;NPC-Kalin(4)||<SE1>AVG_tele_connect</SE1>:There is no need to worry, Miss Kalina.
 NytoIsomer(4);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Holy! Where did that voice come from?!
 NytoIsomer(4)<Speaker>Dandelion</Speaker>;NPC-Kalin(4)||:I am connected to the PA system in your office. Stepping outside is too much trouble so I've decided to communicate with you via this method.
 NytoIsomer(4)<Speaker>Commander</Speaker>;NPC-Kalin(4)||:Didn't you say you weren't going to hack into the base systems?
@@ -155,5 +155,5 @@ NytoIsomer(4)<Speaker>Commander</Speaker>;NPC-Kalin(4)||:Naturally, I'd like to 
 NytoIsomer(4)<Speaker>Dandelion</Speaker>;NPC-Kalin(4)||:The clues will find you soon enough.
 NPC-Kalin(2)<Speaker>Kalina</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Ah, Commander! +We've got a comms request from Mr. Havier. Will you take it?
 NPC-Kalin(2)<Speaker>Commander</Speaker>||:Patch it in.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:Good morning, Commander. You look well. +Is this a good time to talk?
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Good morning, Commander. You look well. +Is this a good time to talk?
 ()||<黑屏1>:

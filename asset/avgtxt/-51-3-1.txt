@@ -37,23 +37,23 @@ NPC-MrsGray(9)<Speaker>Gray</Speaker>||:...I see.
 ()<Speaker></Speaker>||<BGM>GF_22W_BGM_2</BGM><黑屏2><BIN>357</BIN><SE1>AVG_tele_connect</SE1>:At a temporary safe house near Berlin Airport. +The Commander connects to the Aeneas conference room. +...Identity verified, please input your login password.
 ()<Speaker></Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:Password accepted. Connecting... +You have successfully logged on to the Operation Aeneas Conference Room.
 ()<Speaker>Commander</Speaker>||:Are there any new developments concerning our target?
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Commander, Morridow's signal is on the move.</color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Excellent. Let's sync up our information.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Roger.</color> +<color=#00CCFF>Both members of Squad Umbrella are present. We're watching the target.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Both members of Squad Unicorn are in position, ready to assist Squad Umbrella during ops.</color>
-SP9(0)<Speaker>Mona</Speaker><通讯框>||:<color=#00CCFF>All three members of Squad Nitrogen are in position. En route to the objective.</color>
-BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:<color=#00CCFF>Both members of Squad Ferrum are in position. Standing by for further instructions.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>I've already shared the regional offline map, Paradeus-related information and security contact frequencies with everyone.</color> +<color=#00CCFF>Everyone should have topped up their ammo and tactical supplies before setting out.</color> +<color=#00CCFF>Total number of Operation Aeneas personnel that have been gathered is 9/12.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, Morridow's signal is on the move.</color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Excellent. Let's sync up our information.
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Roger.</color> +<color=#00CCFF>Both members of Squad Umbrella are present. We're watching the target.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Both members of Squad Unicorn are in position, ready to assist Squad Umbrella during ops.</color>
+SP9(0)<Speaker>Mona</Speaker><scan><通讯框>||:<color=#00CCFF>All three members of Squad Nitrogen are in position. En route to the objective.</color>
+BOSS-7(0)<Speaker>Gager</Speaker><scan><通讯框>||:<color=#00CCFF>Both members of Squad Ferrum are in position. Standing by for further instructions.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>I've already shared the regional offline map, Paradeus-related information and security contact frequencies with everyone.</color> +<color=#00CCFF>Everyone should have topped up their ammo and tactical supplies before setting out.</color> +<color=#00CCFF>Total number of Operation Aeneas personnel that have been gathered is 9/12.</color>
 ()<Speaker>Commander</Speaker>||:We can't wait for the rest of the team to assemble since the target has already started moving. I'll inform RO about how to incorporate the forthcoming team members. +Please remember the mission requirements—speed and stealth.
 ()<Speaker>Commander</Speaker>||:Right now, we are an unexpected dagger to the enemy's heart.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:I'll confirm the mission status with everyone again. +Operation Aeneas is a raid with two objectives—+1. To rescue Angelia. Contact me immediately if anything goes wrong. +2. To get a grasp of enemy structures and units within the "Dead Sea".
 ()<Speaker>Commander</Speaker>||:Dandelion will ensure this conference room remains accessible. +I'll provide assistance if you need anything.
 ()<Speaker>Commander</Speaker>||:But I won't be on the frontlines, RO.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Roger. </color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:You're the leader of this operation, so you have the responsibility of making decisions.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>...I won't let you down.</color> +<color=#00CCFF>Is there anything else you'd like to remind us about, Commander?</color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Also, I mentioned something about support earlier—Persica has sent "Chessmaster" over. +Upload every location you find here immediately. That way, Chessmaster can extrapolate the objective's location through already-known coordinates.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Understood. We'll link up with her ASAP.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Roger. </color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:You're the leader of this operation, so you have the responsibility of making decisions.
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>...I won't let you down.</color> +<color=#00CCFF>Is there anything else you'd like to remind us about, Commander?</color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Also, I mentioned something about support earlier—Persica has sent "Chessmaster" over. +Upload every location you find here immediately. That way, Chessmaster can extrapolate the objective's location through already-known coordinates.
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Understood. We'll link up with her ASAP.</color>
 ()<Speaker>Commander</Speaker>||:Right. Any other questions?
 ()<Speaker></Speaker>||:After a brief silence, the Commander speaks again.
 ()<Speaker>Commander</Speaker>||:Alright. We will now officially commence Operation Aeneas.

@@ -47,9 +47,9 @@ NPC-Keven(2)<Speaker>J</Speaker>||:That's strange, wasn't she guarding the ward?
 AN94(2)<Speaker>AN-94</Speaker>||:A-Ange!
 NPC-Ange(7)<Speaker>Ange</Speaker>||:What is it?
 AN94(2)<Speaker>AN-94</Speaker>||:It's RPK!
-RPK16(3)<Speaker>RPK-16</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Ange.</color>
-NPC-Ange(7)<Speaker>Ange</Speaker>;RPK16(3)<通讯框>||:What happened? Where are you? Is Leone safe?
-NPC-Ange(7);RPK16(3)<Speaker>RPK-16</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>I'm sorry.</color>
+RPK16(3)<Speaker>RPK-16</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Ange.</color>
+NPC-Ange(7)<Speaker>Ange</Speaker>;RPK16(3)<scan><通讯框>||:What happened? Where are you? Is Leone safe?
+NPC-Ange(7);RPK16(3)<Speaker>RPK-16</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>I'm sorry.</color>
 NPC-Ange(7)<Speaker>Ange</Speaker>||:...What?
 ()<Speaker></Speaker>||:...
 ()||<黑点1>:

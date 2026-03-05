@@ -33,7 +33,7 @@ PP90(0)<Speaker>琪亚娜</Speaker>||:唔……是呢，毕竟是她们跑到别
 Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:……？
 ()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:…………半小时后，在禁地与德丽莎取得联系。
 德丽莎()<Speaker>德丽莎</Speaker>||<黑屏1>:不行！当然不行啦！
-Theresa(0)<Speaker>德丽莎</Speaker><通讯框>||<BGM>GF_xBH2_Menu</BGM><BIN>10</BIN><黑屏2>:本小姐是绝！对！不会放弃研究的！
+Theresa(0)<Speaker>德丽莎</Speaker><scan><通讯框>||<BGM>GF_xBH2_Menu</BGM><BIN>10</BIN><黑屏2>:本小姐是绝！对！不会放弃研究的！
 Theresa(0)<Speaker>琪亚娜</Speaker>||:这个时候就不要管什么研究啦！
 Theresa(0)<Speaker>德丽莎</Speaker>||:琪亚娜，见到你平安无事我是很高兴啦。+虽然也没那么高兴，毕竟这地方也不算很危险，没事是理所当然的。
 Vector(0)<Speaker>Vector</Speaker>;Theresa(0)||:你们这个组织，都是这么奇怪的家伙吗？

@@ -1,9 +1,9 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:The building isn't as bright and spacious as I thought. Quite the contrary, it's pitch dark. Not a ray of sunlight penetrates into the construction; I can't even orient myself. +If it weren't for the solid surface beneath my feet, I wouldn't even be sure I'm actually standing on the ground.
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Kalina, could you scan this area?</color>
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>It seems to be a subspace in the database. Access authorizations seem to be a bit jumbled and some pre-established subroutines have been written into the program...</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>It seems to be a subspace in the database. Access authorizations seem to be a bit jumbled and some pre-established subroutines have been written into the program...</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Uh... In a language I can understand please?</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>That is to say, it's like walking into an opera. Everything is written and pre-arranged.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>That is to say, it's like walking into an opera. Everything is written and pre-arranged.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Opera, huh...</color>
 ()<Speaker>Commander</Speaker>||:Henrietta? +Are you still here?
 ()||:As if to answer my call, her soft, delicate hand squeezes mine with more force, and she keeps leading me in the same direction. +Even though I still can't see a thing, I feel somewhat more reassured having her with me.
@@ -29,11 +29,11 @@ Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:What are you talking about, Sig
 ()||:I take in my surroundings. Cano and I are standing in a street. +There are no reflective glasses or digital displays, just the solid austerity that's characteristic of architecture in the olden days. Other than the sun, nothing here pierces the eye. +From what I learned in school, this seems to be pre-WWIII Rome. +However, I've lost track of Henrietta. I look around anxiously but can't find her anywhere.
 ()<Speaker>Commander</Speaker>||:... +<size=30>Henrietta?</size>
 ()<Speaker>Henrietta's Voice</Speaker>||:I'm here, Signore Giuseppe. I'm standing right next to you, but I can't seem to touch you or anything here – how strange. +Can you not see me? +This is the first time I've entered someone else's Vita. I wonder if this is supposed to happen...
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Of course! Because of the pre-established subroutine, anyone not in the script is excluded from the scene.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Of course! Because of the pre-established subroutine, anyone not in the script is excluded from the scene.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Then how come I can talk to Cano?</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Your login ID has been automatically changed to the Handler named Marco. Maybe this has something to do with the subroutine as well?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Your login ID has been automatically changed to the Handler named Marco. Maybe this has something to do with the subroutine as well?</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>You mean I'll have to pretend to be another person in here?</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Well... Do your best!</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Well... Do your best!</color>
 ()<Speaker>Henrietta's Voice</Speaker>||:I'm sorry... I volunteered to bring you into Vita, but now I'm completely useless...
 ()<Speaker>Commander</Speaker>||:Don't worry, just stay by my side. It would be great if you could answer whatever questions I have.
 ()<Speaker>Henrietta's Voice</Speaker>||:Umm... Sure! I'll tell you whatever you want to know! You just have to ask, Signore Giuseppe!
@@ -62,13 +62,13 @@ Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Then are we...
 Carcano1891(2)<Speaker>Carcano M1891</Speaker>||:Hooray! Thank youuuuuu, Signore Marco!
 ()||:Cano runs out of the office cheering. +I've been reading and re-reading this story, hoping to find something while I skip through moments, but I remain disappointed. +Cano's memories show no sign of returning, and I haven't caught even a glimpse of Angelica, the original owner of this Vita. +Angelica isn't on the list of Cyborgs who work under the Agency. All records of her have been replaced by Cano. Still, despite the lack of result from my investigation, I did find a lot more information about the Agency and their Cyborgs.
 ()<Speaker>Commander</Speaker>||:<color=#A9A9A9>Cyborgs can't hope to compare with T-Dolls when it comes to combat capabilities. Through augmentation, they can only make the girls about as strong as the average adult man, though I suppose that's enough for a special service organization who needs to keep a low profile...</color> +<color=#A9A9A9>However, it's still very inhumane. They drastically reduce the girls' lifespan and even brainwash them. They take everything away from them but give them a first-class living environment as if out of magnanimity. What on earth are they thinking at this Agency?</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Commander, can you hear me?</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, can you hear me?</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Anything new?</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>I've been studying the subroutines in there. It seems that only the corresponding authorized user can alter the program.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>I've been studying the subroutines in there. It seems that only the corresponding authorized user can alter the program.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>You can't do it from outside?</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>My access keeps being denied. I think in order to solve the problem, you must first find this girl called Angelica.</color> +<color=#00CCFF>A story is unfolding by the script in there. If you let it run its course, the subroutine will eventually lose effect.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>My access keeps being denied. I think in order to solve the problem, you must first find this girl called Angelica.</color> +<color=#00CCFF>A story is unfolding by the script in there. If you let it run its course, the subroutine will eventually lose effect.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>So I have to let the whole thing play out and guide it to the scripted ending...?</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>That seems to be the case.</color> +<color=#00CCFF>I don't know why Cano has replaced Angelica in this story, but as long as she's still in there as a character of the play, you're bound to run into her at some point.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>That seems to be the case.</color> +<color=#00CCFF>I don't know why Cano has replaced Angelica in this story, but as long as she's still in there as a character of the play, you're bound to run into her at some point.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>How can you be so sure?</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Because it's a story. As the original main character, she's got to make an appearance sooner or later. That's the rule that all stories must abide by.</color>
+NPC-Kalin(3)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Because it's a story. As the original main character, she's got to make an appearance sooner or later. That's the rule that all stories must abide by.</color>
 ()<Speaker>Commander</Speaker>||<黑屏1>:<color=#00CCFF>That explanation sounds way too meta... Anyway, I'll give it a try.</color>

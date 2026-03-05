@@ -9,24 +9,24 @@
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><黑屏2><BIN>159</BIN>:The Commander turns off the loud news report and stands up from where they have been resting.
 ()<Speaker></Speaker>||<SE1>AVG_Into_stone</SE1>:Crack... The rubble lets out a groan beneath their feet as they try not to dwell on what this scene of devastation used to look like and instead focus on the mission at hand.
-NPC-Purin(0)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><通讯框>||:<color=#00CCFF>Are you ready?</color>
-NPC-Purin(0)<Speaker>Commander</Speaker><Position>-50,50</Position><通讯框><同时置暗>||:Yeah.
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We have entered Simulation Sector 2Z64. Ready to rendezvous with 433.</color>
-NPC-Purin(0)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><通讯框>||:<color=#00CCFF>Then you simply have to release the virus to break the seal on the Dolls' memories, and their consciousnesses will disconnect from Sector 2Z64.</color>+<color=#00CCFF>Once the Dolls' consciousnesses return to their bodies in reality, it'll be up to you to lead them in putting an end to all this.</color>
-NPC-Purin(0)<Speaker>Commander</Speaker><Position>-50,50</Position><通讯框><同时置暗>||:...Copy that.+I'm leaving the virtual space to you. I'll handle the clean-up in reality.
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||:<color=#00CCFF>Commander, are things going well on your end?</color>
-NPC-BoysAntiTank(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Yes, I've locked onto the signals of the Dolls' bodies.+I'll launch the attack the moment you make your move.
+NPC-Purin(0)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><scan><通讯框>||:<color=#00CCFF>Are you ready?</color>
+NPC-Purin(0)<Speaker>Commander</Speaker><Position>-50,50</Position><scan><通讯框><同时置暗>||:Yeah.
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We have entered Simulation Sector 2Z64. Ready to rendezvous with 433.</color>
+NPC-Purin(0)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><scan><通讯框>||:<color=#00CCFF>Then you simply have to release the virus to break the seal on the Dolls' memories, and their consciousnesses will disconnect from Sector 2Z64.</color>+<color=#00CCFF>Once the Dolls' consciousnesses return to their bodies in reality, it'll be up to you to lead them in putting an end to all this.</color>
+NPC-Purin(0)<Speaker>Commander</Speaker><Position>-50,50</Position><scan><通讯框><同时置暗>||:...Copy that.+I'm leaving the virtual space to you. I'll handle the clean-up in reality.
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, are things going well on your end?</color>
+NPC-BoysAntiTank(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Yes, I've locked onto the signals of the Dolls' bodies.+I'll launch the attack the moment you make your move.
 ()<Speaker></Speaker>||:The two prosthetic Dummies built by Purin stand quietly behind the Commander. A comforting presence.
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||:<color=#00CCFF>Understood.</color>
-NPC-BoysAntiTank(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Boys, you sound a bit nervous.
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||:<color=#00CCFF>Yeah... According to Purin, Simulation Sector 2Z64 is pretty much indistinguishable from the real world for Dolls.</color>+<color=#00CCFF>I'm very worried I'd also lose myself within, just like the others.</color>
-NPC-BoysAntiTank(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:I will guide you all back to reality.
-NPC-Purin(0)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><通讯框>||:<color=#00CCFF>Just to reiterate—Simulation Sector 2Z64 is not the real world, but a world entirely of "his" own devising. Do not rely on common sense too much when you're inside.</color>
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||:<color=#00CCFF>Understood.</color>
+NPC-BoysAntiTank(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Boys, you sound a bit nervous.
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||:<color=#00CCFF>Yeah... According to Purin, Simulation Sector 2Z64 is pretty much indistinguishable from the real world for Dolls.</color>+<color=#00CCFF>I'm very worried I'd also lose myself within, just like the others.</color>
+NPC-BoysAntiTank(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:I will guide you all back to reality.
+NPC-Purin(0)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><scan><通讯框>||:<color=#00CCFF>Just to reiterate—Simulation Sector 2Z64 is not the real world, but a world entirely of "his" own devising. Do not rely on common sense too much when you're inside.</color>
 ()<Speaker>Commander</Speaker>||:Right, I'll bear that in mind.
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||:<color=#00CCFF>We're ready to set up the connection...</color>+<color=#00CCFF>Commander, please, please, please make sure you keep your wits about you.</color>+<color=#00CCFF>You are the only one who can tell what is real.</color>
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||:<color=#00CCFF>We're ready to set up the connection...</color>+<color=#00CCFF>Commander, please, please, please make sure you keep your wits about you.</color>+<color=#00CCFF>You are the only one who can tell what is real.</color>
 ()<Speaker>Commander</Speaker>||:Let's begin the operation.
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||:<color=#00CCFF>Roger.</color>
-NPC-Purin(0)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><通讯框>||:<color=#00CCFF>Alright!</color>
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||:<color=#00CCFF>Roger.</color>
+NPC-Purin(0)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><scan><通讯框>||:<color=#00CCFF>Alright!</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><黑屏2>:A familiar place with a familiar entrance, but the Commander enters with as much trepidation as they did the first time.+Area S09's sign is still welded firmly on the dilapidated wall. Looks like Kalina did a fantastic job on the repairs years ago.
 ()<Speaker>Commander</Speaker>||:I'm back.
@@ -34,9 +34,9 @@ NPC-Purin(0)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position><通讯框>
 ()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:After muttering a greeting to the doorless entrance, the Commander steps inside a place they once called home with the two Dummies.
 ()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
 ()<Speaker>Commander</Speaker>||<common_effect>%%code=CJ_WC_piaofu%%</common_effect><黑屏2><BIN>267</BIN><SE1>AVG_tele_connect</SE1>:I have reached the target location.
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||:<color=#00CCFF>We have rendezvoused with 433, now making our way to the destination.</color>
-NPC-BoysAntiTank(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Right, stay vigilant.+I will now try to approach the Doll frames starting from the outside.
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||:<color=#00CCFF>Understood. Please be very careful.</color>
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||:<color=#00CCFF>We have rendezvoused with 433, now making our way to the destination.</color>
+NPC-BoysAntiTank(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Right, stay vigilant.+I will now try to approach the Doll frames starting from the outside.
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||:<color=#00CCFF>Understood. Please be very careful.</color>
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:The Commander commands the Dummies to split up and scan the abandoned base.
 ()||<黑点1><关闭蒙版>:
 ()<Speaker></Speaker>||<黑点2><BIN>481</BIN><SE1>AVG_footsteps_cave</SE1><SE1>AVG_footsteps_woodfloor</SE1><CGDelay>1</CGDelay>:
@@ -47,7 +47,7 @@ NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||:<color=#00CCFF>
 ()||<黑屏1><CGDelay>1</CGDelay>:
 ()<Speaker></Speaker>||<黑屏2><SE1>AVG_ElecSpace</SE1><BIN>468</BIN>:As the Dummies venture deeper into the Area S09 base, a large number of Doll signals soon appear on the tactical tablet.
 ()<Speaker>Commander</Speaker>||:...Targets confirmed.+I have located the Doll signals. Now attempting to retake command.
-NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>We are also about to—</color>
+NPC-BoysAntiTank(0)<Speaker>Boys AT Rifle</Speaker><scan><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>We are also about to—</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Click.+The line cuts out abruptly.
 ()<Speaker>Commander</Speaker>||:Boys?
 ()<Speaker></Speaker>||:Before the sense of unease can spread, the Doll signals on the tablet become scrambled.

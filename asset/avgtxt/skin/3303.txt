@@ -1,13 +1,13 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>55</BIN><BGM>BGM_Brain</BGM><黑屏2>:...
 AN94(0)<Speaker>AN-94</Speaker>||:Hailing Ange, please respond if you copy. +I have successfully retreated according to Contingency Plan B. The location of the equipment has been uploaded to the shared database. +Should I rendezvous with you? Requesting for further directives.
-AN94(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Copy that. The objective is completed. Withdraw from this sector on your own, AN-94.</color>
+AN94(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that. The objective is completed. Withdraw from this sector on your own, AN-94.</color>
 AN94(0)<Speaker>AN-94</Speaker>;NPC-AngeStreet(0)||:Understood. Right away.
 AN94(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:<color=#00CCFF>After that...</color> +<color=#00CCFF>You're free to do whatever you like.</color>
 AN94(0)<Speaker>AN-94</Speaker>;NPC-AngeStreet(0)||:...Pardon?
 AN94(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:<color=#00CCFF>We've finished our business here, AN-94.</color> +<color=#00CCFF>Now that the mission is accomplished, you two can have a day-off.</color> +<color=#00CCFF>Think of it as a vacation and relax.</color>
 AN94(0)<Speaker>AN-94</Speaker>;NPC-AngeStreet(0)||:But...
-AN94(0);AK12(0)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Isn't it nice to catch a break every now and then, AN-94?</color>
+AN94(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Isn't it nice to catch a break every now and then, AN-94?</color>
 AN94(0)<Speaker>AN-94</Speaker>;AK12(0)||<黑屏1><BGM>BGM_Empty</BGM>:...Da.
 ()<Speaker></Speaker>||<BIN>85</BIN><黑屏2><BGM>BGM_Room</BGM>:...In a certain safe house.
 AK12(0)<Speaker>AK-12</Speaker>||:AN-94.

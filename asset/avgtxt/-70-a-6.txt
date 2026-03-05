@@ -48,49 +48,49 @@ AK15MOD(6)<Speaker>AK-15</Speaker>||:...!
 ()||<黑屏1><CGDelay>0.7</CGDelay>:
 ()<Speaker></Speaker>||<SE1>AVG_Alarm_Distance</SE1><BGM>BGM_23S_Crossroads_Warrior</BGM><黑屏2><BIN>727</BIN><CGDelay>1.4</CGDelay>:
 AK15MOD(3)<Speaker>AK-15</Speaker>||<SE1>AVG_tele_connect</SE1>:...This is AK-15. +I encountered RPK-16 on the Eiserner Steg. +She got away.
-AK15MOD(3);AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>This is AN-94.</color> +<color=#00CCFF>Please give me a summary of your run-in.</color>
-AK15MOD(0)<Speaker>AK-15</Speaker>;AN94MOD(0)<通讯框>||:... +After spotting the target, I engaged her in combat.
+AK15MOD(3);AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>This is AN-94.</color> +<color=#00CCFF>Please give me a summary of your run-in.</color>
+AK15MOD(0)<Speaker>AK-15</Speaker>;AN94MOD(0)<scan><通讯框>||:... +After spotting the target, I engaged her in combat.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:She took advantage of an opening and escaped into the crowd. There were CCTV cameras and Police Dolls everywhere.
 ()<Speaker></Speaker>||<SE1>Rope</SE1>:AK-15's fingers tighten around the piece of dark green fabric half the size of her palm. +It is the only thing that she managed to slice off the woman when the smoke grenade exploded.
-AN94MOD(4)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>You should have notified me the moment you saw her.</color>
-AK15MOD(5)<Speaker>AK-15</Speaker>;AN94MOD(4)<通讯框>||:...Sorry.
-AK15MOD(5);AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Are you injured?</color>
-AK15MOD(0)<Speaker>AK-15</Speaker>;AN94MOD(0)<通讯框>||:No.
-AK15MOD(0);AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Withdraw for now. The police will be alerted if we go after her again.</color>
+AN94MOD(4)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>You should have notified me the moment you saw her.</color>
+AK15MOD(5)<Speaker>AK-15</Speaker>;AN94MOD(4)<scan><通讯框>||:...Sorry.
+AK15MOD(5);AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Are you injured?</color>
+AK15MOD(0)<Speaker>AK-15</Speaker>;AN94MOD(0)<scan><通讯框>||:No.
+AK15MOD(0);AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Withdraw for now. The police will be alerted if we go after her again.</color>
 AK15MOD(0)<Speaker>AK-15</Speaker>||:Right.
 AK15MOD(3)<Speaker>AK-15</Speaker>||<CGDelay>0.6</CGDelay>:
 AK15MOD(5)<Speaker>AK-15</Speaker>||:She's changed a lot.
-AK15MOD(5);AN94MOD(3)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>...15, she is no longer... the RPK-16 that we knew.</color>
-AK15MOD(0)<Speaker>AK-15</Speaker>;AN94MOD(3)<通讯框>||:She said the answer was in her name—Embla Petrovskaya. +What did she mean?
-AK15MOD(0);AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Petrovskaya... is Shaw's real surname.</color>
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>"Samantha Shaw" is just an alias. Her actual name is Yekaterina Vasilievna Petrovskaya.</color>
+AK15MOD(5);AN94MOD(3)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>...15, she is no longer... the RPK-16 that we knew.</color>
+AK15MOD(0)<Speaker>AK-15</Speaker>;AN94MOD(3)<scan><通讯框>||:She said the answer was in her name—Embla Petrovskaya. +What did she mean?
+AK15MOD(0);AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Petrovskaya... is Shaw's real surname.</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>"Samantha Shaw" is just an alias. Her actual name is Yekaterina Vasilievna Petrovskaya.</color>
 AK15MOD(5)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||<CGDelay>0.6</CGDelay>:
 ()||<黑屏1><CGDelay>0.7</CGDelay>:
 ()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><Night>:In a safe house on the outskirts of Frankfurt.
 ()<Speaker></Speaker>||:It is late at night, but the lights are not on. AN-94 is sitting at a desk, calibrating her parts while listening to AK-15 speak through the comms channel with uncharacteristic emotion.
-AK15MOD(0)<Speaker>AK-15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...</color> +<color=#00CCFF>12 never told me... anything about Shaw.</color>
+AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...</color> +<color=#00CCFF>12 never told me... anything about Shaw.</color>
 AN94MOD(0)<Speaker>AN-94</Speaker>；AK15MOD(0)||:She has also changed a great deal after coming back from Avernus.
-AN94MOD(0);AK15MOD(4)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...Why didn't she tell me?</color>
+AN94MOD(0);AK15MOD(4)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...Why didn't she tell me?</color>
 AN94MOD(3)<Speaker>AN-94</Speaker>;AK15MOD(4)||:I think she's having trouble accepting... Ange's death.
-AN94MOD(3);AK15MOD(5)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...</color>
+AN94MOD(3);AK15MOD(5)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 AN94MOD(3)<Speaker>AN-94</Speaker>;AK15MOD(5)||:And RPK-16's betrayal. +She is blaming it all on herself.. +If she hadn't transferred her command authorizations to 16... If she had handed them over to you or me... +Things might have turned out differently.
-AN94MOD(3);AK15MOD(5)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...That's not true.</color>
-AN94MOD(3);AK15MOD(0)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>Nothing will change as long as we still trust her.</color>
+AN94MOD(3);AK15MOD(5)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...That's not true.</color>
+AN94MOD(3);AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>Nothing will change as long as we still trust her.</color>
 AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:You're right. +But that doesn't make her feel any less guilty.
-AK15MOD(3)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...</color>
+AK15MOD(3)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 AN94MOD(0)<Speaker>AN-94</Speaker>||:Because she is our Alpha Wolf. +Give her some time, 15. +One day, she will explain everything to us.
-AN94MOD(0);AK15MOD(4)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>When?</color> +<color=#00CCFF>She was right there when Ange died!</color> +<color=#00CCFF>If it had been me...</color>
+AN94MOD(0);AK15MOD(4)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>When?</color> +<color=#00CCFF>She was right there when Ange died!</color> +<color=#00CCFF>If it had been me...</color>
 AN94MOD(3)<Speaker>AN-94</Speaker>;AK15MOD(4)||:...15.
-AN94MOD(3);AK15MOD(5)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>I don't want a new commander.</color>
+AN94MOD(3);AK15MOD(5)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>I don't want a new commander.</color>
 AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(5)||:...
-AN94MOD(0);AK15MOD(3)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>Or a new partner.</color>
+AN94MOD(0);AK15MOD(3)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>Or a new partner.</color>
 AN94MOD(0)<Speaker>AN-94</Speaker>||:...Well, we're all on the same page about that. +I met with StateSec at the Neo-Soviet embassy today. They told us to keep a low profile. +We are to stand by and wait for further directives.
-AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>We are Task Force DEFY.</color>
+AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>We are Task Force DEFY.</color>
 AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:Yes, 12 said the same thing.
-AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...What actually happened to Shaw?</color>
+AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...What actually happened to Shaw?</color>
 AN94MOD(0)<Speaker>AN-94</Speaker>||:Shaw has been missing for two years... +12 believes that she's dead.
-AK15MOD(3)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...</color>
+AK15MOD(3)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. The call ends.
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:AN-94 turns to look at the Doll lurking in the shadows in the safe house.
 AN94MOD(3)<Speaker>AN-94</Speaker>||<BGM>2022_white_valentine_BGM2</BGM>:...Why didn't you talk to her yourself?
@@ -191,27 +191,27 @@ NPC-Helian(0)<Speaker>Helian</Speaker>||:...
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Please get the Earl on the line.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. The call is soon answered.
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:It's me.
-NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>My old friend, what can I do for you?</color>
+NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>My old friend, what can I do for you?</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Griffin(0)||:Nothing. I just want some information that I deserve to know.
-NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Worried about your young protege again?</color>
+NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Worried about your young protege again?</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Griffin(0)||:In the past, I was always clearly aware of the Commander's movements. +I offered advice when they felt lost and shared their joy when they were happy. +...But now I am stuck in here, effectively cut off from the rest of the world.
-NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>You need rest, old friend.</color>
+NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>You need rest, old friend.</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Griffin(0)||:Rest is the last thing I need. +I've rested long enough.
-NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Alright, I suppose I could arrange for some—</color>
+NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Alright, I suppose I could arrange for some—</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:You seem to be avoiding the subject when it comes to the Commander.
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>The Commander has yet to return to the safe zone.</color> +<color=#00CCFF>So even I am in the dark.</color>
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>The Commander has yet to return to the safe zone.</color> +<color=#00CCFF>So even I am in the dark.</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Griffin(0)||:I'm just a bit concerned.
-NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>They managed to escape from Tallinn and Paldiski unscathed and even produced some spectacular results in the Black Zone.</color> +<color=#00CCFF>I don't think there is any cause for concern.</color>
+NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>They managed to escape from Tallinn and Paldiski unscathed and even produced some spectacular results in the Black Zone.</color> +<color=#00CCFF>I don't think there is any cause for concern.</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Griffin(0)||:... +The Commander is full of fervor, but they can be a bit hot-headed at times. +I hope you can show some leniency to young people and give them some leeway.
-NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>I have already been very patient.</color> +<color=#00CCFF>For the future of this PMC, I will continue to endure.</color>
+NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>I have already been very patient.</color> +<color=#00CCFF>For the future of this PMC, I will continue to endure.</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Griffin(0)||:What are you waiting for?
-NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>You should know—I'm waiting for the official establishment of the Union of Rossartrist Nations Coalition.</color>
+NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>You should know—I'm waiting for the official establishment of the Union of Rossartrist Nations Coalition.</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Griffin(0)||:The founding of the Rossartrist Union back then was not for nothing. +Establishing the URNC now... is just putting old wine in new bottles. +Having worked toward this for so many years, you should know better than anyone else.
-NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Kryuger, some things exist only in name at first.</color> +<color=#00CCFF>For example, the selection of government officials was just a formality in the old days when the positions were still reserved for the aristocracy.</color> +<color=#00CCFF>But in time, this formality became more fleshed out and systematized, and actual learned men were finally selected for the positions.</color> +<color=#00CCFF>We must believe in the natural progress of things and let history run its course.</color>
+NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Kryuger, some things exist only in name at first.</color> +<color=#00CCFF>For example, the selection of government officials was just a formality in the old days when the positions were still reserved for the aristocracy.</color> +<color=#00CCFF>But in time, this formality became more fleshed out and systematized, and actual learned men were finally selected for the positions.</color> +<color=#00CCFF>We must believe in the natural progress of things and let history run its course.</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Griffin(0)||:We can't let young people get crushed under the wheel of history.
-NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>If they are willing to take their place on the chariot, they will naturally become heroes.</color>
+NPC-Kyruger(0);NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>If they are willing to take their place on the chariot, they will naturally become heroes.</color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Griffin(0)||:... +I understand.
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>I wish you good health, old friend.</color>
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>I wish you good health, old friend.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The Earl terminates the call.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:After putting down the communicator, Kryuger's shoulders slump in dejection. He buries his face in his hands.
 NPC-Helian(0)<Speaker>Helian</Speaker>||:...Mr. Kryuger, you should have faith in the Commander.

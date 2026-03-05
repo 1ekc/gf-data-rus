@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>166</BIN><Night><BGM>BGM_Sneak</BGM>:...
 M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:RO! RO, ты меня слышишь?
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Что такое? Я здесь немного занята!</color>
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Что такое? Я здесь немного занята!</color>
 M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:Человек идет к нам. Не знаю, чего она хочет, но она точно идет прямо на меня!
 M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Может, это просто какой-то рекламщик! Я скоро закончу. Выиграй для меня немного времени!</color>
 M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:Давай быстрее! Она уже почти передо мной—

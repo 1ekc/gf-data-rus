@@ -1,6 +1,6 @@
 ()||<BIN>1</BIN><Night><BGM>BGM_Sneak</BGM>:Сражение завершено. Все минометы выведены из строя. +...Вертолет, которому было поручено транспортировать груз, благополучно приземлился.
 IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Фройляйн Welrod, мы отключили все минометы Сангвиса, прием.
-Welrod(0)<Speaker>Welrod</Speaker><通讯框>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:Враги у главной дороги уничтожены. Груз загружается в вертолет. +Ваше местоположение, прием?
+Welrod(0)<Speaker>Welrod</Speaker><scan><通讯框>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:Враги у главной дороги уничтожены. Груз загружается в вертолет. +Ваше местоположение, прием?
 Welrod(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Возможно, еще есть другие опасности. Мы займемся твоей эвакуацией, прием.
 Welrod(0)<Speaker>Welrod</Speaker>||<BIN>1</BIN><Night>:Понятно, спасибо. Наша победа — это результат вашей непоколебимой стойкости в этот день.
 ()||<BIN>1</BIN><Night>:...Передача завершена.
@@ -32,7 +32,7 @@ AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>;IWS2000(0)<Position>0,10
 IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Я не такая, как ты, AUG. Это потому, что я не способна отпустить...
 Glock17(0)<Speaker>G17</Speaker>||<BIN>1</BIN><Night>:Девочки... Успокойтесь...
 ()||<BIN>1</BIN><Night>:...Щелк...
-SSG69(0)<Speaker>SSG 69</Speaker><通讯框>||<BIN>1</BIN><Night>:L-лидер...? Мисс IWS...?
+SSG69(0)<Speaker>SSG 69</Speaker><scan><通讯框>||<BIN>1</BIN><Night>:L-лидер...? Мисс IWS...?
 SSG69(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:SSG, где ты? Ты в опасности?
 SSG69(0)<Speaker>SSG 69</Speaker>;IWS2000(0)<Position>0,100</Position>||<BIN>1</BIN><Night>:Я здесь в полной безопасности... +Я нашла останки, которые мы бросили...
 SSG69(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker>||<BIN>1</BIN><Night>:Останки? Какой смысл их искать?

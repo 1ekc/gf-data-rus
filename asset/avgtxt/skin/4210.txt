@@ -1,14 +1,14 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>97</BIN><BGM>BGM_Hello</BGM>:...Outside the furniture expo.
-M1895MG(0)<Speaker>M1895 CB</Speaker><通讯框>||:<color=#00CCFF>I'm really sorry about this, MG34...</color>
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>I'm really sorry about this, MG34...</color>
 MG34(0)<Speaker>MG34</Speaker>||:Why are you apologizing? This wasn't your fault. +Besides, advertising a furniture exhibition is a pretty simple task; I could have handled it on my own in the first place.+Just focus on filming the ad for KXD.
-M1895MG(0)<Speaker>M1895 CB</Speaker><通讯框>||:<color=#00CCFF>Okay... If there's anything I can help you with...</color>+<color=#00CCFF>Make sure you let me know...</color>
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>Okay... If there's anything I can help you with...</color>+<color=#00CCFF>Make sure you let me know...</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
-MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>Will you really be alright, 34?</color>+<color=#00CCFF>Before you set out, your mission was just to purchase clothing for the New Year...</color>+<color=#00CCFF>But now the mission is completely different and someone's gone and borrowed your only squadmate too...</color>
+MG42(0)<Speaker>MG42</Speaker><scan><通讯框>||:<color=#00CCFF>Will you really be alright, 34?</color>+<color=#00CCFF>Before you set out, your mission was just to purchase clothing for the New Year...</color>+<color=#00CCFF>But now the mission is completely different and someone's gone and borrowed your only squadmate too...</color>
 MG34(0)<Speaker>MG34</Speaker>||:A T-Doll is expected to be able to adjust her strategies according to changes in the mission. +Besides, promoting a furniture expo and drawing in crowds should be a pretty straightforward mission, right? +I'm sure I can handle it perfectly well even on my own.
-MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>Well, I've never gotten any sales missions before, so I'm not too certain.</color>+<color=#00CCFF>I'm just worried your new assignment is going to give you a hard time, 34...</color>+<color=#00CCFF>But if you say you'll be fine, then I have every faith in you! </color>
+MG42(0)<Speaker>MG42</Speaker><scan><通讯框>||:<color=#00CCFF>Well, I've never gotten any sales missions before, so I'm not too certain.</color>+<color=#00CCFF>I'm just worried your new assignment is going to give you a hard time, 34...</color>+<color=#00CCFF>But if you say you'll be fine, then I have every faith in you! </color>
 MG34(0)<Speaker>MG34</Speaker>||:Yep, trust me. +Wait for my good news.
-MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>Kay~ Then I'd better work hard and finish up my maintenance duties!</color>
+MG42(0)<Speaker>MG42</Speaker><scan><通讯框>||:<color=#00CCFF>Kay~ Then I'd better work hard and finish up my maintenance duties!</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 MG34(0)<Speaker>MG34</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Now then, I ought to get changed and commence my mission...
 ()||<黑屏2><BIN>86</BIN><BGM>m_avg_casual</BGM>:...On a busy street.
@@ -127,6 +127,6 @@ NPC-PasserbyF(0)<Speaker>Fortitude</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Let'
 ()||:MG34, who's walking among the pedestrians, looks back to check on them, not unlike the way she always reflexively makes sure her teammates are safe on the battlefield.
 MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>They're all on fire! They might be human, but they're like my squadmates...</color>+<color=#A9A9A9>Then I'll have to do my best too!</color>+Hello, are you interested in taking part in our—
 ()||<SE1>AVG_tele_connect</SE1>:Her communicator comes to life.
-JS9mm(2)<Speaker>JS9</Speaker><通讯框>||:<color=#00CCFF>The reception team's mission is complete, you can now return to the venue.</color>
+JS9mm(2)<Speaker>JS9</Speaker><scan><通讯框>||:<color=#00CCFF>The reception team's mission is complete, you can now return to the venue.</color>
 MG34(2)<Speaker>MG34</Speaker>||:...Alright, I'm on my way.
 ()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:After hanging up, MG34 looks over to the busy stall. The three human girls have their hands full with the incoming customers. At the very least, they won't have to worry about the day's quota.+MG34 waves to them from a distance.+Fortitude seems to sense something and looks up—+But there's nobody beyond the crowds.

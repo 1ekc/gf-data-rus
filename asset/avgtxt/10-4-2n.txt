@@ -15,9 +15,9 @@ BOSS-7(0)<Speaker></Speaker>||<震屏>:Гейгер замирает. Након
 98k(1)<Speaker></Speaker>||<黑点2><BIN>2</BIN><Night><SE1>Select</SE1>:Kar98k оттягивает затвор, выбрасывая раскаленную гильзу с металлическим щелчком и резким запахом порохового дыма.
 ()||<白屏1>:После этого она медленно встает на ноги, сильно опираясь на свое оружие.
 ()<Speaker></Speaker>||<BIN>2</BIN><白屏2><BGM>m_avg_hope</BGM>:В этот момент солнце поднимается из-за горизонта.
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Kar, С.Ф. на нашей стороне внезапно перестал двигаться.</color> +<color=#00CCFF>Получилось?</color> 
-98k(1)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:Да...
-STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>Понятно, мы сейчас же подойдём.</color> 
+STG44Mod(0)<Speaker>StG44</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Kar, С.Ф. на нашей стороне внезапно перестал двигаться.</color> +<color=#00CCFF>Получилось?</color>
+98k(1)<Speaker>Kar98k</Speaker>;STG44Mod(0)<scan><通讯框>||:Да...
+STG44Mod(0)<Speaker>StG44</Speaker><scan><通讯框>||:<color=#00CCFF>Понятно, мы сейчас же подойдём.</color>
 98k(1)<Speaker>Kar98k</Speaker>||<黑屏1>:Миссия... выполнена...
 ()<Speaker></Speaker>||<BIN>73</BIN><黑屏2><BGM>BGM_Empty</BGM>:...Несколько дней спустя.
 MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Hello</BGM>:Послушайте меня, это всё правда!

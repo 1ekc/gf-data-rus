@@ -36,16 +36,16 @@ NPC-Morridow(8)<Speaker>Morridow</Speaker>;NytoIsomer(10)||:But we still have ot
 NytoIsomer(11)<Speaker>M4A1</Speaker>||:Then I will deal with her the way I dealt with you.
 ()<Speaker></Speaker>||<SE1>Rope</SE1>:M4 falls silent. She places a hand on Morridow's shoulder and pushes her down onto her knees. Then she activates her communicator.
 NytoIsomer(10)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:15?
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>M4? What's wrong?</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>M4? What's wrong?</color>
 NytoIsomer(10)<Speaker>M4A1</Speaker>||:Is everything alright on your end?
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Yeah, nothing but regular Isomers so far. I also found something. It has a similar structure as the ones we saw in Bohnsdorf, but more complex.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Yeah, nothing but regular Isomers so far. I also found something. It has a similar structure as the ones we saw in Bohnsdorf, but more complex.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:The conversation is interrupted by another incoming transmission.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>M4, 15, SOP-II, everybody doing okay?</color>
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>I'm here.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>M4, 15, SOP-II, everybody doing okay?</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>I'm here.</color>
 NytoIsomer(10)<Speaker>M4A1</Speaker>||:I'm here.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>I couldn't get in touch with SOP-II or the Commander... </color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>I couldn't get in touch with SOP-II or the Commander... </color>
 NytoIsomer(10)<Speaker>M4A1</Speaker>||:... 
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>M4, be careful with...Mor...Ri...Dow... </color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>M4, be careful with...Mor...Ri...Dow... </color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The disconnected tone beeps through the line... 
 ()<Speaker></Speaker>||<SE1>Rope</SE1>:A wave of unease washes over M4. She grabs Morridow by the throat.
 NytoIsomer(11)<Speaker>M4A1</Speaker>||:You should know that I can make short work of you.
@@ -115,7 +115,7 @@ M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:AAAAAARGHHHH!!!
 NytoWhite(0)<Speaker>White Nyto</Speaker>||:Kill her! Kill her!
 ()<Speaker></Speaker>||:Rattled by SOP-II's hysterical yowls, the Paradeus units stall hesitantly and even back away for a moment.
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Banana, who has been hiding behind SOP-II the whole time, smells an opportunity. It scrambles up to an elevated position and extends its signal receiver... 
-RO635Mod(4)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>SOP-II!!!</color>
+RO635Mod(4)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>SOP-II!!!</color>
 M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏3>:ROOOOOO!!!
 ()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:Gritting her teeth, SOP-II rips herself free of all the stingers.
 ()<Speaker></Speaker>||:The moment she hits the ground, she picks up her weapon... 
@@ -124,14 +124,14 @@ M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>Select</SE1>:Grenade!!!
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:But she never lets go of her trigger—she keeps firing, consumed by her battle rage... 
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>324</BIN><BGM>BGM_Empty</BGM>:By the time she comes to her senses, the entire room is littered with broken Paradeus remains. +SOP-II is slumped in the corner, her body's mobility now only at 20%. After some simple adjustments, she starts crawling towards the stack of Iaso's Boxes sitting safe and sound on the other end of the room... 
-RO635Mod(4)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>SOP-II!!!</color>
+RO635Mod(4)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>SOP-II!!!</color>
 M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:What now...? You're blowing out my hearing module... 
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Are you okay? There was a huge commotion coming from your side... </color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Are you okay? There was a huge commotion coming from your side... </color>
 M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:I'm fine... Oh right, I found our mission objective... 
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Great, I'm coming over.</color> +<color=#00CCFF>The signal was jammed, and M4 just fixed it. You didn't run into Paradeus, did you?</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Great, I'm coming over.</color> +<color=#00CCFF>The signal was jammed, and M4 just fixed it. You didn't run into Paradeus, did you?</color>
 M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:Heheh... I did run into a few... I took care of them... 
 ()<Speaker></Speaker>||:After a long and difficult crawl, SOP-II finally reaches the Iaso's Boxes. She wraps herself around one of the spheres.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Are you hurt? Your voice sounds a bit odd.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Are you hurt? Your voice sounds a bit odd.</color>
 M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:I'm okay. I'll see you later... 
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:SOP-II lifts up an Iaso's Box and rises to her feet helped by the wall. +Her legs are so badly damaged she can't walk properly anymore. Leaning against the wall, she staggers towards the exit, one unsteady step after another... 
 ()<Speaker></Speaker>||<SE1>RunStep</SE1>:RO's familiar footsteps draw ever closer... 

@@ -15,9 +15,9 @@ NPC-Ange(2)<Speaker>Angelia</Speaker>||:His vital signs are stable though, so he
 RPK16(7)<Speaker>RPK-16</Speaker>||:What terrible news.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Indeed, but there are more not-so-terrible news.
 ()||:Ange looks out the window. Sounds of the approaching police cars, ambulances, and armed helicopter grow clearer and clearer.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Ange, we'll be there in five minutes. How are things on your end?</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Ange, we'll be there in five minutes. How are things on your end?</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:We've got Powell, and we've also exposed the GIP mole. It's Hopps. +Nothing serious happened, though J has taken quite a beating.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Really?</color> +<color=#00CCFF>Then stay where you are. Be there in three minutes.</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Really?</color> +<color=#00CCFF>Then stay where you are. Be there in three minutes.</color>
 ()||:The call ends.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:He's dying to see J looking like a lumpy ragdoll.
 NPC-Morridow(1)<Speaker>Morridow</Speaker>||:Ange... About Hopps...

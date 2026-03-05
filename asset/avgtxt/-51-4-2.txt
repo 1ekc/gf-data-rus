@@ -62,11 +62,11 @@ AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...Commander!
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:No... It's Agent K.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:ST AR-15 hands the command tablet to the Commander.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:I hope this is good news.
-NPC-Jason(3)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Our work has gone very well.</color> +<color=#00CCFF>Mr. Kryuger will be released soon...</color>
-NPC-Jason(3)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Thank you for letting me know.
-NPC-Jason(3)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Don't sweat it... It's the least I could do.</color>
+NPC-Jason(3)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Our work has gone very well.</color> +<color=#00CCFF>Mr. Kryuger will be released soon...</color>
+NPC-Jason(3)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Thank you for letting me know.
+NPC-Jason(3)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Don't sweat it... It's the least I could do.</color>
 ()<Speaker></Speaker>||:K gazes at the Commander and falls silent for a while.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Contact me if you need further assistance.</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Contact me if you need further assistance.</color>
 ()<Speaker>Commander</Speaker>||:Yeah, thanks.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +The call ends.
 ()<Speaker>Commander</Speaker>||:...

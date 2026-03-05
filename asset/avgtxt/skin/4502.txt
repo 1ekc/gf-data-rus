@@ -72,7 +72,7 @@ QBU88(0)<Speaker>QBU-88</Speaker>||:H...Help!!
 M200(0)<Speaker>M200</Speaker>;QBU88(0)||:Crap...
 M200(0)<Speaker></Speaker>;QBU88(0)||:M200 puts down her camera and starts firing at the mech. +But her rushed attacks merely leave dents on its armor and cause no significant damage. +Meanwhile, the soil around her starts quivering, and more mechs rise to their feet. +They loom over the petite M200 and have her completely surrounded.
 M200(0)<Speaker>M200</Speaker>||:No, this isn't something I can handle... +Hailing Groza! Come in, Groza!!
-OTs14(0)<Speaker>OTs-14</Speaker><通讯框>;M200(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What is it, M200? The party...</color>
+OTs14(0)<Speaker>OTs-14</Speaker><scan><通讯框>;M200(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What is it, M200? The party...</color>
 OTs14(0);M200(0)<Speaker>M200</Speaker>||<震屏>:Miss Groza, we need help!!!
 OTs14(0)<Speaker>OTs-14</Speaker>;M200(0)||:<color=#00CCFF>...</color> +<color=#00CCFF>Calm down, M200. What is the matter?</color>
 OTs14(0);M200(0)<Speaker>M200</Speaker>||:We've encountered numerous abandoned mechs in Theater No. 3, some of them still have intact firing modules, and they've captured QBU-88! +I've sent you our coordinates... Please get here ASAP! Thank you very much!

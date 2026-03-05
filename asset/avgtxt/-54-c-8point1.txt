@@ -1,9 +1,9 @@
 ()||<BIN>10</BIN>:... +Erma follows Lyudmila's instruction and climbs to the roof of the train.
 Erma(2)<Speaker>Erma</Speaker>||:I'm here. What now?
-Erma(2);AR18(2)<Speaker>Lyudmila</Speaker><通讯框>||:<color=#00CCFF>You see the turret on top of the train? It's incredibly powerful. Not even a Tactical Doll can take more than a few shots from one of these.</color>
-Erma(2)<Speaker>Erma</Speaker>;AR18(2)<通讯框>||:Then what should I do?
-Erma(2);AR18(2)<Speaker>Lyudmila</Speaker><通讯框>||:<color=#00CCFF>There's a control terminal up ahead, not far from you. It can shut down the turret.</color>
-AR18(2)<Speaker>Lyudmila</Speaker><通讯框>||:<color=#00CCFF>You can weave through the fields of fire that way.</color>
+Erma(2);AR18(2)<Speaker>Lyudmila</Speaker><scan><通讯框>||:<color=#00CCFF>You see the turret on top of the train? It's incredibly powerful. Not even a Tactical Doll can take more than a few shots from one of these.</color>
+Erma(2)<Speaker>Erma</Speaker>;AR18(2)<scan><通讯框>||:Then what should I do?
+Erma(2);AR18(2)<Speaker>Lyudmila</Speaker><scan><通讯框>||:<color=#00CCFF>There's a control terminal up ahead, not far from you. It can shut down the turret.</color>
+AR18(2)<Speaker>Lyudmila</Speaker><scan><通讯框>||:<color=#00CCFF>You can weave through the fields of fire that way.</color>
 Erma(1)<Speaker>Erma</Speaker>||:Alright... I'll give it a try!
-AR18(2)<Speaker>Lyudmila</Speaker><通讯框>||:<color=#00CCFF>Yellow icons will appear on the ground before the cannon fires. Make sure you dodge in time.</color>
+AR18(2)<Speaker>Lyudmila</Speaker><scan><通讯框>||:<color=#00CCFF>Yellow icons will appear on the ground before the cannon fires. Make sure you dodge in time.</color>
 Erma(1)<Speaker>Erma</Speaker>||:Got it. See you in F02.

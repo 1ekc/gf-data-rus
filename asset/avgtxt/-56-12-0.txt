@@ -55,13 +55,13 @@ NPC-Helian(0)<Speaker>Helian</Speaker>||:But we can't just leave Aliana unattend
 ()<Speaker></Speaker>||<BGM>GF_EV9_Story</BGM>:The men conducting surveillance from inside a parked black car finally receive the news they've been hoping for.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click.+A call connects.
 NPC-Keven(0)<Speaker>J</Speaker>||:It had better be good news. My gas tank is almost empty!
-NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...We've found her.</color>+<color=#00CCFF>There was a police report about someone matching her description.</color>
+NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>...We've found her.</color>+<color=#00CCFF>There was a police report about someone matching her description.</color>
 NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:The police?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>We're still talking to the police. I'll share anything we find with you.</color>+<color=#00CCFF>But right now, at least, we've got a rough fix on her position.</color>
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>We're still talking to the police. I'll share anything we find with you.</color>+<color=#00CCFF>But right now, at least, we've got a rough fix on her position.</color>
 NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:...Location?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I've sent it to your GPS.</color>+<color=#00CCFF>You're the closest to her location—I trust I don't need to tell you how hard she was to find?</color>
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I've sent it to your GPS.</color>+<color=#00CCFF>You're the closest to her location—I trust I don't need to tell you how hard she was to find?</color>
 NPC-Keven(5)<Speaker>J</Speaker>||:Got it. I'm heading out now.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Hurry! The director's handed down an order.</color>+<color=#00CCFF>You need to find her before everyone else does!</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Hurry! The director's handed down an order.</color>+<color=#00CCFF>You need to find her before everyone else does!</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click.+The transmission ends.
 ()<Speaker></Speaker>||:J hangs up and checks the location on his GPS system.
 ()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:He floors the pedal without hesitation and his car immediately kicks into gear, roaring off into the night.

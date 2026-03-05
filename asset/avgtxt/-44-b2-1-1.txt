@@ -9,34 +9,34 @@ M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Eh? Weren't you supposed to 
 ()<Speaker>Commander</Speaker>||:It's basic etiquette to show up early for a meeting with a lady.
 RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:Commander, there's an incoming transmission.
 ()<Speaker>Commander</Speaker>||:Is it Ange?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>m_19christmas_theme</BGM>:<color=#00CCFF>Hi, Commander. It's been a while. </color> +<color=#00CCFF>I hope I didn't interrupt your refined appreciation of sleeping beauties.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:...
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<BGM>m_19christmas_theme</BGM>:<color=#00CCFF>Hi, Commander. It's been a while. </color> +<color=#00CCFF>I hope I didn't interrupt your refined appreciation of sleeping beauties.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:...
 ()||:Before the Commander even replies, RO has already closed the curtains without them needing to say a word.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Oh my, looks like I've just scored some intel which I can use to soak some money out of you.</color> +<color=#00CCFF>I wonder, how much would you pay to seal my lips, Commander?</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:...Cut the crap. What are you guys doing here?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>We're here because Miss Helian most generously paid our urgent booking fees in order to help the poor, isolated Commander, of course.</color>
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>But it looks like the Commander is living the good life right now!</color>
-UMP9Mod(0)<Speaker>Commander</Speaker><通讯框>||:...Helian did?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Oh yes, Miss Helian paid the entire sum in advance. ♪</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:...
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Right, 45, didn't Miss Kalina ask us to pass a message on to the Commander?</color>
-UMP9Mod(0)<Speaker>Commander</Speaker><通讯框>||:Kalina? You've spoken to Kalina? +How is she now? Has her condition improved? Has she been discharged yet?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>She's alright. At least, she sounded quite energetic when she passed on her message to you.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:What did she want to tell me?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>9, you do it.</color>
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Kay~ Ahem.</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>Wait a minute, I can't find my earplugs...</color>
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>So, Miss Kalina's message is as follows...</color>
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF><size=50>COMMANDER!</size></color> +<color=#00CCFF><size=50>YOU GREAT BIG DUMMY!!!</size></color> +<color=#00CCFF><size=50>I WAS IN HOSPITAL FOR SO LONG!!!</size></color> +<color=#00CCFF><size=50>BUT YOU DIDN'T COME TO VISIT EVEN ONCE!!!</size></color> +<color=#CE0000><size=60>WHEN I GET OUT OF HOSPITAL I'M GOING TO SPEND ALL YOUR MONEY!!!</size></color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>And that was it.</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>Scheißdreck, do they have a place that recalibrates auditory modules in Berlin?</color>
-G11Mod(0)<Speaker>Gr G11</Speaker><通讯框>||:<color=#00CCFF>(Groans) What happened?</color>
-G11Mod(0)<Speaker>Commander</Speaker><通讯框>||:... +Alright, I understand.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Well, since the fee's been credited into our account, that means our contract is in effect.</color> +<color=#00CCFF>Commander, contact us on this frequency if you need help with anything.</color> +<color=#00CCFF>We'll be standing by during your time in Berlin.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:How many credits did Helian pay you, anyway...
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Trade secret. ♪</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:... +We'll be meeting Ange in 15 minutes at the Athena's Owl. +Could you scout our route and make sure there are no Paradeus ambushers hiding along the way?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Sure. We'll be there right away.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Oh my, looks like I've just scored some intel which I can use to soak some money out of you.</color> +<color=#00CCFF>I wonder, how much would you pay to seal my lips, Commander?</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:...Cut the crap. What are you guys doing here?
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>We're here because Miss Helian most generously paid our urgent booking fees in order to help the poor, isolated Commander, of course.</color>
+UMP9Mod(0)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>But it looks like the Commander is living the good life right now!</color>
+UMP9Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:...Helian did?
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Oh yes, Miss Helian paid the entire sum in advance. ♪</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:...
+UMP9Mod(0)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>Right, 45, didn't Miss Kalina ask us to pass a message on to the Commander?</color>
+UMP9Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Kalina? You've spoken to Kalina? +How is she now? Has her condition improved? Has she been discharged yet?
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>She's alright. At least, she sounded quite energetic when she passed on her message to you.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:What did she want to tell me?
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>9, you do it.</color>
+UMP9Mod(0)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>Kay~ Ahem.</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>||:<color=#00CCFF>Wait a minute, I can't find my earplugs...</color>
+UMP9Mod(0)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>So, Miss Kalina's message is as follows...</color>
+UMP9Mod(4)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF><size=50>COMMANDER!</size></color> +<color=#00CCFF><size=50>YOU GREAT BIG DUMMY!!!</size></color> +<color=#00CCFF><size=50>I WAS IN HOSPITAL FOR SO LONG!!!</size></color> +<color=#00CCFF><size=50>BUT YOU DIDN'T COME TO VISIT EVEN ONCE!!!</size></color> +<color=#CE0000><size=60>WHEN I GET OUT OF HOSPITAL I'M GOING TO SPEND ALL YOUR MONEY!!!</size></color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>And that was it.</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>||:<color=#00CCFF>Scheißdreck, do they have a place that recalibrates auditory modules in Berlin?</color>
+G11Mod(0)<Speaker>Gr G11</Speaker><scan><通讯框>||:<color=#00CCFF>(Groans) What happened?</color>
+G11Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:... +Alright, I understand.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Well, since the fee's been credited into our account, that means our contract is in effect.</color> +<color=#00CCFF>Commander, contact us on this frequency if you need help with anything.</color> +<color=#00CCFF>We'll be standing by during your time in Berlin.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:How many credits did Helian pay you, anyway...
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Trade secret. ♪</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:... +We'll be meeting Ange in 15 minutes at the Athena's Owl. +Could you scout our route and make sure there are no Paradeus ambushers hiding along the way?
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Sure. We'll be there right away.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 RO635Mod(0)<Speaker>RO635</Speaker>||:Commander, this mission ought to be much easier with 404's help.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:And it sounds like Miss Kalina's getting better!
@@ -57,7 +57,7 @@ RO635Mod(0)<Speaker>RO635</Speaker>||:...It's nothing urgent, but I was thinking
 ()<Speaker>Commander</Speaker>||:...
 ()||:The Commander is leading three Tactical Dolls who have put their weapons away on a crowded street in the Old Town district. No matter how you look at it, this grouping...
 ()<Speaker>Commander</Speaker>||:Relax. The Earl has arranged legal identities for us, and we're in the city, so even Paradeus can't move rashly here.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>It's true that there are no Paradeus forces lying in ambush, but there are a lot of people out there who are even sketchier than Paradeus, and they have their eyes on you.</color> +<color=#00CCFF>...You've practically handed the Berlin Old Town Doll black market a feast on legs.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>It's true that there are no Paradeus forces lying in ambush, but there are a lot of people out there who are even sketchier than Paradeus, and they have their eyes on you.</color> +<color=#00CCFF>...You've practically handed the Berlin Old Town Doll black market a feast on legs.</color>
 ()||:SOP-II's keen ears quickly sift out the important information from the clamor of the crowd.
 ()<Speaker>???</Speaker>||:Do you see that? They're all high-end Tactical Dolls, and they're also loaded with advanced equipment...
 ()<Speaker>???</Speaker>||:Just selling that gear would feed us till the end of the year!
@@ -65,7 +65,7 @@ UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>It's true that t
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Commander, they're black market Doll traffickers!
 RO635Mod(0)<Speaker>RO635</Speaker>||:There aren't a lot of them, but we can't make too much of a scene right now.
 ()<Speaker>Commander</Speaker>||:45, help us think of a way to shake off these people.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I've already plotted a route. Sending it over now.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I've already plotted a route. Sending it over now.</color>
 ()<Speaker>Commander</Speaker>||:Right. RO, follow the route at top speed.
 ()||<黑屏1>:The Commander and company proceed as guided by Squad 404.
 ()||<黑屏2><BIN>168</BIN>:After following the route they've been given, the party temporarily shakes off the thugs following them and blends into the hustle and bustle of the Old Town district.
@@ -75,9 +75,9 @@ RO635Mod(0)<Speaker>RO635</Speaker>||:It's just a bunch of profit-driven merchan
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:But won't those merchants get beaten up if people find out?
 RO635Mod(0)<Speaker>RO635</Speaker>||:...Survivor bias is a thing. +After all, the only way to tell if these anti-ELID goods work is if you go into a contaminated zone yourself. +And only those who come back alive will have the chance to give feedback on them.
 ()<Speaker>Commander</Speaker>||:Have we lost them, 45?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Com... behind...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Com... behind...</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:45? Do you copy?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>R... cut off....</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>R... cut off....</color>
 ()||<SE1>AVG_whitenoise</SE1>:The transmission to 404 suddenly cuts off.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Why do they keep cocking up when it matters?
 ()<Speaker>Commander</Speaker>||<SE1>Stop_AVG_loop</SE1>:Stay alert and continue towards the bar.
@@ -99,16 +99,16 @@ M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>Stop_AVG_loop</SE1>:Comm
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Should we make our move?
 ()<Speaker>Commander</Speaker>||:There are too many people here. Civilians could easily get injured.
 ()||<SE1>AVG_whitenoise</SE1>:The communicator suddenly rings.
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>Raise it higher, 416!</color>
-HK416Mod(0)<Speaker>416</Speaker><通讯框>||:<color=#00CCFF>Is this even working, 45? Can you contact the Commander?!</color> +<color=#00CCFF>If not, we'll just fight our way out!</color>
+UMP9Mod(0)<Speaker>UMP9</Speaker><scan><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>Raise it higher, 416!</color>
+HK416Mod(0)<Speaker>416</Speaker><scan><通讯框>||:<color=#00CCFF>Is this even working, 45? Can you contact the Commander?!</color> +<color=#00CCFF>If not, we'll just fight our way out!</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:Commander, it's 404!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Huh, we got through at last.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Huh, we got through at last.</color>
 ()<Speaker>Commander</Speaker>||:What happened to you just now?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Our comms got jammed. We had to relocate several times before we could contact you.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Our comms got jammed. We had to relocate several times before we could contact you.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:You were jammed?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>The jamming method was pretty special too—reminded me of Tallinn.</color> +<color=#00CCFF>I'll go into more detail later. You see that alley ten meters ahead? Get in there and go all the way to the end.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>The jamming method was pretty special too—reminded me of Tallinn.</color> +<color=#00CCFF>I'll go into more detail later. You see that alley ten meters ahead? Get in there and go all the way to the end.</color>
 ()<Speaker>Commander</Speaker>||:Got it!
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Commander, it's a dead end!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>If you keep the fight in there, the people outside won't notice.</color> +<color=#00CCFF>Now the AR Team can really let loose. ♪</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>If you keep the fight in there, the people outside won't notice.</color> +<color=#00CCFF>Now the AR Team can really let loose. ♪</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Awesome!
 ()<Speaker>Commander</Speaker>||<黑点1>:... +Load rubber bullets and avoid their vitals. Prepare for combat.

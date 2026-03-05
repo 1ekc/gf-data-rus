@@ -157,6 +157,6 @@ AR18(2)<Speaker>Lyudmila</Speaker>||:Close the door! This isn't a rescue!
 ()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1><黑屏1>:Bang! +With each gunshot, a survivor collapses in the mud. +Fate seems to have played a terrible joke on them.
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><关闭蒙版><BGM>BGM_Empty</BGM>:...
 ()<Speaker>???</Speaker>||:We have arrived at the coordinates. +Executing quarantine order.
-NPC-Tareus(3)<Speaker>Tareus</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-Tareus(3)<Speaker>Tareus</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ()<Speaker>???</Speaker>||:Awaiting further directives. +...
 ()||<黑屏1>:

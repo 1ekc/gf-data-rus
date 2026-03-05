@@ -36,28 +36,28 @@
 ()||:Type 97S gracefully skims across the ground and takes the high ground, sending several grenades into the enemy's rear. +Type 56-1's neural cloud rapidly processes the situation, instantly plotting a clear path of entry through the enemy's heavy guard.
 ()||<SE1>AVG_The_Division_Grenade</SE1>:With perfect coordination, Type 56-1 moves the moment Type 97S throws out a grenade. +The enemy forces are caught completely off balance by Type 97S' assault, and as they hesitate, Type 56-1 carves a crimson road through them.
 ()||<SE2>Gunfight</SE2>:There is no stiffness or delay in the movements of Type 56-1's new body. Weaving through a bulletstorm is precisely where it shines.
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||<SE2>Stop_AVG_loop</SE2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Careful, their main force has shown up!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||<SE2>Stop_AVG_loop</SE2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Careful, their main force has shown up!</color>
 ()||<SE1>AVG_Gunfire</SE1>:Before Type 56-1 can answer, the enemy's supporting bombardment rains down. +One volley to stop her from advancing, one volley to keep her from retreating, and the last volley to strike Type 56-1! +However, at the critical moment, Type 56-1 opens up her ammo case and throws out the backing board to block the final shot! +The board is destroyed, but Type 56-1 gets room to breathe.
 56-1typeMod(0)<Speaker>Type 56-1</Speaker><Position>0,150</Position>||<SE1>Stop_AVG_loop</SE1>:No problem! Now's the time to counterattack!
 ()||<SE1>ClothingUp</SE1>:Type 56-1 reaches into her ammo case to change reload, and then she freezes.
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:<color=#00CCFF>56-1! Why are you spacing out!?</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:<color=#00CCFF>56-1! Why are you spacing out!?</color>
 56-1typeMod(0)<Speaker>Type 56-1</Speaker><Position>0,150</Position>||:No way...
 ()||:When Type 56-1 sees the contents of her ammo case, she crumples to her knees.
 56-1typeMod(1)<Speaker>Type 56-1</Speaker><Position>0,450</Position>||:AAHHHHHHHHHHHHHHHH!
 ()||:Below that backing board, what Type 56-1 brought to the battlefield is—+Shockingly enough, the case is full of zongzi.+Upon hearing the explosion behind her, Type 56-1 dazedly wonders if she is on the battlefield or in the kitchen.
 56-1typeMod(1)<Speaker>Type 56-1</Speaker><Position>0,450</Position>||:Zongzi zongzi zongzi zongzi, why is it STILL zongzi—!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:Calm down, 56-1!
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:Calm down, 56-1!
 56-1typeMod(1)<Speaker>Type 56-1</Speaker><Position>0,450</Position>||:How can I calm down? All my bullets turned into zongzi!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:But how? Did they not fix your neural cloud when it burned out?
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:But how? Did they not fix your neural cloud when it burned out?
 56-1typeMod(1)<Speaker>Type 56-1</Speaker><Position>0,450</Position>||:It's true! I think I spent all night practicing and my neural cloud shortcircuited and I put them in... +Ahhhhh help me, I swear I'll never ask for zongzi for combat rations ever again—
 ()||<SE2>Gunfight</SE2>:Naturally, the enemy does not overlook this weakness. All the people shooting at Type 97S shift their aim and focus fire on Type 56-1. +Out of ammo, Type 56-1 scoops up her ammo case and flees.
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:<color=#00CCFF>Then what are we going to do, fall back?</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:<color=#00CCFF>Then what are we going to do, fall back?</color>
 56-1typeMod(0)<Speaker>Type 56-1</Speaker><Position>0,150</Position>||:Given my situation, I can't retreat even if I want to!
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:<color=#00CCFF>I'll cover you!</color>
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:<color=#00CCFF>I'll cover you!</color>
 ()||<SE1>AVG_The_Division_Grenade_Explosion</SE1>:Type 97S' great cry is accompanied by a burst of fire, which draws the attention of many enemy troops, leaving one side much more exposed than others.
 56-1typeMod(0)<Speaker>Type 56-1</Speaker><Position>0,150</Position>||:I see it!
 ()||<SE1>RunStep</SE1>:Just as Type 56-1 is about to flee, she pauses for a few seconds and actually runs the other way instead—+That path leads straight into the midst of the enemy, and it is undoubtedly a suicidal maneuver for Type 56-1 since she's out of ammo.
-97typeSMod(0)<Speaker>Type 97S</Speaker><通讯框>||:Type 56-1, are you crazy!?
+97typeSMod(0)<Speaker>Type 97S</Speaker><scan><通讯框>||:Type 56-1, are you crazy!?
 56-1typeMod(0)<Speaker>Type 56-1</Speaker><Position>0,150</Position>||:Never mind me! I'm just out of bullets! +I've been starved and survived that hellish boot camp—+That's me, Type 56-1!
 ()||<SE1>AVG_Gunfire</SE1>:With the focus developed through her training, it's child's play for Type 56-1 to dodge the enemy's bullets. +In the blink of an eye, she's reached their leader's location and the enemy troopers can't react in time.
 ()||<BGM>BGM_Empty</BGM><SE1>Stop_AVG_loop</SE1>:...

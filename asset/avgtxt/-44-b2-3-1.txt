@@ -1,21 +1,21 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>357</BIN><BGM>GF_EV9_Story</BGM>:...Temporary command post, Berlin.
 ()<Speaker>Commander</Speaker>||:...That's concludes my report, Sir. +The information presented earlier was taken from Machlian's virtual consciousness. Do you have any more questions?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ()||:Griffin scrolls through the recorded images from Machlian's virtual consciousness and studies them carefully.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I see.</color> +<color=#00CCFF>They figured that the government would be unable to stop so many small-scale explosions in so many regions.</color> +<color=#00CCFF>This would be much more fail-safe compared to a single big terrorist attack.</color> +<color=#00CCFF>Truly a meticulous plan.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:It seems you are already aware of this information.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I only knew that the plan existed, but not the specifics of its implementation.</color> +<color=#00CCFF>Still, I'd like to ask—given what you know of Machlian, how reliable is the information recovered from her?</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:I understand your concern. +After all, we successfully extracted Machlian and recovered information pertaining to a major Paradeus conspiracy from her without a hitch. +Everything has gone too smoothly, and success of this sort does seem strange.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Have you eliminated the possibility that those memories could have been implanted?</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:We've already checked carefully, and they are definitely not external data. +However, there is one thing that still baffles me.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>The identity of Machlian, you mean?</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:I still don't know what role she plays in the plan. +Her memories were destroyed by someone. They are a jumbled mess and there's no way to tell what she's been through. +We cannot determine if she's bait or some unexpected element of the plan.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Whatever she is, she's worth looking into.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:Correct. Whether this is a trap or genuine information about their plan, we will be able to learn something about the orchestrator by pursuing this lead. +I need to find the location described in this memory fragment and investigate further. +I'm going to find out if these events have already transpired but were obfuscated, or if they're still in the planning stage.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Don't worry about resources; requisition as many as you need.</color> +<color=#00CCFF>But I need a more detailed report and images of all the memory fragments.</color> +<color=#00CCFF>I hope we can be frank with each other in this exchange of information.</color> +<color=#00CCFF>After all, we have a shared goal of averting disaster and making this world a better place.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:Understood.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I'll be waiting for good news from you, then.</color>
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I see.</color> +<color=#00CCFF>They figured that the government would be unable to stop so many small-scale explosions in so many regions.</color> +<color=#00CCFF>This would be much more fail-safe compared to a single big terrorist attack.</color> +<color=#00CCFF>Truly a meticulous plan.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:It seems you are already aware of this information.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I only knew that the plan existed, but not the specifics of its implementation.</color> +<color=#00CCFF>Still, I'd like to ask—given what you know of Machlian, how reliable is the information recovered from her?</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:I understand your concern. +After all, we successfully extracted Machlian and recovered information pertaining to a major Paradeus conspiracy from her without a hitch. +Everything has gone too smoothly, and success of this sort does seem strange.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Have you eliminated the possibility that those memories could have been implanted?</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:We've already checked carefully, and they are definitely not external data. +However, there is one thing that still baffles me.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>The identity of Machlian, you mean?</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:I still don't know what role she plays in the plan. +Her memories were destroyed by someone. They are a jumbled mess and there's no way to tell what she's been through. +We cannot determine if she's bait or some unexpected element of the plan.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Whatever she is, she's worth looking into.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:Correct. Whether this is a trap or genuine information about their plan, we will be able to learn something about the orchestrator by pursuing this lead. +I need to find the location described in this memory fragment and investigate further. +I'm going to find out if these events have already transpired but were obfuscated, or if they're still in the planning stage.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Don't worry about resources; requisition as many as you need.</color> +<color=#00CCFF>But I need a more detailed report and images of all the memory fragments.</color> +<color=#00CCFF>I hope we can be frank with each other in this exchange of information.</color> +<color=#00CCFF>After all, we have a shared goal of averting disaster and making this world a better place.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:Understood.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I'll be waiting for good news from you, then.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 ()<Speaker>Commander</Speaker>||:RO, Perosa, gather everyone.
 RO635Mod(0)<Speaker>RO635</Speaker>||:Yes, Commander!

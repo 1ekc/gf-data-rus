@@ -12,9 +12,9 @@ NPC-Kalin(4)<Speaker>Kalina</Speaker>||:... +No... It's from the Military. They'
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:...Are we going to surrender?
 ()<Speaker>Commander</Speaker>||:We will NEVER surrender.
 ()||<SE1>AVG_tele_connect</SE1>:Beep-beep.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I expected nothing less of you, Commander. Truly, that is the resolve of someone who is worth following.</color>+<color=#00CCFF>Sorry to have kept you waiting, the battle before this must have been hard on you.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I expected nothing less of you, Commander. Truly, that is the resolve of someone who is worth following.</color>+<color=#00CCFF>Sorry to have kept you waiting, the battle before this must have been hard on you.</color>
 ()<Speaker>Commander</Speaker>||:Is that 404?! Are they finally getting in touch?!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>That's right, we've linked up with Task Force DEFY — part of it, at least. We've opened the barrier gate to the base.</color>+<color=#00CCFF>The quarantine wall is secure and you may now enter.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>That's right, we've linked up with Task Force DEFY — part of it, at least. We've opened the barrier gate to the base.</color>+<color=#00CCFF>The quarantine wall is secure and you may now enter.</color>
 ()<Speaker>Commander</Speaker>||<BIN>224</BIN><黑屏2><BGM>BGM_War</BGM>:Thank you for this information. +Kalina, start the train. Prepare to have our Dolls board and evacuate.
 ()<Speaker>Kalina</Speaker>||:Got it!
 ()<Speaker>UMP45</Speaker>||:<color=#00CCFF>Mr. K is currently unconscious in the control room. His condition is stable, so please come over to collect him, if you don't mind. </color>+<color=#00CCFF>The new members of DEFY who came with him also require supplies and await new directives.</color>+<color=#00CCFF>We'll head into the base to scout it out. If we find the rest of DEFY and Ange, we'll contact you.</color>
@@ -44,7 +44,7 @@ MAC10(1)<Speaker>Ingram</Speaker>||:This should be enough... Now everyone will b
 MP41(0)<Speaker>MP41</Speaker>||:Everyone stop! +We have more Dolls over here! +Hey hey hey, don't go falling asleep now! Neural cloud backups aren't like how they used to be.
 MAC10(1)<Speaker>Ingram</Speaker>||:Huh? You...you're from Group G?+I thought you were all...
 MP41(0)<Speaker>MP41</Speaker>||:As if a mere few shells would take out an elite squad like ours! +Now get on your feet, or we won't make it!
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>Fall back as fast as you can. I'll cover you.</color>
+98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||:<color=#00CCFF>Fall back as fast as you can. I'll cover you.</color>
 MP41(0)<Speaker>MP41</Speaker>||:Urk, Fräulein Kar sure is strict.+Come on, then! Your team must be waiting for you to go back!
 MAC10(1)<Speaker>Ingram</Speaker>||<黑点1>:...Yes...yes...yes! +Please help me up!
 06TypeSMG(0)<Speaker>CF-05</Speaker>||<黑点2>:Tsk! What a pain!
@@ -63,10 +63,10 @@ NytoIsomer(4)<Speaker>Dandelion</Speaker>||:30 seconds required for all Dolls to
 ()<Speaker>Commander</Speaker>||:Alright, make it quick and move on to the next step.
 NPC-Kalin(8)<Speaker>Kalina</Speaker>||:Commander, someone's on the comms. It's Task Force DEFY, should I put them through?
 ()<Speaker>Commander</Speaker>||:Do it.
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Forgive me for this direct communiqué, Griffin Commander. I apologize for being the bearer of bad news.</color>+<color=#00CCFF>I asked 404's leader to give me this frequency; there is information that I need to share with you right away.</color>+<color=#00CCFF>We noticed a small breach caused by a blast in the northern quarantine wall. It was very neatly done, probably the work of veterans. </color>+<color=#00CCFF>The Military might have slipped a team through the breach.</color>+<color=#00CCFF>I believe you've already sent people to seize the coastal defense artillery, but the Military taking the path through the breach might very well beat you to them. </color>+<color=#00CCFF>Therefore, I urge you to keep an eye on their movements.</color>
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Forgive me for this direct communiqué, Griffin Commander. I apologize for being the bearer of bad news.</color>+<color=#00CCFF>I asked 404's leader to give me this frequency; there is information that I need to share with you right away.</color>+<color=#00CCFF>We noticed a small breach caused by a blast in the northern quarantine wall. It was very neatly done, probably the work of veterans. </color>+<color=#00CCFF>The Military might have slipped a team through the breach.</color>+<color=#00CCFF>I believe you've already sent people to seize the coastal defense artillery, but the Military taking the path through the breach might very well beat you to them. </color>+<color=#00CCFF>Therefore, I urge you to keep an eye on their movements.</color>
 ()<Speaker>Commander</Speaker>||:Received. Thank you all for your hard work. Our armored train is preparing to pass through the quarantine wall and begin the next step of our blockade.+It would be a great help if you could activate the wall's defensive installations. Anything that could launch an attack would be good.
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>||:<color=#00CCFF>We'll do our best, the same way drowning fish poke their heads out of the water in search of oxygen.</color>
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>||:<color=#00CCFF>We'll do our best, the same way drowning fish poke their heads out of the water in search of oxygen.</color>
 ()<Speaker>Commander</Speaker>||:...Thanks?+Kalina, can you contact the AR Team now?
 NPC-Kalin(8)<Speaker>Kalina</Speaker>||:No problem at all. Establishing communication.
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>...Commander, are you alright?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>...Commander, are you alright?</color>
 ()<Speaker>Commander</Speaker>||<黑屏1>:We managed to waylay the Military, at least, but you'd better pick up the pace. +The Military blasted a hole in the quarantine wall...+And their aim is the same as ours...+They want the shore guns.

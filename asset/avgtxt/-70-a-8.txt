@@ -58,17 +58,17 @@ NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||:...But right now, all I want is to st
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:Beep-beep-beep.
 ()<Speaker></Speaker>||:The comms request from Morridow pings repeatedly. +Feeling an inexplicable boldness, Embla decides to ignore the call and keep chewing leisurely on her roll.
 ()<Speaker></Speaker>||<SE1>AVG_2023Slow_Keyboard_Correct</SE1>:After swallowing the bite and taking a sip of her coffee, she finally picks up.
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||<BGM>GF_EV9_Story</BGM>:<color=#00CCFF>...Frau Embla, is Paradeus giving you too much freedom?</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||<BGM>GF_EV9_Story</BGM>:<color=#00CCFF>...Frau Embla, is Paradeus giving you too much freedom?</color>
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:You think so? +I actually feel like work is taking up too much of my personal time as it is.
-NPC_Embla_RPK(1);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>...Now you've even learned to be self-indulgent.</color> +<color=#00CCFF>You have truly inherited all the worst traits of humanity.</color>
+NPC_Embla_RPK(1);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>...Now you've even learned to be self-indulgent.</color> +<color=#00CCFF>You have truly inherited all the worst traits of humanity.</color>
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:How could that be? +I've merely mastered the art of slacking off. +Surely you can understand the feeling of not wanting to work, having worked in Ulrich's office yourself.
-NPC_Embla_RPK(1);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Sorry to disappoint, Frau Embla.</color> +<color=#00CCFF>My job was setting deadlines for everyone else.</color> +<color=#00CCFF>And calling people ten times a day to check their progress as their deadlines approached.</color>
+NPC_Embla_RPK(1);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Sorry to disappoint, Frau Embla.</color> +<color=#00CCFF>My job was setting deadlines for everyone else.</color> +<color=#00CCFF>And calling people ten times a day to check their progress as their deadlines approached.</color>
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:I can see why Ange took a liking to you.
-NPC_Embla_RPK(1);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Frau Angelia didn't need deadlines; she usually finished her tasks early.</color>
+NPC_Embla_RPK(1);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Frau Angelia didn't need deadlines; she usually finished her tasks early.</color>
 NPC_Embla_RPK(0)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:Indeed. She would even take on extra work. +Exactly the kind of employee that any boss would love.
-NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>That's not necessarily true.</color> +<color=#00CCFF>After all, she would sometimes set extra tasks for herself that were at odds with the team's objective.</color>
+NPC_Embla_RPK(0);NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>That's not necessarily true.</color> +<color=#00CCFF>After all, she would sometimes set extra tasks for herself that were at odds with the team's objective.</color>
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>;NPC-MorridowNew(0)||:Humans are such fascinating creatures.
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Right, enough small talk.</color> +<color=#00CCFF>Time to come home. Nemhran is waiting for you.</color> +<color=#00CCFF>She needs you to confirm the final plan.</color> +<color=#00CCFF>See, she's the kind of dependable employee that bosses would love and the kind of annoying boss that subordinates would hate.</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Right, enough small talk.</color> +<color=#00CCFF>Time to come home. Nemhran is waiting for you.</color> +<color=#00CCFF>She needs you to confirm the final plan.</color> +<color=#00CCFF>See, she's the kind of dependable employee that bosses would love and the kind of annoying boss that subordinates would hate.</color>
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||:...Understood, Miss Deadline.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_disconnect</SE1>:
 ()||<黑屏1><CGDelay>0.7</CGDelay>:
@@ -76,33 +76,33 @@ NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||:...Understood, Miss Deadline.
 ()<Speaker></Speaker>||:In a safe house on the outskirts of Frankfurt.
 ()<Speaker></Speaker>||:The safe house is unremarkable and seemingly empty at first glance, but the faint glimmers of light in the shadows reveal a presence. +It is AK-12, quietly hiding. +Yet, the peace isn't meant to last.
 ()<Speaker></Speaker>||<BGM>Campaion-70</BGM><SE1>AVG_tele_connect</SE1>:Click.
-M16A1BOSS(2)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>AR-18's squad can't make it into the city just yet. You'll need to rendezvous with Stevens M520. Here's her comms code.</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>AR-18's squad can't make it into the city just yet. You'll need to rendezvous with Stevens M520. Here's her comms code.</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:DEFY doesn't work with others.
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>...She has what you need.</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>...She has what you need.</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:...Is this why you had me deploy early to Frankfurt?
-M16A1BOSS(3)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Correct. I'll spare you an unnecessary lecture.</color> +<color=#00CCFF>But burying your head in the sand isn't like you, AK-12. That's not the DEFY I know.</color>
+M16A1BOSS(3)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>Correct. I'll spare you an unnecessary lecture.</color> +<color=#00CCFF>But burying your head in the sand isn't like you, AK-12. That's not the DEFY I know.</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:We don't need to prove ourselves to anyone.
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Really? Then what are you afraid of?</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>Really? Then what are you afraid of?</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:...
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>I know you have your plans, but the matter concerning RPK-16 isn't something you can handle alone.</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>I know you have your plans, but the matter concerning RPK-16 isn't something you can handle alone.</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:This is DEFY's internal problem. +I don't need others meddling in it.
-M16A1BOSS(2)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>No one's trying to interfere. But shutting out AR-18 because of fear? That's unnecessary.</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>No one's trying to interfere. But shutting out AR-18 because of fear? That's unnecessary.</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:Fear is a concept that doesn't exist in my programming.
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Then what are you running from?</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>Then what are you running from?</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:...
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Are you afraid that RPK-16's betrayal had deeper motives?</color> +<color=#00CCFF>Or are you refusing to acknowledge Ange's death?</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>Are you afraid that RPK-16's betrayal had deeper motives?</color> +<color=#00CCFF>Or are you refusing to acknowledge Ange's death?</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:...
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>You're scared of seeing RPK-16. Scared of seeing that body. Scared that you'll want to kill her but hesitate when the moment comes.</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>You're scared of seeing RPK-16. Scared of seeing that body. Scared that you'll want to kill her but hesitate when the moment comes.</color>
 NPC-AK12Mod#隐身(14)<Speaker>AK-12</Speaker>||:Don't project the emotional entanglements of your AR Team onto me. +...I don't generate such convoluted and melodramatic emotions.
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Really?</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>Really?</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:I'm just disgusted.
-M16A1BOSS(3)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Wake up. That isn't Ange, nor is it RPK-16.</color> +<color=#00CCFF>It is an abomination that has no place in this world.</color>
+M16A1BOSS(3)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>Wake up. That isn't Ange, nor is it RPK-16.</color> +<color=#00CCFF>It is an abomination that has no place in this world.</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:...You're mistaken, M16. +I will not hesitate to kill RPK-16. She will draw her last breath the next time I see her. +As for Ange... +No one knows how she died better than me! +No one! +Of course I know it's just a corpse! +The real Ange died long ago! +On the night of Operation Muromets, right when the Commander decided to save her! +She had so many chances to leave, but she refused! +She agreed to that experiment! She sealed her own fate!
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>...Then all the more reason to fulfill her final wish.</color> +<color=#00CCFF>Only you can stop what she was trying to prevent, AK-12.</color> +<color=#00CCFF>So why are you hesitating? Why are you running away?</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>...Then all the more reason to fulfill her final wish.</color> +<color=#00CCFF>Only you can stop what she was trying to prevent, AK-12.</color> +<color=#00CCFF>So why are you hesitating? Why are you running away?</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:...I'm disgusted with myself. +I'm disgusted with my past, present, and future. +My past incompetence, my present hideousness, and my future... disappointment.
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>What, you think losing the frame that Shaw gave you makes you unworthy of being the Alpha Wolf of Task Force DEFY?</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>What, you think losing the frame that Shaw gave you makes you unworthy of being the Alpha Wolf of Task Force DEFY?</color>
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:...
-M16A1BOSS(3)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>You're such a coward.</color> +<color=#00CCFF>Relying solely on Shaw's technology to do as you please.</color> +<color=#00CCFF>This kind of mindset is what makes you an unworthy leader of DEFY.</color>
+M16A1BOSS(3)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>You're such a coward.</color> +<color=#00CCFF>Relying solely on Shaw's technology to do as you please.</color> +<color=#00CCFF>This kind of mindset is what makes you an unworthy leader of DEFY.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +Before AK-12 can respond, M16A1 terminates the call.
 NPC-AK12Mod#隐身(12)<Speaker>AK-12</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-12 looks down at her hands. Her frame does not even have the standard form that Dolls are constructed in. +It is a monstrosity created by Paradeus—something of unknown origin and purpose.
@@ -174,11 +174,11 @@ NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:Yes, Sister Nemhran.
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>566</BIN>:...Half an hour later.
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>All materials and instruments have been transferred from the other labs. We are now in the process of transporting the staff. They will be departing from the base in ten minutes.</color> +<color=#00CCFF>All that's left is the lab that I cannot access.</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>All materials and instruments have been transferred from the other labs. We are now in the process of transporting the staff. They will be departing from the base in ten minutes.</color> +<color=#00CCFF>All that's left is the lab that I cannot access.</color>
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:Understood. I will take care of... that lab. +Clean up the site, don't leave behind any traces.
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Alright.</color> +<color=#00CCFF>Also, Embla is back.</color> +<color=#00CCFF>She needs you to approve her entry.</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Alright.</color> +<color=#00CCFF>Also, Embla is back.</color> +<color=#00CCFF>She needs you to approve her entry.</color>
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Nemhran walks over to the monitors and pull up the feed of the surveillance camera outside the base. +In the feed, Embla, who is slightly bored from waiting, waves at the camera with a smile.
-NPC_Embla_RPK(1)<Speaker>Embla</Speaker><通讯框>||:<color=#00CCFF>Dear Sister Nemhran, please open the door for me.</color>
+NPC_Embla_RPK(1)<Speaker>Embla</Speaker><scan><通讯框>||:<color=#00CCFF>Dear Sister Nemhran, please open the door for me.</color>
 ()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:Nemhran opens the main entrance of the base. Just as she is about to look away from the monitor, she suddenly realizes—
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position><Shake>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:...Behind you!
 ()<Speaker></Speaker>||<BGM>GF_22W_BGM_4</BGM><震屏3><SE1>AVG_Door_Hit</SE1>:Bang!

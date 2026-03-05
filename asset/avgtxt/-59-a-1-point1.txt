@@ -2,15 +2,15 @@ AR15(0)<Speaker>AR15</Speaker>||:Last enemy down.
 SOPII(0)<Speaker>SOPII</Speaker><Shake>0.1</Shake>||:Mwahahaha! Mine, they're all mine!
 AR15(0)<Speaker>AR15</Speaker><Shake>0.1</Shake>||:...Stop tugging on it, that's my leg.
 M4A1(0)<Speaker>M4A1</Speaker>||:Confirming target objectives have been eliminated. Mission accomplished. Please advise.
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:Well done, M4.
-M16(5)<通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:Sis 16! +...No, this is just the first encounter. It's not the time to be overconfident.
-M16(5)<通讯框><Speaker>M16A1</Speaker>;M4A1(0)||:Miss Persica's experiments do require your full attention.
-M16(5)<通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:I'm not sure what Miss Persica is trying to achieve here. But since it's her, she must be planning for something. +Hopefully we won't let her down...
-M16(5)<通讯框><Speaker>M16A1</Speaker>;M4A1(0)||:With 15 and SOP2 by your side, you should try relax a bit.
-M16(5)<通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:...Speaking of which, why isn't Sis 16 with us?
-M16(5)<通讯框><Speaker>M16A1</Speaker>;M4A1(0)||:I have my own mission. +Even if I'm not present, you can definitely handle it.
-M16(5)<通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:I've always had this strange feeling that once our communication cuts off, Sis 16 would just disappear...
-M16(5)<通讯框><Speaker>M16A1</Speaker>;M4A1(0)||:Haha, is that another one of SOP2's ghost stories?
-M16(5)<通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:...I got carried away. I will focus on the mission.
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:Don't get too nervous. I'll stay online, so just contact me if there's anything wrong.
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:Well done, M4.
+M16(5)<scan><通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:Sis 16! +...No, this is just the first encounter. It's not the time to be overconfident.
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>;M4A1(0)||:Miss Persica's experiments do require your full attention.
+M16(5)<scan><通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:I'm not sure what Miss Persica is trying to achieve here. But since it's her, she must be planning for something. +Hopefully we won't let her down...
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>;M4A1(0)||:With 15 and SOP2 by your side, you should try relax a bit.
+M16(5)<scan><通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:...Speaking of which, why isn't Sis 16 with us?
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>;M4A1(0)||:I have my own mission. +Even if I'm not present, you can definitely handle it.
+M16(5)<scan><通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:I've always had this strange feeling that once our communication cuts off, Sis 16 would just disappear...
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>;M4A1(0)||:Haha, is that another one of SOP2's ghost stories?
+M16(5)<scan><通讯框>;M4A1(0)<Speaker>M4A1</Speaker>||:...I got carried away. I will focus on the mission.
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:Don't get too nervous. I'll stay online, so just contact me if there's anything wrong.
 M4A1(0)<Speaker>M4A1</Speaker>||:Okay, I see...

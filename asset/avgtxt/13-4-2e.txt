@@ -50,19 +50,19 @@ NPC-Jason(1)<Speaker>K</Speaker>||:I knew you'd ask.
 ()<Speaker></Speaker>||:K picks up his radio and punches in a code.
 NPC-Jason(1)<Speaker>K</Speaker>||:Take this. Havier wants to talk.
 ()<Speaker></Speaker>||:K tosses the radio to the Commander, who catches it and takes a deep breath. +Now that it's over, the real dealer is bound to make his appearance. +The Commander presses the speaker against their ear, and they hear a nonchalant and all too familiar voice.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:Congratulations, Commander! +You actually survived. I must say, you have once again surpassed all our expectations.
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Congratulations, Commander! +You actually survived. I must say, you have once again surpassed all our expectations.
 NPC-Havel(0)<Speaker>Commander</Speaker>||:Thanks, but it has certainly cost us a great deal.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:At least you and your Dolls lived through the ordeal. We have also paid a heavy price to ensure that.
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||:At least you and your Dolls lived through the ordeal. We have also paid a heavy price to ensure that.
 NPC-Havel(0)<Speaker>Commander</Speaker>||:Are you referring to the air strike?
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:See? You forced Statesec's hand after all.
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||:See? You forced Statesec's hand after all.
 NPC-Havel(0)<Speaker>Commander</Speaker>||:They didn't do it for us, but for the children that Ange discovered.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:Well, that's one of the reasons. +Making such a hasty move is going to lead to a whole bunch of new problems, but that's alright, they've already rounded up a lot of people. We can't expect everything to go our way, can we?
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||:Well, that's one of the reasons. +Making such a hasty move is going to lead to a whole bunch of new problems, but that's alright, they've already rounded up a lot of people. We can't expect everything to go our way, can we?
 NPC-Havel(0)<Speaker>Commander</Speaker>||:I just hope it's all worth it.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:The Vympel troops are standing by outside the base, they'll take over from here. As for you, Griffin's chopper will transport you back to base soon. Then you can enjoy a proper vacation – you've earned it.
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||:The Vympel troops are standing by outside the base, they'll take over from here. As for you, Griffin's chopper will transport you back to base soon. Then you can enjoy a proper vacation – you've earned it.
 NPC-Havel(0)<Speaker>Commander</Speaker>||:How very thoughtful of you.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:Hahaha, this operation has achieved some very surprising results, after all. It has put me in a very good mood. +That Isomer, Ange's juvenile Nytos, and the Relic phenomenon that just took place.
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||:Hahaha, this operation has achieved some very surprising results, after all. It has put me in a very good mood. +That Isomer, Ange's juvenile Nytos, and the Relic phenomenon that just took place.
 NPC-Havel(0)<Speaker>Commander</Speaker>||:Relic phenomenon?
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:According to our surveillance... +Persica's "top priority" Doll and the Sangvis units at the Starfish construct disintegrated and vanished into thin air.
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||:According to our surveillance... +Persica's "top priority" Doll and the Sangvis units at the Starfish construct disintegrated and vanished into thin air.
 NPC-Havel(0)<Speaker>Commander</Speaker>||:?!
 NPC-Havel(0)<Speaker>Havier</Speaker>||:Don't be alarmed. Though I personally find it hard to believe, our experts claim that they have merely been transported to some other place. + "Reverse Collapse" - have you heard of this term before?
 NPC-Havel(0)<Speaker>Commander</Speaker>||:You're not going to give me a theory lecture, are you?

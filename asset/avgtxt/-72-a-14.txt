@@ -17,7 +17,7 @@ PPQ(0)<Speaker>Brigitte</Speaker>||:...Got it.
 ()<Speaker></Speaker>||:In an area where small cargo transports come and go, the Doll squad concealed among them have taken their position.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:
 Sterling(0)<Speaker>Sterling</Speaker>||:We have arrived at the airport. Ready to execute Operation Eris.
-NPC-maya(2)<Speaker>Q</Speaker><通讯框>||:<color=#00CCFF>Copy that. Operation Eris is go.</color>
+NPC-maya(2)<Speaker>Q</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that. Operation Eris is go.</color>
 Sterling(0)<Speaker>Sterling</Speaker>||:Acknowledged.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_disconnect</SE1>:
 ()<Speaker></Speaker>||:After completing the status report, Sterling turns to her teammates.
@@ -152,26 +152,26 @@ NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||<CGDelay>0.5</CGDelay>:...+Before Miss C
 ()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><BGM>GF_21winter_avg_pathfinder</BGM>:...In a temporary safe house.
 ()<Speaker></Speaker>||:With Task Force DEFY's assistance, Squad 404 promptly completes the preparations for the hacking operation.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>We've seized control over the plant. We're now ready to hack the system. Let's see if we'll find anything new.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Good. Let me know first thing.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Copy that.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:And don't take too long. Keep an eye out for Paradeus' reinforcements.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Sure. DEFY is looking out for us and monitoring the enemy's movements.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Understood.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>We've seized control over the plant. We're now ready to hack the system. Let's see if we'll find anything new.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Good. Let me know first thing.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:And don't take too long. Keep an eye out for Paradeus' reinforcements.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Sure. DEFY is looking out for us and monitoring the enemy's movements.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Understood.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_disconnect</SE1>:The comms line disconnects.
 ()<Speaker>Commander</Speaker>||:Right, how are things on Lunasia's end?
 AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||:Please hold on for a moment while I contact XM556.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:
-NPC-XM556(0)<Speaker>XM556</Speaker><通讯框>||:<color=#00CCFF>Commander.</color>
-NPC-XM556(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:How's Lunasia doing?
-NPC-XM556(0)<Speaker>XM556</Speaker><通讯框>||:<color=#00CCFF>We have moved to a new safe house. All is good.</color>
-NPC-XM556(0)<Speaker>XM556</Speaker><通讯框>||:<color=#00CCFF>But Miss Lunasia's physical condition doesn't seem to be the best...</color>
-NPC-XM556(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:What's the problem?
-NPC-XM556(0)<Speaker>XM556</Speaker><通讯框>||:<color=#00CCFF>She has been sleeping for much longer lately, and her sleep quality hasn't been very good. She frequently has nightmares and talks a lot in her sleep, saying all kinds of strange things.</color>
-NPC-XM556(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Like what?
-NPC-XM556(0)<Speaker>XM556</Speaker><通讯框>||:<color=#00CCFF>Something about a holy maiden...</color>+<color=#00CCFF>Several of her basic physiological indicators are deteriorating rapidly. By the standards of an adult female, I'd say she's currently rather weak.</color>
-NPC-XM556(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...+Once we get the Elmo back and everything checks out, we'll have her returned to the vehicle for a full check-up.+Keep a close eye on her condition in the meantime.
-NPC-XM556(0)<Speaker>XM556</Speaker><通讯框>||:<color=#00CCFF>Understood.</color>
+NPC-XM556(0)<Speaker>XM556</Speaker><scan><通讯框>||:<color=#00CCFF>Commander.</color>
+NPC-XM556(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:How's Lunasia doing?
+NPC-XM556(0)<Speaker>XM556</Speaker><scan><通讯框>||:<color=#00CCFF>We have moved to a new safe house. All is good.</color>
+NPC-XM556(0)<Speaker>XM556</Speaker><scan><通讯框>||:<color=#00CCFF>But Miss Lunasia's physical condition doesn't seem to be the best...</color>
+NPC-XM556(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:What's the problem?
+NPC-XM556(0)<Speaker>XM556</Speaker><scan><通讯框>||:<color=#00CCFF>She has been sleeping for much longer lately, and her sleep quality hasn't been very good. She frequently has nightmares and talks a lot in her sleep, saying all kinds of strange things.</color>
+NPC-XM556(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Like what?
+NPC-XM556(0)<Speaker>XM556</Speaker><scan><通讯框>||:<color=#00CCFF>Something about a holy maiden...</color>+<color=#00CCFF>Several of her basic physiological indicators are deteriorating rapidly. By the standards of an adult female, I'd say she's currently rather weak.</color>
+NPC-XM556(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...+Once we get the Elmo back and everything checks out, we'll have her returned to the vehicle for a full check-up.+Keep a close eye on her condition in the meantime.
+NPC-XM556(0)<Speaker>XM556</Speaker><scan><通讯框>||:<color=#00CCFF>Understood.</color>
 ()||<黑屏1><SE1>AVG_tele_disconnect</SE1>:
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2><CGDelay>0.5</CGDelay>:
 ()||<黑屏1>:

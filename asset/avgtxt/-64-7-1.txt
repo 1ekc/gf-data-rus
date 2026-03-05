@@ -95,10 +95,10 @@ NPC-Motoko(0)<Position>-40,130</Position><Speaker>Motoko Kusanagi</Speaker>||:So
 ()||<黑屏2><BIN>418</BIN>:
 ()||:...The next day.+In an unknown area in Sector 2Z64.
 ()||<SE1>AVG_whitenoise</SE1><BGM>GF_EV9_Story</BGM>:At the agreed time, the Commander logs into the virtual world to meet up with the Major.
-NPC-HK433(0)<通讯框><Speaker>No. 390</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Good morning, Commander.</color>+<color=#00CCFF>Please instruct on the operational plans for today.</color>
-NPC-HK433(0)<通讯框><同时置暗><Speaker>Commander</Speaker>||:Let's close the shop for the day.
-NPC-HK433(4)<通讯框><Speaker>No. 390</Speaker>||:<color=#00CCFF>Resting on the day after your grand opening... Are you sure about this?</color>
-NPC-HK433(4)<通讯框><同时置暗><Speaker>Commander</Speaker>||:That'll give you some time to do some market research and study how the other shops are run.+I'm also a bit tired. I want to take it easy today and have a stroll in the neighborhood.
+NPC-HK433(0)<scan><通讯框><Speaker>No. 390</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Good morning, Commander.</color>+<color=#00CCFF>Please instruct on the operational plans for today.</color>
+NPC-HK433(0)<scan><通讯框><同时置暗><Speaker>Commander</Speaker>||:Let's close the shop for the day.
+NPC-HK433(4)<scan><通讯框><Speaker>No. 390</Speaker>||:<color=#00CCFF>Resting on the day after your grand opening... Are you sure about this?</color>
+NPC-HK433(4)<scan><通讯框><同时置暗><Speaker>Commander</Speaker>||:That'll give you some time to do some market research and study how the other shops are run.+I'm also a bit tired. I want to take it easy today and have a stroll in the neighborhood.
 NPC-HK433(0)<Position>0,130</Position><Speaker>No. 390</Speaker>||:<color=#00CCFF>Understood. I will submit a comprehensive report.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:After ending the call, the Commander heads toward their destination.
 NPC-Purin(0)<Position>-50,50</Position><Speaker>Purin Esaki</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:Morning, Commander!
@@ -107,7 +107,7 @@ NPC-Purin(0)<Position>-50,50</Position><Speaker>Purin Esaki</Speaker>||<SE1>AVG_
 ()<Speaker>Commander</Speaker>||:Purin, what are you doing here?
 NPC-Purin(0)<Position>-50,50</Position><Speaker>Purin Esaki</Speaker>||:I was just passing by, so I thought I'd drop by and see how your new shop is doing.+I overheard your conversation with No. 390. Looks like you're planning on take a break today.
 ()<Speaker>Commander</Speaker>||:Yeah. Purin, I've decided to—
-NPC-Motoko(0)<通讯框><Speaker>Motoko Kusanagi</Speaker>||:<color=#00CCFF>Commander, if your intention is to let Esaki into the plan, you might want to reconsider.</color>
+NPC-Motoko(0)<scan><通讯框><Speaker>Motoko Kusanagi</Speaker>||:<color=#00CCFF>Commander, if your intention is to let Esaki into the plan, you might want to reconsider.</color>
 ()<Speaker>Commander</Speaker>||:...
 NPC-Purin(0)<Position>-50,50</Position><Speaker>Purin Esaki</Speaker>||:What have you decided?
 NPC-Purin(0)<Position>-50,50</Position><同时置暗><Speaker>Commander</Speaker>||:I've decided... to do my job properly.
@@ -146,12 +146,12 @@ NPC-Purin(0)<Position>-50,50</Position><Speaker>Purin Esaki</Speaker>||:You're r
 ()||<黑点1>:At the Commander's repeated urging, Purin finally leaves with reluctance.
 ()||<SE1>AVG_footsteps_cave</SE1><BGM>BGM_Empty</BGM><黑点2>:After double-checking there is no one behind them, the Commander goes on their way to meet up with the Major and Batou.
 ()<Speaker>Commander</Speaker>||<SE1>Stop_AVG_loop</SE1>:...Major, are you suspecting Purin?
-NPC-Motoko(0)<通讯框><Speaker>Motoko Kusanagi</Speaker>||:<color=#00CCFF>Doesn't hurt to be cautious before we find out what is causing her abnormal behavior.</color>
-NPC-Motoko(0)<通讯框><同时置暗><Speaker>Commander</Speaker>||:Right.+I'm almost at the rendezvous point.
-NPC-Motoko(2)<通讯框><Speaker>Motoko Kusanagi</Speaker>||<BGM>GF_21winter_avg_pathfinder</BGM>:<color=#00CCFF>You're bringing your little tail along?</color>
-NPC-Motoko(2)<通讯框><同时置暗><Speaker>Commander</Speaker>||:...
-NPC-Motoko(2)<通讯框><Speaker>Motoko Kusanagi</Speaker>||:<color=#00CCFF>7 o'clock, behind the white jeep.</color>
-NPC-Motoko(0)<通讯框><Speaker>Motoko Kusanagi</Speaker>||:<color=#00CCFF>Sort that out before you come.</color>
+NPC-Motoko(0)<scan><通讯框><Speaker>Motoko Kusanagi</Speaker>||:<color=#00CCFF>Doesn't hurt to be cautious before we find out what is causing her abnormal behavior.</color>
+NPC-Motoko(0)<scan><通讯框><同时置暗><Speaker>Commander</Speaker>||:Right.+I'm almost at the rendezvous point.
+NPC-Motoko(2)<scan><通讯框><Speaker>Motoko Kusanagi</Speaker>||<BGM>GF_21winter_avg_pathfinder</BGM>:<color=#00CCFF>You're bringing your little tail along?</color>
+NPC-Motoko(2)<scan><通讯框><同时置暗><Speaker>Commander</Speaker>||:...
+NPC-Motoko(2)<scan><通讯框><Speaker>Motoko Kusanagi</Speaker>||:<color=#00CCFF>7 o'clock, behind the white jeep.</color>
+NPC-Motoko(0)<scan><通讯框><Speaker>Motoko Kusanagi</Speaker>||:<color=#00CCFF>Sort that out before you come.</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:...+<color=#A9A9A9>...Mizukane? Or is it Purin?</color>
 ()||<SE1>AVG_footsteps_cave</SE1>:The Commander stops in their tracks, then doubles back as if they'd gone the wrong way.
 ()||<SE1>Stop_AVG_loop</SE1>:As they approach the jeep, they spot the familiar long white tresses.

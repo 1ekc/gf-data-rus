@@ -24,16 +24,16 @@ Danuvia43M(0)<Speaker>43M</Speaker>||:Roger.
 ()||<BIN>9</BIN><黑屏2>:...Five minutes later.
 ()||<黑屏1>:
 ZastavaM21(0)<Position>0,100</Position><Speaker></Speaker>||<BIN>187</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:Beep— +Zas picks up Skorpion's comm.
-ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:<color=#00CCFF>Hello! Skorpion at the ready!</color> +<color=#00CCFF> How's the progress on your end?</color>
-ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<通讯框>||:This is Zas M21. +43M and I have arrived at the position and are finishing the deployment of the turret. +Progress so far is all good.
-ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:<color=#00CCFF>...That~</color>
-ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<通讯框>||:What?
-ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:<color=#00CCFF>...~%... It...</color>
-ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<通讯框>||:The signal's not very stable... Likely due to intense radiation interference in the area. +Please respond with "1" if you copy.
-ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:<color=#00CCFF>1... ~1...</color>
-ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<通讯框>||:Okay, 43M and I will proceed as planned. +We'll start diverting the ELIDs in exactly five minutes. Your squad just needs to evacuate through the backup route. +Please acknowledge using "1".
-ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><通讯框>||:<color=#00CCFF>...111~</color>
-ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<通讯框>||:See you in five minutes.
+ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><scan><通讯框>||:<color=#00CCFF>Hello! Skorpion at the ready!</color> +<color=#00CCFF> How's the progress on your end?</color>
+ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<scan><通讯框>||:This is Zas M21. +43M and I have arrived at the position and are finishing the deployment of the turret. +Progress so far is all good.
+ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><scan><通讯框>||:<color=#00CCFF>...That~</color>
+ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<scan><通讯框>||:What?
+ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><scan><通讯框>||:<color=#00CCFF>...~%... It...</color>
+ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<scan><通讯框>||:The signal's not very stable... Likely due to intense radiation interference in the area. +Please respond with "1" if you copy.
+ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><scan><通讯框>||:<color=#00CCFF>1... ~1...</color>
+ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<scan><通讯框>||:Okay, 43M and I will proceed as planned. +We'll start diverting the ELIDs in exactly five minutes. Your squad just needs to evacuate through the backup route. +Please acknowledge using "1".
+ZastavaM21(0)<Position>0,100</Position>;VZ61(0)<Speaker>Skorpion</Speaker><scan><通讯框>||:<color=#00CCFF>...111~</color>
+ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(0)<scan><通讯框>||:See you in five minutes.
 ZastavaM21(0)<Position>0,100</Position><Speaker></Speaker><同时置暗>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Beep—the communication hangs up. +43M is looking over; she looks like her mood has recovered.
 Danuvia43M(0)<Speaker>43M</Speaker>;ZastavaM21(0)<Position>0,100</Position>||:Great work, Miss Zas. Deployment has been completed without error! +Has Skorpion caused you any trouble?
 Danuvia43M(0);ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>||<BGM>BGM_NightOPS</BGM>:43M... You're my biggest trouble. +The turret coordinates have shifted by 0.001mm. You call that "without error"? +Do you really think I won't catch that?
@@ -52,9 +52,9 @@ Danuvia43M(0)<Speaker>43M</Speaker>;ZastavaM21(0)<Position>0,100</Position>||:Mi
 ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>||<BGM>BGM_Empty</BGM>:...! +Me...and you, alike...?
 ZastavaM21(0)<Position>0,100</Position><Speaker></Speaker><同时置暗>||<SE1>AVG_ElecSpace</SE1>:Beep—Beep— +As her neural cloud overheats, Zas crashes and freezes in place.
 ZastavaM21(0)<Position>0,100</Position><Speaker></Speaker><同时置暗>||<SE1>AVG_tele_connect</SE1>:Shortly after, a sharp alert abruptly interrupts the conversation between the two.
-ZastavaM21(0)<Position>0,100</Position><Speaker></Speaker><同时置暗>;VZ61(1)<Speaker>Skorpion</Speaker><通讯框>||<BGM>BGM_stage4</BGM>:<color=#00CCFF>This damn signal... Hello?! Zas! Do you copy?</color> +<color=#00CCFF>Didn't you say five minutes? It's been eight minutes already! What the heck are you two doing?!</color> +<color=#00CCFF>The ELIDs are making their way towards us!</color>
-ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(1)<通讯框>||:...I... same...
-VZ61(1)<Speaker>Skorpion</Speaker><通讯框>||:<color=#00CCFF>WHAT? What did you say, Zas?! It's too late! </color> +<color=#00CCFF>You guys...&... hurry~%...</color>
+ZastavaM21(0)<Position>0,100</Position><Speaker></Speaker><同时置暗>;VZ61(1)<Speaker>Skorpion</Speaker><scan><通讯框>||<BGM>BGM_stage4</BGM>:<color=#00CCFF>This damn signal... Hello?! Zas! Do you copy?</color> +<color=#00CCFF>Didn't you say five minutes? It's been eight minutes already! What the heck are you two doing?!</color> +<color=#00CCFF>The ELIDs are making their way towards us!</color>
+ZastavaM21(0)<Position>0,100</Position><Speaker>Zas M21</Speaker>;VZ61(1)<scan><通讯框>||:...I... same...
+VZ61(1)<Speaker>Skorpion</Speaker><scan><通讯框>||:<color=#00CCFF>WHAT? What did you say, Zas?! It's too late! </color> +<color=#00CCFF>You guys...&... hurry~%...</color>
 Danuvia43M(0)<Speaker>43M</Speaker><Shake>||<SE1>AVG_tele_disconnect</SE1>:Ah... Not good, Miss Zas! We missed the optimal operation window! +We must come up with a corrective measure ASAP...!
 ()||<黑屏1>:
 ()||<BIN>9</BIN><黑屏2><SE1>AVG_ElecSpace</SE1>:Bzzz—Bzzz— +The comm is interrupted by signal interference.

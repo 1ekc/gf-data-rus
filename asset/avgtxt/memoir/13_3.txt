@@ -5,9 +5,9 @@
 ()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:Type 92 has been cross referencing the available stock, number of users, retail duration, time to sell-out and so on for various online shopping stores over the past two days.+In the end, she's come up with a list of the sites which are the most difficult to buy ingredients from.
 ()||<SE1>AVG_Card_Reader</SE1>:Type 92 selects the top-ranked site and sends it over to Type 56-1.
 92typeMod(0)<Speaker>Type 92</Speaker>||:Enjoy this, I went to a lot of effort to make you suffer...
-56-1type(0)<Speaker>Type 56-1</Speaker><通讯框>;92typeMod(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>92, what did you just send over?</color>
-56-1type(0)<通讯框>;92typeMod(0)<Speaker>Type 92</Speaker>||:It's a link for zongzi ingredients. I only trust the stuff from this platform.
-56-1type(0)<Speaker>Type 56-1</Speaker><通讯框>;92typeMod(0)||:<color=#00CCFF>Whoa, that expensive?! And the quantities are limited too... Wait, do they only have 50 portions of these black truffles...? Do people actually buy this stuff?</color>
+56-1type(0)<Speaker>Type 56-1</Speaker><scan><通讯框>;92typeMod(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>92, what did you just send over?</color>
+56-1type(0)<scan><通讯框>;92typeMod(0)<Speaker>Type 92</Speaker>||:It's a link for zongzi ingredients. I only trust the stuff from this platform.
+56-1type(0)<Speaker>Type 56-1</Speaker><scan><通讯框>;92typeMod(0)||:<color=#00CCFF>Whoa, that expensive?! And the quantities are limited too... Wait, do they only have 50 portions of these black truffles...? Do people actually buy this stuff?</color>
 92typeMod(0)<Speaker>Type 92</Speaker>||:Yup. They start selling at 5 AM and close once they're out. +As for whether or not people actually buy it... Well, you can give it a try. Let me know how it goes tomorrow.
 ()||<SE1>AVG_tele_disconnect</SE1>:Type 92 smiles as she ends the transmission.
 92typeMod(0)<Speaker>Type 92</Speaker>||:Oh no, 56-1 isn't going to get off THAT easily. I need to make things a little more interesting for her.

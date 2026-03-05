@@ -7,7 +7,7 @@ SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:I'm not in the mood. +Right no
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Aw, don't worry, RO! +I'm sure we'll be able to fix everything soon enough in this new base!
 ()||:...Click.+...Communications link established.
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:This signal is... Miss Kalina!
-SOPIIDamage(0);NPC-Kalin(1)<Speaker>Kalin</Speaker><通讯框>||:Haha, you look pretty lively, SOP-II.
+SOPIIDamage(0);NPC-Kalin(1)<Speaker>Kalin</Speaker><scan><通讯框>||:Haha, you look pretty lively, SOP-II.
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kalin(1)||:Yup yup! RO and I are alright!
 SOPIIDamage(0)<Speaker>RO635</Speaker>;NPC-Kalin(1)||:I'm not alright in the slightest!
 SOPIIDamage(0);NPC-Kalin(0)<Speaker>Kalin</Speaker>||:We're kind of busy now so I can't really chitchat... +Miss Persica said she wants to see the two of you...
@@ -71,7 +71,7 @@ SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:Ahaha... really? +Doesn
 SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:It's not often that I praise you, so you should just leave it at that. +Let's go to the cafe next, and then hurry back to the dorm...
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Alright! The adventure continues~
 ()||:...Click.+...Communications link established.
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:SOP-II, RO, it's been a while since we last met.
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:SOP-II, RO, it's been a while since we last met.
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:M-Miss Persica!
 SOPIIDamage(0);NPC-Persica(2)<Speaker>Persica</Speaker>||:Your adventure's going to have to wait for a while, SOPMOD II. +Come to my lab now, and be quick about it. +If we're lucky, we should be able to settle your problems before dinner.
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Roger! We're heading over now!

@@ -1,9 +1,9 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>357</BIN><BGM>m_avg_casual</BGM>:...Temporary command post, Berlin. +Utterly exhausted, the Commander flops down on the sofa right after entering the room.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Since you've safely returned to the command post, we'll go get some rest ourselves.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:Sure, your work for the day is over too.
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Hurry, 45! If we don't leave soon, the queues are going to be super long!</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Coming. See you tomorrow, Commander.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Since you've safely returned to the command post, we'll go get some rest ourselves.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Sure, your work for the day is over too.
+UMP9Mod(0)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>Hurry, 45! If we don't leave soon, the queues are going to be super long!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Coming. See you tomorrow, Commander.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends, and the Commander lifts a hand up to their forehead.
 RO635Mod(0)<Speaker>RO635</Speaker>||:How was Miss Ange?
 ()<Speaker>Commander</Speaker>||:Well enough. At the very least, she looked like she could still easily snap my neck.

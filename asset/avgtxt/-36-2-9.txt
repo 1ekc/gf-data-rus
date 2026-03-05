@@ -9,14 +9,14 @@ RO635(4);M4A1Mod(4)<Speaker>M4A1</Speaker>||:The Commander...the Commander will 
 M4A1Mod(4)<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:M4 shoves the soldier's corpse off the control panel and raises her gun again.
 M4A1Mod(4)<Speaker>System</Speaker>||:<color=#00CCFF>Firing order received. Adjusting coordinates... Adjustment failed... Commencing diagnosis.</color>+<color=#00CCFF>Warning, control interface has been locked down. Ammunition loading process has been interrupted.</color>
 M4A1Mod(4)<Speaker>M4A1</Speaker>||:What the hell?!
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>They're breaking through the lower levels, M4! I can't hold them back anymore! Are you still in there?!</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>They're breaking through the lower levels, M4! I can't hold them back anymore! Are you still in there?!</color>
 RO635(5)<Speaker>RO635</Speaker>;M4A1Mod(4)||:The ammunition feed system has been shut down. The Military probably took over the magazine. +Leader, how should we proceed?
 M4A1Mod(3)<Speaker>M4A1</Speaker>||:Proceed... Proceed...
 M4A1Mod(3)<Speaker></Speaker>||:M4's neural cloud goes blank.
 M4A1Mod(3)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>The probability of taking back the magazine with the Dolls on hand...is practically zero. But we have to do it...</color>+<color=#A9A9A9>But the Commander isn't here... I shouldn't fight this battle that I'm almost certain to lose... I need to do it...</color>+We proceed by...
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>;M4A1Mod(3)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>There is still something you can do.</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>;M4A1Mod(3)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>There is still something you can do.</color>
 NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>||:Dandelion!+What were the casualties from that last shot? How about the Commander?
-NytoIsomer(3)<Speaker>Dandelion</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>The armored train was hit. The Commander and the echelons made it into the quarantine wall, but they didn't get out of the blast radius in time. Current casualty status is unknown.</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>;M4A1Mod(0)||:<color=#00CCFF>The armored train was hit. The Commander and the echelons made it into the quarantine wall, but they didn't get out of the blast radius in time. Current casualty status is unknown.</color>
 NytoIsomer(3);M4A1Mod(2)<Speaker>M4A1</Speaker>||:Thank goodness it wasn't a direct hit...
 NytoIsomer(3)<Speaker>Dandelion</Speaker>;M4A1Mod(2)||:<color=#00CCFF>Why thank you, I'm doing quite fine myself.</color>+<color=#00CCFF>Your mission is not completely doomed yet. If you take control of the coastal defense artillery and destroy the Military trains, we have a shot at turning this around.</color>
 NytoIsomer(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||:We're being pinned down by Military infantry, and they hold the magazine.
@@ -30,13 +30,13 @@ NytoIsomer(3)<Speaker>Dandelion</Speaker>;M4A1Mod(4)||:<color=#00CCFF>A moment, 
 RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(4)||<SE1>AVG_tele_disconnect</SE1>:Are you sure about this? If S.F. attacks us, I'm not sure if I can get you out of here in your current state.
 RO635(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:At times like this, we have no choice but to place our hopes on a gamble. We NEED to take the coastal defense cannon.+If the Commander is still around, this cannon will buy time for Griffin, and we'll have the chance to rally and regroup.+If something has happened to the Commander...+...+...Then taking the cannon and destroying as many Military units as we can is the last thing we can do for the Commander.
 RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(4)||:I'm with you.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I've finished hacking the S.F. units. They're approaching you now.</color>+<color=#00CCFF>Best of luck for what comes next.</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I've finished hacking the S.F. units. They're approaching you now.</color>+<color=#00CCFF>Best of luck for what comes next.</color>
 M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Acknowledged. +Get ready!
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:As they see the Dolls approach, the Military troops immediately lay down a ferocious barrage of suppressive fire.+The Dolls instantly become the targets of a hail of bullets and shells.
 M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:Now! 15, SOP-II, follow the plan I just synced to you!
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>;M4A1Mod(4)||:<color=#00CCFF>Got it!</color>+<color=#00CCFF>But enemy fire is too heavy, you go first!</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>;M4A1Mod(4)||:<color=#00CCFF>Got it!</color>+<color=#00CCFF>But enemy fire is too heavy, you go first!</color>
 RO635(5)<Speaker>RO635</Speaker>;M4A1Mod(4)||:SOP-II, cover us!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>;M4A1Mod(4)||:<color=#00CCFF>Ahaha, alright! Watch as I scrap them all!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>;M4A1Mod(4)||:<color=#00CCFF>Ahaha, alright! Watch as I scrap them all!</color>
 M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Don't get too caught up in fighting, SOP-II! Stay with us! SOP-II!
 M4A1Mod(4)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:As he watches the Dolls attempt their escape, a desperate soldier charges out of his cover.
 NPC-Yegor(3)<Speaker>Soldier</Speaker>||:Go to hell, you tin cans!

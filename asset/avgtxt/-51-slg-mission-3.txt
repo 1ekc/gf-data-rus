@@ -1,7 +1,7 @@
 ()||<BIN>10</BIN>:
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker><通讯框>||:<color=#00CCFF>Desert Eagle in position.</color>
-MG4(0)<Speaker>Gr MG4</Speaker><通讯框>||:<color=#00CCFF>Gr MG4 in position. Where are the enemy units?</color>
+DesertEagle(0)<Speaker>Desert Eagle</Speaker><scan><通讯框>||:<color=#00CCFF>Desert Eagle in position.</color>
+MG4(0)<Speaker>Gr MG4</Speaker><scan><通讯框>||:<color=#00CCFF>Gr MG4 in position. Where are the enemy units?</color>
 SIGMCX(0)<Speaker>SIG MCX</Speaker>||:VSK-94 and I are suppressing them... Please head over to P90. +Things are getting real now. +Take them out!
-DesertEagle(0)<Speaker>Desert Eagle</Speaker><通讯框>||:<color=#00CCFF>Understood.</color>
-MG4(0)<Speaker>Gr MG4</Speaker><通讯框>||:<color=#00CCFF>Got it.</color>
+DesertEagle(0)<Speaker>Desert Eagle</Speaker><scan><通讯框>||:<color=#00CCFF>Understood.</color>
+MG4(0)<Speaker>Gr MG4</Speaker><scan><通讯框>||:<color=#00CCFF>Got it.</color>

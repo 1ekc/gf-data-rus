@@ -7,7 +7,7 @@ PP90()<Speaker>PP90</Speaker>||<BGM>BGM_Danger</BGM>:敌人从你的5点方向�
 PP90()<Speaker>PP90</Speaker>||:Vivi！到你身后啦！Vivi——！
 ()||:……如果我还能活到明天的话。
 ()||<SE2>Gunfight</SE2><黑屏1>:……砰砰！
-PP90(0)<Speaker>PP90</Speaker><通讯框>||<BIN>88</BIN><黑屏2>:诶……已经搞定了？
+PP90(0)<Speaker>PP90</Speaker><scan><通讯框>||<BIN>88</BIN><黑屏2>:诶……已经搞定了？
 PP90(0);Vector(0)<Speaker>Vector</Speaker>||:如果等你喊出来才行动，我早就死了。
 PP90(0)<Speaker>PP90</Speaker>;Vector(0)||:都怪Vivi你老是不理我！谁知道你是不是太紧张了没听到！+喂，7点钟——
 PP90(0);Vector(0)<Speaker>Vector</Speaker>||:我听到了。
@@ -21,7 +21,7 @@ PP90(0)<Speaker>PP90</Speaker>;Vector(0)||:抱、抱歉，我太紧张了……+
 PP90(0);Vector(0)<Speaker>Vector</Speaker>||:看仔细点吧，它们不是丧尸，至少不是人类说的那种。
 Vector(0)<Speaker></Speaker>||<SE1>Rope</SE1>:……Vector用脚勾开残骸的腹部。
 Vector(0)<Speaker>Vector</Speaker>||:它们是人形，和我们一样。+虽然来历不明，但一样能被子弹消灭。
-PP90(0)<Speaker>PP90</Speaker><通讯框>;Vector(0)||:呜……可光是外形已经够可怕了，就像RFB玩的那些游戏里的东西一样！+而且我们识别不了它们的信号，根本没法提前侦测……+Vivi……你真的不怕它们吗？
+PP90(0)<Speaker>PP90</Speaker><scan><通讯框>;Vector(0)||:呜……可光是外形已经够可怕了，就像RFB玩的那些游戏里的东西一样！+而且我们识别不了它们的信号，根本没法提前侦测……+Vivi……你真的不怕它们吗？
 PP90(0);Vector(0)<Speaker>Vector</Speaker>||:（冷笑）就算害怕，现在跑还来得及吗？+要么让我自己死在这里，要么拉所有人形来陪葬……你会算术吧？
 PP90(0);Vector(0)<Speaker></Speaker>||<震屏><SE1>MachineGunBurst</SE1>:……砰砰！
 PP90(0)<Speaker>PP90</Speaker>;Vector(0)||:这个时候就别闹别扭啦，Vivi！+我也不想让你一个人守在这里，但是这些丧尸突然就闯了进来，据点已经乱成一锅粥了——
@@ -39,5 +39,5 @@ PP90(0);Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:我可是贪生怕死的�
 ()||<黑屏2><BIN>9</BIN>:……Vector关闭了通讯。
 Vector()<Speaker>Vector</Speaker>||<黑屏1><SE1>Select</SE1>:安全第一？+这里可是战场啊……
 ()||<BIN>10</BIN><黑屏2>:…………同一时间。
-PP90(0)<Speaker>PP90</Speaker><通讯框>||<黑屏1>:指挥官，Vivi那边暂时没有问题，我可以回来帮助您了！+……是，Vivi能撑得住，但是丧尸的攻势很凶，我们动作还是得再快点！+所以撤离行动怎么样了？大家都准备好了吗？+诶？这么快就找到突破口了？不愧是指挥官，太棒啦！+请您快点清理撤退通道，带领我们离开这里吧！
+PP90(0)<Speaker>PP90</Speaker><scan><通讯框>||<黑屏1>:指挥官，Vivi那边暂时没有问题，我可以回来帮助您了！+……是，Vivi能撑得住，但是丧尸的攻势很凶，我们动作还是得再快点！+所以撤离行动怎么样了？大家都准备好了吗？+诶？这么快就找到突破口了？不愧是指挥官，太棒啦！+请您快点清理撤退通道，带领我们离开这里吧！
 ()||<BIN>10</BIN><黑点2>:

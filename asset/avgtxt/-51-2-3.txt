@@ -47,11 +47,11 @@ NPC-Jason(2)<Speaker>K</Speaker>||:I understand... I'll make sure not to get too
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>84</BIN><黑屏2><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_Moto_Run</SE1><BGM>GF_21summer_avg_SecretAgent</BGM>:After reaching out to turn off the radio broadcast, Romy taps her ear mike with one hand while holding the steering wheel with the other.
 NPC-Romy(4)<Speaker>Romy</Speaker>||<SE1>AVG_tele_connect</SE1>:Sterling? Brigitte?
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>Present.</color>
-PPQ(0)<Speaker>Brigitte</Speaker><通讯框>||:<color=#00CCFF>At your service.</color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>Present.</color>
+PPQ(0)<Speaker>Brigitte</Speaker><scan><通讯框>||:<color=#00CCFF>At your service.</color>
 ()<Speaker></Speaker>||:Romy nonchalantly glances into her rear view mirror. +Four black motorcars are following her without bothering to conceal themselves.
 NPC-Romy(4)<Speaker>Romy</Speaker>||:As we predicted, they're about to make their move. +I need a pickup. Also, compute the best route for me.
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>Processing. We'll meet you at Fallback Point A.</color> +<color=#00CCFF>We've sent the quickest route to your vehicle terminal.</color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>Processing. We'll meet you at Fallback Point A.</color> +<color=#00CCFF>We've sent the quickest route to your vehicle terminal.</color>
 ()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:Bangbangbang—!!
 ()<Speaker></Speaker>||<SE1>AVG_brake</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:Screech—
 NPC-Romy(7)<Speaker>Romy</Speaker>||<BGM>10051</BGM>:Tsk!
@@ -60,13 +60,13 @@ NPC-Romy(7)<Speaker>Romy</Speaker>||<BGM>10051</BGM>:Tsk!
 NPC-Romy(7)<Speaker>Romy</Speaker>||:...
 ()<Speaker></Speaker>||:There are four cars and 15 men altogether. She has no chance at all in a stand-up firefight. No matter what, she has to hold out until she can rendezvous with the Dolls.
 NPC-Romy(11)<Speaker>Romy</Speaker>||<SE1>Select</SE1>:Speaking of which... are you REALLY sure I can reach the fallback point safely?
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>...I swear it upon my honor. These people will not pose a threat to you. </color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>...I swear it upon my honor. These people will not pose a threat to you. </color>
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Car_Skid</SE1>:Romy glances at the route displayed on the terminal, then hits the brakes, causing the vehicle to fishtail wildly as it comes about.
 ()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1><SE1>AVG_Bullet_Hit_Body</SE1>:Using this opening, she takes aim at her pursuers and accurately puts a bullet into the skull of the assassin leaning out of the sunroof.
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Moto_Run</SE1>:Immediately after that, she eases off the brakes and steps on the gas, causing the vehicle to lurch forward swiftly on a new heading.
 ()||<黑点1>:
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||<BIN>315</BIN><黑点2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Alert! New targets at 3 o'clock!</color>
-PPQ(0)<Speaker>Brigitte</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Alert! New targets at 9 o'clock!</color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||<BIN>315</BIN><黑点2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Alert! New targets at 3 o'clock!</color>
+PPQ(0)<Speaker>Brigitte</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Alert! New targets at 9 o'clock!</color>
 NPC-Romy(10)<Speaker>Romy</Speaker>||:<size=50>...Are you two parroting each other or something?</size>
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:While she's still thinking— +A racing black shadow charges through the other side of the cross junction she's passing through and slams into her vehicle like a thunderbolt.
 ()<Speaker></Speaker>||<SE1>AVG_Car_Crash</SE1><BGM>10065</BGM><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:It is a heavy cross-country vehicle, and considering it was going fast enough to trigger alerts, Romy's vehicle flips end over end through the air, grinding along the road before crashing into a grocery store display window and coming to a halt. +The car's side door is visibly sunken in, and the empty front axle is still spinning wildly.
@@ -81,14 +81,14 @@ NPC-Romy(11)<Speaker>Romy</Speaker>||:...Humph.
 ()<Speaker></Speaker>||<BGM>GF_21summer_avg_SecretAgent</BGM>:The sparks from the explosion ignite the car's gas tank, and the ensuing fireball consumes the assassins and the grocery store.
 ()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1><BIN>9</BIN>:Meanwhile, Romy is thrown through the broken glass windows by the force of the explosion and rolls into the alley behind the store.
 ()||<黑点1>:
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||<SE1>AVG_tele_connect</SE1><黑点2><BIN>86</BIN><SE1>AVG_Alarm_Distance</SE1>:<color=#00CCFF>Still alive?</color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||<SE1>AVG_tele_connect</SE1><黑点2><BIN>86</BIN><SE1>AVG_Alarm_Distance</SE1>:<color=#00CCFF>Still alive?</color>
 NPC-Romy(8)<Speaker>Romy</Speaker>||:So much for your "honor".
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>Don't relax just yet. There are two more teams nearby. </color> +<color=#00CCFF>Please proceed to the appointed location ASAP.</color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>Don't relax just yet. There are two more teams nearby. </color> +<color=#00CCFF>Please proceed to the appointed location ASAP.</color>
 NPC-Romy(11)<Speaker>Romy</Speaker>||:The car's gone, so I'll have to proceed on foot. +Compute a new route for me.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><SE1>RunStep</SE1>:As Romy hurries down the alley, wave after wave of noise reaches her ears. It almost drowns out the sound of her communicator.
 NPC-Romy(8)<Speaker>Romy</Speaker>||:Why is it so noisy anyway?
-PPQ(0)<Speaker>Brigitte</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>There is a large refugee protest up ahead.</color> +<color=#00CCFF>Recomputing a route for you!</color>
+PPQ(0)<Speaker>Brigitte</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>There is a large refugee protest up ahead.</color> +<color=#00CCFF>Recomputing a route for you!</color>
 NPC-Romy(11)<Speaker>Romy</Speaker>||:No need!
 ()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1><震屏3>:Bang!
 NPC-Romy(11)<Speaker>Romy</Speaker><Shake>0.1</Shake>||<SE1>AVG_Bullte_Ricochet</SE1>:Tsk!
@@ -100,17 +100,17 @@ NPC-Romy(11)<Speaker>Romy</Speaker>||:This hairstyle is really inconvenient.
 ()<Speaker>Refugee</Speaker>||<SE1>AVG_Crowd</SE1>:<size=50>...Protest! We oppose the jingoists invading our homes!</size>
 ()<Speaker>Refugee</Speaker>||:<size=50>We oppose the Soviets taking our land!</size>
 NPC-Romy(8)<Speaker>Romy</Speaker>||:...Why are they doing this?
-PPQ(0)<Speaker>Brigitte</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>According to the protesters, they're against the government's decision to shelter the Soviet refugees...</color>
+PPQ(0)<Speaker>Brigitte</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>According to the protesters, they're against the government's decision to shelter the Soviet refugees...</color>
 NPC-Romy(11)<Speaker>Romy</Speaker>||:How "unfortunate"... +Wait a minute, are they talking about PMCs like Griffin?
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>Yes, look out behind you!</color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>Yes, look out behind you!</color>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><震屏3>:Bang! Bang! Bang!
 NPC-Romy(11)<Speaker>Romy</Speaker>||:...A refugee protest?
 ()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:After getting behind cover, Romy chucks a tear gas canister out behind her—in the cramped alley, any pursuers will need to pass through the gas cloud in order to get to her.
 ()<Speaker></Speaker>||:Soviet refugees... Could that be—
 NPC-Romy(11)<Speaker>Romy</Speaker>||:I'll reach the fallback point in 15 minutes. +Also, send me a diagram of the route Griffin is taking into the country.
 ()<Speaker></Speaker>||:—Oberstein's enemy was never the Stasi. Everything he did was pointing to the same target.
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>Got it! We'll be there right away!</color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>Got it! We'll be there right away!</color>
 ()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:Bang!
 NPC-Romy(11)<Speaker>Romy</Speaker><Shake>0.1</Shake>||<SE1>AVG_Bullte_Ricochet</SE1>:Your "right away" had better be reliable— Tsk! See you at the fallback point! +We'll talk once we've taken care of this lot!
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||<SE1>Select</SE1>:<color=#00CCFF>Roger!</color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||<SE1>Select</SE1>:<color=#00CCFF>Roger!</color>
 ()||<黑点1><BIN>10</BIN>:

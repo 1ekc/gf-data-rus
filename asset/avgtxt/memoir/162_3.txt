@@ -3,12 +3,12 @@
 Saiga308(0)<Position>0,-30</Position><Speaker>Saiga 308</Speaker>||<BGM>Campaion-34</BGM>:Gr P30 has been keeping her eye on the door for over an hour now, still nothing?
 AR57(0)<Speaker>AR-57</Speaker>||:Ann will probably not show up today given that we just bumped into her last night. And you know, humans need to sleep and all that.
 Saiga308(0)<Position>0,-30</Position><Speaker>Saiga 308</Speaker>||:<color=#00CCFF>Gr P30, what's the situation on your end? </color>
-P30(0)<Scale>0.95</Scale><Speaker>P30</Speaker><通讯框>;Saiga308(0)<Position>0,-30</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Don't buzz me, no update means nothing new.</color>
+P30(0)<Scale>0.95</Scale><Speaker>P30</Speaker><scan><通讯框>;Saiga308(0)<Position>0,-30</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Don't buzz me, no update means nothing new.</color>
 Saiga308(0)<Position>0,-30</Position><Speaker>Saiga 308</Speaker>||<SE1>AVG_tele_disconnect</SE1>:What a headache of a team...
 AR57(0)<Speaker>AR-57</Speaker>||:Uhm?
 Saiga308(0)<Position>0,-30</Position><Speaker>Saiga 308</Speaker>||:Nothing.
-P30(0)<Scale>0.95</Scale><Speaker>P30</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I heard it! </color>
-P30(0)<Scale>0.95</Scale><Speaker>P30</Speaker><通讯框>||:<color=#00CCFF>Wait, she just showed up!</color>
+P30(0)<Scale>0.95</Scale><Speaker>P30</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I heard it! </color>
+P30(0)<Scale>0.95</Scale><Speaker>P30</Speaker><scan><通讯框>||:<color=#00CCFF>Wait, she just showed up!</color>
 ()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1>:
 ()||<黑屏2><BIN>22</BIN><关闭蒙版><BGM>BGM_Room</BGM>:Inside the workshop, ghastly light shines on the girl's face; her usual nervous timidity is nowhere to be found.
 ()||:Ann is fully engrossed in inspecting the machine in front of her. The huge robotic arm sits idle in the middle of the room while the girl marvels at its ingenious design.

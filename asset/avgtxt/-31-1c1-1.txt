@@ -14,9 +14,9 @@ NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:Risk and reward come hand 
 NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:You mean the white ones?
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||<黑屏1>0,3</黑屏1>:Yes... but not just them.
 ()||<BIN>169</BIN><黑屏2>0,5</黑屏2>:Ange looks down at the city below, and her expression grows severe. +Just then, a transmission comes in. She slowly raises a hand to accept it.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Statesec has arrived.</color>+<color=#00CCFF>Griffin has also passed the test.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Statesec has arrived.</color>+<color=#00CCFF>Griffin has also passed the test.</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:I told you Griffin would be fine.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>There will be more tests to come.</color>+<color=#00CCFF>The Statesec agent teams will buy you time. I hope your efficiency doesn't disappoint them.</color>
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>There will be more tests to come.</color>+<color=#00CCFF>The Statesec agent teams will buy you time. I hope your efficiency doesn't disappoint them.</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:Mm.
 NPC-AngeStreet(0)<Speaker></Speaker>||<黑屏1>:Ange hangs up.
 Angelia()||<黑屏1><BIN>9</BIN>:This city is prosperous now, but how long will this prosperity last?

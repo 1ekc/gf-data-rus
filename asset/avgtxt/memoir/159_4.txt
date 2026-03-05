@@ -39,13 +39,13 @@ M1887(2)<Speaker>M1887</Speaker>||<黑屏1>:This should be the place. There are 
 ()||<黑屏2><BIN>281</BIN><黑屏1>:M1887 is not skilled at infiltration and is spotted by the refugees, and the commotion draws the armed men...
 M1887(3)<Speaker></Speaker>||<黑屏2><BIN>15</BIN><SE2>Gunfight</SE2><SE1>AVG_rifle_finalshot_3h</SE1><SE1>AVG_pistol_finalshot_n</SE1>:Countless bullets rain down on M1887's shield. The sound of gunfire fills the main chamber of the air raid shelter.
 M1887(3)<Speaker></Speaker><Shake>||:M1887 carefully gets up from behind her cover and peers out beyond.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>How is it going? Don't force it if things are too dire. Break out as soon as you can.</color>
-NPC-Kalin(0)<通讯框>;M1887(3)<Speaker>M1887</Speaker>||:My shield will hold for now, but...there are too many of them.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>;M1887(3)||:<color=#00CCFF>Just hang in there, reinforcements are on the way!</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>How is it going? Don't force it if things are too dire. Break out as soon as you can.</color>
+NPC-Kalin(0)<scan><通讯框>;M1887(3)<Speaker>M1887</Speaker>||:My shield will hold for now, but...there are too many of them.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>;M1887(3)||:<color=#00CCFF>Just hang in there, reinforcements are on the way!</color>
 NPC-Soldier(0)<Speaker></Speaker>;M1887(3)||:The armed men point their pulse weaponry at M1887.
 NPC-Soldier(0)<Speaker>Distorted Voice</Speaker>;M1887(3)||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Griffin again? That bunch of robots don't know when to quit! Take her down.</color>
 M1887(3)<Speaker>M1887</Speaker>||<SE1>Heartbeat</SE1>:Kalina, I think... +They won't make it in time...
-(0)<Speaker></Speaker><通讯框>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:The signal cuts off...
+(0)<Speaker></Speaker><scan><通讯框>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:The signal cuts off...
 ()||<黑屏2><BIN>222</BIN>:The refugees are curled up in the corner of the main chamber. +M1887 is locked up in a sturdy cage and the onlooking refugees seem to be nervously waiting for something.
 M1887(3)<Speaker>M1887</Speaker>||:...
 M1887(3)<Speaker>Distorted Transmission</Speaker>||:<color=#00CCFF>Griffin robot, the fact that you'll be able to witness history means you won't be walking away empty-handed.</color>
@@ -99,12 +99,12 @@ NPC-PasserbyF(0)<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:RMB-93 recalls the sce
 NPC-PasserbyF(0)<Speaker>Girl</Speaker>||:You...
 NPC-PasserbyF(0)<Speaker>Girl</Speaker>||<黑屏1>:Have changed nothing...
 RMB93(7)<Speaker>RMB-93</Speaker>||<黑屏2><BIN>167</BIN>:At the very least, I can change myself... +And I need to take this old man away.
-RMB93(7);M1887(3)<Speaker>M1887</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Are you planning to take this bomb out of the signal range of the "Cradle"? </color> +<color=#00CCFF>If you fail, Knell will lead these refugees into the White Zone, you know.</color>
+RMB93(7);M1887(3)<Speaker>M1887</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Are you planning to take this bomb out of the signal range of the "Cradle"? </color> +<color=#00CCFF>If you fail, Knell will lead these refugees into the White Zone, you know.</color>
 RMB93(7)<Speaker>RMB-93</Speaker>;M1887(3)||:This is the best option.
 RMB93(7);M1887(3)<Speaker>M1887</Speaker>||:<color=#00CCFF>Got it. Go along with him first and we'll think of something later.</color>
 RMB93(7)<Speaker>RMB-93</Speaker>;M1887(3)||:We have 20 minutes to detonation. Can we find his son?
 RMB93(7);M1887(3)<Speaker>M1887</Speaker>||:Kalina, are you listening?
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>;M1887(3)||<SE1>AVG_tele_connect</SE1>：<color=#00CCFF>I'm here, I'll do my best to find him. You guys get him out first.</color>+<color=#00CCFF>Fall back to the location M1887 indicated! That's the only place where we can avoid the eyes of the White Zone.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>;M1887(3)||<SE1>AVG_tele_connect</SE1>：<color=#00CCFF>I'm here, I'll do my best to find him. You guys get him out first.</color>+<color=#00CCFF>Fall back to the location M1887 indicated! That's the only place where we can avoid the eyes of the White Zone.</color>
 RMB93(7)<Speaker>RMB-93</Speaker>;M1887(3)||:Come with me, old-timer. I'll take you to find your son.
 RMB93(7);NPC-Arla(0)<Speaker>Old Man</Speaker>||:Can you really do that? Don't be ridiculous. Those officials would never agree to a request from a commoner like me.
 RMB93(7)<Speaker>RMB-93</Speaker>;NPC-Arla(0)||:You WILL see your son. I guarantee it. He'll be waiting for you not far from here.
@@ -125,8 +125,8 @@ RMB93(7)<Speaker>RMB-93</Speaker>;NPC-Arla(0)||:Oh yes, it IS difficult to under
 RMB93(7);NPC-Arla(0)<Speaker>Old Man</Speaker>||:Your kind experience envy? +Still, you should keep it in check. It's of no use to you. +Hm? Where are we going?
 RMB93(7)<Speaker>RMB-93</Speaker>;NPC-Arla(0)||:As you wanted, we're going to see your son.
 RMB93(7);NPC-Arla(0)<Speaker>Old Man</Speaker>||:This road... We're heading toward an SOD outpost! +No, they'll lock me up as a terrorist! +I'm going to let go!
-RMB93(7);NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Something's not right, 93. I checked the records for people matching the old man's description, but there's no match among the populace.</color>
-RMB93(7)<Speaker>RMB-93</Speaker>;NPC-Kalin(0)<通讯框>||:How could this be?
+RMB93(7);NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Something's not right, 93. I checked the records for people matching the old man's description, but there's no match among the populace.</color>
+RMB93(7)<Speaker>RMB-93</Speaker>;NPC-Kalin(0)<scan><通讯框>||:How could this be?
 RMB93(7);NPC-Arla(0)<Speaker>Old Man</Speaker>||:You...You lied to me, I should have known! I'm taking you down with me!
 RMB93(7)<Speaker>RMB-93</Speaker>;NPC-Arla(0)||:The backup plan's gone off the rails. I need time...
 RMB93(7);NPC-Arla(0)<Speaker>Old Man</Speaker>||:You have ten minutes. If you don't want to see those refugees get beaten to death as terrorists after entering the White Zone, you'd better find my son! +Otherwise I won't move another step, and when I die, it'll be on you!
@@ -134,7 +134,7 @@ RMB93(7)<Speaker>RMB-93</Speaker>;NPC-Arla(0)||<BGM>BGM_Empty</BGM>:Wait a minut
 RMB93(7);NPC-Arla(0)<Speaker>Old Man</Speaker>||:...
 RMB93(7)<Speaker>RMB-93</Speaker>;NPC-Arla(0)||<BGM>BGM_NightOPS</BGM>:How did you know the disposition of the SOD's forces? +I didn't say a thing. How did you know they would be waiting for refugees on the other side?
 RMB93(7);NPC-Arla(0)<Speaker>Old Man</Speaker>||<BIN>99</BIN>:Are they...not?
-RMB93(7);NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Look out, RMB-93! That old man isn't listed as a refugee either!</color>
+RMB93(7);NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Look out, RMB-93! That old man isn't listed as a refugee either!</color>
 NPC-Arla(0)<Speaker></Speaker>||:The old man takes a pulse projector out of his pocket...
 RMB93(7)<Speaker>RMB-93</Speaker><Shake>||<震屏>:Ah—
 NPC-Arla(0)<Speaker>Old Man</Speaker>||:Looks like you saw through me in the end. +But I have to thank Griffin for getting me away.

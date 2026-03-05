@@ -41,23 +41,23 @@ NPC-Ange(34)<Speaker>Anna</Speaker>||:...You're not Teacher.
 NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:...
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>202</BIN><BGM>GF_21winter_battle_3</BGM>:Near the "Dead Sea", inside the Elmo.
-AR15Mod(0)<通讯框><Speaker>ST AR-15</Speaker>||:<color=#00CCFF>This is Taraxacum. We just encountered Morridow, but she fled.</color> +<color=#00CCFF>However, due to circumstances beyond our control, Dandelion insists on proceeding toward the command hub of Avernus.</color> +<color=#00CCFF>Hailing Daybreak and Fe56!</color>
-BossJustice(0)<通讯框><Speaker>Judge</Speaker>||:<color=#00CCFF>Fe56 copies. We're in the Eastern Tower, working our way upwards.</color>
-AR15Mod(0)<通讯框><Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Daybreak? Hailing Daybreak.</color>
-NPC-SCR(2)<通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>...Daybreak here.</color>
-AR15Mod(0)<通讯框><Speaker>ST AR-15</Speaker>;NPC-SCR(2)<通讯框>||:<color=#00CCFF>Why are you answering? Where's Aliana?</color>
-AR15Mod(0)<通讯框>;NPC-SCR(2)<通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>Her signal suddenly vanished. We're currently looking for her...</color>
-AR15Mod(0)<通讯框><Speaker>ST AR-15</Speaker>;NPC-SCR(2)<通讯框>||:<color=#00CCFF>...</color>
+AR15Mod(0)<scan><通讯框><Speaker>ST AR-15</Speaker>||:<color=#00CCFF>This is Taraxacum. We just encountered Morridow, but she fled.</color> +<color=#00CCFF>However, due to circumstances beyond our control, Dandelion insists on proceeding toward the command hub of Avernus.</color> +<color=#00CCFF>Hailing Daybreak and Fe56!</color>
+BossJustice(0)<scan><通讯框><Speaker>Judge</Speaker>||:<color=#00CCFF>Fe56 copies. We're in the Eastern Tower, working our way upwards.</color>
+AR15Mod(0)<scan><通讯框><Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Daybreak? Hailing Daybreak.</color>
+NPC-SCR(2)<scan><通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>...Daybreak here.</color>
+AR15Mod(0)<scan><通讯框><Speaker>ST AR-15</Speaker>;NPC-SCR(2)<scan><通讯框>||:<color=#00CCFF>Why are you answering? Where's Aliana?</color>
+AR15Mod(0)<scan><通讯框>;NPC-SCR(2)<scan><通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>Her signal suddenly vanished. We're currently looking for her...</color>
+AR15Mod(0)<scan><通讯框><Speaker>ST AR-15</Speaker>;NPC-SCR(2)<scan><通讯框>||:<color=#00CCFF>...</color>
 NPC-SCR(2)<Speaker>SCR</Speaker>||:<color=#00CCFF>I'll be taking command of Daybreak until we find her.</color>
-AR15Mod(0)<通讯框><Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Understood.</color>
+AR15Mod(0)<scan><通讯框><Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Understood.</color>
 AR18(2)<Position>0,70</Position><Speaker>AR-18</Speaker>||:Perhaps the same thing that's influencing Dandelion got to Aliana.
 Erma(13)<Speaker>Erma</Speaker>||:I'm picking up a lot of strange energy flows from Daybreak's position. +...I'm sending you some coordinates. Maybe you can make sense of this.
-NPC-SCR(2)<通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>Commander, this is Daybreak.</color> +<color=#00CCFF>We were looking at the coordinates that Mercury sent us, and they all have one thing in common.</color>
+NPC-SCR(2)<scan><通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>Commander, this is Daybreak.</color> +<color=#00CCFF>We were looking at the coordinates that Mercury sent us, and they all have one thing in common.</color>
 ()||:SCR points the camera to a strange-looking device. +It glows with an eerie radiance in the darkness. A structure shaped like outstretched branches is mounted on top of the cubic device.
-NPC-SCR(2)<通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>This thing always shows up where the disruption is the worst.</color> +<color=#00CCFF>We believe they're closely linked to the current, ever-growing disruption.</color>
-AR15Mod(0)<通讯框><Speaker>ST AR-15</Speaker>||:<color=#00CCFF>We've got them over here too.</color> +<color=#00CCFF>Dandelion tried hacking them before she started acting up.</color>
+NPC-SCR(2)<scan><通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>This thing always shows up where the disruption is the worst.</color> +<color=#00CCFF>We believe they're closely linked to the current, ever-growing disruption.</color>
+AR15Mod(0)<scan><通讯框><Speaker>ST AR-15</Speaker>||:<color=#00CCFF>We've got them over here too.</color> +<color=#00CCFF>Dandelion tried hacking them before she started acting up.</color>
 AR18(2)<Position>0,70</Position><Speaker>AR-18</Speaker>||:Taraxacum, escort Dandelion to the Nyto command hub.
-NPC-SCR(2)<通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>Roger.</color>
+NPC-SCR(2)<scan><通讯框><Speaker>SCR</Speaker>||:<color=#00CCFF>Roger.</color>
 ()||<黑屏1>:
 ()||<黑屏2><BIN>566</BIN>:...Paradeus Command Hub, Eastern Tower, Avernus.
 ()||<SE1>AVG_Door_Hit</SE1>:Bam! Following a loud crash, ST AR-15 and 416 barge into the Paradeus command hub.

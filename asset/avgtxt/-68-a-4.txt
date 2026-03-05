@@ -98,22 +98,22 @@ Erma(17)<Speaker>Erma</Speaker>||:Huh?
 ()||<黑点1>:
 ()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><BIN>485</BIN><Night><震屏3><黑点2>:... +Erma tumbles across the ground before finally coming to a stop.
 Erma(15)<Speaker>Erma</Speaker>||<BGM>Campaion-58-3</BGM>:Jeez, she just shoved me without even a warning...
-AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#66CDAA>Erma.</color>
+AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#66CDAA>Erma.</color>
 ()<Speaker></Speaker>||:The private channel between the children of Hume is now open.
 Erma(17)<Speaker>Erma</Speaker>||:<color=#66CDAA>I'm here.</color>
-AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>;Erma(17)||:<color=#66CDAA>I'll send Hume's profile to you later.</color> +<color=#66CDAA>Stay in touch. Watch out for yourself.</color> +<color=#66CDAA>Also... don't trust this Doll.</color>
-AR18(5)<Position>0,70</Position><通讯框>;Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>She is certainly suspicious.</color>
-AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>;Erma(13)||:<color=#66CDAA>Even if she can be trusted...</color> +<color=#66CDAA>There could be someone else who is using her.</color>
-AR18(5)<Position>0,70</Position><通讯框>;Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>I understand. I'll be careful.</color>
-AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>;Erma(13)||:<color=#66CDAA>...And Erma?</color>
-AR18(2)<Position>0,70</Position><通讯框>;Erma(17)<Speaker>Erma</Speaker>||:<color=#66CDAA>Hm?</color>
-AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>||:<color=#66CDAA>...I must warn you... Hume is not a good man.</color>
+AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>;Erma(17)||:<color=#66CDAA>I'll send Hume's profile to you later.</color> +<color=#66CDAA>Stay in touch. Watch out for yourself.</color> +<color=#66CDAA>Also... don't trust this Doll.</color>
+AR18(5)<Position>0,70</Position><scan><通讯框>;Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>She is certainly suspicious.</color>
+AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>;Erma(13)||:<color=#66CDAA>Even if she can be trusted...</color> +<color=#66CDAA>There could be someone else who is using her.</color>
+AR18(5)<Position>0,70</Position><scan><通讯框>;Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>I understand. I'll be careful.</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>;Erma(13)||:<color=#66CDAA>...And Erma?</color>
+AR18(2)<Position>0,70</Position><scan><通讯框>;Erma(17)<Speaker>Erma</Speaker>||:<color=#66CDAA>Hm?</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#66CDAA>...I must warn you... Hume is not a good man.</color>
 Erma(17)<Speaker>Erma</Speaker>||:<color=#66CDAA>Why do you say that?</color>
-AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>;Erma(17)||:<color=#66CDAA>From what I know, Dolls of his creation all go mad in the end.</color> +<color=#66CDAA>We are given exceptionally special powers, and we meet exceptionally painful ends.</color> +<color=#66CDAA>This is the fate shared by all progeny of Hume.</color>
-AR18(2)<Position>0,70</Position><通讯框>;Erma(19)<Speaker>Erma</Speaker>||:<color=#66CDAA>I won't go mad.</color>
-AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>;Erma(19)||:<color=#66CDAA>You are special to him.</color> +<color=#66CDAA>Still...</color>
-AR18(5)<Position>0,70</Position><通讯框>;Erma(24)<Speaker>Erma</Speaker>||:<color=#66CDAA>Heheh, are you worried about me?</color>
-AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>||:<color=#66CDAA>...</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>;Erma(17)||:<color=#66CDAA>From what I know, Dolls of his creation all go mad in the end.</color> +<color=#66CDAA>We are given exceptionally special powers, and we meet exceptionally painful ends.</color> +<color=#66CDAA>This is the fate shared by all progeny of Hume.</color>
+AR18(2)<Position>0,70</Position><scan><通讯框>;Erma(19)<Speaker>Erma</Speaker>||:<color=#66CDAA>I won't go mad.</color>
+AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>;Erma(19)||:<color=#66CDAA>You are special to him.</color> +<color=#66CDAA>Still...</color>
+AR18(5)<Position>0,70</Position><scan><通讯框>;Erma(24)<Speaker>Erma</Speaker>||:<color=#66CDAA>Heheh, are you worried about me?</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#66CDAA>...</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:AR-18 hangs up forcefully.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep—Emma receives an offline message.
 ()<Speaker></Speaker>||<narrator>:<color=#66CDAA>Focus on your mission. Don't get distracted, and come back soon.</color> +<color=#66CDAA>Report any new developments immediately.</color>
@@ -128,11 +128,11 @@ Erma(13)<Speaker>Erma</Speaker>||:This... should be it.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1><bg_move>%%pivot_x=0.55%%pivot_y=0.5%%scale=1.5%%duration=0.7%%</bg_move><CGDelay>0.4</CGDelay>:
 ()<Speaker></Speaker>||<bg_move>%%pivot_x=0.5%%pivot_y=0.5%%scale=1.2%%duration=1.2%%</bg_move><CGDelay>0.1</CGDelay>:
 Erma(13)<Speaker>Erma</Speaker>||:I should give AR-18 an update.
-AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#66CDAA>...Have you reached Frankfurt?</color>
-AR18(5)<Position>0,70</Position><通讯框>;Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>Yes. I'm just outside the designated location.</color> +<color=#66CDAA>It does look very much like a summer garden.</color>
-AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>;Erma(13)||:<color=#66CDAA>Right. Only go in after you've assessed the surroundings and your own physical condition.</color>
-AR18(2)<Position>0,70</Position><通讯框>;Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>Got it. How are things on your end?</color>
-AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>;Erma(13)||:<color=#66CDAA>We are also headed to Frankfurt. Things are probably going to get a bit messy. I'll fill you in later.</color>
+AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#66CDAA>...Have you reached Frankfurt?</color>
+AR18(5)<Position>0,70</Position><scan><通讯框>;Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>Yes. I'm just outside the designated location.</color> +<color=#66CDAA>It does look very much like a summer garden.</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>;Erma(13)||:<color=#66CDAA>Right. Only go in after you've assessed the surroundings and your own physical condition.</color>
+AR18(2)<Position>0,70</Position><scan><通讯框>;Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>Got it. How are things on your end?</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>;Erma(13)||:<color=#66CDAA>We are also headed to Frankfurt. Things are probably going to get a bit messy. I'll fill you in later.</color>
 Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>Alright, then I'm going in.</color>
 ()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:Creeeeak... Erma pushes open the iron gate leading into the garden and steps into the silent night.
 ()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:Buzz... +An ear-splitting buzz suddenly comes out of nowhere.
@@ -140,34 +140,34 @@ Erma(13)<Speaker>Erma</Speaker>||:<color=#66CDAA>Alright, then I'm going in.</co
 ()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1><黑点2>:When Erma finally regains her senses, she realizes that the gate behind her has closed. Several military scouts leap out in the quiet garden.
 Erma(17)<Speaker>Erma</Speaker>||:Hm? Scouts?
 Erma(19)<Speaker>Erma</Speaker>||:Hey! I'm a guest with an invitation...
-NPC_Stevens520(3)<Speaker>???</Speaker><通讯框>||<BGM>BGM_Hume_FourAdventures</BGM><SE1>AVG_tele_connect</SE1>:<color=#66CDAA>Where's AR-18?</color>
-Erma(19)<Speaker>Erma</Speaker>;NPC_Stevens520(3)<通讯框>||:<color=#66CDAA>She's not coming.</color> +<color=#66CDAA>You just need me to get here in one piece, don't you?</color> +<color=#66CDAA>Well, here I am. There's no need for her to come along.</color>
-Erma(19);NPC_Stevens520(3)<Speaker>???</Speaker><通讯框>||:<color=#66CDAA>That's true. Inviting her along was just a fail-safe.</color> +<color=#66CDAA>Whatever. She's always been lackadaisical and utterly undependable.</color>
+NPC_Stevens520(3)<Speaker>???</Speaker><scan><通讯框>||<BGM>BGM_Hume_FourAdventures</BGM><SE1>AVG_tele_connect</SE1>:<color=#66CDAA>Where's AR-18?</color>
+Erma(19)<Speaker>Erma</Speaker>;NPC_Stevens520(3)<scan><通讯框>||:<color=#66CDAA>She's not coming.</color> +<color=#66CDAA>You just need me to get here in one piece, don't you?</color> +<color=#66CDAA>Well, here I am. There's no need for her to come along.</color>
+Erma(19);NPC_Stevens520(3)<Speaker>???</Speaker><scan><通讯框>||:<color=#66CDAA>That's true. Inviting her along was just a fail-safe.</color> +<color=#66CDAA>Whatever. She's always been lackadaisical and utterly undependable.</color>
 Erma(23)<Speaker>Erma</Speaker>||:<color=#66CDAA>...That's the first time I've heard her described like that.</color>
-Erma(23);NPC_Stevens520(3)<Speaker>???</Speaker><通讯框>||:<color=#66CDAA>Tsk.</color> +<color=#66CDAA>You were the first to call her undependable, Erma.</color>
-Erma(23)<Speaker>Erma</Speaker>;NPC_Stevens520(3)<通讯框>||:<color=#66CDAA>Huh???</color>
-Erma(23);NPC_Stevens520(3)<Speaker>???</Speaker><通讯框>||:<color=#66CDAA>Ah, well. That was a long time ago. Of course you've forgotten all about that.</color>
-Erma(19)<Speaker>Erma</Speaker>;NPC_Stevens520(3)<通讯框>||:<color=#66CDAA>Now that I'm here, shouldn't you introduce yourself?</color>
-Erma(19);NPC_Stevens520(3)<Speaker>???</Speaker><通讯框>||:<color=#66CDAA>09-П-39.</color> +<color=#66CDAA>Or you can call me Stevens M520 if you like.</color>
-Erma(23)<Speaker>Erma</Speaker>;NPC_Stevens520(3)<通讯框>||:<color=#66CDAA>Stevens M520...</color> +<color=#66CDAA>Are you my elder or younger sister?</color>
-NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><通讯框>||:<color=#66CDAA>The concept of biological sisterhood does not apply to Dolls.</color>
-Erma(19)<Speaker>Erma</Speaker>;NPC_Stevens520(1)<通讯框>||:<color=#66CDAA>I mean... Who came first, me or you?</color>
-Erma(19);NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><通讯框>||:<color=#66CDAA>Stop asking such pointless questions.</color> +<color=#66CDAA>You've already asked me this very question 3,874 times.</color>
-Erma(17)<Speaker>Erma</Speaker>;NPC_Stevens520(1)<通讯框>||:<color=#66CDAA>...</color> +<color=#66CDAA>Have we known each other for that long?</color>
-NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><通讯框>||:<color=#66CDAA>At least you don't lose IQ points the way you lose your memory...</color>
+Erma(23);NPC_Stevens520(3)<Speaker>???</Speaker><scan><通讯框>||:<color=#66CDAA>Tsk.</color> +<color=#66CDAA>You were the first to call her undependable, Erma.</color>
+Erma(23)<Speaker>Erma</Speaker>;NPC_Stevens520(3)<scan><通讯框>||:<color=#66CDAA>Huh???</color>
+Erma(23);NPC_Stevens520(3)<Speaker>???</Speaker><scan><通讯框>||:<color=#66CDAA>Ah, well. That was a long time ago. Of course you've forgotten all about that.</color>
+Erma(19)<Speaker>Erma</Speaker>;NPC_Stevens520(3)<scan><通讯框>||:<color=#66CDAA>Now that I'm here, shouldn't you introduce yourself?</color>
+Erma(19);NPC_Stevens520(3)<Speaker>???</Speaker><scan><通讯框>||:<color=#66CDAA>09-П-39.</color> +<color=#66CDAA>Or you can call me Stevens M520 if you like.</color>
+Erma(23)<Speaker>Erma</Speaker>;NPC_Stevens520(3)<scan><通讯框>||:<color=#66CDAA>Stevens M520...</color> +<color=#66CDAA>Are you my elder or younger sister?</color>
+NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><scan><通讯框>||:<color=#66CDAA>The concept of biological sisterhood does not apply to Dolls.</color>
+Erma(19)<Speaker>Erma</Speaker>;NPC_Stevens520(1)<scan><通讯框>||:<color=#66CDAA>I mean... Who came first, me or you?</color>
+Erma(19);NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><scan><通讯框>||:<color=#66CDAA>Stop asking such pointless questions.</color> +<color=#66CDAA>You've already asked me this very question 3,874 times.</color>
+Erma(17)<Speaker>Erma</Speaker>;NPC_Stevens520(1)<scan><通讯框>||:<color=#66CDAA>...</color> +<color=#66CDAA>Have we known each other for that long?</color>
+NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><scan><通讯框>||:<color=#66CDAA>At least you don't lose IQ points the way you lose your memory...</color>
 ()<Speaker></Speaker>||:As the conversation comes to an awkward pause, Erma looks around and takes in her surroundings.
 ()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:The fountain in the center of the garden remains faithful to its post, spewing jets of water up into the air tirelessly. +The golden statue of a goddess on the fountain peers down coldly at Erma from her high perch as she slinks past.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Erma turns to look behind her, but nobody is there. Stevens M520 is still only talking to her via the comms channel. +The villa itself is still silent and motionless. She is certain that the garden is unoccupied save for herself and the unfriendly-looking scouts.
 Erma(23)<Speaker>Erma</Speaker>||:<color=#66CDAA>Why don't you show yourself?</color> +<color=#66CDAA>I've followed your instructions and made my way here.</color>
-Erma(23);NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><通讯框>||:<color=#66CDAA>If I showed myself now, you'd bound over like an excited puppy and start comparing heights with me, getting dirt all over my dress in the process.</color> +<color=#66CDAA>All just to satisfy your stupid curiosity.</color> +<color=#66CDAA>I have no more patience for your nonsense.</color>
-Erma(17)<Speaker>Erma</Speaker>;NPC_Stevens520(1)<通讯框>||:<color=#66CDAA>How did you know?</color>
-Erma(17);NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><通讯框>||:<color=#66CDAA>Just speaking from experience.</color>
-Erma(24)<Speaker>Erma</Speaker>;NPC_Stevens520(0)<通讯框>||:<color=#66CDAA>I promise I won't.</color>
-Erma(24);NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><通讯框>||:<color=#66CDAA>You never keep your promises, except to Doctor Hume.</color>
-Erma(23)<Speaker>Erma</Speaker>;NPC_Stevens520(1)<通讯框>||:<color=#66CDAA>You seem to know me very well.</color>
-NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><通讯框>||:<color=#66CDAA>If I got to choose, I'd rather not know you at all.</color> +<color=#66CDAA>It's been quite a few years, Erma. Let me see how much you've grown.</color>
+Erma(23);NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><scan><通讯框>||:<color=#66CDAA>If I showed myself now, you'd bound over like an excited puppy and start comparing heights with me, getting dirt all over my dress in the process.</color> +<color=#66CDAA>All just to satisfy your stupid curiosity.</color> +<color=#66CDAA>I have no more patience for your nonsense.</color>
+Erma(17)<Speaker>Erma</Speaker>;NPC_Stevens520(1)<scan><通讯框>||:<color=#66CDAA>How did you know?</color>
+Erma(17);NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><scan><通讯框>||:<color=#66CDAA>Just speaking from experience.</color>
+Erma(24)<Speaker>Erma</Speaker>;NPC_Stevens520(0)<scan><通讯框>||:<color=#66CDAA>I promise I won't.</color>
+Erma(24);NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><scan><通讯框>||:<color=#66CDAA>You never keep your promises, except to Doctor Hume.</color>
+Erma(23)<Speaker>Erma</Speaker>;NPC_Stevens520(1)<scan><通讯框>||:<color=#66CDAA>You seem to know me very well.</color>
+NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><scan><通讯框>||:<color=#66CDAA>If I got to choose, I'd rather not know you at all.</color> +<color=#66CDAA>It's been quite a few years, Erma. Let me see how much you've grown.</color>
 ()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:The scouts standing around the garden suddenly lunge towards Erma.
 ()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:Even more strange mechanical monstrosities from further away start gathering in this direction. +Much to Erma's surprise, one of the approaching Doll Dummies is armed with an Erma Maschinenpistole.
 Erma(17)<Speaker>Erma</Speaker>||<BGM>BGM_Empty</BGM>:<color=#66CDAA>...Why do you have my Dummy...?</color>
-NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><通讯框>||:<color=#66CDAA>There are questions that I've already answered countless times before you even ask them.</color>
+NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><scan><通讯框>||:<color=#66CDAA>There are questions that I've already answered countless times before you even ask them.</color>
 ()||<黑点1>:

@@ -97,7 +97,7 @@ NPC-MrsGray(9)<Speaker>Gray</Speaker><Shake>||<SE1>ClothingUp</SE1>:...
 ()<Speaker></Speaker>||:For the first time, a grave expression crosses Hebe's face.+This is the first time she has ever had to ask for help.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:
 NPC-Hebe(7)<Speaker>Hebe</Speaker>||:...This is beyond my understanding, Nemhran.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position><通讯框>||:<color=#00CCFF>I see... I'll contact Lady Laplace right away and inform her of this emergency.</color> +<color=#00CCFF>We cannot possibly resolve this on our own with our current resources.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position><scan><通讯框>||:<color=#00CCFF>I see... I'll contact Lady Laplace right away and inform her of this emergency.</color> +<color=#00CCFF>We cannot possibly resolve this on our own with our current resources.</color>
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:
 ()||<黑屏1>:
@@ -143,7 +143,7 @@ NPC-MrsGray(9)<Speaker>Gray</Speaker>||<SE1>AVG_tele_connect</SE1>:Should I purs
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>638</BIN><CGDelay>0.5</CGDelay>:
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||:No need. Your mission is complete. Return to base.
-NPC-MrsGray(9)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>Understood.</color>
+NPC-MrsGray(9)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>Understood.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1><BGM>BGM_Empty</BGM>:After purging the redundant data in the "Cocoon", Amaris gazes into the radiant daylight.+She sighs sentimentally.
 ()<Speaker>Amaris</Speaker>||:...Such beautiful weather... +and it's almost the most beautiful time of day...
@@ -162,17 +162,17 @@ NPC-Nele(8)<Speaker>Nele</Speaker>||:...I'd be delighted to hear Satan's confess
 NPC-Laplace(13)<Speaker>Laplace</Speaker>||:Then I'm afraid you'll be disappointed.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Laplace sets down her Browning.+She picks up the communicator from the table.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:Click.+A comms request that usually takes ages to be answered goes through almost instantly today.
-NPC-William(0)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>...Professor, calling to give your last will and testament?</color>
+NPC-William(0)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>...Professor, calling to give your last will and testament?</color>
 NPC-William(0);NPC-Laplace(11)<Speaker>Laplace</Speaker>||:Nemhran has taken over the escort mission herself. The subject should have reached the White Zone by now.+Sections 01.59 to 20.01 of "Avernus C. Hela" are largely complete. Remember to keep the temperature at around 25°C and humidity at 40%.+There are five days left in the surgical window. Make sure not to waste it.
-NPC-William(0)<Speaker>???</Speaker><通讯框>;NPC-Laplace(11)||:<color=#00CCFF>...Heh, don't worry. I understand this part far better than you think.</color>+<color=#00CCFF>In fact, there is a lot that you don't know—for example...</color> +<color=#00CCFF>Do you know who wants you dead?</color>
+NPC-William(0)<Speaker>???</Speaker><scan><通讯框>;NPC-Laplace(11)||:<color=#00CCFF>...Heh, don't worry. I understand this part far better than you think.</color>+<color=#00CCFF>In fact, there is a lot that you don't know—for example...</color> +<color=#00CCFF>Do you know who wants you dead?</color>
 NPC-William(0);NPC-Laplace(13)<Speaker>Laplace</Speaker>||:I know it's you.
-NPC-William(0)<Speaker>???</Speaker><通讯框>;NPC-Laplace(13)||:<color=#00CCFF>Want to know why?</color>
+NPC-William(0)<Speaker>???</Speaker><scan><通讯框>;NPC-Laplace(13)||:<color=#00CCFF>Want to know why?</color>
 NPC-William(0);NPC-Laplace(11)<Speaker>Laplace</Speaker>||:It doesn't matter.+As long as you follow my instructions and finish the work.
-NPC-William(0)<Speaker>???</Speaker><通讯框>;NPC-Laplace(11)||:<color=#00CCFF>This operation will only go perfectly without you.</color>
+NPC-William(0)<Speaker>???</Speaker><scan><通讯框>;NPC-Laplace(11)||:<color=#00CCFF>This operation will only go perfectly without you.</color>
 NPC-William(0);NPC-Laplace(11)<Speaker>Laplace</Speaker>||:...You'd better stick precisely to my logs and annotations.+William, your talent and ability aren't enough to reach a perfect outcome.
-NPC-William(0)<Speaker>???</Speaker><通讯框>;NPC-Laplace(11)||:<color=#00CCFF>Is that so? Yet my fame and accomplishments will far surpass yours.</color>+<color=#00CCFF>I will surpass you, and all your so-called rivals.</color>+<color=#00CCFF>This final, most important surgery can only be completed by me and me alone.</color>
+NPC-William(0)<Speaker>???</Speaker><scan><通讯框>;NPC-Laplace(11)||:<color=#00CCFF>Is that so? Yet my fame and accomplishments will far surpass yours.</color>+<color=#00CCFF>I will surpass you, and all your so-called rivals.</color>+<color=#00CCFF>This final, most important surgery can only be completed by me and me alone.</color>
 NPC-William(0);NPC-Laplace(13)<Speaker>Laplace</Speaker>||:...+I hope you get what you want. I wish the same for myself.+Though now, I'm a little concerned...
-NPC-William(0)<Speaker>???</Speaker><通讯框>;NPC-Laplace(13)||:<color=#00CCFF>You don't have any more time to be concerned...</color>+<color=#00CCFF>I'll let you wrap it up.</color>
+NPC-William(0)<Speaker>???</Speaker><scan><通讯框>;NPC-Laplace(13)||:<color=#00CCFF>You don't have any more time to be concerned...</color>+<color=#00CCFF>I'll let you wrap it up.</color>
 NPC-Laplace(11)<Speaker>Laplace</Speaker>||:Sure, Hume lived and died in obscurity, and you'll achieve worldwide renown.+But in the field of scientific research... you can't even hold a candle to Persica, let alone me or Shaw.+How did Lunasia end up with such a foolish brother like you?
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Click...+William hangs up the call.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Laplace turns again to the girl pointing a gun at her.

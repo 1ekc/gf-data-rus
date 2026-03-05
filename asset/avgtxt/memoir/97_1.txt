@@ -8,7 +8,7 @@ Thunder50(0)<Speaker>Thunder</Speaker>||<黑屏1>:950, wake up! +950!
 ()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><SE1>Explode</SE1>:BOOM!
 Thunder50(0)<Speaker></Speaker>||<黑点1><SE1>RunStep</SE1>:As a new wave of artillery fire comes raining down upon them, Thunder hauls M950A over her back and runs for a safe house at the back.
 NPC-Soldier(0)<Speaker>Assault Team Member</Speaker>||<黑点2>:Report, retreating Griffin Dolls sighted.
-NPC-Soldier(0);NPC-Yegor(3)<Speaker>Assault Team Leader</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><黑屏1>:<color=#00CCFF>Keep up with them, don't let them slip away!</color>
+NPC-Soldier(0);NPC-Yegor(3)<Speaker>Assault Team Leader</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1><黑屏1>:<color=#00CCFF>Keep up with them, don't let them slip away!</color>
 ()<Speaker></Speaker>||<BIN>70</BIN><黑屏2>:In the abandoned safe house...
 ()<Speaker>M950A</Speaker>||:...Ugh...
 Thunder50(0)<Speaker>Thunder</Speaker>||:950, are you awake?

@@ -26,10 +26,10 @@ G36(2)<Speaker>Gr G36</Speaker>||:While I am taking part in this mission as your
 G36(2)<Speaker>Gr G36</Speaker>||:...And if I had the chance, I would gladly serve you in such a capacity, Master.+Should I retire one day, I will give that option priority in my considerations.
 ()||<黑屏1>:With Gr G36's help, my clothes are quickly tidied up, and I head off to see the opera.
 ()||<BGM>BGM_Empty</BGM><BIN>96</BIN><黑屏2>:Gr G36 begins patrolling as planned inside the theater during the intermission.
-M1928A1(2)<Speaker>Thompson</Speaker><通讯框>||<BGM>BGM_Room</BGM>:Gr G36, can you hear me? What's your location?
+M1928A1(2)<Speaker>Thompson</Speaker><scan><通讯框>||<BGM>BGM_Room</BGM>:Gr G36, can you hear me? What's your location?
 G36(2)<Speaker>Gr G36</Speaker>||<BIN>80</BIN><黑屏2>:I'm in the first floor corridor. What did you find, Thompson?
-G36(2);M1928A1(2)<Speaker>Thompson</Speaker><通讯框>||:Bad news, it's just like what our intel said.+There are bombs in several of the empty VIP boxes on the second floor. Also, there are some suspicious-looking fellows in the vicinity as well...
-G36(2);M1928A1(2)<Speaker>Thompson</Speaker><通讯框>||:I'm gonna see which filthy little alleyway they plan on scurrying off to. I'll leave the bombs to you.
+G36(2);M1928A1(2)<Speaker>Thompson</Speaker><scan><通讯框>||:Bad news, it's just like what our intel said.+There are bombs in several of the empty VIP boxes on the second floor. Also, there are some suspicious-looking fellows in the vicinity as well...
+G36(2);M1928A1(2)<Speaker>Thompson</Speaker><scan><通讯框>||:I'm gonna see which filthy little alleyway they plan on scurrying off to. I'll leave the bombs to you.
 G36(2)<Speaker>Gr G36</Speaker>||<黑屏1>:Understood, I will disarm them.
 ()||<BIN>97</BIN><黑屏2>:Gr G36 heads to the second floor, checking inside each of the VIP boxes and disarming any bombs she finds.
 G36(2)<Speaker>Gr G36</Speaker>||:Hm, this should be the last box... It's surprisingly spacious in here.+They put enough explosives here to blow the theater's roof off... These attackers are crazy.
@@ -50,9 +50,9 @@ G36(2)<Speaker>Gr G36</Speaker>||:I just need to work for a little bit more. Can
 G36(2)<Speaker>Gr G36</Speaker>||:...This should be the last one.
 ()||:Gr G36 puts the disarmed bomb into a storage locker inside the VIP box and marks it.
 G36(2)<Speaker>Gr G36</Speaker>||:Alright, we'll extract these explosives after we clear everyone out of the building...+Thompson, how are things on your end?
-G36(2);M1928A1(2)<Speaker>Thompson</Speaker><通讯框><BGM>BGM_Empty</BGM>||:I'm on my way back.+Those punks led me to a nest chock full of prey... Unfortunately, I'll have to let the cops take credit for this one.+According to them, there are eight bombs in the theater. Did you get rid of all of them?
-G36(2)<Speaker>Gr G36</Speaker>;M1928A1(2)<通讯框>||<BGM>BGM_Danger</BGM>:...Wait, did you say eight bombs? I only disarmed seven.+Damn it...did I miss one?
-G36(2);M1928A1(2)<Speaker>Thompson</Speaker><通讯框>||:Then you'd better hurry.+The opera's about to end, which means the next performance is going to start soon...
+G36(2);M1928A1(2)<Speaker>Thompson</Speaker><scan><通讯框><BGM>BGM_Empty</BGM>||:I'm on my way back.+Those punks led me to a nest chock full of prey... Unfortunately, I'll have to let the cops take credit for this one.+According to them, there are eight bombs in the theater. Did you get rid of all of them?
+G36(2)<Speaker>Gr G36</Speaker>;M1928A1(2)<scan><通讯框>||<BGM>BGM_Danger</BGM>:...Wait, did you say eight bombs? I only disarmed seven.+Damn it...did I miss one?
+G36(2);M1928A1(2)<Speaker>Thompson</Speaker><scan><通讯框>||:Then you'd better hurry.+The opera's about to end, which means the next performance is going to start soon...
 ()||:Gr G36 ends the call with Thompson.
 G36(2)<Speaker>Gr G36</Speaker>||:...Where could the last one be?+I've checked under the cabinets and the tea tables in all of the rooms...
 ()||:Gr G36's eyes lock on to the sofa in the VIP box.+This box is much bigger than the others, probably one of those deluxe VIP rooms. It's furnished differently from the other rooms, with the seats swapped for a more comfortable sofa.

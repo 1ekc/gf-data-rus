@@ -3,13 +3,13 @@
 NPC-Soldier(0)<Speaker>Commando</Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:...You damn Doll!
 ()||<SE1>AVG_rifle_finalshot_h</SE1>:Thud. +Several shots later, a soldier collapses by M4's feet.
 M4A1Mod(4)<Speaker>M4A1</Speaker>||:Stop getting in our way! +Hailing RO and 15, how are things?
-RO635-NoArmor(0)<Speaker>RO635</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>SOP-II and I have taken down two people. There aren't a lot of enemy infantry, we can hold them!</color>
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>I've pinned their main force in the lower levels. Four have fled upstairs! Take care!</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>SOP-II and I have taken down two people. There aren't a lot of enemy infantry, we can hold them!</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>I've pinned their main force in the lower levels. Four have fled upstairs! Take care!</color>
 M4A1Mod(4)<Speaker>M4A1</Speaker>||:Four people, huh... Got it! +How much further, Dandelion?
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Two more corners. I can see through the security cameras that two people are trying to flank you just ahead.</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Two more corners. I can see through the security cameras that two people are trying to flank you just ahead.</color>
 M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:Crap...
 ()||<SE2>Gunfight</SE2>:M4 unconsciously ducks her head. Several bullets pass through the space it once occupied and impact against the wall.+M4 adjusts her shooting posture and swiftly guns down the soldier to her right.+The remaining soldier shoots at M4, but M4 shields her head with her arm while firing one-handed in his direction.
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The soldiers ahead of you are almost at the control room. You need to catch up to them.</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The soldiers ahead of you are almost at the control room. You need to catch up to them.</color>
 M4A1Mod(4)<Speaker>M4A1</Speaker>||:Tell me something I don't know!
 ()||:M4 rushes toward the control room at full speed. To her right, she sees another soldier also running as fast as he can.
 ()||<SE1>AVG_Punch</SE1>:Just as she's about to shoot him, a soldier hiding in a corner raises his knife to ambush her.

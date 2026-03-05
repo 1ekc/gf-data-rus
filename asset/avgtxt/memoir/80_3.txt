@@ -29,9 +29,9 @@ M1919A4(0)<Speaker>M1919A4</Speaker>||:Come on, answer me!
 C96(0)<Speaker>C96</Speaker>||:We lost the signal! Is M1919A4 doing alright?
 NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Let me see...
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Her signal disappeared in the playground, and her positions are jammed? I knew something was fishy.
-FP6(0)<Speaker>FP6</Speaker><通讯框>||:We've arrived in the vicinity of the playground. Ready to back her up.
+FP6(0)<Speaker>FP6</Speaker><scan><通讯框>||:We've arrived in the vicinity of the playground. Ready to back her up.
 ()<Speaker>Commander</Speaker>||:FP-6, you and 100 Shiki enter the playground. Deactivate the signal jammer and find M1919A4 as soon as possible.
-FP6(0)<Speaker>FP6</Speaker><通讯框>||:Roger!
+FP6(0)<Speaker>FP6</Speaker><scan><通讯框>||:Roger!
 ()||<黑屏1>:
 ()||<黑屏2><BIN>1</BIN><BGM>BGM_Danger</BGM>:...
 ()||<SE1>AVG_21Winter_Phone_Crash</SE1>:The communication headset is violently removed and carelessly thrown to the floor.

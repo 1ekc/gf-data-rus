@@ -62,7 +62,7 @@ NPC-Doctor(0)<Speaker>Doctor Rugosa</Speaker>||<BGM>GF_2022_Summer_ED</BGM>:Pain
 ()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><BGM>BGM_Empty</BGM>:In the small hours. Berlin Central Train Station, Germany.
 ()<Speaker></Speaker>||<SE1>AVG_AMB_Street</SE1><SE1>AVG_20Winter_Doorbell</SE1><SE1>AVG_BaseDoor_Open</SE1>:A train has just pulled into the station. As the train doors open, the busy passengers boil out in a clamorous tide that gushes out of the station like a flood. +Another Tareus walks among the crowd, gently touching her earlobe.
 NPC-Tareus(0)<Speaker>Tareus</Speaker>||<SE1>AVG_tele_connect</SE1>:Mission complete. +The objective "Grand Duke" has been intercepted.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Very good. You may return.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Very good. You may return.</color>
 NPC-Tareus(0)<Speaker>Tareus</Speaker>||:Understood.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +The transmission ends.
 ()<Speaker></Speaker>||:Tareus looks up at the starry sky. A shooting star is streaking across the heavens. +She looks away and follows the crowd out of the station.

@@ -96,7 +96,7 @@ NPC-Lily(17)<Speaker>Lily Hoshikawa</Speaker><Position>-40,30</Position><Scale>1
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Your mind is blank. You feel like you have had a very long dream, but you cannot recall anything about it.
 ()<Speaker>Commander</Speaker>||:I...
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep-beep-beep... +The communicator on the desk beeps sharply.
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||<BGM>BGM_Hello</BGM><震屏3>:<color=#00CCFF><size=50>Commander, you're finally picking up! Are you alright?!</size></color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||<BGM>BGM_Hello</BGM><震屏3>:<color=#00CCFF><size=50>Commander, you're finally picking up! Are you alright?!</size></color>
 NPC-Kalin(4)<Speaker>Commander</Speaker><同时置暗>||:I seem to have overslept... and I had a long, long dream...
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Phew... I'm glad you're okay... What did you dream about?</color>
 NPC-Kalin(5)<Speaker>Kalina</Speaker>||:<color=#00CCFF>I didn't become a boss and give you the cold shoulder, did I?</color>

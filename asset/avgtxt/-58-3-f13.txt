@@ -8,11 +8,11 @@ NytoWhite(0)<Speaker>Ashley</Speaker>||:They're just ordinary materials. Getting
 ()||<黑点1>:
 ()||<黑点2><BIN>229</BIN><SE1>AVG_BaseDoor_Open</SE1>:The negative-pressure door opens. Ashley scans the expensive supplies around her before making a call.
 NytoWhite(0)<Speaker>Ashley</Speaker>||:Big Sister Nemhran, we've finished destroying the contents of the supply rooms on levels 1 through 18 of the Western Tower. +I've just entered the storeroom on level 19 and sent you the inventory list.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Go straight down. Fourth rack, first shelf. Open the safe you find there.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Go straight down. Fourth rack, first shelf. Open the safe you find there.</color>
 ()||<SE1>AVG_tele_connect</SE1>:Beep—keycode received. +Ashley soon locates the safe and opens it carefully. +The safe contains another lockbox. Ashley takes it out; it feels very light in her hands.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Bring that box back—be careful with it.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Bring that box back—be careful with it.</color>
 NytoWhite(0)<Speaker>Ashley</Speaker>||:What about the other mat—
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Throw them all into Incinerator No. 8 in the power plant.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Throw them all into Incinerator No. 8 in the power plant.</color>
 NytoWhite(0)<Speaker>Ashley</Speaker>||:Understood!
 ()||:Ashley gestures at the Nytos behind her, and they start clearing the storeroom.
 ()||<黑点1>:
@@ -52,11 +52,11 @@ NytoWhite(0)<Speaker>Ashley</Speaker>||:Yes, Big Sister Nemhran.
 ()||:Ashley slowly departs.
 ()||:Nemhran massages her temple and relaxes a little.
 NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>||:Sana.
-NPC-Nemhran(0)<Position>0,30</Position>;NPC-Sana(7)<通讯框><Speaker>Sana</Speaker>||:<color=#00CCFF>...What is it?</color>
+NPC-Nemhran(0)<Position>0,30</Position>;NPC-Sana(7)<scan><通讯框><Speaker>Sana</Speaker>||:<color=#00CCFF>...What is it?</color>
 NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>;NPC-Sana(7)||:I have a gift for you, from Moscow. +It'll be in the usual place.
-NPC-Nemhran(0)<Position>0,30</Position>;NPC-Sana(7)<通讯框><Speaker>Sana</Speaker>||:<color=#00CCFF>Is this going to cause problems for you again?</color>
+NPC-Nemhran(0)<Position>0,30</Position>;NPC-Sana(7)<scan><通讯框><Speaker>Sana</Speaker>||:<color=#00CCFF>Is this going to cause problems for you again?</color>
 NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>;NPC-Sana(7)||:No, they're just some dead plant specimens.
-NPC-Nemhran(0)<Position>0,30</Position>;NPC-Sana(7)<通讯框><Speaker>Sana</Speaker>||:<color=#00CCFF>...That's good.</color> +<color=#00CCFF>After waking up this time, will I have to go to sleep again?</color>
+NPC-Nemhran(0)<Position>0,30</Position>;NPC-Sana(7)<scan><通讯框><Speaker>Sana</Speaker>||:<color=#00CCFF>...That's good.</color> +<color=#00CCFF>After waking up this time, will I have to go to sleep again?</color>
 NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>||:...Don't be scared. I'll be with you.
 ()||<黑点1>:
 ()||<黑点2><BIN>467</BIN><SE1>AVG_BaseDoor_Open</SE1>:Splash. There is movement in the pipes below the platform.
@@ -66,19 +66,19 @@ NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>||:...Don't be 
 ()||:...
 ()||<黑点1><SE1>Stop_AVG_loop</SE1><BGM>BGM_Empty</BGM>:
 ()||<黑点2><BIN>247</BIN><BGM>GF_22W_BGM_3</BGM>:...
-NPC-MorridowNew(0)<通讯框><Speaker>Morridow</Speaker>||:<color=#00CCFF>All the hazardous samples in the specimen rooms have been dealt with.</color>
-NPC-grig(0)<通讯框><Speaker>Grig</Speaker>||:<color=#00CCFF>Defensive forces in the Eastern Tower have been deployed. Awaiting instructions.</color>
-NPC-Bramedb(3)<通讯框><Speaker>Bramedb</Speaker>||:<color=#00CCFF>All expendables in the training rooms have been taken care of.</color>
-NytoWhite(0)<通讯框><Speaker>Ashley</Speaker>||:<color=#00CCFF>The core equipment for the Eastern Tower has been dismantled. All supplies apart from the ones you highlighted are being transported.</color>
-NytoWhite(0)<通讯框><Speaker>White Nyto</Speaker>||:<color=#00CCFF>The power circuit in the Eastern Tower has been repaired. Two backup circuits are now activated.</color>
-Nyto(1)<通讯框><Speaker>Black Nyto</Speaker>||:<color=#00CCFF>The Eastern Tower force field has been examined. Ready for activation at any time.</color>
+NPC-MorridowNew(0)<scan><通讯框><Speaker>Morridow</Speaker>||:<color=#00CCFF>All the hazardous samples in the specimen rooms have been dealt with.</color>
+NPC-grig(0)<scan><通讯框><Speaker>Grig</Speaker>||:<color=#00CCFF>Defensive forces in the Eastern Tower have been deployed. Awaiting instructions.</color>
+NPC-Bramedb(3)<scan><通讯框><Speaker>Bramedb</Speaker>||:<color=#00CCFF>All expendables in the training rooms have been taken care of.</color>
+NytoWhite(0)<scan><通讯框><Speaker>Ashley</Speaker>||:<color=#00CCFF>The core equipment for the Eastern Tower has been dismantled. All supplies apart from the ones you highlighted are being transported.</color>
+NytoWhite(0)<scan><通讯框><Speaker>White Nyto</Speaker>||:<color=#00CCFF>The power circuit in the Eastern Tower has been repaired. Two backup circuits are now activated.</color>
+Nyto(1)<scan><通讯框><Speaker>Black Nyto</Speaker>||:<color=#00CCFF>The Eastern Tower force field has been examined. Ready for activation at any time.</color>
 NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>||:Activate it now.
-Nyto(1)<通讯框><Speaker>Black Nyto</Speaker>||:<color=#00CCFF>Copy that.</color>
+Nyto(1)<scan><通讯框><Speaker>Black Nyto</Speaker>||:<color=#00CCFF>Copy that.</color>
 NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>||<SE1>AVG_whitenoise</SE1>:All Nytos, link your VCIs to mine. +I'm giving a general order.
-NytoWhite(0)<通讯框><Speaker>Ashley</Speaker>||:<color=#00CCFF>At once. Establishing connection.</color>
-NPC-Bramedb(3)<通讯框><Speaker>Bramedb</Speaker>||:<color=#00CCFF>You know I can't, given my attack methods.</color>
+NytoWhite(0)<scan><通讯框><Speaker>Ashley</Speaker>||:<color=#00CCFF>At once. Establishing connection.</color>
+NPC-Bramedb(3)<scan><通讯框><Speaker>Bramedb</Speaker>||:<color=#00CCFF>You know I can't, given my attack methods.</color>
 NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>||:You, Morridow, and Grig just have to stick to your allocated positions and timings.
-NPC-Bramedb(3)<通讯框><Speaker>Bramedb</Speaker>||:<color=#00CCFF>No problem.</color>
+NPC-Bramedb(3)<scan><通讯框><Speaker>Bramedb</Speaker>||:<color=#00CCFF>No problem.</color>
 ()||<黑点1>:
 ()||<黑点2><BIN>417</BIN>:
 ()||:Inside the Bee Sting Control Center, messages pour in and fill the screen like an endless flood.

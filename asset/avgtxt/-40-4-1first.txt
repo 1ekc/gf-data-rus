@@ -7,15 +7,15 @@ MP7(2)<Speaker>Gr MP7</Speaker>||:May I remind you that the Caretaker was DROWNI
 WA2000(6)<Speaker>WA2000</Speaker>||:Says you while you're casually sucking on your lollipop! +Hmm, but we've been looking for the Commander for a while now. Is there no other way...?
 ()||<SE1>AVG_rifle_finalshot_3h</SE1>:Just as everyone is at a loss, the sound of a ferocious gunfight comes from deep within the forest.
 WA2000(6)<Speaker>WA2000</Speaker>||:What's that?!
-FN57(6)<Speaker>Five-seven</Speaker><通讯框>||:<color=#00CCFF>Hello? Hello? Is Serdyukov there?</color> +<color=#00CCFF>Or anybody? Please respond if you copy. We found something incredible over here.</color>
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:Five-seven? That noise is coming from the area you're searching, right?
-FN57(6)<Speaker>Five-seven</Speaker><通讯框>;WA2000(6)||:<color=#00CCFF>That's right, we've engaged the enemies. They look just like the ones who just disturbed our nice vacation.</color> +<color=#00CCFF>Could they have captured the Commander?</color>
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:That...that's a possibility...
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:<color=#A9A9A9>Compared to drowning, this might actually not be so bad?</color>
-FN57(6)<Speaker>Five-seven</Speaker><通讯框>;WA2000(6)||:I bet you're thinking it isn't so bad compared to drowning.
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:If you read my neural cloud without my permission, I'm never going to forgive you!
-FN57(6)<Speaker>Five-seven</Speaker><通讯框>;WA2000(6)||:I didn't, I'm just about to set off to rescue the Commander. +After all, the Commander needs me now more than ever. Don't be jealous~
-FN57(6)<通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:...
+FN57(6)<Speaker>Five-seven</Speaker><scan><通讯框>||:<color=#00CCFF>Hello? Hello? Is Serdyukov there?</color> +<color=#00CCFF>Or anybody? Please respond if you copy. We found something incredible over here.</color>
+FN57(6)<scan><通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:Five-seven? That noise is coming from the area you're searching, right?
+FN57(6)<Speaker>Five-seven</Speaker><scan><通讯框>;WA2000(6)||:<color=#00CCFF>That's right, we've engaged the enemies. They look just like the ones who just disturbed our nice vacation.</color> +<color=#00CCFF>Could they have captured the Commander?</color>
+FN57(6)<scan><通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:That...that's a possibility...
+FN57(6)<scan><通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:<color=#A9A9A9>Compared to drowning, this might actually not be so bad?</color>
+FN57(6)<Speaker>Five-seven</Speaker><scan><通讯框>;WA2000(6)||:I bet you're thinking it isn't so bad compared to drowning.
+FN57(6)<scan><通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:If you read my neural cloud without my permission, I'm never going to forgive you!
+FN57(6)<Speaker>Five-seven</Speaker><scan><通讯框>;WA2000(6)||:I didn't, I'm just about to set off to rescue the Commander. +After all, the Commander needs me now more than ever. Don't be jealous~
+FN57(6)<scan><通讯框>;WA2000(6)<Speaker>WA2000</Speaker>||:...
 WA2000(6)<Speaker>WA2000</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Share your coordinates with everyone. We're coming too!
 ()||<黑屏2><BIN>1</BIN><BGM>BGM_stage1</BGM><SE2>Gunfight</SE2>:... +WA2000 terminates the transmission angrily. +The forest is raging with gunfire, yet Five-seven is nonchalantly reveling in her success in razzing WA2000.
 FN57(6)<Speaker>Five-seven</Speaker>||:Heheheh, she IS jealous~

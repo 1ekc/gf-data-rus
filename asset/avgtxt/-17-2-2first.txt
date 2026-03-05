@@ -10,7 +10,7 @@ NPC-Persica(1)<Speaker>Персика</Speaker>||<BIN>22</BIN>:Этот доку
 NPC-Persica(3)<Speaker>Персика</Speaker>||<BIN>22</BIN>:«Журнал разработки — Система B», оценка возможности возобновления работы системы OGAS...
 NPC-Persica(3)<Speaker></Speaker>||<BIN>22</BIN>:...Персика глубоко вздыхает.
 ()||<BIN>22</BIN>:...Клик. +...Запрос на шифрованную связь получен.
-NPC-Havel(0)<Speaker>Хавьер</Speaker><通讯框>||<BIN>22</BIN>:Привет, Персика. Думаю, ты только что проснулась.
+NPC-Havel(0)<Speaker>Хавьер</Speaker><scan><通讯框>||<BIN>22</BIN>:Привет, Персика. Думаю, ты только что проснулась.
 NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Havel(0)||<BIN>22</BIN>:Я не спала целые сутки, мистер Хавьер.
 NPC-Persica(0);NPC-Havel(0)<Speaker>Хавьер</Speaker>||<BIN>22</BIN>:Тогда, похоже, я позвонил как раз вовремя.
 NPC-Persica(0)<Speaker>Персика</Speaker>;NPC-Havel(0)||<BIN>22</BIN>:... +Да, у меня как раз есть к вам вопрос.

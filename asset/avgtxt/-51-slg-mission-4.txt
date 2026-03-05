@@ -1,7 +1,7 @@
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>SIG? Do you read me?</color>
 SIGMCX(0)<Speaker>SIG MCX</Speaker>||:SIG copies, we've beaten back two rounds of enemy attack. +Are there any new orders?
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>I'm sorry. You've all done so much...</color> +<color=#00CCFF>But I'll need you to do even more after this.</color> +<color=#00CCFF>Things are heating up on ST AR-15's end.</color> +<color=#00CCFF>I need a commando unit to crush the enemy.</color>
-P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>Which means... a tactical victory, then?</color> +<color=#00CCFF>You always ask for so much, Darling~</color>
-VSK(0)<Speaker>VSK-94</Speaker><通讯框>||:<color=#00CCFF>The enemy should have realized that.</color> +<color=#00CCFF>The next round will be a bigger offensive than anything before.</color>
-MG4(0)<Speaker>Gr MG4</Speaker><通讯框>||:<color=#00CCFF>...I'll do my best.</color>
-DesertEagle(0)<Speaker>Desert Eagle</Speaker><通讯框>||:<color=#00CCFF>We'll show them what Griffin Dolls can do!</color>
+P90(0)<Speaker>P90</Speaker><scan><通讯框>||:<color=#00CCFF>Which means... a tactical victory, then?</color> +<color=#00CCFF>You always ask for so much, Darling~</color>
+VSK(0)<Speaker>VSK-94</Speaker><scan><通讯框>||:<color=#00CCFF>The enemy should have realized that.</color> +<color=#00CCFF>The next round will be a bigger offensive than anything before.</color>
+MG4(0)<Speaker>Gr MG4</Speaker><scan><通讯框>||:<color=#00CCFF>...I'll do my best.</color>
+DesertEagle(0)<Speaker>Desert Eagle</Speaker><scan><通讯框>||:<color=#00CCFF>We'll show them what Griffin Dolls can do!</color>

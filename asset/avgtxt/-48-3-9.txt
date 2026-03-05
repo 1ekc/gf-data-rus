@@ -29,8 +29,8 @@ M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:Grrrr! Spit it out already!
 ()<Speaker></Speaker>||:... 
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>85</BIN>:Airport Operations.
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...We have tracked down the cargo's location, but we'll need a manager's access clearance to enter the warehouse.</color>
-AR15Mod(0)<Speaker>Commander</Speaker><通讯框>||:Got it. Stay where you are and wait for me.
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...We have tracked down the cargo's location, but we'll need a manager's access clearance to enter the warehouse.</color>
+AR15Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Got it. Stay where you are and wait for me.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:After hanging up, the Commander turns to look at the manager behind them.
 ()<Speaker>Commander</Speaker>||:You heard that. We need your access clearance.
 ()<Speaker>Manager</Speaker>||:...I have already overstepped by divulging our logistics information, now you're demanding access to a private... 

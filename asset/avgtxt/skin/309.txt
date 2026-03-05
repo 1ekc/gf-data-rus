@@ -23,7 +23,7 @@ Grifon T-Doll()<Speaker>Griffin T-Dolls</Speaker>||:We can't let our comrade go 
 Grifon T-Doll()<Speaker>Griffin T-Dolls</Speaker>||:For Christmas presents! Chaaaarge!
 MG5(2)<Speaker>MG5</Speaker>||:...Have their Neural Clouds gone haywire?
 ()||<SE1>Gunfight</SE1>:MG5 pulls the trigger, and a torrent of rubber bullets spray from her weapon. +Meanwhile, gunshots can also be heard from the other end of the square. The small group of T-Dolls going for the presents are completely wiped out in no time.
-FAL(2)<Speaker>FAL</Speaker><通讯框>||:What a bunch of troublemakers.
+FAL(2)<Speaker>FAL</Speaker><scan><通讯框>||:What a bunch of troublemakers.
 MG5(2)<Speaker>MG5</Speaker>;FAL(2)||:So you're the help the commander mentioned, FAL.
 MG5(2);FAL(2)<Speaker>FAL</Speaker>||:There's also the African reindeer on the rooftop.
 MG5(2);FAL(2)<Speaker></Speaker>||:FAL pulls up the collar of her coat.

@@ -10,18 +10,18 @@ NPC-Soldier(0)<Speaker>Spetsnaz Liaison</Speaker>||:Yes, sir...
 NPC-Carter(1)<Speaker>Carter</Speaker>||:You may leave.
 ()||:After executing a textbook salute, the liaison leaves. +Carter plants both arms thoughtfully on the holographic map.
 NPC-Carter(1)<Speaker>Carter</Speaker>||:And here I thought it would be easy with that young Commander in Berlin. +How could I have forgotten about you, Kryuger? Age has not dulled your skills in the least.
-NPC-Carter(1);NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><通讯框>||:<color=#00CCFF>General, I have a report on the battle situation. </color>
-NPC-Carter(1)<Speaker>Carter</Speaker>;NPC-Soldier(0)<通讯框>||:What stage is the plan at now?
-NPC-Carter(1);NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><通讯框>||:<color=#00CCFF>We have committed all our manpower to attacking the base. </color>
-NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><通讯框>||:<color=#00CCFF>Currently, we have destroyed all surface structures and are attacking their underground facilities. </color>
+NPC-Carter(1);NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><scan><通讯框>||:<color=#00CCFF>General, I have a report on the battle situation. </color>
+NPC-Carter(1)<Speaker>Carter</Speaker>;NPC-Soldier(0)<scan><通讯框>||:What stage is the plan at now?
+NPC-Carter(1);NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><scan><通讯框>||:<color=#00CCFF>We have committed all our manpower to attacking the base. </color>
+NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Currently, we have destroyed all surface structures and are attacking their underground facilities. </color>
 NPC-Carter(1)<Speaker>Carter</Speaker>||:Show me your combat logs.
-NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><通讯框>||:<color=#00CCFF>A moment, please. </color>
+NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><scan><通讯框>||:<color=#00CCFF>A moment, please. </color>
 ()||:A detailed summary of the operation against the Griffin base appears on the projection in front of Carter. +He immediately starts reading it.
 NPC-Carter(1)<Speaker>Carter</Speaker>||:So you've sealed off all their routes of retreat, but you still haven't found a trace of Kryuger or the neural cloud servers?
-NPC-Carter(1);NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><通讯框>||:<color=#00CCFF>Yes. </color>
-NPC-Carter(1)<Speaker>Carter</Speaker>;NPC-Soldier(0)<通讯框>||:Divert all the combat teams from the other PMC bases to the Griffin base. Bring more force to bear.
+NPC-Carter(1);NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Yes. </color>
+NPC-Carter(1)<Speaker>Carter</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Divert all the combat teams from the other PMC bases to the Griffin base. Bring more force to bear.
 NPC-Carter(1)<Speaker>Carter</Speaker>||:Eliminating Kryuger and Helian is a priority that supersedes the basic objective of wiping out all the Dolls. Without human commanders, that group of Dolls has no chance.
-NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><通讯框>||:<color=#00CCFF>Yes, sir!</color>
+NPC-Soldier(0)<Speaker>Spetsnaz Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, sir!</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:After giving another solemn salute, the soldier vanishes from the transmission window. Carter's gaze returns to the map of the Griffin base.
 NPC-Carter(1)<Speaker>Carter</Speaker>||:If I were you... +I'd hide on the bottom level and look for a chance to fight back... 
 ()||<黑屏1>:After twiddling a flag in his hand for a while, Carter plants it squarely on level B3 of the Griffin base.

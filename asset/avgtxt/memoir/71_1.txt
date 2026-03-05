@@ -45,7 +45,7 @@ TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:I've been we
 TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>Galil</Speaker>||:Just make sure that woman doesn't sell you off...
 TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:Haha, Miss Kalina wants me to help with organizing the Frontline Combat Team's regular events in the future.
 TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>||:Things are going to get busy for me.
-TAR21(2)<Position>0,150</Position>;NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Tavor! Tavor, where are you?</color>
+TAR21(2)<Position>0,150</Position>;NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Tavor! Tavor, where are you?</color>
 TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>||:I'm here, Miss Kalina. +I need to get back to work, Galil. I'll catch you later. +Here, take this cocktail. It doesn't contain that much alcohol, and the color matches your hair.
 AR(0)<Speaker>Galil</Speaker>||:Alright, get on with your work. See you.
 ()||<BGM>BGM_Empty</BGM>:Tavor soon vanishes amidst the crowd. +With a lonesome glass in hand, Galil finds a corner to accommodate herself. +Through the thick, invisible wall that isolates her, she observes as the other Dolls engage in lively conversation.

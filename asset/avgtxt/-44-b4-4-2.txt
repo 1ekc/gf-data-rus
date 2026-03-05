@@ -45,14 +45,14 @@ NPC-Morridow(4)<Speaker>Morridow</Speaker>||:I will carve those words on your to
 ()<Speaker>Commander</Speaker>||<BGM>10118</BGM>:...?!
 RO635Mod(3)<Speaker>RO635</Speaker>||:W-What?!
 AR15Mod(8)<Speaker>ST AR-15</Speaker>||:Is that...a transmission?!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Please don't shout? I'm about to go deaf.</color> +<color=#00CCFF>How are things on your end?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Please don't shout? I'm about to go deaf.</color> +<color=#00CCFF>How are things on your end?</color>
 ()<Speaker>Commander</Speaker>||:You... You did it? +Well done! I knew you could do it!
 NPC-Morridow(3)<Speaker>Morridow</Speaker>||:...Tsk.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Commander! +The jammers! The jammers are all down!
 ()<Speaker></Speaker>||:The blue light in the base instantly goes out. +The jammers which once glowed brightly have now reverted to their original inert state.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>But of course. Who do you think I am?</color> +<color=#00CCFF>So, what's the situation?</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:I'll fill you in later, 45. +All I can say is that— +—It's payback time.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I don't quite get it...</color> +<color=#00CCFF>But I'm expecting 10 times the usual rate for this.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>But of course. Who do you think I am?</color> +<color=#00CCFF>So, what's the situation?</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:I'll fill you in later, 45. +All I can say is that— +—It's payback time.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I don't quite get it...</color> +<color=#00CCFF>But I'm expecting 10 times the usual rate for this.</color>
 ()<Speaker>Commander</Speaker>||<震屏3>:I'll give you 20! +<size=55>DANDELION!</size>
 NytoIsomer(7)<Speaker>Dandelion</Speaker>||<SE1>ClothingUp</SE1>:I never really appreciated...
 ()<Speaker></Speaker>||:As the jammers go silent, Dandelion raises her head.

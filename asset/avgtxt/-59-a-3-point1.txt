@@ -5,27 +5,27 @@ M4A1(1)<Speaker>M4A1</Speaker>||:Miss Persica must have her reasons to set thing
 SOPIIDamage(3)<Speaker>SOPII</Speaker>||:Ahhhhh... I've had enough. How much longer is this experiment going to last?!
 AR15(1)<Speaker>AR15</Speaker>||<SE1>AVG_tele_connect</SE1>:...+It's a call from M16.
 M4A1(1)<Speaker>M4A1</Speaker>||:... Sis 16.
-M16(4)<通讯框><Speaker>M16A1</Speaker>||:You girls are looking pretty beat up.
+M16(4)<scan><通讯框><Speaker>M16A1</Speaker>||:You girls are looking pretty beat up.
 AR15(1)<Speaker>AR15</Speaker>||:How about you try getting stuck in the same place while being surrounded by enemies with exponentially increasing difficulty?
-M16(4)<通讯框><Speaker>M16A1</Speaker>||:Sheesh, no need to get all riled up... Even 15 is getting pissed, looks like the mission isn't so straightforward.
+M16(4)<scan><通讯框><Speaker>M16A1</Speaker>||:Sheesh, no need to get all riled up... Even 15 is getting pissed, looks like the mission isn't so straightforward.
 M4A1(1)<Speaker>M4A1</Speaker>||:We're just a little exhausted.
 SOPIIDamage(2)<Speaker>SOPII</Speaker>||:I'm done with dismantling these hunks of scrap! It's boring!
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:So what's your plan, team leader?
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:So what's your plan, team leader?
 M4A1(1)<Speaker>M4A1</Speaker>||:Eh, Me...?
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:Yes, you. You are AR Team's leader. We follow your commands.
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:Yes, you. You are AR Team's leader. We follow your commands.
 AR15(1)<Speaker>AR15</Speaker>||:...
 M4A1(1)<Speaker>M4A1</Speaker>||:I think...+...+15, SOP2, what do you think?
 SOPIIDamage(2)<Speaker>SOPII</Speaker>||:My neural core can't wrap around all this anymore! I'll do whatever you say!
 AR15(1)<Speaker>AR15</Speaker>||:I'll follow your instructions.
 M4A1(1)<Speaker>M4A1</Speaker>||:...
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:So your orders are?
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:So your orders are?
 M4A1(1)<Speaker>M4A1</Speaker>||:Let's rest in place and make simple repairs while waiting for further instructions on the next round of tests.
 AR15(1)<Speaker>AR15</Speaker>||:Roger.
 SOPIIDamage(2)<Speaker>SOPII</Speaker>||:Alright...
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:I knew you girls wouldn't give up. +Get the job done and be back soon. I'll be waiting for you to join me for a drink tonight. It's on me.
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:I knew you girls wouldn't give up. +Get the job done and be back soon. I'll be waiting for you to join me for a drink tonight. It's on me.
 M4A1(1)<Speaker>M4A1</Speaker>||:Thanks, Sis 16.
 AR15(1)<Speaker>AR15</Speaker>||:Okay, I'll make you regret that invitation.
 SOPIIDamage(0)<Speaker>SOPII</Speaker>||:16 is the best. Heheheh...
-M16(5)<通讯框><Speaker>M16A1</Speaker>||:We have lots of days ahead of us and plenty of opportunities to drink together. Have mercy on me this time around, okay? +Alright, I'll leave you girls to do your job. Do your best.
+M16(5)<scan><通讯框><Speaker>M16A1</Speaker>||:We have lots of days ahead of us and plenty of opportunities to drink together. Have mercy on me this time around, okay? +Alright, I'll leave you girls to do your job. Do your best.
 M4A1(1)<Speaker>M4A1</Speaker>||:Yes!
 SOPIIDamage(0)<Speaker>SOPII</Speaker>||:Hooray! I'm motivated again!

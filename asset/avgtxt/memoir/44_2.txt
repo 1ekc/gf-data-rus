@@ -10,7 +10,7 @@ SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:Range is 700 meters. Wind i
 ()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
 SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Select</SE1>:Hit target. This distance isn't a problem at all.
 SV98(0)<Speaker></Speaker>||<BIN>1</BIN><Night>:The sound of SV-98's shooting is almost completely muffled by the huge suppressor on her weapon.。+The number of S.F. pursuers decreases with every pull of her trigger.
-SV98(0);OTs14(0)<Speaker>OTs-14</Speaker><通讯框>||<BIN>1</BIN><Night>:That's the way, keep firing!
+SV98(0);OTs14(0)<Speaker>OTs-14</Speaker><scan><通讯框>||<BIN>1</BIN><Night>:That's the way, keep firing!
 SV98(0);OTs14(0)<Speaker>OTs-14</Speaker>||<BIN>1</BIN><Night>:AK-47, this is our chance. We'll pull back now.
 ()||<BIN>1</BIN><SE1>Explode</SE1><Night>:...Bang!
 SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:Hit.
@@ -20,8 +20,8 @@ SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:Hit.
 SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night><SE1>Reload</SE1>:Hit.
 SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:(Do you see now, SVD?) +(I can take out a S.F. unit with every shot because of elaborate planning!) +(And with that, the units pursuing Leader and the others have all been eliminated...)
 SV98(0);SVD(0)<Speaker>SVD</Speaker>||<BIN>1</BIN><Night>:OTs, your three!
-OTs14(0)<Speaker>OTs-14</Speaker><通讯框>;SVD(0)||<BIN>1</BIN><Night><SE1>Gunkill</SE1>:...Ah, what a pain! +AK-47, look out! Ambush!
-OTs14(0);AK47(0)<Speaker>AK-47</Speaker><通讯框>||<BIN>1</BIN><Night>:Oh, this is bad, this is really bad!
+OTs14(0)<Speaker>OTs-14</Speaker><scan><通讯框>;SVD(0)||<BIN>1</BIN><Night><SE1>Gunkill</SE1>:...Ah, what a pain! +AK-47, look out! Ambush!
+OTs14(0);AK47(0)<Speaker>AK-47</Speaker><scan><通讯框>||<BIN>1</BIN><Night>:Oh, this is bad, this is really bad!
 OTs14(0)<Speaker>OTs-14</Speaker>;AK47(0)||<BIN>1</BIN><Night>:We're being completely suppressed... Get to cover, AK-47! +Can we get some sniper support, SV-98?
 SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:Huh, but how...
 SV98(0)<Speaker>SV-98</Speaker>||<BIN>1</BIN><Night>:I didn't calculate for that region... +I can't target them directly! The hills are in the way! +It'll take time for me to find and move to a new location.

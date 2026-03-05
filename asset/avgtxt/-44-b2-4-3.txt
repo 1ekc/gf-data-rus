@@ -29,13 +29,13 @@ NytoIsomer(7)<Speaker>Dandelion</Speaker>||:You may enter, ST AR-15.
 ()||:Dandelion opens the link, and the monitor shows Machlian's virtual cognition image.
 NPC-Machlian(5)<Speaker>Machlian</Speaker><Position>0,-50</Position>||:Is this...my mind?
 ()||:Having come this way before, ST AR-15 navigates through the space with ease and makes her way to where the blank region was, but in its place is a chaotic mess of memory fragments.
-AR15Mod(6)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Why is this happening, Dandelion?</color>
+AR15Mod(6)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Why is this happening, Dandelion?</color>
 AR15Mod(6);NytoIsomer(7)<Speaker>Dandelion</Speaker>||:...I do not know either.
-AR15Mod(6)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Machlian, what have you done?!</color>
+AR15Mod(6)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Machlian, what have you done?!</color>
 AR15Mod(6);NPC-Machlian(5)<Speaker>Machlian</Speaker><Position>0,-50</Position>||:Huh? I don't know...
-AR15Mod(6)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Dammit!</color>
+AR15Mod(6)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Dammit!</color>
 ()||:Unwilling to give up, ST AR-15 keeps looking through the fragments, but none of them belong to Morridow.
-AR15Mod(7)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>This is impossible! It was right here just now!</color>
+AR15Mod(7)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>This is impossible! It was right here just now!</color>
 ()<Speaker>Commander</Speaker>||:Come out for now, 15.
 ()||:ST AR-15 reluctantly exits the virtual cognition image.
 AR15Mod(6)<Speaker>ST AR-15</Speaker>||:I'm serious, Commander! It was right there!

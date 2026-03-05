@@ -98,7 +98,7 @@ NPC-Romy(0)<Speaker>Romy</Speaker>||:Your mission is over. +The follow-up work w
 ()<Speaker></Speaker>||:... 
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM><黑屏2><BIN>356</BIN>:Everyone is resting peacefully when the phone suddenly rings. The call goes straight to voicemail without waiting for anyone to pick up.
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Ahem... Hello? Is this recording?</color> +<color=#00CCFF>Sorry, Commander, but I need to bother you about something again. </color>
+NPC-Keven(0)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Ahem... Hello? Is this recording?</color> +<color=#00CCFF>Sorry, Commander, but I need to bother you about something again. </color>
 NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>So our vase of a boss gave us a mission recently. The details are confidential, but it's essentially looking for a missing cargo truck. </color> +<color=#00CCFF>Guess what? That truck belonged to Galatea. Just as things were getting a little interesting, Frau Vase snapped at us for literally no reason and terminated the mission. </color>
 NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>Weird, right? I thought it was weird too... It's just like when Light died. </color> +<color=#00CCFF>The supervisor back then didn't know anything either—this was confidential, that was confidential... I'm starting to wonder if I'm an agent or a janitor. </color>
 NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>I digress again... In any case, I'm sure you get the idea—this job is a fishy one. </color> +<color=#00CCFF>I'm starting to have my suspicions about the "cargo" in the truck. </color>

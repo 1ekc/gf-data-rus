@@ -1,17 +1,17 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:Click—
-Erma(6)<Speaker>Erma</Speaker><通讯框>||:<color=#00CCFF>...I thought you wouldn't pick up.</color>
-Erma(6)<通讯框>;AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||<BGM>GF_2022_Summer_AVG_2</BGM>:... +I'll hang up when I have to. +Still, we've got one last bit of time.
-Erma(7)<Speaker>Erma</Speaker><通讯框>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>Does Professor Hume count as my "mother"?</color>
-Erma(7)<通讯框>;AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||:Why are you so fixated on this question?
-Erma(6)<Speaker>Erma</Speaker><通讯框>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>If he's my "mother", then that makes us sisters.</color> +<color=#00CCFF>And if he's not, then wouldn't I be a big joke?</color>
-Erma(6)<通讯框>;AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||:...Am I crazy?
-Erma(7)<Speaker>Erma</Speaker><通讯框>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>No, of course not.</color>
-Erma(7)<通讯框>;AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||:Then you're not a joke.
-Erma(7)<Speaker>Erma</Speaker><通讯框>||:<color=#00CCFF>...</color>
+Erma(6)<Speaker>Erma</Speaker><scan><通讯框>||:<color=#00CCFF>...I thought you wouldn't pick up.</color>
+Erma(6)<scan><通讯框>;AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||<BGM>GF_2022_Summer_AVG_2</BGM>:... +I'll hang up when I have to. +Still, we've got one last bit of time.
+Erma(7)<Speaker>Erma</Speaker><scan><通讯框>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>Does Professor Hume count as my "mother"?</color>
+Erma(7)<scan><通讯框>;AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||:Why are you so fixated on this question?
+Erma(6)<Speaker>Erma</Speaker><scan><通讯框>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>If he's my "mother", then that makes us sisters.</color> +<color=#00CCFF>And if he's not, then wouldn't I be a big joke?</color>
+Erma(6)<scan><通讯框>;AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||:...Am I crazy?
+Erma(7)<Speaker>Erma</Speaker><scan><通讯框>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>No, of course not.</color>
+Erma(7)<scan><通讯框>;AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||:Then you're not a joke.
+Erma(7)<Speaker>Erma</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||:Arthur Hume. +That was his real name.
 ()<Speaker></Speaker>||:Erma freezes, as though she doesn't know how to reply. +However, she's not willing to let time tick by just like that.
-Erma(6)<Speaker>Erma</Speaker><通讯框>||:<color=#00CCFF>...You will always have a key to the Summer Garden.</color>
+Erma(6)<Speaker>Erma</Speaker><scan><通讯框>||:<color=#00CCFF>...You will always have a key to the Summer Garden.</color>
 AR18(6)<Speaker>Lyudmila</Speaker><Position>0,70</Position>||:Yeah, I know.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click— +Lyudmila hangs up, and then she sighs heavily. +...For some reason, what little nervousness she had left is completely gone now.
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Rope</SE1>:She suddenly plants her hand on the wall of the train carriage.

@@ -16,7 +16,7 @@ MG4(2)<Speaker>MG4</Speaker>||<边框>2</边框><BGM>BGM_Empty</BGM><SE1>AVG_Sce
 ()<Speaker></Speaker>||<震屏3><BIN>82</BIN><SE1>AVG_Cloak_Whoosh</SE1>:Ahhhhhh—!
 ()<Speaker>Commander</Speaker>||:... +What a weird dream... +Must be because of Kalina constantly saying she'll play “Lycan Sanctuary” with everyone... +Speaking of which... I wonder how's their game going? Let me call her...
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep—
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Your adjutant is staying up late writing combat reports. Contact the Commander if you need anything.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Your adjutant is staying up late writing combat reports. Contact the Commander if you need anything.</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:That's an automated response, isn't it... +Huh? Contact the Commander? What's that about... I need to check on her.
 ()<Speaker></Speaker>||:...
 ()||<黑点1>:

@@ -6,15 +6,15 @@ NPC-Arla(0)<Speaker>Schweinsteiger</Speaker>||:Ladies and gentlemen, let us rais
 ()||<SE1>AVG_20Winter_Cheers_People</SE1>:Amidst the clamor of clinking glasses, Oberstein makes his own toast to Schweinsteiger from afar.
 NPC-Rudolf(1)<Speaker>Oberstein</Speaker><Position>0,-100</Position>||<黑屏1><BGM>BGM_Empty</BGM>:May the fireworks tonight be more brilliant than in all the previous years.
 ()||<黑屏2><BIN>46</BIN><BGM>BGM_Sneak</BGM>:...Basement 3, in the Research Lab of the Griffin base.
-gsh18(2)<Speaker>GSh-18</Speaker><通讯框>||:<color=#00CCFF>We're currently moving damaged Dolls from the assembly hall. </color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;gsh18(2)<通讯框>||:Why were there so many Dolls in the main hall this late at night, anyway?
-NPC-Helian(0);gsh18(2)<Speaker>GSh-18</Speaker><通讯框>||:<color=#00CCFF>Well, uh... </color>
-NPC-Helian(0);WelrodMod(0)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>Miss Helian, we've cleared out the armory, now doing an inventory of our vital resources. </color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;WelrodMod(0)<通讯框>||:We need to speed up the supply transfer. Mr. Kryuger and several other squads are drawing fire to buy you time.
+gsh18(2)<Speaker>GSh-18</Speaker><scan><通讯框>||:<color=#00CCFF>We're currently moving damaged Dolls from the assembly hall. </color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;gsh18(2)<scan><通讯框>||:Why were there so many Dolls in the main hall this late at night, anyway?
+NPC-Helian(0);gsh18(2)<Speaker>GSh-18</Speaker><scan><通讯框>||:<color=#00CCFF>Well, uh... </color>
+NPC-Helian(0);WelrodMod(0)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>Miss Helian, we've cleared out the armory, now doing an inventory of our vital resources. </color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;WelrodMod(0)<scan><通讯框>||:We need to speed up the supply transfer. Mr. Kryuger and several other squads are drawing fire to buy you time.
 NPC-Helian(0)<Speaker>Helian</Speaker>||:NTW-20, progress report.
-NPC-Helian(0);NTW20Mod(0)<Speaker>NTW-20</Speaker><通讯框>||:<color=#00CCFF>Breakthrough squad is doing their best, but it's hard to gauge their progress for now. </color> +<color=#00CCFF>Flanker squad has finished assembling and just deployed. </color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;NTW20Mod(0)<通讯框>||:Understood, stay safe.
-NTW20Mod(0)<Speaker>NTW-20</Speaker><通讯框>||:<color=#00CCFF>Roger. </color>
+NPC-Helian(0);NTW20Mod(0)<Speaker>NTW-20</Speaker><scan><通讯框>||:<color=#00CCFF>Breakthrough squad is doing their best, but it's hard to gauge their progress for now. </color> +<color=#00CCFF>Flanker squad has finished assembling and just deployed. </color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;NTW20Mod(0)<scan><通讯框>||:Understood, stay safe.
+NTW20Mod(0)<Speaker>NTW-20</Speaker><scan><通讯框>||:<color=#00CCFF>Roger. </color>
 ()||<SE1>AVG_tele_disconnect</SE1>:After quickly going through the messages on her command tablet, she looks up and begins searching for Persica's lab.
 MAC10(0)<Speaker>Ingram</Speaker>||:This is the third time we've come this way, Miss Helian.
 NPC-Helian(0)<Speaker>Helian</Speaker>;MAC10(0)||:That's strange. Miss Persica's lab ought to be nearby... 
@@ -22,19 +22,19 @@ NPC-Helian(0);MAC10(0)<Speaker>Ingram</Speaker>||:That blast just now was pretty
 NPC-Helian(0)<Speaker>Helian</Speaker>;MAC10(0)||:No way, she'd rather die than flee her lab empty-handed.
 NPC-Helian(0)<Speaker>Helian</Speaker>||:I'll try contacting her, but she might not pick up at a time like this... 
 ()||<SE1>AVG_tele_connect</SE1>:Helian dials Persica's number. +After a dozen or so rings, an annoyed female voice answers.
-NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You're right on time! Helian, I want to complain about the late-night renovations at your base!</color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(1)<通讯框>||:... 
-NPC-Helian(0);NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>It's gone too far! Are you doing demolition work or something? The whole place was shaking!</color> +<color=#00CCFF>My coffee's all over the floor now... </color>
+NPC-Persica(1)<Speaker>Persica</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You're right on time! Helian, I want to complain about the late-night renovations at your base!</color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(1)<scan><通讯框>||:...
+NPC-Helian(0);NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>It's gone too far! Are you doing demolition work or something? The whole place was shaking!</color> +<color=#00CCFF>My coffee's all over the floor now... </color>
 NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(3)||:We do not have any renovations scheduled for the near future. +The disruption just now was due to the base being targeted by rocket artillery fire from parties unknown. A group of enemies are already outside the base and launching an attack.
-NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>... </color>
-NPC-Helian(0);NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Why do I have such rotten luck?! I just moved in and we got attacked right away... </color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(1)<通讯框>||:Enough complaining. Open your lab door, I need to talk to you.
-NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I have a bad feeling about this. Tell me what this is all about. </color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(0)<通讯框>||:It concerns your research.
-NPC-Helian(0);NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Hm? In what way? Have the new instruments I requisitioned arrived? Or was it the materials I ordered?</color> +<color=#00CCFF>Wait a minute, did someone publish a paper on one of my topics ahead of me?</color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(1)<通讯框>||:It's none of the above. I'm referring to the neural cloud servers.
+NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>... </color>
+NPC-Helian(0);NPC-Persica(1)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Why do I have such rotten luck?! I just moved in and we got attacked right away... </color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(1)<scan><通讯框>||:Enough complaining. Open your lab door, I need to talk to you.
+NPC-Helian(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I have a bad feeling about this. Tell me what this is all about. </color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(0)<scan><通讯框>||:It concerns your research.
+NPC-Helian(0);NPC-Persica(1)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Hm? In what way? Have the new instruments I requisitioned arrived? Or was it the materials I ordered?</color> +<color=#00CCFF>Wait a minute, did someone publish a paper on one of my topics ahead of me?</color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(1)<scan><通讯框>||:It's none of the above. I'm referring to the neural cloud servers.
 NPC-Helian(0)<Speaker>Helian</Speaker>||:If things go badly for Mr. Kryuger, we need to make preparations for a full retreat. That will involve taking the neural cloud servers with us.
-NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||<震屏><SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Whaaaaat?!</color>
+NPC-Persica(1)<Speaker>Persica</Speaker><scan><通讯框>||<震屏><SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Whaaaaat?!</color>
 ()||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:Whoosh— A small panel in the wall opens, and Persica's angry eyes glare through the hole.
 NPC-Persica(1)<Speaker>Persica</Speaker>||:What do you think a neural cloud server is?! +<size=40>A slice of cake you take home from a deli? You think a cute little maid Doll can deliver it to your house for you?</size> +<size=50>It's a neural cloud SERVER! Don't you get it?</size> +<size=50>ABSOLUTELY NOT! I am completely opposed to this plan!!!</size>
 NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Persica(1)||:Just open the door, we can talk this over.
@@ -58,7 +58,7 @@ ColtDefender(1)<Speaker>Defender</Speaker>||:I'll tear you apart! I'll break eve
 Liberator(0)<Speaker>Liberator</Speaker>||:Defender's lost it! Cover me! Commencing emergency evac!
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Shotgun Squad A, fall back quickly for treatment! Shotgun Squad B, take their place!
 ()||<SE2>Gunfight</SE2>:Thanks to Kryuger's leadership, the battered Doll squads somehow manage to keep their fragile defense line intact.
-Webley(0)<Speaker>Webley</Speaker><通讯框>||:<color=#00CCFF>Mr. Kryuger, enemy reinforcement squad at 1 o'clock. </color> +<color=#00CCFF>There's roughly 7 of them and they aren't carrying heavy weapons. </color>
+Webley(0)<Speaker>Webley</Speaker><scan><通讯框>||:<color=#00CCFF>Mr. Kryuger, enemy reinforcement squad at 1 o'clock. </color> +<color=#00CCFF>There's roughly 7 of them and they aren't carrying heavy weapons. </color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Thompson, send a squad over to ambush them.
 98k(0)<Speaker>Kar98k</Speaker>||:Miss Lee and I will go.
 M1928A1(0)<Speaker>Thompson</Speaker>||:Got it! WA, cover Kar and Lee with me!
@@ -68,16 +68,16 @@ NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Ladies, we can catch our breath once 
 M1928A1(0)<Speaker>Thompson</Speaker>||:Heard that? Give them everything you've got!
 WA2000(0)<Speaker>WA2000</Speaker>||:Roger!
 ()||<SE2>Gunfight</SE2>:As they hear the call to victory, the tired Dolls launch a ferocious charge, falling on the enemy with staggering intensity... 
-Webley(0)<Speaker>Webley</Speaker><通讯框>||:<color=#00CCFF>Sir! The enemy reinforcement squad has lost three people and they've withdrawn. </color>
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;Webley(0)<通讯框>||:Very good, Webley. Are there any more incoming enemy units?
-NPC-Kyruger(0);Webley(0)<Speaker>Webley</Speaker><通讯框>||:<color=#00CCFF>None that I can see so far. </color>
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;Webley(0)<通讯框>||:Ladies, take this opportunity to rest up and recover!
+Webley(0)<Speaker>Webley</Speaker><scan><通讯框>||:<color=#00CCFF>Sir! The enemy reinforcement squad has lost three people and they've withdrawn. </color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;Webley(0)<scan><通讯框>||:Very good, Webley. Are there any more incoming enemy units?
+NPC-Kyruger(0);Webley(0)<Speaker>Webley</Speaker><scan><通讯框>||:<color=#00CCFF>None that I can see so far. </color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;Webley(0)<scan><通讯框>||:Ladies, take this opportunity to rest up and recover!
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Kar98k and Lee Enfield, fall back.
-MLEMK1(0)<Speaker>Lee Enfield</Speaker><通讯框>||:<color=#00CCFF>Returning to unit. </color>
+MLEMK1(0)<Speaker>Lee Enfield</Speaker><scan><通讯框>||:<color=#00CCFF>Returning to unit. </color>
 M1928A1(0)<Speaker>Thompson</Speaker>||:Well done, my brandy is yours.
 ()||:Thompson stands on a burning pile of rubble and holds up her personal brandy flask. +After crushing the first wave of enemies, the squad led by Kryuger has won a brief respite.
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:NTW-20, how's the breakthrough squad doing?
-NTW20Mod(0)<Speaker>NTW-20</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Sorry... Mr. Kr...Failed... </color>
+NTW20Mod(0)<Speaker>NTW-20</Speaker><scan><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Sorry... Mr. Kr...Failed... </color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||<SE1>Stop_AVG_loop</SE1>:Come again? I didn't hear—
 M1928A1(0)<Speaker>Thompson</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:INCOMING! Get down—
 ()||<SE1>Explode</SE1><黑点2><BIN>9</BIN><黑屏1>:Kaboom!
@@ -106,9 +106,9 @@ Spitfire(0)<Speaker>Spitfire</Speaker>||<SE1>Stop_AVG_loop</SE1>:Big Sis 75?
 Spitfire(0)<Speaker>Spitfire</Speaker>||:... 
 ()||:Spitfire picks up her gun without a word and limps toward the base.
 Spitfire(0)<Speaker>Spitfire</Speaker>||:This is Spitfire from the breakthrough squad.
-NTW20Mod(0)<Speaker>NTW-20</Speaker><通讯框>||:<color=#00CCFF>Spitfire! Where are the others?</color>
-Spitfire(0)<Speaker>Spitfire</Speaker>;NTW20Mod(0)<通讯框>||:Everyone's dead.
-Spitfire(0);NTW20Mod(0)<Speaker>NTW-20</Speaker><通讯框>||:<color=#00CCFF>... </color>
+NTW20Mod(0)<Speaker>NTW-20</Speaker><scan><通讯框>||:<color=#00CCFF>Spitfire! Where are the others?</color>
+Spitfire(0)<Speaker>Spitfire</Speaker>;NTW20Mod(0)<scan><通讯框>||:Everyone's dead.
+Spitfire(0);NTW20Mod(0)<Speaker>NTW-20</Speaker><scan><通讯框>||:<color=#00CCFF>... </color>
 Spitfire(0)<Speaker>Spitfire</Speaker>||:Returning to reinforce the base now.
 ()||<黑屏1><SE1>AVG_tele_disconnect</SE1>:Spitfire hangs up the call. +Nobody can see it, but her tears mix with the rainwater as they roll down Spitfire's face... 
 ()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN><关闭蒙版><黑屏1><SE1>AVG_Water_Drip</SE1><CGDelay>2</CGDelay>:Beep.
@@ -127,10 +127,10 @@ WA2000(1)<Speaker>WA2000</Speaker>||:Lee! Kar! Say something!
 ()||:Behind Thompson, WA shakes the bodies of Lee Enfield and Kar98k.
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:... +WA2000, we haven't lost yet. More of our comrades still need us.
 WA2000(1)<Speaker>WA2000</Speaker>||:I-I understand... 
-WelrodMod(0)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>Requesting backup! Supply transport team is requesting backup!</color> +<color=#00CCFF>The enemy's made it to the warehouse, we can't fight back!</color>
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;WelrodMod(0)<通讯框>||:Received, backup is on its way.
-NPC-Kyruger(0);WelrodMod(0)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>...Mr. Kryuger! Can you hear me?</color> +<color=#00CCFF>Thompson! Hailing Thompson!</color> +<color=#00CCFF>Requesting backup! Requesting backup! The enemy has us trapped in the warehouse!</color>
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;WelrodMod(0)<通讯框>||:She can't hear our replies? God damn signal... 
+WelrodMod(0)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>Requesting backup! Supply transport team is requesting backup!</color> +<color=#00CCFF>The enemy's made it to the warehouse, we can't fight back!</color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;WelrodMod(0)<scan><通讯框>||:Received, backup is on its way.
+NPC-Kyruger(0);WelrodMod(0)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>...Mr. Kryuger! Can you hear me?</color> +<color=#00CCFF>Thompson! Hailing Thompson!</color> +<color=#00CCFF>Requesting backup! Requesting backup! The enemy has us trapped in the warehouse!</color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;WelrodMod(0)<scan><通讯框>||:She can't hear our replies? God damn signal...
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:WA2000, you and—
 ()||:Kryuger's gaze wanders around the empty ops room. There are no Dolls in sight.
 WA2000(1)<Speaker>WA2000</Speaker>||:Leave it to me, Mr. Kryuger.
@@ -149,9 +149,9 @@ mp443(0)<Speaker>MP-443</Speaker>||:Stop talking! Ribeyrolles, PPK needs urgent 
 WelrodMod(0)<Speaker>Welrod MkII</Speaker>||:Tokarev, take PPK's place!
 TT33(0)<Speaker>Tokarev</Speaker>||:Got it!
 ()||<SE1>AVG_pistol_finalshot_n</SE1>:Bang! Welrod helps take out the enemies in Tokarev's blind spot as she rushes toward PPK.
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>Welrod, this is Thompson. How are things on your end?</color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>Welrod, this is Thompson. How are things on your end?</color>
 WelrodMod(0)<Speaker>Welrod MkII</Speaker>||:Thompson! A huge enemy force is surrounding the warehouse, we can't break out while carrying the supplies!
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>WA's heading over to help you out, hang in there. </color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>WA's heading over to help you out, hang in there. </color>
 WelrodMod(0)<Speaker>Welrod MkII</Speaker>||:PPK, just hold on a little longer! Help is on its way!
 PPK(0)<Speaker>PPK</Speaker>||:Don't bother with us troublemakers. Tokarev's still intact, so take her while she's still standing. Break out of here and find Mr. Kryuger.
 WelrodMod(0)<Speaker>Welrod MkII</Speaker>||:Born in the night as I am, you and the Commander are my only source of light. +No matter how boundless the darkness is, I will never abandon my search for the light.
@@ -165,18 +165,18 @@ WelrodMod(0)<Speaker>Welrod MkII</Speaker>||:Got—
 ()||<黑屏1>:Welrod climbs up the rope ladder.
 ()||<SE1>AVG_Explo_Close</SE1><黑屏2><BIN>9</BIN><黑屏1>:Kaboom! +A shell goes off at almost point blank range. Blazing heat chews into Welrod's back. +Amidst the confusion, the fiery shockwave slams her into the wall... 
 ()||<common_effect>%%code=CJ_fire%%</common_effect><睁眼><BIN>88</BIN>:When she opens her eyes again, she sees the bottom half of the rope ladder in her hands. +Welrod quickly examines her body and concludes that she has lost all combat capability.
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>Welrod!</color> +<color=#00CCFF>Can you hear me? That blast knocked us down!</color>
+WA2000(0)<Speaker>WA2000</Speaker><scan><通讯框>||:<color=#00CCFF>Welrod!</color> +<color=#00CCFF>Can you hear me? That blast knocked us down!</color>
 WelrodMod(0)<Speaker>Welrod MkII</Speaker>||:... +You should go. Leave this place to me.
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>This is no time to be acting cool!</color>
-TT33(0)<Speaker>Tokarev</Speaker><通讯框>||:<color=#00CCFF>Welrod, come out already!</color>
+WA2000(0)<Speaker>WA2000</Speaker><scan><通讯框>||:<color=#00CCFF>This is no time to be acting cool!</color>
+TT33(0)<Speaker>Tokarev</Speaker><scan><通讯框>||:<color=#00CCFF>Welrod, come out already!</color>
 ()||:Welrod grimaces as she looks at her ruined body. Alerts flash continuously in her field of vision. +The wall itself has also been damaged—the ceiling is tilting at a dangerous angle and chunks of debris are raining down steadily.
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>Hold on, I'll find some other way to save you!</color>
+WA2000(0)<Speaker>WA2000</Speaker><scan><通讯框>||:<color=#00CCFF>Hold on, I'll find some other way to save you!</color>
 WelrodMod(0)<Speaker>Welrod MkII</Speaker>||:Don't worry, it's only a few enemies, they're no problem for me.
 ()||:Not far from her are the enemy forces, which have also taken heavy casualties. However, they're already regrouping with the incoming reinforcements. +Welrod calculates the angle and pulls her last grenade out from under her vest.
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>You're not planning to die just to save us, are you?</color>
-Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker><通讯框>||:<color=#00CCFF>I...Am worthless... </color>
+PPK(0)<Speaker>PPK</Speaker><scan><通讯框>||:<color=#00CCFF>You're not planning to die just to save us, are you?</color>
+Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker><scan><通讯框>||:<color=#00CCFF>I...Am worthless... </color>
 WelrodMod(0)<Speaker>Welrod MkII</Speaker>||:Everyone...Is worth saving.
-TT33(0)<Speaker>Tokarev</Speaker><通讯框>||:<color=#00CCFF>Wel... Move...!</color>
+TT33(0)<Speaker>Tokarev</Speaker><scan><通讯框>||:<color=#00CCFF>Wel... Move...!</color>
 ()||<SE1>AVG_whitenoise</SE1><SE1>Rope</SE1>:A burst of static comes over the comms. Welrod switches off the choppy transmission and clutches her grenade tightly.
 WelrodMod(0)<Speaker>Welrod MkII</Speaker>||<SE1>Stop_AVG_loop</SE1>:This is all I can do for you... 
 ()||:The rustling of the enemy's footsteps draws close. There are eight of them in total, and judging by their footfall, six of them are Military automatons and the other two are the humans commanding them. +A dull thumping echoes through the warehouse walls, as though someone is pounding one in grief.
@@ -189,10 +189,10 @@ WelrodMod(0)<Speaker>Welrod MkII</Speaker>||<黑屏1>:"Rage, rage against the dy
 ()||<黑屏2><BIN>9</BIN><关闭蒙版><SE1>AVG_Explo_Close</SE1><黑屏1><CGDelay>2</CGDelay><BGM>BGM_Empty</BGM>:Kaboom!
 ()||<黑屏2><BIN>433</BIN><黑屏1><BGM>10258</BGM>:Thompson has gathered all the survivors in the Ops Room in preparation of their withdrawal. +Kryuger contacts the various squads and gains the latest information on the progress of the battle as well as the degree of enemy penetration.
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||<黑屏2><BIN>398</BIN><火花>:Helian! We've had it, time to initiate the evacuation plan.
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>...Roger. </color>
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)<通讯框>||:Is Persica ready to move the neural cloud server?
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>She's making the preparations. </color> +<color=#00CCFF>But are we really going to relocate underground, Mr. Kryuger?</color>
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)<通讯框>||:The damage underground isn't too bad, none of the original structure was destroyed. +Don't forget, the layout of our base favors the defender.
-NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>...Understood. </color>
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>All Griffin Dolls still on the comms channel, immediately withdraw to Basement 3!</color> +<color=#00CCFF>I repeat! Fall back to Basement 3 immediately! Don't get caught up in combat!</color>
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>...Roger. </color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)<scan><通讯框>||:Is Persica ready to move the neural cloud server?
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>She's making the preparations. </color> +<color=#00CCFF>But are we really going to relocate underground, Mr. Kryuger?</color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker>;NPC-Helian(0)<scan><通讯框>||:The damage underground isn't too bad, none of the original structure was destroyed. +Don't forget, the layout of our base favors the defender.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>...Understood. </color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>All Griffin Dolls still on the comms channel, immediately withdraw to Basement 3!</color> +<color=#00CCFF>I repeat! Fall back to Basement 3 immediately! Don't get caught up in combat!</color>
 ()||<黑点1>:Helian's voice reaches the hearing modules of every single Griffin Doll through the communications channel. +However, most of them are unable to respond to the call.

@@ -67,17 +67,17 @@ PPQ(0)<Speaker>Brigitte</Speaker><Shake>||:Why, you!
 ()<Speaker></Speaker>||<黑点2><BIN>749</BIN>:Brigitte can only back up to the entrance of the elevator lobby.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:After finally connecting to the Stasi's intercom, Brigitte unleashes her bottled-up fury into her communicator.
 PPQ(0)<Speaker>Brigitte</Speaker>||<controll_shake>%%type_id=2%%duration=5%%delay=0.1%%range=8</controll_shake>:<size=50>J—!!!!!!</size>
-PPQ(0);NPC-Keven(9)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>What?! Is there an emergency?</color>
+PPQ(0);NPC-Keven(9)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>What?! Is there an emergency?</color>
 PPQ(0)<Speaker>Brigitte</Speaker>;NPC-Keven(9)||:The garrison isn't letting me through to get to the archive.
-PPQ(0);NPC-Keven(9)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Huh? But the request has been approved. What's their reason?</color>
+PPQ(0);NPC-Keven(9)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Huh? But the request has been approved. What's their reason?</color>
 PPQ(0)<Speaker>Brigitte</Speaker>;NPC-Keven(9)||:The guy said that, according to the rules, Dolls with a functional neural cloud like me aren't permitted entry. +He said to send a Doll with no neural cloud or a human who can pass the security checks.
-PPQ(0);NPC-Keven(7)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>What kind of rule is that? I've never heard of such nonsense.</color> +<color=#00CCFF>They're deliberately trying to trip us up.</color>
+PPQ(0);NPC-Keven(7)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>What kind of rule is that? I've never heard of such nonsense.</color> +<color=#00CCFF>They're deliberately trying to trip us up.</color>
 PPQ(0)<Speaker>Brigitte</Speaker>;NPC-Keven(7)||:So what am I supposed to do?
-PPQ(0);NPC-Keven(7)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Give me 15 minutes. I'll be right there.</color>
+PPQ(0);NPC-Keven(7)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Give me 15 minutes. I'll be right there.</color>
 PPQ(0)<Speaker>Brigitte</Speaker>;NPC-Keven(7)||:15 minutes? Why will you have to take so long? What are you doing?
-PPQ(0);NPC-Keven(9)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Stop asking questions!</color>
+PPQ(0);NPC-Keven(9)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Stop asking questions!</color>
 PPQ(0)<Speaker>Brigitte</Speaker>;NPC-Keven(9)||:You didn't get pulled over by the traffic police, did you?
-NPC-Keven(12)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Shut up!</color> +<color=#00CCFF>15 minutes!!!</color>
+NPC-Keven(12)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Shut up!</color> +<color=#00CCFF>15 minutes!!!</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:J hangs up.
 ()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:After spending some time to psych herself up, Brigitte returns to the elevator with a smile...
 ()||<黑屏1><CGDelay>0.7</CGDelay>:
@@ -222,9 +222,9 @@ NPC-Keven(12)<Speaker>J</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Punch_Hit</SE1><
 ()<Speaker></Speaker>||<黑屏2><CGDelay>0.8</CGDelay><BIN>658</BIN>:
 ()<Speaker></Speaker>||:Standing in the square just outside an office building, AN-94 looks at the towering quarantine wall in the distance.
 AN94MOD(0)<Speaker>AN-94</Speaker>||<SE1>AVG_tele_connect</SE1>:12, how are things on your end? +15 is guarding your frame, but your location is still very dangerous.
-NPC-AK12Mod(4)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>...I've found Shaw's file, but armed forces in the area are gathering rapidly.</color>
+NPC-AK12Mod(4)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>...I've found Shaw's file, but armed forces in the area are gathering rapidly.</color>
 AN94MOD(4)<Speaker>AN-94</Speaker>||:I'll come and give you some backup!
-NPC-AK12Mod(4)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>...Alright.</color>
+NPC-AK12Mod(4)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>...Alright.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:
 ()||<黑屏1><CGDelay>0.7</CGDelay><SE1>Stop_AVG_loop</SE1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><CGDelay>0.5</CGDelay>:

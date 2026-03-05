@@ -103,11 +103,11 @@ NPC-TD_Worker(0)<Speaker>Seven of Clubs</Speaker>;ColtWalker(5)||:I understand..
 ()<Speaker></Speaker>||<黑屏2><BIN>467</BIN><narrator>:In the last carriage of the Colt Express, on board the Intercontinental Railway train "Future".
 ()||:The train chugging along the metal tracks is the only sound that can be heard in the empty carriage. +The flickering light of a gaslamp illuminates an empty seat. A lone playing card lies quietly on the table next to it. +It is a king of hearts lying face-down. +All of a sudden, a figure materializes out of thin air.
 ColtWalker(5)<Speaker>Queen of Hearts</Speaker>||:...
-NPC-Scalper(0)<Speaker>Catherine</Speaker><通讯框>||:<color=#00CCFF>Maggie, you're going with this look today?</color> +<color=#00CCFF>And is 3.8 ounces of Sardis Gold worth all this trouble? Data rollback of this scale is too much for your body to bear. You're lucky the guy was too creeped out to notice...</color>
+NPC-Scalper(0)<Speaker>Catherine</Speaker><scan><通讯框>||:<color=#00CCFF>Maggie, you're going with this look today?</color> +<color=#00CCFF>And is 3.8 ounces of Sardis Gold worth all this trouble? Data rollback of this scale is too much for your body to bear. You're lucky the guy was too creeped out to notice...</color>
 ColtWalker(5)<Speaker>Maggie</Speaker>||:Every single dime is worth the effort. Don't worry, with the modification, I can handle this kind of data management.
-NPC-Scalper(0)<Speaker>Catherine</Speaker><通讯框>||:<color=#00CCFF>Have you found the target?</color>
+NPC-Scalper(0)<Speaker>Catherine</Speaker><scan><通讯框>||:<color=#00CCFF>Have you found the target?</color>
 ColtWalker(5)<Speaker>Maggie</Speaker>||:I may be onto something, but I'm not 100% sure yet. +I need more time. We're only one minute away from the ten minutes that we agreed on.
-NPC-Scalper(0)<Speaker>Catherine</Speaker><通讯框>||:<color=#00CCFF>...I'll try my best to stall for time.</color>
+NPC-Scalper(0)<Speaker>Catherine</Speaker><scan><通讯框>||:<color=#00CCFF>...I'll try my best to stall for time.</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>528</BIN><BGM>BGM_Empty</BGM><narrator>:Carriage F09, Intercontinental Railway train "Future".
 ()||<SE1>AVG_va_addingredient</SE1>:Clang. +The melting ice knocks against the wall of the glass, producing a crisp sound. +Catherine swirls her glass in boredom as she tilts her head to look at Maggie, who seems to be fast asleep with her head on the bar counter.
@@ -116,9 +116,9 @@ NPC-Scalper(0)<Speaker>Catherine</Speaker>||:(Sighs)
 NPC-Scalper(0)<Speaker>Catherine</Speaker>||:...I'm always just twiddling my thumbs when in times like this.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep-beep. +The communicator suddenly comes to life. Catherine takes the call out of reflex.
 NPC-Scalper(0)<Speaker>Catherine</Speaker>||:Hello?
-NPC-NervousMan(0)<Speaker>Nikolai</Speaker><通讯框>||<BGM>GF_2022_Summer_Battle_2</BGM>:<color=#00CCFF>Catherine, I knew you'd also be on the train.</color>
+NPC-NervousMan(0)<Speaker>Nikolai</Speaker><scan><通讯框>||<BGM>GF_2022_Summer_Battle_2</BGM>:<color=#00CCFF>Catherine, I knew you'd also be on the train.</color>
 NPC-Scalper(0)<Speaker>Catherine</Speaker>||:Ahem, how can I help you, Mr. Nikolai? Maggie is still on the Colt Express. I'll tell her that you called when she's back.
-NPC-NervousMan(0)<Speaker>Nikolai</Speaker><通讯框>||:<color=#00CCFF>...The "hunt" has begun. You'd better finish up right now.</color> +<color=#00CCFF>I'll do what I can to slow her down, but you both know what Baba Lyuba is like...</color>
+NPC-NervousMan(0)<Speaker>Nikolai</Speaker><scan><通讯框>||:<color=#00CCFF>...The "hunt" has begun. You'd better finish up right now.</color> +<color=#00CCFF>I'll do what I can to slow her down, but you both know what Baba Lyuba is like...</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +Catherine's face pales immediately as painful memories resurface. She accidentally terminates the transmission.
 NPC-Scalper(3)<Speaker>Catherine</Speaker>||:Crap... Why did I hang up?!
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click...

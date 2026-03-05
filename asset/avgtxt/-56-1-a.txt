@@ -6,16 +6,16 @@
 ()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1><BGM>GF_EV9_Story</BGM>:Tap, tap— Tap, tap—+The Commander's footsteps echo loudly through the empty corridor.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep-beep-beep!! +It's Helian.
 ()<Speaker></Speaker>||:The Commander picks up the call but they do not slow down.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>...They've issued permissions to cross the border and use firearms.</color>+<color=#00CCFF>We need your warrant card and your signature.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>...They've issued permissions to cross the border and use firearms.</color>+<color=#00CCFF>We need your warrant card and your signature.</color>
 NPC-Helian(0)<Speaker>Commander</Speaker><同时置暗>||:Got it. Give me half an hour.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>...You need to head outside and handle supply transshipment in half an hour.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>...You need to head outside and handle supply transshipment in half an hour.</color>
 NPC-Helian(0)<Speaker>Commander</Speaker><同时置暗>||:...Then give me 15 minutes. Have Persica meet me at the lab entrance in 15 minutes, we'll go together.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>Are you talking about that "gift" which Statesec sent? I understand.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>Are you talking about that "gift" which Statesec sent? I understand.</color>
 ()<Speaker></Speaker>||:Helian pauses briefly.
 ()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1><SE1>AVG_door_elecport</SE1>:The Commander hits the call button for the lift in the meantime.
 ()||<黑点1>:
 ()<Speaker>Commander</Speaker>||<SE1>Stop_AVG_loop</SE1><黑点2><BIN>46</BIN>:...Is there anything else?
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>While I'd like to tell you not to push yourself too hard, the fact remains that the base needs you.</color>+<color=#00CCFF>So please, take care of yourself, and thank you.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>While I'd like to tell you not to push yourself too hard, the fact remains that the base needs you.</color>+<color=#00CCFF>So please, take care of yourself, and thank you.</color>
 NPC-Helian(0)<Speaker>Commander</Speaker><同时置暗>||:...Same goes for you.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Doorbell</SE1>:The Commander hangs up just as the lift reaches the basement.
 ()||<黑点1><SE1>AVG_BaseDoor_Open</SE1>:
@@ -26,22 +26,22 @@ NPC-Helian(0)<Speaker>Commander</Speaker><同时置暗>||:...Same goes for you.
 ()<Speaker>Commander</Speaker>||:...
 ()<Speaker></Speaker>||:The silence here is too complete; not even the thunderous hum of the electrical system running at maximum capacity when Persica is working can be heard.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:The Commander makes an emergency call in the darkness.
-NytoIsomer(4)<Speaker>Dandelion</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>—Main Control Room speaking.</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><Position>0,-80</Position><scan><通讯框>||:<color=#00CCFF>—Main Control Room speaking.</color>
 NytoIsomer(4)<Speaker>Commander</Speaker><Position>0,-80</Position><同时置暗>||:Give me a sitrep on the B3 level.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>One moment please.</color>+<color=#00CCFF>No abnormalities detected... SCR and FF M249SAW are on duty. They just went to the lab to relieve Contender and M60.</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><scan><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>One moment please.</color>+<color=#00CCFF>No abnormalities detected... SCR and FF M249SAW are on duty. They just went to the lab to relieve Contender and M60.</color>
 ()<Speaker></Speaker>||<Night><BIN>89</BIN><SE1>AVG_Power_Down</SE1><震屏3>:Thunk—+The corridor lights all go out!
 ()<Speaker>Commander</Speaker>||:...Someone's cut the power supply.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>...Still looks normal from here.</color>
-NytoIsomer(5)<Speaker>Dandelion</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>Wait a minute, the camera timestamp's been changed. Commander...</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><scan><通讯框>||:<color=#00CCFF>...Still looks normal from here.</color>
+NytoIsomer(5)<Speaker>Dandelion</Speaker><Position>0,-80</Position><scan><通讯框>||:<color=#00CCFF>Wait a minute, the camera timestamp's been changed. Commander...</color>
 ()<Speaker>Commander</Speaker>||:!!!+<color=#A9A9A9>Is it Paradeus? The rebels? Or—</color>
 ()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL2</SE1><震屏3><BGM>10254</BGM>:Bang—
 ()<Speaker></Speaker>||:A gunshot ricochets off the ground beside the Commander's feet.
 ()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:The Commander rolls aside and crouches low, staying silent. Their nerves are wound tightly and they have their gun in a death grip.+The only thing here is darkness and endless silence.+There is only the sound of their breathing.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>...</color>+<color=#00CCFF>The elevator power supply is back under control. ST AR-15 is leading a team to lock down the secure passage.</color>+<color=#00CCFF>Commander, please verify your safety.</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><scan><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>...</color>+<color=#00CCFF>The elevator power supply is back under control. ST AR-15 is leading a team to lock down the secure passage.</color>+<color=#00CCFF>Commander, please verify your safety.</color>
 NytoIsomer(3)<Speaker>Commander</Speaker><Position>0,-80</Position><同时置暗>||:What about Persica? Is she safe?
-NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>...</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><scan><通讯框>||:<color=#00CCFF>...</color>
 NytoIsomer(3)<Speaker>Commander</Speaker><Position>0,-80</Position><同时置暗>||:<size=50>WHERE IS PERSICA!?</size>
-NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>I don't see her on the cameras.</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><scan><通讯框>||:<color=#00CCFF>I don't see her on the cameras.</color>
 ()<Speaker></Speaker>||<SE1>AVG_2022Saros_Gunpast</SE1><震屏3>:Bang—+Another bullet hits the ground by the Commander's feet.+Did the opposition mess up?+No, it was a carefully calculated shot.
 ()<Speaker></Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:The Commander follows their memories as they run toward the lab, their gun at the ready.
 ()||<黑点1><SE1>AVG_BaseDoor_Open</SE1>:
@@ -69,7 +69,7 @@ NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><通讯框>||
 ()<Speaker>????</Speaker>||:...
 ()<Speaker></Speaker>||<睁眼><SE1>AVG_21Winter_Open_Light</SE1><BIN>564</BIN><关闭蒙版>:Snap—+The lights in the lab come back on.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||<SE1>Select</SE1><SE1>AVG_tele_connect</SE1>:...Visibility restored. +Dandelion, our target is one Doll.
-AR15Mod(0);NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>...Her systems are different. I can't take care of it from here.</color>
+AR15Mod(0);NytoIsomer(3)<Speaker>Dandelion</Speaker><Position>0,-80</Position><scan><通讯框>||:<color=#00CCFF>...Her systems are different. I can't take care of it from here.</color>
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||:She's just an old model from nearly two decades ago! Disarm her already!
 ()<Speaker>????</Speaker>||:...I advise you not to act rashly.
 ()<Speaker></Speaker>||:The Commander can't see the face of the Doll behind them, but the pressure on the back of their head intensifies.

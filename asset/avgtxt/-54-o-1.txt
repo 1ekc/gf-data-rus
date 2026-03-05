@@ -44,13 +44,13 @@ NPC-TD_Porter(0)<Speaker>Susanna</Speaker>||:<color=#A9A9A9>...We're both Dolls,
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2>:In the workroom in the first-class carriage, Susanna is busy preparing the passengers' red wine.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:Just then, an untimely call interrupts her.
-ColtWalker(2)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>My dearest Susanna, it's your suuuuuper bestie Maggie.</color> +<color=#00CCFF>I need to be in Carriage 9 later, so please get me a short-trip ticket. I can get off at Poznań.</color>
-ColtWalker(2)<通讯框>;NPC-TD_Porter(1)<Speaker>Susanna</Speaker>||:Maggie Ponzi? Still not dead then?
-ColtWalker(2)<Speaker>Maggie</Speaker><通讯框>;NPC-TD_Porter(1)||<BGM>GF_2022_Summer_AVG_1</BGM>:<color=#00CCFF>Don't worry. Only the good die young. Won't be my turn any time soon.</color>
-ColtWalker(2)<通讯框>;NPC-TD_Porter(0)<Speaker>Susanna</Speaker>||:Carriage 9... Isn't that the dining carriage? You're making another "deal", huh? +I pity the unfortunate souls.
-ColtWalker(2)<Speaker>Maggie</Speaker><通讯框>;NPC-TD_Porter(0)||:<color=#00CCFF>My, my... What if I give you 30% of our profit this time?</color>
-ColtWalker(2)<通讯框>;NPC-TD_Porter(0)<Speaker>Susanna</Speaker>||:Fine. I won't say no to Sardis Gold. +...Are you using the same electronic info card?
-ColtWalker(1)<Speaker>Maggie</Speaker><通讯框>||:<color=#00CCFF>Yeah, just use the one I've been using. Someone will be taking me to Carriage 2 for a meeting later. Don't check my ticket.</color>
+ColtWalker(2)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>My dearest Susanna, it's your suuuuuper bestie Maggie.</color> +<color=#00CCFF>I need to be in Carriage 9 later, so please get me a short-trip ticket. I can get off at Poznań.</color>
+ColtWalker(2)<scan><通讯框>;NPC-TD_Porter(1)<Speaker>Susanna</Speaker>||:Maggie Ponzi? Still not dead then?
+ColtWalker(2)<Speaker>Maggie</Speaker><scan><通讯框>;NPC-TD_Porter(1)||<BGM>GF_2022_Summer_AVG_1</BGM>:<color=#00CCFF>Don't worry. Only the good die young. Won't be my turn any time soon.</color>
+ColtWalker(2)<scan><通讯框>;NPC-TD_Porter(0)<Speaker>Susanna</Speaker>||:Carriage 9... Isn't that the dining carriage? You're making another "deal", huh? +I pity the unfortunate souls.
+ColtWalker(2)<Speaker>Maggie</Speaker><scan><通讯框>;NPC-TD_Porter(0)||:<color=#00CCFF>My, my... What if I give you 30% of our profit this time?</color>
+ColtWalker(2)<scan><通讯框>;NPC-TD_Porter(0)<Speaker>Susanna</Speaker>||:Fine. I won't say no to Sardis Gold. +...Are you using the same electronic info card?
+ColtWalker(1)<Speaker>Maggie</Speaker><scan><通讯框>||:<color=#00CCFF>Yeah, just use the one I've been using. Someone will be taking me to Carriage 2 for a meeting later. Don't check my ticket.</color>
 ()<Speaker></Speaker>||:Susanna frowns and considers it.
 NPC-TD_Porter(0)<Speaker>Susanna</Speaker>||:...Got it. +I'll be preparing dinner in the workroom for some time.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +The transmission ends.

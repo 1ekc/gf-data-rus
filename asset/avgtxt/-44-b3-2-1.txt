@@ -42,22 +42,22 @@ VP1915(0)<Speaker>Perosa</Speaker>||:But we already do, isn't that right?
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:She approaches the corpse, searches it briefly, and finds the signal jammer.
 VP1915(0)<Speaker>Perosa</Speaker>||:...The channels we use aren't blocked by standard jamming equipment, amateur.
 ()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:Zzzzt—
-Kolibri(0)<Speaker>Kolibri</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Perosa? You there? I could hear some comm static.</color>
-VP1915(0)<Speaker>Perosa</Speaker>;Kolibri(0)<通讯框>||:I'm here. I've settled things on my end. How about you?
-VP1915(0);Kolibri(0)<Speaker>Kolibri</Speaker><通讯框>||:<color=#00CCFF>We had three here. Fedorov killed them all.</color> +<color=#00CCFF>The Earl won't get mad at us, I hope?</color>
-VP1915(0)<Speaker>Perosa</Speaker>;Kolibri(0)<通讯框>||:...They were all rotten fruit. We were simply doing some pruning. +Raise the alarm. The government needs to know what happened here.
-VP1915(0);Kolibri(0)<Speaker>Kolibri</Speaker><通讯框>||:<color=#00CCFF>Already done.</color>
+Kolibri(0)<Speaker>Kolibri</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Perosa? You there? I could hear some comm static.</color>
+VP1915(0)<Speaker>Perosa</Speaker>;Kolibri(0)<scan><通讯框>||:I'm here. I've settled things on my end. How about you?
+VP1915(0);Kolibri(0)<Speaker>Kolibri</Speaker><scan><通讯框>||:<color=#00CCFF>We had three here. Fedorov killed them all.</color> +<color=#00CCFF>The Earl won't get mad at us, I hope?</color>
+VP1915(0)<Speaker>Perosa</Speaker>;Kolibri(0)<scan><通讯框>||:...They were all rotten fruit. We were simply doing some pruning. +Raise the alarm. The government needs to know what happened here.
+VP1915(0);Kolibri(0)<Speaker>Kolibri</Speaker><scan><通讯框>||:<color=#00CCFF>Already done.</color>
 VP1915(0)<Speaker>Perosa</Speaker>||:Savage? Are you online? Sitrep.
-VP1915(0);Savage99(0)<Speaker>Savage</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I'm on the roof, things have been taken care of. Derringer caused a bit of trouble and I'm clearing up the aftermath.</color> +<color=#00CCFF>They put a huge pile of mines on the shore guns.</color>
+VP1915(0);Savage99(0)<Speaker>Savage</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I'm on the roof, things have been taken care of. Derringer caused a bit of trouble and I'm clearing up the aftermath.</color> +<color=#00CCFF>They put a huge pile of mines on the shore guns.</color>
 VP1915(0)<Speaker>Perosa</Speaker>||:...Stay there. I'll handle the other places.
-VP1915(0);Kolibri(0)<Speaker>Kolibri</Speaker><通讯框>||:<color=#00CCFF>Yo yo! Dumbasses should just stay where dumbasses ought to be.</color>
-VP1915(0)<Speaker>Perosa</Speaker>;Kolibri(0)<通讯框>||:No, what I mean is...
-VP1915(0);Savage99(0)<Speaker>Savage</Speaker><通讯框>||:<color=#00CCFF>If they're sabotaging the shore guns, then it's very likely that they ARE planning to attack the quarantine wall.</color> +<color=#00CCFF>They must be working in tandem with the people outside, which is why they were plotting to disable the wall's defensive capabilities.</color>
-VP1915(0)<Speaker>Perosa</Speaker>;Savage99(0)<通讯框>||:...Correct, that's what I meant. +You picked up on that fast.
-VP1915(0);Savage99(0)<Speaker>Savage</Speaker><通讯框>||:<color=#00CCFF>...That's because they're already here! Perosa!</color>
-VP1915(0);Savage99(0)<Speaker>Savage</Speaker><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>Large enemy forces approaching!</color> +<color=#00CCFF>They're being led by that Nyto we saw before!</color>
+VP1915(0);Kolibri(0)<Speaker>Kolibri</Speaker><scan><通讯框>||:<color=#00CCFF>Yo yo! Dumbasses should just stay where dumbasses ought to be.</color>
+VP1915(0)<Speaker>Perosa</Speaker>;Kolibri(0)<scan><通讯框>||:No, what I mean is...
+VP1915(0);Savage99(0)<Speaker>Savage</Speaker><scan><通讯框>||:<color=#00CCFF>If they're sabotaging the shore guns, then it's very likely that they ARE planning to attack the quarantine wall.</color> +<color=#00CCFF>They must be working in tandem with the people outside, which is why they were plotting to disable the wall's defensive capabilities.</color>
+VP1915(0)<Speaker>Perosa</Speaker>;Savage99(0)<scan><通讯框>||:...Correct, that's what I meant. +You picked up on that fast.
+VP1915(0);Savage99(0)<Speaker>Savage</Speaker><scan><通讯框>||:<color=#00CCFF>...That's because they're already here! Perosa!</color>
+VP1915(0);Savage99(0)<Speaker>Savage</Speaker><scan><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>Large enemy forces approaching!</color> +<color=#00CCFF>They're being led by that Nyto we saw before!</color>
 VP1915(0)<Speaker>Perosa</Speaker>||:What?!
-VP1915(0);Kolibri(0)<Speaker>Kolibri</Speaker><通讯框>||<SE2>Gunfight</SE2><SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>Perosa! This is bad!</color> +<color=#00CCFF>That stupid Fedorov didn't check properly before sounding the alarm.</color> +<color=#00CCFF>...Turns out the transmission circuit was altered, so it doesn't go inside the wall, but outside it!</color>
+VP1915(0);Kolibri(0)<Speaker>Kolibri</Speaker><scan><通讯框>||<SE2>Gunfight</SE2><SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>Perosa! This is bad!</color> +<color=#00CCFF>That stupid Fedorov didn't check properly before sounding the alarm.</color> +<color=#00CCFF>...Turns out the transmission circuit was altered, so it doesn't go inside the wall, but outside it!</color>
 VP1915(0)<Speaker>Perosa</Speaker>||:So they're launching the attack now because they know their plan is a bust?
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. +A new channel connects to Perosa's transmission.
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Perosa, what's going on?</color> +<color=#00CCFF>I can hear gunfire from beyond the quarantine wall.</color>

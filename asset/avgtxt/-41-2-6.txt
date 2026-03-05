@@ -2,9 +2,9 @@
 ()<Speaker></Speaker>||<BIN>1</BIN><黑屏2><BGM>BGM_Danger</BGM><SE1>Explode</SE1>:BOOM!
 ()||:The cannon roars, and the base that was an empty shell to begin with is consumed by flames in the blink of an eye.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO! Do you read me?!
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Get...out...base...!</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Get...out...base...!</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What did you say? +I can't hear you!
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Get...out...base...catch...Gager...</color> +<color=#00CCFF>Will...find...you...!</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Get...out...base...catch...Gager...</color> +<color=#00CCFF>Will...find...you...!</color>
 ()||:SOP-II and Architect have long since fled to a safe area. +While they don't know the reason why, Gager has not made any more announcements after the first one. They easily broke through the encirclement around them and escaped the base. +...And that is why the sight before them defies explanation. They know Gager isn't bluffing, but they have no idea why she's still shooting.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:...Dammit!
 ()||:SOP-II starts running towards the source of the explosions. +Architect, on the other hand, suddenly stops and looks into the distance.
@@ -15,24 +15,24 @@ M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh?!
 ()||:Architect suddenly flees into another room. Just as SOP-II is about to give chase, a Jupiter cannon shell turns the passage ahead into rubble.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Ack!
 ()||:The shockwave from the blast throws SOP-II into a wall. +She hurriedly scrambles to her feet, but the way ahead is now a sea of flames.
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>SOP-II, do you read me?</color> +<color=#00CCFF>We're approaching your position now. What's the situation? Are you engaged with S.F.?!</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>SOP-II, do you read me?</color> +<color=#00CCFF>We're approaching your position now. What's the situation? Are you engaged with S.F.?!</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:15! +Gager's in the base! +She has control over the Jupiter Cannons! Comms with RO are breaking up and Architect just made a run for it!
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>...Well, this is a surprise.</color> +<color=#00CCFF>And we only just left the team for a little while.</color> +<color=#00CCFF>What on earth happened for things to have gone so ugly?</color>
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>...Well, this is a surprise.</color> +<color=#00CCFF>And we only just left the team for a little while.</color> +<color=#00CCFF>What on earth happened for things to have gone so ugly?</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:R-RO's still deep inside the base! +A Jupiter cannon shot hit her position! We need to find her!
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Actually...</color> +<color=#00CCFF>I don't think we need to worry about that anymore.</color>
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Actually...</color> +<color=#00CCFF>I don't think we need to worry about that anymore.</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh?
 ()||:Before Dandelion can finish, a sooty figure emerges from the smoke amidst a sea of flames.
 RO635Mod(0)<Speaker>RO635</Speaker>||:(Coughs)
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO!
 RO635Mod(0)<Speaker>RO635</Speaker>||:Sorry I'm late. +Are 15 and Dandelion back?
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Yeah, we just arrived.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Yeah, we just arrived.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:What about Architect?
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:She...she just escaped...
 RO635Mod(0)<Speaker>RO635</Speaker>||:Gager must have covered for her. +We'll continue the pursuit outside; they're just two Dolls, they can't have gotten far.
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>The only threat to us are those Jupiter Cannons. Can you deal with them remotely, Dandelion?</color>
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>The way you boss people around is getting more and more like her.</color>
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Yes or no?</color>
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>Yes, yes, I am delighted to be of service.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>The only threat to us are those Jupiter Cannons. Can you deal with them remotely, Dandelion?</color>
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>The way you boss people around is getting more and more like her.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Yes or no?</color>
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>Yes, yes, I am delighted to be of service.</color>
 ()||<BGM>GF_EV9_Battle1</BGM><BIN>71</BIN><黑屏2>:Amidst the flames.
 BOSS-9(0)<Speaker>Architect</Speaker>||:Who~ killed Cock Robin? +I~ killed Cock Robin. +With my shot and shell! ♪
 BOSS-9(0)<Speaker>Architect</Speaker>||:Ahhhh, home sweet home. My backup weapon is in the storage locker right where I left it. +I haven't fought for so long; I wonder if I've gotten rusty.

@@ -42,9 +42,9 @@ G36(8)<Speaker>Gr G36</Speaker>||<黑点2><BIN>515</BIN>:Pardon me, Master, I've
 ()<Speaker>Commander</Speaker>||:Thank you, let me ask the other Dolls first.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep—A call starts ringing.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:The Commander pardons Gr G36, then picks up the terminal.
-NPC-KalinSwim(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Commander! The award ceremony starts in five minutes! Please head for the backstage now!</color>
-NPC-KalinSwim(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...Sorry, Kalin... I didn't find the [King Lycan].
-NPC-KalinSwim(1)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Hmm... Don't worry! In the worst case I'll just apologize to Miss Springfield later...</color> +<color=#00CCFF>Anyway, please hurry up! I have other preparation work to handle, bye!</color>
+NPC-KalinSwim(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Commander! The award ceremony starts in five minutes! Please head for the backstage now!</color>
+NPC-KalinSwim(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...Sorry, Kalin... I didn't find the [King Lycan].
+NPC-KalinSwim(1)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Hmm... Don't worry! In the worst case I'll just apologize to Miss Springfield later...</color> +<color=#00CCFF>Anyway, please hurry up! I have other preparation work to handle, bye!</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Beep. The call ends.
 ()<Speaker></Speaker>||:...
 ()||<黑点1>:

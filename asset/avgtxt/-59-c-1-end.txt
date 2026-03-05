@@ -10,11 +10,11 @@ MG36(0)<Speaker>MG36</Speaker>||:We weren't given permission to do anything.+In 
 Lewis(0)<Speaker>Lewis</Speaker>||:Wow, that's a nice way to think about it.+Is that what you've learned from your experience as a judge's assistant?
 ()<Speaker></Speaker>||:The five of them looked at each other and seemed to have come to a unanimous agreement. As such... +They've quickly put their plan into action.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep—
-RO635-NoArmor(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Please refrain from leaving the test site.</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Please refrain from leaving the test site.</color>
 LWMMG(0)<Speaker>LWMMG</Speaker>||:...And what if we insist on leaving?
-RO635-NoArmor(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Then the experiment ends here.</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Then the experiment ends here.</color>
 MG36(0)<Speaker>MG36</Speaker>||:Can you shed some light on our current situation?
-RO635-NoArmor(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>You may fully engage in activities as well as make further attempts.</color>+<color=#00CCFF>This is an experiment concerning probability. As such, every attempt is valuable.</color>+<color=#00CCFF>Please act accordingly.</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>You may fully engage in activities as well as make further attempts.</color>+<color=#00CCFF>This is an experiment concerning probability. As such, every attempt is valuable.</color>+<color=#00CCFF>Please act accordingly.</color>
 MG36(0)<Speaker>MG36</Speaker>||:What if we do nothing?
-RO635-NoArmor(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>That too is an activity.</color>+<color=#00CCFF>It also generates certain data and probabilities. </color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>That too is an activity.</color>+<color=#00CCFF>It also generates certain data and probabilities. </color>
 ()||<黑点1>:

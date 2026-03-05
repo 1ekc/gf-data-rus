@@ -15,10 +15,10 @@ LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:Please leave it to me
 ()||<黑屏1><BGM>BGM_Empty</BGM>:LAMG solemnly accepts the assignment with a fervent desire to help alleviate Miss Helian's troubles.
 ()||<关闭蒙版><黑屏2><BIN>395</BIN><BGM>BGM_Sneak</BGM>:...45 minutes later, LAMG is crouching around the corner in the corridor outside the target's apartment, observing it carefully. +Due to the curtains blocking her view from the outside, LAMG cannot determine the situation inside. +Even though the door is the only thing between her and the target, there is still no way of knowing the target's status. She has tried talking to the nearby residents, but they all ran away in fright once they realized she was asking about the occupant of this particular apartment.
 LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:Miss Helian, I have reached the designated location. +I am currently outside the door, the situation inside the apartment cannot be determined. Please advise.
-LAMG(0)<Position>0,100</Position>;NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>Do it.</color>
-LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>NPC-Helian(0)<通讯框>||:Yes, ma'am! But should I opt for gentler measures, or should I just...
-LAMG(0)<Position>0,100</Position>;NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>...</color>
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>Try to be gentle first.</color>
+LAMG(0)<Position>0,100</Position>;NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>Do it.</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>NPC-Helian(0)<scan><通讯框>||:Yes, ma'am! But should I opt for gentler measures, or should I just...
+LAMG(0)<Position>0,100</Position>;NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>Try to be gentle first.</color>
 LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:Yes, ma'am!
 ()||<黑点1>:LAMG terminates the transmission respectfully and starts imagining how the scenario will play out in her head.
 LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<黑点2><边框>2</边框><SE1>AVG_doorknock_wood</SE1>:Excuse me, is this Miss Anna Viktorovna Tsoi? +I am LAMG, an employee of Griffin and Kryuger PMC. I would like to extend an invitation to you to join Griffin as a commander.
@@ -59,10 +59,10 @@ NPC-Ange(23)<Speaker>Anna</Speaker>||:... +Huh, a Doll?
 NPC-Ange(23)<Speaker>Anna</Speaker>||:Where's your commander?
 LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:Miss Helian, Miss Tsoi would like to speak to you.
 ()||:LAMG turns on the projection on her communicator.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>Hello, Miss Tsoi.</color>
-NPC-Helian(0)<通讯框>;NPC-Ange(23)<Speaker>Anna</Speaker>||:You're the Doll's commander? +Then order your Doll to fight me.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>;NPC-Ange(23)||:<color=#00CCFF>...</color> +<color=#00CCFF>If that is what you want, I'll oblige.</color>
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>Authorization granted.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>Hello, Miss Tsoi.</color>
+NPC-Helian(0)<scan><通讯框>;NPC-Ange(23)<Speaker>Anna</Speaker>||:You're the Doll's commander? +Then order your Doll to fight me.
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>;NPC-Ange(23)||:<color=#00CCFF>...</color> +<color=#00CCFF>If that is what you want, I'll oblige.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>Authorization granted.</color>
 LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:Confirmed. Target restriction disabled.
 ()||<SE1>Select</SE1>:Clatter. After a moment of hesitation, LAMG decides to put down her gun and draws her combat knife instead. +When she looks up again, she notices the gleeful gleam in her target's eyes...
 ()<Speaker>Anna</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:It's been too long... I don't even remember when was the last time I got to fight without holding back...

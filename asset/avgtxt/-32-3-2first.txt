@@ -70,7 +70,7 @@ Dorothy(0)<Speaker>Anna</Speaker>;Stella(2)||:If I were you, I would do the same
 Dorothy(0)<Speaker></Speaker>;Stella(2)||:...Snap! +...Anna snaps her fingers.
 Dorothy(0);Stella(2)<Speaker>Stella</Speaker>||:What...did you do?
 Dorothy(0)<Speaker>Anna</Speaker>;Stella(2)||<BGM>BGM_Empty</BGM>:Something I couldn't do before... +...Add a bit of chaos to the world.
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>;Stella(2)||<BGM>m_va_march_of_the_white_knights</BGM>:<color=#00CCFF>Stella! A whole bunch of White Knight mechanized units suddenly touched down from the sky!</color>+<color=#00CCFF>There's too many of them, and they...they...</color>
+WA2000(0)<Speaker>WA2000</Speaker><scan><通讯框>;Stella(2)||<BGM>m_va_march_of_the_white_knights</BGM>:<color=#00CCFF>Stella! A whole bunch of White Knight mechanized units suddenly touched down from the sky!</color>+<color=#00CCFF>There's too many of them, and they...they...</color>
 WA2000(0);Dorothy(0)<Speaker>Anna</Speaker>||:I've always wanted to see how the White Knights would fare against Griffin. +These big white bruisers are a lot more useful that those little black S.F. Dinergates.
 WA2000(0)<Speaker>WA2000</Speaker>;Dorothy(0)||:<color=#00CCFF>The White Knight mechs have gone berserk! They're attacking the Dolls here!</color>+<color=#00CCFF>The White Knight Dolls and humans are trying to organize a resistance, but there are too many berserk mechs!</color>
 WA2000(0);Stella(2)<Speaker>Stella</Speaker>||:Prioritize your own safety! I'll take care of things over here!

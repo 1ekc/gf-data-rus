@@ -63,7 +63,7 @@ NPC-SCR(4)<Speaker>SCR</Speaker>||:...
 NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||<BGM>BGM_Scar_Battle</BGM>:...
 ()<Speaker>????</Speaker>||:<color=#99CC33>...This is between you and me.</color>+<color=#99CC33>You shouldn't have involved others.</color>
 NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:What a coincidence, I was thinking the same thing.+Amaris.+I thought you'd have run off by now.
-NPC-SCAR-H(0)<Speaker>Amaris</Speaker><通讯框>||:<color=#99CC33>...You think too much...</color>+<color=#99CC33>Pick a place. We'll settle everything there.</color>+<color=#99CC33>...I'll take revenge on you for everyone's sake—Samantha, Morea, Olivia, Eula, Nicole, Callisto, Laura, and myself, Amaris.</color>
-NPC-SCAR-H(0)<通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Very well... I've sent you the location.+See you there tomorrow, Amaris.
-NPC-SCAR-H(0)<Speaker>Amaris</Speaker><通讯框>||:<color=#99CC33>See you tomorrow, Aliana.</color>
+NPC-SCAR-H(0)<Speaker>Amaris</Speaker><scan><通讯框>||:<color=#99CC33>...You think too much...</color>+<color=#99CC33>Pick a place. We'll settle everything there.</color>+<color=#99CC33>...I'll take revenge on you for everyone's sake—Samantha, Morea, Olivia, Eula, Nicole, Callisto, Laura, and myself, Amaris.</color>
+NPC-SCAR-H(0)<scan><通讯框>;NPC-SCAR-L(0)<Speaker>Aliana</Speaker>||:Very well... I've sent you the location.+See you there tomorrow, Amaris.
+NPC-SCAR-H(0)<Speaker>Amaris</Speaker><scan><通讯框>||:<color=#99CC33>See you tomorrow, Aliana.</color>
 ()||<黑点1><BGM>BGM_Empty</BGM>:

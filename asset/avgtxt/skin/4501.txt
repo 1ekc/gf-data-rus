@@ -71,7 +71,7 @@ M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:I've gotten used to taking the n
 M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:How diligent of you.
 OTs14(0)<Speaker></Speaker>||:<color=#00CCFF>Incoming transmission request.</color>
 OTs14(0)<Speaker>OTs-14</Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:What is it, M200? The party...
-M200(0)<Speaker>M200</Speaker><通讯框>;OTs14(0)||<BGM>BGM_Danger</BGM><震屏>:<color=#00CCFF>Miss Groza, we need help!!!</color>
+M200(0)<Speaker>M200</Speaker><scan><通讯框>;OTs14(0)||<BGM>BGM_Danger</BGM><震屏>:<color=#00CCFF>Miss Groza, we need help!!!</color>
 M200(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Calm down, M200. What is the matter?
 M200(0);OTs14(0)<Speaker></Speaker><同时置暗>||:M16A1 tilts her head as she listens to the conversation.
 M200(0)<Speaker>M200</Speaker>;OTs14(0)||:<color=#00CCFF>We've encountered numerous abandoned mechs in Theater No. 3, some of them still have intact firing modules, and they've captured QBU-88!</color> +<color=#00CCFF>I've sent you our coordinates... Please get here ASAP! Thank you very much!</color>
@@ -107,7 +107,7 @@ M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Sure. Everyone having fun eatin
 M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:You're right. I hope they have booze at the party... Come. If we hurry, we might still make it before they wrap things up.
 M16A1BOSS(0);OTs14(0)<Speaker></Speaker>||<黑屏1>:Groza nods. The two Dolls board the chopper that has come to transport them back to base.
 ()<Speaker></Speaker>||<黑屏2><BIN>83</BIN><BGM>BGM_Empty</BGM>:When they arrive, they are greeted by an astonishing turn of events.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Welcome back, Groza and M16!</color> +<color=#00CCFF>The banquet is almost over, please put on the evening dresses that the Commander has prepared for you before you make your entrance~</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Welcome back, Groza and M16!</color> +<color=#00CCFF>The banquet is almost over, please put on the evening dresses that the Commander has prepared for you before you make your entrance~</color>
 NPC-Kalin(0);OTs14(0)<Speaker>OTs-14</Speaker>||<BGM>BGM_Hello</BGM>:"Banquet"?
 NPC-Kalin(0)<Speaker>Kalina</Speaker>;OTs14(0)||:Huh? Wasn't it your idea to organize a banquet to begin with?
 NPC-Kalin(0);OTs14(0)<Speaker>OTs-14</Speaker>||<SE1>AVG_tele_disconnect</SE1><黑屏1>:I did receive an update from the Commander halfway through the mission, but I certainly didn't foresee that it has grown so much in scale. +But there's nothing wrong with that.

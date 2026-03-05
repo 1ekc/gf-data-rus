@@ -10,7 +10,7 @@ APS(0)<Speaker>Stechkin</Speaker>||<黑屏1>:Alright, alright! Stop calling me t
 APS(0)<Speaker>Stechkin</Speaker>||:It's already 6pm, and the Valentine's Day party starts at 8, but I still haven't received the invitation... +Is there a bug in the system?
 APS(0)<Speaker></Speaker>||:An incoming transmission request.
 APS(0)<Speaker>Stechkin</Speaker>||:Oh, here it is! Ahem, hm... +Hello? What's up?
-APS(0);M950A(0)<Speaker>M950A</Speaker><通讯框>||:<color=#00CCFF>Stechkin, if you're free tonight, can you do me a favor?</color>
+APS(0);M950A(0)<Speaker>M950A</Speaker><scan><通讯框>||:<color=#00CCFF>Stechkin, if you're free tonight, can you do me a favor?</color>
 APS(0)<Speaker>Stechkin</Speaker>;M950A(0)||:Oh I see, you haven't finished setting up the party venue, have you?
 APS(0);M950A(0)<Speaker>M950A</Speaker>||:<color=#00CCFF>Huh? Nope, that's all done ages ago.</color> +<color=#00CCFF>So are you free tonight? I mean, do you mind if we swap shifts?</color>
 APS(0)<Speaker>Stechkin</Speaker>;M950A(0)||:I AM free, but what exactly am I going to get out of this arrangement~?

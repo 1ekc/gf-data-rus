@@ -1,5 +1,5 @@
 ()||<BIN>22</BIN><BGM>BGM_Sneak</BGM>:...Клик. Запрос связи от Анжелии.
-NPC-Ange(0)<Speaker>Анже</Speaker><通讯框>||<BIN>22</BIN>:Итак, что ты нашла?
+NPC-Ange(0)<Speaker>Анже</Speaker><scan><通讯框>||<BIN>22</BIN>:Итак, что ты нашла?
 NPC-Persica(1)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Как ты узнала?
 NPC-Persica(1);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>22</BIN>:Ты не связывалась со мной уже полчаса. Наверное, ты что-то нашла.+Бронированные подразделения военных всё ещё на месте, и это меня очень беспокоит...
 NPC-Persica(1)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>22</BIN>:Разве это плохо?

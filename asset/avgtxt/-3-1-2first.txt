@@ -10,7 +10,7 @@ UMP9(3)<Speaker>UMP9</Speaker>||:Ммм, уже занимаюсь этим.
 UMP45(0)<Speaker>UMP45</Speaker>||:416-я, ты на связи?
 ()||:...
 UMP45(0)<Speaker>UMP45</Speaker>||:416-я, ты тут? Еще жива?
-HK416(2)<Speaker>416</Speaker><通讯框>||:...Я здесь.
+HK416(2)<Speaker>416</Speaker><scan><通讯框>||:...Я здесь.
 UMP45(0)<Speaker>UMP45</Speaker>;HK416(2)||:Мы взяли под контроль аванпост. У вас есть полчаса, чтобы пересечь небезопасную зону.
 UMP45(0);HK416(2)<Speaker>416</Speaker>||:Конечно... поняла.
 UMP45(0)<Speaker>UMP45</Speaker>;HK416(2)||:А чего так угрюмо?

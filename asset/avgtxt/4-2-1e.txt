@@ -6,8 +6,8 @@ SOPII(0);M4A1(2)<Speaker>M4A1</Speaker>||:Господи... Ты слышала 
 SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1(2)||:Ага, она все еще сдает отчет, поэтому попросила меня зайти.
 SOPII(0);M4A1(0)<Speaker>M4A1</Speaker>||:Не только Командир... Даже госпожа Калина так хорошо о нас заботится. Нам так повезло.
 SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1(0)||<黑点1>:Итак, где следующие координаты?
-M4A1(0)<Speaker>M4A1</Speaker><通讯框>||<BIN>10</BIN><黑点2>:Вот они.
-SOPII(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>;M4A1(0)||:О! Здесь?! Дай мне посмотреть!
+M4A1(0)<Speaker>M4A1</Speaker><scan><通讯框>||<BIN>10</BIN><黑点2>:Вот они.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>;M4A1(0)||:О! Здесь?! Дай мне посмотреть!
 SOPII(0);M4A1(3)<Speaker>M4A1</Speaker>||:Прекрати... опираться на меня, SOP-II! Ты слишком тяжелая!
 SOPII(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1(3)||:О! Я знаю это место! Я даже наткнулась здесь на болванку командира Сангвиса! А потом...
 SOPII(0);M4A1(2)<Speaker>M4A1</Speaker>||:Стоп. Я представляю, что было дальше...

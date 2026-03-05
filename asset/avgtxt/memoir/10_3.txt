@@ -25,40 +25,40 @@ MP443_MOD(0)<Speaker>MP-443</Speaker>||:PPK, are you okay? +You seem pretty conf
 PPKMod(0)<Speaker>PPK</Speaker>||:... +Let me contact the Commander again.
 ()||<SE1>AVG_tele_connect</SE1>:Before PPK can make the call, there is the sound of a ringtone—
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>PPK, we ran a bunch of tests here and eliminated the possibility of you being infected by the Parapluie or other viruses, but we still haven't found the source of your problems yet.</color> +<color=#00CCFF>So we asked Professor Persica to help, and she—</color>
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Let me do it!</color>
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Let me do it!</color>
 ()||:The Commander is shoved away from in front of the comm interface, replaced by a face so excited that it's practically sparkling.
 PPKMod(0)<Speaker>PPK</Speaker>||:Hello, Professor Persica.
-PPKMod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I'll cut to the chase. I don't care for politeness or psychoanalysis.</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<通讯框>||:Hallelujah.
-PPKMod(0);NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>You purchased black market memory editing services prior to this, didn't you?</color>
-PPKMod(0);NPC-Kalin(7)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Miss Persica! Some discretion please!</color>
+PPKMod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I'll cut to the chase. I don't care for politeness or psychoanalysis.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<scan><通讯框>||:Hallelujah.
+PPKMod(0);NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>You purchased black market memory editing services prior to this, didn't you?</color>
+PPKMod(0);NPC-Kalin(7)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Miss Persica! Some discretion please!</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:...
 ()||:PPK glances at MP-443 beside her, who seems to be trying her best to physically crawl into the communication. After sensing the murderous intent coming from PPK, the latter gets the hint and goes far away.
 PPKMod(0)<Speaker>PPK</Speaker>||:I DID have a memory alteration done on the black market, but I'm not sure if it was at my request.
 ()||:Even through the comm window, PPK can see the dangerous glint in Persica's eyes.
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Hmph. Well, you were pretty lucky. I've heard of a lot of cases where people would pretend to offer memory editing services, and then upon obtaining access permissions to a Doll, they would wipe the Doll's memories and sell them off.</color> +<color=#00CCFF>Do you still remember the memories that were altered?</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:No. My memories began after I left that black market establishment.
-PPKMod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>As I thought, you deleted your memories before entering the black market.</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<通讯框>||:...What does that have to do with what I saw?
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Oh, my sweet summer Doll.</color>
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Hmph. Well, you were pretty lucky. I've heard of a lot of cases where people would pretend to offer memory editing services, and then upon obtaining access permissions to a Doll, they would wipe the Doll's memories and sell them off.</color> +<color=#00CCFF>Do you still remember the memories that were altered?</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<scan><通讯框>||:No. My memories began after I left that black market establishment.
+PPKMod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>As I thought, you deleted your memories before entering the black market.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<scan><通讯框>||:...What does that have to do with what I saw?
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Oh, my sweet summer Doll.</color>
 ()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:Persica's face grows even more excited and she brings up PPK's data interface.
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I noticed a saying that's popular among Dolls—</color> +<color=#00CCFF>"Humans can only endure the pain of memories they don't wish to recall, but Dolls can directly delete those memories and escape their suffering."</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:Is that not true?
-PPKMod(0);NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Hahahaha...</color> +<color=#00CCFF>There are many unfair things in this world, but pain is one of those things that affects everyone equally.</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:...
-PPKMod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Hah, sorry, I got sidetracked. What I'm trying to say is that directly deleting memories is a simple and crude method.</color> +<color=#00CCFF>It's like how after you delete an app, some program data is still left over, and other apps make use of this leftover data.</color> +<color=#00CCFF>That's where your problem lies.</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<通讯框>||:So you're saying that these deleted memories are still affecting me?
-PPKMod(0);NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Yup, and it should have been a long time since you underwent that illegal memory edit, because the technology they used to cover up their traces are outdated.</color> +<color=#00CCFF>The new body you changed to wasn't compatible with those changes, so those deleted memory fragments are showing up again, and they're conflicting with your other memory fragments...</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:...
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Which is why—</color>
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I noticed a saying that's popular among Dolls—</color> +<color=#00CCFF>"Humans can only endure the pain of memories they don't wish to recall, but Dolls can directly delete those memories and escape their suffering."</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<scan><通讯框>||:Is that not true?
+PPKMod(0);NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Hahahaha...</color> +<color=#00CCFF>There are many unfair things in this world, but pain is one of those things that affects everyone equally.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<scan><通讯框>||:...
+PPKMod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Hah, sorry, I got sidetracked. What I'm trying to say is that directly deleting memories is a simple and crude method.</color> +<color=#00CCFF>It's like how after you delete an app, some program data is still left over, and other apps make use of this leftover data.</color> +<color=#00CCFF>That's where your problem lies.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<scan><通讯框>||:So you're saying that these deleted memories are still affecting me?
+PPKMod(0);NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Yup, and it should have been a long time since you underwent that illegal memory edit, because the technology they used to cover up their traces are outdated.</color> +<color=#00CCFF>The new body you changed to wasn't compatible with those changes, so those deleted memory fragments are showing up again, and they're conflicting with your other memory fragments...</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<scan><通讯框>||:...
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Which is why—</color>
 ()||<SE1>AVG_Piano_Ambience</SE1>:Ding—Persica remotely sends her a patch program.
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>You can solve the problem by installing this patch and reloading the deleted memories.</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:Got it.
-PPKMod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>But the price for that is having to relive those memories.</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<通讯框>||:I don't see the problem.
-PPKMod(0);NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Although you don't remember those deleted memories or why you deleted them, it was still enough for you to take such a big risk to get rid of them...</color> +<color=#00CCFF>Are you truly prepared to recover them?</color>
-PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:...
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Of course, the choice is yours. I look forward to your decision.</color>
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>You can solve the problem by installing this patch and reloading the deleted memories.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<scan><通讯框>||:Got it.
+PPKMod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>But the price for that is having to relive those memories.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<scan><通讯框>||:I don't see the problem.
+PPKMod(0);NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Although you don't remember those deleted memories or why you deleted them, it was still enough for you to take such a big risk to get rid of them...</color> +<color=#00CCFF>Are you truly prepared to recover them?</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<scan><通讯框>||:...
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Of course, the choice is yours. I look forward to your decision.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:Beep—Persica's cunning smile vanishes from the comm window. +PPK looks at the patch program she received and begins thinking.
 MP443_MOD(0)<Speaker>MP-443</Speaker>||:Hey! Can I come back now?
 PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)||:Yeah.
@@ -79,16 +79,16 @@ MP443_MOD(0)<Speaker>MP-443</Speaker>||:Ahahaha. That's true. I was just asking.
 ()||<黑屏1>:MP-443 evades PPK's searching gaze and moves up ahead of her.
 ()||<黑屏2><BIN>480</BIN><BGM>BGM_Empty</BGM>:On their way to the clinic, PPK and MP-443 reach the streets near the clinic.
 MP443_MOD(0)<Speaker>MP-443</Speaker>||<BGM>BGM_Sneak</BGM>:Python, PPK and I are near the clinic, but—
-MP443_MOD(0);Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>I see it. There's an ELID horde in the alley.</color>
-PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<通讯框>||:Worse, there's an ELID Smasher among them.
-PPKMod(0);Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>...</color>
-PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<通讯框>||:We'll alert the ELIDs if we try to approach the clinic, and the ELID Smasher will notice.
-MP443_MOD(0)<Speaker>MP-443</Speaker>;Python(0)<通讯框>||:Then what should we do?
-MP443_MOD(0);Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>I'm headed your way right now.</color>
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>My plan is to complete the rescue operation by myself while the two of you draw the ELIDs' attention.</color>
+MP443_MOD(0);Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>I see it. There's an ELID horde in the alley.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<scan><通讯框>||:Worse, there's an ELID Smasher among them.
+PPKMod(0);Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<scan><通讯框>||:We'll alert the ELIDs if we try to approach the clinic, and the ELID Smasher will notice.
+MP443_MOD(0)<Speaker>MP-443</Speaker>;Python(0)<scan><通讯框>||:Then what should we do?
+MP443_MOD(0);Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>I'm headed your way right now.</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>My plan is to complete the rescue operation by myself while the two of you draw the ELIDs' attention.</color>
 ()||:MP-443 exchanges glances with PPK.
 MP443_MOD(0)<Speaker>MP-443</Speaker>||:Got it. I'll pin down the ELID horde and wait for you to back me up.
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>Roger.</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>Roger.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:Python hangs up.
 PPKMod(0)<Speaker>PPK</Speaker>||:Going out of your way to take on an assignment isn't like you.
 MP443_MOD(0)<Speaker>MP-443</Speaker>||:What was I supposed to do, let someone who might blue screen at any moment go up and get herself killed?

@@ -27,27 +27,27 @@ MG4(0)||:(Dial tone)
 MG4(0)<Speaker>Gr MG4</Speaker>||<BGM>BGM_Empty</BGM>:Oh, it's M60. She's a very serious Doll, will she find this a waste of time?
 MG4(0)||:(Dial tone)
 MG4(0)<Speaker>Gr MG4</Speaker>||:Why isn't she picking up...? D-Did she block me? +That can't be right! I-I haven't done anything, have I...?
-MG4(0)<Speaker>Gr MG4</Speaker>;M60(0)<Speaker>M60</Speaker><通讯框>||:<color=#00CCFF> Hello, this is M60. I am currently in the middle of a training session. Please leave a message.</color>
-MG4(0)<Speaker>Gr MG4</Speaker>;M60(0)<通讯框>||:Oh, you're training. Then don't worry about it, it's nothing important.
+MG4(0)<Speaker>Gr MG4</Speaker>;M60(0)<Speaker>M60</Speaker><scan><通讯框>||:<color=#00CCFF> Hello, this is M60. I am currently in the middle of a training session. Please leave a message.</color>
+MG4(0)<Speaker>Gr MG4</Speaker>;M60(0)<scan><通讯框>||:Oh, you're training. Then don't worry about it, it's nothing important.
 MG4(0)||:Gr MG4 hangs up lightly.
 MG4(0)<Speaker>Gr MG4</Speaker>||:Phew... That was a relief, but it's also a bit disappointing... +Should I try someone else?
 MG4(0)<Speaker>Gr MG4</Speaker>||:<color=#A9A9A9>I-I'll give it another go!</color>
 ()||:(Dial tone)
-SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>Gr...MG4, I have never received a call from you... Is there an emergency? I can set off right away!</color>
-MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<通讯框>||:Huh? ...N-No, I'm just wondering, uh, if you've been doing alright lately! +<color=#A9A9A9>Dammit, I can't bring myself to ask her if she's free...</color>
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>I...I've been well, living the life of an ordinary Griffin T-Doll.</color>
-MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<通讯框>||:O-Oh, that's nice! Yeah, I was just wondering. Then um, um... Have you had any...thoughts lately? +<color=#A9A9A9>Such as going out to do something fun.</color>
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>Do you have some bad news for me? Please just give it to me straight. I can take it.</color>
-MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<通讯框>||:No! I just suddenly want to talk to you...
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>That's impossible. We aren't on such close terms that you'd call me just to talk out of the blue.</color>
-MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<通讯框>||:...
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>Did the Commander or some other Doll have any complaints about me? Please tell me what I have done wrong.</color>
-MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<通讯框>||:No, no, you've got it all wrong! It really isn't what you think! I just want a casual chat! +<color=#A9A9A9>Aaaaaaaaargh this is so embarrassing!!!</color>
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>You don't have to spare my feelings. Please just get to the point!</color>
-MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<通讯框>||:There's really no point to get to! +<color=#A9A9A9>What should I do what should I do what should I do what should I do aaaaaargh I'm gonna short out!</color>
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>Just say it! I can take it!</color>
-MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<通讯框>||:Hey, what's going on? I can't hear you...
-()<Speaker>Gr MG4</Speaker>;SIG510(0)<Speaker>Gr MG4</Speaker><通讯框>||:I'm having really bad reception! I-I'm hanging up!
+SIG510(0)<Speaker>SIG-510</Speaker><scan><通讯框>||:<color=#00CCFF>Gr...MG4, I have never received a call from you... Is there an emergency? I can set off right away!</color>
+MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<scan><通讯框>||:Huh? ...N-No, I'm just wondering, uh, if you've been doing alright lately! +<color=#A9A9A9>Dammit, I can't bring myself to ask her if she's free...</color>
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><scan><通讯框>||:<color=#00CCFF>I...I've been well, living the life of an ordinary Griffin T-Doll.</color>
+MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<scan><通讯框>||:O-Oh, that's nice! Yeah, I was just wondering. Then um, um... Have you had any...thoughts lately? +<color=#A9A9A9>Such as going out to do something fun.</color>
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><scan><通讯框>||:<color=#00CCFF>Do you have some bad news for me? Please just give it to me straight. I can take it.</color>
+MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<scan><通讯框>||:No! I just suddenly want to talk to you...
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><scan><通讯框>||:<color=#00CCFF>That's impossible. We aren't on such close terms that you'd call me just to talk out of the blue.</color>
+MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<scan><通讯框>||:...
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><scan><通讯框>||:<color=#00CCFF>Did the Commander or some other Doll have any complaints about me? Please tell me what I have done wrong.</color>
+MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<scan><通讯框>||:No, no, you've got it all wrong! It really isn't what you think! I just want a casual chat! +<color=#A9A9A9>Aaaaaaaaargh this is so embarrassing!!!</color>
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><scan><通讯框>||:<color=#00CCFF>You don't have to spare my feelings. Please just get to the point!</color>
+MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<scan><通讯框>||:There's really no point to get to! +<color=#A9A9A9>What should I do what should I do what should I do what should I do aaaaaargh I'm gonna short out!</color>
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><scan><通讯框>||:<color=#00CCFF>Just say it! I can take it!</color>
+MG4(0)<Speaker>Gr MG4</Speaker>;SIG510(0)<scan><通讯框>||:Hey, what's going on? I can't hear you...
+()<Speaker>Gr MG4</Speaker>;SIG510(0)<Speaker>Gr MG4</Speaker><scan><通讯框>||:I'm having really bad reception! I-I'm hanging up!
 ()||:...Beep, beep, beep... +Incoming comms request from SIG-510. Accept call?
 MG4(0)<Speaker>Gr MG4</Speaker>||:No, disconnect right now! +<color=#A9A9A9>Ughhh, this is too hard. I'll just go on my own.</color>
 ()||<黑屏1><BGM>BGM_Empty</BGM>:

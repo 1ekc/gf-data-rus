@@ -64,14 +64,14 @@ UMP45Mod(0)<Speaker>UMP45</Speaker>||:Roger that.
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><震屏3>:Bang-bang-bang!+416 shoots down the last approaching garrison soldier.+Just as M16 has surmised, the entire garrison has mobilized, leaving only a few squads at the camp.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:416 looks up at the top section of the water treatment facility. If all has gone according to plan, M16 should have arrived at her position by now.
 HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>M16, 404 has finished cleaning up the scene.</color>+<color=#00CCFF>But we couldn't sabotage the garrison's internal alarm system in time, so reinforcements are already on the way.</color>
-HK416Mod(0);M16A1BOSS(2)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>Copy that. I'm already on the top floor and setting the charges.</color>+<color=#00CCFF>Give me five more minutes.</color>
+HK416Mod(0);M16A1BOSS(2)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that. I'm already on the top floor and setting the charges.</color>+<color=#00CCFF>Give me five more minutes.</color>
 HK416Mod(0)<Speaker>416</Speaker>||:<color=#00CCFF>Acknowledged.</color>
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:416 looks over at the vehicle in the parking lot nearby in which the Commander, Nele, and J are hiding.+UMP45 and UMP9 are already in position to protect the Commander.+All that's left to do is for her and Gr G11 to intercept any enemy reinforcements and stall them until M16 completes the detonation.
 HK416Mod(0)<Speaker>416</Speaker>||:...
 ()<Speaker></Speaker>||:In this quiet moment just before the storm, 416 is suddenly plagued by an inexplicable sense of unease.
 ()<Speaker></Speaker>||<SE2>Alarm</SE2><BGM>BGM_Empty</BGM>:As if to prove her sense of premonition, a shrill alarm sounds from the water treatment facility.
-M16A1BOSS(2)<Speaker>M16A1</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Take cover. The charges are set.</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Take cover. The charges are set.</color>
 HK416Mod(0)<Speaker>416</Speaker>||:<color=#00CCFF>Copy that. Retreat post-haste.</color>
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:416 gestures to her teammates behind her to take cover and promptly runs to safety herself.+The Commander's vehicle is just a few steps away.
 ()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1>:Boom!+The sound of a massive explosion comes from behind.+But there is no sign of the expected smell of smoke and burning.
@@ -81,34 +81,34 @@ HK416Mod(0)<Speaker>416</Speaker>||:<color=#00CCFF>Copy that. Retreat post-haste
 HK416Mod(0)<Speaker></Speaker>||<SE1>ClothingUp</SE1><CGDelay>0.5</CGDelay>:
 HK416Mod(0)<Speaker>416</Speaker>||:What's going on?
 HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_tele_connect</SE1>:45? Is this you?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>What's wrong? Why are you calling me via a Level II channel?</color>
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>What's wrong? Why are you calling me via a Level II channel?</color>
 HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:...+I got yanked into my Level II.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>You got hacked?</color>
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>You got hacked?</color>
 HK416Mod(0)<Speaker>416</Speaker>||:I'm not sure.
-M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Describe what you see.</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Describe what you see.</color>
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:416 takes in the starkly white space and looks for anything unusual.
 ()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:Hiss...+The sound of a snake flicking its tongue.+It sounds extremely close, like it is right by her ear.
 HK416Mod(0)<Speaker>416</Speaker>||:A snake...+I see a snake.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>A snake?</color>
-HK416Mod(0);M16A1BOSS(4)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>416, we are now looking at your Level II through 45's shared screen.</color>+<color=#00CCFF>We're not seeing this snake of yours.</color>
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>A snake?</color>
+HK416Mod(0);M16A1BOSS(4)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>416, we are now looking at your Level II through 45's shared screen.</color>+<color=#00CCFF>We're not seeing this snake of yours.</color>
 HK416Mod(0)<Speaker>416</Speaker>||:...
 ()<Speaker></Speaker>||:416 stares unblinkingly at the white-lipped python coiled over several white objects that appear to be eggs.
 ()<Speaker></Speaker>||:It flicks its tongue at 416 in warning.+But 416 takes no notice at all. Her attention is on the egg-shaped objects guarded by the python.+There are protected data within those shells.+416 realizes what she is looking at.
 ()<Speaker></Speaker>||:This is "Cocoon".
 HK416Mod(0)<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:
 HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_tele_connect</SE1>:45, what's the situation out there?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>The explosion was a bit more powerful than we expected, but we've opened up a passage alright.</color>+<color=#00CCFF>We are now repelling the garrison reinforcements while planning a route for the Commander.</color>+<color=#00CCFF>Your frame should be near the Commander's vehicle. </color>
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>The explosion was a bit more powerful than we expected, but we've opened up a passage alright.</color>+<color=#00CCFF>We are now repelling the garrison reinforcements while planning a route for the Commander.</color>+<color=#00CCFF>Your frame should be near the Commander's vehicle. </color>
 HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:...
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>If you have a plan, you'd better tell me now.</color>+<color=#00CCFF>Honestly, things aren't looking very good here.</color>
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>If you have a plan, you'd better tell me now.</color>+<color=#00CCFF>Honestly, things aren't looking very good here.</color>
 HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:45, if there is a trap in front of you, and you know that taking the bait will kill you, but there is something vital in the trap, what would you do?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框> ||:<color=#00CCFF>We are all desperados here. Since when are we scared of a little gamble? </color>
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框> ||:<color=#00CCFF>We are all desperados here. Since when are we scared of a little gamble? </color>
 HK416Mod(0)<Speaker>416</Speaker>||:I knew it...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:416 lets out a sigh.
 HK416Mod(0)<Speaker>416</Speaker>||:Even if I don't step in the trap now, you'll do it sooner or later.
 ()<Speaker></Speaker>||<SE1>Select</SE1><BGM>BGM_ev2408_DanceWithDeath</BGM>:Clatter. 416 raises her gun and walks up to the snake.
 HK416Mod(0)<Speaker>416</Speaker>||:Then it'd better be me. Such things should be left to the squad leader, don't you think?
 HK416Mod(0)<Speaker>416</Speaker>||:If I don't come back, you can take over as squad leader for a while.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>416, there is always a chance that you'll lose everything in the gamble, so make sure you think it through.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>416, there is always a chance that you'll lose everything in the gamble, so make sure you think it through.</color>
 HK416Mod(0)<Speaker>416</Speaker>||:I have thought it through.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:416 deactivates her comms channel. The white-lipped python in front of her rears up, showing off its robust body and bearing its sharp fangs.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_2022Saros_SCARL1</SE1>:
@@ -139,11 +139,11 @@ HK416Mod(0)<Speaker>416</Speaker>||:I won't fall for the same trick twice!
 ()<Speaker></Speaker>||<BIN>222</BIN><睁眼2><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><SE2>Gunfight</SE2>:Bang-bang-bang! Boom!+The cacophony of gunfire pulls her back into reality.
 HK416Mod(0)<Speaker>416</Speaker>||:...+...That's it?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>416, answer me!</color>
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>416, answer me!</color>
 HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:I'm here.+I got out.
-HK416Mod(0);G11Mod(0)<Speaker>Gr G11</Speaker><通讯框>||:<color=#00CCFF>Are you okay? You gave me quite a scare...</color>
+HK416Mod(0);G11Mod(0)<Speaker>Gr G11</Speaker><scan><通讯框>||:<color=#00CCFF>Are you okay? You gave me quite a scare...</color>
 HK416Mod(0)<Speaker>416</Speaker>;G11Mod(0)||:I'm fine. I'll go pick up the Commander.+I have important information for them.
-HK416Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Are you sure you're okay? 45 said you saw a snake or something...?</color>
+HK416Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>Are you sure you're okay? 45 said you saw a snake or something...?</color>
 HK416Mod(0)<Speaker>416</Speaker>||<CGDelay>0.5</CGDelay>:Yeah, we'll talk about that later.+I'll check up on the Commander first.
 ()||<黑屏1><SE1>AVG_tele_disconnect</SE1>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:
@@ -243,16 +243,16 @@ HK416Mod(0)<Speaker>416</Speaker>||:...Miss Nele and the funkily-dressed Dandeli
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Nemhran takes the communicator, which should not be ringing at the moment, from Ashley. It is Hebe.
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:...What happened?
-NPC-Hebe(0)<Speaker>Hebe</Speaker><通讯框>||:<color=#00CCFF>Remember Badbsca's cocoon that you left in my safekeeping?</color>
+NPC-Hebe(0)<Speaker>Hebe</Speaker><scan><通讯框>||:<color=#00CCFF>Remember Badbsca's cocoon that you left in my safekeeping?</color>
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:...That one was already broken...+The information contained within couldn't be cracked... That's why I left it with you.
-NPC-Hebe(0)<Speaker>Hebe</Speaker><通讯框>||:<color=#00CCFF>I used it to set a trap.</color>
+NPC-Hebe(0)<Speaker>Hebe</Speaker><scan><通讯框>||:<color=#00CCFF>I used it to set a trap.</color>
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:...What do you mean?
-NPC-Hebe(0)<Speaker>Hebe</Speaker><通讯框>||:<color=#00CCFF>The thief is now marked...</color>
+NPC-Hebe(0)<Speaker>Hebe</Speaker><scan><通讯框>||:<color=#00CCFF>The thief is now marked...</color>
 NPC-Nemhran(0)<Speaker></Speaker><Position>80,90</Position>||<CGDelay>0.5</CGDelay>:
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:Fine.+It's going to be leaked sooner or later anyway.+But don't act without authorization next time.
-NPC-Hebe(3)<Speaker>Hebe</Speaker><通讯框>||:<color=#00CCFF>...How can we win if we're always so passive?</color>
+NPC-Hebe(3)<Speaker>Hebe</Speaker><scan><通讯框>||:<color=#00CCFF>...How can we win if we're always so passive?</color>
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:...The game is already at a point where we can't afford to make any random moves.+Hebe, I hope you understand the difficulty of the task at hand.
-NPC-Hebe(0)<Speaker>Hebe</Speaker><通讯框>||:<color=#00CCFF>Of course I understand. This is precisely why we can't just remain on the defensive.</color>+<color=#00CCFF>We may only stand a chance of winning if we actually take a chance.</color>
+NPC-Hebe(0)<Speaker>Hebe</Speaker><scan><通讯框>||:<color=#00CCFF>Of course I understand. This is precisely why we can't just remain on the defensive.</color>+<color=#00CCFF>We may only stand a chance of winning if we actually take a chance.</color>
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:...Have you considered that our mission objective...+Isn't actually to win this current game?
-NPC-Hebe(0)<Speaker>Hebe</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-Hebe(0)<Speaker>Hebe</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ()||<黑屏1>:

@@ -3,6 +3,6 @@
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep, beep... +Loading encrypted file...
 ()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:Pzzt...
 ()<Speaker></Speaker>||:...Identity verified—Instructor Я of the 7th Directorate Advanced Combat Training Team. +...Mission verified—Top Secret Operation "Eclipse". +...Mission Objective—Ensure the safe transfer of military command special authorization and exclusive comms channel, codenamed "Grand Duke".
-AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position><通讯框>||:<color=#00CCFF>Hello, Griffin Commander. Pleasure to meet you.</color> +<color=#00CCFF>The escort target is stored in the neural cloud of the Doll designated [Erma]. Activation key "Lyudmila".</color>
+AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#00CCFF>Hello, Griffin Commander. Pleasure to meet you.</color> +<color=#00CCFF>The escort target is stored in the neural cloud of the Doll designated [Erma]. Activation key "Lyudmila".</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:... +I will not let your sacrifice be in vain.
 ()||<黑点1>:

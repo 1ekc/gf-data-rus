@@ -55,37 +55,37 @@ AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:...
 ()<Speaker></Speaker>||<边框>2</边框>:This is a special operation assigned to Advanced Combat Team Я under the 7th Directorate of the Neo-Soviet Ministry of State Security. +Following orders from the headquarters, the elites of Team Я have made for the frontlines without any question. +As the field commander, she must take responsibility for the mission objective as well as her subordinates. +But she cannot be on the frontlines herself. +...Which is probably why she is looking so grave right now.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:Sitrep.
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>We have entered the target area. No enemy units detected so far.</color>
-Ash127(0)<Speaker>ASh-12.7</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>There are bodies of civilians inside the buildings... We are still searching for survivors.</color>
-RPD(0)<Speaker>RPD</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Dammit... Ash, inspect the bodies.</color> +<color=#00CCFF>There's something off about the wounds...</color>
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>That's...!</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>We have entered the target area. No enemy units detected so far.</color>
+Ash127(0)<Speaker>ASh-12.7</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>There are bodies of civilians inside the buildings... We are still searching for survivors.</color>
+RPD(0)<Speaker>RPD</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Dammit... Ash, inspect the bodies.</color> +<color=#00CCFF>There's something off about the wounds...</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>That's...!</color>
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:Yulia, what's the situation?
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Ma'am, we've found some familiar-looking injuries on the bodies.</color> +<color=#00CCFF>...These executed civilians were gunned down. The enemies were armed with a variety of hot weapons, but we can't determine their numbers.</color>
-Ash127(0)<Speaker>ASh-12.7</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>There is visible silicification on the bodies of the deceased.</color> +<color=#00CCFF>They were all ELID patients.</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Ma'am, we've found some familiar-looking injuries on the bodies.</color> +<color=#00CCFF>...These executed civilians were gunned down. The enemies were armed with a variety of hot weapons, but we can't determine their numbers.</color>
+Ash127(0)<Speaker>ASh-12.7</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>There is visible silicification on the bodies of the deceased.</color> +<color=#00CCFF>They were all ELID patients.</color>
 ()<Speaker></Speaker>||<边框>2</边框>:ELID patients...
 ()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:Having come to some sort of realization, Instructor Я lowers the altitude of her drone.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:The radiation readings at your location are unusually high. +Be careful not to overload your air purifiers.
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Radiation levels are much higher than outside the village...</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Radiation levels are much higher than outside the village...</color>
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:Probably the handiwork of those cultists.
 ()<Speaker></Speaker>||<边框>2</边框>:The instructor deliberates as her gaze remains fixed on the map on the table. +Even though they aren't carrying much electronic equipment, she still has a complete bird's-eye view. +It's all inside her head.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:...
 ()<Speaker></Speaker>||<边框>2</边框>:...A mysterious cult armed with hot weapons, inexplicably high levels of radiation, and massacred civilians.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:<color=#A9A9A9>Who could they be...? What's their motive...?</color>
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_20Winter_Book</SE1>:Instructor Я flips through the intelligence report by her side. +All that's known about them is... white seems to be their color.
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><边框>2</边框>:<color=#00CCFF>Instructor... Something feels really off here.</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1><边框>2</边框>:<color=#00CCFF>Instructor... Something feels really off here.</color>
 ()<Speaker></Speaker>||<边框>2</边框>:On the other end of the comms channel, PP-2000 seems just as apprehensive. +The trio stop their advance as she voices her concern.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:What do you mean?
-AR18(6)<Position>0,70</Position>;PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>The situation is even more complex than what we've learned from the initial recon.</color> +<color=#00CCFF>Should we still proceed with the original plan?</color>
+AR18(6)<Position>0,70</Position>;PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>The situation is even more complex than what we've learned from the initial recon.</color> +<color=#00CCFF>Should we still proceed with the original plan?</color>
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:...According to the command handbook, when information is lacking... +Advancing recklessly would be a big mistake. Prepare to withdraw.
-Ash127(0)<Speaker>ASh-12.7</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Hold on...</color>
+Ash127(0)<Speaker>ASh-12.7</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Hold on...</color>
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:What's the problem?
-Ash127(0)<Speaker>ASh-12.7</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Although... the target area is indeed a lot larger than what was indicated in our intel...</color> +<color=#00CCFF>We can still carry on.</color>
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>I'm in tip-top form; I can keep exploring.</color> +<color=#00CCFF>...Instructor, if we let them go this time, it will be very difficult to catch them again.</color>
+Ash127(0)<Speaker>ASh-12.7</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Although... the target area is indeed a lot larger than what was indicated in our intel...</color> +<color=#00CCFF>We can still carry on.</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>I'm in tip-top form; I can keep exploring.</color> +<color=#00CCFF>...Instructor, if we let them go this time, it will be very difficult to catch them again.</color>
 ()<Speaker></Speaker>||<边框>2</边框>:Instructor Я weighs her choices for a little while.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:No... +Under these circumstances, withdrawing is the safest choice.
-Ash127(0)<Speaker>ASh-12.7</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Understood...</color>
+Ash127(0)<Speaker>ASh-12.7</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Understood...</color>
 ()<Speaker></Speaker>||<边框>2</边框><BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:Pzzt...
-RPD(0)<Speaker>RPD</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>...What was that?</color>
+RPD(0)<Speaker>RPD</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>...What was that?</color>
 ()<Speaker></Speaker>||<边框>2</边框>:Just then, a strange noise suddenly comes through the comms channel.
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_keyboardtype_sci</SE1>:Instructor Я looks down to check the channel with a frown.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:...Comms interference! +Get out of there! Right n—
@@ -93,36 +93,36 @@ AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_whitenoise</SE1><BGM>10227</BGM>:Pzzzzt...
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框><震屏3>:<size=50>Yulia!</size>
 ()<Speaker></Speaker>||<边框>2</边框>:Instructor Я's furious cry rings over the deafening boom.
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<SE2>Gunfight</SE2><边框>2</边框>:<color=#00CCFF>We're under attack!</color> +<color=#00CCFF>Dammit! They're showing themselves! They're coming in... Everywhere I look...</color> +<color=#00CCFF>There's white!</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<SE2>Gunfight</SE2><边框>2</边框>:<color=#00CCFF>We're under attack!</color> +<color=#00CCFF>Dammit! They're showing themselves! They're coming in... Everywhere I look...</color> +<color=#00CCFF>There's white!</color>
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_Geiger_Counter</SE1>:Beep! Beep! +The Geiger counter starts blinking red and shrieking to warn about the lethal amount of radiation.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:Calm down. Follow our tactical plan and set up a defensive position!
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_whitenoise</SE1>:Pzzzt...
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<SE1>Select</SE1><边框>2</边框>:<color=#00CCFF>We're surrounded! Their firepower... far surpasses what's indicated in the intel report!</color>
-RPD(0)<Speaker>RPD</Speaker><通讯框>||<SE2>Gunfight</SE2><边框>2</边框>:<color=#00CCFF>The hell?! Is this really just a cult?</color> +<color=#00CCFF>I would believe you if you told me they're the Military!</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<SE1>Select</SE1><边框>2</边框>:<color=#00CCFF>We're surrounded! Their firepower... far surpasses what's indicated in the intel report!</color>
+RPD(0)<Speaker>RPD</Speaker><scan><通讯框>||<SE2>Gunfight</SE2><边框>2</边框>:<color=#00CCFF>The hell?! Is this really just a cult?</color> +<color=#00CCFF>I would believe you if you told me they're the Military!</color>
 ()<Speaker></Speaker>||<边框>2</边框>:Instructor Я's heart sinks.
-Ash127(0)<Speaker>ASh-12.7</Speaker><通讯框>||<SE1>AVG_keyboardtype_sci</SE1><边框>2</边框>:<color=#00CCFF>Calculating our escape route...</color> +<color=#00CCFF>...We should make a break for it to the northwest right now.</color>
+Ash127(0)<Speaker>ASh-12.7</Speaker><scan><通讯框>||<SE1>AVG_keyboardtype_sci</SE1><边框>2</边框>:<color=#00CCFF>Calculating our escape route...</color> +<color=#00CCFF>...We should make a break for it to the northwest right now.</color>
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:But that's the direction from which the enemy is attacking you. +How did you come to that conclusion?
-Ash127(0)<Speaker>ASh-12.7</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>I'm banking on the hypothesis that such firepower cannot be sustained perpetually... An opening will probably come up soon.</color>
+Ash127(0)<Speaker>ASh-12.7</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>I'm banking on the hypothesis that such firepower cannot be sustained perpetually... An opening will probably come up soon.</color>
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:...That's way too risky.
 ()<Speaker></Speaker>||<边框>2</边框><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake><SE1>Explode</SE1>:<size=50>BOOM!</size>
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<SE1>AVG_weapon_reload</SE1><边框>2</边框><SE1>AVG_tele_connect</SE1><SE2>Gunfight</SE2>:<color=#00CCFF>We're in defensive formation... Incoming fire from the east, west, and southwest.</color> +<color=#00CCFF>We're trapped!</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<SE1>AVG_weapon_reload</SE1><边框>2</边框><SE1>AVG_tele_connect</SE1><SE2>Gunfight</SE2>:<color=#00CCFF>We're in defensive formation... Incoming fire from the east, west, and southwest.</color> +<color=#00CCFF>We're trapped!</color>
 ()<Speaker></Speaker>||<边框>2</边框>:Instructor Я takes a deep breath as she desperately tries to remain calm.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:Don't panic. We're the ones going after them here. +Prepare to make a stand. They'll call off the attack sooner or later!
-RPD(0)<Speaker>RPD</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>But...</color>
+RPD(0)<Speaker>RPD</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>But...</color>
 ()<Speaker></Speaker>||<边框>2</边框><SE1>Heartbeat</SE1>:Instructor Я can tell just from the silence of her subordinates just how dire the situation is.
 ()||<黑屏1><边框>2</边框>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><边框>2</边框>:Think... She's got to think. There must be something...
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:Beep...
 ()<Speaker></Speaker>||<边框>2</边框><BGM>BGM_Empty</BGM><SE1>AVG_rifle_finalshot_h</SE1><震屏3><BIN>187</BIN>:Bang!
-PP2000(0)<Speaker>PP-2000</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>W... what?</color>
+PP2000(0)<Speaker>PP-2000</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>W... what?</color>
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:What was that? Report!
-RPD(0)<Speaker>RPD</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><边框>2</边框>:<color=#00CCFF>U-um... Fire is being exchanged in the northwest.</color> +<color=#00CCFF>There's now an opening in the enemy's attack!</color>
-Ash127(0)<Speaker>ASh-12.7</Speaker><通讯框>||<边框>2</边框><BGM>10118</BGM>:<color=#00CCFF>A signal beacon! We've got friendlies!</color>
+RPD(0)<Speaker>RPD</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1><边框>2</边框>:<color=#00CCFF>U-um... Fire is being exchanged in the northwest.</color> +<color=#00CCFF>There's now an opening in the enemy's attack!</color>
+Ash127(0)<Speaker>ASh-12.7</Speaker><scan><通讯框>||<边框>2</边框><BGM>10118</BGM>:<color=#00CCFF>A signal beacon! We've got friendlies!</color>
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_whitenoise</SE1>:Pzzt... +A burst of static suddenly comes through the comms channel.
-NPC-Ange(8)<Speaker>???</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Keep calm. Reinforcements are in position.</color> +<color=#00CCFF>Keep fighting, don't lose your cool.</color>
+NPC-Ange(8)<Speaker>???</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Keep calm. Reinforcements are in position.</color> +<color=#00CCFF>Keep fighting, don't lose your cool.</color>
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:...?!
 ()<Speaker></Speaker>||<边框>2</边框>:An unfamiliar but assertive female voice suddenly interrupts the conversation. +Following her appearance, the exchange of fire grows even more intense on the frontlines.
 AR18(6)<Speaker>Instructor Я</Speaker><Position>0,70</Position>||<边框>2</边框>:Who are you?
-NPC-Ange(0)<Speaker>Angelia</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>I am Angelia, commander of the "Wolf Pack".</color> +<color=#00CCFF>I'm now taking command over here, Team Я.</color> +<color=#00CCFF>Execute defensive formation 13 and stand your ground. Reinforcements will get to you very soon.</color>
-Ash127(0)<Speaker>ASh-12.7</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>...Roger that.</color>
+NPC-Ange(0)<Speaker>Angelia</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>I am Angelia, commander of the "Wolf Pack".</color> +<color=#00CCFF>I'm now taking command over here, Team Я.</color> +<color=#00CCFF>Execute defensive formation 13 and stand your ground. Reinforcements will get to you very soon.</color>
+Ash127(0)<Speaker>ASh-12.7</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>...Roger that.</color>
 ()||<黑点1><边框>2</边框>:

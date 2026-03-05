@@ -3,9 +3,9 @@
 ()<Speaker>M4 SOPMOD II</Speaker>||:It's just like a zombie game!
 ()<Speaker>ST AR-15</Speaker>||:These people are definitely not normal. +They must've ingested or inhaled something, but it doesn't look like a stimulant.
 ()<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:Perosa! What about the explosives?
-VP1915(0)<Speaker>Perosa</Speaker><通讯框>||:<color=#00CCFF>They've all been disarmed!</color> +<color=#00CCFF>But some of them still managed to go off.</color> +<color=#00CCFF>There's a breach in the prison wall, and all the convicts are heading for it!</color>
-Fedorov(0)<Speaker>Fedorov</Speaker><通讯框>||:<color=#00CCFF>...It's no good, the prison guards' casualties are too heavy.</color> +<color=#00CCFF>I can't manage!</color>
-Savage99(0)<Speaker>Savage</Speaker><通讯框>||:<color=#00CCFF>I can't hold them!</color> +<color=#00CCFF>They're going to spill out onto the streets!</color>
+VP1915(0)<Speaker>Perosa</Speaker><scan><通讯框>||:<color=#00CCFF>They've all been disarmed!</color> +<color=#00CCFF>But some of them still managed to go off.</color> +<color=#00CCFF>There's a breach in the prison wall, and all the convicts are heading for it!</color>
+Fedorov(0)<Speaker>Fedorov</Speaker><scan><通讯框>||:<color=#00CCFF>...It's no good, the prison guards' casualties are too heavy.</color> +<color=#00CCFF>I can't manage!</color>
+Savage99(0)<Speaker>Savage</Speaker><scan><通讯框>||:<color=#00CCFF>I can't hold them!</color> +<color=#00CCFF>They're going to spill out onto the streets!</color>
 ()<Speaker>RO635</Speaker>||:Let them go! We can't stop numbers like this! +Ensure the safety of the innocent first!
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:...
 ()||<黑点1>:
@@ -118,57 +118,57 @@ NytoIsomer(7)<Speaker>Dandelion</Speaker>||:We've purged the Paradeus infiltrato
 ()<Speaker>Commander</Speaker>||<SE1>AVG_Punch_Hit</SE1>:...Tsk.
 ()<Speaker></Speaker>||:The Commander punches the wall in anger. +The mission can hardly be considered a success... And Collapse Particles again? Just how many does Paradeus have, anyway? +Machlian's medicine may be a lot more valuable and important than they originally thought.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:Just then, the Commander's communicator rings.
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>||:<color=#00CCFF>Hello? Commander? Are you there?</color> +<color=#00CCFF>Our boss wants to talk to you.</color>
-RPK16(0)<Speaker>Commander</Speaker><通讯框>||:RPK? Is Ange looking for me? +I'm currently...
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Commander.</color>
-NPC-Ange(7)<Speaker>Commander</Speaker><通讯框>||:Ange?
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>Good afternoon, Commander... How are things on your end?</color>
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>||:<color=#00CCFF>Hello? Commander? Are you there?</color> +<color=#00CCFF>Our boss wants to talk to you.</color>
+RPK16(0)<Speaker>Commander</Speaker><scan><通讯框>||:RPK? Is Ange looking for me? +I'm currently...
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Commander.</color>
+NPC-Ange(7)<Speaker>Commander</Speaker><scan><通讯框>||:Ange?
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>Good afternoon, Commander... How are things on your end?</color>
 ()<Speaker></Speaker>||:The Commander eyes the corpse on the ground and snorts.
 ()<Speaker>Commander</Speaker>||:Going well, I guess. We just found a lead. +How about you?
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>...Humph, I'm getting by.</color> +<color=#00CCFF>Actually , I have a favor to ask of you.</color>
-NPC-Ange(7)<Speaker>Commander</Speaker><通讯框>||:Why so formal? Just ask.
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Morridow—that Nyto. Is she still with you?</color>
-NPC-Ange(7)<Speaker>Commander</Speaker><通讯框>||:Morridow... You mean Machlian?
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>...Humph, I'm getting by.</color> +<color=#00CCFF>Actually , I have a favor to ask of you.</color>
+NPC-Ange(7)<Speaker>Commander</Speaker><scan><通讯框>||:Why so formal? Just ask.
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Morridow—that Nyto. Is she still with you?</color>
+NPC-Ange(7)<Speaker>Commander</Speaker><scan><通讯框>||:Morridow... You mean Machlian?
 ()<Speaker></Speaker>||:The Commander looks back at Machlian behind them.
 NPC-Machlian(6)<Speaker>Machlian</Speaker>||:...
 ()<Speaker>Commander</Speaker>||:Yeah, she is.
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Have you got anything out of her?</color>
-NPC-Ange(7)<Speaker>Commander</Speaker><通讯框>||:Hm? Haven't I told you already?
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>...So did you not learn anything new after that?</color>
-NPC-Ange(7)<Speaker>Commander</Speaker><通讯框>||:Nothing worth mentioning for the moment, or at least nothing worth bothering you over.
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>You need to pick up the pace. </color> +<color=#00CCFF>I've told you before, Morridow is very crafty.</color> +<color=#00CCFF>She's stalling for time. You should be able to tell.</color>
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Have you got anything out of her?</color>
+NPC-Ange(7)<Speaker>Commander</Speaker><scan><通讯框>||:Hm? Haven't I told you already?
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>...So did you not learn anything new after that?</color>
+NPC-Ange(7)<Speaker>Commander</Speaker><scan><通讯框>||:Nothing worth mentioning for the moment, or at least nothing worth bothering you over.
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>You need to pick up the pace. </color> +<color=#00CCFF>I've told you before, Morridow is very crafty.</color> +<color=#00CCFF>She's stalling for time. You should be able to tell.</color>
 NPC-Machlian(5)<Speaker>Machlian</Speaker>||:...
 ()<Speaker></Speaker>||:Machlian looks like she's about to say something, but then she looks at the Commander and shakes her head. +The Commander pauses a little.
 ()<Speaker>Commander</Speaker>||:Yeah, I'm prepared for that. +But this is Machlian, a completely different person from Morridow altogether.
-NPC-Ange(6)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>...Do you really believe that?</color>
-NPC-Ange(6)<Speaker>Commander</Speaker><通讯框>||:Yes, I believe she is not the person you're talking about.
+NPC-Ange(6)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>...Do you really believe that?</color>
+NPC-Ange(6)<Speaker>Commander</Speaker><scan><通讯框>||:Yes, I believe she is not the person you're talking about.
 ()<Speaker></Speaker>||:Gazing at Machlian's face, the Commander makes a steadfast reply.
-NPC-Ange(6)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Forget it... Who cares what she's called.</color> +<color=#00CCFF>I have some questions for her. Send her to me.</color>
-NPC-Ange(6)<Speaker>Commander</Speaker><通讯框>||:You have something to ask her? +But I've told you everything she knows.
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Then she must be hiding something!</color> +<color=#00CCFF>... I don't have time to waste on this bullshit!</color> +<color=#00CCFF>What are you going to do? Do you believe me or her?</color>
-NPC-Ange(7)<Speaker>Commander</Speaker><通讯框>||:Calm down, Ange. +I know what you want, but I can't do that right now. +She revealed something about a medicine that's very effective against ELID, and we're handling it right now.
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>An ELID medicine?</color>
-NPC-Ange(7)<Speaker>Commander</Speaker><通讯框>||:She told me about a research on radiation sickness therapy and certain drug samples. +If I can get my hands on them, we'll be able to help a lot of people.
-NPC-Ange(6)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>You actually believe that rubbish?</color>
-NPC-Ange(6)<Speaker>Commander</Speaker><通讯框>||:I'm not certain either, but it's worth a try. If such a medicine really does exist...
-NPC-Ange(6)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>You can save your precious little adjutant?</color>
+NPC-Ange(6)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Forget it... Who cares what she's called.</color> +<color=#00CCFF>I have some questions for her. Send her to me.</color>
+NPC-Ange(6)<Speaker>Commander</Speaker><scan><通讯框>||:You have something to ask her? +But I've told you everything she knows.
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Then she must be hiding something!</color> +<color=#00CCFF>... I don't have time to waste on this bullshit!</color> +<color=#00CCFF>What are you going to do? Do you believe me or her?</color>
+NPC-Ange(7)<Speaker>Commander</Speaker><scan><通讯框>||:Calm down, Ange. +I know what you want, but I can't do that right now. +She revealed something about a medicine that's very effective against ELID, and we're handling it right now.
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>An ELID medicine?</color>
+NPC-Ange(7)<Speaker>Commander</Speaker><scan><通讯框>||:She told me about a research on radiation sickness therapy and certain drug samples. +If I can get my hands on them, we'll be able to help a lot of people.
+NPC-Ange(6)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>You actually believe that rubbish?</color>
+NPC-Ange(6)<Speaker>Commander</Speaker><scan><通讯框>||:I'm not certain either, but it's worth a try. If such a medicine really does exist...
+NPC-Ange(6)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>You can save your precious little adjutant?</color>
 ()<Speaker>Commander</Speaker>||:...!
 ()<Speaker></Speaker>||:The Commander feels the blood rushing to their head.
 ()<Speaker>Commander</Speaker>||:No, this isn't just for Kalina's sake...
-NPC-Ange(6)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Enough! It has nothing to do with me.</color> +<color=#00CCFF>All I'm asking is if you can send her over.</color>
-NPC-Ange(6)<Speaker>Commander</Speaker><通讯框>||:...I can't do that right now.
-NPC-Ange(7)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>...</color>
-NPC-Ange(7)<Speaker>Commander</Speaker><通讯框>||:Ange...
-NPC-Ange(4)<Speaker>Ange</Speaker><通讯框>||<SE1>AVG_Door_Hit</SE1>:<color=#00CCFF>What the FUCK is wrong with you?!</color> +<color=#00CCFF>How many times do I have to tell you?! Morridow excels in disguise and deception!</color> +<color=#00CCFF>And now you believe everything she says?</color> +<color=#00CCFF>Are you just going to ignore all my warnings?!</color>
-NPC-Ange(4)<Speaker>Commander</Speaker><通讯框>||:She is not Morridow! +...Look, are you having some difficulties? +We can talk later. Once things are settled on my end, we can pick a place and meet. +I'll be able to explain everything then!
-NPC-Ange(4)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Ha! Oh yes, she's Machlian, yeah? You'd rather believe all that crap she's spewing.</color> +<color=#00CCFF>You think Kalina's life is more important than tens of thousands of Berlin citizens?</color> +<color=#00CCFF>Are you out of your damn mind?!</color>
-NPC-Ange(4)<Speaker>Commander</Speaker><通讯框>||:I'm not!
-NPC-Ange(6)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>...</color>
-NPC-Ange(6)<Speaker>Commander</Speaker><通讯框>||:...The Earl gave me discretion over how to handle Machlian, and I've exercised it.
-NPC-Ange(6)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>So you're pulling his rank on me now, is that it?</color>
-NPC-Ange(6)<Speaker>Commander</Speaker><通讯框>||:That's not my intention.
-NPC-Ange(6)<Speaker>Ange</Speaker><通讯框>||:<color=#00CCFF>Fine... Fine. I get it. </color> +<color=#00CCFF>Suit yourself!</color>
-NPC-Ange(6)<Speaker>Commander</Speaker><通讯框>||:...I'm sorry, but I think you need to calm down a little. +We'll talk later. Once I'm finished here, I'll call you again.
+NPC-Ange(6)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Enough! It has nothing to do with me.</color> +<color=#00CCFF>All I'm asking is if you can send her over.</color>
+NPC-Ange(6)<Speaker>Commander</Speaker><scan><通讯框>||:...I can't do that right now.
+NPC-Ange(7)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+NPC-Ange(7)<Speaker>Commander</Speaker><scan><通讯框>||:Ange...
+NPC-Ange(4)<Speaker>Ange</Speaker><scan><通讯框>||<SE1>AVG_Door_Hit</SE1>:<color=#00CCFF>What the FUCK is wrong with you?!</color> +<color=#00CCFF>How many times do I have to tell you?! Morridow excels in disguise and deception!</color> +<color=#00CCFF>And now you believe everything she says?</color> +<color=#00CCFF>Are you just going to ignore all my warnings?!</color>
+NPC-Ange(4)<Speaker>Commander</Speaker><scan><通讯框>||:She is not Morridow! +...Look, are you having some difficulties? +We can talk later. Once things are settled on my end, we can pick a place and meet. +I'll be able to explain everything then!
+NPC-Ange(4)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Ha! Oh yes, she's Machlian, yeah? You'd rather believe all that crap she's spewing.</color> +<color=#00CCFF>You think Kalina's life is more important than tens of thousands of Berlin citizens?</color> +<color=#00CCFF>Are you out of your damn mind?!</color>
+NPC-Ange(4)<Speaker>Commander</Speaker><scan><通讯框>||:I'm not!
+NPC-Ange(6)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+NPC-Ange(6)<Speaker>Commander</Speaker><scan><通讯框>||:...The Earl gave me discretion over how to handle Machlian, and I've exercised it.
+NPC-Ange(6)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>So you're pulling his rank on me now, is that it?</color>
+NPC-Ange(6)<Speaker>Commander</Speaker><scan><通讯框>||:That's not my intention.
+NPC-Ange(6)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Fine... Fine. I get it. </color> +<color=#00CCFF>Suit yourself!</color>
+NPC-Ange(6)<Speaker>Commander</Speaker><scan><通讯框>||:...I'm sorry, but I think you need to calm down a little. +We'll talk later. Once I'm finished here, I'll call you again.
 ()<Speaker></Speaker>||:The transmission ends.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:...She didn't sound like herself.
 UMP45Mod(0)<Speaker>Commander</Speaker>||:The Earl did mention that Ange was a little on edge... Looks like it was true.

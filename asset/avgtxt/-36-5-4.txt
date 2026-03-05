@@ -4,7 +4,7 @@ UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2>:This is UMP45. AR Team,
 UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:I'm out of handgun rounds too! +Commander, lend me your gun!
 UMP45Mod(0);HK416Mod(0)<Speaker>Commander</Speaker>||:There's two minutes until detonation. You should get out of here.
 UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||<SE1>Select</SE1>:Who'd pay us if we left? I don't make bad deals. +Last mag!
-UMP45Mod(0);NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander! We're sending someone through the blockade!</color>+<color=#00CCFF>What's your current position?!</color>
+UMP45Mod(0);NPC-Kalin(8)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander! We're sending someone through the blockade!</color>+<color=#00CCFF>What's your current position?!</color>
 UMP45Mod(0);NPC-Kalin(8)<Speaker>Commander</Speaker>||:I told you to forget about me! Just evacuate!
 UMP45Mod(0);NPC-Kalin(8)<Speaker>Kalina</Speaker>||:<color=#00CCFF>Nobody would ever do that!</color>+<color=#00CCFF>Tell me your position now!</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Kalin(1)||:I've synced it to you. How many people can you send over?
@@ -12,7 +12,7 @@ SL8(1)<Speaker>Gr SL8</Speaker>;NPC-Kalin(1)||<SE1>AVG_tele_disconnect</SE1>:Sor
 SL8(1);HK416Mod(0)<Speaker>416</Speaker>||:That's better than nothing!
 SL8(1)<Speaker>Gr SL8</Speaker>||:You are absolutely right. Wow, Commander, you're a mess.+...Oh, don't talk, save your strength!
 ()<Speaker></Speaker>||<SE1>RunStep</SE1>:The Doll who broke through is heavily damaged, but she still rushes to my side. +After replenishing their ammunition, Squad 404 is once again capable of fighting back.
-RO635(0)<Speaker>RO635</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>RO hailing 404, we're approaching from your flank. Check your fire.</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>RO hailing 404, we're approaching from your flank. Check your fire.</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1><SE1>AVG_tele_disconnect</SE1>:You're late.
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><SE1>Explode</SE1>:The AR Team's firepower rips through the Military squad's flank. Between the two grenades going off amidst the soldiers and the Dolls' accurate shooting, the enemy squad is swiftly eliminated.
 RO635(0)<Speaker>RO635</Speaker>||:Commander, are you alright?

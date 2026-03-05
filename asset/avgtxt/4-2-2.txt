@@ -1,6 +1,6 @@
 ()||<BIN>4</BIN><BGM>BGM_Victory</BGM>:Гостиная в пункте Грифона.+...Клик.
 M4A1(3)<Speaker>M4A1</Speaker>||:...Это... сигнал связи?
-M16(3)<Speaker>M16A1</Speaker><通讯框>;M4A1(3)||:...Вызов. Вызов.
+M16(3)<Speaker>M16A1</Speaker><scan><通讯框>;M4A1(3)||:...Вызов. Вызов.
 M16(3);M4A1(3)<Speaker>M4A1</Speaker>||:...?!
 M16(2)<Speaker>M16A1</Speaker>;M4A1(3)||:Э-э... M4A1, вы слышите?
 M16(2);M4A1(3)<Speaker>M4A1</Speaker>||:M16... Это М16?! Как делишки?!

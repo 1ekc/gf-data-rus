@@ -1,9 +1,9 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<BIN>419</BIN><黑屏2><SE1>AVG_Explo_Distance</SE1><BGM>10220</BGM>:Kaboom! +Explosions occasionally filter down to the shooting range on Basement 2. +In the dim light, Kryuger can make out the Dolls lying in ambush, nervously waiting for the enemy to arrive.
-Webley(0)<Speaker>Webley</Speaker><通讯框>||:<color=#00CCFF>Mr. Kryuger, the enemy's first wave has reached Zone D3. </color>
+Webley(0)<Speaker>Webley</Speaker><scan><通讯框>||:<color=#00CCFF>Mr. Kryuger, the enemy's first wave has reached Zone D3. </color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Squad D5, stay alert.
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>Roger! Dummies have been deployed. </color>
-Webley(0)<Speaker>Webley</Speaker><通讯框>||:<color=#00CCFF>The enemy's first wave has arrived in Zone D4. Their second wave has reached Zone D3. </color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>Roger! Dummies have been deployed. </color>
+Webley(0)<Speaker>Webley</Speaker><scan><通讯框>||:<color=#00CCFF>The enemy's first wave has arrived in Zone D4. Their second wave has reached Zone D3. </color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:All units, stay alert. The enemy is about to step into the snare.
 ()||:The Dolls remain carefully still as they stare in the direction where the enemy is coming from, their fingers poised on their trigger. +Though their surroundings are utterly silent, the Dolls have a feeling that rustling footsteps are drawing close to them... 
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:... +Get ready... 
@@ -22,7 +22,7 @@ NPC-Helian(0)<Speaker>Helian</Speaker>||:... +Thank you all for the work you hav
 ()||<黑点1>:Helian looks back up at the ceiling for the Nth time. +Persica has no idea whether she's looking at Kryuger or at the direction where help might be coming from.
 ()||<黑点2><BIN>419</BIN><BGM>BGM_Empty</BGM>:...At the shooting range in Basement 2. +The blocking team huddles together, checking the bodies of the recently slain enemies and salvaging usable ammo.
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||<BGM>10227</BGM>:Four humans and seven Military automatons. +That's an elite squad deployment. Carter must be wringing his hands up there.
-Webley(0)<Speaker>Webley</Speaker><通讯框>||:<color=#00CCFF>Mr. Kryuger, we haven't found any signs of an enemy advance yet. </color> +<color=#00CCFF>We've spotted the enemy withdrawing to Basement 1 through the Basement 1 and 2 stairwell. </color>
+Webley(0)<Speaker>Webley</Speaker><scan><通讯框>||:<color=#00CCFF>Mr. Kryuger, we haven't found any signs of an enemy advance yet. </color> +<color=#00CCFF>We've spotted the enemy withdrawing to Basement 1 through the Basement 1 and 2 stairwell. </color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Good, keep observing them.
 mp443(0)<Speaker>MP-443</Speaker>||:Withdrawing...? Don't tell me that's all the people they have?
 TT33(0)<Speaker>Tokarev</Speaker>||:Well, the enemy HAS lost a lot of people... 
@@ -31,7 +31,7 @@ M1928A1(0)<Speaker>Thompson</Speaker>||:Should we attempt a counterattack, Mr. K
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:From what I know of Carter, he's probably waiting for backup and resupply, so he's chosen to fall back temporarily.
 M1928A1(0)<Speaker>Thompson</Speaker>||:If we can wipe them all out before they can resupply, we'll be able to drive the frontline all the way forward in one blow... 
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Indeed, there's another reason we should give it a try; we need to get back to the armory to top-up on stores, and this is also a good opportunity to buy ourselves some time. +Helian, the enemy's falling back, we're going to try for a counterattack. Stick to the plan and keep retreating downwards.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>...Roger. Please stay safe. </color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>...Roger. Please stay safe. </color>
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||<黑点1>:We will. +Ladies, get ready, we're beginning our counterattack!
 ()||<黑点2><BIN>46</BIN>:...At the entrance to the backup elevator on Basement 3. +Under Helian's command, the Dolls move back and forth in an orderly manner between Basements 3 and 4 as they transport the neural cloud servers.
 NPC-Helian(0)<Speaker>Helian</Speaker>||:I have a bad feeling about this.
@@ -75,22 +75,22 @@ NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:<color=#A9A9A9>You've got to hold on,
 NPC-Kyruger(0)<Speaker>Kryuger</Speaker><Shake>||:Ugh... 
 M1928A1(0)<Speaker>Thompson</Speaker>||<关闭火花><黑点1>:Mr. Kryuger! +Requesting backup, Mr. Kryuger's been hit by an explosion!
 ()||<黑点2><BIN>47</BIN>:...In front of the stalled lift on Basement 3.
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>Miss Helian, we're falling back to Basement 3. Mr. Kryuger's been badly hurt... </color>
-NPC-Helian(1)<Speaker>Helian</Speaker>;M1928A1(0)<通讯框>||:What?!
-NPC-Helian(1);M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>Mr. Kryuger is unconscious, we need leadership!</color>
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>We're currently attempting to shake off enemy pursuit. Miss Helian, please assume command ASAP!</color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>Miss Helian, we're falling back to Basement 3. Mr. Kryuger's been badly hurt... </color>
+NPC-Helian(1)<Speaker>Helian</Speaker>;M1928A1(0)<scan><通讯框>||:What?!
+NPC-Helian(1);M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>Mr. Kryuger is unconscious, we need leadership!</color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>We're currently attempting to shake off enemy pursuit. Miss Helian, please assume command ASAP!</color>
 NPC-Helian(0)<Speaker>Helian</Speaker>||:Understood. Continue retreating along your current course.
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:<color=#00CCFF>We can't just come back like this, the enemy's hot on our heels!</color>
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:<color=#00CCFF>We can't just come back like this, the enemy's hot on our heels!</color>
 NPC-Helian(0)<Speaker>Helian</Speaker>||:... 
 NPC-Persica(0)<Speaker>Persica</Speaker>||:At times like these, you need to send out a squad to delay the enemy. +The neural cloud servers will be in danger if they lead the enemy straight to us.
 NPC-Helian(1)<Speaker>Helian</Speaker>||:Of course I know that... 
 ()||<SE1>AVG_tele_connect</SE1>:In the few seconds Helian spends hesitating, a trembling voice comes over the line.
-TT33(0)<Speaker>Tokarev</Speaker><通讯框>||:<color=#00CCFF>Miss Helian, please let me stay behind to hold off the enemy and buy the others time to retreat!</color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;TT33(0)<通讯框>||:Tokarev... 
-NPC-Helian(0);TT33(0)<Speaker>Tokarev</Speaker><通讯框>||:<color=#00CCFF>Welrod gave her life to save me, so I want to do whatever I can...To help the others... </color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;TT33(0)<通讯框>||:... 
+TT33(0)<Speaker>Tokarev</Speaker><scan><通讯框>||:<color=#00CCFF>Miss Helian, please let me stay behind to hold off the enemy and buy the others time to retreat!</color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;TT33(0)<scan><通讯框>||:Tokarev...
+NPC-Helian(0);TT33(0)<Speaker>Tokarev</Speaker><scan><通讯框>||:<color=#00CCFF>Welrod gave her life to save me, so I want to do whatever I can...To help the others... </color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;TT33(0)<scan><通讯框>||:...
 NPC-Helian(0)<Speaker>Helian</Speaker>||:Very well. Tokarev, you're now the leader of the blocking squad. Put a team together and get the others out of danger.
-TT33(0)<Speaker>Tokarev</Speaker><通讯框>||:<color=#00CCFF>Roger!</color>
+TT33(0)<Speaker>Tokarev</Speaker><scan><通讯框>||:<color=#00CCFF>Roger!</color>
 ()||<黑点1>:After hanging up, Helian leans against a wall and slumps to the ground. A chill runs down her spine. +Once again, she can feel the terror of being trapped in the darkness.
 ()||<黑点2><BIN>393</BIN><BGM>BGM_Empty</BGM>:...The blocking squad starts building a defense line while the others retreat one after the other. +Tokarev puts her back to a piece of cover and carefully listens for the enemy's movements.
 M1928A1(0)<Speaker>Thompson</Speaker>||<BGM>BGM_Empty</BGM>:Those cunning bastards. With the power out, there's no way Miss Helian can transport the neural cloud servers either.

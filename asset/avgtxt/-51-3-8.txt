@@ -7,37 +7,37 @@ AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Got it.
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1><BIN>9</BIN><黑屏2>:Some time later—
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click.
 ()||<黑屏1>:
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||<黑屏2><BIN>357</BIN>:<color=#00CCFF>What a coincidence... I was planning to contact you myself, Commander.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Sir, I need your help. +Mr. Kryuger is in trouble and I can't do anything about it for the moment. +Only you can help him now!
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>No need to worry, Commander.</color> +<color=#00CCFF>I was just about to say... It's just a misunderstanding.</color> +<color=#00CCFF>There was a small communication problem earlier.</color> +<color=#00CCFF>It has since been resolved.</color>
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||<黑屏2><BIN>357</BIN>:<color=#00CCFF>What a coincidence... I was planning to contact you myself, Commander.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Sir, I need your help. +Mr. Kryuger is in trouble and I can't do anything about it for the moment. +Only you can help him now!
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>No need to worry, Commander.</color> +<color=#00CCFF>I was just about to say... It's just a misunderstanding.</color> +<color=#00CCFF>There was a small communication problem earlier.</color> +<color=#00CCFF>It has since been resolved.</color>
 ()<Speaker>Commander</Speaker>||:It's been resolved?
 ()<Speaker></Speaker>||:The Commander's eyes widen and a weight suddenly lifts from their chest. Even their voice softens.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Yes, they will receive the appropriate treatment that they are due.</color> +<color=#00CCFF>However... we'll have to make a small concession.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...A concession? What kind of concession?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Cease all your ongoing operations, Commander. </color>
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, they will receive the appropriate treatment that they are due.</color> +<color=#00CCFF>However... we'll have to make a small concession.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...A concession? What kind of concession?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Cease all your ongoing operations, Commander. </color>
 ()<Speaker>Commander</Speaker>||:Cease operations? ...What do you mean by that?
 ()<Speaker></Speaker>||:The Commander frowns, and the sense of dread returns—they have the feeling that what the Earl is talking about isn't as simple as he makes it sound.
 ()<Speaker>Commander</Speaker>||:We were about to make some progress with our investigation... If we stop now, all our efforts will have gone to waste. +Also, what does this have to do with Mr. Kryuger?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Commander, I know you must be anxious to rescue Ange, but you also need to play by the rules.</color> +<color=#00CCFF>Casually breaking the rules or acting impulsively will not bring you victory... This world runs on order.</color> +<color=#00CCFF>And not passion.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...What is that supposed to mean?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>If you want Kryuger to be safe...</color> +<color=#00CCFF>Then you will have to learn to give up certain things... That is the principle of equivalent exchange.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...So you want me to give up on Ange? Is that it?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>There are times when we are compelled to make sacrifices.</color> +<color=#00CCFF>It is a fact that all mature individuals will eventually have to face.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:<size=50>...You used us as a bargaining chip again, didn't you?!</size>
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>From where you stand, your view of the world is too narrow, so I do not blame you.</color> +<color=#00CCFF>However, you must learn to look beyond the surface of things... This is an unfortunate result, to be sure.</color> +<color=#00CCFF>But we can't have everything our way.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框><同时置暗>||:I've heard enough of that, Sir. +"We can't have everything our way". +But all this time, all I've done is suffer losses and setbacks. Not once have I ever gained anything. +And now, an opportunity presents itself to me. +Yet you want me to give it up for the sake of a hollow "victory"?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Everyone can be sacrificed to achieve a greater goal.</color> +<color=#00CCFF>Angelia is an agent. She already knew this was coming... Or are you saying you think her life is more valuable than Kryuger's and the very existence of the PMC?</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...Everyone can be sacrificed, you say. +Then why Ange?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Sacrifices have never been partial to anyone. Anyone can be a sacrifice.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框><同时置暗>||:What gives you the right to decide who is to be sacrificed?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>...Don't miss the forest for the trees, Commander. </color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...I've lost my base and my friends and you want me to not get caught up in the details?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Drop everything you are doing now. I'll think of a way to resolve Kryuger's situation.</color>
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I know you must be anxious to rescue Ange, but you also need to play by the rules.</color> +<color=#00CCFF>Casually breaking the rules or acting impulsively will not bring you victory... This world runs on order.</color> +<color=#00CCFF>And not passion.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...What is that supposed to mean?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>If you want Kryuger to be safe...</color> +<color=#00CCFF>Then you will have to learn to give up certain things... That is the principle of equivalent exchange.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...So you want me to give up on Ange? Is that it?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>There are times when we are compelled to make sacrifices.</color> +<color=#00CCFF>It is a fact that all mature individuals will eventually have to face.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:<size=50>...You used us as a bargaining chip again, didn't you?!</size>
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>From where you stand, your view of the world is too narrow, so I do not blame you.</color> +<color=#00CCFF>However, you must learn to look beyond the surface of things... This is an unfortunate result, to be sure.</color> +<color=#00CCFF>But we can't have everything our way.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:I've heard enough of that, Sir. +"We can't have everything our way". +But all this time, all I've done is suffer losses and setbacks. Not once have I ever gained anything. +And now, an opportunity presents itself to me. +Yet you want me to give it up for the sake of a hollow "victory"?
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Everyone can be sacrificed to achieve a greater goal.</color> +<color=#00CCFF>Angelia is an agent. She already knew this was coming... Or are you saying you think her life is more valuable than Kryuger's and the very existence of the PMC?</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...Everyone can be sacrificed, you say. +Then why Ange?
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Sacrifices have never been partial to anyone. Anyone can be a sacrifice.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:What gives you the right to decide who is to be sacrificed?
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>...Don't miss the forest for the trees, Commander. </color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...I've lost my base and my friends and you want me to not get caught up in the details?
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Drop everything you are doing now. I'll think of a way to resolve Kryuger's situation.</color>
 ()<Speaker></Speaker>||<SE1>Rope</SE1>:The Commander bites their lip, their thumbnail digging deep into the second joint of their index finger.
 ()<Speaker>Commander</Speaker>||:...I refuse.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>So you will abandon Kryuger and the PMC?</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...No. +I won't abandon anyone. At least, not until I have to.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>This is not a discussion, Commander. Right now, I—</color>
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>So you will abandon Kryuger and the PMC?</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...No. +I won't abandon anyone. At least, not until I have to.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>This is not a discussion, Commander. Right now, I—</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Click. +The transmission ends.
 KH2002(0)<Speaker>Khaybar</Speaker>||:...Commander?
 AR15Mod(8)<Speaker>ST AR-15</Speaker>||:...Did you just hang up on our big boss, Commander? +And while he was in the middle of saying something?
@@ -51,28 +51,28 @@ NytoIsomer(3)<Speaker>Dandelion</Speaker>||:Commander, the Aeneas conference roo
 ()<Speaker></Speaker>||<BGM>10220</BGM><黑屏2><BIN>85</BIN>:...In the Aeneas conference room.
 ()<Speaker></Speaker>||<BIN>85</BIN><SE1>AVG_NightVision_Start</SE1>:A massive tactical sand table sits in its midst, with the position of each squad marked on it, to facilitate deployment by the Commander. +Among the various colors used to represent each squad, there is a patch of black that is especially eye-catching—+The "Dead Sea".
 ()<Speaker>Commander</Speaker>||:Is everyone here?
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Yes. After compiling the information from everyone, Squad Ferrum will head over to the meetup point with Squad Nitrogen, and they will be the first to enter the "Dead Sea".</color> +<color=#00CCFF>Umbrella, Unicorn and Chessmaster will be behind them.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Yes. After compiling the information from everyone, Squad Ferrum will head over to the meetup point with Squad Nitrogen, and they will be the first to enter the "Dead Sea".</color> +<color=#00CCFF>Umbrella, Unicorn and Chessmaster will be behind them.</color>
 ()<Speaker></Speaker>||:A gaze containing a mix of fear, uneasiness and anxiety lands on Squad Ferrum and Nitrogen.
 ()<Speaker>Commander</Speaker>||:Thank you.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Before we officially enter the "Dead Sea", we will simulate the conditions in the Dead Sea from our experiences and past information to better formulate some simple contingency plans.</color>
-SP9(0)<Speaker>Mona</Speaker><通讯框>||:<color=#00CCFF>We are certainly in need of those.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>From what we could find in our database, the location with most similar conditions to a Black Zone's is...</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>...</color>
-SP9(0)<Speaker>Mona</Speaker><通讯框>||:<color=#00CCFF>What's the matter?</color>
-RO635Mod(2)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>That would be the area where Ange set off that dirty bomb.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Before we officially enter the "Dead Sea", we will simulate the conditions in the Dead Sea from our experiences and past information to better formulate some simple contingency plans.</color>
+SP9(0)<Speaker>Mona</Speaker><scan><通讯框>||:<color=#00CCFF>We are certainly in need of those.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>From what we could find in our database, the location with most similar conditions to a Black Zone's is...</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+SP9(0)<Speaker>Mona</Speaker><scan><通讯框>||:<color=#00CCFF>What's the matter?</color>
+RO635Mod(2)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>That would be the area where Ange set off that dirty bomb.</color>
 ()<Speaker>Commander</Speaker>||:...
-SP9(0)<Speaker>Mona</Speaker><通讯框>||<BIN>85</BIN>:<color=#00CCFF>Wait a minute. Isn't Ange the subject of our rescue? How is she still alive after triggering a dirty bomb? And as a human being?</color>
-SP9(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Yes.
-SP9(0)<Speaker>Mona</Speaker><通讯框>||:<color=#00CCFF>...</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>After the dirty bomb went off, everything within 500 meters of ground zero was instantly vaporized.</color> +<color=#00CCFF>The radiation levels of the surrounding area spiked to Black Zone levels, while the air was filled with visible radiation particles.</color> +<color=#00CCFF>There was intense transmission signal disruption too. We specially built the Aeneas conference room in order to ensure clear comms, so we don't have to worry about that for the moment.</color> +<color=#00CCFF>In addition, Black Zone radiation has an extreme degenerative effect on both structures and Dolls. While we underwent anti-radiation preparation before setting out, there's no telling how it'll hold out in the Black Zone.</color>
+SP9(0)<Speaker>Mona</Speaker><scan><通讯框>||<BIN>85</BIN>:<color=#00CCFF>Wait a minute. Isn't Ange the subject of our rescue? How is she still alive after triggering a dirty bomb? And as a human being?</color>
+SP9(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Yes.
+SP9(0)<Speaker>Mona</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>After the dirty bomb went off, everything within 500 meters of ground zero was instantly vaporized.</color> +<color=#00CCFF>The radiation levels of the surrounding area spiked to Black Zone levels, while the air was filled with visible radiation particles.</color> +<color=#00CCFF>There was intense transmission signal disruption too. We specially built the Aeneas conference room in order to ensure clear comms, so we don't have to worry about that for the moment.</color> +<color=#00CCFF>In addition, Black Zone radiation has an extreme degenerative effect on both structures and Dolls. While we underwent anti-radiation preparation before setting out, there's no telling how it'll hold out in the Black Zone.</color>
 ()<Speaker></Speaker>||:The Dolls nervously watch the screen and its depiction of the apocalyptic aftermath of a dirty bomb detonation.
-QBZ191(0)<Speaker>No. 9</Speaker><通讯框>||:<color=#00CCFF>It doesn't even look like Earth anymore.</color>
-BOSS-7(0)<Speaker>Gager</Speaker><通讯框>||:<color=#00CCFF>...</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>These are the conditions we can expect to face. </color> +<color=#00CCFF>Absolute silence, no movement or life, only the specter of intense radiation stalking you everywhere.</color>
-QBZ191(2)<Speaker>No. 9</Speaker><通讯框>||:<color=#00CCFF>Makes me think of that time we had to hustle during a sandstorm...</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>That's a very appropriate description.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Mind your radiation protection, and remember to report anything you encounter.</color>
-SP9(3)<Speaker>Mona</Speaker><通讯框>||:<color=#00CCFF>Understood.</color>
+QBZ191(0)<Speaker>No. 9</Speaker><scan><通讯框>||:<color=#00CCFF>It doesn't even look like Earth anymore.</color>
+BOSS-7(0)<Speaker>Gager</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>These are the conditions we can expect to face. </color> +<color=#00CCFF>Absolute silence, no movement or life, only the specter of intense radiation stalking you everywhere.</color>
+QBZ191(2)<Speaker>No. 9</Speaker><scan><通讯框>||:<color=#00CCFF>Makes me think of that time we had to hustle during a sandstorm...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>That's a very appropriate description.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Mind your radiation protection, and remember to report anything you encounter.</color>
+SP9(3)<Speaker>Mona</Speaker><scan><通讯框>||:<color=#00CCFF>Understood.</color>
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>480</BIN><SE1>AVG_tele_disconnect</SE1><BGM>GF_EV9_Story</BGM>:On the edge of the Red Zone. +As Squad Nitrogen thinks about their upcoming destination, there is an unmistakable grimness to their expressions.
 Rhino(0)<Speaker>Rhino</Speaker>||:It feels like we're going into a dead zone containing all kinds of secrets...
@@ -199,13 +199,13 @@ NPC-MrsGray(9)<Speaker>Gray</Speaker>||:It's still some distance away.
 NPC-grig(1)<Speaker>Grig</Speaker>||:Gray! Those Dolls have caught up with us!
 NPC-MrsGray(9)<Speaker>Gray</Speaker>||:<size=50>Dammit... Where's our backup?</size>
 ()<Speaker></Speaker>||:Gray is usually calm, but now she's practically snarling into the communicator.
-NPC-Bramedb(3)<Speaker>Bramedb</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ah, I'm here~♪</color> +<color=#00CCFF>Don't make such a racket, Gray. Getting worked up does you no good.</color>
+NPC-Bramedb(3)<Speaker>Bramedb</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ah, I'm here~♪</color> +<color=#00CCFF>Don't make such a racket, Gray. Getting worked up does you no good.</color>
 NPC-grig(1)<Speaker>Grig</Speaker>||:Where are you? We need backup. +Our tails are following us too closely.
-NPC-Bramedb(3)<Speaker>Bramedb</Speaker><通讯框>||:<color=#00CCFF>Oh, I know that, but what's the point of you constantly rushing me?</color> +<color=#00CCFF>It'll take some time for me to get there, you know.</color>
+NPC-Bramedb(3)<Speaker>Bramedb</Speaker><scan><通讯框>||:<color=#00CCFF>Oh, I know that, but what's the point of you constantly rushing me?</color> +<color=#00CCFF>It'll take some time for me to get there, you know.</color>
 NPC-MrsGray(9)<Speaker>Gray</Speaker>||:You've taken enough time to run to and from Avernus three times already.
-NPC-Bramedb(5)<Speaker>Bramedb</Speaker><通讯框>||:<color=#00CCFF>Really now? That's strange, why does this route feel so long today?</color>
+NPC-Bramedb(5)<Speaker>Bramedb</Speaker><scan><通讯框>||:<color=#00CCFF>Really now? That's strange, why does this route feel so long today?</color>
 NPC-grig(1)<Speaker>Grig</Speaker>||:...
-NPC-Bramedb(3)<Speaker>Bramedb</Speaker><通讯框>||:<color=#00CCFF>Right, enough chit-chat. I'm going to focus on running now.</color> +<color=#00CCFF>See you soon. ♪</color>
+NPC-Bramedb(3)<Speaker>Bramedb</Speaker><scan><通讯框>||:<color=#00CCFF>Right, enough chit-chat. I'm going to focus on running now.</color> +<color=#00CCFF>See you soon. ♪</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +she disconnects the call in such a rush, it almost feels like she's hiding her uncontrollable laughter.
 NPC-grig(1)<Speaker>Grig</Speaker>||:Gray...
 NPC-MrsGray(9)<Speaker>Gray</Speaker>||:...

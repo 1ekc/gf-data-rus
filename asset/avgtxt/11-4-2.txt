@@ -8,14 +8,14 @@ Neural cloud of the Maid Doll()||:Пассивная программа запу
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Какая команда? +О боже... Подожди!
 Neural cloud of the Maid Doll()||<BGM>BGM_Danger</BGM>:Начинаю самоуничтожение... Закрываю все соединения... Отсчет. +Десять.
 RO635-NoArmor(4)<Speaker>RO635</Speaker>||:Эй, самоуничтожение можно запустить и изнутри...?! +Черт, ты что, хочешь меня с собой утащить?! Я даже не твой враг!
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Еще не закончила, RO?!</color>
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Еще не закончила, RO?!</color>
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Почти! +Нет, я должна найти данные до того, как нейронная система выйдет из строя! +Быстрее, я должна их найти!
 Neural cloud of the Maid Doll()||:Семь.
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||:В журналах связи нет... Ты слишком осторожен... А что насчет краткосрочной аудиотеки...? Там записи только за полгода...
 Neural cloud of the Maid Doll()||:Пять.
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Это должен быть один из этих файлов. Я смогу...!
 Neural cloud of the Maid Doll()||:Три.
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO!</color>
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>RO!</color>
 Neural cloud of the Maid Doll()||:Один.
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||:У меня есть время только на один файл... +Какой... какой из них? Какой адрес настоящий?! +Какой—!
 Neural cloud of the Maid Doll()||:Ноль.

@@ -47,9 +47,9 @@ Narciss(0)<Position>0,-100</Position><Speaker>Narciss</Speaker||:Huh? So all the
 Narciss(0)<Position>0,-100</Position><Speaker>Narciss</Speaker||:I'm... doing this alone...?
 ()||<黑屏1>:
 ()||<黑屏2><BIN>417</BIN>:... +Central Control Room, Level 35 of the Western Tower.
-NytoWhite(0)<通讯框><Speaker>Level 12 Control Room</Speaker>||:<color=#00CCFF>Big Sister Ashley, energy conduits on level 12 are connected.</color>
+NytoWhite(0)<scan><通讯框><Speaker>Level 12 Control Room</Speaker>||:<color=#00CCFF>Big Sister Ashley, energy conduits on level 12 are connected.</color>
 ()||:...
-NytoWhite(0)<通讯框><Speaker>Level 14 Control Room</Speaker>||:<color=#00CCFF>Big Sister Ashley, we're adjusting the energy conduits on level 14. Connection will be established in approximately three minutes.</color>
+NytoWhite(0)<scan><通讯框><Speaker>Level 14 Control Room</Speaker>||:<color=#00CCFF>Big Sister Ashley, we're adjusting the energy conduits on level 14. Connection will be established in approximately three minutes.</color>
 ()||:...
 ()||:34 floors have reported their energy transfer status. Only level 19 has not checked in yet.
 NytoWhite(0)<Speaker>Ashley</Speaker>||:Level 19?
@@ -57,7 +57,7 @@ NytoWhite(0)<同时置暗><Speaker>Level 19 Control Room</Speaker>||:<color=#00C
 NytoWhite(0)<Speaker>Ashley</Speaker>||:... +Carry out your orders—that's all you need to do.
 ()<Speaker>Level 19 Control Room</Speaker>||:<color=#00CCFF>What—Urk...</color>
 ()||<SE1>AVG_Cut_Watermelon</SE1>:A splattering noise comes through the comms. After a brief pause, a soft voice speaks over the line again.
-NytoWhite(0)<通讯框><Speaker>Level 19 Control Room</Speaker>||:<color=#00CCFF>Big Sister Ashley, the energy conduits on level 19 are being adjusted. Connection in approximately eight minutes.</color>
+NytoWhite(0)<scan><通讯框><Speaker>Level 19 Control Room</Speaker>||:<color=#00CCFF>Big Sister Ashley, the energy conduits on level 19 are being adjusted. Connection in approximately eight minutes.</color>
 ()||:...
 NytoWhite(0)<Speaker>Ashley</Speaker>||:Good. Once the connection is complete, have everyone on your floor proceed to the Eastern Tower main hall and stand by.
 ()||<SE1>AVG_Walk</SE1>:Ashley rises to her feet the moment Nemhran enters the control room.
@@ -79,11 +79,11 @@ NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>||:30 minutes i
 ()<Speaker>System</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#FFFF00>Warning...</color>
 ()||<SE1>AVG_Button_Click</SE1>:Tap. Ashley disables the alarm. +Nemhran watches impassively as the conduits on the screen go dark one after another.
 NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>||:Grig, come to the Western Tower.
-NPC-grig(0)<通讯框><Speaker>Grig</Speaker>||:<color=#00CCFF>Copy that.</color>
+NPC-grig(0)<scan><通讯框><Speaker>Grig</Speaker>||:<color=#00CCFF>Copy that.</color>
 ()||<SE1>AVG_tele_connect</SE1>:Click. +Nemhran picks up the call.
-NPC-William(0)<通讯框><Speaker>William (?)</Speaker>||:<color=#00CCFF>Hold them off for two more hours.</color>
-NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>;NPC-William(0)<通讯框>||:Understood.
-NPC-Nemhran(0)<Position>0,30</Position>;NPC-William(0)<通讯框><Speaker>William (?)</Speaker>||:<color=#00CCFF>Permission to activate the "Gatekeeper of Hell"?</color>
+NPC-William(0)<scan><通讯框><Speaker>William (?)</Speaker>||:<color=#00CCFF>Hold them off for two more hours.</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>;NPC-William(0)<scan><通讯框>||:Understood.
+NPC-Nemhran(0)<Position>0,30</Position>;NPC-William(0)<scan><通讯框><Speaker>William (?)</Speaker>||:<color=#00CCFF>Permission to activate the "Gatekeeper of Hell"?</color>
 NPC-Nemhran(0)<Position>0,30</Position><Speaker>Nemhran</Speaker>||:...Granted.
 ()||<SE1>AVG_tele_disconnect</SE1>:Click. +The call ends.
 ()||:Nemhran takes a deep breath.

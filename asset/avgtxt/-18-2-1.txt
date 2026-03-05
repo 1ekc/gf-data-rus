@@ -1,4 +1,4 @@
-NPC-Ange(0)<Speaker>Анже</Speaker><通讯框>||<BGM>BGM_War</BGM><BIN>99</BIN><黑点2>:Ты ещё там, AR-15?
+NPC-Ange(0)<Speaker>Анже</Speaker><scan><通讯框>||<BGM>BGM_War</BGM><BIN>99</BIN><黑点2>:Ты ещё там, AR-15?
 AR15Mod(0)<Speaker>ST AR-15</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Мы уничтожили оставшиеся подразделения Сангвиса вокруг нас.
 AR15Mod(0);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>99</BIN>:Хорошо. Как ты, M4?
 M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>99</BIN>:Всегда готова к следующему заданию.
@@ -21,5 +21,5 @@ M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>99</BIN>:Неважно. Просто с
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>99</BIN>:Что касается причин...
 AK12(0)<Speaker>AK-12</Speaker>||<BIN>99</BIN>:Чем быстрее мы выполним нашу работу, тем скорее сможем убраться отсюда. А сможем ли мы это сделать... это зависит от тебя, Анже.
 AN94(0)<Speaker>AN-94</Speaker>||<BIN>99</BIN>:Я выполню любой приказ своего Командира.
-NPC-Ange(0)<Speaker>Анже</Speaker><通讯框>||<黑点1><BIN>99</BIN>:Тогда давайте начнём. Я всех вас угощу, когда вернемся.
+NPC-Ange(0)<Speaker>Анже</Speaker><scan><通讯框>||<黑点1><BIN>99</BIN>:Тогда давайте начнём. Я всех вас угощу, когда вернемся.
 

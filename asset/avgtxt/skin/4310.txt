@@ -14,7 +14,7 @@ PM(0)<Speaker>System</Speaker>||:<color=#00CCFF>"Who is the mysterious figure in
 PM(0)<Speaker>Makarov</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...What?!
 ()<Speaker></Speaker>||<黑屏2><BIN>8</BIN>:In the command room.
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||:(Yawns) Right, that should be all the work for today! Next up – beauty sleep...
-NPC-Kalin(0);PM(0)<Speaker>Makarov</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Room</BGM>:<color=#00CCFF>Excuse me, are you there, Miss Kalina?</color>
+NPC-Kalin(0);PM(0)<Speaker>Makarov</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Room</BGM>:<color=#00CCFF>Excuse me, are you there, Miss Kalina?</color>
 NPC-Kalin(0)<Speaker>Kalina</Speaker>;PM(0)||:I'm here! Is anything the matter, Makarov?
 NPC-Kalin(0);PM(0)<Speaker>Makarov</Speaker>||:<color=#00CCFF>I don't know if you've seen the thread on Grifchan.</color> +<color=#00CCFF>Stechkin, who was on duty in the surveillance room tonight, discovered an unfamiliar female figure in the Commander's room on the CCTV footage. She uploaded a screenshot onto the forum.</color>
 NPC-Kalin(0)<Speaker>Kalina</Speaker>;PM(0)||:What? Really?!

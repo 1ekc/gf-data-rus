@@ -34,13 +34,13 @@ ASVAL(0)<Speaker>AS Val</Speaker>||:(Sighs) If I had a say on who could go back 
 ASVAL(0)<Speaker>AS Val</Speaker>||:You really are the best, Misha. I can talk to you about all kinds of things that would be too embarrassing to bring up in front of them... Huh?
 ()||:A movement from afar draws AS Val's eye, and she subconsciously presses herself flat against the ground. +A large group of Military automatons come into view, far more than a few T-Dolls can handle.
 ASVAL(0)<Speaker>AS Val</Speaker>||:...9A-91, is the radio fixed yet?
-9A91(0)<Speaker>9A-91</Speaker><通讯框>||<SE2>AVG_tele_connect</SE2>:<color=#00CCFF>I just finished checking the battery startup system, I'm still reading the manual.</color>
-9A91(0)<Speaker>9A-91</Speaker><通讯框>||:<color=#00CCFF>Dammit, why did they have to make its design so complicated?!</color>
-AK74U(0)<Speaker>AK-74U</Speaker><通讯框>||:<color=#00CCFF>What's the matter, AS Val? Why'd you bring that up all of a sudden? Was there movement on your side?</color>
+9A91(0)<Speaker>9A-91</Speaker><scan><通讯框>||<SE2>AVG_tele_connect</SE2>:<color=#00CCFF>I just finished checking the battery startup system, I'm still reading the manual.</color>
+9A91(0)<Speaker>9A-91</Speaker><scan><通讯框>||:<color=#00CCFF>Dammit, why did they have to make its design so complicated?!</color>
+AK74U(0)<Speaker>AK-74U</Speaker><scan><通讯框>||:<color=#00CCFF>What's the matter, AS Val? Why'd you bring that up all of a sudden? Was there movement on your side?</color>
 ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:There's a large number of Military automatons on the north side... +They don't have any heavy units, but there's a lot of them. They're approaching us, and it looks like they want to search the crash site.
-ASVAL(0);AK74U(0)<Speaker>AK-74U</Speaker><通讯框>||:<color=#00CCFF>Roger. I'll head over right away...</color>
+ASVAL(0);AK74U(0)<Speaker>AK-74U</Speaker><scan><通讯框>||:<color=#00CCFF>Roger. I'll head over right away...</color>
 ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:There's no need. I'll draw them away and buy you as much time as I can.
-AK74U(0)<Speaker>AK-74U</Speaker><通讯框>||:<color=#00CCFF>You...!</color>
+AK74U(0)<Speaker>AK-74U</Speaker><scan><通讯框>||:<color=#00CCFF>You...!</color>
 ()||<BGM>BGM_Empty</BGM><SE2>AVG_tele_disconnect</SE2>:AS Val cuts the transmission and stuffs Misha into her breast pocket.
 ASVAL(0)<Speaker>AS Val</Speaker>||<BGM>BGM_Danger</BGM>:I want to help my friends too. +Let's go, Misha!
 ()||<SE1>AVG_pistol_finalshot_sup</SE1>:AS Val takes a deep breath, then jumped down from the cover of the slope and opens fire at the search party of Military automatons.

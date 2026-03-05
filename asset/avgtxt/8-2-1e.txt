@@ -2,7 +2,7 @@
 M16A1()<Speaker>M16A1</Speaker>||：Персика!+...+Вызываю Персику!
 Persica()<Speaker>Персика</Speaker>||<黑屏1>：А, да. Я здесь.
 NPC-Persica(0)<Speaker>Персика</Speaker>||<BIN>22</BIN><黑屏2>：Извиняюсь. Я проверяла M4.
-M16(3)<Speaker>M16A1</Speaker><通讯框>;NPC-Persica(0)||：Как... она?
+M16(3)<Speaker>M16A1</Speaker><scan><通讯框>;NPC-Persica(0)||：Как... она?
 M16(3);NPC-Persica(0)<Speaker>Персика</Speaker>||：Все идет... по плану. Но, кроме этого, RO не видела, чтобы ты что-то делала в базе данных, верно?
 M16(3)<Speaker>M16A1</Speaker>;NPC-Persica(0)||：Нет, я уже все уладила к тому времени, когда она вышла.
 M16(3);NPC-Persica(0)<Speaker>Персика</Speaker>||：Понятно... Как у тебя дела?

@@ -1,9 +1,9 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<BIN>9</BIN><黑屏2><BGM>BGM_Sneak</BGM>:...
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>STEN, lie low for now and observe his movements.</color> +<color=#00CCFF>Our teams will get there as soon as we can to sort things out.</color> +<color=#00CCFF>...If the human tries to run, please pin him down by force.</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>STEN, lie low for now and observe his movements.</color> +<color=#00CCFF>Our teams will get there as soon as we can to sort things out.</color> +<color=#00CCFF>...If the human tries to run, please pin him down by force.</color>
 ()<Speaker>STEN MkII</Speaker>||:Huh? Is...that necessary? Won't that be too risky?
-AAT52(0)<Speaker>AAT-52</Speaker><通讯框>||:<color=#00CCFF>RO, have you forgotten again? Unless given special permission by a superior, we can't...</color>
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>I AM your superior, and I'm granting you special permission to do so.</color> +<color=#00CCFF>But take note, if your life is at stake, prioritize your own survival. Rescue others only when the situation allows.</color>
+AAT52(0)<Speaker>AAT-52</Speaker><scan><通讯框>||:<color=#00CCFF>RO, have you forgotten again? Unless given special permission by a superior, we can't...</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>I AM your superior, and I'm granting you special permission to do so.</color> +<color=#00CCFF>But take note, if your life is at stake, prioritize your own survival. Rescue others only when the situation allows.</color>
 ()<Speaker>STEN MkII</Speaker>||:Roger. I'll go look for a place to hide now. Please send reinforcements soon, Miss RO.
 ()||<黑屏1>:...
 MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏2><Night><BIN>85</BIN>:How did it turn out this way...? +Didn't he help me before...? +Is he not...a good person?
@@ -45,9 +45,9 @@ MK2(0)<Speaker>STEN MkII</Speaker>||:Sir? +Sir!
 MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏1>0,3</黑屏1>:W-what should I do...? +I can't... I can't... +What am I supposed to do right now...?
 ()<Speaker>STEN MkII</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:<size=55>AAAAAAAAAAAAARGHHHH!!</size>
 ()<Speaker></Speaker>||:...
-RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Miss STEN!</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Miss STEN!</color>
 MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏2><BIN>98</BIN><回忆>:... +I'm sorry, Miss RO... +I can't give it to you.
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>What?!</color> +<color=#00CCFF>What did you say, Miss STEN?!</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>What?!</color> +<color=#00CCFF>What did you say, Miss STEN?!</color>
 MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||<BGM>BGM_Sad</BGM>:The human asked me just before he passed out... +To destroy the document...
 MK2(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>...</color> +<color=#00CCFF>I'm asking you to give me the document. That's an order!</color>
 MK2(0)<Speaker>STEN MkII</Speaker>;RO635(0)||:But the human also gave me an order... +According to Griffin's contract, I must help humans whose lives are in peril...

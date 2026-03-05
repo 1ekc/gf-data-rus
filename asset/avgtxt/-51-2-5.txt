@@ -12,8 +12,8 @@ NPC-Romy(7)<Speaker>Romy</Speaker>||:(Pants)
 ()<Speaker></Speaker>||:There were over a dozen assassins at the outset, but now only four of them remain, doggedly pursuing her. +They aren't much better off than Romy, and their wretched state is a clear sign of the price one would have to pay to pursue a Stasi agent. +But right now, they have bullets, and Romy does not.
 ()||<黑点1>:
 NPC-Romy(6)<Speaker>Romy</Speaker>||<黑点2><SE1>AVG_tele_connect</SE1>:<size=50>Where's that backup I keep hearing all these stories about?!</size>
-Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>...</color>
-PPQ(0)<Speaker>Brigitte</Speaker><通讯框>||:<color=#00CCFF>Head forward and don't look back. </color>
+Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position><scan><通讯框>||:<color=#00CCFF>...</color>
+PPQ(0)<Speaker>Brigitte</Speaker><scan><通讯框>||:<color=#00CCFF>Head forward and don't look back. </color>
 NPC-Romy(7)<Speaker>Romy</Speaker>||:Can I even trust you...
 ()<Speaker></Speaker>||:Romy breathes a sigh of relief as she hears her comrades, but just as she's about to head forward...
 ()<Speaker></Speaker>||<SE1>Select</SE1>:...A cold gun muzzle is pressed against the back of her head. +An unfamiliar yet cold male voice addresses her, accompanied by palpable bloodlust.
@@ -40,11 +40,11 @@ Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position>||<SE1>Select</S
 NPC-Romy(6)<Speaker>Romy</Speaker>||:I almost died back there.
 PPQ(0)<Speaker>Brigitte</Speaker>||:But you're still alive, aren't you?
 NPC-Romy(7)<Speaker>Romy</Speaker>||:So it's just the two of you? Where are the others? +God, I miss Mona so much... +I once had a truly reliable teammate in front of me. +I didn't cherish her enough, and now I'm regretting it.
-LS26(0)<Speaker>Edith</Speaker><Position>0,-60</Position><通讯框>||:<color=#00CCFF>We're some distance off, we'll regroup with you ASAP.</color> +<color=#00CCFF>And quit complaining, Miss Mona's busy too!</color>
-TFQ(0)<Speaker>Dagmar</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>Manpower is tight at Statesec, we hope you understand.</color>
-LS26(0)<Speaker>Edith</Speaker><Position>0,-60</Position><通讯框>||:<color=#00CCFF>He's just annoyed that it's us.</color>+<color=#00CCFF>Even though he's so pathetic-looking himself...</color>
+LS26(0)<Speaker>Edith</Speaker><Position>0,-60</Position><scan><通讯框>||:<color=#00CCFF>We're some distance off, we'll regroup with you ASAP.</color> +<color=#00CCFF>And quit complaining, Miss Mona's busy too!</color>
+TFQ(0)<Speaker>Dagmar</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>Manpower is tight at Statesec, we hope you understand.</color>
+LS26(0)<Speaker>Edith</Speaker><Position>0,-60</Position><scan><通讯框>||:<color=#00CCFF>He's just annoyed that it's us.</color>+<color=#00CCFF>Even though he's so pathetic-looking himself...</color>
 NPC-Romy(6)<Speaker>Romy</Speaker><Shake>0.1</Shake>||:<size=50>Is this how you treat a colleague?!</size>
-LS26(0)<Speaker>Edith</Speaker><Position>0,-60</Position><通讯框>||:<color=#00CCFF>The heck? We take orders from Miss Romy, not you.</color> +<color=#00CCFF>Wait, don't tell me you're hooked on impersonating her...</color> +<color=#00CCFF>Agent J?</color>
+LS26(0)<Speaker>Edith</Speaker><Position>0,-60</Position><scan><通讯框>||:<color=#00CCFF>The heck? We take orders from Miss Romy, not you.</color> +<color=#00CCFF>Wait, don't tell me you're hooked on impersonating her...</color> +<color=#00CCFF>Agent J?</color>
 NPC-Romy(7)<Speaker>J</Speaker>||:...Well, I must stay in character until the end of the performance.
 Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position>||:...That's enough, the mission isn't over yet. +If there are no surprises, there should be at least another half dozen murder attempts coming up.
 NPC-Romy(6)<Speaker>J</Speaker>||:...This has to be the worst mission I've ever been given. +<size=50>BAR NONE!</size>
@@ -52,30 +52,30 @@ NPC-Romy(6)<Speaker>J</Speaker>||:...This has to be the worst mission I've ever 
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>408</BIN><BGM>GF_EV9_Story</BGM>:The Commander contacts K near the landing strip.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You're at the airport already? How was your trip?</color>
-NPC-Jason(2)<Speaker>Commander</Speaker><通讯框><同时置暗>||:A little bumpy, but alright. +More importantly, how are Mr. Kryuger and the others doing?
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I checked, those weren't MOD documents.</color> +<color=#00CCFF>My guess is that they were still traumatized by that big disturbance last time and they're going after you specifically. Once you pretend to "leave Berlin" as planned, my guess is that they won't encounter any trouble.</color>
-NPC-Jason(2)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Got it. I'll escort the General to Frankfurt, as planned.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Have you finished putting together your spec ops team?</color>
-NPC-Jason(2)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...The opposition hasn't made a move yet, but I'm worried we won't have enough time.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...If they didn't do anything, you wouldn't be able to bear it.</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You're at the airport already? How was your trip?</color>
+NPC-Jason(2)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:A little bumpy, but alright. +More importantly, how are Mr. Kryuger and the others doing?
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I checked, those weren't MOD documents.</color> +<color=#00CCFF>My guess is that they were still traumatized by that big disturbance last time and they're going after you specifically. Once you pretend to "leave Berlin" as planned, my guess is that they won't encounter any trouble.</color>
+NPC-Jason(2)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Got it. I'll escort the General to Frankfurt, as planned.
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Have you finished putting together your spec ops team?</color>
+NPC-Jason(2)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...The opposition hasn't made a move yet, but I'm worried we won't have enough time.
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>...If they didn't do anything, you wouldn't be able to bear it.</color>
 ()<Speaker>Commander</Speaker>||:Yeah.
 ()<Speaker></Speaker>||:The Commander sounds a little restless through the comm.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Relax, we'll have a chance.</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Relax, we'll have a chance.</color>
 ()<Speaker>Commander</Speaker>||:I know.
 ()<Speaker></Speaker>||:The Commander sighs.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>You DO know why Miss Romy entrusted the task of escorting the General to you, right? </color>
-NPC-Jason(2)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Yes, and I won't let her down. +Given my status, completing this mission implies that the Griffin base will come under the General's protection.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>Yeah. Hang on, I'll give you command authority over Squad Nitrogen.</color> +<color=#00CCFF>Good luck.</color>
-NPC-Jason(2)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...?! +...You're going to directly transfer a Stasi Doll squad's command permissions to me? +Isn't this a bit much?
-NPC-Jason(3)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Relax, this is also what Miss Romy wanted.</color> +<color=#00CCFF>We're sincere about this collaboration, and this is a portion of our sincerity.</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>You DO know why Miss Romy entrusted the task of escorting the General to you, right? </color>
+NPC-Jason(2)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Yes, and I won't let her down. +Given my status, completing this mission implies that the Griffin base will come under the General's protection.
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>Yeah. Hang on, I'll give you command authority over Squad Nitrogen.</color> +<color=#00CCFF>Good luck.</color>
+NPC-Jason(2)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...?! +...You're going to directly transfer a Stasi Doll squad's command permissions to me? +Isn't this a bit much?
+NPC-Jason(3)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Relax, this is also what Miss Romy wanted.</color> +<color=#00CCFF>We're sincere about this collaboration, and this is a portion of our sincerity.</color>
 ()<Speaker>Commander</Speaker>||:...Please give Miss Romy my thanks. +And also...
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Commander.
 ()<Speaker>Commander</Speaker>||:Hm?
 ()<Speaker></Speaker>||:Just then, ST AR-15 suddenly interrupts the Commander's transmission.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:They're here.
 ()<Speaker>Commander</Speaker>||:...I have to go.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I'm counting on you.</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I'm counting on you.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +The call ends.
 ()<Speaker></Speaker>||:The Commander puts down the communicator.
 ()<Speaker>Commander</Speaker>||:Prepare for battle.

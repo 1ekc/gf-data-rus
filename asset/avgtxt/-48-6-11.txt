@@ -6,7 +6,7 @@ NytoIsomer(3)<Speaker>Dandelion</Speaker>||:Is that it...? +Commander, I've brok
 ()<Speaker>Commander</Speaker>||:...Good.
 ()<Speaker></Speaker>||:The Commander is unhappy to let Bramedb get away just like that, but at least they aren't coming away completely empty-handed.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:Click. +Call connected.
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Commander, is everything alright on your end? What's the holdup?</color>
+NPC-Keven(0)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, is everything alright on your end? What's the holdup?</color>
 NPC-Keven(0)<Speaker>Commander</Speaker>||:We had a minor situation. We're coming right— No, you guys come over. +We've removed the electronic seal down here. Get your people over here too and we'll search the place again. +We'll discuss the rest back at HQ.
 NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>"We'll discuss the rest back at HQ." God, you sound like a proper Stasi.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Still oblivious to what happened on the Commander's end, J makes a gibe and terminates the transmission.

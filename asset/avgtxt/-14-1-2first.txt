@@ -8,7 +8,7 @@ Vector(0)<Speaker>Vector</Speaker>||:这道门能撑多久呢？+如果建筑公
 Vector(0)<Speaker></Speaker>||:……咣！咣！咣！
 Vector(0)<Speaker>Vector</Speaker>||:可笑……我居然把希望放在人类身上……
 Vector(0)<Speaker></Speaker>||:……滴。
-Vector(0);PP90(0)<Speaker>PP90</Speaker><通讯框>||:Vivi！Vivi你还在吗！
+Vector(0);PP90(0)<Speaker>PP90</Speaker><scan><通讯框>||:Vivi！Vivi你还在吗！
 Vector(0)<Speaker>Vector</Speaker>;PP90(0)||:目前还在，可能再过两分钟就不在了。
 Vector(0);PP90(0)<Speaker>PP90</Speaker>||:喂！你不是说撑不住会报告吗！
 Vector(0);PP90(0)||:

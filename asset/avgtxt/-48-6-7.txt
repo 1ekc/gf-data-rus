@@ -172,16 +172,16 @@ AR15Mod(4)<Speaker>ST AR-15</Speaker>||:...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>327</BIN><黑屏2>:That woman walks up to the Commander once more in the sunlight, peering up at them with teary eyes. +The Commander gives their head a firm shake. This isn't the time to be thinking about her.
 ()<Speaker>Commander</Speaker>||:Found anything?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The control system is still the same as before. Nothing has changed.</color>
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Nothing special about this area. It's just common living facilities for the prisoners over here.</color>
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Nothing to report here either.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The control system is still the same as before. Nothing has changed.</color>
+NPC-Keven(0)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Nothing special about this area. It's just common living facilities for the prisoners over here.</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Nothing to report here either.</color>
 ()<Speaker>Commander</Speaker>||:Keep searching.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Don't be in such a hurry to hang up. The system hasn't changed, but I do have a new discovery.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Don't be in such a hurry to hang up. The system hasn't changed, but I do have a new discovery.</color>
 UMP45Mod(0)<Speaker>Commander</Speaker>||:What discovery?
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>They've shut down the surveillance system and even deleted all previous CCTV footage, but the cameras have not been moved.</color> +<color=#00CCFF>I noticed that the security cameras are located everywhere, even in the toilets and bathrooms.</color> +<color=#00CCFF>But there's one particular storage room that has no camera at all.</color>
 UMP45Mod(0)<Speaker>Commander</Speaker>||:Which area? Mark it on the map.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>Done. It seems to be the closest to Mr. J.</color>
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Copy that. I'll take my men and check it out right away.</color>
+NPC-Keven(0)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that. I'll take my men and check it out right away.</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:We'll head over there too.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>88</BIN>:...At the storage room indicated by UMP45.
@@ -193,7 +193,7 @@ RO635Mod(0)<Speaker>RO635</Speaker>||:Roger.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:The Commander enters the emptied storage room and starts inspecting each piece of tile with their fingers.
 NytoIsomer(3)<Speaker>Dandelion</Speaker>||:This wall is hollow.
 ()<Speaker>Commander</Speaker>||:What?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, can you show me the wall behind you? Yes, the one facing the door.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, can you show me the wall behind you? Yes, the one facing the door.</color>
 ()<Speaker>Commander</Speaker>||<SE1>ClothingUp</SE1>:This one?
 NytoIsomer(3)<Speaker>Dandelion</Speaker>||:That's right. +...Hold on, Commander, don't touch it.
 RO635Mod(0)<Speaker>RO635</Speaker>||:SOP-II.
@@ -206,7 +206,7 @@ M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||<黑点2><B
 ()<Speaker></Speaker>||:The next second, SOP-II's body tilts forward and she falls quite literally head over heels into another place.
 ()<Speaker>Commander</Speaker>||:What...?
 RO635Mod(3)<Speaker>RO635</Speaker>||:So that's where the secret mechanism is hidden!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>I knew something was fishy. Hang on, Commander, we're coming over as well.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>I knew something was fishy. Hang on, Commander, we're coming over as well.</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:J, get your people here too.
 ()<Speaker>Commander</Speaker>||:K, we've made a huge discovery over here!
 ()<Speaker>Commander</Speaker>||:...Let's go down together and take a look.
@@ -255,7 +255,7 @@ NPC-grig(0)<Speaker>Grig</Speaker>||:...!
 BOSS-8(0)<Speaker>Agent</Speaker>||:...The trail of footprints stopped right here.
 ()<Speaker>Commander</Speaker>||:There's nothing around that can help people disappear... 
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:We've lost her, 45. Have you found anything on your end?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Nothing. All we've got were some goods, which have been handed over to J and K.</color> +<color=#00CCFF>We're now coming over to join you.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Nothing. All we've got were some goods, which have been handed over to J and K.</color> +<color=#00CCFF>We're now coming over to join you.</color>
 UMP45Mod(0)<Speaker>Commander</Speaker>||:Right. Keep an eye out for tracks on your way.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The Commander raises their communicator to turn it off, and the screen turns black. +The smooth dark surface reflects the Commander's face...And the white figure behind them... 
 ()<Speaker>Commander</Speaker>||:Behind us!

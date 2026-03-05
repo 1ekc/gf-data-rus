@@ -155,9 +155,9 @@ Tabuk(0)<Speaker>Tabuk</Speaker>||:So why is she claiming rye bread? That's weir
 VPM5(0)<Speaker>V-PM5</Speaker>||:You... seem to be looking at someone and were walking straight at them too.
 Px4StormMod(0)<Speaker>Px4 Storm</Speaker>||:What time was this? Huh, 1600 hours. Well, my shift should've been over by then. +Speaking of which, I looked at the mission briefing I sent back yesterday. Other than work-related stuff, there was no mention of anyone suspicious.
 ()||<SE1>AVG_tele_connect</SE1>:Suddenly, the on-hold music in Px4's call stops, and a sweet voice plays.
-()<Speaker>Bank Customer Service</Speaker><通讯框>||:<color=#00CCFF>Hello, dear customer, How can I help you? </color>
+()<Speaker>Bank Customer Service</Speaker><scan><通讯框>||:<color=#00CCFF>Hello, dear customer, How can I help you? </color>
 Px4StormMod(0)<Speaker>Px4 Storm</Speaker>||:Please help me check my last transaction on this account, with the exact name of the payee.
-()<Speaker>Bank Customer Service</Speaker><通讯框>||:<color=#00CCFF>Okay, we are looking up the transaction information for you. Please wait for a moment. </color>
+()<Speaker>Bank Customer Service</Speaker><scan><通讯框>||:<color=#00CCFF>Okay, we are looking up the transaction information for you. Please wait for a moment. </color>
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>168</BIN><边框>2</边框>:Outside Food Bank No. 08.
 ()||<边框>2</边框><SE1>AVG_2023Slow_Keyboard_Enter</SE1><BGM>GF_21summer_avg_Demon</BGM>:Px4 fills out the mission form, highlighting the risk of hungry crowd gathering and stampede accidents in the remarks, and encloses a recommendation to strengthen patrols and manned guards. Finally, she clicks send.
@@ -178,7 +178,7 @@ Px4Storm(0)<Speaker>Px4 Storm</Speaker>||<边框>2</边框>:Miss Patron, what sh
 NPC_baolan(2)<Speaker>Nida</Speaker>||<边框>2</边框>:Nida Povna. Just call me Nida.
 ()||<黑点1><边框>2</边框>:
 ()||<黑点2><BIN>276</BIN>:...
-()<Speaker>Bank Customer Service</Speaker><通讯框>||:<color=#00CCFF>In the transaction with tail number 9276, the payee is—</color>+<color=#00CCFF>Nida Povna.</color>
+()<Speaker>Bank Customer Service</Speaker><scan><通讯框>||:<color=#00CCFF>In the transaction with tail number 9276, the payee is—</color>+<color=#00CCFF>Nida Povna.</color>
 Px4StormMod(0)<Speaker>Px4 Storm</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Nida Povna...
 Px4StormMod(0)<Speaker>Px4 Storm</Speaker>||<Shake>0.5</Shake>:How dare you rip me off? Just you wait!
 ()||<黑屏1><BGM>BGM_Empty</BGM>:

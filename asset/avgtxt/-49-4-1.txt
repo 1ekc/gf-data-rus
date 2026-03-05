@@ -50,15 +50,15 @@ Type100(0)<Speaker>100 Shiki</Speaker>||:R-Right...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><回忆><边框>2</边框><BIN>97</BIN>:4.15pm, December 24—one more day till Christmas. In the hallway. +The supervising group soon received the first complaint from a well-meaning Doll.
 FP6(0)<Speaker>FP-6</Speaker><Position>150,0</Position>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:Hello, this is FP-6 of the supervising group. How can I help you?
-MDR(0)<Speaker>MDR</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF><size=50>HOLY MOLY! DO YOU HEAR THIS?</size></color>
+MDR(0)<Speaker>MDR</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF><size=50>HOLY MOLY! DO YOU HEAR THIS?</size></color>
 FP6(0)<Speaker>FP-6</Speaker><Position>150,0</Position>||<边框>2</边框>:Hear what?
-MDR(0)<Speaker>MDR</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF><size=50>HOLD ON, LET ME GET A BIT CLOSER.</size></color>
+MDR(0)<Speaker>MDR</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF><size=50>HOLD ON, LET ME GET A BIT CLOSER.</size></color>
 ()<Speaker></Speaker>||<边框>2</边框>:MDR moved her communicator forward with a pained expression on her face...
 ()<Speaker></Speaker>||<边框>2</边框><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=5</controll_shake><BGM>GF_Room_Rocktheme</BGM>:Deafening music came blasting through the speaker right away.
 FP6(0)<Speaker>FP-6</Speaker><Position>150,0</Position>||<边框>2</边框>:...I estimate the noise level to be at 120 decibel on your end.
 Type100(0)<Speaker>100 Shiki</Speaker>||<边框>2</边框>:This is well beyond the noise allowance at the base. Should we go and put a stop to it?
 FP6(0)<Speaker>FP-6</Speaker><Position>150,0</Position>||<边框>2</边框>:MDR, where are you right now?
-MDR(0)<Speaker>MDR</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF><size=50>WHAT?! YOU NEED TO SPEAK UP!</size></color>
+MDR(0)<Speaker>MDR</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF><size=50>WHAT?! YOU NEED TO SPEAK UP!</size></color>
 FP6(0)<Speaker>FP-6</Speaker><Position>150,0</Position>||<边框>2</边框>:... +I see the door behind her. It's the banquet hall.
 FP6(0)<Speaker>FP-6</Speaker><Position>150,0</Position>||<边框>2</边框><SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Let's go, 100 Shiki.
 Type100(0)<Speaker>100 Shiki</Speaker>||<边框>2</边框>:You can just leave this to me!
@@ -87,21 +87,21 @@ FP6(0)<Speaker>FP-6</Speaker><Position>150,0</Position>||:I see. Then it was the
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><回忆><BIN>97</BIN><边框>2</边框><BGM>m_wv_title</BGM>:4.30pm, December 24—one more day till Christmas. In the hallway. +Once 100 Shiki had sorted out the noise in the banquet hall, she received a call from FP-6.
-FP6(0)<Speaker>FP-6</Speaker><通讯框>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>100 Shiki, are you done over there?</color>
+FP6(0)<Speaker>FP-6</Speaker><scan><通讯框>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>100 Shiki, are you done over there?</color>
 Type100(0)<Speaker>100 Shiki</Speaker>;FP6(0)||<边框>2</边框>:Yep, all done!
-Type100(0);FP6(0)<Speaker>FP-6</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>There's a new task and I could use your help.</color> +<color=#00CCFF>M21, please continue.</color>
-Type100(0);M21(4)<Speaker>M21</Speaker><通讯框>||<震屏3><SE1>AVG_tele_connect</SE1><边框>2</边框>:<color=#00CCFF><size=50>I would like to report Px4 Storm and CAWS' crime!</size></color>
+Type100(0);FP6(0)<Speaker>FP-6</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>There's a new task and I could use your help.</color> +<color=#00CCFF>M21, please continue.</color>
+Type100(0);M21(4)<Speaker>M21</Speaker><scan><通讯框>||<震屏3><SE1>AVG_tele_connect</SE1><边框>2</边框>:<color=#00CCFF><size=50>I would like to report Px4 Storm and CAWS' crime!</size></color>
 Type100(0)<Speaker>100 Shiki</Speaker>;M21(4)||<边框>2</边框>:Px4 Storm...and CAWS?
-M21(5)<Speaker>M21</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>I don't know where they found a bunch of literal junk but they're giving it out as presents.</color> +<color=#00CCFF>Then they exploit the other Dolls' joy of receiving a gift and ask them for their Christmas Coin!</color> +<color=#00CCFF><size=50>The nerve! Scamming people out of their Christmas Coin!</size></color> +<color=#00CCFF><size=50>Don't they know how much those Coins mean?! These are Christmas Coins we're talking about!</size></color>
-FP6(0)<Speaker>FP-6</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Stop. Please get back to the subject and tell me more about the extortion.</color>
-M21(5)<Speaker>M21</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>While they weren't paying attention, I took one of their presents.</color> +<color=#00CCFF>Look! Look at this! You can find this kind of stuff in any junkyard near the base!</color>
+M21(5)<Speaker>M21</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>I don't know where they found a bunch of literal junk but they're giving it out as presents.</color> +<color=#00CCFF>Then they exploit the other Dolls' joy of receiving a gift and ask them for their Christmas Coin!</color> +<color=#00CCFF><size=50>The nerve! Scamming people out of their Christmas Coin!</size></color> +<color=#00CCFF><size=50>Don't they know how much those Coins mean?! These are Christmas Coins we're talking about!</size></color>
+FP6(0)<Speaker>FP-6</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Stop. Please get back to the subject and tell me more about the extortion.</color>
+M21(5)<Speaker>M21</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>While they weren't paying attention, I took one of their presents.</color> +<color=#00CCFF>Look! Look at this! You can find this kind of stuff in any junkyard near the base!</color>
 ()<Speaker></Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:The fuming M21 holds up a rusty spoon in front of the camera on her communicator. +As she has said, it's a spoon that even a Doll who is on the verge of starving to death wouldn't use.
 Type100(0)<Speaker>100 Shiki</Speaker>||<边框>2</边框>:...How could they do that?
-M21(5)<Speaker>M21</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Exactly! They're actually cheating people out of their Christmas Coins by giving them garbage in return!</color> +<color=#00CCFF>This is emotional blackmail! A huge scam! </color>
-FP6(0)<Speaker>FP-6</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Thank you for bringing this to our attention. We will handle this matter right away.</color>
-M21(5)<Speaker>M21</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>They're in the hallway at the dorms right now! Come quickly!</color>
-FP6(0)<Speaker>FP-6</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Don't worry, we will definitely not let them get away with this.</color>
-FP6(0)<Speaker>FP-6</Speaker><通讯框>||<SE1>AVG_tele_disconnect</SE1><边框>2</边框>:<color=#00CCFF>100 Shiki, head to the dorms immediately and meet me there. We have two criminals to catch.</color>
+M21(5)<Speaker>M21</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Exactly! They're actually cheating people out of their Christmas Coins by giving them garbage in return!</color> +<color=#00CCFF>This is emotional blackmail! A huge scam! </color>
+FP6(0)<Speaker>FP-6</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Thank you for bringing this to our attention. We will handle this matter right away.</color>
+M21(5)<Speaker>M21</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>They're in the hallway at the dorms right now! Come quickly!</color>
+FP6(0)<Speaker>FP-6</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Don't worry, we will definitely not let them get away with this.</color>
+FP6(0)<Speaker>FP-6</Speaker><scan><通讯框>||<SE1>AVG_tele_disconnect</SE1><边框>2</边框>:<color=#00CCFF>100 Shiki, head to the dorms immediately and meet me there. We have two criminals to catch.</color>
 Type100(0)<Speaker>100 Shiki</Speaker>||<边框>2</边框>:Roger that! I'm coming right now!
 ()||<黑屏1><边框>2</边框>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版><BGM>BGM_Empty</BGM>:

@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><BGM>GF_21summer_intro_DemonVariation</BGM><narrator>:Neo-Soviet Military Safe House, Berlin.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click... +Incoming transmission.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:<color=#00CCFF>I hope you have good news.</color>
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||:<color=#00CCFF>I hope you have good news.</color>
 M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:Then sorry to disappoint—we lost her in the end. +She's more slippery than any of the targets we've tracked before.
 M16A1BOSS(4);NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>Hm... I've read your report.</color> +<color=#00CCFF>Is this the area where you lost track of her?</color>
 M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:Yes.

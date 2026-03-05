@@ -75,33 +75,33 @@ AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||<BGM>GF_22W_BGM_3</BG
 ()<Speaker>Commander</Speaker>||:...
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:After keeping the communicator on hold for a few more seconds, the Commander nods and gestures for the call to be answered.
 ()<Speaker>Commander</Speaker>||:Earl.
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>I believe the last time we spoke, we still had an ideal mentor-mentee relationship.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...I once had a lot of respect for you.
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Respect—which implies looking up to me.</color>+<color=#00CCFF>Now you have matured to a point where we can speak on equal terms.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:You have met whom you wanted to.
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>I'm not getting in touch because I need you—quite the contrary.</color>+<color=#00CCFF>Right now, you need me.</color>+<color=#00CCFF>I hope ambitious young people can walk a bright and promising path—</color>+<color=#00CCFF>not rush into the White Zone and spark a violent commotion.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Your current situation is no better than when you were trapped in the Black Zone—if anything, it's worse.</color>+<color=#00CCFF>But even so, I'm still willing to offer you help, just as I did in Avernus.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>It's good for young people to have their own ideas.</color>+<color=#00CCFF>I know you don't agree with some of my decisions, but I've already made significant concessions.</color>+<color=#00CCFF>I know I shouldn't try to keep an eagle bound under my protection.</color>+<color=#00CCFF>I only need to wait—wait for the day when the weary bird returns to its nest.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...And you believe the time has come.
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>There are no eternal enemies, Commander.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||<CGDelay>0.5</CGDelay>:Only eternal interests.
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>What we went through was merely a small, internal conflict.</color>+<color=#00CCFF>It wasn't fatal. Our interests are bound together, and our positions are aligned.</color>+<color=#00CCFF>No matter what happens, G&K stands behind you.</color>+<color=#00CCFF>That holds true for you, for Kryuger, and for me.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...Then what's the plan this time?
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>I sent you from the Neo-Soviet Union to Berlin because of Morridow.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Yes, and this mission has revealed to me a glimpse of the real world.
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Young people are always so full of curiosity.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Will you tell me the truth?
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>No, you must unearth it and find out for yourself. That way, you will find it easier to accept.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>If you wish to find out William's true identity and what he intends to do...</color>+<color=#00CCFF>You must first get to the bottom of one thing—Project Valkyrie.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...Maybe I don't even care about the whys and the whats anymore. I just think he needs to pay for everything he's done.
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>The choice is ultimately yours.</color>+<color=#00CCFF>If you want to learn the truth, investigating this is the only way.</color>+<color=#00CCFF>If you want to eliminate him, then I can offer you one last bit of help.</color>+<color=#00CCFF>Romy and I aren't exactly close, but the Stasi has already taken one step towards us.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||<CGDelay>0.5</CGDelay>:<color=#00CCFF>Given your current situation, it would benefit you greatly if you could secure the Stasi's cooperation.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Thank you, Earl.
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||<CGDelay>0.5</CGDelay>:<color=#00CCFF>Finally, some genuine words from you.</color>
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>I believe the last time we spoke, we still had an ideal mentor-mentee relationship.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...I once had a lot of respect for you.
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Respect—which implies looking up to me.</color>+<color=#00CCFF>Now you have matured to a point where we can speak on equal terms.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:You have met whom you wanted to.
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>I'm not getting in touch because I need you—quite the contrary.</color>+<color=#00CCFF>Right now, you need me.</color>+<color=#00CCFF>I hope ambitious young people can walk a bright and promising path—</color>+<color=#00CCFF>not rush into the White Zone and spark a violent commotion.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Your current situation is no better than when you were trapped in the Black Zone—if anything, it's worse.</color>+<color=#00CCFF>But even so, I'm still willing to offer you help, just as I did in Avernus.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>It's good for young people to have their own ideas.</color>+<color=#00CCFF>I know you don't agree with some of my decisions, but I've already made significant concessions.</color>+<color=#00CCFF>I know I shouldn't try to keep an eagle bound under my protection.</color>+<color=#00CCFF>I only need to wait—wait for the day when the weary bird returns to its nest.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...And you believe the time has come.
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>There are no eternal enemies, Commander.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||<CGDelay>0.5</CGDelay>:Only eternal interests.
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>What we went through was merely a small, internal conflict.</color>+<color=#00CCFF>It wasn't fatal. Our interests are bound together, and our positions are aligned.</color>+<color=#00CCFF>No matter what happens, G&K stands behind you.</color>+<color=#00CCFF>That holds true for you, for Kryuger, and for me.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...Then what's the plan this time?
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>I sent you from the Neo-Soviet Union to Berlin because of Morridow.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Yes, and this mission has revealed to me a glimpse of the real world.
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Young people are always so full of curiosity.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Will you tell me the truth?
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>No, you must unearth it and find out for yourself. That way, you will find it easier to accept.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>If you wish to find out William's true identity and what he intends to do...</color>+<color=#00CCFF>You must first get to the bottom of one thing—Project Valkyrie.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...Maybe I don't even care about the whys and the whats anymore. I just think he needs to pay for everything he's done.
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>The choice is ultimately yours.</color>+<color=#00CCFF>If you want to learn the truth, investigating this is the only way.</color>+<color=#00CCFF>If you want to eliminate him, then I can offer you one last bit of help.</color>+<color=#00CCFF>Romy and I aren't exactly close, but the Stasi has already taken one step towards us.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||<CGDelay>0.5</CGDelay>:<color=#00CCFF>Given your current situation, it would benefit you greatly if you could secure the Stasi's cooperation.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Thank you, Earl.
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||<CGDelay>0.5</CGDelay>:<color=#00CCFF>Finally, some genuine words from you.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><CGDelay>0.5</CGDelay><BGM>BGM_Empty</BGM>:Click. The Earl terminates the call.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:After pondering for a moment in silence, the Commander turns to AR-18.
 ()<Speaker>Commander</Speaker>||<BGM>BGM_ev2410_MareLunaris</BGM>:...+AR-18.

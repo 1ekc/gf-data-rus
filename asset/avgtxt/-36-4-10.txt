@@ -6,14 +6,14 @@
 ()<Speaker>M4A1</Speaker>||:She's an OGAS unit. Just think of her as an Elisa who's on our side. +She can control S.F. units and provide us with support.
 ()<Speaker>Dandelion</Speaker>||:<color=#00CCFF>Miss Ange, there is little time to explain everything to you. All you need to know is that I will be helping you. </color>+<color=#00CCFF>Also, I can hear the voices of those children. You have my gratitude.</color>
 ()<Speaker>Ange</Speaker>||<黑屏1>:<color=#00CCFF>I never thought a Nyto would be speaking so politely to me... I don't think anything else is going to surprise me today.</color>+<color=#00CCFF>Never mind. We'll strategize on the move. With the forces at hand, we might actually have a chance to do this. </color>+<color=#00CCFF>M4, what's your position?</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>We're on the other side of the elevator, I'm sending you our coordinates now. The Military is headed in your direction. We'll try to move as fast as we can.</color>+<color=#00CCFF>Also, please be careful; it isn't just the Military and ourselves here.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>We're on the other side of the elevator, I'm sending you our coordinates now. The Military is headed in your direction. We'll try to move as fast as we can.</color>+<color=#00CCFF>Also, please be careful; it isn't just the Military and ourselves here.</color>
 NPC-AngeDamage(4)<Speaker>Ange</Speaker>||:What do you mean?
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>I can sense Elisa. She's not far from here.</color>+<color=#00CCFF>S.F.'s remaining forces ought to be engaging the Military mechs. We can take advantage of their clash to find a window of opportunity.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>I can sense Elisa. She's not far from here.</color>+<color=#00CCFF>S.F.'s remaining forces ought to be engaging the Military mechs. We can take advantage of their clash to find a window of opportunity.</color>
 NPC-AngeDamage(4)<Speaker>Ange</Speaker>||:S.F. also have their eyes fixed on the Starfish in the base. Be careful of M16; 404 has already fought her many times. She's sure to be in the depths of the base.
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>...I understand. We're all prepared for this.</color>+<color=#00CCFF>Also, I can faintly sense what she's doing. I'm not sure how to describe it, but she seems to be connecting to something vague and obscure.</color>
-NytoIsomer(3)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>I can sense it too. Elisa is probably trying to establish a connection with the Starfish. We don't have much time.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>...I understand. We're all prepared for this.</color>+<color=#00CCFF>Also, I can faintly sense what she's doing. I'm not sure how to describe it, but she seems to be connecting to something vague and obscure.</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>I can sense it too. Elisa is probably trying to establish a connection with the Starfish. We don't have much time.</color>
 NPC-AngeDamage(4)<Speaker>Ange</Speaker>||:You're all just piling bad news after bad news on me.+Let's deal with the most immediate problem first. We'll try to get the Yegor situation under control. M4, you head down to the lowest level of the base and deal with S.F.
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>Roger. I'll prepare myself.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Roger. I'll prepare myself.</color>
 AK12(2)<Speaker>AK-12</Speaker>||:Quiet, Ange. The Military's here.
 NPC-AngeDamage(4)<Speaker>Ange</Speaker>;AK12(2)||:Our guests must be really impatient.
 NPC-AngeDamage(4);AK12(2)<Speaker>AK-12</Speaker>||:The AR Team is sending over information on the Sangvis forces that Dandelion has gathered so far.
@@ -30,6 +30,6 @@ NPC-AngeDamage(4)<Speaker>Ange</Speaker>;AK12(2)||<黑屏1><BGM>BGM_Empty</BGM>:
 BOSS-8(0)<Speaker>Agent</Speaker>||:I have brought Death to your doorstep.
 BossJustice(0)<Speaker>Judge</Speaker>||:Please accept your delivery!
 ()<Speaker></Speaker>||:On command, the S.F. Dolls begin shooting at the Military mechs.
-NPC-Soldier(0)<Speaker>Adjutant</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Captain!</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker><通讯框>||:<color=#00CCFF> Amber Flight, cover me. I'll crush them!</color>
-NPC-Soldier(0)<Speaker>Adjutant</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Yes, sir!</color>
+NPC-Soldier(0)<Speaker>Adjutant</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Captain!</color>
+NPC-Yegor(4)<Speaker>Yegor</Speaker><scan><通讯框>||:<color=#00CCFF> Amber Flight, cover me. I'll crush them!</color>
+NPC-Soldier(0)<Speaker>Adjutant</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Yes, sir!</color>

@@ -30,11 +30,11 @@ NPC-Styx(1)<Speaker>Styx</Speaker><Position>0,-50</Position>||:Of course. We're 
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>420</BIN>:...After the conference.+Styx steps into an empty restroom. She stands before the mirror, but she isn't looking at her own reflection.
 NPC-Styx(2)<Speaker>Styx</Speaker><Position>0,-50</Position>||<SE1>AVG_tele_connect</SE1>:Ashley, have you received the full dossier on the attendees?
-NPC-Styx(2)<Position>0,-50</Position>;NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Yes, Sister Styx. I've received it and I'm uploading everything into the Bee Sting System now.</color>
+NPC-Styx(2)<Position>0,-50</Position>;NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Yes, Sister Styx. I've received it and I'm uploading everything into the Bee Sting System now.</color>
 NPC-Styx(2)<Speaker>Styx</Speaker><Position>0,-50</Position>;NytoWhite(0)<Position>0,50</Position>||:Good.
-NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Sister Nemhran asked me to pass along several Bee Sting files to you.</color>
+NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Sister Nemhran asked me to pass along several Bee Sting files to you.</color>
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Click, click. Styx flips through the documents sent to her.+It's intel on a Griffin PMC Commander and a mobile base vehicle designated "Elmo".
-NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Sister Nemhran has flagged these individuals as highly likely to disrupt the plan. If you encounter them, please eliminate them immediately.</color>
+NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Sister Nemhran has flagged these individuals as highly likely to disrupt the plan. If you encounter them, please eliminate them immediately.</color>
 NPC-Styx(2)<Speaker>Styx</Speaker><Position>0,-50</Position>||:Understood.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<SE1>AVG_2023Slow_Keyboard_Correct</SE1>:After ending the call, Styx studies the Commander's dossier with growing interest.
@@ -178,14 +178,14 @@ NPC-Hebe(1)<Speaker>Hebe</Speaker>||<BGM>10301</BGM>:...Gray?+Why hasn't her acc
 NPC-Hebe(1)<Speaker>Hebe</Speaker>||:...
 ()<Speaker></Speaker>||:A wave of thoughts crash through Hebe's mind. Before she can fully process the reality of Gray's resurrection, she sees her heading toward Laplace's location.+Hebe immediately sounds the alarm for that area.
 NPC-Hebe(2)<Speaker>Hebe</Speaker>||<SE1>AVG_tele_connect</SE1>:Ashley, notify Morridow at once. We have an enemy infiltration.
-NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>...Enemy? Understood!</color>
+NytoWhite(0)<Speaker>Ashley</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>...Enemy? Understood!</color>
 ()<Speaker></Speaker>||<SE2>Alarm</SE2><CGDelay>1</CGDelay>:
 ()<Speaker></Speaker>||:In the surveillance feed, Morridow and Bramedb appear to have received the alert. They quickly change routes, guiding Laplace toward the emergency exit.+After Ashley's message, Morridow also brings forward the escort squad's rendezvous schedule.+But Hebe frowns—these measures won't be enough.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:Whoosh. The hatch opens, and Morridow looks over—
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Gray...?</color>
-NPC-MrsGray(9)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>...</color>
-NPC-MorridowNew(0)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>...What are you doing here?</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Gray...?</color>
+NPC-MrsGray(9)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+NPC-MorridowNew(0)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>...What are you doing here?</color>
 ()<Speaker></Speaker>||:Morridow's eyes widen in shock, and Gray is already striding toward Laplace with her blade raised...
 NPC-Hebe(2)<Speaker>Hebe</Speaker>||:Morridow, you really would be perfect for a horror or disaster flick.+You're exactly the kind of brainless cannon fodder that dies in the opening scene.
 ()<Speaker></Speaker>||:Hebe grits her teeth as she leaves the surveillance room, racing toward Laplace's location with inhuman speed.

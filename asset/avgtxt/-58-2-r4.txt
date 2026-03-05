@@ -47,7 +47,7 @@ RO635Mod(3)<Speaker>RO635</Speaker>||:Oh! But you can use this. +This is "Strong
 ()||<SE1>ClothingUp</SE1>:RO635 takes out the "Strongarm" that Persica has entrusted to her and puts it on carefully around Ange's right wrist.
 ()||<BGM>BGM_Empty</BGM><SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:Beep, beep... +<color=#00CCFF>Strongarm match successful – synchronizing subject data...</color> +<color=#00CCFF>Respiration rate – 18 breaths/minute.</color> +<color=#00CCFF>Body temperature – 38.4°C.</color> +<color=#00CCFF>Blood pressure – 70/45 mmHg.</color> +<color=#00CCFF>Blood oxygen level – 85%.</color> +<color=#00CCFF>Heart rate – 200 bpm.</color> +<color=#00CCFF>CVP – 2 mmHg.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>GF_2022_Summer_Main_1</BGM><SE1>AVG_tele_connect</SE1>:45, do you copy? +I'm about to connect Ange to the Aeneas Conference Room!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Ange! Copy that!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Ange! Copy that!</color>
 ()<Speaker></Speaker>||:Ange's voice is weak but firm.
 ()<Speaker>Ange</Speaker>||<SE1>AVG_tele_connect</SE1>:...Long time no see, Commander.
 ()<Speaker>Ange</Speaker>||:Time is short so I'll get to the point. +I'm really sorry, but I can't leave this place just yet.

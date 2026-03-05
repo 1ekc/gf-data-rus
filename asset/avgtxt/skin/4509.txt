@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 KSVK(0)<Speaker>KSVK</Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:Are you sure you're not attending the ball? +It's a rare opportunity to leave your work behind and experience something new.
-DP12(0)<Speaker>DP-12</Speaker><通讯框>;KSVK(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>They really can't spare me at Logistics. Besides, your evening dresses have already been made. It's too late for me to start preparing for it.</color> +<color=#00CCFF>Oh right, your dress has just arrived. I've put it in your room. Remember to try it on when you have time.</color>
+DP12(0)<Speaker>DP-12</Speaker><scan><通讯框>;KSVK(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>They really can't spare me at Logistics. Besides, your evening dresses have already been made. It's too late for me to start preparing for it.</color> +<color=#00CCFF>Oh right, your dress has just arrived. I've put it in your room. Remember to try it on when you have time.</color>
 DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:Hm. +Are you sure...that's my size? +I can't possibly fit in that.
 DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>Did you send the wrong measurements?</color>
 DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I couldn't have. I sent them my default factory specs. +I wonder if there's still time for alterations. 
@@ -124,7 +124,7 @@ Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:Oh, that's awesome! +You didn't 
 Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:I was too uptight. +Being friendly isn't embarrassing at all – it's actually very endearing!
 Saiga12(0)<Speaker>Saiga-12</Speaker>;KSVK(0)||:So we have an agreement on pretty girls?
 Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1>:Yeah, I guess you can say that.
-DP12(0)<Speaker>DP-12</Speaker><通讯框>||<黑屏2><BIN>82</BIN>:Back in the dorm, DP-12 calls KSVK again.
+DP12(0)<Speaker>DP-12</Speaker><scan><通讯框>||<黑屏2><BIN>82</BIN>:Back in the dorm, DP-12 calls KSVK again.
 DP12(0)<Speaker>DP-12</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>How did it go?</color>
 DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:It was fun, but I turned down a weird photo magazine.
 DP12(0)<Speaker>DP-12</Speaker>;KSVK(0)||:<color=#00CCFF>Sounds like you had a nice date.</color>

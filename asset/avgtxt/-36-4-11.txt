@@ -5,15 +5,15 @@
 ()<Speaker>Armored Unit Officer</Speaker>||:We've lost too many of our infantry, and we can't push in with automatons alone.+There's rubble everywhere, so the attacking forces can't deploy their firepower and our vehicles can't get in.
 ()<Speaker>Armored Unit Commander</Speaker>||:Pizdets, can't we request another round of shelling?
 ()<Speaker>Armored Unit Officer</Speaker>||:It's too close to the base entrance. If we miss and destroy it by accident, we'll be playing into Griffin's hands.+We can't let ourselves be stalled here any longer; we need to catch up to Captain Yegor ASAP.+Let's go for another charge. +This is Zircon to Hematite. Slow your attack on the right flank for the moment and maintain pressure on the front. Over.
-NPC-Soldier(0)<Speaker>Military Officer</Speaker><通讯框>||:<color=#00CCFF>Hematite copies.</color>
+NPC-Soldier(0)<Speaker>Military Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Hematite copies.</color>
 ()<Speaker>Armored Unit Commander</Speaker>||:But the path on the left flank is blocked. Are we going to force our way through?
 ()||:The officer does not reply. He simply gets back inside the cockpit.
 ()<Speaker>Armored Unit Officer</Speaker>||:Second platoon, follow my vehicle. The rest of you, break through on the left flank.
 ()<Speaker>Armored Unit Commander</Speaker>||<黑点1>:Yes, sir!
 ()||<黑点2>:On Griffin's front. +M1 Garand's team has made use of a half-collapsed building to seal off the frontal approach. They are holding the final defense line along with one of the few remaining HOCs.+This HOC's equipment was long since destroyed, so the members are fighting alongside the others Dolls with small arms whose owners have perished.
-SV98(0)<Speaker>SV-98</Speaker><通讯框>||:<color=#00CCFF>There's a half dozen infantrymen trying to approach us using cover! You can hit them from your position! We're leaving them to you!</color>
+SV98(0)<Speaker>SV-98</Speaker><scan><通讯框>||:<color=#00CCFF>There's a half dozen infantrymen trying to approach us using cover! You can hit them from your position! We're leaving them to you!</color>
 M1918(0)<Speaker>M1918</Speaker>||:Got it! Our teammates are already opening fire!+Garand, the enemy Typhons haven't made a move yet! This is our chance to plant more explosives!
-m1(0)<Speaker>M1 Garand</Speaker><通讯框>||:<color=#00CCFF>Roger!</color>
+m1(0)<Speaker>M1 Garand</Speaker><scan><通讯框>||:<color=#00CCFF>Roger!</color>
 ()||:A machine gun rattles in the distance, followed by more scattered fire. Garand and her team dart nimbly from cover to cover, trying to plant a simple IED on the road again.
 m1(0)<Speaker>M1 Garand</Speaker>||:What a bunch of cowards! Are you too afraid to come at us head-on?!
 ()||<SE2>Gunfight</SE2>:Garand pokes her head out and flips off the enemies while she's at it.+Naturally, this causes bullets to rain down on her position, so she hurriedly ducks back inside.
@@ -23,15 +23,15 @@ m1(0)<Speaker>M1 Garand</Speaker>||:If you don't hurry up, we'll have to blow ou
 88typeMod(0)<Speaker>Type 88</Speaker>||:Quit rushing me! +My usual job is sweeping the floors, not planting high explosive charges!
 m1(0)<Speaker>M1 Garand</Speaker>||:I don't usually go shooting at tanks with a firestick either! +Stop complaining and remember to double the delay on the manual detonator, we want them to get halfway in before we blow them up!
 88typeMod(0)<Speaker>Type 88</Speaker>||:Relax, this is the third time you've said it!
-M1918(0)<Speaker>M1918</Speaker><通讯框>||:<color=#00CCFF>M1 Garand, the enemy's approaching you again, you have to hurry!</color>
+M1918(0)<Speaker>M1918</Speaker><scan><通讯框>||:<color=#00CCFF>M1 Garand, the enemy's approaching you again, you have to hurry!</color>
 m1(0)<Speaker>M1 Garand</Speaker>||:Got it, we'll be going right away!
 ()||<SE1>Explode</SE1>:BOOM! +Just then, an explosion erupts from the plaza. +Smoke billows out from the entrance of a distant workshop.
 M1918(0)<Speaker>M1918</Speaker>||:Are they coming from the right again??! Springfield! What happened? What's the situation?
-M1903(0)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>The enemy armored units are trying to use the wreckage to circle around us! They're planning to force their way to the entrance from on top of the rubble!</color>
+M1903(0)<Speaker>Springfield</Speaker><scan><通讯框>||:<color=#00CCFF>The enemy armored units are trying to use the wreckage to circle around us! They're planning to force their way to the entrance from on top of the rubble!</color>
 M1918(0)<Speaker>M1918</Speaker>||:Can you hold out?
-M1903(0)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>There's too many of them. They might try to break though our suppressive fire!</color>
+M1903(0)<Speaker>Springfield</Speaker><scan><通讯框>||:<color=#00CCFF>There's too many of them. They might try to break though our suppressive fire!</color>
 M1918(0)<Speaker>M1918</Speaker>||:Got it, Garand's team will come to back you up!+Got that, Garand?+Once you've planted the explosives, get over to Springfield ASAP, they can't hold out much longer!
-m1(0)<Speaker>M1 Garand</Speaker><通讯框>||<黑点1><BGM>BGM_Empty</BGM>:<color=#00CCFF>I know, I know! We'll be heading over right away!</color>
+m1(0)<Speaker>M1 Garand</Speaker><scan><通讯框>||<黑点1><BGM>BGM_Empty</BGM>:<color=#00CCFF>I know, I know! We'll be heading over right away!</color>
 ()||<黑点2><BIN>85</BIN><BGM>BGM_Room</BGM>:Meanwhile. +In the temporary Griffin command post.
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Commander, the Military has launched a fourth offensive and Springfield's team has almost been wiped out. +The other teams are doing their best to plug the opening, and they say they can still keep going. +What should we do, Commander?
 ()<Speaker>Commander</Speaker>||:Um...

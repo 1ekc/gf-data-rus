@@ -10,17 +10,17 @@ ColtWalker(4)<Speaker>Maggie</Speaker>||:Wait a minute... What about the content
 ColtWalker(3)<Speaker>Maggie</Speaker>||:... +Hello? Is anyone there?
 ()||:Nobody answers her, and Maggie's gaze wanders through the room until it finally settles on the computer at the desk. +The computer screen is in sleep mode, and after ensuring nobody is around, she walks towards it and taps the touchscreen lightly...
 ()||<SE1>AVG_Card_Reader</SE1>:Whoosh—The computer instantly lights up again. +A girl in white appears on the monitor.
-NytoWhite(0)<Speaker>White Nyto</Speaker><通讯框>||:<color=#00CCFF>The assignment details have been sent to you through the "Bee Sting" system.</color> +<color=#00CCFF>The serial number is AS54876323025412.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><scan><通讯框>||:<color=#00CCFF>The assignment details have been sent to you through the "Bee Sting" system.</color> +<color=#00CCFF>The serial number is AS54876323025412.</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>||:What about Mrs. Gray?
-NytoWhite(0)<Speaker>White Nyto</Speaker><通讯框>||:<color=#00CCFF>Big Sister Gray has other important matters to attend to.</color>
+NytoWhite(0)<Speaker>White Nyto</Speaker><scan><通讯框>||:<color=#00CCFF>Big Sister Gray has other important matters to attend to.</color>
 ()||<SE1>AVG_keyboardtype_sci</SE1>:Maggie tries to open the file in her neural cloud. +Decrypting ■FILE■ AS54876323025412...
 ColtWalker(3)<Speaker>Maggie</Speaker>||:...So this Tareus will be my contact?
 ()||:When Maggie looks up again, the white-haired girl is already gone.
 ()||<黑屏1>:
 ()||<黑屏2><SE1>AVG_va_addingredient</SE1>:After Maggie leaves, Gray pours herself another cup of coffee.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>We only managed to scan less than 90% of this Doll's neural cloud data.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>We only managed to scan less than 90% of this Doll's neural cloud data.</color>
 NPC-MrsGray(0)<Speaker>Gray</Speaker>||:Minor deviations are fine as long as they don't affect the big picture. +In other words, if she can evade your system, it means she's capable of handling the job.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>As you wish.</color> +<color=#00CCFF>However, I do not like the presence of potential risks.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>As you wish.</color> +<color=#00CCFF>However, I do not like the presence of potential risks.</color>
 ()||<SE1>AVG_Camera_Focus</SE1>:Gray walks over to the record player and gently places the needle on a spinning record.
 ()||<:Slow music fills the air.
 NPC-MrsGray(0)<Speaker>Gray</Speaker>||:Don't worry, big sister Nemhran. +I guarantee your "Bee Sting" will take control of that Lifeline.

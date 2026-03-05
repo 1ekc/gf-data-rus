@@ -144,10 +144,10 @@ FAMAS(0)<Speaker>Fr FAMAS</Speaker>||:(Sniffles) +In the end... +... +I was the 
 ()<Speaker></Speaker>||:...Fr FAMAS gazes at the boundless digital sea.
 FAMAS(0)<Speaker>Fr FAMAS</Speaker>||:Our data...is one and the same... +... +That means...
 ()<Speaker></Speaker>||:...Fr FAMAS begins walking towards the water.
-FAMASHalloween(0)<Speaker>Voice of the Pumpkin Monster</Speaker><通讯框>||:Wait, what are you doing? +If we fall off the edge of this digital world, our data might be lost, or worse, we might even be deleted!
+FAMASHalloween(0)<Speaker>Voice of the Pumpkin Monster</Speaker><scan><通讯框>||:Wait, what are you doing? +If we fall off the edge of this digital world, our data might be lost, or worse, we might even be deleted!
 FAMAS(0)<Speaker>Fr FAMAS</Speaker>||:...
 ()<Speaker></Speaker>||:The water of the digital sea rises over Fr FAMAS' waist.
-FAMASHalloween(0)<Speaker>Voice of the Pumpkin Monster</Speaker><通讯框>||:Ha, I get it now. In the end, you're still choosing to run away, Fr FAMAS. +You want to sacrifice yourself to save the colleagues you hate? +But it's all wasted effort, because you can't truly destroy me—
+FAMASHalloween(0)<Speaker>Voice of the Pumpkin Monster</Speaker><scan><通讯框>||:Ha, I get it now. In the end, you're still choosing to run away, Fr FAMAS. +You want to sacrifice yourself to save the colleagues you hate? +But it's all wasted effort, because you can't truly destroy me—
 ()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...The water of the electronic ocean rises over Fr FAMAS' face. +Fr FAMAS feels herself falling downwards.
 FAMASHalloween(0)<Speaker>Voice of the Pumpkin Monster</Speaker>||<BIN>9</BIN><黑屏2>:You and I are... +Two sides of the same coin. +As long as you keep going on like this, I will return to face you again someday.
 Fr FAMAS()||:That's fine... +I simply want to get rid of someone despicable anyway... Just following your suggestion here.

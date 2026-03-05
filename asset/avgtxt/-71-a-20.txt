@@ -94,12 +94,12 @@ NPC-MK18(0)<Speaker>Sonya</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:Frau Nele
 ()<Speaker></Speaker>||<黑屏2><CGDelay>0.5</CGDelay><BIN>757</BIN>:
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:...Beep-beep.+An urgent comms request stops J in his tracks.
 NPC-Keven(6)<Speaker>J</Speaker>||<BGM>Campaion-34</BGM>:Yes?
-NPC-Bodyguard2(0)<Speaker>Agent</Speaker><通讯框>||:<color=#00CCFF>This is our patrol route and schedule for today.</color>+<color=#00CCFF>Here's a pass with your name on it.</color>
-NPC-Keven(14)<Speaker>J</Speaker>;NPC-Bodyguard2(0)<通讯框>||:...
-NPC-Keven(12)<Speaker>J</Speaker><Shake>;NPC-Bodyguard2(0)<通讯框>||<SE1>AVG_Punch_Hit</SE1><震屏3>:<size=50>We are Stasi agents! Not security guards!</size>
-NPC-Keven(12);NPC-Bodyguard2(0)<Speaker>Agent</Speaker><通讯框>||:<color=#00CCFF>But Boss, we got put in charge of patrolling the White Zone...</color>
-NPC-Keven(7)<Speaker>J</Speaker>;NPC-Bodyguard2(0)<通讯框>||:Get a rookie to sub me.
-NPC-Keven(7);NPC-Bodyguard2(0)<Speaker>特工</Speaker><通讯框>||:<color=#00CCFF>Herr Hoffmann said there are fingerprint and retinal scans everywhere here.</color>+<color=#00CCFF>Some areas even require four-factor identity authentication.</color>
+NPC-Bodyguard2(0)<Speaker>Agent</Speaker><scan><通讯框>||:<color=#00CCFF>This is our patrol route and schedule for today.</color>+<color=#00CCFF>Here's a pass with your name on it.</color>
+NPC-Keven(14)<Speaker>J</Speaker>;NPC-Bodyguard2(0)<scan><通讯框>||:...
+NPC-Keven(12)<Speaker>J</Speaker><Shake>;NPC-Bodyguard2(0)<scan><通讯框>||<SE1>AVG_Punch_Hit</SE1><震屏3>:<size=50>We are Stasi agents! Not security guards!</size>
+NPC-Keven(12);NPC-Bodyguard2(0)<Speaker>Agent</Speaker><scan><通讯框>||:<color=#00CCFF>But Boss, we got put in charge of patrolling the White Zone...</color>
+NPC-Keven(7)<Speaker>J</Speaker>;NPC-Bodyguard2(0)<scan><通讯框>||:Get a rookie to sub me.
+NPC-Keven(7);NPC-Bodyguard2(0)<Speaker>特工</Speaker><scan><通讯框>||:<color=#00CCFF>Herr Hoffmann said there are fingerprint and retinal scans everywhere here.</color>+<color=#00CCFF>Some areas even require four-factor identity authentication.</color>
 NPC-Keven(12)<Speaker>J</Speaker><Shake>||:...
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>Rope</SE1>:J rubs his forehead in frustration.
 ()||<黑点1>:

@@ -66,7 +66,7 @@ SSG3000(0)<Speaker>SSG 3000</Speaker>||:Well...how shall I put it... Occupationa
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? Do people really care so much about us? I thought hardly anyone would recognize us since we always carry out ops on our own!
 RO635(0)<Speaker>RO635</Speaker>||:That's enough, SOP-II. No need to mention things that aren't relevant to the mission. +So you're a member of the forward recon team that entered Tallinn, but you're here now... Did you get separated from your teammates?
 SSG3000(0)<Speaker>SSG 3000</Speaker>||:Yes. My friends and I proceeded to Tallinn immediately upon receiving our orders. But we encountered some kind of strange interference...and we lost contact shortly afterwards.
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like our new friends have arrived. </color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like our new friends have arrived. </color>
 ()||:RO635 looks up and sees the silhouettes of M4A1 and ST AR-15 on a peak in the distance.
 SSG3000(0)<Speaker>SSG 3000</Speaker>||<黑屏1>:Are they the other members of the AR Team? If so, how about waiting for them to come over so I can brief you all at once? That way I won't have to repeat myself.
 SSG3000(0)<Speaker>SSG 3000</Speaker>||<黑屏2><BIN>55</BIN>:...And that's what happened.

@@ -75,16 +75,16 @@ AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Commander...
 ()||:I take in Machlian's downcast eyes and pursed lips, I stop ST AR-15, who wants to take over the questioning.
 ()<Speaker>Commander</Speaker>||:That's enough. Let's call it a day.
 ()||<SE1>AVG_tele_connect</SE1>:...The Commander's communicator suddenly rings.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>It's time for our scheduled check-in, Commander.</color> +<color=#00CCFF>How's the mission going? We couldn't send anyone from the base, so I hired Squad 404.</color>
-NPC-Helian(0)<Speaker>Commander</Speaker><通讯框>||:I've already met up with 404. +Oh yes, how's Kalina doing? +Other than the message delivered by 404, I haven't heard from her since leaving the base.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>Her condition is relatively stable for now. Mr. Kryuger has arranged for better medical resources for her.</color> +<color=#00CCFF>I'd say Kalina will be able to resume her duties by the time you get back.</color>
-NPC-Helian(0)<Speaker>Commander</Speaker><通讯框>||:Really? Is Kalina with you right now?
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>You should know that regardless of severity, all ELID patients have to be quarantined.</color>
-NPC-Helian(0)<Speaker>Commander</Speaker><通讯框>||:...
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>Commander, focus on finishing the mission. Mr. Kryuger and I will take care of Kalina.</color>
-NPC-Helian(0)<Speaker>Commander</Speaker><通讯框>||:Got it. +I'll return right away once I finish the mission.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>Please take care of yourself too, Commander.</color>
-NPC-Helian(0)<Speaker>Commander</Speaker><通讯框>||<SE1>AVG_tele_disconnect</SE1>:I will. Tell her to wait for me. I'll be back.
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>It's time for our scheduled check-in, Commander.</color> +<color=#00CCFF>How's the mission going? We couldn't send anyone from the base, so I hired Squad 404.</color>
+NPC-Helian(0)<Speaker>Commander</Speaker><scan><通讯框>||:I've already met up with 404. +Oh yes, how's Kalina doing? +Other than the message delivered by 404, I haven't heard from her since leaving the base.
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>Her condition is relatively stable for now. Mr. Kryuger has arranged for better medical resources for her.</color> +<color=#00CCFF>I'd say Kalina will be able to resume her duties by the time you get back.</color>
+NPC-Helian(0)<Speaker>Commander</Speaker><scan><通讯框>||:Really? Is Kalina with you right now?
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>You should know that regardless of severity, all ELID patients have to be quarantined.</color>
+NPC-Helian(0)<Speaker>Commander</Speaker><scan><通讯框>||:...
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, focus on finishing the mission. Mr. Kryuger and I will take care of Kalina.</color>
+NPC-Helian(0)<Speaker>Commander</Speaker><scan><通讯框>||:Got it. +I'll return right away once I finish the mission.
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>Please take care of yourself too, Commander.</color>
+NPC-Helian(0)<Speaker>Commander</Speaker><scan><通讯框>||<SE1>AVG_tele_disconnect</SE1>:I will. Tell her to wait for me. I'll be back.
 RO635Mod(0)<Speaker>RO635</Speaker>||:Commander, I'm sure Miss Kalina will get better.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...
 ()<Speaker>Commander</Speaker>||<黑屏1>:It's fine. Alright, everyone who's not on duty should go get some rest.

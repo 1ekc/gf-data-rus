@@ -27,9 +27,9 @@ NPC-HK433(3)<Speaker>433</Speaker><Position>0,130</Position>||:Ibis...
 NPC-QBU191(2)<Speaker>No. 388</Speaker><Position>-80,0</Position>||:Sure. Once this is all over, we'll drink together.
 ()||:A familiar face with a familiar smile.
 ()||<SE1>Select</SE1>:No. 388 drags Boys to her side as a hostage and reloads her weapon.
-NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, I heard a gunshot.</color>+<color=#00CCFF>Have you run into enemies?</color>
-NPC-Motoko(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:It's one of my Dolls, but her memories are sealed...
-NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><通讯框>||:<color=#00CCFF>I see. Batou and I are in position.</color>
+NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, I heard a gunshot.</color>+<color=#00CCFF>Have you run into enemies?</color>
+NPC-Motoko(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:It's one of my Dolls, but her memories are sealed...
+NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><scan><通讯框>||:<color=#00CCFF>I see. Batou and I are in position.</color>
 ()<Speaker>Commander</Speaker>||:433, draw her fire and create an opening for the Major and Batou.+Be careful not to harm Boys. I'll cover you.
 NPC-HK433(0)<Speaker>433</Speaker><Position>0,130</Position>||:Roger that.
 ()||<SE1>RunStep</SE1>:433 takes off from the Commander's side without hesitation.

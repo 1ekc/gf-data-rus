@@ -87,9 +87,9 @@ AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:This is the only po
 AK15(6)<Speaker>AK-15</Speaker>||:Understood. I'll cover you.
 ()||:AK-15 crouches down and takes her assault rifle out of the case.
 ()||<SE1>AVG_tele_connect</SE1>:Click. +At the same time, AN-94 gets in touch with Ange.
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>...What is it? What have you found?</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>...What is it? What have you found?</color>
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Miss Ange, a large number of armed personnel is lying in ambush under the research facility. +Please get out immediately. This is a trap.
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>...Got it.</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>...Got it.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:Click. +Ange hangs up.
 AK15(6)<Speaker>AK-15</Speaker>||<BGM>BGM_Empty</BGM>:94.
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Hm?

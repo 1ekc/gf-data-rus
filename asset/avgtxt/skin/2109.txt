@@ -1,5 +1,5 @@
 ()||<BIN>79</BIN><BGM>BGM_Hello</BGM>:I contact EVO 3 after my conversation with SAA.
-EVO3(2)<Speaker>EVO 3</Speaker><通讯框>||:Greetings, Commander.+I take it something has gone wrong with the plan if you're contacting me for no apparent reason?
+EVO3(2)<Speaker>EVO 3</Speaker><scan><通讯框>||:Greetings, Commander.+I take it something has gone wrong with the plan if you're contacting me for no apparent reason?
 指挥官()<Speaker>Commander</Speaker>||:The operation's about to begin, so I wanted to check in on you.
 EVO3(2)<Speaker>EVO 3</Speaker>||:Everything's fine over here so far.
 指挥官()<Speaker>Commander</Speaker>||:Alright, good...

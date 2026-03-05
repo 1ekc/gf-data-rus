@@ -5,7 +5,7 @@
 ()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:......<下雪></下雪>
 ()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE2>Gunfight</SE2>:The sounds of gunfire and glint of bullets cut through the wind and snow.+The chaotic air currents churn the snowflakes into a whirling vortex which then slowly settle back down onto the icy-cold concrete roadblocks.+The silhouettes of two girls vault over a roadblock in rapid succession, then turn around to press their backs against the police car by the side of the road. One of them closes the half-opened driver-side door, and her form is reflected in the window's glass.
 RFB(0)<Speaker>Am RFB</Speaker>||<SE1>Select</SE1>:Hehehe, we're back here again.
-NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, looks like you're close to completing the mission. We'll meet at the rendezvous point as planned. Best of luck.</color>
+NPC-Dima(1)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, looks like you're close to completing the mission. We'll meet at the rendezvous point as planned. Best of luck.</color>
 MDR(0)<Speaker>MDR</Speaker>||:I've heard those words so many times that I feel like they've worn a groove into my neural cloud.
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Hahaha, how would you even put a groove into a neural cloud... +Hey!
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:What?
@@ -14,7 +14,7 @@ RFB(0);MDR(0)<Speaker>MDR</Speaker>||:Come to think of it, how many times has it
 RFB(0)<Speaker>Am RFB</Speaker>;MDR(0)||:Well, it'll be the same no matter where we go. After all, the opposition are a bunch of pretty tough customers.+Let me think... Got it, we'll look for an opportunity to flank them. That way we'll win for sure!
 RFB(0);MDR(0)<Speaker>MDR</Speaker>||:You want the two of us to flank that horde of enemies we're facing?
 RFB(0)<Speaker>Am RFB</Speaker>||:Erm, well, if we had a little more time...
-NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, we're out of time. The JTF chopper is standing by; please inform them of your location with your signal flare and complete the recovery!</color>
+NPC-Dima(1)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, we're out of time. The JTF chopper is standing by; please inform them of your location with your signal flare and complete the recovery!</color>
 RFB(0)<Speaker>Am RFB</Speaker>||:Don't just call up to shoot down my ideas, dammit!
 MDR(0)<Speaker>MDR</Speaker>||:All that bloody woman does is talk over the radio, she doesn't know what the hell we're going through out here... Eeeek!
 ()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Movement</SE1>:A torrent of enemy fire rains down on the cop car which they're using as cover and throws up a shower of sparks. MDR reflexively throws out a seeker mine, which activates and swiftly rolls out from under the vehicle.
@@ -22,7 +22,7 @@ RFB(0)<Speaker>Am RFB</Speaker>||:Nicely done, MDR!
 MDR(0)<Speaker>MDR</Speaker>||:I mean, I'm the one suffering here. Seriously, that was my last one!
 ()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Explosion</SE1>:The moment it explodes, MDR glances at the street opposite the cop car and spots several burly, heavily-armed men there.+They're wearing wristwatches that glow blood red, their movements are swift and coordinated, and all this is being directed by an enemy behind them.+In the same moment, a mechanical noise comes over Am RFB and MDR's shoulders—
 ()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning. High-threat hostile detected.
-NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_The_Division_ISAC_Off</SE1>:<color=#00CCFF>Looks like there's "big trouble" headed your way. Be careful!</color>
+NPC-Dima(1)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_The_Division_ISAC_Off</SE1>:<color=#00CCFF>Looks like there's "big trouble" headed your way. Be careful!</color>
 MDR(0)<Speaker>MDR</Speaker>||:Oh yes, just in time too!
 RFB(0)<Speaker>Am RFB</Speaker>||:Focus your fire on a single target!+If we take them out one after the other, we ought to have a chance...
 ()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning. Vital signs indicate possibility of infection.
@@ -39,7 +39,7 @@ RFB(0)<Speaker>Am RFB</Speaker>||:You're too far out.+Try getting a little close
 ()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:Just as she's about to reach out for MDR's hand, Am RFB hears the sound of heavy breathing from behind her. She instinctively whirls around to face it, but the muzzle of her opponent's gun is already pointed at her.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:...<火焰销毁></火焰销毁>
-NPC-Dima(1)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Unfortunately, Agents, you've failed.</color>+<color=#00CCFF>Hopefully, you'll regroup and try—</color>
+NPC-Dima(1)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Unfortunately, Agents, you've failed.</color>+<color=#00CCFF>Hopefully, you'll regroup and try—</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:—4:36AM, in the Griffin dorms.
@@ -156,11 +156,11 @@ NPC-Kalin(9)<Speaker>Kalina</Speaker>||:S-surely it can't be that. It should be 
 ()<Speaker>ISAC</Speaker>||:Warning. Core temperature has fallen below ideal levels.
 NPC-Kalin(11)<Speaker>Kalina</Speaker>||:Is the game THAT realistic?!
 NPC-Kalin(11)<Speaker>Commander</Speaker>||:I mean, it's snowing really heavily... Though I have to say, the conditions this game is simulating are pretty harsh. Seems worse than the Green Zones.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, this is Dima.</color>+<color=#00CCFF>Things don't seem too bad on your end, but the mission takes priority no matter what. Enter the Dark Zone, obtain the medicine, then withdraw!</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, this is Dima.</color>+<color=#00CCFF>Things don't seem too bad on your end, but the mission takes priority no matter what. Enter the Dark Zone, obtain the medicine, then withdraw!</color>
 NPC-Kalin(11)<Speaker>Kalina</Speaker>;NPC-Dima(1)||:So our mission is to recover medicine?+Speaking of which, who is this Dima person anyway?
-NPC-Kalin(11);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>I am Agent Dima of the Strategic Homeland Division.</color>+<color=#00CCFF>I was only awakened several days ago, but from now on, I will be assisting you in completing this mission.</color>
+NPC-Kalin(11);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>I am Agent Dima of the Strategic Homeland Division.</color>+<color=#00CCFF>I was only awakened several days ago, but from now on, I will be assisting you in completing this mission.</color>
 NPC-Kalin(11);NPC-Dima(1)<Speaker>Commander</Speaker>||:I see, so she's an in-game NPC. She'll probably teach us how to play the game.
-NPC-Kalin(11);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>It seems your ISACs haven't malfunctioned yet, so why not check your status before heading out?</color>+<color=#00CCFF>I will provide more information when the need arises. Good luck, Agents.</color>
+NPC-Kalin(11);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>It seems your ISACs haven't malfunctioned yet, so why not check your status before heading out?</color>+<color=#00CCFF>I will provide more information when the need arises. Good luck, Agents.</color>
 NPC-Kalin(11)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:【Transmission ends.】
 NPC-Kalin(11)<Speaker>Kalina</Speaker>||:By ISAC, was she referring to that AI-like voice?
 ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Intelligent System Analytic Computer is activated. All ISAC systems are confirmed online.+Please begin weapons check....
@@ -173,7 +173,7 @@ NPC-Kalin(13)<Speaker>Kalina</Speaker>||:Don't worry. I don't get a chance to do
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:...<火焰销毁></火焰销毁>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Soon, the sound of crisp gunshots wafts out through the fog.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...</color>+<color=#00CCFF>Unfortunately...</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...</color>+<color=#00CCFF>Unfortunately...</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:—In the Commander's office.
 ()<Speaker>Commander</Speaker>||:...

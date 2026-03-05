@@ -23,7 +23,7 @@ M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Надеюсь, она не 
 FairyWarrior(0)<Speaker>Фея</Speaker><Position>0,150</Position>||:Мы будем отличной командой!
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Ладно, начнем миссию, Фея. Поехали—
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点2><BIN>10</BIN>:Ого... Похоже, враги опять нас опередили... RO, ты видишь скриншоты?
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Дела обстоят не очень хорошо... Они уже выследили его в канализации. А поскольку они больше не на открытом месте, им нечего бояться...</color> +<color=#00CCFF>Нам вдвоём не справиться...</color>
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Дела обстоят не очень хорошо... Они уже выследили его в канализации. А поскольку они больше не на открытом месте, им нечего бояться...</color> +<color=#00CCFF>Нам вдвоём не справиться...</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Тогда что нам делать? Просто смотреть?
 M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Я свяжусь с Командиром... Но сначала давайте посмотрим несколько вариантов развития событий.</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Моделирование сценариев?

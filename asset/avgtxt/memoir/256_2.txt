@@ -40,7 +40,7 @@ VZ61(0)<Speaker>Skorpion</Speaker>||<边框>2</边框>:Hahahaha!
 ()||<黑屏1><边框>2</边框>:
 ()<Speaker>Skorpion&CZ2000</Speaker>||<关闭蒙版><BIN>9</BIN>:<size=50>Hahahahaha!</size>
 ()||<黑屏1>:
-Falcon(0)<Speaker>Falcon</Speaker><通讯框>||<BIN>159</BIN><黑点2><BGM>BGM_Empty</BGM>:<color=#00CCFF>...</color>+<color=#00CCFF>CZ2000? Skorpion?</color>+<color=#00CCFF>What are you laughing at?</color>
+Falcon(0)<Speaker>Falcon</Speaker><scan><通讯框>||<BIN>159</BIN><黑点2><BGM>BGM_Empty</BGM>:<color=#00CCFF>...</color>+<color=#00CCFF>CZ2000? Skorpion?</color>+<color=#00CCFF>What are you laughing at?</color>
 CZ2000(0)<Speaker>CZ2000</Speaker>||:Ah... ahem! Nothing. Stay alert!
 VZ61(0)<Speaker>Skorpion</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Hey, is that autonomous weapon you mentioned ready or not? I can't wait to show off!
 CZ2000(0)<Speaker>CZ2000</Speaker>||:It's been ready for a good while, see?
@@ -65,7 +65,7 @@ VZ61(0)<Speaker>Skorpion</Speaker><Shake>0.1</Shake>||:<size=50>Wah—!</size>
 CZ2000(0)<Speaker>CZ2000</Speaker>||:Yikes—! We-we're so done!
 ()<Speaker></Speaker>||:Facing the overwhelming enemy, the balance inside CZ2000's mind slowly tips from fighting the battle to running away. +Just as this happens, a voice comes through the comms.
 ()||<黑屏1><SE1>AVG_tele_connect</SE1>:
-Falcon(0)<Speaker>Falcon</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:<color=#00CCFF>Leave it to me.</color>
+Falcon(0)<Speaker>Falcon</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:<color=#00CCFF>Leave it to me.</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<震屏3><BGM>10065</BGM><SE1>AVG_rifle_finalshot_h</SE1><BIN>159</BIN>:Bang!
 ()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Wall</SE1>:A sudden shot, followed by the autonomous weapon's disarmament by a single armor-piercing round.

@@ -55,7 +55,7 @@ KSVK(4);FairyTaunt(0)<Speaker>Alarm Clock</Speaker><Position>0,200</Position>||:
 KSVK(4)<Speaker>KSVK?</Speaker>;FairyTaunt(0)<Position>0,200</Position>||<黑屏1>:Now then, let's try something else.+You gave me a hard time, so don't expect to get off easily.+Let's have a look at the data in your main unit...
 KSVK(4)||<BIN>18</BIN><黑屏2><回忆>:The transmission goes through.
 KSVK(4)<Speaker>KSVK?</Speaker>||:Is that QBU-88? +There is something you might covet in tonight's festivities.
-KSVK(4);QBU88(0)<Speaker>QBU-88</Speaker><通讯框>||:<color=#00CCFF>Festivals like these don't mean anything to me. I'm not interested in celebrating them.</color>
+KSVK(4);QBU88(0)<Speaker>QBU-88</Speaker><scan><通讯框>||:<color=#00CCFF>Festivals like these don't mean anything to me. I'm not interested in celebrating them.</color>
 KSVK(4)<Speaker>KSVK?</Speaker>;QBU88(0)||:A 20%-off discount coupon.
 KSVK(4);QBU88(0)<Speaker>QBU-88</Speaker>||<震屏>:<color=#00CCFF>Say whaaaaaaat?!</color>
 KSVK(4)<Speaker>KSVK?</Speaker>;QBU88(0)||:Those who never give anything will never receive anything. There is no escaping this principle during tonight's activities.+Among the prizes which this year's organizers have furnished is a 20%-off discount coupon, valid at all supermarkets.

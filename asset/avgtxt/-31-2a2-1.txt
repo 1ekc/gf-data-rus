@@ -22,7 +22,7 @@ NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:Heeheehee... That's the spirit! I lik
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang bang! Bang bang bang!
 ()<Speaker></Speaker>||:The two exchange fire. +SOP-II's firepower isn't strong enough to actually repel the girl in black, but it's enough to slow her down. +Seizing this opportunity, RO635 retreats with the Chairwoman.
 RO635(4)<Speaker>RO635</Speaker>||:This is RO635! I have rendezvoused with the rescue team and am now trying to evade enemy pursuit!
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker><通讯框>;RO635(4)||:<color=#00CCFF>Received!</color> +<color=#00CCFF>Just head straight to the cathedral! Our assault team has secured the road, but the enemy is relentless in their attacks so we can't hold them off for long!</color>
+NPC-KalinReporter(0)<Speaker>Kalina</Speaker><scan><通讯框>;RO635(4)||:<color=#00CCFF>Received!</color> +<color=#00CCFF>Just head straight to the cathedral! Our assault team has secured the road, but the enemy is relentless in their attacks so we can't hold them off for long!</color>
 RO635(4)<Speaker>RO635</Speaker>||:Roger that! We'll be right there!
 ()<Speaker></Speaker>||<SE1>Explode</SE1>:BOOM!
 ()<Speaker></Speaker>||:The laughter is even more eerie amidst the sound of artillery. +Defending against Nimogen's onslaught, SOP-II has no wish to linger in battle. She creates traps every now and then to put more distance between Nimogen and herself.
@@ -87,7 +87,7 @@ RO635(2)<Speaker>RO635</Speaker>||:The cathedral interior is safe, but we're sti
 NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Commander, we're getting through!
 ()<Speaker></Speaker>||:Click.
 NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:K, do you copy?! +We've already retreated into the cathedral, but the enemy have almost caught up and we don't have much backup to support us! When can we expect someone to assist in our withdrawal?!
-NPC-KalinReporter(0);NPC-Jason(0)<Speaker></Speaker>K<通讯框>||:Pzzzt⁠— +<color=#00CCFF>There are—everywhere in the city—</color> +Pzzzt— +<color=#00CCFF>It's difficult to deploy—</color>
+NPC-KalinReporter(0);NPC-Jason(0)<Speaker></Speaker>K<scan><通讯框>||:Pzzzt⁠— +<color=#00CCFF>There are—everywhere in the city—</color> +Pzzzt— +<color=#00CCFF>It's difficult to deploy—</color>
 NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:That's exactly why we need reinforcements! +What are our new orders? Also, there are civilians and children here; without support, they'll—
 ()<Speaker></Speaker>||:—The transmission gets cut off.
 NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Goddammit! This broken piece of junk isn't working when it counts! +Was it damaged on our way here...? There should be some spare parts... +Commander? What do we do now? Looks like we won't be getting reinforcements for a while...

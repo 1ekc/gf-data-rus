@@ -80,10 +80,10 @@ M1919A4(0)<Speaker>M1919A4</Speaker>||:...
 ()||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_2022Saros_SCARH2</SE1>:Sofia pulls her trigger almost simultaneously!
 ()||<黑屏1>:
 ()||<黑屏2><BIN>1</BIN><BGM>BGM_Truth</BGM>:
-Type100(0)<Speaker>100 Shiki</Speaker><通讯框>||:We have shut down the signal jammer.
+Type100(0)<Speaker>100 Shiki</Speaker><scan><通讯框>||:We have shut down the signal jammer.
 FP6(0)<Speaker>FP-6</Speaker>||:Roger, please keep searching...
 FP6(0)<Speaker>FP-6</Speaker>||<SE1>AVG_Camera_Focus</SE1>:I've found M1919A4's signal! +300 meters northeast from my current position!
-Type100(0)<Speaker>100 Shiki</Speaker><通讯框>||:I'm driving over to you right now—
+Type100(0)<Speaker>100 Shiki</Speaker><scan><通讯框>||:I'm driving over to you right now—
 ()||<SE2>Gunfight</SE2>:Bang, bang, bang—Gunshots ring out continuously in the distance!
 FP6(0)<Speaker>FP-6</Speaker>||:It's from M1919A4's direction, hurry up!
 ()||<黑屏1>:

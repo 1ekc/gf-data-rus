@@ -12,7 +12,7 @@ IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN>:...Тогда зачем ты
 AUG()<Speaker>AUG</Speaker>||<BIN>9</BIN>:Я дала обещание.
 IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN>:Обещание?
 AUG()<Speaker>AUG</Speaker>||<BIN>9</BIN>:Нам нужно кое-что вернуть.
-Glock17(0)<Speaker>G17</Speaker><通讯框>||<BIN>9</BIN>:Приветствуем фройляйн IWS. Мы готовы.
+Glock17(0)<Speaker>G17</Speaker><scan><通讯框>||<BIN>9</BIN>:Приветствуем фройляйн IWS. Мы готовы.
 IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN>:... +Понятно. Тогда я оставляю это на твое усмотрение. +Пошли, AUG. Предупреждающее сообщение для Командира готово?
 ()<Speaker>AUG</Speaker>||<BIN>9</BIN>:В тот момент, когда ты это отправишь, я буду сильнее всего тебя ненавидеть. +... Не вовремя.
 IWS2000()<Speaker>IWS 2000</Speaker>||<BIN>9</BIN>:Что?

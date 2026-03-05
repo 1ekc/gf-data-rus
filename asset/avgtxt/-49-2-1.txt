@@ -56,11 +56,11 @@ KP31(2)<Speaker>Suomi</Speaker>||:...
 KP31(8)<Speaker>Suomi</Speaker><Shake>0.1</Shake>||<BGM>GF_EV3_Bingocard_loop</BGM><震屏3>:<size=50>Aaaaaaaah!</size> +What the heck happened?! Why is there a girl in my bed?! +Who the hell is she? Is she still alive...? +What on earth did I do last night?!
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:After a few deep breaths, she calls Kalina.
 KP31(8)<Speaker>Suomi</Speaker>||:Miss Kalina, what  exactly happened last night?
-KP31(8);NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Last night? After you got completely smashed, you climbed onto the bar table and started singing. Then I had someone carry you back to your dorm.</color>
-KP31(8)<Speaker>Suomi</Speaker>;NPC-Kalin(0)<通讯框>||:What did I sing— Doesn't matter. Who's this girl lying in my bed?
-KP31(8);NPC-Kalin(2)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>There's a girl in your bed?! Oh my god, you're right! Who is she?</color>
-KP31(8)<Speaker>Suomi</Speaker>;NPC-Kalin(2)<通讯框>||:... +Nevermind. Bye, Miss Kalina.
-NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Please tell me when you find out who—</color>
+KP31(8);NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Last night? After you got completely smashed, you climbed onto the bar table and started singing. Then I had someone carry you back to your dorm.</color>
+KP31(8)<Speaker>Suomi</Speaker>;NPC-Kalin(0)<scan><通讯框>||:What did I sing— Doesn't matter. Who's this girl lying in my bed?
+KP31(8);NPC-Kalin(2)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>There's a girl in your bed?! Oh my god, you're right! Who is she?</color>
+KP31(8)<Speaker>Suomi</Speaker>;NPC-Kalin(2)<scan><通讯框>||:... +Nevermind. Bye, Miss Kalina.
+NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Please tell me when you find out who—</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Suomi terminates the call and stares helplessly at the stranger in her bed. +Her face is obscured by her soft long hair, and Suomi does not want to risk waking her up by sweeping her hair away.
 KP31(10)<Speaker>Suomi</Speaker>||:My memory of last night hasn't been processed probably due to the influence of alcohol. +But it should still be stored within my neural cloud...
 ()||<黑屏1>:

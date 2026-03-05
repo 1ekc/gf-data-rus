@@ -28,25 +28,25 @@ M4A1Mod(0)<Speaker>M4A1</Speaker>||:Oh...right. +Commander, this is M4. Please a
 M4A1Mod(0)<Speaker>Commander</Speaker>||<BGM>BGM_Wake</BGM>:<color=#00CCFF>M4, we got in touch with Miss Persica. She...wants a word with you.</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:Persica?! You've finally been able to re-establish contact?
 M4A1Mod(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>She's all yours.</color>
-M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Ahem...right...uh...</color> +<color=#00CCFF>M4... It's been a while...</color>
+M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Ahem...right...uh...</color> +<color=#00CCFF>M4... It's been a while...</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Persica(0)||:Persica! Are you alright? Did anyone give you a hard time?
-M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Huh...? Oh, I-I'm fine. I was under confinement for a while, but I'm quite safe for the moment.</color>
+M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Huh...? Oh, I-I'm fine. I was under confinement for a while, but I'm quite safe for the moment.</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Persica(0)||:I'm very glad to hear that...
-M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I'm the one who's glad.</color>+<color=#00CCFF>I thought...you wouldn't want to talk to me. But you don't seem to resent me...</color>+<color=#00CCFF>Anyway, I'm sure you've already sensed the presence of some strange signal sources in the city. They must've been trying to force a connection with you...</color>
+M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I'm the one who's glad.</color>+<color=#00CCFF>I thought...you wouldn't want to talk to me. But you don't seem to resent me...</color>+<color=#00CCFF>Anyway, I'm sure you've already sensed the presence of some strange signal sources in the city. They must've been trying to force a connection with you...</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Persica(0)||:!!! +(When did she notice?)
-M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>These signal sources bother me...</color>
+M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>These signal sources bother me...</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Persica(0)||:Do you also want me to connect with them?
-M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>"Also?"</color>
+M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>"Also?"</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Persica(0)||:No...it's nothing...
-M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>However, the connections are only strong enough for recon purposes at the moment, so we can't be sure what exactly you will find in this network in Tallinn...</color>
+M4A1Mod(0);NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>However, the connections are only strong enough for recon purposes at the moment, so we can't be sure what exactly you will find in this network in Tallinn...</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:I understand. Even if it's a trap, I should be able to get out. Don't worry, I've done this before. +I was already thinking about doing some reconnaissance, but I haven't made up my mind. If I have the Commander's permission, I'll get started at once.
 M4A1Mod(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>We do need more information.</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:Order received. We will carry out the mission after some preparation. M4 out.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<BGM>BGM_Empty</BGM><BIN>202</BIN><黑点2><SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>...</color> +<color=#00CCFF>Didn't M4...seem a bit odd...?</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM><BIN>202</BIN><黑点2><SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>...</color> +<color=#00CCFF>Didn't M4...seem a bit odd...?</color>
 NPC-Persica(0)<Speaker>Commander</Speaker>||:As you said before, she's carrying a very heavy burden, but no one else can help her. +Let's hope she can find the answer that she seeks.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Ever since her encounter with Elisa, her neural cloud hasn't been quite stable. Even though I unsealed everything in her neural cloud, it might actually have done her more harm than good...</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Ever since her encounter with Elisa, her neural cloud hasn't been quite stable. Even though I unsealed everything in her neural cloud, it might actually have done her more harm than good...</color>
 NPC-Persica(0)<Speaker>Commander</Speaker>||:Why is that?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>I've been giving a lot of thought to the nature of the Parapluie virus... When she connects with the signal sources, Squad 404 should be able to intercept the data in there... I hope my suspicions are wrong.</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>I've been giving a lot of thought to the nature of the Parapluie virus... When she connects with the signal sources, Squad 404 should be able to intercept the data in there... I hope my suspicions are wrong.</color>
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BIN>197</BIN><黑屏2><BGM>BGM_Pervaded</BGM>:New orders?
 AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:A mission from Miss Persica and the Commander. They want me to connect with the unknown signal sources and gather as much information as possible.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:How is Miss Persica doing?
@@ -89,7 +89,7 @@ M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:Got it, I'll be right back.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Alright, we're on her Level II. Let's see what we can find...
 ()<Speaker></Speaker>||:Before she can even finish her sentence, UMP45 catches sight of who M4 is conversing with and is quite taken aback.
 ()<Speaker></Speaker>||<闪屏><duration>5</duration><rate>10</rate></闪屏><SE1>AVG_whitenoise</SE1>:Pzzzt!
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||<闪屏><duration>5</duration><rate>10</rate></闪屏>:<color=#00CCFF>What the?? I can't maintain this dataflow with such a heavy load! The connection is breaking—</color>
+UMP9Mod(0)<Speaker>UMP9</Speaker><scan><通讯框>||<闪屏><duration>5</duration><rate>10</rate></闪屏>:<color=#00CCFF>What the?? I can't maintain this dataflow with such a heavy load! The connection is breaking—</color>
 ()<Speaker></Speaker>||:UMP45 isn't too bothered by the abrupt disconnection with UMP9. She merely continues to wander around M4's Level II with caution.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:As I expected, 9's processing speed still isn't able to catch up with the frequency of this place even after a neural upgrade. Still, it's for the better. She'll be safer this way.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:What kind of signal sources can achieve such data density of such high frequency...? +And now that I think about it...

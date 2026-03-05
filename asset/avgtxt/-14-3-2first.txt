@@ -10,7 +10,7 @@ PP90(0)<Speaker>少女的声音？</Speaker>||:啊，听到了，说起来……
 PP90(0)<Speaker>琪亚娜</Speaker>||:什么？你们的指挥官也是个女孩子吗？
 Vector(0)<Speaker>Vector</Speaker>||:等等，这个声音不是指挥官，是……+……是谁来着？
 PP90(0)<Speaker>PP90</Speaker>||:喂！FN57！你怎么会在这里！
-PP90(0);FN57(0)<Speaker>FN57</Speaker><通讯框>||:啊，抱歉，由于现在是特殊情况嘛……长话短说，你们现在暂时被我接管了。
+PP90(0);FN57(0)<Speaker>FN57</Speaker><scan><通讯框>||:啊，抱歉，由于现在是特殊情况嘛……长话短说，你们现在暂时被我接管了。
 PP90(0)<Speaker>PP90</Speaker>;FN57(0)||:什、什么？
 PP90(0);FN57(0)<Speaker>FN57</Speaker>||:很抱歉，你们应该才刚刚逃出来吧？虽然不知道是怎么做到的，不过还真是走运呢。+但是，我们现在真的很缺人手啊，所以不好意思喽。+而且我的命令是经过上级特许的，证明材料已经发给你了。
 PP90(0)<Speaker>PP90</Speaker>;FN57(0)||:可是！我们刚刚才死里逃生呢，外面还全是尸潮，居然要我们现在出去！+指挥官在哪里？请让我和指挥官说话！
@@ -24,7 +24,7 @@ PP90(0);FN57(0)<Speaker>FN57</Speaker>||:没错，这件事十分十分紧急，
 PP90(0)<Speaker></Speaker>||:…………FN57结束了通讯。
 PP90(0)<Speaker>PP90</Speaker>||:这到底是……怎么回事……+（叹气）不管怎样，只能硬着头皮上了吧……+不过FN57小姐出现的话，就说明了……
 Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:PP90，那个小个子人类，就是这次的驱逐目标吗？
-Theresa(0)<Speaker></Speaker><通讯框>||<黑屏2><BIN>9</BIN>:……Vector指着屏幕上白发少女的电子头像。
+Theresa(0)<Speaker></Speaker><scan><通讯框>||<黑屏2><BIN>9</BIN>:……Vector指着屏幕上白发少女的电子头像。
 PP90()<Speaker>PP90</Speaker>||:嗯……应该没错吧？+不过……是个小孩子？
 Vector()<Speaker>Vector</Speaker>||:哼，引发上次世界大战的事件，也是从几个小孩子开始的……+琪亚娜小姐，你怎么了？
 琪亚娜()<Speaker>琪亚娜</Speaker>||<黑屏1>:…………+不、不会吧……+德丽莎……学园长？

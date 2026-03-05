@@ -28,22 +28,22 @@ R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Holy... That scared th
 K5(0)<Speaker>K5</Speaker>||:Haha, you looked so lame.
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Hey! You think this is funny? I thought that was the end for me!
 K5(0)<Speaker>K5</Speaker>||:Relax. It turned out alright in the end, didn't it? +At least the enemy's been repelled and we're safe! +Aren't we, Miss Dima?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Please retain your composure at all times, Agents.</color>+<color=#00CCFF>A cool head is the key to victory.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Please retain your composure at all times, Agents.</color>+<color=#00CCFF>A cool head is the key to victory.</color>
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:She's talking like it isn't any of her business... Forget it. I think I just heard an explosion. What happened?
 K5(0)<Speaker>K5</Speaker>||:I'm not too sure either. Want to go check it out?
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Nah, I don't want to get caught up in troublesome stuff again. +Let's just move along and meet up with Vivi. +She'll nag us if we're late for the rendezvous.
 K5(0)<Speaker>K5</Speaker>||:True, that. +I'll contact her. +Vivi... Vivi! Do you read me? +How are things on your end?
-Vector(0)<Speaker>Vector</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is Vector, the enemy got away. How about you?</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is Vector, the enemy got away. How about you?</color>
 K5(0)<Speaker>K5</Speaker>||:I just rescued R93. +You won't believe how pathetic she looked while being chased by the enemy, it was hilarious!
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Shut up! I've had enough bad luck for one day!
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Thank goodness, it seems you're both alright.</color>+<color=#00CCFF>Were you attacked just now? Who was the enemy?</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||:<color=#00CCFF>Thank goodness, it seems you're both alright.</color>+<color=#00CCFF>Were you attacked just now? Who was the enemy?</color>
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:They're long gone, probably because they lost one of their people.
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>I see... Was your opponent from Griffin too?</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||:<color=#00CCFF>I see... Was your opponent from Griffin too?</color>
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Sorry, I got flashbanged before I could see them...
 K5(0)<Speaker>K5</Speaker>||:<color=#00CCFF>I did I did! I saw her!</color>+<color=#00CCFF>I've never met her at Griffin before, but her silver hair and lime green eyes were very striking!</color>
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Silvery hair and lime green eyes...?</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||:<color=#00CCFF>Silvery hair and lime green eyes...?</color>
 K5(0)<Speaker>K5</Speaker>||:Is something wrong?
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>I think we encountered the same enemy, but it's strange... How did she appear in two different places within such a short time frame..?</color>+<color=#00CCFF>I'm heading over to you ASAP. Be careful.</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>I think we encountered the same enemy, but it's strange... How did she appear in two different places within such a short time frame..?</color>+<color=#00CCFF>I'm heading over to you ASAP. Be careful.</color>
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Don't worry, at least there won't be anyone else coming...
 K5(0)<Speaker>K5</Speaker>||<BGM>BGM_Empty</BGM>:...R93.
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:What? I'm still talking to Vivi.
@@ -55,7 +55,7 @@ R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:What?!
 ()||<SE1>AVG_rifle_finalshot_h</SE1>:Bang—
 K5(0)<Speaker>K5</Speaker>||:R93!!!
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Ehhh?!
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Those gunshots, is it her again?!</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||:<color=#00CCFF>Those gunshots, is it her again?!</color>
 K5(0)<Speaker>K5</Speaker>||:Hang on, let me take a look...+Eh?! That...that's... Aaaahhhh!
 ()||:As Vector(?) reveals herself, R93 and K5 suddenly realize that they have been surrounded by rogue agents.
 Vector(6)<Speaker>Vector?</Speaker>||:Kill them.
@@ -69,9 +69,9 @@ UMP45Mod(0)<Speaker>UMP45</Speaker>||:It's definitely fishy. Who knows if—
 ()||:Before 45 can even finish, the nearby battle has kicked off with a gunshot. +Like 45 has foretold, R93 and K5's luck finally runs out — within a few seconds, they are swarmed by rogue agents in a corner of the abandoned city.
 ()<Speaker>System</Speaker>||:X Hellfire has killed Good Luck Doesn't Last. +X Hellfire has killed Philosopher Fairy.
 HK416Mod(0)<Speaker>416</Speaker>||:Hell...fire?! +What the hell is going on?!
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>...The situation is extremely dangerous, Agents.</color>+<color=#00CCFF>Please leave the scene immediately.</color>+<color=#00CCFF>I repeat, Agents! Please leave the scene immediately!</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>...The situation is extremely dangerous, Agents.</color>+<color=#00CCFF>Please leave the scene immediately.</color>+<color=#00CCFF>I repeat, Agents! Please leave the scene immediately!</color>
 HK416Mod(0)<Speaker>416</Speaker>||:Do you know what's going on?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>The enemy is extremely powerful, Agents.</color>+<color=#00CCFF>Do not clash with her. While she hasn't noticed you yet...</color>+<color=#00CCFF>Head to the Dark Zone right away!</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>The enemy is extremely powerful, Agents.</color>+<color=#00CCFF>Do not clash with her. While she hasn't noticed you yet...</color>+<color=#00CCFF>Head to the Dark Zone right away!</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:A very practical proposition.+Leaving that weirdo aside, that huge pack of mobs around her is enough to get rid of us. +Looks like no amount of luck would be enough to deal with them...
 ()||:45's voice suddenly trails off. She looks at 416 with a shifty gaze. There's no telling what she has in mind.
 HK416Mod(0)<Speaker>416</Speaker>||:...What's with that weird look?
@@ -108,7 +108,7 @@ HK416Mod(0)<Speaker>416</Speaker>||:You've got to be kidding me!! Don't think I'
 ()||<SE2>Gunfight</SE2>:Bang bang—!
 ()||:The moment the stun debuff wears off, 416 realizes that she won't be able to escape Hellfire unscathed and resolves to fight. +Though this was not her original decision, the old habits from when she was a professional elite Doll are deeply ingrained in her. +She reacts swiftly, dispensing a hail of blinding gunfire from her weapon's chamber, and in moments she has pulled away from Hellfire.
 HK416Mod(0)<Speaker>416</Speaker>||:I knew it... This isn't Vector! +Is she another Doll of the same model? +Hey! Do you know anything about this?!
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Do not engage!</color>+<color=#00CCFF>I repeat! Withdraw swiftly—</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Do not engage!</color>+<color=#00CCFF>I repeat! Withdraw swiftly—</color>
 HK416Mod(0)<Speaker>416</Speaker>||:Cut the crap! I'd disengage if I could!
 ()||<SE1>Explode</SE1>:Boom!
 HK416Mod(0)<Speaker>416</Speaker>||:(Grunts) Tsk! Forget it! +Now's not the time to be distracted, there's way too many of them here!

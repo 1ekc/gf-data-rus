@@ -1,10 +1,10 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><SE1>AVG_21Winter_Subway</SE1>:In an underground passage of an old Berlin U-Bahn station.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>Yo, Commander.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:45, how are things?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Scared the crap out of me.</color> +<color=#00CCFF>Turns out it WAS real. 9 and I found lots of explosives, enough to bring the whole place down.</color> +<color=#00CCFF>I've recorded the locations; I'll send them to you afterwards.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:...Got it. +The AR Team and I have arrived, we're going to defuse them right now.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Be careful.</color> +<color=#00CCFF>Gr G11 and 416 found lots of those White Faction soldiers.</color> +<color=#00CCFF>Looks like they've been waiting there for a long time, because they stink.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>Yo, Commander.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:45, how are things?
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Scared the crap out of me.</color> +<color=#00CCFF>Turns out it WAS real. 9 and I found lots of explosives, enough to bring the whole place down.</color> +<color=#00CCFF>I've recorded the locations; I'll send them to you afterwards.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:...Got it. +The AR Team and I have arrived, we're going to defuse them right now.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Be careful.</color> +<color=#00CCFF>Gr G11 and 416 found lots of those White Faction soldiers.</color> +<color=#00CCFF>Looks like they've been waiting there for a long time, because they stink.</color>
 M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:There they are! +The Paradeus forces are over there!
 ()<Speaker></Speaker>||:SOP-II bares her teeth, eager to be let off the leash.
 NPC-Machlian(6)<Speaker>Machlian</Speaker>||:...

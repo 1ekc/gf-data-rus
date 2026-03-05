@@ -3,11 +3,11 @@
 ()<Speaker>Purin Esaki</Speaker>||:How long are you going to keep running, Commander?
 ()||:Hiding behind the temporary barricade that 433 and QBU-191 built using redundant data, the Commander watches Purin cautiously from a distance.
 ()<Speaker>Commander</Speaker>||:...+Major, do you copy?
-NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The signal is still pretty clear. Good thing the encrypted channel is still working.</color>
-NPC-Motoko(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:How are things on your end?
-NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><通讯框>||:<color=#00CCFF>You're the one she's after, so we're relatively safe for now.</color>+<color=#00CCFF>Should we come over to give you a hand? It'll take us about five minutes to reach you.</color>
-NPC-Motoko(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Let's regroup first. She's got too much firepower. We haven't been able to find an opening yet, so I advise against moving in now.
-NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><通讯框>||:<color=#00CCFF>Understood.</color>
+NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The signal is still pretty clear. Good thing the encrypted channel is still working.</color>
+NPC-Motoko(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:How are things on your end?
+NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><scan><通讯框>||:<color=#00CCFF>You're the one she's after, so we're relatively safe for now.</color>+<color=#00CCFF>Should we come over to give you a hand? It'll take us about five minutes to reach you.</color>
+NPC-Motoko(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Let's regroup first. She's got too much firepower. We haven't been able to find an opening yet, so I advise against moving in now.
+NPC-Motoko(0)<Speaker>Motoko Kusanagi</Speaker><scan><通讯框>||:<color=#00CCFF>Understood.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:After ending the call, the Commander realizes that Purin is nowhere to be seen.
 ()<Speaker>Commander</Speaker>||:Where has she gone?
 NPC-HK433(0)<Speaker>433</Speaker><Position>0,130</Position>||:She went in the Major and Batou's direction. They'll probably miss each other.
@@ -94,10 +94,10 @@ NPC-Purin(3)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position>||:What are
 NPC-Purin(3)<Speaker>Purin Esaki</Speaker><Position>-50,50</Position>||:Then why are you doing this to me?
 NPC-Purin(3)<Speaker>Commander</Speaker><Position>-50,50</Position><同时置暗>||:Because the Purin I know is a strong and tenacious person who never runs away. No matter what obstacles are in her way, she just charges at them head on...+And if she trips and falls, she just eats some pudding and finds hope again.+But not you. You are nothing but a delusional phantom that skulks in falsehood.
 ()||:"Purin" cowers on the floor and reaches out to grasp at the Commander.
-NPC-HK433(0)<Speaker>433</Speaker><通讯框>||:<color=#00CCFF>Commander, our attack was effective!</color>
-NPC-HK433(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Yes, I can see that. It was most timely.
-NPC-HK433(0)<Speaker>433</Speaker><通讯框>||:<color=#00CCFF>Should we initiate another attack?</color>
-NPC-HK433(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:There's no need for that. Leave the rest to me.
+NPC-HK433(0)<Speaker>433</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, our attack was effective!</color>
+NPC-HK433(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Yes, I can see that. It was most timely.
+NPC-HK433(0)<Speaker>433</Speaker><scan><通讯框>||:<color=#00CCFF>Should we initiate another attack?</color>
+NPC-HK433(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:There's no need for that. Leave the rest to me.
 NPC-Purin(3)<Speaker>？江崎普林</Speaker><Position>-50,50</Position>||:Commander, save me...+There are so many things I want to do... I want to run that little shop with you, eat pudding with you...
 ()||<SE1>Select</SE1>:The Commander raises their gun.
 ()<Speaker>Commander</Speaker>||:You don't even understand what the pudding stands for.

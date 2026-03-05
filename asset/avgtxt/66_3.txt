@@ -22,7 +22,7 @@
 56-1type(0);97typeSMod(0)<Speaker>Type 97S</Speaker>||:Okay, got it. Good luck, then.
 56-1type(0)<Speaker>Type 56-1</Speaker>||:(Sob) Aw, don't say that, it's way better than a few days ago; the entire site just froze up. +Endurance is victory, and victory lies ahead!
 ()||<SE1>AVG_tele_connect</SE1>:As if in response to her hotblooded cry, Type 56-1's communicator beeps.
-92typeMod(0)<Speaker>Type 92</Speaker><通讯框>||:<color=#00CCFF>You're up? See you at the usual place.</color>
+92typeMod(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>You're up? See you at the usual place.</color>
 56-1type(0)<Speaker>Type 56-1</Speaker>||:Okay...
 ()||<SE1>AVG_tele_disconnect</SE1>:Type 56-1 instantly wilts.
 97typeSMod(0)<Speaker>Type 97S</Speaker>||:Where are you going now?

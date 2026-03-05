@@ -56,25 +56,25 @@ Carcano1938(0)<Speaker>Carcano M91/38</Speaker>||:...
 ()<Speaker>Commander</Speaker>||:Henrietta?
 ()||:... +No answer.
 ()<Speaker>Commander</Speaker>||:So it was really her? +Kalin, are you there?
-NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Bad news, Commander!</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Bad news, Commander!</color>
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:<color=#00CCFF>What's wrong?</color>
-NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Someone interfered with the Vita from the outside by force and altered the pre-established script.</color> +<color=#00CCFF>If Pinocchio realizes that she isn't Pinocchio, the logic in the story will become inconsistent and the Vita will collapse in on itself!</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Someone interfered with the Vita from the outside by force and altered the pre-established script.</color> +<color=#00CCFF>If Pinocchio realizes that she isn't Pinocchio, the logic in the story will become inconsistent and the Vita will collapse in on itself!</color>
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:<color=#00CCFF>What happens if it collapses?</color>
-NPC-Kalin(7)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>If you don't come out soon, there won't be an exit once it falls apart, and you're all going to be trapped in there for good!</color>
+NPC-Kalin(7)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>If you don't come out soon, there won't be an exit once it falls apart, and you're all going to be trapped in there for good!</color>
 NPC-Kalin(7)<Speaker>Commander</Speaker>||:<color=#00CCFF>What? But didn't you say these Vitas aren't susceptible to external influences?</color>
-NPC-Kalin(7)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Technically, you can modify a Vita from the outside if you don't care about the consequences...</color> +<color=#00CCFF>But if this Vita operates on the same principle as Rico's, then the events are being simulated using Ceno's neural cloud.</color> +<color=#00CCFF>Doing something so reckless to an operating neural cloud could cause a meltdown in the worst case!</color>
+NPC-Kalin(7)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Technically, you can modify a Vita from the outside if you don't care about the consequences...</color> +<color=#00CCFF>But if this Vita operates on the same principle as Rico's, then the events are being simulated using Ceno's neural cloud.</color> +<color=#00CCFF>Doing something so reckless to an operating neural cloud could cause a meltdown in the worst case!</color>
 NPC-Kalin(7)<Speaker>Commander</Speaker>||:<color=#00CCFF>Crap...</color>
-NPC-Kalin(7)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Rico's Vita also showed signs of having been tampered with, and Henrietta has been acting pretty weird.</color> +<color=#00CCFF>Commander, do you think...</color>
+NPC-Kalin(7)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Rico's Vita also showed signs of having been tampered with, and Henrietta has been acting pretty weird.</color> +<color=#00CCFF>Commander, do you think...</color>
 NPC-Kalin(7)<Speaker>Commander</Speaker>||:<color=#00CCFF>Let's not make any assumptions yet.</color> +<color=#00CCFF>Is there a way that can speed up our progress and help us reach the ending faster?</color>
-NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>According to the original plot, after suffering a defeat, Triela trains with the special forces and beats Pinocchio during their next encounter.</color> +<color=#00CCFF>But looking at how rapidly this virtual space is deteriorating, I doubt you'll have the time for that much plot development.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>According to the original plot, after suffering a defeat, Triela trains with the special forces and beats Pinocchio during their next encounter.</color> +<color=#00CCFF>But looking at how rapidly this virtual space is deteriorating, I doubt you'll have the time for that much plot development.</color>
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:<color=#00CCFF>Any suggestions?</color>
-NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>If you can somehow fulfill the condition for the story to end without going through all that, I might be able to find a way to get you out sooner.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>If you can somehow fulfill the condition for the story to end without going through all that, I might be able to find a way to get you out sooner.</color>
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:<color=#00CCFF>In other words, we simply have to defeat Ceno...no, Pinocchio, right?</color>
-NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>I feel a bit sorry for her, but that's probably the quickest way.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>I feel a bit sorry for her, but that's probably the quickest way.</color>
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:<color=#00CCFF>Will this affect her in any way?</color>
-NPC-Kalin(8)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Not physically; it's a virtual world, after all. But I can't guarantee she won't bear a grudge against you for that.</color>
+NPC-Kalin(8)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Not physically; it's a virtual world, after all. But I can't guarantee she won't bear a grudge against you for that.</color>
 NPC-Kalin(8)<Speaker>Commander</Speaker>||:<color=#00CCFF>Ugh...</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Just kidding. Once she recovers her memory, I'll explain everything to her, so just bring that story to an end already.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Just kidding. Once she recovers her memory, I'll explain everything to her, so just bring that story to an end already.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>You make it sound so easy...</color>
 ()||:I watch helplessly as Ceno gets farther and farther away.
 ()<Speaker>Commander</Speaker>||<震屏3>:There's no way I can catch up to her!

@@ -76,7 +76,7 @@ NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:Sangvis Ferri just abandoned the c
 AN94(0)<Speaker>AN-94</Speaker>||:I just received a report from AR-15. +She and M4A1, along with the Griffin Commander's remaining forces, are guarding it.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:I see... +So they've deviated from the initial plan. Then we've got to destroy the core now.
 ()||<BGM>BGM_Empty</BGM>:...An incoming transmission.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>I gather you have retrieved the Pike Node?</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>I gather you have retrieved the Pike Node?</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:Yep, exactly as you wished. +We shall now proceed to destroy it.
 NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Change of plan, Ange.</color> +<color=#00CCFF>Do not destroy the Pike Node. Have it transported to me.</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:What?!

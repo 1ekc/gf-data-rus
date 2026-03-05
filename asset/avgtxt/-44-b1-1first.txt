@@ -20,7 +20,7 @@ NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:A laughable performance, ladies. 
 ()<Speaker>System</Speaker>||<SE1>Stop_AVG_loop</SE1>:<color=#FFFF00>Signals lost from four Dolls. One Doll is unable to move.</color> +<color=#FFFF00>Combat Simulation No. 5 - Failed. Difficulty - Normal. Time elapsed - 5 minutes. Distance travelled - 1000m. System grading - C.</color> +<color=#FFFF00>Restarting Combat Simulation. All four Doll positions have been reset.</color> +<color=#FFFF00>Beginning Combat Simulation No. 6. </color>
 SL8(3)<Speaker>Gr SL8</Speaker>||<BGM>BGM_Empty</BGM>:Huh? It's over? But I didn't even move...
 VHS(0)<Speaker>VHS</Speaker>||<BGM>BGM_Sneak</BGM>:...Please pause this. We need to do a review.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Exiting simulation mode. </color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Exiting simulation mode. </color>
 ()||<黑屏2><BIN>73</BIN>:The Squad Puzzle Dolls disconnect from the simulator and rise from their seats.
 VHS(0)<Speaker>VHS</Speaker>||:In this last battle, we encountered the elite enemy unit Mercurows. +She is an extremely skilled hacker. On top of that, she can restrain a single target and limit our ability to deal damage.
 M200(0)<Speaker>M200</Speaker>||:Maybe we could use a drone as bait or have someone volunteer to take the attack while the others open fire while she is restrained?
@@ -45,6 +45,6 @@ NytoIsomer(3)<Speaker>Dandelion</Speaker>||:Do you really wish to continue?
 ()<Speaker>Commander</Speaker>||:Yes. However, things can't go on like this. I need to think of a way to speed up the process.
 NytoIsomer(3)<Speaker>Dandelion</Speaker>||:What do you mean?
 ()<Speaker>Commander</Speaker>||:Let me speak to them. +Squad Puzzle, can you hear me?
-VHS(0)<Speaker>VHS</Speaker><通讯框>||:<color=#00CCFF>Loud and clear.</color>
-VHS(0)<Speaker>Commander</Speaker><通讯框>||:I'll be directing the battle this time.
+VHS(0)<Speaker>VHS</Speaker><scan><通讯框>||:<color=#00CCFF>Loud and clear.</color>
+VHS(0)<Speaker>Commander</Speaker><scan><通讯框>||:I'll be directing the battle this time.
 VHS(0)<Speaker>VHS</Speaker>||<黑屏1>:<color=#00CCFF>...Understood.</color> +<color=#00CCFF>Squad Puzzle standing by! Ready for orders, Commander!</color>

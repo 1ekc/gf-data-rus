@@ -1,7 +1,7 @@
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()||<BGM>BGM_Pervaded</BGM><黑屏2><BIN>55</BIN>:...In the power plant district on the border of Tallinn.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Status report, 9.
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>(Grunts) Right, I'm in.</color> +<color=#00CCFF>It went more smoothly than I'd expected. There weren't too many obstacles in the underground sewers. </color> +<color=#00CCFF>We should be able to avoid most of the defenses on the way to the power plant by going through here.</color>
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>(Grunts) Right, I'm in.</color> +<color=#00CCFF>It went more smoothly than I'd expected. There weren't too many obstacles in the underground sewers. </color> +<color=#00CCFF>We should be able to avoid most of the defenses on the way to the power plant by going through here.</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Alright, then we'll come after you. 416, keep an eye on Gr G11 and bring up the rear.
 HK416Mod(0)<Speaker>416</Speaker>||:I may be decked with new equipment, but I'm still doing the same janitor's work...
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Exactly. I'm going on ahead.
@@ -9,17 +9,17 @@ HK416Mod(0)<Speaker>416</Speaker>||:Tsk... Hey, wake up!
 G11(3)<Speaker>Gr G11</Speaker><Shake>||:(Snores) ...Ow, that hurt! +What the heck?! What was that for? Isn't it Sunday today?
 HK416Mod(0)<Speaker>416</Speaker>||<黑点1>:Sleep has scrambled your head, huh... I don't have time for your nonsense. We're setting off!
 ()||<黑点2><BIN>167</BIN>:UMP45 and 416, who's dragging Gr G11 along, gradually make their away towards the power plant, following the route that UMP9 scouted.
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Are you here yet?</color>
+UMP9Mod(0)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>Are you here yet?</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:The access port is just a short distance ahead.
 ()||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:Right then, a gunshot muffled by a silencer comes from the end of the path.
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>...I've been spotted! Stay away for now! The exit is being monitored by drones!</color>
+UMP9Mod(4)<Speaker>UMP9</Speaker><scan><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>...I've been spotted! Stay away for now! The exit is being monitored by drones!</color>
 ()||<SE1>Gunfight</SE1>:The gunshots grow more and more frequent and are soon accompanied by numerous blasts and tremors.
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Whoa, I'm in real trouble! Automatic mortars, drones, sentry bots... It feels like half the city's defense system is after me, 45!</color>
+UMP9Mod(4)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>Whoa, I'm in real trouble! Automatic mortars, drones, sentry bots... It feels like half the city's defense system is after me, 45!</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Hold on and don't get killed. Give me 30 seconds. Change of plan - 416 and Gr G11 give suppressive fire to draw some attention away from 9 and cover me while I hack into the mortars to deactivate them!
 HK416Mod(0)<Speaker>416</Speaker>||:So you're sending Gr G11 and me to die with 9? How very like you!
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:I would love to watch a 416 with a reloaded neural cloud and no memory of this to die again for me. That would certainly be very entertaining, but if we all get killed here, no one will be left to resurrect you.
 HK416Mod(0)<Speaker>416</Speaker>||:Tsk. Gr G11, with me!
-UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>I'm moved to tears! We're helping each other out like a proper family! Whoaaa! Those shots almost got me...!</color>
+UMP9Mod(3)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>I'm moved to tears! We're helping each other out like a proper family! Whoaaa! Those shots almost got me...!</color>
 ()||:UMP45 tears off a metal cover on the wall inside the underground sewer, exposing the disorganized cables within. She then plugs one of the cables into a port on her arm.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:Bingo, this does connect to the system... But there are more of them than I expected.
 HK416Mod(0)<Speaker>416</Speaker>||:Are you sure you can sort out the weapon platforms? If you can't do it, just admit it now. It isn't too late to abort the mission yet.
@@ -60,8 +60,8 @@ UMP45Mod(0)<Speaker>UMP45</Speaker>||:No, just now... +Several dozen...or maybe 
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:When the power plant was destroyed, it's as though the entire city suddenly came back to life. It feels as if we've resurrected something...
 ()||<黑屏2><BIN>197</BIN>:
 M4A1Mod(3)<Speaker>M4A1</Speaker>||:This is M4. AR Team, do you copy? Do you copy?!
-AR15Mod(2)<Speaker>ST AR-15</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>I cop...pzzzt...y!</color>
-AR15Mod(2)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>The interference suddenly got stronger...to a higher location...pzzzt...maybe...</color>
+AR15Mod(2)<Speaker>ST AR-15</Speaker><scan><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>I cop...pzzzt...y!</color>
+AR15Mod(2)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>The interference suddenly got stronger...to a higher location...pzzzt...maybe...</color>
 M4A1Mod(3)<Speaker>M4A1</Speaker>||:What on earth is happening...?
 M4A1Mod(3)<Speaker>Clear Voice</Speaker>||:I was mistaken. There is more than one signal. They're coming.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:I know. The ringing in my ears... No, the strange noise from deep within my neural cloud...is getting louder... +In any case, I should head to a more elevated location where reception is better, so that I can get back in touch with the others.

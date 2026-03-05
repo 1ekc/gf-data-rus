@@ -2,7 +2,7 @@
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>m_19christmas_theme</BGM>:In the days following Falcon's expression of her true feelings to CZ2000 and Skorpion, the three of them became much closer.
 ()||<黑屏1>:
 CZ2000(0)<Speaker>CZ2000</Speaker>||<黑屏2><BIN>99</BIN><SE2>Gunfight</SE2><SE1>AVG_tele_connect</SE1>:Falcon, we need backup!
-Falcon(0)<Speaker>Falcon</Speaker><通讯框>||:<color=#00CCFF>Help is on its way~! </color>
+Falcon(0)<Speaker>Falcon</Speaker><scan><通讯框>||:<color=#00CCFF>Help is on its way~! </color>
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:Bang!
 ()<Speaker></Speaker>||:With Falcon's fire support, the enemy's armored units are wiped out in an instant.
 VZ61(0)<Speaker>Skorpion</Speaker>||<SE1>Select</SE1>:Hah! Bet you didn't expect us to have heavy firepower as well. Look who's laughing now!

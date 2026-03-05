@@ -112,25 +112,25 @@ NPC-AH400(0)<Scale>1.11</Scale><Position>0,-100</Position><Speaker>Marta</Speake
 ()||<黑屏2><BIN>554</BIN><SE1>AVG_Explo_Distance</SE1>:A week later.
 ()||<SE1>AVG_Moto_Run</SE1>:Accompanied by the faint sound of explosions in the distance, a motorcycle speeds through the night in a dark alley.
 NPC_RexZero1(0)<Scale>0.98</Scale><Position>0,200</Position><Speaker>Rex Zero 1</Speaker>||:This is Rex Zero 1. Mission objective accomplished. Now withdrawing.
-M1903(10)<Speaker>Springfield</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Copy, proceed to coordinates B137. I will join you there.</color>
+M1903(10)<Speaker>Springfield</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Copy, proceed to coordinates B137. I will join you there.</color>
 NPC_RexZero1(0)<Scale>0.98</Scale><Position>0,200</Position><Speaker>Rex Zero 1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Roger.
 ()||<BGM>BGM_23SF_Main</BGM><SE1>AVG_engine_speedup</SE1>:Throttling up, Rex Zero 1 races to the coordinates. The relaxation after accomplishing her mission is making her hum a little tune.
 NPC_RexZero1(0)<Scale>0.98</Scale><Position>0,200</Position><Speaker>Rex Zero 1</Speaker>||:Hum-mmmm, hmmm-mmm...
-M1903(10)<Speaker>Springfield</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like you're in a good mood. How did the neural upgrade feel?</color>
+M1903(10)<Speaker>Springfield</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like you're in a good mood. How did the neural upgrade feel?</color>
 NPC_RexZero1(0)<Scale>0.98</Scale><Position>0,200</Position><Speaker>Rex Zero 1</Speaker>||:Refreshing, as if I've been able to let go of something that's been weighing down on me for years...
 NPC_RexZero1(0)<Scale>0.98</Scale><Position>0,200</Position><Speaker>Rex Zero 1</Speaker>||:I was finally able to return this hair clip to its owner.
-M1903(10)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>Are you really not planning to explain this to everyone? You arranged for Marta to work at these places and then paid her out of your own pocket...</color>
-M1903(10)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>What if people get the wrong idea that places like orphanages and hospitals really pay that much. </color>
+M1903(10)<Speaker>Springfield</Speaker><scan><通讯框>||:<color=#00CCFF>Are you really not planning to explain this to everyone? You arranged for Marta to work at these places and then paid her out of your own pocket...</color>
+M1903(10)<Speaker>Springfield</Speaker><scan><通讯框>||:<color=#00CCFF>What if people get the wrong idea that places like orphanages and hospitals really pay that much. </color>
 NPC_RexZero1(0)<Scale>0.98</Scale><Position>0,200</Position><Speaker>Rex Zero 1</Speaker>||:Well... I haven't thought about that...
 ()||:The motorcycle speeds through a water pool, and the splashing water wets Rex Zero 1's shoes.
 NPC_RexZero1(0)<Scale>0.98</Scale><Position>0,200</Position><Speaker>Rex Zero 1</Speaker>||:Seeing how she was so devoid of life for anything other than her daughter, I was worried that the truth would be too much for her to bear. Thus, I decided to distract her and show her that there are so many other worthwhile things in the world.
-M1903(10)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>Now that Marta is taking care of children in the orphanage and finding her daughter is no longer the whole reason for her life, your goal has been accomplished. </color>
+M1903(10)<Speaker>Springfield</Speaker><scan><通讯框>||:<color=#00CCFF>Now that Marta is taking care of children in the orphanage and finding her daughter is no longer the whole reason for her life, your goal has been accomplished. </color>
 NPC_RexZero1(0)<Scale>0.98</Scale><Position>0,200</Position><Speaker>Rex Zero 1</Speaker>||:Yeah. As for any misunderstandings that may arise from this, let's leave them for another day.
 ()<Speaker>Woman </Speaker>||:...Help!
 ()||<SE1>AVG_Car_Skid</SE1>:Hearing someone pleading for help nearby, Rex Zero 1 suddenly brakes in the cluttered alleyway. The sudden deceleration causes an ear-piercing screech as the motorcycle's front tire arcs across the ground.
-M1903(11)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>Rex Zero 1?</color>
+M1903(11)<Speaker>Springfield</Speaker><scan><通讯框>||:<color=#00CCFF>Rex Zero 1?</color>
 NPC_RexZero1(0)<Scale>0.98</Scale><Position>0,200</Position><Speaker>Rex Zero 1</Speaker>||:The mission has been accomplished. May I be 2 minutes late for the rendezvous?
-M1903(13)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>Hmm, this place feels rather familiar. Go ahead, but don't keep us waiting for too long.</color>
+M1903(13)<Speaker>Springfield</Speaker><scan><通讯框>||:<color=#00CCFF>Hmm, this place feels rather familiar. Go ahead, but don't keep us waiting for too long.</color>
 ()||<黑屏1>:
 ()||<黑屏2><BIN>9</BIN>:
 NPC-Sanaya(1)<Scale>1.05</Scale><Position>0,50</Position><Speaker>Mathilda</Speaker>||:Here, take this hair clip.

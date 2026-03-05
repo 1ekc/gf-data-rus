@@ -36,9 +36,9 @@ Vector(0)<Speaker>Vector</Speaker>||:Haha.
 PP90(0)<Speaker>PP-90</Speaker>||:What's with that forced laugh?! +My ego is super fragile, you know!
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:What about our route?
 Vector(0)<Speaker>Vector</Speaker>||:That's another reason why I suggested splitting up. +The supply caches on the map are limited. If we split up, we'll have a higher chance of finding more supplies. +It's safer than putting all our eggs in one basket... +Miss Dima?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Yes, I'm here.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, I'm here.</color>
 Vector(0)<Speaker>Vector</Speaker>||:Earlier, you said that the Dark Zone could be reached by passing through Lexington Avenue, right?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Yes. You need to find sufficient gas masks before the time limit and enter the Dark Zone.</color>+<color=#00CCFF>Otherwise you'll be eliminated.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Yes. You need to find sufficient gas masks before the time limit and enter the Dark Zone.</color>+<color=#00CCFF>Otherwise you'll be eliminated.</color>
 Vector(0)<Speaker>Vector</Speaker>||:R93, your main job will be collecting resources in the vicinity of the Public Library. +PP-90 and I will set out from Sixth Avenue, head over to Times Square... Then we'll meet up at Lexington Avenue.
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:OK.
 K5(0)<Speaker>K5</Speaker>||:Roger.

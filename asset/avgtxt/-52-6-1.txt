@@ -62,33 +62,33 @@ FN49(2)<Speaker>FF FN49</Speaker><Position>0,120</Position><Shake>0.1</Shake>||<
 FN49(2)<Speaker>FF FN49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF>Sorry! I got carried away!</color> +<color=#00CCFF>Are you a Villager? Are you willing to help me?!</color> +<color=#00CCFF>It's a matter of life and death!!!</color> +<color=#00CCFF>Please!!!</color>
 ()<Speaker>???</Speaker>||<边框>2</边框>:<color=#00CCFF>...</color>
 ()<Speaker></Speaker>||<边框>2</边框>:The anonymous user changes her credentials after pondering briefly, and then slowly types out the following.
-G36(8)<Speaker>Gr G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>I'm Gr G36, the Cupid.</color> +<color=#00CCFF>Miss FF FN49, is there anything I could help you with?</color>
+G36(8)<Speaker>Gr G36</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>I'm Gr G36, the Cupid.</color> +<color=#00CCFF>Miss FF FN49, is there anything I could help you with?</color>
 FN49(2)<Speaker>FF FN49</Speaker><Position>0,120</Position>;G36(8)||<边框>2</边框>:<color=#00CCFF>Miss Gr G36! Wonderful! </color> +<color=#00CCFF>I got the Knight, but I'm also considered cursed... So I don't know what to do!</color>
-FN49(2)<Position>0,120</Position>;G36(8)<Speaker>Gr G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Cursed?</color>
+FN49(2)<Position>0,120</Position>;G36(8)<Speaker>Gr G36</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Cursed?</color>
 FN49(3)<Speaker>FF FN49</Speaker><Position>0,120</Position>;G36(8)||<边框>2</边框>:<color=#00CCFF>It's a curse that makes the Villagers lose!</color> +<color=#00CCFF>I'm fine with losing by myself, but what if Five-seven and Leader FAL are Villagers too...</color> +<color=#00CCFF>Then I will have ruined their game as well...</color> +<color=#00CCFF>Boohoo...</color>
-FN49(3)<Position>0,120</Position>;G36(8)<Speaker>Gr G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Is there anything I can do to help you then?</color>
+FN49(3)<Position>0,120</Position>;G36(8)<Speaker>Gr G36</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Is there anything I can do to help you then?</color>
 FN49(3)<Speaker>FF FN49</Speaker><Position>0,120</Position>;G36(8)||<边框>2</边框>:<color=#00CCFF>The FN squad can't all be wiped out...</color> +<color=#00CCFF>Could Miss Gr G36 please peek at Five-seven's and Leader FAL's identities, then...</color> +<color=#00CCFF>And then...</color>
-FN49(3)<Position>0,120</Position>;G36(8)<Speaker>Gr G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>You know that I can't do that, right?</color>
+FN49(3)<Position>0,120</Position>;G36(8)<Speaker>Gr G36</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>You know that I can't do that, right?</color>
 FN49(4)<Speaker>FF FN49</Speaker><Position>0,120</Position>;G36(8)||<边框>2</边框>:<color=#00CCFF>...That's true... </color> +<color=#00CCFF>Then what should I do??!!</color>
-G36(8)<Speaker>Gr G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>...</color>
+G36(8)<Speaker>Gr G36</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>...</color>
 ()<Speaker>System Alert</Speaker>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:<color=#FFFF00>Anonymous User#4952 joined the chat.</color>
 FN49(4)<Speaker>FF FN49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF>Hey! Someone else joined...</color> +<color=#00CCFF>Hello...?</color>
 ()<Speaker>???</Speaker>||<边框>2</边框>:<color=#00CCFF>FF FN49, you there?</color>
 FN49(4)<Speaker>FF FN49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF>Who are you?</color>
-FN49(4)<Position>0,120</Position>;FAL(8)<Speaker>???</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>I'm your dearest leader, FAL...</color> +<color=#00CCFF>Though I'm on the Werewolves' side, which is a bit concerning.</color>
+FN49(4)<Position>0,120</Position>;FAL(8)<Speaker>???</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>I'm your dearest leader, FAL...</color> +<color=#00CCFF>Though I'm on the Werewolves' side, which is a bit concerning.</color>
 FN49(2)<Speaker>FF FN49</Speaker><Position>0,120</Position>;FAL(8)||<边框>2</边框>:<color=#00CCFF>Wow! It's Leader!!!</color> +<color=#00CCFF>If you're a Werewolf, then you won't be affected by my curse!</color> +<color=#00CCFF>However...</color> +<color=#00CCFF>This is your first time playing as a Werewolf, right? Will you be fine?</color> +<color=#00CCFF>It's quite hard to articulate your arguments as a Werewolf!!</color>
-FAL(8)<Speaker>FAL?</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Well... About that...</color> +<color=#00CCFF>I am in fact struggling a bit.</color> +<color=#00CCFF>Do you have a solution?</color>
+FAL(8)<Speaker>FAL?</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Well... About that...</color> +<color=#00CCFF>I am in fact struggling a bit.</color> +<color=#00CCFF>Do you have a solution?</color>
 ()<Speaker></Speaker>||<边框>2</边框>:FF FN49 hesitates for a moment, then suddenly types out a new string of exclamation marks.
 FN49(3)<Speaker>FF FN49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF><size=50>Leader!!!</size></color> +<color=#00CCFF><size=50>Let Miss Gr G36 link us up!!!</size></color>
-FN49(3)<Position>0,120</Position>;FAL(8)<Speaker>FAL?</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Oh? But why?</color>
+FN49(3)<Position>0,120</Position>;FAL(8)<Speaker>FAL?</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Oh? But why?</color>
 FN49(3)<Speaker>FF FN49</Speaker><Position>0,120</Position>;FAL(8)||<边框>2</边框>:<color=#00CCFF>You're a Werewolf and I'm the Knight... If we're linked together, we'll become a third faction!</color> +<color=#00CCFF>That way, Leader won't need to worry about being a Werewolf anymore.</color> +<color=#00CCFF>Maybe my curse could even be...</color> +<color=#00CCFF>Anyway, let's work together and bring about victory for FN squad!</color>
-FAL(8)<Speaker>FAL?</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>Okay.</color> +<color=#00CCFF>Then I'm counting on you, Miss Gr G36.</color>
+FAL(8)<Speaker>FAL?</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>Okay.</color> +<color=#00CCFF>Then I'm counting on you, Miss Gr G36.</color>
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_tele_disconnect</SE1>:Beep. +Without hesitation, the user called FAL leaves the chatroom.
-G36(17)<Speaker>Gr G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>...</color> +<color=#00CCFF>And she's gone.</color> +<color=#00CCFF>Was that... really FAL?</color>
+G36(17)<Speaker>Gr G36</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>...</color> +<color=#00CCFF>And she's gone.</color> +<color=#00CCFF>Was that... really FAL?</color>
 FN49(2)<Speaker>FF FN49</Speaker><Position>0,120</Position>;G36(17)||<边框>2</边框>:<color=#00CCFF>Why would you say that, Miss Gr G36?</color>
-FN49(2)<Position>0,120</Position>;G36(17)<Speaker>Gr G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>How could a Werewolf just expose herself like that in an open chatroom...</color> +<color=#00CCFF>Shouldn't she be hiding and trying not to be noticed?</color> +<color=#00CCFF>And her way of speech... seems a bit odd to me.</color>
+FN49(2)<Position>0,120</Position>;G36(17)<Speaker>Gr G36</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>How could a Werewolf just expose herself like that in an open chatroom...</color> +<color=#00CCFF>Shouldn't she be hiding and trying not to be noticed?</color> +<color=#00CCFF>And her way of speech... seems a bit odd to me.</color>
 FN49(2)<Speaker>FF FN49</Speaker><Position>0,120</Position>;G36(17)||<边框>2</边框>:<color=#00CCFF>Don't worry! Leader only came in because she saw me! That means she trusts me!!</color> +<color=#00CCFF>Well then, I'm counting on you, Miss Gr G36!!!</color> +<color=#00CCFF><size=50>Thank you very much!!!</size></color>
-G36(17)<Speaker>Gr G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>...</color> +<color=#00CCFF>Very well then.</color>
+G36(17)<Speaker>Gr G36</Speaker><scan><通讯框>||<边框>2</边框>:<color=#00CCFF>...</color> +<color=#00CCFF>Very well then.</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><边框>2</边框><BGM>BGM_Empty</BGM>:...
 ()||<黑屏1><边框>2</边框>:

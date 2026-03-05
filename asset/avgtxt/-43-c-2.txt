@@ -1,10 +1,10 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
 ()<Speaker></Speaker>||<黑屏2><BIN>301</BIN><BGM>GF_xDivision_Scene2</BGM>:0008 hours, on a cleared-out street near Times Square.+After ensuring that there are no enemies in sight, Squad Springfield finally stops to rest, having shaken off M870 and company at last.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Congratulations on escaping a tight spot, Agents. However, this won't be the last battle where you may have to fight your friends.</color>+<color=#00CCFF>Apart from those who stand with you, there are traitors here as well...they're only going to make this city that much more chaotic.</color>
-NPC-Dima(1)<通讯框>;97type(0)<Speaker>Type 97</Speaker>||:We...we made it at last! You should help us too, Dima! +Can't you send out someone to assist us?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;97type(0)||:<color=#00CCFF>Unfortunately, I am unable to summon assistance for you in most areas, Agents.</color>+<color=#00CCFF>The situation here is too dangerous and we cannot risk our precious airmen without a guarantee of safety. </color>
-NPC-Dima(1)<通讯框>;97type(0)<Speaker>Type 97</Speaker>||:Not even a little?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;97type(0)||:<color=#00CCFF>I am very sorry. Please do your best to reach the Dark Zone and fire the signal flare once the mission is complete. The chopper will take everyone to safety.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Congratulations on escaping a tight spot, Agents. However, this won't be the last battle where you may have to fight your friends.</color>+<color=#00CCFF>Apart from those who stand with you, there are traitors here as well...they're only going to make this city that much more chaotic.</color>
+NPC-Dima(1)<scan><通讯框>;97type(0)<Speaker>Type 97</Speaker>||:We...we made it at last! You should help us too, Dima! +Can't you send out someone to assist us?
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;97type(0)||:<color=#00CCFF>Unfortunately, I am unable to summon assistance for you in most areas, Agents.</color>+<color=#00CCFF>The situation here is too dangerous and we cannot risk our precious airmen without a guarantee of safety. </color>
+NPC-Dima(1)<scan><通讯框>;97type(0)<Speaker>Type 97</Speaker>||:Not even a little?
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;97type(0)||:<color=#00CCFF>I am very sorry. Please do your best to reach the Dark Zone and fire the signal flare once the mission is complete. The chopper will take everyone to safety.</color>
 M1903(13)<Speaker>Springfield</Speaker>;97type(0)||<SE1>AVG_tele_disconnect</SE1>:Don't make things difficult for Dima, 97. We need to find a place to have a rest. +Whew... we managed to escape battle, at least.
 M1903(13);97type(0)<Speaker>Type 97</Speaker>||:Our gear isn't fantastic either. I wasn't confident in our chances of winning against them just now. +Good thing Springfield and that last Molotov helped us out!
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:Where's the next safe house? I want to lie down for a bit, I was so tense earlier that I feel like throwing up now. +They were a strange bunch, though. If Springfield hadn't stopped me, I'd have chopped them all to bits.
@@ -49,14 +49,14 @@ M1903(10)<Speaker>Springfield</Speaker>;97type(0)||<BGM>GF_xDivision_Scene2</BGM
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:Seriously... Just hearing that word makes me a little nervous. +(Dry-heaves)
 MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:At least put more effort into that hurling act. +What did you have in mind, Springfield? Could you go into a little more detail?
 M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Dima, is there a way to quickly acquire supplies? +Are there stockpiles we can raid or perhaps enemies who guard supply caches?
-M1903(10);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:The local landmarks are usually occupied by tough enemies. +They possess large quantities of supplies and they have excellent equipment. If you could defeat them, you'd be able to obtain plenty of supplies and very good gear in one go.
+M1903(10);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:The local landmarks are usually occupied by tough enemies. +They possess large quantities of supplies and they have excellent equipment. If you could defeat them, you'd be able to obtain plenty of supplies and very good gear in one go.
 MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Dima(1)||:So you want us to challenge the landmark bosses?
 M1903(10)<Speaker>Springfield</Speaker>;NPC-Dima(1)||:That way we won't need to fight with the other players but still be able to quickly gather items.
 M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Oh! We have enough cold-resistant clothing and plenty of food, but we need to be sufficiently threatening. +Therefore, the landmarks are the best choice for quickly upgrading our gear and ensuring we have enough supplies!
 M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Just so. What does everyone else think?
 AA12(0)<Speaker>AA-12</Speaker>;97type(0)||:I don't mind. Whatever you say, goes.
 MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:I don't mind either.
-MP7(0);NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Their repeated victories have given these rioters great confidence, and fearless opponents are the toughest foes.</color>+<color=#00CCFF>Be careful, Agents.</color>
+MP7(0);NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Their repeated victories have given these rioters great confidence, and fearless opponents are the toughest foes.</color>+<color=#00CCFF>Be careful, Agents.</color>
 ()||<BIN>312</BIN><黑屏2><BGM>BGM_Empty</BGM>:With that, Squad Springfield moves out. Just as Dima said, many local landmarks have tough enemies nearby. +The team members search for traces of the enemy and wipe them out, while also harvesting the items by the roadside and inside the buildings. After many battles, they manage to gather enough supplies to fill their backpacks.+After checking the status of each others' inventories, they decide to rest their feet for a while in a certain safe house near the Dark Zone.
 97type(0)<Speaker>Type 97</Speaker>||<BGM>m_avg_casual</BGM>:What— a— haul—! +Those NPCs were soooo weak, I want to fight more of them!
 MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:If I hadn't shot one off your back, you'd be watching us from outside the game.
@@ -72,7 +72,7 @@ M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Sounds awesome! I'm going to car
 M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Hm...That might turn out to be surprisingly effective. We'll do that, then. +Have we cleared out all the food and medicine in this area?
 M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Nothing spotted by the Eye of the Snow Wolf has been left behind!
 M1903(10)<Speaker>Springfield</Speaker>||:Good. Once our equipment is made, we'll sweep the surrounding streets one more time and then we'll enter the Dark Zone. +We might be late that way, but ample preparation will give us a more stable path to victory.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>I'm sure the mission will be successful with an agent squad that boasts such meticulous planning and excellent overall ability.</color>+<color=#00CCFF>But don't relax just because you've been praised. No matter how perfectly you prepare, there's still a chance you might fail until the mission is actually completed.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>I'm sure the mission will be successful with an agent squad that boasts such meticulous planning and excellent overall ability.</color>+<color=#00CCFF>But don't relax just because you've been praised. No matter how perfectly you prepare, there's still a chance you might fail until the mission is actually completed.</color>
 97type(0)<Speaker>Type 97</Speaker>||<黑屏1>:Yes, yes, we know. This Dima's as naggy as a mom.
 ()||<BIN>301</BIN><黑屏2>:After organizing their equipment, the squad leaves the safe house and begins a carpet search of the surroundings.
 97type(0)<Speaker>Type 97</Speaker>||:There really are no more players harassing us.

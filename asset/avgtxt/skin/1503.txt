@@ -29,7 +29,7 @@ PKP(4)<Speaker>PKP</Speaker>||:This is the last dish...+I still haven't been con
 PKP(4)<Speaker>PKP</Speaker>||<BGM>BGM_Frontline</BGM>:Finally here, huh?+Ah well, being 80% full is good enough.
 PKP(4)<Speaker></Speaker>||<SE2>Gunfight</SE2>:As her surroundings descend into chaos, PKP looks at the ice cream in her hand and gulps it down in one fell swoop.+Then, she grabs a piece of paper on the table and prepares to leave the restaurant.
 PKP(4)<Speaker>PKP</Speaker>||:Thompson, what's the situation in the theater?
-PKP(4);M1928A1(2)<Speaker>Thompson</Speaker><通讯框>||:Unfortunately, our intel was on the mark.+Several maggots are fleeing out the theater's entrance. Stop them.
+PKP(4);M1928A1(2)<Speaker>Thompson</Speaker><scan><通讯框>||:Unfortunately, our intel was on the mark.+Several maggots are fleeing out the theater's entrance. Stop them.
 PKP(4)<Speaker>PKP</Speaker>||:Roger.
 ()||<BIN>80</BIN><黑屏1>:PKP pulls her machine gun out of her music instrument case and smashes the window glass with it. She then leaps down from the second floor and dashes toward the theater.
 PKP()<Speaker>PKP</Speaker>||<BIN>9</BIN><黑屏1><SE1>Runstep</SE1>:Hmph... Let's end this boring mission with a flawless victory.

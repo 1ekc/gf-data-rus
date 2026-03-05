@@ -6,24 +6,24 @@ M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:I'll take you all on! Rip an
 RO635Mod(4)<Speaker>RO635</Speaker>||:SOP-II! Don't be reckless!
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Any rounds left, RO?
 ()||:The AR Team is deep within the enemy formation and on the verge of being overrun. If I can't think of a way to get us out of this, they'll swamp us all...
-VP1915(0)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>Greetings, Commander.</color>
-VP1915(0)<Speaker>Commander</Speaker><通讯框>||:Who's that?!
+VP1915(0)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>Greetings, Commander.</color>
+VP1915(0)<Speaker>Commander</Speaker><scan><通讯框>||:Who's that?!
 RO635Mod(0)<Speaker>RO635</Speaker>||:We're out of rounds and they've even hacked our comms?!
-VP1915(0)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>Please do not worry. We are Squad Griffin, sent here to pick you up in accordance with the mission directives.</color> +<color=#00CCFF>Allow me to introduce myself. I am VP1915 Villar Perosa, but you can call me Perosa.</color>
+VP1915(0)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>Please do not worry. We are Squad Griffin, sent here to pick you up in accordance with the mission directives.</color> +<color=#00CCFF>Allow me to introduce myself. I am VP1915 Villar Perosa, but you can call me Perosa.</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:So we DO have a pickup!
 ()<Speaker>Commander</Speaker>||:How can you prove that?
-VP1915(0)<Speaker>Perosa</Speaker><通讯框>||:<color=#00CCFF>The Earl said that you would understand once you saw this seal.</color>
+VP1915(0)<Speaker>Perosa</Speaker><scan><通讯框>||:<color=#00CCFF>The Earl said that you would understand once you saw this seal.</color>
 ()||:Perosa holds a wax seal up to the communicator. +It is imprinted with the image of a mighty griffin baring its claws, surrounded by intricate designs. +It is exactly like the one on the mission document I received.
 ()<Speaker>Commander</Speaker>||:...So it's the Earl. I see.
-VP1915(0)<Speaker>Perosa</Speaker><通讯框>||:<color=#00CCFF>According to the intel provided by the Earl, these Paradeus forces are only active on the outskirts of the city. They seem to be prohibited from entering the city area.</color> +<color=#00CCFF>Derringer and Savage are coming over to support you. I will guide you remotely to help you shake off your pursuers.</color>
-VP1915(0)<Speaker>Commander</Speaker><通讯框>||:Alright, so those two—
+VP1915(0)<Speaker>Perosa</Speaker><scan><通讯框>||:<color=#00CCFF>According to the intel provided by the Earl, these Paradeus forces are only active on the outskirts of the city. They seem to be prohibited from entering the city area.</color> +<color=#00CCFF>Derringer and Savage are coming over to support you. I will guide you remotely to help you shake off your pursuers.</color>
+VP1915(0)<Speaker>Commander</Speaker><scan><通讯框>||:Alright, so those two—
 ()||<SE2>Gunfight</SE2>:Bang bang bang— +Just as the Commander contemplates their next move, the sound of unfamiliar gunfire erupts from behind them.
 NytoIsomer(8)<Speaker>Dandelion</Speaker>||:I'm picking up IFF signals belonging to two high-end I.O.P. Dolls, but they're not on the Griffin base roster.
 Derringer(0)<Speaker>???</Speaker>||:Hi, Commander~ This doesn't seem like the best time for a chat...
 Savage99(0)<Speaker>???</Speaker>||:We're here to lend you a hand, Commander.
-VP1915(0)<Speaker>Perosa</Speaker><通讯框>||:<color=#00CCFF>They've arrived, Commander. Now, please run toward the slope at 1 o'clock as quickly as you can.</color>
+VP1915(0)<Speaker>Perosa</Speaker><scan><通讯框>||:<color=#00CCFF>They've arrived, Commander. Now, please run toward the slope at 1 o'clock as quickly as you can.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:They're only two Dolls, will they be alright?
-VP1915(0)<Speaker>Perosa</Speaker><通讯框>||:<color=#00CCFF>Please have faith in my judgment.</color>
+VP1915(0)<Speaker>Perosa</Speaker><scan><通讯框>||:<color=#00CCFF>Please have faith in my judgment.</color>
 ()||:The two unfamiliar Dolls exchange smiles. Their fighting stances show that they are fully in sync with each other.
 Derringer(0)<Speaker>???</Speaker>||:Leave this place to us!
 Savage99(0)<Speaker>???</Speaker>||:Please do as Perosa directs and head into the city proper.

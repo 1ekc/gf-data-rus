@@ -36,13 +36,13 @@ FNFNC(0);APS(0)<Speaker>Commander</Speaker>||:Hold on, that can't be it! FF FNC,
 FNFNC(0)<Speaker>FF FNC</Speaker>;APS(0)||<黑屏1>:Huh? Are we not talking about the chocolate?
 ()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>83</BIN>:A few days ago, in the warehouse.
 ZastavaM21(0)<Speaker>Zas M21</Speaker>||<SE1>AVG_amb_wilderness</SE1>:Ever since the last restock, there have been much fewer new nail polish releases. +Maybe the designer started running out of ideas? Maybe I should try out different product filters... A comms request?
-ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>Zas, there are suspicious movements outside the warehouse and it's freaking me out. Can you come?</color>
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker><scan><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>Zas, there are suspicious movements outside the warehouse and it's freaking me out. Can you come?</color>
 ZastavaM21(0)<Speaker>Zas M21</Speaker>;FNFNC(0)||:Suspicious movements? What are you talking about? Are there enemies, or is it just some insect?
 ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||:<color=#00CCFF>I don't know! Come and save me, Zas! I'm too scared to move!</color>
 ZastavaM21(0)<Speaker>Zas M21</Speaker>;FNFNC(0)||:...Give me a minute. I'll be right there.
 ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker>||<黑点1>:<color=#00CCFF>I'm counting on you, Zas!</color>
 ()<Speaker></Speaker>||<黑点2><BIN>83</BIN>:When Zas was halfway there, she received another transmission.
-ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker><通讯框>||:<color=#00CCFF>Oh, the strange movements were gone. Thanks, Zas!</color>
+ZastavaM21(0);FNFNC(0)<Speaker>FF FNC</Speaker><scan><通讯框>||:<color=#00CCFF>Oh, the strange movements were gone. Thanks, Zas!</color>
 ZastavaM21(0)<Speaker>Zas M21</Speaker>;FNFNC(0)||:What?
 ZastavaM21(0)<Speaker></Speaker>||:Transmission terminated.
 ZastavaM21(0)<Speaker>Zas M21</Speaker>||:That's weird...

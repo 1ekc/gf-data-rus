@@ -41,32 +41,32 @@ AK74U(2)<Speaker>AK-74U</Speaker>;9A91(0)||:...Didn't this thingy spew out smoke
 AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker>||:If you'd bothered to update the information regarding your colleagues regularly in your neural cloud, we wouldn't have to waste so much time and effort on fiddling with this.
 AK74U(2)<Speaker>AK-74U</Speaker>||<黑点1>:Jeez... I've got my own stuff to worry about, too. +Anyway, I'll leave communications to you. I'm heading out. Make sure you respond quickly so I won't make a fool of myself.
 ()<Speaker></Speaker>||<黑点2><Night><BIN>161</BIN><BGM>BGM_Empty</BGM>:... +...AK-74U leaves her dorm and heads to the other buildings.
-ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:...We're in luck. The signal is still pretty stable. +AK, have you run into any of our other colleagues?
+ASVAL(0)<Speaker>AS Val</Speaker><scan><通讯框>||:...We're in luck. The signal is still pretty stable. +AK, have you run into any of our other colleagues?
 AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:Nyet, at least everything is still..."going according to my wishes".
-AK74U(2);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:74U, our mission requires that you to run into your colleagues and wish them well.
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker><scan><通讯框>||:74U, our mission requires that you to run into your colleagues and wish them well.
 AK74U(2)<Speaker>AK-74U</Speaker>;9A91(0)||:Heh, you try it then. I bet you two bossy introverts will have a neural meltdown after just talking to three people. +Oh, 9A-91 might make it to five, but— +Ooooh! Here we go!
-AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||<BGM>BGM_Boss</BGM>:What is it, 74? Is it another T-Doll?
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><scan><通讯框>||<BGM>BGM_Boss</BGM>:What is it, 74? Is it another T-Doll?
 AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:Tall, chestnut-colored hair, red eyes, dressed like someone going to a concert. Who's that? +Hurry up! She's seen me!
-AK74U(2);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:A T-Doll that fits that description...
-AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:Can you describe some more physical traits?
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker><scan><通讯框>||:A T-Doll that fits that description...
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><scan><通讯框>||:Can you describe some more physical traits?
 AK74U(2)<Speaker>AK-74U</Speaker>||:About the same bust size as me. Oh, she's also wearing lightning-shaped hair clips! Quick, she's coming over!
 M21(0)<Speaker>??</Speaker>||:Ah, Miss AK-74U. Hello. +I like your outfit. It looks very nice. +Are you wearing it for tonight? +Uh...Miss AK-74?
 AK74U(2)<Speaker>AK-74U</Speaker>||:Uh...
-AK74U(2);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:That's M21. Just call her M21; she has no nicknames.
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker><scan><通讯框>||:That's M21. Just call her M21; she has no nicknames.
 AK74U(2)<Speaker>AK-74U</Speaker>||<BGM>BGM_Empty</BGM>:Oh, Miss M21! Um... +H-Happy New Year!
 M21(0)<Speaker>M21</Speaker>||<BGM>BGM_Moon</BGM>:Ahaha, thank you. +But it isn't our New Year today. It's THEIRS. There's quite a difference.
 AK74U(2)<Speaker>AK-74U</Speaker>||:Oh, you're right. +Uh... but... I suppose we all feel the same way, right?
-ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:Okay, she somehow managed to talk her way around that...
+ASVAL(0)<Speaker>AS Val</Speaker><scan><通讯框>||:Okay, she somehow managed to talk her way around that...
 ()<Speaker>??</Speaker>||:Hey, M21! Can't you keep an eye on M1911? She looks like she's had too much to drink! M14 and the others can't hold her back!
 AK74U(2)<Speaker>AK-74U</Speaker>||:Huh??
 M21(0)<Speaker>M21</Speaker>||:Too much to drink? I recall M1911... could hold her liquor pretty well.
 ()<Speaker>??</Speaker>||:That's why I said "looks like". She's always like this whenever she sees the Commander...
 AK74U(2)<Speaker>AK-74U</Speaker>||:(Whispers) Crap, this one's too short. She just jumped out from behind M21; I didn't see her at all!
-AK74U(2);9A91(0)<Speaker>9A-91</Speaker><通讯框>||:What does she look like, 74U?
+AK74U(2);9A91(0)<Speaker>9A-91</Speaker><scan><通讯框>||:What does she look like, 74U?
 AK74U(2)<Speaker>AK-74U</Speaker>;9A91(0)||:(Whispers) Petite, blonde, dressed like a casino girl. Her bust size... +(Whispers) ...is about the same as Val's, I guess? +(Whispers) Hurry up! Give me something while they're still discussing—
-AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:AK... She's called...bzzzt... +By the way, hers are padded, while mine are...bzzzt...
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><scan><通讯框>||:AK... She's called...bzzzt... +By the way, hers are padded, while mine are...bzzzt...
 AK74U(2)<Speaker>AK-74U</Speaker>||:(Whispers) Oh, dammit!
-AK74U(2)<Speaker>9A-91</Speaker><通讯框>||:74U, I...bzzzt...bzzt...
+AK74U(2)<Speaker>9A-91</Speaker><scan><通讯框>||:74U, I...bzzzt...bzzt...
 M9(0)<Speaker>Petite T-Doll</Speaker>||:In another three rounds, 1911 won't be wearing... +Oh? Who's this? Let me think...
 M21(0)<Speaker>M21</Speaker>||:This is Miss AK-74U, M9. Thompson talked about her, remember? She was quite the hero in the big withdrawal.
 AK74U(2)<Speaker>AK-74U</Speaker>||<震屏>:Oh, uh, hello, Miss M9. And... uh... Happy New Year!
@@ -82,7 +82,7 @@ M9(0)<Speaker>M9</Speaker>;M21(0)||:Ha... I guess you'd get along with a scatter
 M21(0)<Speaker>M21</Speaker>||<黑屏1>:Haha, but people who are too alike don't tend to make very good friends. +I suppose a day like this... will be a great opportunity for someone like her to get to know herself better?
 ()<Speaker></Speaker>||<黑屏2>:...
 AK74U(2)<Speaker>AK-74U</Speaker>||:Hey, do you copy, 9A-91? Val?
-AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><通讯框>||:AK, are you alright?! +The radio broke down just now. 9A-91 managed to fix it by giving it a hard whack.
+AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker><scan><通讯框>||:AK, are you alright?! +The radio broke down just now. 9A-91 managed to fix it by giving it a hard whack.
 AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:I muddled through it somehow. +There are so many T-Dolls here, it's hard to remember all their names...
 AK74U(2);ASVAL(0)<Speaker>AS Val</Speaker>||:Head to the next stop. Let me see... +Bzzt...bzzzzt...
 AK74U(2)<Speaker>AK-74U</Speaker>;ASVAL(0)||:C'mon, not again...

@@ -23,7 +23,7 @@ RO635Mod(0)<Speaker>RO635</Speaker>||:Yeah, let's wait till everyone's gathered 
 ()<Speaker>Architect</Speaker>||:<color=#00CCFF>What is it now?</color>
 ()<Speaker>Gager</Speaker>||:<color=#00CCFF>Squad Ferrum is here. </color>
 RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:Good, we're all here. I'll contact the Commander now.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Roger.</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Roger.</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>RO, any news?</color>
 ()<Speaker></Speaker>||:A familiar voice speaks through the comms.
 RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>GF_22W_BGM_2</BGM>:We've approached the vicinity of the Black Zone. The radiation level there is abnormally high. +That's why I was hoping we could conduct a strategic meeting first.

@@ -103,20 +103,20 @@ NytoIsomer(3)<Speaker>Dandelion</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Extra
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:Analyzing format... +Playing.
 ()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1>:After a flicker, the screen reveals a familiar figure. +The Commander stops breathing for a second.
 ()||<黑屏1>:
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||<BIN>357</BIN><黑屏2>:<color=#00CCFF>...Long time no see, Commander.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||<BIN>357</BIN><黑屏2>:<color=#00CCFF>...Long time no see, Commander.</color>
 ()<Speaker>Commander</Speaker>||:...
 ()<Speaker></Speaker>||:Ange looks very battered and bruised in the clip, but her firm and resolute gaze shows that her spirit remains unbroken. +For some reason, just the sight of her face puts the Commander at ease.
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Time is short so I'll get to the point.</color> +<color=#00CCFF>I'm really sorry, but I can't leave this place just yet.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Time is short so I'll get to the point.</color> +<color=#00CCFF>I'm really sorry, but I can't leave this place just yet.</color>
 AR15Mod(8)<Speaker>ST AR-15</Speaker>||:What?!
 ()<Speaker></Speaker>||:Before the Commander can react, ST AR-15 exclaims with wide eyes. RO635 and SOP-II's fate is still unknown—she has never been more high-strung.
 ()<Speaker>Commander</Speaker>||:...
 ()<Speaker></Speaker>||:But the Commander simply waits quietly for Ange to continue.
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>...This may be hard for you to swallow.</color> +<color=#00CCFF>You went to such great lengths and arranged for a task force to rescue me... yet this is the answer you get.</color> +<color=#00CCFF>However, I have a very compelling reason for my decision.</color>
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>I will tell you the reason—you deserve that much.</color> +<color=#00CCFF>But before that, you must answer a question.</color>
-NPC-AngeDamage(0)<Speaker>ST AR-15</Speaker><通讯框><同时置暗>||:Question?
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Commander, what should we look to in order to save the world?</color>
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Go on, give me your answer.</color>
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>This will tell me... whether we are really on the same side.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>...This may be hard for you to swallow.</color> +<color=#00CCFF>You went to such great lengths and arranged for a task force to rescue me... yet this is the answer you get.</color> +<color=#00CCFF>However, I have a very compelling reason for my decision.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>I will tell you the reason—you deserve that much.</color> +<color=#00CCFF>But before that, you must answer a question.</color>
+NPC-AngeDamage(0)<Speaker>ST AR-15</Speaker><scan><通讯框><同时置暗>||:Question?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, what should we look to in order to save the world?</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Go on, give me your answer.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>This will tell me... whether we are really on the same side.</color>
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||:What the hell...? Why has it stopped?
 ()<Speaker>Commander</Speaker>||:...Dandelion?
 NytoIsomer(3)<Speaker>Dandelion</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:The second half of the video is encrypted. +It will only resume with a password... I'm guessing that's the "answer". +I can also try to break the code by force... if you don't know the correct answer?
@@ -133,22 +133,22 @@ AR15Mod(5)<Speaker>ST AR-15</Speaker>||:What a strange question... Who knows wha
 ()<Speaker></Speaker>||<黑点2><BIN>357</BIN>:The present...
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Hm?
 ()<Speaker>Commander</Speaker>||:...It's the present, Ange. +Our focus has never changed. +It's not something in the past. It's not something intangible. +It's the present that we're living and breathing.
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1>:Pzzt...
 AR15Mod(8)<Speaker>ST AR-15</Speaker>||:...! +It-it's playing again!
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>...I knew it all along.</color> +<color=#00CCFF>In the end, we really are allies, Commander.</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>...I knew it all along.</color> +<color=#00CCFF>In the end, we really are allies, Commander.</color>
 ()<Speaker></Speaker>||:On the screen, Ange smiles in relief before turning serious again.
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>The situation has changed, Commander.</color> +<color=#00CCFF>His goal isn't to eradicate Paradeus.</color> +<color=#00CCFF>What he wants... is to bring William under his control.</color>
-NPC-AngeDamage(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...?!
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>The situation has changed, Commander.</color> +<color=#00CCFF>His goal isn't to eradicate Paradeus.</color> +<color=#00CCFF>What he wants... is to bring William under his control.</color>
+NPC-AngeDamage(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...?!
 ()<Speaker></Speaker>||:Even though Ange didn't give the name, the Commander understands right away who she's referring to.
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>...I will never let that happen.</color> +<color=#00CCFF>If he decides to withdraw from this operation, then I'll pick up where he's left off and eradicate Paradeus.</color>
-NPC-AngeDamage(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>A demon is a demon, not because of his greed, but because he possesses a demon's powers.</color> +<color=#00CCFF>We must not let him acquire this power, which has already cost so many lives...</color> +<color=#00CCFF>As for William, I think it's time we settle things with him.</color>
-NPC-AngeDamage(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:You're using yourself as bait...?
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>I have received the gift that you had RO deliver to me.</color> +<color=#00CCFF>I also have some help here. You don't have to worry about me.</color>
-NPC-AngeDamage(0)<Speaker>???</Speaker><通讯框><同时置暗>||:<color=#00CCFF>...Time's almost up, Ange.</color>
-NPC-AngeDamage(0)<Speaker></Speaker><通讯框><同时置暗>||:Ange smiles at the camera, her eyes gleaming with great determination.
-NPC-AngeDamage(0)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Listen, Commander.</color> +<color=#00CCFF>My plan is to—</color>
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>...I will never let that happen.</color> +<color=#00CCFF>If he decides to withdraw from this operation, then I'll pick up where he's left off and eradicate Paradeus.</color>
+NPC-AngeDamage(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>A demon is a demon, not because of his greed, but because he possesses a demon's powers.</color> +<color=#00CCFF>We must not let him acquire this power, which has already cost so many lives...</color> +<color=#00CCFF>As for William, I think it's time we settle things with him.</color>
+NPC-AngeDamage(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:You're using yourself as bait...?
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>I have received the gift that you had RO deliver to me.</color> +<color=#00CCFF>I also have some help here. You don't have to worry about me.</color>
+NPC-AngeDamage(0)<Speaker>???</Speaker><scan><通讯框><同时置暗>||:<color=#00CCFF>...Time's almost up, Ange.</color>
+NPC-AngeDamage(0)<Speaker></Speaker><scan><通讯框><同时置暗>||:Ange smiles at the camera, her eyes gleaming with great determination.
+NPC-AngeDamage(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Listen, Commander.</color> +<color=#00CCFF>My plan is to—</color>
 ()<Speaker></Speaker>||:... +... +......
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Click.
 ()||<黑屏1>:

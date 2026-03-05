@@ -25,23 +25,23 @@ Vector(2)<Speaker>Vector</Speaker>;PM(2)||:I don't know, but this is still "Cat 
 PM(2)<Speaker>Makarov</Speaker>||<黑屏1>:...Nevermind. I don't expect you to scare anyone. +In any case, I'm putting you in charge of the first checkpoint. That will make it less challenging and keep our patrons from backing out right from the start.
 ()<Speaker></Speaker>||<黑屏2>:After confirming other details with Makarov, Vector heads toward the first checkpoint, where she awaits patrons who are braving the haunted house.
 Vector(2)<Speaker>Vector</Speaker>||:Well, sorry for not being expected to scare anyone. After all, I'm a detestable T-Doll. +But then again...if I want to scare people, I just have to give them an unexpected yell from behind, right? +Though according to the research I did yesterday, moving expressionlessly from ahead also works... +Let me see. Something like this...
-PP90(0)<Speaker>???</Speaker><通讯框>||<震屏>:<color=#00CCFF>Vivi! Vivi!</color>+<color=#00CCFF>Vivi, do you copy?!</color>
+PP90(0)<Speaker>???</Speaker><scan><通讯框>||<震屏>:<color=#00CCFF>Vivi! Vivi!</color>+<color=#00CCFF>Vivi, do you copy?!</color>
 ()<Speaker></Speaker>||:A transmission comes through just as Vector is about to practice ways of scaring people...alone.
 Vector(2)<Speaker>Vector</Speaker>||:...I told you to stop calling me that.
-Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>Huh? Did you?</color>+<color=#00CCFF>C'mon! Vivi is such a cute nickname!</color>
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><scan><通讯框>||:<color=#00CCFF>Huh? Did you?</color>+<color=#00CCFF>C'mon! Vivi is such a cute nickname!</color>
 Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:...Whatever. What is it?
-Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>Okay okay we're setting off in a few days are you prepared oh my days what should I do I'm so excited this is the first time I'm gonna be an adjutant-</color>
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><scan><通讯框>||:<color=#00CCFF>Okay okay we're setting off in a few days are you prepared oh my days what should I do I'm so excited this is the first time I'm gonna be an adjutant-</color>
 Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:Hold up. You've already asked me the same question 192 times during the last two days - 193 now.
-Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>Whaaat? Have I really mentioned it that often?</color>+<color=#00CCFF>But I'm just so happy! Aren't you happy, Vivi? We're gonna be friends!</color>
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><scan><通讯框>||:<color=#00CCFF>Whaaat? Have I really mentioned it that often?</color>+<color=#00CCFF>But I'm just so happy! Aren't you happy, Vivi? We're gonna be friends!</color>
 Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:No. +And I doubt that you'll be happy working with a disagreeable T-Doll like me.
-Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>What are you talking about? Stop putting yourself down!</color>+<color=#00CCFF>Say, where are you? Let's go to the haunted house together!</color>
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><scan><通讯框>||:<color=#00CCFF>What are you talking about? Stop putting yourself down!</color>+<color=#00CCFF>Say, where are you? Let's go to the haunted house together!</color>
 Vector(2)<Speaker>Vector</Speaker>||:There are only T-Dolls who can't scare anyone in the haunted house. Nothing to see...
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><闪屏><duration>10</duration></闪屏><黑屏1>0,2</黑屏1>:Click.
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>0,2</黑屏2>:While Vector and PP-90 are corresponding, the dimly lit room turns pitch black.
 Vector(2)<Speaker>Vector</Speaker>||:Power outage... A trip?
-Vector(2);PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>Vivi, did something happen on your side?!</color>
+Vector(2);PP90(0)<Speaker>PP-90</Speaker><scan><通讯框>||:<color=#00CCFF>Vivi, did something happen on your side?!</color>
 Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:Doesn't matter. It has nothing to do with you.
-PP90(0)<Speaker>PP-90</Speaker><通讯框>||:<color=#00CCFF>How could it not matter? Vivi, I'm-</color>
+PP90(0)<Speaker>PP-90</Speaker><scan><通讯框>||:<color=#00CCFF>How could it not matter? Vivi, I'm-</color>
 ()<Speaker></Speaker>||:Vector terminates the call before PP-90 finishes her sentence.
 Vector(2)<Speaker>Vector</Speaker>||<Night>:Is something wrong with the cables in this base? It feels like this kind of thing happens way too often... +But since I'm on a mission, it doesn't feel right to leave my post without permission. +Whatever. Guess I'll just wait here.
 ()<Speaker></Speaker>||<SE1>Runstep</SE1>:Clack.

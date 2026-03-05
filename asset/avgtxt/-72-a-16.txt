@@ -12,13 +12,13 @@ AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||:Commander, the Stasi
 AR18(2)<Speaker>Commander</Speaker><Position>0,100</Position><同时置暗>||:<color=#00CCFF>Good. What about the Dolls that were left on board for repairs?</color>
 AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||:One moment please. I'll need to contact RO about this.
 AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||<SE1>AVG_tele_connect</SE1>:RO, have your reached the repair bay?
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Yes. We had locked down the repair bay with a system override before we left. There were traces of attempted tampering here too, but they failed.</color>+<color=#00CCFF>It looks like the Stasi then cut power to the entire maintenance area—it only just got restored.</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Ugh! Those Stasi agents are the worst! Not only did they seize someone else's MBV by force, they even rifled through everything like a bunch of thieves!</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Yes. We had locked down the repair bay with a system override before we left. There were traces of attempted tampering here too, but they failed.</color>+<color=#00CCFF>It looks like the Stasi then cut power to the entire maintenance area—it only just got restored.</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Ugh! Those Stasi agents are the worst! Not only did they seize someone else's MBV by force, they even rifled through everything like a bunch of thieves!</color>
 AR18(5)<Speaker>AR-18</Speaker><Position>0,100</Position>||:Were the Dolls harmed?
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>No, they just had their repairs paused. Repairs have now resumed.</color>+<color=#00CCFF>Also, there's a batch of general-purpose Doll parts sitting here—probably left behind by the Stasi...</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Don't think that makes up for anything! Let me check what's in that stash first!</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>No, they just had their repairs paused. Repairs have now resumed.</color>+<color=#00CCFF>Also, there's a batch of general-purpose Doll parts sitting here—probably left behind by the Stasi...</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Don't think that makes up for anything! Let me check what's in that stash first!</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>It's fine as long as the Dolls are okay. Speed up their repair process.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Yes, Commander.</color>+<color=#00CCFF>We'll continue with the Elmo's repairs and diagnostics.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, Commander.</color>+<color=#00CCFF>We'll continue with the Elmo's repairs and diagnostics.</color>
 AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position>||:Yeah—and keep an eye out. The Stasi may have planted some bugs.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:AR-18 continues rebooting all dormant systems. Soon, the Elmo's lights, ventilation, water, and power are all functioning normally again.
@@ -97,28 +97,28 @@ NPC-Hebe(3)<Speaker>Hebe</Speaker>||:...Honestly, I'm getting tired of this body
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Welcome to the Aeneas Conference Room, everyone. From this point forward, all mission orders and intelligence updates will be issued here.</color>
 ()<Speaker></Speaker>||:The Commander gestures for AR-18 to project a map of Frankfurt into the room.+Several flashing red dots mark the locations of Doll teams still operating within the city.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Currently, Squad 404 and Task Force DEFY are still in the urban area of Frankfurt. The AR Team will head over to assist you shortly.</color>+<color=#00CCFF>To counter sweeps and attacks from the Nytos, all teams remaining in the city must change safe houses every 24 hours.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Don't worry—this is 404's specialty.</color>
-UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>We've also prepared backup locations for the other teams!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Don't worry—this is 404's specialty.</color>
+UMP9Mod(3)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>We've also prepared backup locations for the other teams!</color>
 ()<Speaker>Commander</Speaker>||<CGDelay>0.5</CGDelay>:<color=#00CCFF>Great work. Please stay safe out there.</color>
-G11Mod(0)<Speaker>Gr G11</Speaker><通讯框>||:<color=#00CCFF>...Commander.</color>+<color=#00CCFF>How's 416 doing?</color>
-G11Mod(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:<color=#00CCFF>416 has been placed in a repair tank. Her situation is complicated, and repairs can't be completed onboard the Elmo.</color>+<color=#00CCFF>But don't worry—her damaged data have already been sent to Persica and Dier. Their initial assessment is cautiously optimistic.</color>
-G11Mod(0)<Speaker>Gr G11</Speaker><通讯框>||<CGDelay>0.5</CGDelay>:
-G11Mod(0)<Speaker>Gr G11</Speaker><通讯框>||:<color=#00CCFF>...Okay!</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>We reviewed the electronic warfare attack that took down 416. The enemy was clearly prepared—the amount of redundant data was overwhelming. I tried every decryption tool available... Honestly, the workload alone could get me archived in a Doll Antique Museum.</color>+<color=#00CCFF>The opponent appears to have used a data compilation structure I've never seen before. We still can't determine her basic profile or combat style.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:<color=#00CCFF>The fact that she was able to take out 416 without alerting us makes her extremely dangerous.</color>+<color=#00CCFF>We know far too little about her right now. Don't act rashly.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Understood.</color>
+G11Mod(0)<Speaker>Gr G11</Speaker><scan><通讯框>||:<color=#00CCFF>...Commander.</color>+<color=#00CCFF>How's 416 doing?</color>
+G11Mod(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:<color=#00CCFF>416 has been placed in a repair tank. Her situation is complicated, and repairs can't be completed onboard the Elmo.</color>+<color=#00CCFF>But don't worry—her damaged data have already been sent to Persica and Dier. Their initial assessment is cautiously optimistic.</color>
+G11Mod(0)<Speaker>Gr G11</Speaker><scan><通讯框>||<CGDelay>0.5</CGDelay>:
+G11Mod(0)<Speaker>Gr G11</Speaker><scan><通讯框>||:<color=#00CCFF>...Okay!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>We reviewed the electronic warfare attack that took down 416. The enemy was clearly prepared—the amount of redundant data was overwhelming. I tried every decryption tool available... Honestly, the workload alone could get me archived in a Doll Antique Museum.</color>+<color=#00CCFF>The opponent appears to have used a data compilation structure I've never seen before. We still can't determine her basic profile or combat style.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:<color=#00CCFF>The fact that she was able to take out 416 without alerting us makes her extremely dangerous.</color>+<color=#00CCFF>We know far too little about her right now. Don't act rashly.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Understood.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>I'll also try to dig up intel on this new Nyto from other sources.</color>
-NPC-AK12Mod(11)<Speaker>AK-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, both DEFY and 404 are continuing real-time monitoring of the Bee Sting System.</color>+<color=#00CCFF>Paradeus has significantly increased the frequency of dynamic key changes, and the security level of those keys has also gone up.</color>
-NPC-AK12Mod(11)<Speaker>Commander</Speaker><同时置暗><通讯框>||:<color=#00CCFF>Any new discoveries concerning Project Cocoon?</color>
-NPC-AK12Mod(11)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>On that subject, all Paradeus factories in Frankfurt have ramped up to full production capacity.</color>+<color=#00CCFF>This is unprecedented—it's like they no longer care about staying hidden, discarding all attempts at concealment just to manufacture Iaso's Boxes.</color>
+NPC-AK12Mod(11)<Speaker>AK-12</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, both DEFY and 404 are continuing real-time monitoring of the Bee Sting System.</color>+<color=#00CCFF>Paradeus has significantly increased the frequency of dynamic key changes, and the security level of those keys has also gone up.</color>
+NPC-AK12Mod(11)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:<color=#00CCFF>Any new discoveries concerning Project Cocoon?</color>
+NPC-AK12Mod(11)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>On that subject, all Paradeus factories in Frankfurt have ramped up to full production capacity.</color>+<color=#00CCFF>This is unprecedented—it's like they no longer care about staying hidden, discarding all attempts at concealment just to manufacture Iaso's Boxes.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>...They're accelerating Project Cocoon's timeline.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>We can't let them complete the shipment...</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>We can't let them complete the shipment...</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>Right. Locate their production lines and find a way to destroy them.</color>
-NPC-AK12Mod(11)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>We've confirmed that one of the production lines is near Brentanopark in the Eschborn District.</color>
+NPC-AK12Mod(11)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>We've confirmed that one of the production lines is near Brentanopark in the Eschborn District.</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>AR-18, give me everything we have on that site.</color>
-AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>Yes, Commander.</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,100</Position><scan><通讯框>||:<color=#00CCFF>Yes, Commander.</color>
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1><CGDelay>0.5</CGDelay>:
-NPC-AK12Mod(11)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>DEFY is ready to move at any time.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>404 is in position.</color>
+NPC-AK12Mod(11)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>DEFY is ready to move at any time.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>404 is in position.</color>
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:
 ()||<黑点1>:

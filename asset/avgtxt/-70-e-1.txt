@@ -28,9 +28,9 @@ NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:Is that wha
 ()<Speaker></Speaker>||<黑屏2><BIN>7</BIN><CGDelay>0.5</CGDelay>:...
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:On a quiet, deserted snowfield, AK-12 establishes contact with AR-18.
 NPC-AK12Mod(4)<Speaker>AK-12</Speaker>||:Nadia has been eliminated.
-NPC-AK12Mod(4);AR18(0)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>Acknowledged.</color>
+NPC-AK12Mod(4);AR18(0)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>Acknowledged.</color>
 NPC-AK12Mod(4)<Speaker>AK-12</Speaker>;AR18(0)||:Also, we've obtained some key information— +The server of the Bee Sting System is hidden under the Main.
-NPC-AK12Mod(4);AR18(0)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>We have secured our permit and will be able to join you in Frankfurt soon.</color>
+NPC-AK12Mod(4);AR18(0)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>We have secured our permit and will be able to join you in Frankfurt soon.</color>
 NPC-AK12Mod(4)<Speaker>AK-12</Speaker>||:Right.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:AK-12 hangs up. Before her, a sphere of yellow light as small and delicate as an egg slowly rises from the horizon, dyeing the sky red around it. +She raises her eyebrows.
 NPC-AK12Mod(4)<Speaker>AK-12</Speaker>||:Look, Ange. It's your hated sunrise.

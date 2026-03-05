@@ -26,7 +26,7 @@ HK416(0)<Speaker>416</Speaker>;UMP9(2)||:Because it's been three minutes and you
 UMP9(3)<Speaker>UMP9</Speaker>||<黑屏1>:Ha...♪+This is the last of them. Count yourself lucky.
 UMP9()<Speaker>UMP9</Speaker>||<BIN>9</BIN><黑屏2>:I'll contact 45 now. You find a spot to set up an ambush.+But seriously though, the Sangvis are gonna be here very soon. You sure you don't wanna pray first?
 HK416()<Speaker>416</Speaker>||<黑屏1>:The Sangvis are the ones who will be praying if everything goes well with 45's plan.
-UMP45(0)<Speaker>UMP45</Speaker><通讯框>||<黑屏2><BIN>3</BIN><Night><SE1>Battlefield</SE1>:Calling UMP9, is 416 dead yet?
+UMP45(0)<Speaker>UMP45</Speaker><scan><通讯框>||<黑屏2><BIN>3</BIN><Night><SE1>Battlefield</SE1>:Calling UMP9, is 416 dead yet?
 HK416(2)<Speaker>416</Speaker>;UMP45(0)||:Sorry to disappoint. Tell me you're going to withdraw us now.
 HK416(2);UMP45(0)<Speaker>UMP45</Speaker>||:Don't be in such a rush to leave, 416. I don't plan on losing.+I'll break you guys out. 9 will then group up with me for a new objective.+Gr G11 is gathering intel in enemy territory, so you'll need to meet up with her and act as her bodyguard, 416. We'll pick you two up after.
 HK416(2)<Speaker>416</Speaker>;UMP45(0)||:(Sigh) Don't be in such a rush to give us orders when we're not even prepared to go against armored enemies.

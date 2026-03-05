@@ -8,9 +8,9 @@ M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Yeah, the Commander
 RO635(0)<Speaker>RO635</Speaker>||:So let's just focus on our mission for now. +There will be other opportunities.
 ()||:...An incoming comms request.
 RO635(0)<Speaker>RO635</Speaker>||:This is RO635. Is something the matter?
-RO635(0);Lewis(0)<Speaker>Lewis</Speaker><通讯框>||:<color=#00CCFF>Report from the first barricade - it seems that the Sangvis convoy is attempting to change course to avoid the route that we've sealed off.</color> +<color=#00CCFF>Should we regroup with you?</color>
+RO635(0);Lewis(0)<Speaker>Lewis</Speaker><scan><通讯框>||:<color=#00CCFF>Report from the first barricade - it seems that the Sangvis convoy is attempting to change course to avoid the route that we've sealed off.</color> +<color=#00CCFF>Should we regroup with you?</color>
 RO635(0)<Speaker>RO635</Speaker>;Lewis(0)||:I understand. Please stay where you are for the time being and keep track of Sangvis Ferri and any other enemies. +Keep in touch. We'll send you new directives later.
-Lewis(0)<Speaker>Lewis</Speaker>||<通讯框>:<color=#00CCFF>Copy that. We'll keep our eyes open.</color>
+Lewis(0)<Speaker>Lewis</Speaker>||<scan><通讯框>:<color=#00CCFF>Copy that. We'll keep our eyes open.</color>
 ()||:...Transmission ends.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Is M16...avoiding us on purpose?
 RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:Perhaps... But if they want to get out of the city, there's no way they can go around our current location. +SOP-II, we'll definitely get to see her again this time.
@@ -34,7 +34,7 @@ Beak_M16(0)<Speaker>Beak</Speaker>||:Dammit, guess I'll just do this—
 RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN>:Have they stopped?! +I can't see anything...through this thick smoke...
 ()||:...Click.
 RO635(0)<Speaker>RO635</Speaker>||:A comms request? +Hang on, this signal ID...
-AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>RO635, it's me.</color> +<color=#00CCFF>I need your assistance right now.</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>RO635, it's me.</color> +<color=#00CCFF>I need your assistance right now.</color>
 ()||<黑屏2>:...
 M16A1()||<黑屏1>:Cough...
 ()||<BIN>159</BIN><黑屏2>:The air is filled with heavy smoke. M16 gets to her feet and hears a familiar voice from nearby.

@@ -4,13 +4,13 @@ RO635(4)<Speaker>RO635</Speaker>||:At this rate... No...the entire city will be 
 ()<Speaker></Speaker>||:The Infected surge towards the city center from all directions. RO635 and the Commander's team are all but surrounded by the swarm outside the conference hall.
 RO635(4)<Speaker>RO635</Speaker>||:Commander, we can't fight them all...! +This place is going to be completely swamped by the infected creatures soon! We've got to retreat to the cathedral!
 ()<Speaker></Speaker>||:Click— +All of a sudden, K's voice comes through the comms channel once again.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Is that all Griffin's got?</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Is that all Griffin's got?</color>
 RO635(4)<Speaker>RO635</Speaker>;NPC-Jason(0)||:Damn this guy who only knows how to jeer on the other end of the line!
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Your lives are insignificant, but if anything happens to the VIP, there won't be any reason for Griffin to exist anymore.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Your lives are insignificant, but if anything happens to the VIP, there won't be any reason for Griffin to exist anymore.</color>
 NPC-Jason(0)<Speaker>Commander</Speaker>||:Tsk...we're still within range of the 30mm cannon. They'll try to snipe us again the moment we leave the building's cover!
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Their artillery position has been neutralized.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Their artillery position has been neutralized.</color>
 NPC-Jason(0)<Speaker>Commander</Speaker>||:Was that the agents' doing?
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>Yes, but it was a suicide mission. They bought you this chance with their own lives.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, but it was a suicide mission. They bought you this chance with their own lives.</color>
 ()<Speaker>Commander</Speaker>||:...They have my deepest gratitude. RO, get all teams to prepare for action and get ready to move the VIP!
 RO635(4)<Speaker>RO635</Speaker>||:On foot...?! But under these circumstances...
 RO635(4)<Speaker>Commander</Speaker>||:We're just sitting ducks if we stay here! Go!

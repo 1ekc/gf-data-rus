@@ -51,7 +51,7 @@ M99(0)<Speaker>M99</Speaker>||<黑屏1>:Will she really be alright...she seems s
 ()||:Type79 takes a seat and imitates how that female guest crosses her legs, holding her high-stemmed glass with her middle and ring fingers.
 79type(4)<Speaker>Type79</Speaker>||:...+<color=#A9A9A9>(No, this is just too awkward! What on earth am I doing?!)</color>+<color=#A9A9A9>(Sigh...if I'd known this would happen, I should have just refused the Commander...)</color>+<color=#A9A9A9>(In the end, I'm just a Tactical Doll. What on earth would I talk about at a party? This doesn't suit me at all...)</color>
 ()||<SE1>AVG_tele_connect</SE1>:—Click. +A call comes through.
-M99(6)<Speaker>M99</Speaker><通讯框>||:<color=#00CCFF>Hey, 79, are you free now?</color>
+M99(6)<Speaker>M99</Speaker><scan><通讯框>||:<color=#00CCFF>Hey, 79, are you free now?</color>
 79type(4)<Speaker>Type79</Speaker>;M99(6)||:Did something happen, Class Rep? Did someone sneak into the party venue?!
 79type(4);M99(6)<Speaker>M99</Speaker>||:<color=#00CCFF>No, everything's fine.</color>+<color=#00CCFF>I met some new friends with K2, and we want to play... er, what is it again? Ohhh! It's called "Texas Hold 'Em", want to join us?</color>
 79type(4)<Speaker>Type79</Speaker>;M99(6)||:I'm not really interested. You should just go ahead and enjoy yourselves, Class Rep.

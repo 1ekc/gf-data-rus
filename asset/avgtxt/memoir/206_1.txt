@@ -7,11 +7,11 @@
 ()<Speaker></Speaker>||:The spires of the cathedral etch a stark line across the gray sky, separating it from the ground. +Faint candlelight spills out through the dark windows carved out of stone. The patches of light flicker in the frigid wind, creating the illusion that the cathedral, too, is shivering in the cold.
 ()<Speaker></Speaker>||:Soft weeps and whispered prayers can be heard from the crowd. +AK-12 gazes at Shaw's youthful face on the screen.
 ()<Speaker>Interviewer</Speaker>||:<color=#00CCFF>Doctor Shaw, you were admitted to the St. Petersburg State University of Civil Aviation with top scores, specializing in piloting and flight instruction. Have you always had an interest in aircraft?</color> +<color=#00CCFF>How does it feel to soar in the sky?</color>
-NPC-shaw(7)<Speaker>Samantha Shaw</Speaker><通讯框>||:<color=#00CCFF>Yes, I've loved aircraft since I was very little. Flying brings me great joy.</color>
+NPC-shaw(7)<Speaker>Samantha Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, I've loved aircraft since I was very little. Flying brings me great joy.</color>
 ()<Speaker>Interviewer</Speaker>||:<color=#00CCFF>Is it the sense of freedom as you look at the blue sky and white clouds all around you, as you peer down at how small everything is below you?</color>
-NPC-shaw(7)<Speaker>Samantha Shaw</Speaker><通讯框>||:<color=#00CCFF>It's more straightforward than that.</color> +<color=#00CCFF>Have you ever flown in a helicopter? If you haven't, I highly recommend you give it a try.</color> +<color=#00CCFF>When you're up there, you'll feel like you've conquered the skies.</color>
+NPC-shaw(7)<Speaker>Samantha Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>It's more straightforward than that.</color> +<color=#00CCFF>Have you ever flown in a helicopter? If you haven't, I highly recommend you give it a try.</color> +<color=#00CCFF>When you're up there, you'll feel like you've conquered the skies.</color>
 ()<Speaker>Interviewer</Speaker>||:<color=#00CCFF>..."Conquer". What an ambitious word.</color>
-NPC-shaw(7)<Speaker>Samantha Shaw</Speaker><通讯框>||:<color=#00CCFF>It was the favorite word of both Peter the Great and Catherine the Great.</color> +<color=#00CCFF>Don't you like it?</color>
+NPC-shaw(7)<Speaker>Samantha Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>It was the favorite word of both Peter the Great and Catherine the Great.</color> +<color=#00CCFF>Don't you like it?</color>
 ()<Speaker>Interviewer</Speaker>||:<color=#00CCFF>Of course I do. It's like "vodka" for the Russian soul.</color>
 ()<Speaker></Speaker>||:...
 ()||<黑屏1><CGDelay>0.7</CGDelay>:

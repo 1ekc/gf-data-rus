@@ -2,7 +2,7 @@
 ()||<黑屏2><BIN>82</BIN><BGM>BGM_Room</BGM>:In a Griffin Dorm. +<color=#00CCFF>You have a new communications request.</color>
 Welrod(0)<Speaker>Welrod MkII</Speaker>||:An unfamiliar friendly signal. Who would want to message me at this hour? Or perhaps it's an urgent assignment for me...?
 Welrod(0)<Speaker>Welrod MkII</Speaker>||<SE1>AVG_tele_connect</SE1>:Hello, Welrod speaking.
-M82A1(0)<Speaker>M82A1</Speaker><通讯框>;Welrod(0)||:<color=#00CCFF>Hello Welrod, this is M82A1.</color> +<color=#00CCFF>I apologize for getting in touch completely out of the blue, but I was hoping you could carry out a mission in my place.</color>
+M82A1(0)<Speaker>M82A1</Speaker><scan><通讯框>;Welrod(0)||:<color=#00CCFF>Hello Welrod, this is M82A1.</color> +<color=#00CCFF>I apologize for getting in touch completely out of the blue, but I was hoping you could carry out a mission in my place.</color>
 M82A1(0);Welrod(0)<Speaker>Welrod MkII</Speaker>||:It is my duty to share my companions' burdens. +But Griffin's arrangements usually make a lot of sense, so why do you need my help?
 M82A1(0)<Speaker>M82A1</Speaker>;Welrod(0)||:<color=#00CCFF>Please believe me, I'm not one to shirk my responsibilities. I strive to complete every mission assigned by the Commander with perfection if that's at all possible...</color> +<color=#00CCFF>But due to personal reasons, I am incapable of undertaking this mission, and you are the only one that came to mind as I try to find a reliable Doll who also happens to be free at the moment.</color>
 M82A1(0);Welrod(0)<Speaker>Welrod MkII</Speaker>||:...I won't ask any further. +Since you seem to have unspeakable reasons, I'll do this for you. May I have the details of the assignment?

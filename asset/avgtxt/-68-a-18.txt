@@ -12,30 +12,30 @@ Erma(25)<Speaker>Erma</Speaker><Position>0,155</Position>||:The restrictions are
 NPC_Stevens520(0)<Speaker>Reinette</Speaker><Position>0,60</Position>||:... +We can contact other Dolls...
 ()||:Reinette opens Doctor Hume's special comms channel.
 NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>Mirabelle! Get your ass out here!</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>...I'm here.</color>
-AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>||:<color=#66CDAA>Erma? Where are you? Are you safe?</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>...I'm here.</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#66CDAA>Erma? Where are you? Are you safe?</color>
 Erma(26)<Speaker>Erma</Speaker><Position>0,155</Position>||:<color=#66CDAA>I'm okay. I'm with Reinette.</color>
-AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#66CDAA>Who is Reinette?</color>
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#66CDAA>Who is Reinette?</color>
 NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>It's me. Ignore the name.</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>I can't read your location. Are you still in the Summer Garden?</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>I can't read your location. Are you still in the Summer Garden?</color>
 Erma(27)<Speaker>Erma</Speaker><Position>0,155</Position>||:<color=#66CDAA>Can I trust you?</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>You can always trust me.</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>You can always trust me.</color>
 Erma(25)<Speaker>Erma</Speaker><Position>0,155</Position>||<黑点1>:<color=#66CDAA>...Right.</color>
 NPC_Stevens520(0)<Speaker>Reinette</Speaker><Position>0,60</Position>||<黑点2>:<color=#66CDAA>Here's the deal—we got lost, but Mirabelle led us into a fountain named "Nadia", and we somehow ended up in this Lake of Cognition.</color>
-AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#66CDAA>...The Lake of Cognition? I don't possess enough information about Paradeus to be of much support.</color> +<color=#66CDAA>I'm afraid only Dandelion can help you... but I still haven't been able to learn much about the Commander's disappearance.</color>
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#66CDAA>...The Lake of Cognition? I don't possess enough information about Paradeus to be of much support.</color> +<color=#66CDAA>I'm afraid only Dandelion can help you... but I still haven't been able to learn much about the Commander's disappearance.</color>
 NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>I just knew I couldn't count on you!</color>
-NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><通讯框>;NPC_Stevens520(1)<Position>0,60</Position>||:<color=#66CDAA>Focus! 520, you need to find the mouth of the fountain. Only then will you be able to make it back here.</color>
-NPC_Stevens620(1)<通讯框>;NPC_Stevens520(0)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>520... Dropping the act, finally?</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>;NPC_Stevens520(0)<Position>0,60</Position>||:<color=#66CDAA>...It wasn't an act. I just wanted to piss you off.</color>
-NPC_Stevens620(0)<通讯框>;NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>I knew it! Change my user ID this instant!</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>;NPC_Stevens520(1)<Position>0,60</Position>||:<color=#66CDAA>Can't do it. You're too far away.</color>
-NPC_Stevens620(0)<通讯框>;NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>...</color>
-NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><通讯框>;NPC_Stevens520(1)<Position>0,60</Position>||:<color=#66CDAA>Now stop wasting time. The mouth of the fountain should be at the very bottom of the Lake of Cognition.</color>
-NPC_Stevens620(1)<通讯框>;NPC_Stevens520(0)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>The very bottom?</color>
+NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><scan><通讯框>;NPC_Stevens520(1)<Position>0,60</Position>||:<color=#66CDAA>Focus! 520, you need to find the mouth of the fountain. Only then will you be able to make it back here.</color>
+NPC_Stevens620(1)<scan><通讯框>;NPC_Stevens520(0)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>520... Dropping the act, finally?</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>;NPC_Stevens520(0)<Position>0,60</Position>||:<color=#66CDAA>...It wasn't an act. I just wanted to piss you off.</color>
+NPC_Stevens620(0)<scan><通讯框>;NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>I knew it! Change my user ID this instant!</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>;NPC_Stevens520(1)<Position>0,60</Position>||:<color=#66CDAA>Can't do it. You're too far away.</color>
+NPC_Stevens620(0)<scan><通讯框>;NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>...</color>
+NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><scan><通讯框>;NPC_Stevens520(1)<Position>0,60</Position>||:<color=#66CDAA>Now stop wasting time. The mouth of the fountain should be at the very bottom of the Lake of Cognition.</color>
+NPC_Stevens620(1)<scan><通讯框>;NPC_Stevens520(0)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>The very bottom?</color>
 NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><Position>-200,0</Position>;NPC_Stevens520(0)<Position>0,60</Position>||:<color=#66CDAA>Erma, listen to me carefully.</color>
-NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>Don't let the turbulence and whispers distract you. What you're seeing, Erma, is the physical manifestation of data and electromagnetic waves.</color> +<color=#66CDAA>The energy of the Lake of Cognition is currently increasing exponentially, and so is the Isomers' interaction with each other. When the energy approaches infinity, the singularity—that is, the mouth of the fountain—will appear. </color> +<color=#66CDAA>I need you to concentrate, observe the pattern of the fluctuation, and follow the sound of the water. Find the sound of the water that only you can hear. </color>
+NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>Don't let the turbulence and whispers distract you. What you're seeing, Erma, is the physical manifestation of data and electromagnetic waves.</color> +<color=#66CDAA>The energy of the Lake of Cognition is currently increasing exponentially, and so is the Isomers' interaction with each other. When the energy approaches infinity, the singularity—that is, the mouth of the fountain—will appear. </color> +<color=#66CDAA>I need you to concentrate, observe the pattern of the fluctuation, and follow the sound of the water. Find the sound of the water that only you can hear. </color>
 Erma(25)<Speaker>Erma</Speaker><Position>0,155</Position>||:<color=#66CDAA>...</color>
-AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#66CDAA>...Erma, we will be reaching Frankfurt very soon.</color> +<color=#66CDAA>Hang in there. I'm coming for you.</color>
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#66CDAA>...Erma, we will be reaching Frankfurt very soon.</color> +<color=#66CDAA>Hang in there. I'm coming for you.</color>
 Erma(27)<Speaker>Erma</Speaker><Position>0,155</Position>||:<color=#66CDAA>Okay...</color>
 ()||<BGM>BGM_Empty</BGM>:Hearing the sob in Erma's voice, Reinette turns to look at her in surprise.
 NPC_Stevens520(2)<Speaker>Reinette</Speaker><Position>0,60</Position>||:Erma...?
@@ -80,22 +80,22 @@ Erma(25)<Speaker>Erma</Speaker><Position>0,155</Position>||:... +I don't know wh
 NPC-Sana(8)<Speaker>Sana</Speaker>||:The one who gave me this flower once told me... +We would meet again in a safe place far, far away. +Under Lunasia's guidance, we would have true salvation.
 Erma(25)<Speaker>Erma</Speaker><Position>0,155</Position>||:...
 NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>What is she talking about?</color>
-AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#66CDAA>Lunasia... I have come across this name multiple times in Griffin's database.</color> +<color=#66CDAA>If I remember correctly, she was headed... to the same destination... as the Mastermind of Sangvis Ferri.</color>
-NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>But she was led to our Summer Garden...</color>
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#66CDAA>Lunasia... I have come across this name multiple times in Griffin's database.</color> +<color=#66CDAA>If I remember correctly, she was headed... to the same destination... as the Mastermind of Sangvis Ferri.</color>
+NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>But she was led to our Summer Garden...</color>
 NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||<震屏>:<color=#66CDAA>...They are not like us! They are monsters that demons created out of human corpses.</color>
-NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>...</color> +<color=#66CDAA>I believe Her Majesty the King has the answer to this question.</color> +<color=#66CDAA>Would you care to hear it?</color>
+NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>...</color> +<color=#66CDAA>I believe Her Majesty the King has the answer to this question.</color> +<color=#66CDAA>Would you care to hear it?</color>
 NPC_Stevens520(0)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>...You can save the foreshadowing and just tell us.</color>
-NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>...Then, let me relay her answer to you.</color> +<color=#66CDAA>Like Dolls, the human perception of things is obtained through "reflection".</color> +<color=#66CDAA>Unfortunately, the human brain is too complex, and there is no mirror that can give a full picture of the human brain.</color> +<color=#66CDAA>But to create a truly human-like machine, there is no avoiding the impossible task of fully constructing a human brain.</color>
-NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>This challenge has led to the founding of many academic disciplines, all trying to unravel the mystery that is the human brain—psychology, philosophy, neuroscience, biology... They are like projections, reflected on various planes, showing different shapes.</color> +<color=#66CDAA>Through these shapes, humans try to imagine and piece together the brain, but they cannot produce anything other than a poor imitation of God's creation.</color>
-AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#66CDAA>In fact, the creator deity is quite similar in this regard... All cultures have a creator deity, but different cultures have different interpretations of what this "God" is.</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>That's right, a beam of light has passed through the prism of the human brain and presented the truth on a screen.</color> +<color=#66CDAA>Doctor Hume alone witnessed this, and he alone remembered this.</color>
-AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#66CDAA>You are referring to... the Relics. Doctor Hume was exposed to a large dose of radiation in his youth...</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>That catastrophe gave the Doctor a glimpse of [GRCh38], where the beam originated from.</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>At this point, humans have succeeded in creating Dolls, Sangvis Ferri units, Nytos, and more...</color> +<color=#66CDAA>All designers involved in the creation of the Mastermind have more or less been influenced by the "Human Intelligence Research".</color>
+NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>...Then, let me relay her answer to you.</color> +<color=#66CDAA>Like Dolls, the human perception of things is obtained through "reflection".</color> +<color=#66CDAA>Unfortunately, the human brain is too complex, and there is no mirror that can give a full picture of the human brain.</color> +<color=#66CDAA>But to create a truly human-like machine, there is no avoiding the impossible task of fully constructing a human brain.</color>
+NPC_Stevens620(1)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>This challenge has led to the founding of many academic disciplines, all trying to unravel the mystery that is the human brain—psychology, philosophy, neuroscience, biology... They are like projections, reflected on various planes, showing different shapes.</color> +<color=#66CDAA>Through these shapes, humans try to imagine and piece together the brain, but they cannot produce anything other than a poor imitation of God's creation.</color>
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#66CDAA>In fact, the creator deity is quite similar in this regard... All cultures have a creator deity, but different cultures have different interpretations of what this "God" is.</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>That's right, a beam of light has passed through the prism of the human brain and presented the truth on a screen.</color> +<color=#66CDAA>Doctor Hume alone witnessed this, and he alone remembered this.</color>
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#66CDAA>You are referring to... the Relics. Doctor Hume was exposed to a large dose of radiation in his youth...</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>That catastrophe gave the Doctor a glimpse of [GRCh38], where the beam originated from.</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>At this point, humans have succeeded in creating Dolls, Sangvis Ferri units, Nytos, and more...</color> +<color=#66CDAA>All designers involved in the creation of the Mastermind have more or less been influenced by the "Human Intelligence Research".</color>
 NPC_Stevens520(0)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>But that still doesn't explain how our base layer is connected to this place!</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>You can think of [GRCh38] as an energy field. As long as it is based on this framework, no matter how the design is iterated or modified, it will eventually flow back here like rivers flowing into the ocean.</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>You can think of [GRCh38] as an energy field. As long as it is based on this framework, no matter how the design is iterated or modified, it will eventually flow back here like rivers flowing into the ocean.</color>
 NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>So this... common paradise... This collective existence in the future.</color> +<color=#66CDAA>They all refer to the same thing.</color> +<color=#66CDAA>A certain space that will be reached—a space which Doctor Hume has named [GRCh38]?</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>Erma? Why aren't you saying anything?</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>Erma? Why aren't you saying anything?</color>
 Erma(25)<Speaker>Erma</Speaker><Position>0,155</Position>||:<color=#66CDAA>...</color> +<color=#66CDAA>What you're saying is going way over my head...</color> +<color=#66CDAA>But on a more important note...</color>
 ()||<BGM>BGM_Empty</BGM>:Erma turns to Sana.
 Erma(27)<Speaker>Erma</Speaker><Position>0,155</Position>||:I'm sorry, but I'm not this Lunasia that you're waiting for.
@@ -129,8 +129,8 @@ Erma(25)<Speaker>Erma</Speaker><Position>0,155</Position>||:...
 Erma(29)<Speaker>Erma</Speaker><Position>0,155</Position>||:Who's that?
 NPC_Stevens520(0)<Speaker>Reinette</Speaker><Position>0,60</Position>||:What?
 Erma(25)<Speaker>Erma</Speaker><Position>0,155</Position>||:<color=#66CDAA>Did someone just speak to me?</color>
-AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><通讯框>||:<color=#66CDAA>No.</color>
-NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><通讯框>||:<color=#66CDAA>I didn't say anything either.</color>
+AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position><scan><通讯框>||:<color=#66CDAA>No.</color>
+NPC_Stevens620(0)<Speaker>Mirabelle</Speaker><scan><通讯框>||:<color=#66CDAA>I didn't say anything either.</color>
 NPC_Stevens520(1)<Speaker>Reinette</Speaker><Position>0,60</Position>||:<color=#66CDAA>What did you hear?</color>
 Erma(25)<Speaker>Erma</Speaker><Position>0,155</Position>||:<color=#66CDAA>I heard...</color>
 ()||<SE1>AVG_Chimes</SE1><黑屏1><BGM>BGM_Empty</BGM>:Ding... +A distant bell chimes, causing Erma's mind to seize up. +At that moment, she can neither think nor protest as she is dragged helplessly into an unknown space...

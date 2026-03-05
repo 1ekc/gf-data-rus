@@ -1,5 +1,5 @@
 ()||<BIN>2</BIN><BGM>BGM_Sneak</BGM><Night><黑屏2>:Полчаса спустя.
-AR(0)<Speaker>Galil</Speaker><通讯框>||:Галил вызывает Negev. Ты меня слышишь?
+AR(0)<Speaker>Galil</Speaker><scan><通讯框>||:Галил вызывает Negev. Ты меня слышишь?
 AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Начинай.
 AR(0)<Speaker>Galil</Speaker>;NEGEV(0)||:Местонахождение цели подтверждено. Она находится на территории заброшенного автозавода, как и предполагала наша разведка.
 AR(0);NEGEV(0)<Speaker>Negev</Speaker>||:Хмпф. Естественно. Это по моей же информации.

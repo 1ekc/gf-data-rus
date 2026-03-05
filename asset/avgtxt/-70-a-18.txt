@@ -4,15 +4,15 @@
 NytoWhite(0)<Speaker>Graff</Speaker>||:...
 ()<Speaker></Speaker>||:Graff bears Embla's instructions in mind as she retreats to the backstage studio amidst the chaos. +There she finds the control panels for the stage lights, sound, and set.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:She establishes contact with the leaders of Team "Bramedb" and Team "Morridow".
-Nyto(1)<Speaker>Leader of Team "Bramedb"</Speaker><通讯框>||:<color=#00CCFF>...Sister Graff.</color>
+Nyto(1)<Speaker>Leader of Team "Bramedb"</Speaker><scan><通讯框>||:<color=#00CCFF>...Sister Graff.</color>
 ()<Speaker></Speaker>||<CGDelay>0.1</CGDelay>:
-Nyto(1)<Speaker>Leader of Team "Morridow"</Speaker><通讯框>||:<color=#00CCFF>Please give us our orders soon. Things really aren't looking good.</color>
+Nyto(1)<Speaker>Leader of Team "Morridow"</Speaker><scan><通讯框>||:<color=#00CCFF>Please give us our orders soon. Things really aren't looking good.</color>
 NytoWhite(0)<Speaker>Graff</Speaker>||:Follow Sister Embla's plan and leave the opera house when Act Three begins. +Change into your Halloween costumes and rush into the crowd. Then find the designated location and set off the fireworks to liven things up for Sister Embla's party.
-Nyto(1)<Speaker>Leader of Team "Bramedb"</Speaker><通讯框>||:<color=#00CCFF>Copy that.</color>
+Nyto(1)<Speaker>Leader of Team "Bramedb"</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that.</color>
 ()<Speaker></Speaker>||<CGDelay>0.1</CGDelay>:
-Nyto(1)<Speaker>Leader of Team "Morridow"</Speaker><通讯框>||:<color=#00CCFF>Understood.</color>
+Nyto(1)<Speaker>Leader of Team "Morridow"</Speaker><scan><通讯框>||:<color=#00CCFF>Understood.</color>
 NytoWhite(0)<Speaker>Graff</Speaker>||:Team "Nemhran"... make sure you buy us as much time as you can. Also... +You'll need to raise the curtains on Act Three.
-Nyto(1)<Speaker>Leader of Team "Nemhran"</Speaker><通讯框>||:<color=#00CCFF>...Will do.</color>
+Nyto(1)<Speaker>Leader of Team "Nemhran"</Speaker><scan><通讯框>||:<color=#00CCFF>...Will do.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Graff checks the time. The real Sister Bramedb has already hacked the media's networks. +All she has to do is listen to the background music, and when it comes to that one beat... +Press the button.
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Button_Click</SE1>:Click.
 ()||<黑屏1><CGDelay>0.7</CGDelay>:Out on the streets in Frankfurt.
@@ -58,36 +58,36 @@ NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:...
 ()<Speaker></Speaker>||:But darkness is no obstacle to AK-12's Eye of the Snow Wolf.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BGM>GF_22W_BGM_3</BGM><黑屏2><Night><BIN>96</BIN><SE1>AVG_Cloak_Whoosh</SE1>:She can clearly see all the curtains coming down on the stage, and the number of combat units still active on the battlefield shows no sign of dwindling.
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>12, do you need support?</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>12, do you need support?</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>...No, I still have the situation under control.</color> +<color=#00CCFF>Go give 15 a hand.</color>
-AK15MOD(0)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...I'm doing perfectly fine.</color>
+AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...I'm doing perfectly fine.</color>
 ()<Speaker></Speaker>||<SE1>AVG_21Winter_Fire_Alarm</SE1>:Beep-beep-beep!
 ()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:An alarm starts blaring sharply, then several barriers are raised within the theater.
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>The fire alarm got triggered... What are these?</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>The fire alarm got triggered... What are these?</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Fire barriers in the Alte Oper...</color> +<color=#00CCFF>Stay where you are and don't move.</color>
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>What did you just say? We're getting separated!</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>What did you just say? We're getting separated!</color>
 ()<Speaker></Speaker>||:As the barriers continue to rise, a few Nytos near AN-94 block her from trying to vault over them.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE2>Gunfight</SE2>:
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>12, get out of there!</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>12, get out of there!</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>...I just intercepted the next phase of their plan.</color> +<color=#00CCFF>They have altered their objective—they're planning to create a commotion in the crowd outside so that a Nyto can detonate a bomb.</color> +<color=#00CCFF>94, 15, change of plans. Wipe out all the Nytos you see.</color>
-AK15MOD(0)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...</color>
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>...What?</color>
+AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>...What?</color>
 NPC-AK12Mod#隐身(2)<Speaker>AK-12</Speaker>||:<color=#00CCFF>You heard me—eliminate all Nytos to neutralize the bomb, stat.</color>
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Are you planning to take her on all by yourself...?</color>
-AK15MOD(3)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Are you planning to take her on all by yourself...?</color>
+AK15MOD(3)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Yes.</color>
 ()<Speaker></Speaker>||:The silence in the comms channel lasts only a few short seconds, but it feels incredibly long.
 ()<Speaker></Speaker>||<CGDelay>0.4</CGDelay>:
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Alright.</color>
-AK15MOD(4)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...I demand an explanation.</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Alright.</color>
+AK15MOD(4)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...I demand an explanation.</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Remember that game we once played?</color> +<color=#00CCFF>It was also a snowy Halloween.</color> +<color=#00CCFF>In that game of "Find the Ghost", the word you got was "Ange", wasn't it?</color>
-AK15MOD(0)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...Yes, but how is that relevant?</color>
+AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...Yes, but how is that relevant?</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>...I also got "Ange".</color> +<color=#00CCFF>I'll explain everything once this is all over.</color>
-AK15MOD(5)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...We agreed I'll be the one to end her.</color>
+AK15MOD(5)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...We agreed I'll be the one to end her.</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>It is my duty as the "Alpha Wolf".</color>
-AK15MOD(0)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...</color>
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>15...</color> +<color=#00CCFF>You've already questioned her once. She won't give you the answers you seek.</color>
-AK15MOD(3)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>...</color>
+AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>15...</color> +<color=#00CCFF>You've already questioned her once. She won't give you the answers you seek.</color>
+AK15MOD(3)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><震屏3><BGM>BGM_Empty</BGM>:Bang-bang-bang!
 ()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:AN-94 and AK-15 start making for the exit of the Alte Oper.
 ()||<黑点1>:

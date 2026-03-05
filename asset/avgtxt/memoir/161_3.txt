@@ -32,12 +32,12 @@ M99(0)<Speaker>M99</Speaker><Position>0,100</Position>||:The success of this per
 56-1type(0)<Speaker>Type 56-1</Speaker>||:Class Rep staged the whole thing because she was worried that you'd lost your courage and confidence. At least show some appreciation.
 97typeS(0)<Speaker>Type 97S</Speaker>||:But that couldn't...
 ()||<SE1>AVG_tele_connect</SE1>:Just then, Kalina's voice comes over the communicator.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>It's moving, the progress bar is moving, looks like what you're doing actually worked! You can prepare to return now.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>It's moving, the progress bar is moving, looks like what you're doing actually worked! You can prepare to return now.</color>
 NZ75(0)<Speaker>NZ75</Speaker>||:Well, we're heading back now. But I have to say, I'm just not used to you speaking like this.
 97typeS(0)<Speaker>Type 97S</Speaker>||<黑屏1>:Haven'tcha heard enough? Then ah'll gush on and on in front of ya from tomorrow onwards, till ya git sick of it—
 ()||<黑屏2><BIN>72</BIN>:Entering Level II transmission mode.
 ()||<SE1>AVG_tele_connect</SE1>:The communicator rings again.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Hang on, the progress bar stopped moving again, wait a little longer...</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Hang on, the progress bar stopped moving again, wait a little longer...</color>
 56-1type(0)<Speaker>Type 56-1</Speaker>||<黑屏2><BIN>46</BIN>:What, again? How much hidden trauma revolving around this damn door do you have anyway, Hawk?
 M99(0)<Speaker>M99</Speaker><Position>0,100</Position>||:Type 56-1, listen to the voices coming from inside. It sounds like some kind of party.
 ()||:Type 64 and NZ75 press their ears to the door.

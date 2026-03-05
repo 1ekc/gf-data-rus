@@ -5,7 +5,7 @@ NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Only half of them. They're pinned down b
 NPC-Kalin(4)<Speaker>Commander</Speaker>||:What a bunch of clingy bastards...
 NPC-Kalin(7)<Speaker>Kalina</Speaker>||:Our forces are scattered and the base is in chaos...
 NPC-Kalin(7)<Speaker>Commander</Speaker>||:Intercept them from our bunker! We mustn't let them link up with Yegor!
-NPC-AngeDamage(4)<Speaker>Angelia</Speaker><通讯框>;NPC-Kalin(7)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What happened? I heard the explosions from over here.</color>
+NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>;NPC-Kalin(7)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What happened? I heard the explosions from over here.</color>
 NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>Commander</Speaker>||:We had the air force conduct a bombing run. The Military's surface forces should be finished, but some of them managed to flee into the base.
 NPC-AngeDamage(4)<Speaker>Angelia</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>Tsk... Yegor's mechs are a pain in the ass. Fortunately they're busy fighting S.F. right now.</color>+<color=#00CCFF>I have a plan to wipe them all out in one fell swoop, but I'll need your help.</color>
 NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>Commander</Speaker>||:Go ahead.

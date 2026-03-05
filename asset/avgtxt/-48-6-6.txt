@@ -5,7 +5,7 @@ NPC-Kyruger(0)<Speaker>Kryuger</Speaker>||:Yeah...
 ()||:As Kryuger looks up at the long-awaited sky, he suddenly keels over backward.
 NPC-Helian(0)<Speaker>Helian</Speaker>||:Mr. Kryuger!
 NPC-Helian(0)<Speaker>Zelinsky</Speaker><同时置暗>||:<color=#00CCFF>Miss Helian, can you hear me?</color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Zielinski(0)<通讯框>||:Yes I can, Director Zelinsky!
+NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Zielinski(0)<scan><通讯框>||:Yes I can, Director Zelinsky!
 NPC-Helian(0)<Speaker>Zelinsky</Speaker><同时置暗>||:<color=#00CCFF>The reinforcements have arrived. </color> +<color=#00CCFF>You are safe. </color>
 NPC-Maid(0)<Speaker>Rescue Doll</Speaker>||:Miss Helian, please let us take care of Mr. Kryuger. +Please load the neural cloud servers onto the vehicle. The wounded Dolls can also come with us.
 NPC-Helian(0)<Speaker>Helian</Speaker>||:Thank you... Thank you all... 
@@ -24,14 +24,14 @@ BOSS-8(0)<Speaker>Agent</Speaker>||:...
 ()<Speaker>Commander</Speaker>||:Ah!
 ()||<震屏>:When they see the name on the caller ID, the Commander almost loses their grip on the communicator.
 ()<Speaker>Commander</Speaker>||:Mr. Kryuger!!! +...Is the base alright? H-how is everyone?
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>It's fine, although it looks like a Brobdingnagian stepped on it. </color> +<color=#00CCFF>...Just kidding. The neural cloud servers are still intact. </color> +<color=#00CCFF>Helian and I have sustained some light injuries, and Persica has only lost a few lab instruments. </color>
-NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>ONLY a few lab instruments?! Y-you haven't heard the last of this!</color>
-NPC-Persica(1)<Speaker>Commander</Speaker><通讯框><同时置暗>||:What about Kalina, how is she?
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>They sent her to a hospital to recover several days ago. Her condition is very stable. </color> +<color=#00CCFF>How about you? How are things in Germany?</color>
-NPC-Kyruger(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Things went very well here. Paradeus is running from me like Lilliputians sighting Gulliver.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>Good, I knew you could handle it. </color> +<color=#00CCFF>Zelinsky's men are here to back us up, so no need to worry on that front. </color> +<color=#00CCFF>Havier's MCV is on its way. I'll be coming personally to Berlin after this. </color>
-NPC-Kyruger(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Take care. I'll be waiting for you in Berlin.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>Alright. See you in Berlin. </color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>It's fine, although it looks like a Brobdingnagian stepped on it. </color> +<color=#00CCFF>...Just kidding. The neural cloud servers are still intact. </color> +<color=#00CCFF>Helian and I have sustained some light injuries, and Persica has only lost a few lab instruments. </color>
+NPC-Persica(1)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>ONLY a few lab instruments?! Y-you haven't heard the last of this!</color>
+NPC-Persica(1)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:What about Kalina, how is she?
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>They sent her to a hospital to recover several days ago. Her condition is very stable. </color> +<color=#00CCFF>How about you? How are things in Germany?</color>
+NPC-Kyruger(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Things went very well here. Paradeus is running from me like Lilliputians sighting Gulliver.
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>Good, I knew you could handle it. </color> +<color=#00CCFF>Zelinsky's men are here to back us up, so no need to worry on that front. </color> +<color=#00CCFF>Havier's MCV is on its way. I'll be coming personally to Berlin after this. </color>
+NPC-Kyruger(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Take care. I'll be waiting for you in Berlin.
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>Alright. See you in Berlin. </color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The call ends.
 ()<Speaker>Commander</Speaker>||<黑屏1>:I'll wipe out every last trace of Paradeus in Berlin so you can have the perfect place to recover... 
 ()||<黑屏2><BIN>15</BIN><BGM>BGM_Empty</BGM><SE1>Rope</SE1><火花>:The rebel Spetsnaz squad leader tightens his grip around his gun and adjusts his posture to listen to the transmission.

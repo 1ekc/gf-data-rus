@@ -16,9 +16,9 @@ M14(2)<Speaker>Commander</Speaker>||:Nothing urgent for now. I guess even our su
 M14(2)<Speaker>M14</Speaker>||<黑点1>:Sure! I'm even more fired up with you here, Commander!
 ()||<黑点2>:M14 and I spread out and collect the Christmas presents scattered about the courtyard.
 Commander()<Speaker>Commander</Speaker>||:I'm done here.
-M14(2)<Speaker>M14</Speaker><通讯框>||:So am I!
-M14(2)<Speaker>Commander</Speaker><通讯框>||:I've worked up quite a sweat... +Let's take a rest by the vending machine.
-M14(2)<Speaker>M14</Speaker><通讯框>||<黑点1>:Roger! I'll make my way there now!
+M14(2)<Speaker>M14</Speaker><scan><通讯框>||:So am I!
+M14(2)<Speaker>Commander</Speaker><scan><通讯框>||:I've worked up quite a sweat... +Let's take a rest by the vending machine.
+M14(2)<Speaker>M14</Speaker><scan><通讯框>||<黑点1>:Roger! I'll make my way there now!
 ()||<黑点2><BGM>BGM_Empty</BGM>:I met up with M14 in the resting area by the vending machine.
 Commander()<Speaker>Commander</Speaker>||<BGM>GF_Memorial</BGM>:Hmm... SAA cleaned up really thoroughly.
 ()||:I buy the last two cans of juice, hand one over to M14, and sit down next to her.

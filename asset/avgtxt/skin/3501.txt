@@ -104,13 +104,13 @@ Lewis(2)<Speaker>Commander</Speaker>(0)||<黑屏1><BGM>BGM_Empty</BGM>:... +I se
 ()||:Then the Commander places the bag given by Lewis on the coast near the reef.
 <Speaker>Commander</Speaker>()||:R93, I've put your top here!
 ()||:The Commander shouts toward the sea again. +Then a tiny, tiny voice comes through the comms.
-R93(3)<Speaker>R93</Speaker>(0)<通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Cough.</color>
+R93(3)<Speaker>R93</Speaker>(0)<scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Cough.</color>
 <Speaker>Commander</Speaker>()||:I knew you didn't go missing.
-R93(3)<Speaker>R93</Speaker>(0)<通讯框>||:<color=#00CCFF>Sorry, Commander... I turned off my comms without permission.</color>
+R93(3)<Speaker>R93</Speaker>(0)<scan><通讯框>||:<color=#00CCFF>Sorry, Commander... I turned off my comms without permission.</color>
 <Speaker>Commander</Speaker>()||:It's alright. I can guess why you did that. +You weren't actually in any trouble... You only screamed because your bikini top got snatched away.
-R93(3)<Speaker>R93</Speaker>(0)<通讯框>||:<color=#00CCFF>I knew you'd understand, Commander.</color> +<color=#00CCFF>...Ugh... I I-I can't believe I made such a stupid mistake during the operation. How could I let my top slip off because of a fishing hook?</color>
+R93(3)<Speaker>R93</Speaker>(0)<scan><通讯框>||:<color=#00CCFF>I knew you'd understand, Commander.</color> +<color=#00CCFF>...Ugh... I I-I can't believe I made such a stupid mistake during the operation. How could I let my top slip off because of a fishing hook?</color>
 <Speaker>Commander</Speaker>()||:It's okay now. +You must've been terrified.
-R93(3)<Speaker>R93</Speaker>(0)<通讯框>||:<color=#00CCFF>...</color>
+R93(3)<Speaker>R93</Speaker>(0)<scan><通讯框>||:<color=#00CCFF>...</color>
 ()||:After a short while... +R93, now with her "mermaid top" back on, walks out from behind the reef. +But her head hangs dejectedly and she won't look up from her feet, sinking in the sand.
 R93(2)<Speaker>R93</Speaker>(0)||:I'm sorry, Commander... I didn't complete the mission. +I even lost all the bounties that I found... Ahaha, looks like I've got really bad luck today.
 <Speaker>Commander</Speaker>()||:(R93...)

@@ -78,7 +78,7 @@ Seele(0)<Speaker>希儿</Speaker>||:……+希儿……可以去找她吗？
 Vector(0)<Speaker>Vector</Speaker>||:抱歉，作为普通的战术人形，我的建议是留在那个飞船里比较安全。
 Seele(0)<Speaker>希儿</Speaker>||:这里……之前有很多死士……聚过来……+我……害怕……
 ()||:……滴。+……PP90发来通讯请求。
-PP90(0)<Speaker>PP90</Speaker><通讯框>||:Vivi！你在吗！
+PP90(0)<Speaker>PP90</Speaker><scan><通讯框>||:Vivi！你在吗！
 Vector(0)<Speaker>Vector</Speaker>;PP90(0)||:……什么事？
 Vector(0);PP90(0)<Speaker>PP90</Speaker>||:就是确认一下你那边的情况啦，谁叫你一直不联络我的！+不是说了要定时通讯吗！你都担心死我了！
 Vector(0)<Speaker>Vector</Speaker>;PP90(0)||:就这些？
@@ -129,7 +129,7 @@ RaidenMei(0)<Speaker>芽衣</Speaker>||:是吗？可是……你们要去哪儿�
 琪亚娜()<Speaker>琪亚娜</Speaker>||:哼，你看，芽衣学姐，就是这样的吧！
 芽衣()<Speaker>芽衣</Speaker>||:……
 破坏者()<Speaker>破坏者</Speaker>||:当然无论你站在哪一边，对我来说结果都一样……
-BossDestroyerPlus(0)<Speaker>破坏者</Speaker><通讯框>||:因为现在，我已经能够完全控制崩坏能了！
+BossDestroyerPlus(0)<Speaker>破坏者</Speaker><scan><通讯框>||:因为现在，我已经能够完全控制崩坏能了！
 BossDestroyerPlus(0)<Speaker>PP90</Speaker>||:……！+那个外形！是传闻中的——
 BossDestroyerPlus(0)<Speaker>琪亚娜</Speaker>||:喂！那家伙，各个方面上都比之前大了好多啊！
 BossDestroyerPlus(0)<Speaker>破坏者</Speaker>||:哼，芽衣小姐，这并没有你说的那么困难嘛。+只要……向崩坏的“意志”献上自己的欲望就可以了……

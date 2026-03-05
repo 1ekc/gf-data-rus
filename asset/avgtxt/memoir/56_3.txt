@@ -7,13 +7,13 @@ SOPIIDamage(0);RO635(0)<Speaker>RO635</Speaker>||:Yup. Miss Persica just dumped 
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Oh, I remember now.
 RO635(4)<Speaker>RO635</Speaker>||:For some reason I have a bad feeling about this place...
 ()||:...Incoming transmission.
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:Looks like the two of you have successfully connected to my neural cloud database.
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:Looks like the two of you have successfully connected to my neural cloud database.
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:What are we going to do next, Miss Persica?
 SOPIIDamage(0);NPC-Persica(2)<Speaker>Persica</Speaker>||:RO's going to wait here for her new body. +SOP-II can go back once the separation is complete.
 RO635(0)<Speaker>RO635</Speaker>;NPC-Persica(2)||:Tsk... So now I don't have a body at all, huh... Forget it, it's still better than being in the Dinergate...
 RO635(0);NPC-Persica(2)<Speaker>Persica</Speaker>||:You'll be parting soon, so best say your goodbyes while you can. +The separation program will activate in 5 minutes. You won't be able to see each other for a while after that.
 RO635(0)<Speaker>RO635</Speaker>||:A while... How long will that be?
-NPC-Persica(2)<Speaker>Persica</Speaker>||<通讯框>:That depends on how long the two of you can hold out.
+NPC-Persica(2)<Speaker>Persica</Speaker>||<scan><通讯框>:That depends on how long the two of you can hold out.
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Eh? What do you mean...?
 Weaver(1)<Speaker>???</Speaker>||:I sensed something so I came over to take a look. I didn't expect it to be you two.
 RO635(0)<Speaker>RO635</Speaker>||:What...? You, you're...
@@ -21,11 +21,11 @@ Weaver(1)<Speaker>Ouroboros</Speaker>||:Maggots of the AR Team... +I've missed y
 BOSS-9(0)<Speaker>Architect</Speaker>||:Hi~ Don't forget me, I'm here too!
 RO635(4)<Speaker>RO635</Speaker>||:Hey! What's going on?!
 SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:What are these Sangvis dorks doing here?!
-NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:Griffin transferred their neutral clouds to me in order to put them to better use. +Play nice, you all~
+NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:Griffin transferred their neutral clouds to me in order to put them to better use. +Play nice, you all~
 RO635(5)<Speaker>RO635</Speaker>||:Eh? Hang on, is this some kind of joke?!
 Weaver(1)<Speaker>Ouroboros</Speaker>||:Humph... Well, it won't be a problem if it's just you. +Let me shred your neural cloud, RO635!
 SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:I won't let you bully RO! +You're the ones who're going to get shredded!
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Nobody's going to be shredding anyone. That would cause trouble for me. +Alright, SOP-II, time to say goodbye to RO.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Nobody's going to be shredding anyone. That would cause trouble for me. +Alright, SOP-II, time to say goodbye to RO.
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(0)||:But these two Sangvis...
 NPC-Persica(2)<Speaker>Persica</Speaker>||:It'll be fine, they can't do much inside my database. +Besides, don't you have faith in RO's skills?
 RO635(5)<Speaker>RO635</Speaker>;NPC-Persica(2)||:What does this have to do with skills?! +Hey! Persica! Are you going to leave just like that?!

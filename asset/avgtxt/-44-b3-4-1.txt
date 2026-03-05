@@ -26,22 +26,22 @@ VP1915(0)<Speaker>Perosa</Speaker>||:Our next destination is the prison. +While 
 VP1915(0)<Speaker>Commander</Speaker>||:Yeah. I was just about to bring him up to speed.
 VP1915(0)<Speaker>Perosa</Speaker>||:Understood.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:The transmission goes through.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Commander. </color> +<color=#00CCFF>Considering the timing of this call...</color> +<color=#00CCFF>I assume you have good news for me.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||<BGM>BGM_Room</BGM>:...Good and bad in equal measure. +The truth is, Mr. Griffin, we've already investigated three of the locations you sent us. +We encountered Paradeus forces at each of them, as well as the explosives they had hidden there. +Machlian's memories are reliable.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Commander. </color> +<color=#00CCFF>Considering the timing of this call...</color> +<color=#00CCFF>I assume you have good news for me.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||<BGM>BGM_Room</BGM>:...Good and bad in equal measure. +The truth is, Mr. Griffin, we've already investigated three of the locations you sent us. +We encountered Paradeus forces at each of them, as well as the explosives they had hidden there. +Machlian's memories are reliable.
 ()<Speaker></Speaker>||:The Commander looks at Machlian and hesitates.
 ()<Speaker>Commander</Speaker>||:While we did succeed in stopping them for the most part, a tragedy still took place in Bohnsdorf. +I've handed the scene over to the government authorities, but the casualties are still severe...
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Since the veracity of Machlian's memory fragments has been verified...</color> +<color=#00CCFF>You should turn her over to me. </color> +<color=#00CCFF>We might be able to find some information on William now.</color>
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Since the veracity of Machlian's memory fragments has been verified...</color> +<color=#00CCFF>You should turn her over to me. </color> +<color=#00CCFF>We might be able to find some information on William now.</color>
 NPC-Machlian(7)<Speaker>Machlian</Speaker>||:...!!
 ()<Speaker></Speaker>||:Machlian blanches and frantically shakes her head at the Commander.
 ()<Speaker>Commander</Speaker>||:I'm sorry, Mr. Griffin... But I might not be able to do that for the time being. +Our mission is at a critical phase and we still need Machlian's assistance. +Once we take care of Paradeus, we can further analyze Machlian's memory fragments.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>...I see no problem with your decision.</color> +<color=#00CCFF>Do you have anything else to report?</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:We'll be heading over to Berlin Prison to conduct an investigation. We were hoping that you would give us clearance to do so, Mr. Griffin.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I see. Let Perosa handle it.</color> +<color=#00CCFF>...Keep up the good work, Commander. I have a very good feeling about you.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Thank you.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Oh yes, there is one more thing I need to tell you.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:What is it?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Angelia's actions have been too impulsive as of late.</color> +<color=#00CCFF>There are some things which she will not listen to if they come from me, so I need you to help make her see sense.</color> +<color=#00CCFF>I value both of you a great deal, and I hope you can help each other more. </color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Understood. Thank you.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>...I see no problem with your decision.</color> +<color=#00CCFF>Do you have anything else to report?</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:We'll be heading over to Berlin Prison to conduct an investigation. We were hoping that you would give us clearance to do so, Mr. Griffin.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I see. Let Perosa handle it.</color> +<color=#00CCFF>...Keep up the good work, Commander. I have a very good feeling about you.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Thank you.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Oh yes, there is one more thing I need to tell you.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:What is it?
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Angelia's actions have been too impulsive as of late.</color> +<color=#00CCFF>There are some things which she will not listen to if they come from me, so I need you to help make her see sense.</color> +<color=#00CCFF>I value both of you a great deal, and I hope you can help each other more. </color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Understood. Thank you.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 NPC-Machlian(6)<Speaker>Machlian</Speaker>||:...Thank you, Robin.
 ()<Speaker>Commander</Speaker>||:No problem.
@@ -77,7 +77,7 @@ AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Tsk. +It's just one thing after another!
 NytoIsomer(7)<Speaker>Dandelion</Speaker>||:Commander, you and Machlian should stay here. The situation is going to be very chaotic and we must prioritize your safety.
 RO635Mod(0)<Speaker>RO635</Speaker>||:The convicts couldn't have done this by themselves. Paradeus must have sneaked some of their people in here.
 ()<Speaker>Commander</Speaker>||:45, you and Dandelion head to the control room and verify the situation. +Also, root out any Paradeus units hiding among the convicts.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Understood.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Understood.</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Perosa, back up the prison officers! Suppress the riots and—
 ()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:Boom!
 ()<Speaker>Prison Officer</Speaker>||:They've got bombs!

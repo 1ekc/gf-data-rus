@@ -132,9 +132,9 @@ UMP40(0)<Speaker>Elisa</Speaker>||:However, I've lost hope in her. Right now, I 
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Coalescence? +Wait... Don't tell me you're going to...!
 UMP40(0)<Speaker>Elisa</Speaker>||:You have given me what I want, so I will spare you. +But remember, this is my final warning. +Do not become my enemy, or you will regret your decision.
 ()<Speaker></Speaker>||:UMP45 feels a shift in her surroundings. Elisa's consciousness has left the simulated persona of UMP40.+The seal on her neural cloud is gradually lifted, and she can hear Anna and the others calling out to her.+UMP45 hesitates briefly. There has been a massive shift in everything she once thought she knew. She needs to think about all the things she has just learned.+In any case, the seal has now been broken. She decides to return to Level II before considering what she will do next.+The young Nyto senses UMP45's return and immediately forms a link with her.
-Nytochild01(1)<Speaker>Anna</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:You...you actually did it! The remote attack is gone!+Looks like Ange wasn't wrong about you after all!
+Nytochild01(1)<Speaker>Anna</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:You...you actually did it! The remote attack is gone!+Looks like Ange wasn't wrong about you after all!
 Nytochild01(1);UMP45Mod(0)<Speaker>UMP45</Speaker>||:So you're just as quick to praise as you are to insult. Can't say I dislike this kind of candor. +What's the situation out there?
-Nytochild01(1)<Speaker>Anna</Speaker><通讯框>;UMP45Mod(0)||:My sisters are fine; they've all woken up. +We've deactivated the jamming and lifted the lockdown on the labs, but you'd better keep your word and keep us safe!
+Nytochild01(1)<Speaker>Anna</Speaker><scan><通讯框>;UMP45Mod(0)||:My sisters are fine; they've all woken up. +We've deactivated the jamming and lifted the lockdown on the labs, but you'd better keep your word and keep us safe!
 Nytochild01(1);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Take this matter to Ange... I'm very tired right now... +I'm going to rest for a bit before resurfacing. Go on ahead and discuss our next move with the others outside.
-Nytochild01(2)<Speaker>Anna</Speaker><通讯框>;UMP45Mod(0)||:Okay... I'll relay that to Ange.
+Nytochild01(2)<Speaker>Anna</Speaker><scan><通讯框>;UMP45Mod(0)||:Okay... I'll relay that to Ange.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_disconnect</SE1><黑屏1>:Should I tell Ange about what I just learned? +Everything's become even more complicated.

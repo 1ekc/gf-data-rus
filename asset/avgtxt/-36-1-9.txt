@@ -15,13 +15,13 @@ NPC-Kalin(4)<Speaker>Commander</Speaker>||:Kalina, fetch me the binoculars.
 ()<Speaker></Speaker>||:Through the binoculars, Griffin Dolls can be seen in the distance, running frantically over open ground to avoid the shower of artillery shells. Many Dolls try to run back to the defense line, but the explosions soon engulf them.
 ()<Speaker>Commander</Speaker>||<震屏><黑点1>:Damned Military!
 ()<Speaker></Speaker>||<BIN>99</BIN><黑点2><BGM>BGM_Empty</BGM>:On the other side.
-NPC-Soldier(0)<Speaker>Military Officer</Speaker><通讯框>||<BGM>BGM_Frontline</BGM>:<color=#00CCFF>It was as you said. After they were jammed, the Dolls were easily drawn out.</color>
+NPC-Soldier(0)<Speaker>Military Officer</Speaker><scan><通讯框>||<BGM>BGM_Frontline</BGM>:<color=#00CCFF>It was as you said. After they were jammed, the Dolls were easily drawn out.</color>
 NPC-Yegor(4)<Speaker>Yegor</Speaker>||:Humph. That's all there is to civilian Dolls. +Continue jamming their networks. Dolls without a human Commander are nothing but trash. +Are the armored units ready?
-NPC-Soldier(0)<Speaker>Military Officer</Speaker><通讯框>||:<color=#00CCFF>Hematite to Zircon, what is your status, are you ready to move out? Over.</color>
-NPC-Soldier(0)<通讯框>;NPC-Soldier(0)<Speaker>Armored Unit Officer</Speaker><通讯框>||:<color=#00CCFF>Zircon copies, ready to commence the assault at any time. Over.</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<通讯框>||:<color=#00CCFF>Yes, send them out.</color>
+NPC-Soldier(0)<Speaker>Military Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Hematite to Zircon, what is your status, are you ready to move out? Over.</color>
+NPC-Soldier(0)<scan><通讯框>;NPC-Soldier(0)<Speaker>Armored Unit Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Zircon copies, ready to commence the assault at any time. Over.</color>
+NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<scan><通讯框>||:<color=#00CCFF>Yes, send them out.</color>
 NPC-Yegor(4)<Speaker>Yegor</Speaker>||:Break through Griffin's defense line and transfer some forces to Quartz. Your priority is to take control of the naval defense platforms, and then come back to exterminate these vermin.
-NPC-Soldier(0)<Speaker>Military Officer</Speaker><通讯框>||:<color=#00CCFF>Hematite copies, beginning operation. Transferring a mobile team from Attack Route 12 to cover Quartz, as outlined in Plan B. Over.</color>
-NPC-Soldier(0)<Speaker>Armored Unit Officer</Speaker><通讯框>||:<color=#00CCFF>Zircon copies, we're setting out right now. Over.</color>
+NPC-Soldier(0)<Speaker>Military Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Hematite copies, beginning operation. Transferring a mobile team from Attack Route 12 to cover Quartz, as outlined in Plan B. Over.</color>
+NPC-Soldier(0)<Speaker>Armored Unit Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Zircon copies, we're setting out right now. Over.</color>
 NPC-Yegor(4)<Speaker>Yegor</Speaker>||:Give them one last creeping barrage. It'll be danger close; be mindful of friendly positions.
-NPC-Soldier(0)<Speaker>Military Officer</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Yes sir!</color>
+NPC-Soldier(0)<Speaker>Military Officer</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Yes sir!</color>

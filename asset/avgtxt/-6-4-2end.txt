@@ -36,16 +36,16 @@ UMP45()<Speaker>UMP45</Speaker>||<BIN>32</BIN><黑屏2>:Do you feel defeated? We
 UMP45()<Speaker>UMP45</Speaker>||<黑屏1>:Sorry.+We are a stain on everyone.
 UMP45()<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:But too bad those that want to erase us and not rely on us...+...End up being erased themselves.
  ()||:...
-UMP9(0)<Speaker>UMP9</Speaker><通讯框>||:Hey, 45, done yet?
+UMP9(0)<Speaker>UMP9</Speaker><scan><通讯框>||:Hey, 45, done yet?
 UMP45(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Sunshine</BGM>:It's finished. Where are the others?
-HK416(0)<通讯框><Speaker>416</Speaker>;UMP45(0)||:OTs-14 is already on her way back to HQ. I'll go retrieve Gr G11 now.
-G11(0)<通讯框><Speaker>Gr G11</Speaker>;UMP45(0)||:You're taking too long, 416... Did you forget about me...?
-HK416(0)<Speaker>416</Speaker><通讯框>;UMP45(0)||:Thank you for reminding me. I actually did forget.+Why don't you take a nap and come back by yourself later?
+HK416(0)<scan><通讯框><Speaker>416</Speaker>;UMP45(0)||:OTs-14 is already on her way back to HQ. I'll go retrieve Gr G11 now.
+G11(0)<scan><通讯框><Speaker>Gr G11</Speaker>;UMP45(0)||:You're taking too long, 416... Did you forget about me...?
+HK416(0)<Speaker>416</Speaker><scan><通讯框>;UMP45(0)||:Thank you for reminding me. I actually did forget.+Why don't you take a nap and come back by yourself later?
 HK416(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:Uwaa... Come get me... It's too cold here...
 HK416(0)<Speaker>416</Speaker>;UMP45(0)||:The mission is finally complete, but it's a bit of a shame that we weren't able to capture the jammer.
 HK416(0)<Speaker>Gr G11</Speaker>;UMP45(0)||:416... Are you listening? Come get me...
 HK416(0);UMP45(0)<Speaker>UMP45</Speaker>||:With Ouroboros's corpse and all the intel we've gathered throughout the entire mission, I think it'll be enough to satisfy Helian.
-UMP9(3)<Speaker>UMP9</Speaker><通讯框>;UMP45(0)||:It's definitely enough. Let's get out of here before the Commander shows up~
+UMP9(3)<Speaker>UMP9</Speaker><scan><通讯框>;UMP45(0)||:It's definitely enough. Let's get out of here before the Commander shows up~
 UMP45(0)<Speaker>UMP45</Speaker>||:Good job everyone. Let's go home.
 ()||:...
 G11(2)<Speaker>Gr G11</Speaker>||:Umm...guys? Are you still there?+Don't leave me here... I wanna go home...

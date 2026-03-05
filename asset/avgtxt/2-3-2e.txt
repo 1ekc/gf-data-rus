@@ -1,5 +1,5 @@
 ()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:...Сражение завершено.
-NPC-Persica(0)<Speaker>Персика</Speaker><通讯框>||:Командир. Очень...
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:Командир. Очень...
 M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(1)||:Почему вы так удивлены, мисс Персика?
 M4A1(0);NPC-Persica(1)<Speaker>Персика</Speaker>||:А! М... М4!
 M4A1(0)<Speaker>M4A1</Speaker>;NPC-Persica(1)||:Командир сказал мне, и я пришла увидеться с вами.

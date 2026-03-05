@@ -1,6 +1,6 @@
 ()||<BIN>46</BIN><BGM>BGM_Room</BGM>:Сражение завершено. Войска Грифона штурмуют аванпост Сангвис.
 IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Ясно. Отряд Welrod, мы будем держать позиции и прикрывать вас.
-Welrod(0)<Speaker>Welrod</Speaker><通讯框>||<BIN>46</BIN>:Победа будет за теми, кто в нее верит. Тогда мы оставляем это на твое попечение.
+Welrod(0)<Speaker>Welrod</Speaker><scan><通讯框>||<BIN>46</BIN>:Победа будет за теми, кто в нее верит. Тогда мы оставляем это на твое попечение.
 IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:Фух... Надеюсь, все пройдет хорошо.
 Glock17(0)<Speaker>G17</Speaker>||<BIN>46</BIN>:Ты выглядишь расслабленной впервые за весь вечер, Лидер.
 Glock17(0);IWS2000(0)<Position>0,100</Position><Speaker>IWS 2000</Speaker><Position>0,100</Position>||<BIN>46</BIN>:О? А как я выглядела прежде?
@@ -30,5 +30,5 @@ AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN><黑屏2>:
 SSG69(0)<Speaker>SSG 69</Speaker>;AUG(0)<Position>0,-100</Position>||<BIN>46</BIN>:Э? Так мы гнались за конвоем всю дорогу досюда...? +Нет, погоди... это вряд ли можно считать «недалеко»!
 AUG(0)<Position>0,-100</Position><Speaker>AUG</Speaker>||<BIN>46</BIN><黑屏1>:Неважно. Мне нужно, чтобы ты кое-что сделала.
 ()||<BIN>46</BIN><黑屏2>0.6</黑屏2><BGM>BGM_Empty</BGM>:...Щелк.
-Welrod(0)<Speaker>Welrod</Speaker><通讯框>||<BIN>46</BIN>:Мисс IWS... мы нашли кое-что интересное. +Мы обнаружили слабые следы радиации. Конвой должен быть впереди.
+Welrod(0)<Speaker>Welrod</Speaker><scan><通讯框>||<BIN>46</BIN>:Мисс IWS... мы нашли кое-что интересное. +Мы обнаружили слабые следы радиации. Конвой должен быть впереди.
 

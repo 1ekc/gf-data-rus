@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You have a new comms request.</color>
 MG36(0)<Speaker>Gr MG36</Speaker>||:So you're saying we need to sell furniture to generate income?
-JS9mm(2)<Speaker>JS9</Speaker><通讯框>;MG36(0)||:<color=#00CCFF>Yes, can I leave sales to you?</color>
+JS9mm(2)<Speaker>JS9</Speaker><scan><通讯框>;MG36(0)||:<color=#00CCFF>Yes, can I leave sales to you?</color>
 JS9mm(2);MG36(0)<Speaker>Gr MG36</Speaker>||:I believe I would be better off handling logistics. However...I make it a point to complete whatever assignment I receive. +So I'll do my best.
 JS9mm(2)<Speaker>JS9</Speaker>;MG36(0)||:<color=#00CCFF>I'm counting on you then.</color>
 MG36(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>Transmission terminated.</color>

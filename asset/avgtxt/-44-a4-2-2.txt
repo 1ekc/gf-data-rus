@@ -12,9 +12,9 @@ NPC-Ange(0)<Speaker>Ange</Speaker>||:...Is this... +A family tree...?
 NPC-Ange(0)<Speaker>Ange</Speaker>||:Lunasia...
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Just then, Ange's communicator rings.
 NPC-Ange(0)<Speaker>Ange</Speaker>||:Light?
-NPC-Light(1)<Speaker>Light</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>...attack—</color>
+NPC-Light(1)<Speaker>Light</Speaker><scan><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>...attack—</color>
 NPC-Ange(0)<Speaker>Ange</Speaker>||:Light? 94? What is it?
-NPC-Light(1)<Speaker>Light</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...We're under attack!!</color> +<color=#00CCFF>It's Paradeus!</color> +<color=#00CCFF>Miss Ange, please retreat immediately! Get out of there!</color>
+NPC-Light(1)<Speaker>Light</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...We're under attack!!</color> +<color=#00CCFF>It's Paradeus!</color> +<color=#00CCFF>Miss Ange, please retreat immediately! Get out of there!</color>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><SE1>AVG_whitenoise</SE1>:Bang bang! +Pzzzt...
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The connection is broken.
 NPC-Ange(0)<Speaker>Ange</Speaker>||:Crap.

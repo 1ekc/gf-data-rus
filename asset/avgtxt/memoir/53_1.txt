@@ -71,10 +71,10 @@ NTW20(0);PTRD(0)<Speaker>PTRD</Speaker>||:...
 PTRD(0)<Speaker>PTRD</Speaker>||:NTW-20, do you know what maple syrup is?
 NTW20(0)<Speaker>NTW-20</Speaker>||:Yes...
 ()<speaker></speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:The communicator beeps at an inopportune moment.
-TAC50(0)<Speaker>TAC-50</Speaker><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>TEC-9 just finished recovering the data. Most of it was unsalvageable, but the bits we managed to piece together are really important!</color>
+TAC50(0)<Speaker>TAC-50</Speaker><scan><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>TEC-9 just finished recovering the data. Most of it was unsalvageable, but the bits we managed to piece together are really important!</color>
 PTRD(0)<Speaker>PTRD</Speaker>||:What does it say?
-TEC9(0)<Speaker>TEC-9</Speaker><通讯框>||:<color=#00CCFF>"The last batch of products in HQ will be transferred to the location indicated by the buyer at 2am on the 17th."</color>+<color=#00CCFF>These humans...they're going to move a shipment of important goods from here tomorrow!</color>
-TAC50(0)<Speaker>TAC-50</Speaker><通讯框>||:<color=#00CCFF>They're high-end fire control cores...</color>
+TEC9(0)<Speaker>TEC-9</Speaker><scan><通讯框>||:<color=#00CCFF>"The last batch of products in HQ will be transferred to the location indicated by the buyer at 2am on the 17th."</color>+<color=#00CCFF>These humans...they're going to move a shipment of important goods from here tomorrow!</color>
+TAC50(0)<Speaker>TAC-50</Speaker><scan><通讯框>||:<color=#00CCFF>They're high-end fire control cores...</color>
 NTW20(0)<Speaker>NTW-20</Speaker>||:No wonder they're taking such a big risk to get them back.
 PTRD(0)<Speaker>PTRD</Speaker>||:Stand by over there, you two. I'll contact the Commander and report our findings.
 ()<speaker></speaker>||<SE1>AVG_tele_disconnect</SE1>:The transmission ends. +PTRD makes a long-distance call to the Commander.

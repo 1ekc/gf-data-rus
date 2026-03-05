@@ -7,12 +7,12 @@ RO635-NoArmor(5)<Speaker>RO635</Speaker>||:Никто из вас не уйде�
 NytoWhite(0)<Speaker>Охотник за Куклой</Speaker>||:...? Сообщи...мой...
 ()||:Щелчок—!
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Сладких снов. +Если я проанализирую их нейронное облако, то, может быть, смогу узнать больше о Нито...
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO, ты закончила? Вставай, горничная убегает!</color>
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>RO, ты закончила? Вставай, горничная убегает!</color>
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:Что?
 ()||<BIN>84</BIN><黑屏2><Night>:...RO635 сразу же возвращается к реальности.
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Она вдруг ускорилась и отклонилась от курса!</color>
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Она вдруг ускорилась и отклонилась от курса!</color>
 RO635-NoArmor(4)<Speaker>RO635</Speaker>||:Она почувствовала это... +Она почувствовала, что сигналы всех устройства слежения исчезли, поэтому она собирается сбежать. +Черт, я не думала, что она такая быстрая! Ты сможешь ее догнать?
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<黑点1>:<color=#00CCFF>Я справлюсь с этим, но тебе лучше побыстрее добираться сюда. Я не умею разговаривать.</color>
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Я справлюсь с этим, но тебе лучше побыстрее добираться сюда. Я не умею разговаривать.</color>
 ()||<黑点2><BIN>86</BIN><Night>:...Тем временем.
 NPC-Maid(0)<Speaker>Кукла-горничная</Speaker>||:...Быстрее. +Мне нужно торопиться—! +Больше никаких сигналов, которые бы меня преследовали. +Что происходит? Так неожиданно... +В любом случае, это — преимущество. Но я не могу сейчас вернуться в убежище. Я должна уйти...
 NPC-Maid(0)<Speaker>Кукла-горничная</Speaker>||<SE1>Rope</SE1>:Ммм—!

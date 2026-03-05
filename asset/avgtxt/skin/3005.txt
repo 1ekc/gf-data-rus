@@ -8,7 +8,7 @@ CZ75(0)<Speaker></Speaker>||<SE1>RunStep</SE1>:CZ75 waves happily at Spitfire an
 CZ75(0)<Speaker>CZ75</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#A9A9A9>Thank goodness Spitfire agreed to help me out, or all the careful preparations I've made for the New Year visits would have gone to waste...</color> +<color=#A9A9A9>Let me take a rest back in the dorm, get changed, then gather everyone who's ready—</color>
 ()<Speaker></Speaker>||<BIN>82</BIN><黑点2>:In CZ75's room at the Griffin dormitories.
 CZ75(0)<Speaker>CZ75</Speaker>||<震屏><BGM>BGM_Sneak</BGM>:<color=#00CCFF>...What?! Why would it be you?!</color>
-NZ75(0)<Speaker>NZ75</Speaker><通讯框>;CZ75(0)||:<color=#00CCFF>What are you talking about, CZ75? Didn't you have a night shift today? Of course I'll be leading the group.</color> +<color=#00CCFF>Wait, why are you here now?</color> +<color=#00CCFF>Don't tell me you're ditching work!</color>
+NZ75(0)<Speaker>NZ75</Speaker><scan><通讯框>;CZ75(0)||:<color=#00CCFF>What are you talking about, CZ75? Didn't you have a night shift today? Of course I'll be leading the group.</color> +<color=#00CCFF>Wait, why are you here now?</color> +<color=#00CCFF>Don't tell me you're ditching work!</color>
 NZ75(0);CZ75(0)<Speaker>CZ75</Speaker>||:<color=#00CCFF>I just swapped shifts with someone else!</color> +<color=#00CCFF>And didn't we agree that I'll be leading the group?!</color>
 NZ75(0)<Speaker>NZ75</Speaker>;CZ75(0)||:<color=#00CCFF>Why are you so inflexible? Since you had a shift, of course there had to be a change of plans.</color> +<color=#00CCFF>Now that everything's settled, you just have to deal with it!</color>
 NZ75(0);CZ75(0)<Speaker>CZ75</Speaker>||:<color=#00CCFF>As if I'd give in so easily to a rip-off of myself!</color>
@@ -56,7 +56,7 @@ CZ75(4);NZ75(4)<Speaker>NZ75</Speaker>||:Sorry for making a false accusation. My
 97type(2)<Speaker>Type 97</Speaker>;NZ75(4)||:Then I'll be going, okay? +See you later at the New Year visits. Bye... Wait for me, sis!
 ()<Speaker></Speaker>||<SE1>RunStep</SE1><黑屏1>:Type 97 takes off running after Type 95.
 ()<Speaker></Speaker>||<黑屏2>:The time is 2235.
-IWS2000(4)<Speaker>IWS 2000</Speaker><通讯框>||:<color=#00CCFF>Hailing NZ75. Most of the participants of the New Year visits are ready. Where are you?</color>
+IWS2000(4)<Speaker>IWS 2000</Speaker><scan><通讯框>||:<color=#00CCFF>Hailing NZ75. Most of the participants of the New Year visits are ready. Where are you?</color>
 IWS2000(4);NZ75(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>Hmph... I can still go on.</color> +<color=#00CCFF>IWS 2000, sorry but you'll have to wait a bit. I have to win this duel!</color>
 IWS2000(4)<Speaker>IWS 2000</Speaker>;NZ75(4)||:<color=#00CCFF>...Duel?</color> +<color=#00CCFF>What are you doing? Are you in danger, NZ75?</color> +<color=#00CCFF>Give me your location!</color>
 IWS2000(4);NZ75(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>No, I'm at the base. Don't worry, IWS 2000... I'm just having a showdown with CZ75.</color>

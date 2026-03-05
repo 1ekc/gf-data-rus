@@ -69,11 +69,11 @@ NPC-Lunasia(0)<Speaker>露尼西亚</Speaker>||<边框>2</边框>:嗯。
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_Moto_Start</SE1>:XM556唤醒了车辆，为露尼西亚拉开副驾的车门。
 ()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:嘀嘀。露尼西亚的通讯响起。
 NPC-Lunasia(4)<Speaker>露尼西亚</Speaker>||<边框>2</边框>:……
-NPC-William(2)<Speaker>威廉</Speaker><通讯框>;NPC-Lunasia(4)||<边框>2</边框>:<color=#00CCFF>姐姐，喜欢我给你的礼物吗？</color>
+NPC-William(2)<Speaker>威廉</Speaker><scan><通讯框>;NPC-Lunasia(4)||<边框>2</边框>:<color=#00CCFF>姐姐，喜欢我给你的礼物吗？</color>
 NPC-William(2);NPC-Lunasia(4)<Speaker>露尼西亚</Speaker>||<边框>2</边框>:……这里，就是你选择的祭坛？
-NPC-William(2)<Speaker>威廉</Speaker><通讯框>;NPC-Lunasia(4)||<边框>2</边框>:<color=#00CCFF>是我们共同选择的祭坛，当年没能完成的遗憾，现在终于可以重启了。</color>
+NPC-William(2)<Speaker>威廉</Speaker><scan><通讯框>;NPC-Lunasia(4)||<边框>2</边框>:<color=#00CCFF>是我们共同选择的祭坛，当年没能完成的遗憾，现在终于可以重启了。</color>
 NPC-William(2);NPC-Lunasia(4)<Speaker>露尼西亚</Speaker>||<边框>2</边框>:……全部的人都会死吗？
-NPC-William(2)<Speaker>威廉</Speaker><通讯框>;NPC-Lunasia(4)||<边框>2</边框>:<color=#00CCFF>除了登上诺亚方舟的幸运儿。</color>
+NPC-William(2)<Speaker>威廉</Speaker><scan><通讯框>;NPC-Lunasia(4)||<边框>2</边框>:<color=#00CCFF>除了登上诺亚方舟的幸运儿。</color>
 NPC-Lunasia(4)<Speaker>露尼西亚</Speaker>||<边框>2</边框>:……
 NPC-XM556(0)<Speaker>XM556</Speaker><Position>0,200</Position>||<边框>2</边框>:露尼西亚小姐？
 NPC-Lunasia(0)<Speaker>露尼西亚</Speaker>||<边框>2</边框>:抱歉，XM556。

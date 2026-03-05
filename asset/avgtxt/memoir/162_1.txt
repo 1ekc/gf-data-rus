@@ -43,10 +43,10 @@ AR57(0)<Speaker>AR-57</Speaker>||<SE1>ClothingUp</SE1>:...Please don't remind me
 ()||<关闭蒙版>:
 ()||<白屏2><BIN>418</BIN><回忆><BGM>m_avg_casual</BGM>:Two weeks ago, city streets.
 AR57(0)<Speaker>AR-57</Speaker>||:<color=#00CCFF>We have arrived at the target site. All is normal.</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>；AR57(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Our target is a workshop conducting illegal Doll remodeling. The objective is to arrest all associated personnel without disturbing the civilian population.</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>；AR57(0)||:<color=#00CCFF>The possibility of opposing modified T-Dolls can't be ruled out. Keep in mind you're in downtown; if a firefight breaks out, contain the impact to a minimum.</color>
-NPC-Kalin(0)<通讯框>；AR57(0)<Speaker>AR-57</Speaker>||:<color=#00CCFF>Roger! </color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>；AR57(0)||:<color=#00CCFF>Be safe and be swift.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>；AR57(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Our target is a workshop conducting illegal Doll remodeling. The objective is to arrest all associated personnel without disturbing the civilian population.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>；AR57(0)||:<color=#00CCFF>The possibility of opposing modified T-Dolls can't be ruled out. Keep in mind you're in downtown; if a firefight breaks out, contain the impact to a minimum.</color>
+NPC-Kalin(0)<scan><通讯框>；AR57(0)<Speaker>AR-57</Speaker>||:<color=#00CCFF>Roger! </color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>；AR57(0)||:<color=#00CCFF>Be safe and be swift.</color>
 AR57(0)<Speaker>AR-57</Speaker>||<SE1>AVG_tele_disconnect</SE1>:What's with that look?
 ()||:On the second-floor balcony of a bookstore around the block, SPAS-12, holding a copy of “Baking at Home for Beginners” as a disguise, stares across the street at a cafe's sign with mixed feelings.
 SPAS12(0)<Speaker>SPAS-12</Speaker>||:The target's entrance is concealed within the cafe, I would've never suspected it...

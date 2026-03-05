@@ -1,21 +1,21 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 M4A1(3)<Speaker>M4A1</Speaker>||<黑屏2><BIN>73</BIN><SE1>AVG_tele_connect</SE1><BGM>m_avg_casual</BGM>:Miss Persica, we have completed the mission as instructed. +Please provide further directions.
-NPC-Persica(11)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>You girls have been mumbling in the back for a while now. What were you chatting about?</color>
+NPC-Persica(11)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>You girls have been mumbling in the back for a while now. What were you chatting about?</color>
 NPC-Persica(9);M4A1(2)<Speaker>M4A1</Speaker>||:...
 NPC-Persica(9);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:About what's for dinner!
 NPC-Persica(9);AR15(0)<Speaker>AR15</Speaker>||:We had some disagreements about operational procedures, but they were resolved through discussions.
 NPC-Persica(9)<Speaker>Persica</Speaker>||:<color=#00CCFF>I see...</color>+<color=#00CCFF>I thought you girls had figured it out already...</color>
 AR15(0)<Speaker>AR15</Speaker>||:...
 M4A1(3)<Speaker>M4A1</Speaker>||:Miss Persica, if you'll excuse me, I'd like to know—
-NPC-Persica(9)<Speaker>Persica</Speaker><通讯框>;M4A1(3)||:<color=#00CCFF>Why was Operation Viper used as the template for this experiment?</color>
+NPC-Persica(9)<Speaker>Persica</Speaker><scan><通讯框>;M4A1(3)||:<color=#00CCFF>Why was Operation Viper used as the template for this experiment?</color>
 NPC-Persica(9);M4A1(3)<Speaker>M4A1</Speaker>||:Yes. Please clarify.
 NPC-Persica(13)<Speaker>Persica</Speaker>;M4A1(3)||:<color=#00CCFF>Well... About that... </color>
 NPC-Persica(13);AR15(0)<Speaker>AR15</Speaker>||:It's for?
 NPC-Persica(13)<Speaker>Persica</Speaker>||:<color=#00CCFF>...It's a secret.</color>
 SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:Come on?! You can't just leave us hanging like that!
-NPC-Persica(10)<Speaker>Persica</Speaker><通讯框>;SOPII(3)||:<color=#00CCFF>Heheh. If you so desperately want to know, wait until the experiment's completion so you can ask me yourself in my lab. </color>
+NPC-Persica(10)<Speaker>Persica</Speaker><scan><通讯框>;SOPII(3)||:<color=#00CCFF>Heheh. If you so desperately want to know, wait until the experiment's completion so you can ask me yourself in my lab. </color>
 NPC-Persica(10);M4A1(3)<Speaker>M4A1</Speaker>||:But...
-NPC-Persica(10)<Speaker>Persica</Speaker><通讯框>;M4A1(3)||:<color=#00CCFF>While the experiment is indeed based on data from Operation Viper, you aren't allowed to slack off and just copy your previous behavioral logic.</color>+<color=#00CCFF>I need your most authentic data to recreate the state you were in during that mission. So give me your best!</color>
+NPC-Persica(10)<Speaker>Persica</Speaker><scan><通讯框>;M4A1(3)||:<color=#00CCFF>While the experiment is indeed based on data from Operation Viper, you aren't allowed to slack off and just copy your previous behavioral logic.</color>+<color=#00CCFF>I need your most authentic data to recreate the state you were in during that mission. So give me your best!</color>
 NPC-Persica(10);M4A1(3)<Speaker>M4A1</Speaker>||:Yes! We'll take it seriously.
 NPC-Persica(10)<Speaker>Persica</Speaker>||:<color=#00CCFF>Good kitties. Time for a break, the next round will start in fifteen minutes.</color>
 AR15(0)<Speaker>AR15</Speaker>||<SE1>AVG_tele_disconnect</SE1>:...+She ended up saying nothing after all.

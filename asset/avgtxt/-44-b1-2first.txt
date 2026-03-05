@@ -1,30 +1,30 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>262</BIN>:Elsa jumps down and hastily runs after the Saint. +The refugees cheer and surge toward the dining hall. +Once I'm certain nobody is looking, I slip off to the appointed location and activate my micro communicator.
 ()<Speaker>Commander</Speaker>||<BGM>BGM_NightOPS</BGM>:Is everyone in position?
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Is everything okay, Commander?</color>
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>It's been a while, Commander. I almost thought you'd fallen in love with the lifestyle here.</color>
-NytoIsomer(8)<Speaker>Commander</Speaker><通讯框>||:...Things are fine on my end. +How about you? Keep it brief.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>In keeping with the plan, we've infiltrated the village through the lightly-guarded side gates and taken the high ground. Now we're standing by for further instructions.</color> +<color=#00CCFF>Commander, the number of Paradeus units in the village today has increased. Would you like to bring forward your withdrawal time?</color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框>||:Relax, everything is going as planned.
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>I'm in position too. I've blended in with the other rich patrons and successfully entered the wealthy quarantine zone of Bohnsdorf.</color> +<color=#00CCFF>By the way, Commander, this is a "fake refugee village".</color>
-NytoIsomer(8)<Speaker>Commander</Speaker><通讯框>||:What do you mean, "fake"?
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>I can see everything you're doing from there. It's like a circus.</color> +<color=#00CCFF>All the forbidden areas in Bohnsdorf are fitted with one-way mirrors and cameras. These wealthy people have come here to secretly observe them.</color>
-NytoIsomer(8)<Speaker>Commander</Speaker><通讯框>||:...Say what?
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Also, I didn't spot anyone suspicious on the list of wealthy people that Elia provided.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>We didn't find anyone suspicious either.</color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框>||:...So there's nobody suspicious in the village. Looks like the past few days were a bust. +Oh yes, do you know anything about that Saint?
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>I saw her heading to the temporary first-aid station in the north.</color> +<color=#00CCFF>Dandelion, why is it so noisy on your side? Have you been noticed?</color>
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>The "Saint"? What an interesting entity.</color> +<color=#00CCFF>The wealthy people here started howling like wild animals the moment she appeared. They were bidding high prices to receive her private attentions.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Is everything okay, Commander?</color>
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>It's been a while, Commander. I almost thought you'd fallen in love with the lifestyle here.</color>
+NytoIsomer(8)<Speaker>Commander</Speaker><scan><通讯框>||:...Things are fine on my end. +How about you? Keep it brief.
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>In keeping with the plan, we've infiltrated the village through the lightly-guarded side gates and taken the high ground. Now we're standing by for further instructions.</color> +<color=#00CCFF>Commander, the number of Paradeus units in the village today has increased. Would you like to bring forward your withdrawal time?</color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Relax, everything is going as planned.
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>I'm in position too. I've blended in with the other rich patrons and successfully entered the wealthy quarantine zone of Bohnsdorf.</color> +<color=#00CCFF>By the way, Commander, this is a "fake refugee village".</color>
+NytoIsomer(8)<Speaker>Commander</Speaker><scan><通讯框>||:What do you mean, "fake"?
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>I can see everything you're doing from there. It's like a circus.</color> +<color=#00CCFF>All the forbidden areas in Bohnsdorf are fitted with one-way mirrors and cameras. These wealthy people have come here to secretly observe them.</color>
+NytoIsomer(8)<Speaker>Commander</Speaker><scan><通讯框>||:...Say what?
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Also, I didn't spot anyone suspicious on the list of wealthy people that Elia provided.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>We didn't find anyone suspicious either.</color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:...So there's nobody suspicious in the village. Looks like the past few days were a bust. +Oh yes, do you know anything about that Saint?
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>I saw her heading to the temporary first-aid station in the north.</color> +<color=#00CCFF>Dandelion, why is it so noisy on your side? Have you been noticed?</color>
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>The "Saint"? What an interesting entity.</color> +<color=#00CCFF>The wealthy people here started howling like wild animals the moment she appeared. They were bidding high prices to receive her private attentions.</color>
 ()||:Dandelion presses her communicator to the slit of the door, and I can hear terrifying cries coming through it.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>...</color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框>||:Move it away. I'll have nightmares if I keep listening to it.
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>In any case, that's how things are over here.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Commander, are you going to investigate this Saint?</color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框>||:Well, I can't just leave empty-handed. +I'll try and make contact with this Saint afterwards. Judging by Elsa's reaction, she seems to have the utmost faith in her.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Understood. We can move ahead of schedule if anything unusual happens.</color>
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>I need to go. They'll get suspicious if I'm gone for too long.</color>
-NytoIsomer(8)<Speaker>Commander</Speaker><通讯框>||:I'll look into the Saint. We'll meet at the rendezvous point when it's time.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Roger!</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Move it away. I'll have nightmares if I keep listening to it.
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>In any case, that's how things are over here.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, are you going to investigate this Saint?</color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Well, I can't just leave empty-handed. +I'll try and make contact with this Saint afterwards. Judging by Elsa's reaction, she seems to have the utmost faith in her.
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Understood. We can move ahead of schedule if anything unusual happens.</color>
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>I need to go. They'll get suspicious if I'm gone for too long.</color>
+NytoIsomer(8)<Speaker>Commander</Speaker><scan><通讯框>||:I'll look into the Saint. We'll meet at the rendezvous point when it's time.
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Roger!</color>
 ()||<黑屏2><BIN>318</BIN><BGM>BGM_Empty</BGM>:I follow the information the AR Team has provided me and find the Saint's trail.
 NPC-Elijah(0)<Speaker>Elia</Speaker>||<BGM>BGM_stage11</BGM>:...Your faith must be mighty indeed to heal so many people.
 NPC-Machlian(0)<Speaker>???</Speaker>;NPC-Elijah(0)||:Faith? I don't have anything that profound. +I simply wish to heal as many ELID patients as I can. That is my mission.
@@ -62,10 +62,10 @@ NPC-Elijah(0)<Speaker>Elia</Speaker>||:Robin! What are you doing?! +Get out! You
 ()<Speaker>Rich Man 2</Speaker>||:Elia, you'd better think of something or else your future sponsorship—
 ()<Speaker>Rich Man 4</Speaker>||:Stop them!!!
 ()<Speaker>Commander</Speaker>||:RO! Dandelion! +My cover's been blown! I need backup ASAP!
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Roger! Heading over now!!</color>
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>While I can understand your sloppy work is due to having never done this before, only you could so brazenly abduct someone in broad daylight.</color>
-NytoIsomer(8)<Speaker>Commander</Speaker><通讯框>||:Stop making jokes at my expense and think of a way to hold them back!
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>I've hacked into the entertainment Dolls, they should be able to stop some of your pursuers. </color> +<color=#00CCFF>Follow this road to the village entrance. RO will meet you there and I'll catch up shortly after.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Roger! Heading over now!!</color>
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>While I can understand your sloppy work is due to having never done this before, only you could so brazenly abduct someone in broad daylight.</color>
+NytoIsomer(8)<Speaker>Commander</Speaker><scan><通讯框>||:Stop making jokes at my expense and think of a way to hold them back!
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>I've hacked into the entertainment Dolls, they should be able to stop some of your pursuers. </color> +<color=#00CCFF>Follow this road to the village entrance. RO will meet you there and I'll catch up shortly after.</color>
 ()||:The voices behind me gradually fade into the distance as we sprint down the road leading to the entrance.
 NPC-Machlian(0)<Speaker>???</Speaker>||:...Robin, is that your name?
 ()<Speaker>Commander</Speaker>||:No, but you can call me that for now.
@@ -73,7 +73,7 @@ NPC-Machlian(0)<Speaker>???</Speaker>||:My...My name is Machlian...
 ()||:A few villagers suddenly burst out from a fork in the road, and Elia's voice grows louder.
 NPC-Elijah(0)<Speaker>Elia</Speaker>||:Robin is kidnapping the Saint!! +Everyone, stop them!!
 ()<Speaker>Commander</Speaker>||:Dandelion!
-NytoIsomer(8)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Please hold.</color>
+NytoIsomer(8)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Please hold.</color>
 ()||:A group of entertainment Dolls emerge from parts unknown and begin grappling with the villagers. +However, most of the villagers are still in pursuit.
 NPC-Lilyan(0)<Speaker>Elsa</Speaker>||<震屏>:My Lady! +Robin, what are you doing?! +That's our Saint, how could you—
 NPC-Machlian(0)<Speaker>Machlian</Speaker>||:Elsa...

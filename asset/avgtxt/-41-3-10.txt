@@ -27,26 +27,26 @@ NPC-Bodyguard2(0)<Speaker>André</Speaker>||:Huh? +You're heading into the mount
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:It's alright. For your safety, please return to the hall and wait for me. +I will return, I promise.
 NPC-Bodyguard2(0)<Speaker>André</Speaker>||:Well... Good luck then.
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:... +Erwin, do you copy?
-AK15(6)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>Loud and clear. What's the situation?</color>
+AK15(6)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>Loud and clear. What's the situation?</color>
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:The security guard led me to the location where he had previously discovered evidence left behind by a possible intruder. The soil has definitely been disturbed here. +I suspect it bears footprints that were erased by the rain. I'm about to follow them.
-AK15(6)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>Do you require backup?</color>
+AK15(6)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>Do you require backup?</color>
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Keep up your own investigation. I'll get in touch if I need help.
-AK15(6)<Speaker>AK-15</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Understood. Be careful.</color>
+AK15(6)<Speaker>AK-15</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Understood. Be careful.</color>
 ()||<黑屏2>:AN-94 follows the trail into the mountains. +She finally finds what she's after deep inside. +She pushes a patch of shrubbery aside and reveals a round black manhole cover made of metal with a ring pull attached. +The ring pull feels a little greasy. Somebody must have used it recently.
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:A manhole cover? Why would there be a manhole cover in such a place? Ange, are you seeing this?
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Yes. Look around and show me your surroundings.</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Yes. Look around and show me your surroundings.</color>
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:The grass here looks like it's been stepped on. +The ring pull has also been used.
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>There shouldn't be a manhole in the mountains. Open the cover and see what's down there.</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>There shouldn't be a manhole in the mountains. Open the cover and see what's down there.</color>
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Roger.
 ()||:AN-94 lifts the metal cover with a single hand. A pungent odor of decay wafts through the opening. The hole looks pitch dark and bottomless.
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:It's big, a meter in diameter.
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Shine your flashlight in there.</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Shine your flashlight in there.</color>
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Okay. +Hm?!
 ()||:All of a sudden, someone clamps a hand over AN-94's mouth and slashes her throat with a blade. +AN-94 loses her balance and tumbles into the dark manhole, then the manhole cover is put back in place and sealed tight. +AN-94 finds her bearing at the bottom of the pit. Her automatic self-diagnostics indicate that she has only suffered minor damage.
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>What just happened, Antje?!</color> +<color=#00CCFF>Are you alright?!</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>What just happened, Antje?!</color> +<color=#00CCFF>Are you alright?!</color>
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:I'm...fine... +I was attacked... +I didn't sense anyone behind me at all...
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Glad to hear you're okay. Damage report.</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Glad to hear you're okay. Damage report.</color>
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:My assailant tried to slash my throat, but the cut wasn't deep and didn't damage any important components. I will close the wound temporarily with some sealing gel. +They must have thought I was human, or they wouldn't have attacked me with this method.
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>You're lucky you're a Doll.</color> +<color=#00CCFF>Stay where you are. Erwin and I are coming to get you.</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>You're lucky you're a Doll.</color> +<color=#00CCFF>Stay where you are. Erwin and I are coming to get you.</color>
 AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Acknowledged... But this doesn't seem like a nice place at all.
 ()||<黑屏1>:AN-94 turns on her flashlight. The illuminated scene confirms what her other senses have suggested. +The bottom of the manhole is covered by a layer of countless white bones. On the top of the pile are two little skeletons garbed in uniforms of the orphanage. Their hollow gaze seems to bore right into her.

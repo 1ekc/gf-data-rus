@@ -28,7 +28,7 @@ HK21(4)<Speaker>HMG21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:
 ()<Speaker></Speaker>||:Things are getting very touch-and-go between the fans of the two groups. An all-out brawl seems imminent when—
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Ring... Ring... Your cell phone suddenly rings.
 ()<Speaker>Commander</Speaker>||:Hello? Sakura?
-NPC-Sakura(14)<Speaker>Sakura Minamoto</Speaker><通讯框>||:<color=#00CCFF>Commander! Miss Kalina, Late Night Café's manager, just came and spoke to us.</color>+<color=#00CCFF>She said things aren't looking good in the auditorium and asked us to perform a number together with Late Night Café to ease the...</color>
+NPC-Sakura(14)<Speaker>Sakura Minamoto</Speaker><scan><通讯框>||:<color=#00CCFF>Commander! Miss Kalina, Late Night Café's manager, just came and spoke to us.</color>+<color=#00CCFF>She said things aren't looking good in the auditorium and asked us to perform a number together with Late Night Café to ease the...</color>
 NPC-Sakura(14)<Speaker>Commander</Speaker><同时置暗>||:Doing an ad hoc joint performance right now is too risky. +Our style may be similar to Late Night Café's, but we aren't too familiar with their work.
 NPC-Sakura(14)<Speaker>Sakura Minamoto</Speaker>||:<color=#00CCFF>Actually... after we lost to them last time, Junko and Ai helped us analyze Late Night Café's work...</color>+<color=#00CCFF>We've also been practicing their classic tracks in secret...</color>
 NPC-Sakura(14)<Speaker>Commander</Speaker><同时置暗>||:... +So you're telling me you'll have no trouble keeping up with them if you're going to do a joint performance?
@@ -37,28 +37,28 @@ NPC-Sakura(14)<Speaker>Commander</Speaker><同时置暗>||:Let me think about it
 NPC-Sakura(14)<Speaker>Sakura Minamoto</Speaker>||:<color=#00CCFF>So what answer should I give Miss Kalina?</color>
 ()<Speaker></Speaker>||:...<c>A. Accept the offer.<c>B. Decline the offer.
 ()<Speaker>Commander</Speaker>||<分支>2</分支><BGM>BGM_Empty</BGM>:Put her on the phone. Let me turn her down.
-NPC-Sakura(15)<Speaker>Sakura Minamoto</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>Huh? But...</color>+<color=#00CCFF>I understand. I'm passing the phone to Miss Kalina.</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>Hey, it's me.</color>
+NPC-Sakura(15)<Speaker>Sakura Minamoto</Speaker><scan><通讯框>||<分支>2</分支>:<color=#00CCFF>Huh? But...</color>+<color=#00CCFF>I understand. I'm passing the phone to Miss Kalina.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<分支>2</分支>:<color=#00CCFF>Hey, it's me.</color>
 ()<Speaker>Commander</Speaker>||<分支>2</分支>:Sakura told me about your idea of a joint performance, but I'm afraid I don't—
 ()<Speaker></Speaker>||<分支>2</分支><震屏3><SE1>AVG_Punch_Hit</SE1><SE1>Rope</SE1>:You suddenly feel a sharp pain on your toes. You look up from the large foot crushing your toes and come face-to-face with the production assistant from earlier.
 ()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1><BGM>Campaion-34</BGM>:He has just pulled his ear away from your cell phone and is now glaring hard at you, gesturing for you to answer in the affirmative.
 ()<Speaker>Commander</Speaker>||<分支>2</分支>:Hiss! What are you doing?! Move your foot!
-NPC-Kalin(2)<Speaker>Kalina</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>Huh?</color>
+NPC-Kalin(2)<Speaker>Kalina</Speaker><scan><通讯框>||<分支>2</分支>:<color=#00CCFF>Huh?</color>
 NPC-Ninja(5)<Speaker>Production Assistant</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支>:<size=25>Say yes! Let Franchouchou and Late Night Café perform together!</size>
 ()<Speaker>Commander</Speaker>||<分支>2</分支>:I don't—
 ()<Speaker></Speaker>||<分支>2</分支><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake><SE1>Rope</SE1>:The pain on your toes grows even sharper.
 NPC-Ninja(5)<Speaker>Production Assistant</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支>:<size=25>No! Tell her you accept!</size>
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>Hello? Commander, you still there?</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||<分支>2</分支>:<color=#00CCFF>Hello? Commander, you still there?</color>
 NPC-Kalin(4)<Speaker>Commander</Speaker><同时置暗>||<分支>2</分支><震屏3><SE1>Rope</SE1>:Hiss... Argh... Yes, let's do it!
 NPC-Kalin(3)<Speaker>Kalina</Speaker>||<分支>2</分支>:<color=#00CCFF>Oh, I thought you were going to say no.</color>
 ()<Speaker>Commander</Speaker>||<分支>2</分支>:Hiss... Let go already!
 NPC-Ninja(5)<Speaker>Production Assistant</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支>:That's better.
 ()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:The production assistant lifts his foot with a satisfied nod and disappears among the crowd.
-NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>Thank you for your trust. I will make the necessary arrangements!</color>
+NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>||<分支>2</分支>:<color=#00CCFF>Thank you for your trust. I will make the necessary arrangements!</color>
 ()<Speaker>Commander</Speaker>||<分支>1</分支>:It is a clever solution. Franchouchou's fans and the Coffee Lovers are on the verge of an all-out brawl. +If you can perform together amicably with Late Night Café, it will surely ease the tension.
-NPC-Sakura(14)<Speaker>Sakura Minamoto</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>Okay! Miss Kalina wants to talk to you herself!</color>
+NPC-Sakura(14)<Speaker>Sakura Minamoto</Speaker><scan><通讯框>||<分支>1</分支>:<color=#00CCFF>Okay! Miss Kalina wants to talk to you herself!</color>
 ()<Speaker>Commander</Speaker>||<分支>1</分支>:Sure.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>Hey, it's me.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<分支>1</分支>:<color=#00CCFF>Hey, it's me.</color>
 NPC-Kalin(0)<Speaker>Commander</Speaker><同时置暗>||<分支>1</分支>:Sakura told me about your idea of a joint performance. Arrange it as you see fit.
 NPC-Kalin(2)<Speaker>Kalina</Speaker>||<分支>1</分支>:<color=#00CCFF>You trust me just like that? What if I take advantage of this opportunity and sabotage Franchouchou's performance?</color>
 NPC-Kalin(2)<Speaker>Commander</Speaker><同时置暗>||<分支>1</分支>:You'll never shoot yourself in the foot like that.

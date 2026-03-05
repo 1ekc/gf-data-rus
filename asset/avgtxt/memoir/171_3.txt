@@ -2,13 +2,13 @@
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:A month later.
 ()||<黑屏1>:
 PPK(0)<Speaker>PPK</Speaker>||<黑屏2><BIN>168</BIN>:This is PPK, checking in one last time before starting the operation.
-PPK(0);Welrod(0)<Speaker>Welrod MkII</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Acknowledged. I am now at the back door.</color> +<color=#00CCFF>Just to go through the plan again – you will retrace the target's steps and investigate what happened to her. Meanwhile, I will search for her whereabouts.</color>
+PPK(0);Welrod(0)<Speaker>Welrod MkII</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Acknowledged. I am now at the back door.</color> +<color=#00CCFF>Just to go through the plan again – you will retrace the target's steps and investigate what happened to her. Meanwhile, I will search for her whereabouts.</color>
 PPK(0)<Speaker>PPK</Speaker>;Welrod(0)||:Understood. All preparations are complete; my disguise program is up and running.
-PPK(0);Welrod(0)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>And the tracker?</color>
+PPK(0);Welrod(0)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>And the tracker?</color>
 PPK(0)<Speaker>PPK</Speaker>;Welrod(0)||:Also operational.
-PPK(0);Welrod(0)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>Good. I shall infiltrate the main control room and intervene if anything happens to your body.</color>
+PPK(0);Welrod(0)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>Good. I shall infiltrate the main control room and intervene if anything happens to your body.</color>
 PPK(0)<Speaker>PPK</Speaker>;Welrod(0)||:Alright.
-Welrod(0)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>Then let's begin the rescue operation.</color>
+Welrod(0)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>Then let's begin the rescue operation.</color>
 ()||<黑屏1>:
 Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||<黑屏2><BIN>72</BIN><BGM>BGM_Truth</BGM>:...Will they even realize I'm gone...?
 Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||:I spend most of my time hospitalized... They probably won't even notice even if I'm away for months.
@@ -80,8 +80,8 @@ Ribeyrolles(0)<Speaker>Ribeyrolles</Speaker>||:...Shut up! +I must find a way to
 ()<Speaker>Ribeyrolles</Speaker>||<黑屏2><BIN>9</BIN>:I will not let her end up like me…I swear.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:Griffin base.
-Ribeyrolles(0)<Speaker>PPK</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I scanned the body. There's a Trojan horse inside.</color> +<color=#00CCFF>No idea where Ribeyrolles' neural cloud is... But the Trojan is most probably what's locking her out of her body.</color>
-Welrod(0)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>There's only a small pile of parts and scraps in their storeroom, so all the bodies in their possession are in use.</color>
-Welrod(0)<Speaker>Welrod MkII</Speaker><通讯框>||:<color=#00CCFF>We now have access to "Bridge of Sighs". This Level II layer doesn't seem to be too secure. Requesting tech support.</color>
+Ribeyrolles(0)<Speaker>PPK</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I scanned the body. There's a Trojan horse inside.</color> +<color=#00CCFF>No idea where Ribeyrolles' neural cloud is... But the Trojan is most probably what's locking her out of her body.</color>
+Welrod(0)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>There's only a small pile of parts and scraps in their storeroom, so all the bodies in their possession are in use.</color>
+Welrod(0)<Speaker>Welrod MkII</Speaker><scan><通讯框>||:<color=#00CCFF>We now have access to "Bridge of Sighs". This Level II layer doesn't seem to be too secure. Requesting tech support.</color>
 ()<Speaker>Commander</Speaker>||:Well done. We must find Ribeyrolles no matter what.
 ()||<黑屏1>:

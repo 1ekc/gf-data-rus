@@ -1,7 +1,7 @@
 ()||<BIN>85</BIN><BGM>BGM_Room</BGM>:...Клик.
 ()||<BIN>85</BIN>:...Есть запрос на шифрованную передачу персональных данных.
 NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>85</BIN>:О? И в такой момент... +Привет, Персика.
-NPC-Persica(1)<Speaker>Персика</Speaker><通讯框>;NPC-Ange(0)||<BIN>85</BIN>:Что, уже ночь?
+NPC-Persica(1)<Speaker>Персика</Speaker><scan><通讯框>;NPC-Ange(0)||<BIN>85</BIN>:Что, уже ночь?
 NPC-Persica(2)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>85</BIN>:Как дела у M4? Нейронное обновление прошло нормально?
 NPC-Persica(2);NPC-Ange(0)<Speaker>Анже</Speaker>||<BIN>85</BIN>:Пока всё нормально. Не о чем беспокоиться. +Я должна поблагодарить тебя от её имени за предоставление сведений для обновления.
 NPC-Persica(2)<Speaker>Персика</Speaker>;NPC-Ange(0)||<BIN>85</BIN>:Не дашь мне взглянуть? Я не против просто поглазеть на неё.

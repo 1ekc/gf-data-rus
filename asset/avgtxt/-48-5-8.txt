@@ -41,12 +41,12 @@ NPC-Helian(0)<Speaker>Helian</Speaker>||:Then please.
 NPC-Persica(0)<Speaker>Persica</Speaker>||:You... Yes, you, rugged Doll. Come and give me a hand.
 MAC10(0)<Speaker>Ingram</Speaker>||:Sure.
 ()||<SE1>AVG_tele_connect</SE1>:Helian's communicator chirps to life.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>Helian, I'm leading the Dolls over to regroup with you. When we're there, we'll escort our neural cloud servers and evacuate.</color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Kyruger(0)<通讯框>||:Understood. But where are we supposed to go?
-NPC-Helian(0);NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>We can't confront the enemy's assault head-on, so we must go downward to evade them.</color>
-NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Kyruger(0)<通讯框>||:Downward... But we'll be fencing ourselves in... 
-NPC-Helian(0);NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>We don't have a choice.</color>
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>Don't worry, Helian. Even if it's a dead end, we'll definitely think of a way out.</color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>Helian, I'm leading the Dolls over to regroup with you. When we're there, we'll escort our neural cloud servers and evacuate.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Kyruger(0)<scan><通讯框>||:Understood. But where are we supposed to go?
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>We can't confront the enemy's assault head-on, so we must go downward to evade them.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker>;NPC-Kyruger(0)<scan><通讯框>||:Downward... But we'll be fencing ourselves in...
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>We don't have a choice.</color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>Don't worry, Helian. Even if it's a dead end, we'll definitely think of a way out.</color>
 NPC-Helian(0)<Speaker>Helian</Speaker>||:...Alright, I understand.
 ()||<SE1>AVG_tele_disconnect</SE1>:Helian ends the call. +The ceiling quakes due to the relentless explosions. Helian wipes away the dust stuck to the surface of the neural cloud servers.
 NPC-Helian(0)<Speaker>Helian</Speaker>||<黑屏1>:As long as we still have everyone, we will have a Griffin base no matter where we go.

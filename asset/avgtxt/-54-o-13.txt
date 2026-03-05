@@ -1,40 +1,40 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>533</BIN><Night><narrator>:Carriage F01 (VIP-class carriage), Intercontinental Railway train "Future".
 ()||<SE1>AVG_whitenoise</SE1><BGM>GF_21winter_avg_mahaline</BGM>:Hisss— +The purification system is functioning normally... +It is only by hearing that sound that Lucas can tell that he is indeed aboard the "Future". +Otherwise, he'd be asleep. +Since they don't know how much longer they'll be here, they've shut down all other sources of power consumption other than the purification system. +Even after a terrifying round of shelling, nobody has anything to say. +They aren't even wailing and bemoaning their fate. +What everyone is waiting for is the dawn.
-NPC-TD_Worker(1)<通讯框><Speaker>Pavel</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Excuse me, Lucas.</color> +<color=#00CCFF>Do you have any sweets?</color>
-NPC-TD_Worker(1)<通讯框><同时置暗><Speaker></Speaker>||<SE1>ClothingUp</SE1>:Lucas' half-closed eyes immediately open. He glances at the doctor, who's sitting off to the side with his eyes closed, and replies grumpily.
+NPC-TD_Worker(1)<scan><通讯框><Speaker>Pavel</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Excuse me, Lucas.</color> +<color=#00CCFF>Do you have any sweets?</color>
+NPC-TD_Worker(1)<scan><通讯框><同时置暗><Speaker></Speaker>||<SE1>ClothingUp</SE1>:Lucas' half-closed eyes immediately open. He glances at the doctor, who's sitting off to the side with his eyes closed, and replies grumpily.
 NPC-TD_Worker(1);NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||:<color=#00CCFF>Mr. Pavel, there's only water and compressed biscuits in the emergency kits. If you want anything else, you should ask Miss Susanna.</color>
-NPC-TD_Worker(1)<通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Pardon me, I was rash.</color> +<color=#00CCFF>I'll ask somebody else.</color>
-NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<同时置暗><Speaker></Speaker>||:Lucas pricks up his ears. The doctor's breathing is stable and rhythmic. He's probably in deep sleep.
-NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||:<color=#00CCFF>...The doctor is very tired. Could you please not disturb him?</color>
-NPC-TD_Worker(1)<通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>...I am sorry.</color>
-NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||:<color=#00CCFF>He's done a lot for Rosita, could you please let him rest a little?</color>
-NPC-TD_Worker(1)<通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>I apologize.</color> +<color=#00CCFF>But I do not intend to disturb Dr. Rugosa.</color> +<color=#00CCFF>It's just that Rosita hasn't eaten for an entire day... I'm worried about her.</color>
-NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||:<color=#00CCFF>...Hypoglycemia isn't a high-priority condition, and he hasn't been this tired for a long time!</color>
-NPC-TD_Worker(1)<通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Her fever just broke, and I'm worried her body won't be able to take it.</color> +<color=#00CCFF>I don't know how much longer we must wait, so I'm feeling a little anxious.</color>
-NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||:<color=#00CCFF>...I'm sorry.</color> +<color=#00CCFF>But I just can't find anything that can immediately replenish her blood sugar.</color>
-NPC-TD_Worker(1)<通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Oh yes, there's one more thing I must trouble you with.</color>
+NPC-TD_Worker(1)<scan><通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Pardon me, I was rash.</color> +<color=#00CCFF>I'll ask somebody else.</color>
+NPC-TD_Worker(1)<scan><通讯框>;NPC-TD_Boy(0)<同时置暗><Speaker></Speaker>||:Lucas pricks up his ears. The doctor's breathing is stable and rhythmic. He's probably in deep sleep.
+NPC-TD_Worker(1)<scan><通讯框>;NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||:<color=#00CCFF>...The doctor is very tired. Could you please not disturb him?</color>
+NPC-TD_Worker(1)<scan><通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>...I am sorry.</color>
+NPC-TD_Worker(1)<scan><通讯框>;NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||:<color=#00CCFF>He's done a lot for Rosita, could you please let him rest a little?</color>
+NPC-TD_Worker(1)<scan><通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>I apologize.</color> +<color=#00CCFF>But I do not intend to disturb Dr. Rugosa.</color> +<color=#00CCFF>It's just that Rosita hasn't eaten for an entire day... I'm worried about her.</color>
+NPC-TD_Worker(1)<scan><通讯框>;NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||:<color=#00CCFF>...Hypoglycemia isn't a high-priority condition, and he hasn't been this tired for a long time!</color>
+NPC-TD_Worker(1)<scan><通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Her fever just broke, and I'm worried her body won't be able to take it.</color> +<color=#00CCFF>I don't know how much longer we must wait, so I'm feeling a little anxious.</color>
+NPC-TD_Worker(1)<scan><通讯框>;NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||:<color=#00CCFF>...I'm sorry.</color> +<color=#00CCFF>But I just can't find anything that can immediately replenish her blood sugar.</color>
+NPC-TD_Worker(1)<scan><通讯框><Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Oh yes, there's one more thing I must trouble you with.</color>
 NPC-TD_Boy(0)<Speaker>Lucas</Speaker>||<黑点1>:<color=#00CCFF>...</color> +<color=#00CCFF>Go ahead.</color>
 ()||<黑点2><BIN>529</BIN><Night><narrator>:Carriage F02 (first-class carriage), Intercontinental Railway train "Future".
 ()||:Pavel mulls over how to phrase his words as he sits on the floor. +He keeps entering letters, then deleting them, and only after going back and forth many times does he finally hit the "enter" key.
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>||:<color=#00CCFF>I bought an ampoule of "Idunn" on the Colt Express. </color> +<color=#00CCFF>I would like to pay for the serum that the doctor used on Rosita with it.</color>
-NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>Idunn???</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<scan><通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>Idunn???</color>
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>I'm sorry, I know that the ampoule won't ever be enough to make up for everything the doctor has done for Rosita...</color> +<color=#00CCFF>I don't mean it as a compensation...</color> +<color=#00CCFF>No, no, no, I do have to compensate the doctor...</color> +<color=#00CCFF>...</color> +<color=#00CCFF>My apologies. I am not good with words.</color> +<color=#00CCFF>I am very grateful to the Doctor, so I would like to express my gratitude. However, I have nothing to give other than what I've obtained from the black market.</color>
-NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>...Do you have any idea what you're saying?</color> +<color=#00CCFF>Galatea's stopped producing it. Idunn is now priceless.</color> +<color=#00CCFF>It's even more expensive than that serum.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<scan><通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>...Do you have any idea what you're saying?</color> +<color=#00CCFF>Galatea's stopped producing it. Idunn is now priceless.</color> +<color=#00CCFF>It's even more expensive than that serum.</color>
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>...Then that is as it should be...</color>
-NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>But I don't think the doctor will accept it. That's just how he is.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<scan><通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>But I don't think the doctor will accept it. That's just how he is.</color>
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Then please help me hand it to the Doctor.</color> +<color=#00CCFF>I'll send you the transaction code. Please contact Quimby for collection.</color>
-NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>...</color> +<color=#00CCFF>Ah, I suddenly remember something that might be of use in Carriage 2.</color> +<color=#00CCFF>You can try looking for it if you have night vision. There is a metal case under the doctor's seat that contains some lokum.</color> +<color=#00CCFF>If you find it, think of a way to get it in here. I'll help you feed it to Rosita.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<scan><通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>...</color> +<color=#00CCFF>Ah, I suddenly remember something that might be of use in Carriage 2.</color> +<color=#00CCFF>You can try looking for it if you have night vision. There is a metal case under the doctor's seat that contains some lokum.</color> +<color=#00CCFF>If you find it, think of a way to get it in here. I'll help you feed it to Rosita.</color>
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>...</color>
-NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>...I'm not trying to compensate you either!</color> +<color=#00CCFF>Don't get the wrong idea!</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<scan><通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>...I'm not trying to compensate you either!</color> +<color=#00CCFF>Don't get the wrong idea!</color>
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Thank you.</color>
-NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>Don't thank me too soon. It might have been ruined by the impact and the bombardment.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<scan><通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>Don't thank me too soon. It might have been ruined by the impact and the bombardment.</color>
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Is lokum the same rose-flavored candy from the Chronicles of Narnia?</color>
-NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>You know about it?</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<scan><通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>You know about it?</color>
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>Yeah. Rosita likes it a lot.</color>
-NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>So does Dr. Rugosa.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<scan><通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>So does Dr. Rugosa.</color>
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>I'll try to find it.</color>
-NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>...You'll find it faster if you have a magnet. It's a candy box made of steel.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<scan><通讯框><Speaker>Lucas</Speaker>||:<color=#00CCFF>...You'll find it faster if you have a magnet. It's a candy box made of steel.</color>
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>||:<color=#00CCFF>Thank you...</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:Pavel hangs up.
 NPC-TD_Worker(1)<Speaker>Pavel</Speaker>||:Miss Maggie, do you have a magnet?

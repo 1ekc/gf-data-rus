@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
 ()||<黑屏2><BIN>99</BIN><BGM>BGM_War</BGM>:20 minutes ago, at the military staging area.
 NPC-Yegor(4)<Speaker>Yegor</Speaker>||<SE1>AVG_tele_connect</SE1>:Terra to Hematite. Sitrep. Over.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker><通讯框>||:<color=#00CCFF>This is Hematite. We've linked up with the remnants of Quartz's troops. We're currently exchanging fire with Sangvis Ferri and Paradeus forces.</color>+<color=#00CCFF>Unable to break through swiftly, I repeat, unable to break through swiftly. Over.</color>
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker><scan><通讯框>||:<color=#00CCFF>This is Hematite. We've linked up with the remnants of Quartz's troops. We're currently exchanging fire with Sangvis Ferri and Paradeus forces.</color>+<color=#00CCFF>Unable to break through swiftly, I repeat, unable to break through swiftly. Over.</color>
 NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)||:Terra copies. Report losses. Over.
 NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker>||:<color=#00CCFF>Hematite copies. We are still able to carry out the mission. No need to worry, Terra. Over.</color>
 NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)||:Terra copies. Commencing creeping barrage in 20 seconds. Zircon will assist ASAP. Maintain your advance. Over.
@@ -68,7 +68,7 @@ BOSS-11(0)<Speaker>Dreamer</Speaker>;BOSS-6(0)||<黑屏1>:Who knows? It looks li
 NPC-Soldier(0)<Speaker>Armored Unit Officer</Speaker>||<BGM>BGM_War</BGM>:This is Zircon, please adjust fire support coordinates. I repeat, please adjust fire support coordinates. A large S.F. unit has appeared on the left flank, over.
 NPC-Soldier(0)<Speaker>???</Speaker>||:<color=#00CCFF>Roger. Cease fire support, there's no need to get locked in combat. All units, clear Advance Route 13 and follow me in an assault on the breach in the wall, over.</color>
 NPC-Soldier(0)<Speaker>Armored Unit Officer</Speaker>||:This is Zircon, requesting ID. Over.
-NPC-Yegor(4)<Speaker>Yegor</Speaker><通讯框>;NPC-Soldier(0)||:<color=#00CCFF>This is Terra. I'm on the frontlines, in Amber 4. Over.</color>
+NPC-Yegor(4)<Speaker>Yegor</Speaker><scan><通讯框>;NPC-Soldier(0)||:<color=#00CCFF>This is Terra. I'm on the frontlines, in Amber 4. Over.</color>
 NPC-Soldier(0)<Speaker>Armored Unit Officer</Speaker>||:Zircon copies. Over!
 ()<Speaker></Speaker>||<黑点1>:Four massive mechs weave through the Military formation, moving at a speed that doesn't seem possible for such vast, towering machines.+In the blink of an eye, they're already at the leading edge of the Military lines. S.F. shells detonate around their feet, but they do not so much as slow the mechs' movements.
 NPC-Yegor(4)<Speaker>Yegor</Speaker>||<黑点2>:The breach is too narrow. Focus fire and blast it open.
@@ -78,7 +78,7 @@ NPC-Yegor(4)<Speaker>Yegor</Speaker>||<黑屏1>:Well done, comrades. This is Ter
 ()||<BIN>85</BIN><黑屏2>||<BGM>BGM_Empty</BGM>:Several minutes ago, at the Griffin temporary defense line.
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||<BGM>BGM_Room</BGM>:Commander! The AR Team has linked up with us!
 NPC-Kalin(0)<Speaker>Commander</Speaker>||:This is great. M4, can you hear me?
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Loud and clear. I'm sorry, Commander... I couldn't stop those soldiers from firing the shore guns...</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Loud and clear. I'm sorry, Commander... I couldn't stop those soldiers from firing the shore guns...</color>
 M4A1Mod(0);NPC-Kalin(0)<Speaker>Commander</Speaker>||:You've done enough. What's your current situation?
 M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Kalin(0)||:<color=#00CCFF>Our team has sustained light damage, but we are still combat effective. Dandelion has already regrouped with us.</color>
 M4A1Mod(0);NPC-Kalin(0)<Speaker>Commander</Speaker>||:Good. +What's your present position? Have you made it into the base? +We're preparing to detonate the second entrance. If you haven't come in yet, you'd better hurry.
@@ -129,7 +129,7 @@ NPC-Kalin(4)<Speaker></Speaker>||<SE1>Explode</SE1><震屏>:Boom! Boom! +Explosi
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Did we stop them?
 NPC-Kalin(4)<Speaker>Commander</Speaker>||:I didn't expect them to have something else up their sleeve... Contact the AR Team!
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||<黑点1>:O...okay!
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<黑点2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, do you read me?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||<黑点2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander, do you read me?</color>
 M4A1Mod(0)<Speaker>Commander</Speaker>||:What's the situation at the entrance?
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>We only managed to plant half of the explosives. The entrance gate wasn't completely destroyed.</color>
 M4A1Mod(0)<Speaker>Commander</Speaker>||:Forget the gate. AR Team, take the DEFY members and one HOC to pursue the mechs that entered the base. And bring Dandelion with you!
@@ -137,7 +137,7 @@ M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>But the defenses of the main 
 M4A1Mod(0)<Speaker>Commander</Speaker>||:Let me worry about that. Make sure you stop those mechs!
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>Roger, we'll head out right away.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:The moment the transmission ends, another one comes through instantaneously.
-NPC-AngeDamage(4)<Speaker>Angelia</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Still alive, Commander?</color>
+NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Still alive, Commander?</color>
 NPC-AngeDamage(4);NPC-Kalin(8)<Speaker>Kalina</Speaker>||<BGM>BGM_Sneak</BGM>:Miss...Miss Ange?
 NPC-AngeDamage(4)<Speaker>Angelia</Speaker>;NPC-Kalin(8)||:<color=#00CCFF>Thank goodness, so Griffin hasn't been completely wiped out yet.</color>+<color=#00CCFF>Squad 404 has found us and disabled the lockdown, so we can join the fight now. </color>+<color=#00CCFF>I heard a huge explosion just now. What's going on?</color>
 NPC-AngeDamage(4);NPC-Kalin(8)<Speaker>Commander</Speaker>||:We're holding off the Military forces at the base entrance. A team of mech units have charged into the base. I'm guessing they're Yegor and his bodyguard unit. The AR Team is moving to intercept. Hopefully you can provide some support.+We couldn't completely destroy the entrance, so we'll be engaging the Military's follow-up units.

@@ -52,10 +52,10 @@ HK416Mod(0)<Speaker>416</Speaker>||:... +You're just asking for it. Let's hurry 
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Indeed, Captain Obvious.
 ()<speaker></speaker>||<BGM>BGM_Empty</BGM><黑屏2><回忆>:Shortly before...
 BOSS-6(0)<Speaker>Destroyer</Speaker>||<BGM>10130</BGM>:I'm at the place you were talking about. What now?
-BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||:<color=#00CCFF>She's gone...</color>
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker><scan><通讯框>||:<color=#00CCFF>She's gone...</color>
 BOSS-6(0)<Speaker>Destroyer</Speaker>;BOSS-11(0)||:What do you mean? Who's gone? Where did they go?
-BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||:<color=#00CCFF>Mastermind relinquished her command. Don't you understand what that means?</color>+<color=#00CCFF>To her, we're nothing more than disposable pawns.</color>
-BOSS-11(0)<Speaker>Dreamer</Speaker><通讯框>||:<color=#00CCFF>And now, it's time to take out the trash...</color>
+BOSS-6(0);BOSS-11(0)<Speaker>Dreamer</Speaker><scan><通讯框>||:<color=#00CCFF>Mastermind relinquished her command. Don't you understand what that means?</color>+<color=#00CCFF>To her, we're nothing more than disposable pawns.</color>
+BOSS-11(0)<Speaker>Dreamer</Speaker><scan><通讯框>||:<color=#00CCFF>And now, it's time to take out the trash...</color>
 BOSS-6(0)<Speaker>Destroyer</Speaker>||:What are you talking about?!
 ()<speaker></speaker>||<SE2>Gunfight</SE2>:A burst of intense gunfire rings out from Dreamer's end, and the transmission cuts off.
 BOSS-6(0)<Speaker>Destroyer</Speaker><Shake>||:Dreamer? Answer me!

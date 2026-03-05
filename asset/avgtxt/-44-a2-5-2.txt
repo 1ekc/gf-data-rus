@@ -68,13 +68,13 @@ AN94(2)<Speaker>AN-94</Speaker>||:Enough, 15!
 NPC-AngeDamage(2)<Speaker>Ange</Speaker>||:...
 NPC-Keven(1)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:...Comms are back.
 RPK16(0)<Speaker>RPK-16</Speaker>||:Ange, you have an incoming call. +It's...the "Earl".
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>You don't seem to be faring well, Angelia.</color>
-NPC-AngeDamage(3)<Speaker>Ange</Speaker>;NPC-Griffin(0)<通讯框>||:Your safe house is anything but safe. +Explain...yourself...you...son of a bitch...!
-NPC-AngeDamage(3);NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>You have no one but yourself to blame, Angelia.</color> +<color=#00CCFF>You were too rash.</color> +<color=#00CCFF>I told you to conduct an investigation, not engage them in open conflict.</color>
-NPC-AngeDamage(3)<Speaker>Ange</Speaker>;NPC-Griffin(0)<通讯框>||:Don't teach me how to do my job, bastard...who's just sitting on his ass.
-NPC-AngeDamage(3);NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I am simply trying to set you back on track.</color> +<color=#00CCFF>...As you can see, Paradeus is rearing its ugly head.</color> +<color=#00CCFF>This kind of attack is child's play for them.</color> +<color=#00CCFF>If their plan succeeds...</color> +<color=#00CCFF>The casualties will be tenfold... It will be on a completely different scale compared to Beslan.</color>
-NPC-AngeDamage(3)<Speaker>Ange</Speaker>;NPC-Griffin(0)<通讯框>||:Don't you...dare...bring up...Beslan!
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>...I wish you good luck.</color>
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>You don't seem to be faring well, Angelia.</color>
+NPC-AngeDamage(3)<Speaker>Ange</Speaker>;NPC-Griffin(0)<scan><通讯框>||:Your safe house is anything but safe. +Explain...yourself...you...son of a bitch...!
+NPC-AngeDamage(3);NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>You have no one but yourself to blame, Angelia.</color> +<color=#00CCFF>You were too rash.</color> +<color=#00CCFF>I told you to conduct an investigation, not engage them in open conflict.</color>
+NPC-AngeDamage(3)<Speaker>Ange</Speaker>;NPC-Griffin(0)<scan><通讯框>||:Don't teach me how to do my job, bastard...who's just sitting on his ass.
+NPC-AngeDamage(3);NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I am simply trying to set you back on track.</color> +<color=#00CCFF>...As you can see, Paradeus is rearing its ugly head.</color> +<color=#00CCFF>This kind of attack is child's play for them.</color> +<color=#00CCFF>If their plan succeeds...</color> +<color=#00CCFF>The casualties will be tenfold... It will be on a completely different scale compared to Beslan.</color>
+NPC-AngeDamage(3)<Speaker>Ange</Speaker>;NPC-Griffin(0)<scan><通讯框>||:Don't you...dare...bring up...Beslan!
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>...I wish you good luck.</color>
 NPC-AngeDamage(3)<Speaker>Ange</Speaker><Shake>0.1</Shake>||<SE1>AVG_tele_disconnect</SE1>:You...mother...fucker.
 AN94(2)<Speaker>AN-94</Speaker>||:Ange! Ange!
 ()<Speaker></Speaker>||:...

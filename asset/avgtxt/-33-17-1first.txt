@@ -45,7 +45,7 @@ DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:No, it had to be said. We'll be 
 M4A1Mod(0)<Speaker>M4A1</Speaker><Speaker>M4A1</Speaker>||:Thanks...huh...
 M4A1Mod(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:...Click.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:(Unable to determine source? ...Ah, it must be them.) +This is M4A1.
-M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Morning, M4A1.</color> +<color=#00CCFF>Have you and your teammates woken up?</color>
+M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Morning, M4A1.</color> +<color=#00CCFF>Have you and your teammates woken up?</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||:The interference is gone, so please get to the point.
 M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Ja, a few things happened just now, so I'll cut the long story short.</color> +<color=#00CCFF>The interference was caused by high-density data connections, and the target which the source of the interference has been trying so hard to connect to...is you, M4.</color>
 M4A1Mod(3)<Speaker>M4A1</Speaker>;UMP45Mod(0)||<BGM>BGM_Pervaded</BGM>:...
@@ -72,7 +72,7 @@ M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
 M4A1Mod(0)<Speaker>Clear Voice</Speaker>||<黑屏1>:Lunasia. It is time to make a decision. You cannot flee from yourself again and again after deciding to find yourself.
 UMP45()<Speaker>UMP45</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:<color=#00CCFF>M4, M4!</color>
 M4A1()<Speaker>M4A1</Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:!!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Can you hear me?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Can you hear me?</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||:No... (Groans) I mean, yes, I can hear you... +We'll talk about this later. The Commander's train is pulling into Tallinn. +We'll meet up at Tallinn City Station. I'll gather all our Dolls and we'll figure out how to force our way through the quarantine wall.
 M4A1Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>Have you obtained access to the quarantine wall activation systems?</color>
 M4A1Mod(0)<Speaker>M4A1</Speaker>;UMP45Mod(0)||<SE1>AVG_tele_disconnect</SE1><黑屏1>:Not yet, I'll think of something.

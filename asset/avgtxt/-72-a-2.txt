@@ -104,30 +104,30 @@ NPC-Constanze(0)<Speaker>Constanze</Speaker>||:Then I won't disturb you any furt
 NPC-Constanze(0)<Speaker>Constanze</Speaker>||:All done!
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:She eagerly dials an old friend.
 NPC-Constanze(0)<Speaker>Constanze</Speaker>||<BGM>m_avg_casual</BGM><CGDelay>0.5</CGDelay><震屏3>:<size=50>Nele!!!</size>
-NPC-Constanze(0);NPC-Nele(6)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>...Not so loud, Connie! You scared the crap out of me!</color>
-NPC-Constanze(0)<Speaker>Constanze</Speaker>;NPC-Nele(6)<通讯框>||:I can't help it! I've got amazing news—the lab application just got approved!
-NPC-Constanze(0);NPC-Nele(6)<Speaker>Nele</Speaker><通讯框>||<CGDelay>0.5</CGDelay>:
-NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>That's wonderful...</color>
+NPC-Constanze(0);NPC-Nele(6)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>...Not so loud, Connie! You scared the crap out of me!</color>
+NPC-Constanze(0)<Speaker>Constanze</Speaker>;NPC-Nele(6)<scan><通讯框>||:I can't help it! I've got amazing news—the lab application just got approved!
+NPC-Constanze(0);NPC-Nele(6)<Speaker>Nele</Speaker><scan><通讯框>||<CGDelay>0.5</CGDelay>:
+NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>That's wonderful...</color>
 NPC-Constanze(0)<Speaker>Constanze</Speaker>;NPC-Nele(4)||:Now we can finally start prepping for the experiment we haven't been able to complete!+You have no idea how long I've been dreaming of this day...
-NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>...Same here.</color>
+NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>...Same here.</color>
 NPC-Constanze(1)<Speaker>Constanze</Speaker>;NPC-Nele(4)||:What's wrong? You don't sound excited.
-NPC-Constanze(1);NPC-Nele(5)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>It's nothing, I just... getting emotional. Back when we were sneaking around, doing our experiment without permission, we nearly got flagged for BSL-4. Can't believe we're actually getting closer to our dream now...</color>
+NPC-Constanze(1);NPC-Nele(5)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>It's nothing, I just... getting emotional. Back when we were sneaking around, doing our experiment without permission, we nearly got flagged for BSL-4. Can't believe we're actually getting closer to our dream now...</color>
 NPC-Constanze(0)<Speaker>Constanze</Speaker>;NPC-Nele(5)||:Don't worry. You and I will finish that experiment.+You know, the moment I saw you in the lab back then, I knew—no challenge could deter you!
-NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>When I brought up the idea to you back then, I thought for sure you'd say no.</color>+<color=#00CCFF>After all, if we get caught running experiments that don't match our proposal, you could get seriously punished...</color>
+NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>When I brought up the idea to you back then, I thought for sure you'd say no.</color>+<color=#00CCFF>After all, if we get caught running experiments that don't match our proposal, you could get seriously punished...</color>
 NPC-Constanze(1)<Speaker>Constanze</Speaker>;NPC-Nele(4)||:Don't worry, I've got it covered.+What—getting cold feet now? That's not like you at all.
-NPC-Constanze(1);NPC-Nele(5)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>...I'm just worried you'll get dragged down because of me. I don't have much to lose, but you... you have a bright future ahead of you...</color>
+NPC-Constanze(1);NPC-Nele(5)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>...I'm just worried you'll get dragged down because of me. I don't have much to lose, but you... you have a bright future ahead of you...</color>
 NPC-Constanze(0)<Speaker>Constanze</Speaker>;NPC-Nele(5)||:Oh, cut it out! I know what you're trying to say—That you've got family to fall back on if things go bad, and I don't.+But I don't care about any of that. I'm an orphan raised on the government's dime, and that's exactly why I'm not afraid of anything!
 NPC-Constanze(0)<Speaker>Constanze</Speaker>;NPC-Nele(5)||:What could possibly be more moving more than the pursuit of truth?
-NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>...You're right.</color>+<color=#00CCFF>Nothing in this world can obscure the truth.</color>+<color=#00CCFF>Even if Darwin had repented on his deathbed, the theory of evolution would not be undone.</color>
+NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>...You're right.</color>+<color=#00CCFF>Nothing in this world can obscure the truth.</color>+<color=#00CCFF>Even if Darwin had repented on his deathbed, the theory of evolution would not be undone.</color>
 NPC-Constanze(0)<Speaker>Constanze</Speaker>;NPC-Nele(4)||:Bruno's body may have perished, but his insight would never waver.+So what—now that we're closer to the truth, you want to back down?
 NPC-Constanze(1)<Speaker>Constanze</Speaker>||:Nele, that really isn't like you!
-NPC-Constanze(1);NPC-Nele(4)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>...You're braver than I am.</color>
+NPC-Constanze(1);NPC-Nele(4)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>...You're braver than I am.</color>
 NPC-Constanze(1)<Speaker>Constanze</Speaker>;NPC-Nele(4)||:Tsk. Don't tell me you're still shaken from what happened with Galatea?
-NPC-Constanze(1);NPC-Nele(4)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>...You can save your reverse psychology, I know what you're getting at.</color>+<color=#00CCFF>Thank you.</color>
+NPC-Constanze(1);NPC-Nele(4)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>...You can save your reverse psychology, I know what you're getting at.</color>+<color=#00CCFF>Thank you.</color>
 NPC-Constanze(0)<Speaker>Constanze</Speaker>;NPC-Nele(4)||:I hope you do. Got your materials and data ready?
-NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>Yeah, everything's set on my end.</color>
+NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>Yeah, everything's set on my end.</color>
 NPC-Constanze(0)<Speaker>Constanze</Speaker>;NPC-Nele(4)||:Great. When are you free? Let's meet up and finalize the experiment!
-NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>Sure, Connie. I've got something to finish first—let's talk later.</color>
+NPC-Constanze(0);NPC-Nele(4)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>Sure, Connie. I've got something to finish first—let's talk later.</color>
 NPC-Constanze(0)<Speaker>Constanze</Speaker>||:Alright, I'm always online~
 ()||<黑点1>:
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1><BIN>18</BIN><黑点2><CGDelay>0.7</CGDelay>:
@@ -197,7 +197,7 @@ NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:...That's n
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Morridow and Bramedb exchange a knowing eye roll and leave the room together.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Nemhran picks up her communicator, which has been on call the entire time.
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:Any issues on your end?
-NPC-Hebe(0)<Speaker>Hebe</Speaker><通讯框>||:<color=#00CCFF>Not at all.</color>+<color=#00CCFF>Though I heard you-know-who is now in position...</color>
+NPC-Hebe(0)<Speaker>Hebe</Speaker><scan><通讯框>||:<color=#00CCFF>Not at all.</color>+<color=#00CCFF>Though I heard you-know-who is now in position...</color>
 NPC-Nemhran(0)<Speaker>Nemhran</Speaker><Position>80,90</Position>||:Hm.
 ()<Speaker></Speaker>||<SE1>Rope</SE1><CGDelay>0.7</CGDelay>:Creaaak—+Behind Nemhran, a lithe figure slips into the seat at the office desk and starts casually spinning in the chair.
 NPC-Styx(5)<Speaker>???</Speaker><Position>0,-50</Position>||:Hiya, Sister Nemhran. Long time no see.

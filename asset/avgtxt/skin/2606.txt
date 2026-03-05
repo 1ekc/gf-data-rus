@@ -41,8 +41,8 @@ F1(2)<Speaker>F1</Speaker>||:I haven't taken part in many electronic battles eit
 F1(2)<Speaker></Speaker>||:Surprisingly enough, F1 finds many strange and bizarre sights in this place. +Skyscrapers sit side by side with forests, and cyberspace rippling beside ruined battlefields. +There is even a beach.
 F1(2)<Speaker>F1</Speaker>||:This is just wrong, no matter how you look at it... I mean, there's a city and a forest and a beach existing side by side.
 ()<Speaker></Speaker>||:Just as F1 is busy being surprised by the sights in the cyberspace, her communicator rings. +F1 taps it to turn on the transmission, and she sees the images of two people.
-MDR(2)<Speaker>MDR</Speaker><通讯框>||:<color=#00CCFF>Just calm down and stay where you are. We'll keep in touch.</color>+<color=#00CCFF>I need to locate the others' signals first.</color>
-TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:<color=#00CCFF>Alright, you're the only one who can sort this out... Please find the others.</color>
+MDR(2)<Speaker>MDR</Speaker><scan><通讯框>||:<color=#00CCFF>Just calm down and stay where you are. We'll keep in touch.</color>+<color=#00CCFF>I need to locate the others' signals first.</color>
+TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:<color=#00CCFF>Alright, you're the only one who can sort this out... Please find the others.</color>
 ()<Speaker></Speaker>||:...Beep.
 F1(2)<Speaker>F1</Speaker><Shake>||:Er... Hang on— +Wait, the transmission...ended? +Don't tell me... We've all been scattered into different digital realms?+I can be sure that TAC and MDR are still alive, at least, and that they're searching for me and the others...
 F1(2)<Speaker>F1</Speaker>||:Hm... Am I seeing this because this is a digital world, so the data and radio waves here are all on the same bandwidth? +Hmm! It IS cyberspace, after all! All this scenery and the crossed signals are in cyberspace! +At the very least I don't need to worry about my safety any more.  I'll just treat this as a good experience and go adventuring to come up with a new poem!

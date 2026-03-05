@@ -1,30 +1,30 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>472</BIN><BGM>GF_21summer_avg_Demon</BGM>:...On the edge of the Yellow Zone, in an abandoned urban area. +The buildings are becoming more ruined as the contamination index rises... +Several once-impressive skyscrapers have collapsed in a messy heap by the roadside, their ruptured walls exposing the crisscrossing rebar and concrete cross-sections within, like a scrawny yet spirited junkyard dog baring its teeth. +PPK walks leisurely past them, heading toward the coordinates indicated in the plan. It seems she has long since grown used to the brutal scenery around her.
 PPKMod(0)<Speaker>PPK</Speaker>||:...So the reason you stink of alcohol today wasn't because you snuck out of the base to get sloshed, but because you ran into a heartbroken girl while you were on patrol and she got plastered. +And so, in order to ensure she was safe, you went halfway through the city to send her home?
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>You guys should know just how troublesome humans can get when they've been rejected.</color>
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>I still don't understand why being dumped hurts so much.</color>
-PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)<通讯框>||:It's perfectly normal that you don't understand it. After all, humans and Dolls are fundamentally different in terms of their bodily makeup.
-PPKMod(0);MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>By that do you mean that one of them can be scrapped while the other can't?</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>You guys should know just how troublesome humans can get when they've been rejected.</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>I still don't understand why being dumped hurts so much.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)<scan><通讯框>||:It's perfectly normal that you don't understand it. After all, humans and Dolls are fundamentally different in terms of their bodily makeup.
+PPKMod(0);MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>By that do you mean that one of them can be scrapped while the other can't?</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:I'm not talking about crass physical differences like that...
 ()||:An entranced smile flashes across PPK's face.
 PPKMod(0)<Speaker>PPK</Speaker>||:Our memories are stored in our neural clouds, and we look them up when we need them. That's how we recall things. +Humans, on the other hand, can't control when their memories are triggered. +In particular, when a human loses someone important, and then recalls their memories of them, it activates the bilateral ventral tegmental areas, ventral striatum, and cingulate gyrus of the brain— +These are the regions which make human beings feel desire and addiction.
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>Um... Give me a bit to download some human anatomical data...</color>
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>In other words, when humans get jilted, they end up recalling past memories uncontrollably, over and over again.</color>
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>Wait, doesn't that make them masochists or something?!</color>
-PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)<通讯框>||:That's right, they go over those memories over and over again, like masochists... And the pain those memories bring can change the human brain permanently. +However, Dolls have ways to delete these memories or avoid triggering them.
-PPKMod(0);MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>I think I once heard someone say that there were black market services that helped Dolls edit their memory data...</color>
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>But don't they involve some form of hidden danger? Can Dolls really escape the pain of loss just like that?</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>Um... Give me a bit to download some human anatomical data...</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>In other words, when humans get jilted, they end up recalling past memories uncontrollably, over and over again.</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>Wait, doesn't that make them masochists or something?!</color>
+PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)<scan><通讯框>||:That's right, they go over those memories over and over again, like masochists... And the pain those memories bring can change the human brain permanently. +However, Dolls have ways to delete these memories or avoid triggering them.
+PPKMod(0);MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>I think I once heard someone say that there were black market services that helped Dolls edit their memory data...</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>But don't they involve some form of hidden danger? Can Dolls really escape the pain of loss just like that?</color>
 ()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:Beep—The system notification suddenly interrupts their conversation.
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>Right, girls, time to report our progress.</color> +<color=#00CCFF>How are your missions going? Have you found anything new?</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>Right, girls, time to report our progress.</color> +<color=#00CCFF>How are your missions going? Have you found anything new?</color>
 PPKMod(0)<Speaker>PPK</Speaker>||<BGM>GF_EV9_Story</BGM>:There's no sign of anyone, just like before. +I'm going to fall asleep if nothing exciting happens.
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>Pretty much the same for me over here. Nothing new has turned up.</color>
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>Now that's strange. How far can a nanny Doll with a little girl in tow go in the midst of a refugee riot?</color> +<color=#00CCFF>Plus, the radiation intensity around here is spiking. We don't even know if that nanny Doll is still functional...</color>
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>According to the parameters supplied in our intel, we'd need to get really close to contact her even if she is still operational.</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>Pretty much the same for me over here. Nothing new has turned up.</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>Now that's strange. How far can a nanny Doll with a little girl in tow go in the midst of a refugee riot?</color> +<color=#00CCFF>Plus, the radiation intensity around here is spiking. We don't even know if that nanny Doll is still functional...</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>According to the parameters supplied in our intel, we'd need to get really close to contact her even if she is still operational.</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:I guess it really is easier to look for the nanny Doll's signal compared to aimlessly searching around for that little girl.
-PPKMod(0);Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>The interference from the radiation is too strong. Even your signals are breaking up.</color> +<color=#00CCFF>Check for the nanny Doll's signal as you look for the girl, but we need to pick up the pace. Human kids won't last long in this environment.</color>
-PPKMod(0);MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>Roger!</color>
+PPKMod(0);Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>The interference from the radiation is too strong. Even your signals are breaking up.</color> +<color=#00CCFF>Check for the nanny Doll's signal as you look for the girl, but we need to pick up the pace. Human kids won't last long in this environment.</color>
+PPKMod(0);MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>Roger!</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:Understood.
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>PPK, you just finished your neural upgrade, so make sure you don't push yourself too hard and let us know if any problems come up ASAP.</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>PPK, you just finished your neural upgrade, so make sure you don't push yourself too hard and let us know if any problems come up ASAP.</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:Mhm♪
 ()||<SE1>AVG_tele_disconnect</SE1>:Beep—The intra-squad call terminates. +A wicked smile appears on PPK's face.
 PPKMod(0)<Speaker>PPK</Speaker>||:Don't push myself too hard? The only two settings I have are "too far" and "way too far".
@@ -36,15 +36,15 @@ PPKMod(0)<Speaker>PPK</Speaker>||:My top priority will be to find a safely seale
 PPKMod(0)<Speaker>PPK</Speaker>||:Mhm♪ There we are, and after the girl is safe, I'd think of a way to call for help— +In other words, I'd be in a place near the clinic with good signal...
 ()||<黑屏1>:With a confident smile on her face, PPK silently proceeds toward her objective...
 ()||<黑屏2><BIN>468</BIN><SE1>AVG_wind_grass</SE1>:Rustle—PPK darts through the ruins, and what she sees is still roughly the same as what she saw on her original route. +The landscape is still as bleak and empty as before. +However, the fact that PPK has left the search pattern immediately draws the attention of her teammates.
-Python(0)<Speaker>Python</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>PPK, why have you changed course?</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>PPK, why have you changed course?</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:I felt inspired.
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>Hah? Come on, don't pull any stunts.</color>
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>Hahahaha, she wouldn't be PPK if she didn't do stuff like that.</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>Hah? Come on, don't pull any stunts.</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>Hahahaha, she wouldn't be PPK if she didn't do stuff like that.</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:Relax, I just found a lead...
 ()||<SE1>AVG_whitenoise</SE1>:Crackle +PPK detects an indistinct signal—
 ()||<SE1>Stop_AVG_loop</SE1>:Which comes from a Doll.
 PPKMod(0)<Speaker>PPK</Speaker>||:I'll talk to you later. I've picked up a signal.
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>Alright. Let us know if you make any progress.</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>Alright. Let us know if you make any progress.</color>
 ()||:PPK attempts to connect to the unstable signal. She devotes all her focus and patience to the task, like she were gently playing with a butterfly's wings, and slowly establishes a connection.
 PPKMod(0)<Speaker>PPK</Speaker>||:Hello, this is PPK from Griffin PMC.
 PPKMod(0)<Speaker>??</Speaker><同时置暗>||:<color=#00CCFF>...</color>
@@ -93,24 +93,24 @@ PPKMod(0)<Speaker>Erika</Speaker><同时置暗>||:<color=#00CCFF>Please... Save 
 ()||<SE1>AVG_tele_disconnect</SE1>:Beep—The connection breaks.
 PPKMod(0)<Speaker>PPK</Speaker>||:Hey—! Wait!
 ()||:Erika's signal vanishes from PPK's detection radius like a dying star, leaving nothing more than a flash in her memory to prove that it ever existed.
-Python(0)<Speaker>Python</Speaker><通讯框>||<BGM>GF_EV9_Story</BGM><震屏>:<color=#00CCFF>PPK!</color>
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>Say something!</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||<BGM>GF_EV9_Story</BGM><震屏>:<color=#00CCFF>PPK!</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>Say something!</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:...I'm here.
 ()||:After dusting herself off, PPK stands back up in a daze.
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>Hey, what the hell are you up to? You went offline and all!</color>
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>What happened to that lead of yours? Why didn't you say anything?</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>Hey, what the hell are you up to? You went offline and all!</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>What happened to that lead of yours? Why didn't you say anything?</color>
 ()||:PPK activates her antivirus routines, which indicates that she isn't infected with a virus. Her interception window shows no trace of a fake signal either.
 PPKMod(0)<Speaker>PPK</Speaker>||:(Sigh) Guess it wasn't a virus after all. +I briefly connected to what seemed like the nanny Doll and saw some weird things, and then the connection broke.
-PPKMod(0);MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>If you could connect to her, then the objective must be nearby!</color>
-PPKMod(0);Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>Wait a minute, did you say weird things? What happened?</color>
+PPKMod(0);MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>If you could connect to her, then the objective must be nearby!</color>
+PPKMod(0);Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>Wait a minute, did you say weird things? What happened?</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:My neural cloud was dragged into a dark room and I saw... What seemed like memories from that Doll.
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>Ehhhhh? Can a nanny Doll really do crazy stuff like that?!</color>
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>I've never heard of such technology.</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>Ehhhhh? Can a nanny Doll really do crazy stuff like that?!</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>I've never heard of such technology.</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:I don't get it either.
 ()||:The sound of quiet rustling filters in from outside the quiet ruins.
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>We'll discuss your problems later. You need to get out of there right now.</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>We'll discuss your problems later. You need to get out of there right now.</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:What happened?
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>Several ELID Infected are approaching your current location. There aren't many of them, so they probably just wandered over by chance.</color> +<color=#00CCFF>Make sure you hide yourself and avoid the enemy as much as possible. Saving the target is your top priority.</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>Several ELID Infected are approaching your current location. There aren't many of them, so they probably just wandered over by chance.</color> +<color=#00CCFF>Make sure you hide yourself and avoid the enemy as much as possible. Saving the target is your top priority.</color>
 PPKMod(0)<Speaker>PPK</Speaker>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:Humph, evading a few ELIDs is nothing.
 ()||<黑屏2><BIN>476</BIN><SE1>ClothingUp</SE1>:After exiting the ruins, PPK puts her pistol away and takes stock of the ELIDs' numbers and positions.
 PPKMod(0)<Speaker>PPK</Speaker>||:There's three of them in total, so there aren't too many of them. +Still, there's no need to waste ammo here, lucky you—
@@ -141,9 +141,9 @@ PPKMod(0)<Speaker>PPK</Speaker>||:Yes, yes, yes, you're right.
 ()<Speaker>Sanaya</Speaker>||:<color=#F08080>No!</color> +<color=#F08080>Sanaya will never run from a fight! </color>
 ()||<SE1>AVG_20Winter_Burnfire_Loop</SE1>:Her neural cloud is consumed by dragon's breath which burns like lava, and the scorching sensation spreads like a volcanic eruption. +PPK very nearly blue screens on the spot. She can't even crawl any more—All she can do is lie on the ground like a wet rug hung out to dry.
 PPKMod(0)<Speaker>PPK</Speaker>||<SE1>Stop_AVG_loop</SE1>:What... ARE... you...
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>PPK, what the hell are you doing?</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>PPK, what the hell are you doing?</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:Ugh... I can't move... It's all thanks to that damn Sanaya...
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>What nonsense are you talking about? Who's Sanaya?</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>What nonsense are you talking about? Who's Sanaya?</color>
 ()||:PPK grits her teeth against the scorching in her neural cloud and tries to calm her panting with all her might.
 ()||<SE1>Select</SE1>:She pulls her pistol from her waist and smoothly disengages the safety.
 PPKMod(0)<Speaker>PPK</Speaker>||:Sorry... I'll explain about that bitch Sanaya later... +Right now, it's punishment time for PPK.
@@ -151,8 +151,8 @@ PPKMod(0)<Speaker>PPK</Speaker>||:Sorry... I'll explain about that bitch Sanaya 
 ()||<黑点2><BGM>BGM_Empty</BGM>:...10 minutes later.
 ()<Speaker>Commander</Speaker>||<BGM>10213</BGM>:<color=#00CCFF>...So you're saying, you successfully connected to the nanny Doll, but then you somehow saw her memories, and then you were forced to listen to her tell the story of Sanaya the Killer.</color> +<color=#00CCFF>And after hearing the story, Sanaya entered your neural cloud and if you disobey Sanaya, your neural cloud temperature spikes?</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:I know it sounds far-fetched, but it's true.
-MP443_MOD(0)<Speaker>MP-443</Speaker><通讯框>||:<color=#00CCFF>It's absolutely ridiculous!</color>
-Python(0)<Speaker>Python</Speaker><通讯框>||:<color=#00CCFF>I have no idea if you're joking or serious at this point...</color>
+MP443_MOD(0)<Speaker>MP-443</Speaker><scan><通讯框>||:<color=#00CCFF>It's absolutely ridiculous!</color>
+Python(0)<Speaker>Python</Speaker><scan><通讯框>||:<color=#00CCFF>I have no idea if you're joking or serious at this point...</color>
 ()<Speaker>Commander</Speaker>||:<color=#00CCFF>All this happened after you connected to the nanny Doll. Could the connection have caused it?</color>
 PPKMod(0)<Speaker>PPK</Speaker>||:I've run the antivirus several times now. There are no abnormalities.
 PPKMod(0)<Speaker>Commander</Speaker><同时置暗>||:<color=#00CCFF>That's just weird. I haven't found anything about a "Sanaya" that matches what you told me about her.</color> +<color=#00CCFF>Do you want to call off the mission for now and run a full diagnostic?</color>

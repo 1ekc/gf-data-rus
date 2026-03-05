@@ -1,7 +1,7 @@
 ()||<BIN>159</BIN><BGM>BGM_NightOPS</BGM><黑屏2>:...
 SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:Пуга...ло?
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Хе-хе, разве ты не говорила, что мы больше не встретимся?
-SOPIIDamage(0);BOSS-1(0)<Speaker>Пугало</Speaker><通讯框>||:<color=#00CCFF>...</color>
+SOPIIDamage(0);BOSS-1(0)<Speaker>Пугало</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:...Что, ты сейчас сожалеешь о нашей сделке? К сожалению, теперь уже слишком поздно!
 SOPIIDamage(0);BOSS-1(0)<Speaker>Пугало</Speaker>||:<color=#00CCFF>По моим оценкам, вы почти добрались до элитной базы Сангвис, верно?</color>+<color=#00CCFF>Вам должно быть страшно.</color>
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:Ха, ну, это лучше, чем обернуться и столкнуться с Военными.
@@ -10,7 +10,7 @@ SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:... +Итак, в че
 SOPIIDamage(3);BOSS-1(0)<Speaker>Пугало</Speaker>||:<color=#00CCFF>...Открой свою электронную карту.</color>
 SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||<黑屏1>:...Что?
 ()||<BIN>10</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
-BOSS-1(0)<Speaker>Пугало</Speaker><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>Если ты продолжишь движение по этому маршруту, я могу сообщить тебе дальность обнаружения элитных подразделений Сангвиса, встречающихся по пути.</color>+<color=#00CCFF>Если ты не хочешь ввязываться в бесполезные конфликты, то перед перемещением составь план.</color>
+BOSS-1(0)<Speaker>Пугало</Speaker><scan><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>Если ты продолжишь движение по этому маршруту, я могу сообщить тебе дальность обнаружения элитных подразделений Сангвиса, встречающихся по пути.</color>+<color=#00CCFF>Если ты не хочешь ввязываться в бесполезные конфликты, то перед перемещением составь план.</color>
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:Ч-Что... ты сказала? +Эй, разве ты не говорила, что следующего раза не будет?
 SOPIIDamage(2);BOSS-1(0)<Speaker>Пугало</Speaker>||:<color=#00CCFF>Твой слуховой модуль неисправен? Спроси у своих друзей, я не буду повторяться.</color>+<color=#00CCFF>Кроме того, в этот раз ситуация иная.</color>
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:Ты же знаешь, что я сделала это не для того, чтобы польстить тебе, да?

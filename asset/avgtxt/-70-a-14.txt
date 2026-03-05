@@ -2,7 +2,7 @@
 ()<Speaker></Speaker>||<黑屏2><BIN>417</BIN>:Meeting room, Stasi Headquarters, Frankfurt.
 ()<Speaker></Speaker>||:Standing by the window, J peers into the distant night sky. His anxiety is making him babble.
 NPC-Keven(11)<Speaker>J</Speaker>||:Anyway, that's basically what happened. They wouldn't let us take the Doll with us...
-NPC-Romy(0)<Speaker>Romy</Speaker><通讯框>||:<color=#00CCFF>I understand. I'll send Q to take care of the matter.</color>
+NPC-Romy(0)<Speaker>Romy</Speaker><scan><通讯框>||:<color=#00CCFF>I understand. I'll send Q to take care of the matter.</color>
 NPC-Keven(11)<Speaker>J</Speaker>||:...Right.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:After hanging up, J can't help but wonder how he got himself into this mess.
 NPC-Keven(14)<Speaker>J</Speaker>||<BGM>BGM_Hume_FourAdventures</BGM>:I knew I should never have come to Frankfurt...
@@ -74,10 +74,10 @@ NPC-maya(0)<Speaker>Q</Speaker>||:Tsk, it's another new day.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>136</BIN>:Kaiserdom St. Bartholomaeus, Frankfurt District, Frankfurt.
 ()<Speaker></Speaker>||:The high vaulted ceiling supported by pillars of red bricks is lit up only by the soft candlelight of a chandelier. A priest is conversing with some churchgoers in a hushed tone. +AK-12 melts into the shadows and slips quietly into the last row of seats.
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>You've circled around all potential threats. No one is following you.</color>
-AK15MOD(0)<Speaker>AK-15</Speaker><通讯框>||:<color=#00CCFF>Confirmed. The target area is secure.</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>You've circled around all potential threats. No one is following you.</color>
+AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>Confirmed. The target area is secure.</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:Copy that. You two don't have to hang around outside. Return to the temporary safe house for now.
-AN94MOD(0)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Will you be alright on your own? You are very eye-catching.</color>
+AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Will you be alright on your own? You are very eye-catching.</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:Don't worry, ordinary people can't spot me.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:AK-12 terminates the call and gets ready to leave.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:The moment she rises to her feet, someone pushes open the door and enters. +It appears to be a weary traveler.
@@ -163,26 +163,26 @@ AK12(0)<Speaker>AK-12</Speaker><Position>0,70</Position>||<SE1>Select</SE1>:Off 
 ()<Speaker></Speaker>||<黑屏2><BIN>712</BIN><common_effect>%%code=AVG_xiaxue%%</common_effect>:...
 ()<Speaker></Speaker>||<BGM>BGM_Hume_ImFutue_Main</BGM><SE1>ClothingUp</SE1>:AK-12 redirects her gaze from the drifting snowflakes to the flickering street lights.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Beep-beep-beep. Her thoughts are interrupted by the urgent sound of her communicator.
-AR18(3)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>Hello, AK-12. We have received the information about Shaw.</color>
+AR18(3)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>Hello, AK-12. We have received the information about Shaw.</color>
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker>;AR18(3)||:Good. Are you still outside the city?
-NPC-AK12Mod(0);AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>Yes. We've run into some problem with our clearance; we're trying to work something out.</color>
+NPC-AK12Mod(0);AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>Yes. We've run into some problem with our clearance; we're trying to work something out.</color>
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker>;AR18(2)||:...Halloween is tomorrow. The plan will go ahead according to schedule.
-NPC-AK12Mod(0);AR18(3)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>Apart from storing your neural backups, can we give you any other forms of assistance?</color>
+NPC-AK12Mod(0);AR18(3)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>Apart from storing your neural backups, can we give you any other forms of assistance?</color>
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker>;AR18(3)||:That won't be necessary. This is personal business for Task Force DEFY. +Thank you for the thing you had Stevens 520 pass on to me.
-NPC-AK12Mod(0);AR18(3)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>I wish you the best of luck.</color>
+NPC-AK12Mod(0);AR18(3)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>I wish you the best of luck.</color>
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker>;AR18(3)||:...Much appreciated. +AR-18, I'm curious—what do you think of Hume?
-NPC-AK12Mod(0);AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>...I would rather not discuss him with others.</color>
+NPC-AK12Mod(0);AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>...I would rather not discuss him with others.</color>
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker>;AR18(2)||:Why?
-NPC-AK12Mod(0);AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>...To talk about someone in depth, one must first know this person well.</color> +<color=#00CCFF>But I don't know him at all, nor do I particularly want to.</color>
+NPC-AK12Mod(0);AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>...To talk about someone in depth, one must first know this person well.</color> +<color=#00CCFF>But I don't know him at all, nor do I particularly want to.</color>
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker>;AR18(2)||:No one was more vehemently opposed to Hume's ideas than Shaw. +She had always adhered to a purely mechanical approach, while Hume took another path.
-NPC-AK12Mod(0);AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>The stance of a Doll's designer has no bearing on the Doll's own stance.</color> +<color=#00CCFF>Their positions may have been completely at odds with each other, but you and I are now on the same side.</color>
+NPC-AK12Mod(0);AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>The stance of a Doll's designer has no bearing on the Doll's own stance.</color> +<color=#00CCFF>Their positions may have been completely at odds with each other, but you and I are now on the same side.</color>
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker>;AR18(2)||:Ironic, isn't it?
-AR18(5)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>Humans might say it's fate.</color>
+AR18(5)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>Humans might say it's fate.</color>
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-12 allows herself a small smile. She tilts her face up to the sky, letting the fluttering snowflakes land on her.
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker>||:You now have no guidance from your creator, and you're cut off from the Commander. Do you feel lost?
-AR18(2)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>I will keep moving forward.</color>
+AR18(2)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>I will keep moving forward.</color>
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker>||:...What if you're going down a path of destruction?
-AR18(3)<Speaker>AR-18</Speaker><通讯框>||:<color=#00CCFF>...Then I will give my life to fulfill my duty.</color>
+AR18(3)<Speaker>AR-18</Speaker><scan><通讯框>||:<color=#00CCFF>...Then I will give my life to fulfill my duty.</color>
 ()<Speaker></Speaker>||<CGDelay>0.6</CGDelay>:
 ()||<黑屏1><CGDelay>0.7</CGDelay><关闭蒙版>:
 ()<Speaker></Speaker>||<黑屏2><BIN>84</BIN><BGM>BGM_Empty</BGM><common_effect>%%code=AVG_xiaxue%%</common_effect>:Goethe-Haus, Frankfurt District, Frankfurt.

@@ -3,13 +3,13 @@
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Hume_FourAdventures</BGM>:Erma moves her limbs gingerly and sits up on the ground. +The mechanical monsters that were ganging up on her have finally disappeared.
 Erma(15)<Speaker>Erma</Speaker>||:Oww...
 ()<Speaker></Speaker>||:She clambers to her feet and looks around the garden in bemusement.
-NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#66CDAA>You're as useless as you've always been.</color> +<color=#66CDAA>Can't even hold your own against this smattering of tin cans.</color>
+NPC_Stevens520(1)<Speaker>Stevens M520</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#66CDAA>You're as useless as you've always been.</color> +<color=#66CDAA>Can't even hold your own against this smattering of tin cans.</color>
 NPC_Stevens520(1);Erma(19)<Speaker>Erma</Speaker>||:<color=#66CDAA>What's the deal with those Dolls that you sent? Why was I in there?</color>
-NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><通讯框>;Erma(19)||:<color=#66CDAA>I have all the data of Doctor Hume's creations, including yours.</color>
+NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><scan><通讯框>;Erma(19)||:<color=#66CDAA>I have all the data of Doctor Hume's creations, including yours.</color>
 NPC_Stevens520(0);Erma(23)<Speaker>Erma</Speaker>||:<color=#66CDAA>...Mother trusts you too much!</color>
-NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><通讯框>;Erma(23)||:<color=#66CDAA>Doctor Hume could tell who's reliable.</color>
+NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><scan><通讯框>;Erma(23)||:<color=#66CDAA>Doctor Hume could tell who's reliable.</color>
 NPC_Stevens520(0);Erma(19)<Speaker>Erma</Speaker>||:<color=#66CDAA>Where are you?</color>
-NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><通讯框>||:<color=#66CDAA>Go through the garden and down the path with hedge arches, then follow the direction that the white statues are pointing at and go through the maze.</color>
+NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><scan><通讯框>||:<color=#66CDAA>Go through the garden and down the path with hedge arches, then follow the direction that the white statues are pointing at and go through the maze.</color>
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>534</BIN><SE1>AMB_Garden_Loop</SE1>:Following the Doll's instructions, Erma finally meets her in person a little over ten minutes later.
 Erma(17)<Speaker>Erma</Speaker>||:There you are.

@@ -106,7 +106,7 @@ M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:If you say so... he
 ()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:SOP-II drops to the foot of the building and hurriedly ducks behind cover.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ah... 
 M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I see... 
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Wow! None of the gun turrets shot at me!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Wow! None of the gun turrets shot at me!</color>
 RO635(0)<Speaker>RO635</Speaker>||:(Smiles bitterly) Judging by the look on your face, you've probably guessed it too, M4. +...Someone gave these ID bracelets to the refugees and tricked them into coming to this city. +This is an IFF device that allowed them to enter the city without being attacked.
 M4A1Mod(0)<Speaker>M4A1</Speaker>;RO635(0)||:And then they were infected, becoming cannon fodder for Paradeus. +Can the IFF signal be cracked?
 M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:Working on it now, I've already checked the underlying design of the recognition system. There shouldn't be any traps in it. +I've also sent the IFF signal to the Commander so that our train won't come under attack as it enters the city.

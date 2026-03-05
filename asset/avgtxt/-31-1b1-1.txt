@@ -44,8 +44,8 @@ AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:"Verify their location; the top pri
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>＝:Orders verified. 5 seconds remaining. 3, 2, 1, — move out!
 ()<Speaker></Speaker>||<黑屏2><BIN>84</BIN><BGM>BGM_Wake</BGM>:...
 ()<Speaker></Speaker>||:AN-94 slowly forges ahead through the city streets, in the bustling heart of the commercial district.
-AN94(0)<通讯框>||:<color=#00CCFF>Hailing AR-15, please respond.</color>
-AN94(0)<通讯框>;AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Received. I'm entering a region with high signal density as planned. How are things on your end?</color>
+AN94(0)<scan><通讯框>||:<color=#00CCFF>Hailing AR-15, please respond.</color>
+AN94(0)<scan><通讯框>;AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Received. I'm entering a region with high signal density as planned. How are things on your end?</color>
 AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>Carrying out passive scanning as planned.</color>+<color=#00CCFF>Other than your region, there are 43 new locations with suspicious signals, and 18 of them are confirmed to be using White Faction wavelengths. I can't accurately pinpoint the others. Do I need to increase scanner power?</color>
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>No need. Ange said that someone else will handle the small fries. We mustn't run the risk of exposure.</color>+<color=#00CCFF>Focus on finding the clues to the "Node". We need to filter through to the high-value targets ASAP.</color>
 AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Understood. I'm currently eavesdropping on all the verified units. No extra news for the time being.</color>+<color=#00CCFF>Although...the strange thing is that I've discovered signal wavelengths similar to S.F.'s.</color>
@@ -59,32 +59,32 @@ AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>Alright, I've marked
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:<color=#00CCFF>Let's not worry about that for now.</color>+<color=#00CCFF>Now then...</color>+<color=#00CCFF>...I've reached the target sector.</color>+<color=#00CCFF>This is...a military camp?</color>
 ()<Speaker></Speaker>||<BIN>161</BIN><BGM>BGM_Brain</BGM><黑屏2>:... +The soldier on sentry duty looks around, and just as he turns back, a shadow silently leaps over the wall surrounding the camp.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>AN-94, can you hear me?</color>
-AN94(0)<Speaker>AN-94</Speaker><通讯框>;AR15Mod(0)||:<color=#00CCFF>Received. How are things?</color>
+AN94(0)<Speaker>AN-94</Speaker><scan><通讯框>;AR15Mod(0)||:<color=#00CCFF>Received. How are things?</color>
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>I'm already inside the military base. As I expected, the signal markers here are very obvious... A very amateurish way of hiding a signal. I was even a little worried that this was a trap.</color>
 AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>So are you going to leave?</color>
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>It's not the first time I've known it was a trap and walked into it anyway. More importantly, I can't just come away from this empty-handed.</color>+<color=#00CCFF>Help me set up a secure channel, I need to contact Ange.</color>
 AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>Must you use the radio? No matter how much you encrypt them, old signal patterns like that are easily intercepted. It's not like we can't unlock your Zener Protocol...</color>
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>I don't want to hear that voice again. Could you cut the chit-chat?</color>
 AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>As you wish.</color>+<color=#00CCFF>Secure channel established. I'll maintain it for 60 seconds.</color>+<color=#00CCFF>Hailing Ange, please come in.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>;AR15Mod(0)||<BGM>BGM_Room</BGM>:<color=#00CCFF>Received. How's progress?</color>
+NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>;AR15Mod(0)||<BGM>BGM_Room</BGM>:<color=#00CCFF>Received. How's progress?</color>
 NPC-AngeStreet(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>This is AR-15.</color>+<color=#00CCFF>I'm investigating the first cluster of white signals. This is a garrison camp, but not a large one. </color>+<color=#00CCFF>It's very likely that the military district is linked to the "Node", so I'll be sneaking in to scout the place.</color>+<color=#00CCFF>I can verify the position of the signal here for the most part. Will any demolition be required?</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AR15Mod(0)||:<color=#00CCFF>Don't be hasty.</color>+<color=#00CCFF>Others will handle the task of eliminating the infiltrators. All you need to do is send all the positional data you've collected to me.</color>+<color=#00CCFF>Conduct a full reconnaissance on the entire camp. My instincts tell me there's a big fish there.</color>
 NPC-AngeStreet(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>I don't get it.</color>+<color=#00CCFF>How important is the "Node"?</color>+<color=#00CCFF>Is it really alright to leave the enemies hiding here alone, even if they might end up hurting or killing the humans in this city?</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AR15Mod(0)||:<color=#00CCFF>The mission I gave you was to find clues related to the "Node", not protect civilians.</color>+<color=#00CCFF>You're not a PMC employee anymore, AR-15.</color>
 NPC-AngeStreet(0);AR15Mod(3)<Speaker>ST AR-15</Speaker><Shake>||:<color=#00CCFF>...Understood.</color>+<color=#00CCFF>AN-94's also found some white signal clusters apart from this camp. There are even S.F. signals in the city.</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AR15Mod(3)||:<color=#00CCFF>Is that so...</color>+<color=#00CCFF>94, what's the exact number of signals you've screened?</color>
-AN94(0)<Speaker>AN-94</Speaker><通讯框>;AR15Mod(3)||:<color=#00CCFF>52, and nine more signal sources appeared in the past 30 minutes.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>;AR15Mod(3)||:<color=#00CCFF>It makes no sense that so much trash could burrow in here and not be detected.</color>+<color=#00CCFF>Even if their "Baptized" are here, hiding so many entities at once is very difficult.</color>
+AN94(0)<Speaker>AN-94</Speaker><scan><通讯框>;AR15Mod(3)||:<color=#00CCFF>52, and nine more signal sources appeared in the past 30 minutes.</color>
+NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>;AR15Mod(3)||:<color=#00CCFF>It makes no sense that so much trash could burrow in here and not be detected.</color>+<color=#00CCFF>Even if their "Baptized" are here, hiding so many entities at once is very difficult.</color>
 NPC-AngeStreet(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>According to my investigations, they're not bothering to hide themselves at all.</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AR15Mod(0)||:<color=#00CCFF>That would mean...there's a problem with the immune system.</color>+<color=#00CCFF>So having white signals in a garrison is a perfectly reasonable answer.</color>
 NPC-AngeStreet(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>However powerful the White Faction might be, I doubt it extends to making the local army do their bidding...</color>+<color=#00CCFF>From what I know, this country has maintained absolute neutrality.</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AR15Mod(0)||:<color=#00CCFF>I don't think it's possible that the army would obey the White Faction's commands either.</color>+<color=#00CCFF>Maintaining one's neutrality in a dangerous situation requires stringently-selected troops and great political skill.</color>+<color=#00CCFF>But leaves only fall after the roots have rotted.</color>
 NPC-AngeStreet(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>So they've been compromised from the inside, then...</color>+<color=#00CCFF>I understand.</color>
-AN94(5)<Speaker>AN-94</Speaker><通讯框>;AR15Mod(4)||:<color=#00CCFF>The secure channel is going to expire soon.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>;AR15Mod(4)||:<color=#00CCFF>Continue monitoring the situation until new information comes up. I look forward to hearing good news from you.</color>
+AN94(5)<Speaker>AN-94</Speaker><scan><通讯框>;AR15Mod(4)||:<color=#00CCFF>The secure channel is going to expire soon.</color>
+NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>;AR15Mod(4)||:<color=#00CCFF>Continue monitoring the situation until new information comes up. I look forward to hearing good news from you.</color>
 AR15Mod(4)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Empty</BGM><闪屏><duration>25</duration></闪屏>:Ange cut off the transmission.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>(Sighs) What a troublesome mission. AN-94, I'll remain hidden in this camp to observe the situation. I need you to keep an eye on the camp's other exit.</color>
-AN94(3)<Speaker>AN-94</Speaker><通讯框>;AR15Mod(0)||<BGM>BGM_Wake</BGM>:<color=#00CCFF>Meow...</color>
+AN94(3)<Speaker>AN-94</Speaker><scan><通讯框>;AR15Mod(0)||<BGM>BGM_Wake</BGM>:<color=#00CCFF>Meow...</color>
 AN94(3);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Meow?</color>
 AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(2)||<黑屏1>:<color=#00CCFF>Oh, it's nothing. I see the coordinates you sent. I'll be there in half an hour. AN-94 out.</color>
 ()<Speaker></Speaker>||<黑点2><BIN>166</BIN>:AN-94 shuts off her comms. +A soft sensation rises up from her leg and one of the stray cats wandering through the park attempts to jump onto AN-94's thigh. +AN-94 bends down to lift the cat up onto her lap and gently caresses its soft fur.

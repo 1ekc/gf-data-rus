@@ -31,24 +31,24 @@ NPC-Saki(3)<Speaker>Saki Nikaido</Speaker><Position>0,-190</Position><Scale>1.4<
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:The landscape is unfamiliar. The streets are unfamiliar. You flip through the map in a futile attempt to find out where you are.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Ring-ring-ring... Your cell phone rings.
 ()<Speaker>Commander</Speaker>||:Hello?
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||:<color=#00CCFF>What the hell are you up to?! The show is set to begin in an hour!</color>+<color=#00CCFF>As the producer and manager, how come you still haven't submitted your papers?!</color>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||:<color=#00CCFF>What the hell are you up to?! The show is set to begin in an hour!</color>+<color=#00CCFF>As the producer and manager, how come you still haven't submitted your papers?!</color>
 NPC-Ninja(5)<Speaker>Commander</Speaker><同时置暗>||:I've found them, and I'm on my way...
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||:<color=#00CCFF>How far away are you?</color>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||:<color=#00CCFF>How far away are you?</color>
 ()<Speaker>Commander</Speaker>||:Uh...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:You look around the deserted neighborhood helplessly, trying to find something that can clue you in on your current location.
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||:<color=#00CCFF>...You're not lost, are you?</color>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||:<color=#00CCFF>...You're not lost, are you?</color>
 NPC-Ninja(5)<Speaker>Commander</Speaker><同时置暗>||:...
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||:<color=#00CCFF>You... got lost... in Saga?!</color>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||:<color=#00CCFF>You... got lost... in Saga?!</color>
 NPC-Ninja(5)<Speaker>Commander</Speaker><同时置暗>||<震屏3><SE1>Rope</SE1>:<size=50>I'm not from around these parts! So what if I got lost?!</size>
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||:<color=#00CCFF>Didn't you bring No. 2 with you?</color>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||:<color=#00CCFF>Didn't you bring No. 2 with you?</color>
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:You glance at Saki, who is crouching by the road. She looks away glumly.
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>Alright, tell me what obvious signposts you can see around you. I'll come and get you.</color>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>Alright, tell me what obvious signposts you can see around you. I'll come and get you.</color>
 ()<Speaker>Commander</Speaker>||:Okay, I'm seeing...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:You scan the sparse buildings around you carefully.
 ()<Speaker>Commander</Speaker>||:A few tall trees with yellowing leaves, and a small river flows right by me. There's a convenience store across the street from me.
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>You got any idea how many places in Saga match this description?</color>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>+<color=#00CCFF>You got any idea how many places in Saga match this description?</color>
 NPC-Ninja(5)<Speaker>Commander</Speaker><同时置暗>||:Uh... Not really...
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||<震屏3>:<size=50><color=#00CCFF>Just stay where you are and wait for me!</color></size>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||<震屏3>:<size=50><color=#00CCFF>Just stay where you are and wait for me!</color></size>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:He hangs up angrily.
 NPC-Saki(2)<Speaker>Saki Nikaido</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:Hey, what are we gonna do?
 NPC-Saki(2)<Speaker>Commander</Speaker><Position>0,-190</Position><Scale>1.4</Scale><同时置暗>||:Wait for the production assistant to come and get us?
@@ -63,13 +63,13 @@ NPC-Saki(2)<Speaker>Saki Nikaido</Speaker><Position>0,-190</Position><Scale>1.4<
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>262</BIN><BGM>BGM_Empty</BGM>:...Some time later.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>m_wv_scenario</BGM><SE1>AVG_tele_connect</SE1>:You're crouching on the side of the road with your phone pressed against your ear.
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||:<color=#00CCFF>...So you're telling me... While I'm out looking for you, you've moved somewhere else?</color>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||:<color=#00CCFF>...So you're telling me... While I'm out looking for you, you've moved somewhere else?</color>
 NPC-Ninja(5)<Speaker>Commander</Speaker><同时置暗>||:Yeah...
-NPC-Ninja(5)<Speaker>Production Assistant</Speaker><通讯框>||:<color=#00CCFF>I don't even know what to say.</color>+<color=#00CCFF>No. 1, I'll let you talk to your Commander.</color>
-NPC-Sakura(2)<Speaker>Sakura Minamoto</Speaker><通讯框>||:<color=#00CCFF>Commander, it's me!</color>+<color=#00CCFF>Are there any eye-catching landmarks around you? We've got to return to the venue soon!</color>
+NPC-Ninja(5)<Speaker>Production Assistant</Speaker><scan><通讯框>||:<color=#00CCFF>I don't even know what to say.</color>+<color=#00CCFF>No. 1, I'll let you talk to your Commander.</color>
+NPC-Sakura(2)<Speaker>Sakura Minamoto</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, it's me!</color>+<color=#00CCFF>Are there any eye-catching landmarks around you? We've got to return to the venue soon!</color>
 NPC-Saki(2)<Speaker>Saki Nikaido</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:I think we're not far from the Forest Park...
 ()<Speaker>Commander</Speaker>||:We're by a lake. There's a sign that says "No Fishing".
-NPC-Sakura(1)<Speaker>Sakura Minamoto</Speaker><通讯框>||:<color=#00CCFF>A lake with a "No Fishing" sign near the Forest Park...</color>+<color=#00CCFF>I understand. We'll find you as soon as we can!</color>
+NPC-Sakura(1)<Speaker>Sakura Minamoto</Speaker><scan><通讯框>||:<color=#00CCFF>A lake with a "No Fishing" sign near the Forest Park...</color>+<color=#00CCFF>I understand. We'll find you as soon as we can!</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Sakura hangs up.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:You sit down next to Saki and join her in spacing out.
 NPC-Saki(7)<Speaker>Saki Nikaido</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:...It was my fault.

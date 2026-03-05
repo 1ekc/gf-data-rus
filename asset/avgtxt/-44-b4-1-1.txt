@@ -78,6 +78,6 @@ NPC-Machlian(8)<Speaker>Machlian</Speaker><Position>0,-50</Position>||:...Thank 
 RO635Mod(0)<Speaker>RO635</Speaker>||:Yes, Commander.
 VP1915(0)<Speaker>Perosa</Speaker>||:Understood.
 ()<Speaker>Commander</Speaker>||:45?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>No need to worry about our route.</color> +<color=#00CCFF>We'll adapt, Commander.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:Alright. Since we're all clear... +Get ready and move out.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>No need to worry about our route.</color> +<color=#00CCFF>We'll adapt, Commander.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Alright. Since we're all clear... +Get ready and move out.
 RO635Mod(0)<Speaker>RO635</Speaker>||<黑屏1>:Yes, Commander!

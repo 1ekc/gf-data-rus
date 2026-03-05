@@ -1,11 +1,11 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>270</BIN><BGM>BGM_Sneak</BGM>:...Bohnsdorf, on the outskirts of Berlin. +This mission is far more complicated than I expected. This is our third day lurking in Bohnsdorf, but I still haven't found any information related to our objective. +I lean against the window, watching the refugees outside walk down the busy streets. Today is a festival day for Bohnsdorf, and everyone is wearing rarely-seen smiles.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Commander... Why don't you withdraw first and let us take your place?</color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框>||:No can do. You know there are Paradeus informants hidden in that village. +If Dolls went in, they'd be spotted instantly. We can't afford to give the game away.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>I understand, but...</color> +<color=#00CCFF>The longer you spend in the village, the greater the risk that the enemy will find you, Commander.</color> +<color=#00CCFF>And if Paradeus launches an attack, we need to be there ASAP, otherwise...</color>
-RO635Mod(0)<Speaker>Commander</Speaker><通讯框>||:Relax. I'm very well hidden. +Right now, I'm a homeless refugee that Bohnsdorf took in. My name is Robin—
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Yes, yes, we know, Commander. You've memorized your fake identity really well!</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>Commander, that little girl is here.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Commander... Why don't you withdraw first and let us take your place?</color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:No can do. You know there are Paradeus informants hidden in that village. +If Dolls went in, they'd be spotted instantly. We can't afford to give the game away.
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>I understand, but...</color> +<color=#00CCFF>The longer you spend in the village, the greater the risk that the enemy will find you, Commander.</color> +<color=#00CCFF>And if Paradeus launches an attack, we need to be there ASAP, otherwise...</color>
+RO635Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Relax. I'm very well hidden. +Right now, I'm a homeless refugee that Bohnsdorf took in. My name is Robin—
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, yes, we know, Commander. You've memorized your fake identity really well!</color>
+RO635Mod(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, that little girl is here.</color>
 ()||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:The transmission ends abruptly.
 ()<Speaker>???</Speaker>||:Robin, where are you? +Robin!
 ()||<BGM>10030</BGM><SE1>RunStep</SE1>:My train of thought is interrupted by a series of rapid, light footsteps. +I look back and see Elsa, the girl who's been helping me these past few days.

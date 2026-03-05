@@ -32,4 +32,4 @@ M1873(0)<Speaker>SAA</Speaker>||:Watch out!
 PM(0)<Speaker>Makarov</Speaker>||<震屏>:...?!
 ()||<白屏闪光><SE1>Explode</SE1>:BOOM!
 ()||:SAA pulls Makarov aside, and an high explosive shell lands right next to where the two T-Dolls were just standing.
-Weaver(0)<Speaker>Ouroboros</Speaker><通讯框>||<黑屏1>:Doesn't matter... You shall be the stepping stone to my escape. +Be honored, second-rate Griffin Dolls.
+Weaver(0)<Speaker>Ouroboros</Speaker><scan><通讯框>||<黑屏1>:Doesn't matter... You shall be the stepping stone to my escape. +Be honored, second-rate Griffin Dolls.

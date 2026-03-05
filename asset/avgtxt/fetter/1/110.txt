@@ -30,6 +30,6 @@ DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Stechkin told me. +She said you 
 P38(0)<Speaker>P38</Speaker>||:Ah, and you didn't ask for an appearance fee or anything?
 DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:We're all fellow colleagues in Griffin, why would I ask for such a thing? +...What's with that look on your faces?
 ()||<黑屏1>:
-APS(0)<Speaker>Stechkin</Speaker><通讯框>||<黑屏2><回忆><黑屏1>:<color=#00CCFF>Consider it a tuition fee.</color>
+APS(0)<Speaker>Stechkin</Speaker><scan><通讯框>||<黑屏2><回忆><黑屏1>:<color=#00CCFF>Consider it a tuition fee.</color>
 ()||<BIN>18</BIN><黑屏2><关闭蒙版>:After a brief silence, a wrathful voice fills the dorm block.
 ()<Speaker>P38, Gr HK45 & Spectre M4</Speaker>||<黑屏1><震屏3>:STEEEEEEEECHKIIIIIIIN!

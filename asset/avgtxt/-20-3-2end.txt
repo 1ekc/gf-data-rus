@@ -93,7 +93,7 @@ FAIL(1)<Speaker>El Fail</Speaker>||<BGM>DJMAX_GloryDay</BGM><黑屏1>:What did y
 <Speaker>El Clear</Speaker>()||:... +I don't know. +But right now... +I feel a yearning...
 ()<Speaker>El Clear</Speaker><Position>0,100</Position>||<BIN>142</BIN><BIN_SlowIn><黑屏1>0.2</黑屏1>:Can you show me... +...the outside world?
 ()||<BIN>8</BIN><黑屏2>0.2</黑屏2><BGM>BGM_Empty</BGM>:...A month later. +...In Squad FN's office.
-K2(0)<Speaker>K2</Speaker><通讯框><BGM>DJMAX_Miles</BGM>||:...And that's what happened.
+K2(0)<Speaker>K2</Speaker><scan><通讯框><BGM>DJMAX_Miles</BGM>||:...And that's what happened.
 FN57(0)<Speaker>Five-seven</Speaker>;K2(0)||:I see... +How fascinating, pity there isn't much else we can do.
 FN57(0);K2(0)<Speaker>K2</Speaker>||:Could you submit this report to the higher-ups, please?
 FN57(0)<Speaker>Five-seven</Speaker>;K2(0)||:How can I be sure that your report is completely factual? After all, it all happened in cyberspace.

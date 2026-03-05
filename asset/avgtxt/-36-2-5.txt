@@ -30,7 +30,7 @@ M4A1Mod(4)<Speaker>M4A1</Speaker>||:They must really want the coastal defense ar
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_engine_speedup</SE1>:Arghhhhhhh I don't care anymore! Hang on tight! +If you get thrown off, it's your problem!
 ()||:The AR Team's Jeep rushes at top speed toward the bunker complex at the base of the shore guns.+It evades shot after shot from the Typhons, while SOP launches one grenade after another at the fast-approaching Military vehicles, forcing them to slow down.+The Jeep finally reaches the bunkers ahead of the Military and screeches to a halt, and several Dolls quickly jump off it.+The Military vehicles, which have been swerving to avoid SOP-II's grenades also stop at the other entrance. The soldiers who disembark exchange glances with the Dolls in the distance. Both sides pause for a moment before dashing into the bunkers without any hesitation.
 M4A1Mod(4)<Speaker>M4A1</Speaker>||:Dammit! We need to get there ahead of them!+Once you're in, keep the other troops from entering. I'll go seize the control center.+Dandelion! Plot me a course! Find the soldiers who are already inside!
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:Position verified.
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Position verified.
 M4A1Mod(4)<Speaker>M4A1</Speaker>||:The opposition isn't too numerous, and now that they've split up, Dolls have the advantage in confined spaces! +SOP-II, RO, hold the entrance. AR-15, clear the lower levels. +You must not let more Military personnel in!
 ()||:With that, M4 charges into the bunker as well.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Alright! I've been wanting to thump them for a long time!

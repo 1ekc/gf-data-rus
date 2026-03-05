@@ -10,20 +10,20 @@ Vector()<Speaker>Vector</Speaker>||:I WILL win this tournament, no matter what I
 HK416(6)<Speaker>???</Speaker>||:Agent Vector...+No, your new name should be Hellfire.
 Vector(6)<Speaker>Hellfire</Speaker>;HK416(6)||:How did you know that?
 HK416(6)<Speaker>Fang</Speaker>||:Because my name is Fang, and our names came from the one who orchestrated all this.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...</color>
 Vector(6)<Speaker>Hellfire</Speaker>||:Is that you, Dima?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>I apologize for giving you such a lame name, "Vector"...</color>+<color=#00CCFF>Not that it matters, since you've been as thoroughly rewritten as 416 was.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>I apologize for giving you such a lame name, "Vector"...</color>+<color=#00CCFF>Not that it matters, since you've been as thoroughly rewritten as 416 was.</color>
 ()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Warning. ID Code is locked.
 HK416(6)<Speaker>Fang</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Still not willing to give up?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>I'm still young! I don't want to spend my entire life in Manhattan!</color>
-NPC-Dima(1)<通讯框>;Vector(6)<Speaker>Hellfire</Speaker>||:Why not? We can work together and cleanse this city...
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(6)||:<color=#00CCFF>Which is why you became a Cleaner, right? Humph... Well, never mind.</color>+<color=#00CCFF>The game will end eventually. Even if I can't do it, I'm sure those Dolls will!</color>
-NPC-Dima(1)<通讯框>;HK416(6)<Speaker>Fang</Speaker>||:"Dolls"...? +You mean 416 and Vector, right?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;HK416(6)||:<color=#00CCFF>Y-yeah, so what?</color>
-NPC-Dima(1)<通讯框>;Vector(6)<Speaker>Hellfire</Speaker>||:So, does that mean you'll give up if I cleanse them?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(6)||:<color=#00CCFF>Ehhh?!</color>
-NPC-Dima(1)<通讯框>;HK416(6)<Speaker>Fang</Speaker>||:I will make them disappear forever.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>...You...</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>I'm still young! I don't want to spend my entire life in Manhattan!</color>
+NPC-Dima(1)<scan><通讯框>;Vector(6)<Speaker>Hellfire</Speaker>||:Why not? We can work together and cleanse this city...
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(6)||:<color=#00CCFF>Which is why you became a Cleaner, right? Humph... Well, never mind.</color>+<color=#00CCFF>The game will end eventually. Even if I can't do it, I'm sure those Dolls will!</color>
+NPC-Dima(1)<scan><通讯框>;HK416(6)<Speaker>Fang</Speaker>||:"Dolls"...? +You mean 416 and Vector, right?
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;HK416(6)||:<color=#00CCFF>Y-yeah, so what?</color>
+NPC-Dima(1)<scan><通讯框>;Vector(6)<Speaker>Hellfire</Speaker>||:So, does that mean you'll give up if I cleanse them?
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(6)||:<color=#00CCFF>Ehhh?!</color>
+NPC-Dima(1)<scan><通讯框>;HK416(6)<Speaker>Fang</Speaker>||:I will make them disappear forever.
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>...You...</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>298</BIN><BGM>BGM_Empty</BGM>:...
 ISAC()<Speaker>ISAC</Speaker>||:Warning. Core temperature dropping.
@@ -37,20 +37,20 @@ K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:What's so funny?
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:I suddenly realized what a strange pair we make.
 K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Strange, you say?+Well, that's true. I mean, you've been picking up nothing but gold gear all the way, while I've been collecting food and more food. +Like, I know having a run of luck is a thing, but I didn't expect it to be this extreme.
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:A Doll's nature doesn't decide her luck. On my part, I like fortune-telling, but that's not because my own luck is bad.+Also, I feel that having you with me makes me lucky...
-Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>K5, how are things on your end?</color>
-Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Ah, it's Vivi.
-Vector(0)<通讯框>;K5(0)<Speaker>K5</Speaker>||:Things are going well.+But we just saw the in-game notification...+Is it true that 90 starved to death?
-Vector(0)<Speaker>Vector</Speaker><通讯框>;K5(0)||:<color=#00CCFF>Yes, she...</color>+<color=#00CCFF>She saved her last can of rations for me, but she herself...</color>
-Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Oh well, all this will pass. As our team leader, you've got to pull yourself together. We won't let 90's death be in vain!
-Vector(0)<通讯框>;K5(0)<Speaker>K5</Speaker>||:<color=#A9A9A9>How come you're getting into it too?</color>
-Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:<color=#A9A9A9>Shhh - this might cheer Vivi up.</color>
-Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||:<color=#00CCFF>Listen up. We've already lost 90. We can't afford any other non-combat casualties.</color>
-Vector(0)<通讯框>;K5(0)<Speaker>K5</Speaker>||:No need to worry. We had a big haul today!
-Vector(0)<Speaker>Vector</Speaker><通讯框>;K5(0)||:<color=#00CCFF>What?</color>
-Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:We found ample gear and supplies.+It's sad that 90's no longer around, but we'll be able to go the distance with what we have!
-Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||:<color=#00CCFF>...</color>+<color=#00CCFF>Well, there isn't much time. Let's meet up at the safe house near the Grand Central Terminal, then enter the Dark Zone together.</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>K5, how are things on your end?</color>
+Vector(0)<scan><通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Ah, it's Vivi.
+Vector(0)<scan><通讯框>;K5(0)<Speaker>K5</Speaker>||:Things are going well.+But we just saw the in-game notification...+Is it true that 90 starved to death?
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>;K5(0)||:<color=#00CCFF>Yes, she...</color>+<color=#00CCFF>She saved her last can of rations for me, but she herself...</color>
+Vector(0)<scan><通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Oh well, all this will pass. As our team leader, you've got to pull yourself together. We won't let 90's death be in vain!
+Vector(0)<scan><通讯框>;K5(0)<Speaker>K5</Speaker>||:<color=#A9A9A9>How come you're getting into it too?</color>
+Vector(0)<scan><通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:<color=#A9A9A9>Shhh - this might cheer Vivi up.</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>;R93(0)<Position>0,-100</Position>||:<color=#00CCFF>Listen up. We've already lost 90. We can't afford any other non-combat casualties.</color>
+Vector(0)<scan><通讯框>;K5(0)<Speaker>K5</Speaker>||:No need to worry. We had a big haul today!
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>;K5(0)||:<color=#00CCFF>What?</color>
+Vector(0)<scan><通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:We found ample gear and supplies.+It's sad that 90's no longer around, but we'll be able to go the distance with what we have!
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>;R93(0)<Position>0,-100</Position>||:<color=#00CCFF>...</color>+<color=#00CCFF>Well, there isn't much time. Let's meet up at the safe house near the Grand Central Terminal, then enter the Dark Zone together.</color>
 Vector(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Right, let me consult the map...+Er, just to check, how long will it take for you to get there?
-Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>I...need to go through... Terminal, Dima said...many enemies, so...ight need some ti...</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>I...need to go through... Terminal, Dima said...many enemies, so...ight need some ti...</color>
 R93(0)<Speaker>R93</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Vivi? Hello? Hello? What's going on?
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Sounds like a signal problem. You must have used up all your good luck.
 K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:But we're a team. I can't survive without you.
@@ -75,42 +75,42 @@ UMP45Mod(0)<Speaker>UMP45</Speaker>||:Hehe, I'll enjoy this show.
 HK416()<Speaker>416</Speaker>||:Now then, let's begin.
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:...
 ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Threat signals have vanished.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Good, that should be that last enemy.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Good, that should be that last enemy.</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><BGM>GF_xDivision_Scene3</BGM>:After a hard fight, Vector has eliminated the nearby enemies...
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||:<color=#00CCFF>Agent, in many ways, it's good to have you around...</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:Why do you look so down?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>(Sighs) A lot of things happened on my end just now...</color>+<color=#00CCFF>In any case, there's still a ray of hope thanks to your performance.</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:Are they the ones who caused the signal interference just now?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>No, the ones who actually caused the interference are...</color>+<color=#00CCFF>Forget it, it's a long story. Try seeing if comms have recovered. It would be good to confirm your comrades' status.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||:<color=#00CCFF>Agent, in many ways, it's good to have you around...</color>
+NPC-Dima(1)<scan><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:Why do you look so down?
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>(Sighs) A lot of things happened on my end just now...</color>+<color=#00CCFF>In any case, there's still a ray of hope thanks to your performance.</color>
+NPC-Dima(1)<scan><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:Are they the ones who caused the signal interference just now?
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>No, the ones who actually caused the interference are...</color>+<color=#00CCFF>Forget it, it's a long story. Try seeing if comms have recovered. It would be good to confirm your comrades' status.</color>
 Vector(0)<Speaker>Vector</Speaker>||:Yeah...
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ah, Vivi!</color>+<color=#00CCFF>Looks like comms are back up again. The way the signal cuts out every now and then really eats up time.</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><scan><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ah, Vivi!</color>+<color=#00CCFF>Looks like comms are back up again. The way the signal cuts out every now and then really eats up time.</color>
 R93(0)<Position>0,-100</Position>;Vector(0)<Speaker>Vector</Speaker>||:How are things on your side?
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>We were just about to look for you, but we found an entrance to the Dark Zone before that.</color>+<color=#00CCFF>The surroundings are fairly safe, but two people from one of the other teams were eliminated here. Thanks to them, we scored some explosives.</color>+<color=#00CCFF>Maybe we could make this a meetup point, but we'd like to know where you are and how long it'll take for you to get here.</color>
+K5(0)<Speaker>K5</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>We were just about to look for you, but we found an entrance to the Dark Zone before that.</color>+<color=#00CCFF>The surroundings are fairly safe, but two people from one of the other teams were eliminated here. Thanks to them, we scored some explosives.</color>+<color=#00CCFF>Maybe we could make this a meetup point, but we'd like to know where you are and how long it'll take for you to get here.</color>
 K5(0);Vector(0)<Speaker>Vector</Speaker>||:I'm in the subway section of Grand Central Terminal. According to the map, it would be faster to reach a Dark Zone entrance from here, but...
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>There are enemies camping out here, probably to wait out the storm, so getting past them won't be easy.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>There are enemies camping out here, probably to wait out the storm, so getting past them won't be easy.</color>
 Vector(0)<Speaker>Vector</Speaker>||:Indeed, so just to be on the safe side...hm?
 ()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>167</BIN><Night><BGM>BGM_Empty</BGM><震屏3>:Just as Vector is about to go around them, the tracks around her suddenly erupt in a series of explosions.+The tremendous shockwaves cause the ceiling overhead to collapse. Sensing danger, Vector immediately dodges the cascade of concrete chunks that crash into the ground with heavy booms.
-K5(0)<Speaker>K5</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Vivi?! </color>+<color=#00CCFF>Was that an explosion just now? Are you alright?!</color>
-K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:...I'm fine.+But the electrical circuits in the subway were destroyed and it's a little dark here. Give me a while to check things out.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>...What's the situation?</color>
-R93(0)<Position>0,-100</Position><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:The subway entrance has been sealed off by fallen slabs of concrete.+I'm not trapped here, but...it looks like I'll have to pass through the enemy hideout.
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>Man, if only we hadn't split up, we might be able to help you out.</color>
-K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:The enemies here are a piece of cake. No need to worry.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Er, Agent, just a heads-up for you...</color>+<color=#00CCFF>A group of troublesome people just showed up. </color>
+K5(0)<Speaker>K5</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Vivi?! </color>+<color=#00CCFF>Was that an explosion just now? Are you alright?!</color>
+K5(0)<scan><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:...I'm fine.+But the electrical circuits in the subway were destroyed and it's a little dark here. Give me a while to check things out.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><scan><通讯框>;Vector(0)||:<color=#00CCFF>...What's the situation?</color>
+R93(0)<Position>0,-100</Position><scan><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:The subway entrance has been sealed off by fallen slabs of concrete.+I'm not trapped here, but...it looks like I'll have to pass through the enemy hideout.
+K5(0)<Speaker>K5</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>Man, if only we hadn't split up, we might be able to help you out.</color>
+K5(0)<scan><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:The enemies here are a piece of cake. No need to worry.
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Er, Agent, just a heads-up for you...</color>+<color=#00CCFF>A group of troublesome people just showed up. </color>
 Vector(0)<Speaker>Vector</Speaker>||:Troublesome people?
 ()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1><BGM>GF_xDivision_Scene3</BGM>:Several powerful flashlight beams sweep through the darkness before Dima can elaborate.+Vector reflexively ducks behind the cover created by the fallen concrete. Through the gaps, she can see several armed and dangerous-looking men searching the surroundings.
 Vector(0)<Speaker>Vector</Speaker>||:...Are those SHD agents?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>Former SHD agents. Do you see their red wristwatches? That's the difference.</color>+<color=#00CCFF>These guys will be trickier compared to the enemies you took out before.</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:Why are there such enemies?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>Well...</color>+<color=#00CCFF>We poured all our strength into Manhattan to save the country, with the aim of safeguarding each and every innocent life.</color>+<color=#00CCFF>Some people feel that New York can't be saved by closing the stable door after the horses have bolted. Thus, they've chosen more radical methods to achieve their aim.</color>+<color=#00CCFF>To them, the disaster isn't the real threat. Rather, it's the wickedness which led Manhattan to this state of events.</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:So you're saying that there are internal conflicts among your people.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>Well, I'd prefer to call them disagreements.</color>+<color=#00CCFF>But I didn't expect that sort of thing to happen...</color>
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||:<color=#00CCFF><size=30>And twice, too! Dammit, I thought I had them under control...</size></color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:Twice? What happened?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>Ahem! That's not important.</color>+<color=#00CCFF>I'm telling you this because I believe you're not the same as those traitors. We've taken steps toward the righteous path, so someone has to keep walking down it.</color>
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Oho, what's this? Was someone introducing the game's plot?</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>Sounds pretty realistic to me.</color>
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>Well, realism aside, you shouldn't be wasting time on that, right?</color>+<color=#00CCFF>Vivi?</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>Former SHD agents. Do you see their red wristwatches? That's the difference.</color>+<color=#00CCFF>These guys will be trickier compared to the enemies you took out before.</color>
+NPC-Dima(1)<scan><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:Why are there such enemies?
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>Well...</color>+<color=#00CCFF>We poured all our strength into Manhattan to save the country, with the aim of safeguarding each and every innocent life.</color>+<color=#00CCFF>Some people feel that New York can't be saved by closing the stable door after the horses have bolted. Thus, they've chosen more radical methods to achieve their aim.</color>+<color=#00CCFF>To them, the disaster isn't the real threat. Rather, it's the wickedness which led Manhattan to this state of events.</color>
+NPC-Dima(1)<scan><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:So you're saying that there are internal conflicts among your people.
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>Well, I'd prefer to call them disagreements.</color>+<color=#00CCFF>But I didn't expect that sort of thing to happen...</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF><size=30>And twice, too! Dammit, I thought I had them under control...</size></color>
+NPC-Dima(1)<scan><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:Twice? What happened?
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>Ahem! That's not important.</color>+<color=#00CCFF>I'm telling you this because I believe you're not the same as those traitors. We've taken steps toward the righteous path, so someone has to keep walking down it.</color>
+K5(0)<Speaker>K5</Speaker><scan><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Oho, what's this? Was someone introducing the game's plot?</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><scan><通讯框>;Vector(0)||:<color=#00CCFF>Sounds pretty realistic to me.</color>
+K5(0)<Speaker>K5</Speaker><scan><通讯框>;Vector(0)||:<color=#00CCFF>Well, realism aside, you shouldn't be wasting time on that, right?</color>+<color=#00CCFF>Vivi?</color>
 Vector(0)<Speaker>Vector</Speaker>||:On my way.
 ()||<黑点1>:

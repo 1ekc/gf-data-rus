@@ -8,12 +8,12 @@ Kolibri(0)<Speaker>Kolibri</Speaker>||:Same with my electronic hummingbirds. I l
 VP1915(0)<Speaker>Perosa</Speaker>||:...Something's wrong.
 ()||:Perosa takes out another communicator.
 VP1915(0)<Speaker>Perosa</Speaker>||:Squad Griffin to 404. +Miss 45, do you copy?
-VP1915(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We hear you, we hear you...</color> +<color=#00CCFF>We're trying to contact them too.</color> +<color=#00CCFF>It isn't just the Commander; we can't get through to the AR Team or Dandelion either.</color>
-VP1915(0)<Speaker>Perosa</Speaker>;UMP45Mod(0)<通讯框>||:There must be some kind of super high output signal jammer inside the plant. +This is a trap; the Commander and the others must be in some kind of trouble.
-Savage99(0)<Speaker>Savage</Speaker>;UMP45Mod(0)<通讯框>||:Should we mount a rescue? But how are we going to find them if we can't use comms?
-VP1915(0)<Speaker>Perosa</Speaker>;UMP45Mod(0)<通讯框>||:...I have a way. +But we absolutely need to deal with that jammer.
-VP1915(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Leave that to us.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>You take your people and meet up with the Commander.</color>
+VP1915(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We hear you, we hear you...</color> +<color=#00CCFF>We're trying to contact them too.</color> +<color=#00CCFF>It isn't just the Commander; we can't get through to the AR Team or Dandelion either.</color>
+VP1915(0)<Speaker>Perosa</Speaker>;UMP45Mod(0)<scan><通讯框>||:There must be some kind of super high output signal jammer inside the plant. +This is a trap; the Commander and the others must be in some kind of trouble.
+Savage99(0)<Speaker>Savage</Speaker>;UMP45Mod(0)<scan><通讯框>||:Should we mount a rescue? But how are we going to find them if we can't use comms?
+VP1915(0)<Speaker>Perosa</Speaker>;UMP45Mod(0)<scan><通讯框>||:...I have a way. +But we absolutely need to deal with that jammer.
+VP1915(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Leave that to us.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>You take your people and meet up with the Commander.</color>
 VP1915(0)<Speaker>Perosa</Speaker>||:...Alright, then we're leaving it to you.
 ()||<SE1>AVG_tele_disconnect</SE1>:The transmission cuts off.
 VP1915(0)<Speaker>Perosa</Speaker>||<黑屏1>:...Squad Griffin, let's go!

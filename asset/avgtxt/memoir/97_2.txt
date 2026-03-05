@@ -46,8 +46,8 @@ NPC-Soldier(0)<Speaker>Assault Team Member</Speaker>||:Fire!
 M950A(0)<Speaker>M950A</Speaker>||:...Tsk.
 ()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:But the next moment, all signals of the Military units are disabled.
 M950A(0)<Speaker></Speaker>||:M950A seizes the chance and breaks through the encirclement with Thunder in tow.
-M950A(0);K2(0)<Speaker>K2</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Over here!</color>
-M950A(0);AEK999(0)<Speaker>AEK-999</Speaker><通讯框>||:<color=#00CCFF>Make it quick, we can't keep this up for long!</color>
+M950A(0);K2(0)<Speaker>K2</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Over here!</color>
+M950A(0);AEK999(0)<Speaker>AEK-999</Speaker><scan><通讯框>||:<color=#00CCFF>Make it quick, we can't keep this up for long!</color>
 M950A(0)<Speaker>M950A</Speaker>||:Got it!
 Thunder50(0)<Speaker></Speaker>||<黑点1><SE1>Select</SE1>:Thunder uses this opportunity to reload.
 M950A(0)<Speaker>M950A</Speaker>||<黑点2>:Where's TMP?

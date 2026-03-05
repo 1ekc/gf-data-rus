@@ -26,13 +26,13 @@ HK416Mod(0)<Speaker>416</Speaker>||:So they must be the Nyto signals we detected
 UMP9Mod(0)<Speaker>UMP9</Speaker>||:I would agree... But since they're standing right next to 45 and Gr G11, they probably aren't hostile? +Not to mention how cute they look.
 Nytochild01(0)<Speaker>Anna</Speaker>||:Hm... Your teammates are just as weird as you. Are you some kind of weirdo squad?
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Can't be helped. We are indeed an oddball squad made up of a bunch of oddball Dolls.
-NPC-Kalin(4)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Attention, all echelons! Would all T-Dolls still capable of fighting please make for the Commander's position! The Commander is being surrounded by the enemy and requires immediate assistance!</color> +<color=#00CCFF>I repeat – would all T-Dolls still capable of fighting please make for the Commander's position!</color>
+NPC-Kalin(4)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Attention, all echelons! Would all T-Dolls still capable of fighting please make for the Commander's position! The Commander is being surrounded by the enemy and requires immediate assistance!</color> +<color=#00CCFF>I repeat – would all T-Dolls still capable of fighting please make for the Commander's position!</color>
 HK416Mod(0)<Speaker>416</Speaker>||:The Commander is engaging the enemy in person?
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Then Griffin's situation must be very dire. If the Commander is killed, Griffin will also collapse, and that would be catastrophic. +Miss Kalina, this is Squad 404. We can provide support, please give us the Commander's location.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>404?! That's wonderful! I'm sending you the coordinates right now!</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>404?! That's wonderful! I'm sending you the coordinates right now!</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Received. +Also, Ange has handed us a group of juvenile Isomers she found in the lab. Some of my squad members will be escorting them to you. Please don't open fire when they arrive.
-NPC-Kalin(2)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Juvenile Isomers...?</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Understood, I'll share this information with our forces!</color>
+NPC-Kalin(2)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Juvenile Isomers...?</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Understood, I'll share this information with our forces!</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Thanks. 404 out. +Looks like we'll have to split up. +9, you and Gr G11 take these Isomers and retreat behind Griffin's line of defense. +416, you and I will give the Commander some backup. Questions?
 HK416Mod(0)<Speaker>416</Speaker>||:I...
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Good, all in accord, as I expected. Then let's get moving.

@@ -14,13 +14,13 @@ NPC-SCAR-H(1)<Speaker>Samo</Speaker>||<黑点1>:Big Sis Laura...
 ()||<BIN>554</BIN><SE1>RunStep</SE1><黑点2>:...
 ()||:The only sound in the quiet alley is that of Cheryl's footsteps as she anxiously paces back and forth.+She clutches her tablet with both hands, frowning as she studies the glowing icon on the map while holding her phone to her ear with her shoulder.
 NPC-Cheryl(0)<Speaker>Cheryl</Speaker><Position>0,-100</Position>||:Are you SURE this is the place?
-NPC-Quimby(0)<通讯框><Speaker>Lil' Quimby</Speaker>||:<color=#00CCFF>Don't worry, we've taken many search requests like this in the past.</color>+<color=#00CCFF>Things like lost puppies or kitties or husbands sneaking off to meet with their mistresses... We'll find them all!</color>+<color=#00CCFF>Besides, we can find any Doll we've ever sold as long as they've been activated!</color>
+NPC-Quimby(0)<scan><通讯框><Speaker>Lil' Quimby</Speaker>||:<color=#00CCFF>Don't worry, we've taken many search requests like this in the past.</color>+<color=#00CCFF>Things like lost puppies or kitties or husbands sneaking off to meet with their mistresses... We'll find them all!</color>+<color=#00CCFF>Besides, we can find any Doll we've ever sold as long as they've been activated!</color>
 NPC-Cheryl(2)<Speaker>Cheryl</Speaker><Position>0,-100</Position>||:...
 ()||:Cheryl comes to a halt. She is looking at the end of the alley.+She looks back down at the tablet; her position completely overlaps the glowing icon.
 NPC-Cheryl(2)<Speaker>Cheryl</Speaker><Position>0,-100</Position>||:But this is just a garbage dump...
-NPC-Cheryl(2)<Position>0,-100</Position>;NPC-Quimby(0)<通讯框><Speaker>Lil' Quimby</Speaker>||:<color=#00CCFF>But of course! One would pick a hiding place where they could completely blend in!</color>
-NPC-Cheryl(2)<Speaker>Cheryl</Speaker><Position>0,-100</Position>;NPC-Quimby(0)<通讯框>||:So you're saying the Doll you sent me was garbage?
-NPC-Quimby(0)<通讯框><Speaker>Lil' Quimby</Speaker>||:<color=#00CCFF>Oh, darling, you're such a kidder! </color>+<color=#00CCFF>Oh, we just got a new assignment. Since you've found her, I'll be hanging up...</color>
+NPC-Cheryl(2)<Position>0,-100</Position>;NPC-Quimby(0)<scan><通讯框><Speaker>Lil' Quimby</Speaker>||:<color=#00CCFF>But of course! One would pick a hiding place where they could completely blend in!</color>
+NPC-Cheryl(2)<Speaker>Cheryl</Speaker><Position>0,-100</Position>;NPC-Quimby(0)<scan><通讯框>||:So you're saying the Doll you sent me was garbage?
+NPC-Quimby(0)<scan><通讯框><Speaker>Lil' Quimby</Speaker>||:<color=#00CCFF>Oh, darling, you're such a kidder! </color>+<color=#00CCFF>Oh, we just got a new assignment. Since you've found her, I'll be hanging up...</color>
 NPC-Cheryl(2)<Speaker>Cheryl</Speaker><Position>0,-100</Position>||:...
 ()||<SE1>AVG_tele_disconnect</SE1>:Click—It's the sound of someone hanging up in a hurry.
 ()||<SE1>ClothingUp</SE1>:Cheryl puts down her tablet and her communicator before carefully taking out the shell casing Samo gave her.
@@ -71,27 +71,27 @@ NPC-Jason(2)<Speaker>K</Speaker>||:Use your brain, J.+Since when did the inside 
 NPC-Jason(2)<Speaker>K</Speaker>||:It's from Q. Watch your words.
 NPC-Keven(5)<Speaker>J</Speaker>||:That woman! +Okay, relax, I'll try not to speak.
 ()||:K hits the accept call button, and Q's transmission appears on the screen.
-NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Yo, it's been a while. I see J's there too.</color>
+NPC-maya(2)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Yo, it's been a while. I see J's there too.</color>
 ()||:J silently looks away and pretends he didn't see anything.
 NPC-Jason(2)<Speaker>K</Speaker>||:What's happened?
-NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>You know, you should be thanking me for this. If I hadn't had to leave the country on business, you might not have been put on the case.</color>
+NPC-maya(2)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>You know, you should be thanking me for this. If I hadn't had to leave the country on business, you might not have been put on the case.</color>
 NPC-Keven(5)<Speaker>J</Speaker>||:Wow, I'm really grateful. +Thanks to you, I'll have to go dig up all of Berlin for a trash Doll about which practically nothing is known.
 NPC-Jason(2)<Speaker>K</Speaker>||:Don't interrupt others, J.
-NPC-Jason(2);NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Oh, it's alright. This is the first time Agent J's received such a challenging mission. It's only natural for him to feel out of his league.</color>
-NPC-Jason(2)<Speaker>K</Speaker>;NPC-maya(2)<通讯框>||:Let's get back on track. We've gotten her dossier, but we can't track her down with just that much.
-NPC-Jason(2);NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>If it were that simple, the Soviets wouldn't have lowered themselves to begging us for help.</color>
-NPC-Jason(2)<Speaker>K</Speaker>;NPC-maya(2)<通讯框>||:...+So you have nothing to add either?
-NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Originally, I didn't, but one of my contacts gave me a clue just three minutes before I made this call...</color>
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-maya(2)<通讯框>||:What clue?
-NPC-Keven(5);NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Go to my desk and open the drawer on the left, the one that isn't locked.</color>
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-maya(2)<通讯框>||<SE1>AVG_File_Put</SE1>:How did you put it in there ahead of time?
-NPC-Keven(5);NPC-maya(1)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>It contains my invoices for my assignment last month. I haven't been able to claim them yet, but the time limit on them is running short...</color>
+NPC-Jason(2);NPC-maya(2)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Oh, it's alright. This is the first time Agent J's received such a challenging mission. It's only natural for him to feel out of his league.</color>
+NPC-Jason(2)<Speaker>K</Speaker>;NPC-maya(2)<scan><通讯框>||:Let's get back on track. We've gotten her dossier, but we can't track her down with just that much.
+NPC-Jason(2);NPC-maya(2)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>If it were that simple, the Soviets wouldn't have lowered themselves to begging us for help.</color>
+NPC-Jason(2)<Speaker>K</Speaker>;NPC-maya(2)<scan><通讯框>||:...+So you have nothing to add either?
+NPC-maya(2)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Originally, I didn't, but one of my contacts gave me a clue just three minutes before I made this call...</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-maya(2)<scan><通讯框>||:What clue?
+NPC-Keven(5);NPC-maya(2)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Go to my desk and open the drawer on the left, the one that isn't locked.</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-maya(2)<scan><通讯框>||<SE1>AVG_File_Put</SE1>:How did you put it in there ahead of time?
+NPC-Keven(5);NPC-maya(1)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>It contains my invoices for my assignment last month. I haven't been able to claim them yet, but the time limit on them is running short...</color>
 NPC-Keven(5)<Speaker>J</Speaker>||:...
 NPC-Jason(3)<Speaker>K</Speaker>||:Just go, J.
 ()||<SE1>AVG_Door_Hit</SE1>:J storms off.
-NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Agent J IS surprisingly useful at times.</color>
+NPC-maya(2)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Agent J IS surprisingly useful at times.</color>
 NPC-Jason(2)<Speaker>K</Speaker>||:What about the clue?
-NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>I've sent it to your mailbox. Good luck finding her.</color>
+NPC-maya(2)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>I've sent it to your mailbox. Good luck finding her.</color>
 ()||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Q hangs up.
 ()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:K immediately opens his mailbox and downloads the document Q sent him.+It's a series of coordinates.
 NPC-Jason(3)<Speaker>K</Speaker>||:...A list of her most recent movements.+Now this makes things much easier.

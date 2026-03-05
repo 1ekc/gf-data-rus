@@ -7,7 +7,7 @@ M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Good thing we had informed the 
 M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:Were you looking forward to the party?
 M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Sure. Everyone having fun eating, chatting, and enjoying the peace and quiet... +Doesn't that beat firing a gun?
 M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||<SE1>AVG_tele_connect</SE1>:You're right. I hope they have booze at the party... Come. If we hurry, we might still make it before they wrap things up. +M16A1 hailing HQ. Mission accomplished. There is quite some distance between us and the base. Requesting a chopper for pickup at Heliport 9 in Theater No. 3.
-M16A1BOSS(0);NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Copy that. We'll be there in no time~</color>
+M16A1BOSS(0);NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that. We'll be there in no time~</color>
 M16A1BOSS(0)<Speaker>M16A1</Speaker>;NPC-Kalin(0)||:Thanks.
 M16A1BOSS(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Kalina's jovial tone has helped M16A1 relax a little. +Other than herself and Groza, nothing else moves on the battlefield. She closes her eyes and slowly tries to unwind from the tension of the previous battle.
 OTs14(0)<Speaker>OTs-14</Speaker>||:The chopper is here. Let's go.
@@ -29,7 +29,7 @@ M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:Right, enough jokes. +Since you
 M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:That could work... I'll see what I can do.
 M16A1BOSS(0)<Speaker></Speaker>;OTs14(0)||:M16A1 lets out a long sigh. +Groza chuckles and pats her on the shoulder.
 M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:We're home.
-M16A1BOSS(0);NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Welcome back, Groza and M16!</color> +<color=#00CCFF>The banquet is almost over, please put on the evening dresses that the Commander has prepared for you before you make your entrance~</color>
+M16A1BOSS(0);NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Welcome back, Groza and M16!</color> +<color=#00CCFF>The banquet is almost over, please put on the evening dresses that the Commander has prepared for you before you make your entrance~</color>
 M16A1BOSS(0)<Speaker>M16A1</Speaker>;NPC-Kalin(0)||<SE1>AVG_tele_disconnect</SE1>:This dress? +Doesn't my white hair clash with the black?
 M16A1BOSS(0);OTs14(0)<Speaker>OTs-14</Speaker>||:The design must have been based on your ID picture in the Griffin staff roster. It does look a bit odd on you now.
 M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:But I can't not go. If we dye it white...

@@ -24,7 +24,7 @@ SPAS12(0)<Speaker>SPAS-12</Speaker>||:Out again? ...I just bought it yesterday.
 ()||:<color=#A9A9A9>Why can I still not control myself? </color>
 ()||:<color=#A9A9A9>Why is it always like this? </color>
 ()||:As her anxiety reaches boiling point, SPAS-12 can't help but reach for the eggs—
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>SPAS-12, we got an emergency. Get ready to sortie with AR-57 immediately. </color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>SPAS-12, we got an emergency. Get ready to sortie with AR-57 immediately. </color>
 ()||<黑点1>:
 ()||<关闭蒙版>:
 ()||<黑点2><BIN>70</BIN><回忆>:

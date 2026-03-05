@@ -5,36 +5,36 @@ NPC-Ange(19)<Speaker>Angelia</Speaker>||:...Play something else. +How am I suppo
 NPC-maya(2)<Speaker>Agent Q</Speaker>||:I put this on precisely to keep myself awake.
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:Beep, beep...
 ()<Speaker></Speaker>||:The communicator chirps.
-AK12(2)<Speaker>AK-12</Speaker><Position>0,50</Position><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>Morridow escaped.</color>
-AK12(2)<Position>0,50</Position><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:From the plane?
-AK12(2)<Speaker>AK-12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(19)||:<color=#00CCFF>Yep...</color> +<color=#00CCFF>She jumped right off from a height of about 400 feet. The Stasi has been searching the river channels in the area—nothing.</color>
-AK12(2)<Position>0,50</Position><通讯框>;NPC-Ange(21)<Speaker>Angelia</Speaker>||:What did K say?
-AK12(2)<Speaker>AK-12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(21)||:<color=#00CCFF>..."This is a matter that concerns only the German government."</color>
-AK12(2)<Position>0,50</Position><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:...That's it?
-AK12(2)<Speaker>AK-12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(19)||:<color=#00CCFF>Yeah.</color>
-AK12(2)<Position>0,50</Position><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:Try to make your way to Berlin. 94 will send you the coordinates.
-AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(19)||:<color=#00CCFF>I'm driving at the moment.</color> +<color=#00CCFF>By the way, 16 has something to tell you.</color>
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>;NPC-Ange(19)||:<color=#00CCFF>I just received a message in my intranet.</color> +<color=#00CCFF>The message completely bypassed my firewalls. I only noticed it when it came through.</color> +<color=#00CCFF>I've tried, but I couldn't trace it.</color>
-RPK16(0)<通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:What does it say?
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>;NPC-Ange(19)||:<color=#00CCFF>The subject is a Bible verse number.</color>
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>||:<color=#00CCFF>"John 8:12".</color>
+AK12(2)<Speaker>AK-12</Speaker><Position>0,50</Position><scan><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>Morridow escaped.</color>
+AK12(2)<Position>0,50</Position><scan><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:From the plane?
+AK12(2)<Speaker>AK-12</Speaker><Position>0,50</Position><scan><通讯框>;NPC-Ange(19)||:<color=#00CCFF>Yep...</color> +<color=#00CCFF>She jumped right off from a height of about 400 feet. The Stasi has been searching the river channels in the area—nothing.</color>
+AK12(2)<Position>0,50</Position><scan><通讯框>;NPC-Ange(21)<Speaker>Angelia</Speaker>||:What did K say?
+AK12(2)<Speaker>AK-12</Speaker><Position>0,50</Position><scan><通讯框>;NPC-Ange(21)||:<color=#00CCFF>..."This is a matter that concerns only the German government."</color>
+AK12(2)<Position>0,50</Position><scan><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:...That's it?
+AK12(2)<Speaker>AK-12</Speaker><Position>0,50</Position><scan><通讯框>;NPC-Ange(19)||:<color=#00CCFF>Yeah.</color>
+AK12(2)<Position>0,50</Position><scan><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:Try to make your way to Berlin. 94 will send you the coordinates.
+AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position><scan><通讯框>;NPC-Ange(19)||:<color=#00CCFF>I'm driving at the moment.</color> +<color=#00CCFF>By the way, 16 has something to tell you.</color>
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>;NPC-Ange(19)||:<color=#00CCFF>I just received a message in my intranet.</color> +<color=#00CCFF>The message completely bypassed my firewalls. I only noticed it when it came through.</color> +<color=#00CCFF>I've tried, but I couldn't trace it.</color>
+RPK16(0)<scan><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:What does it say?
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>;NPC-Ange(19)||:<color=#00CCFF>The subject is a Bible verse number.</color>
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>||:<color=#00CCFF>"John 8:12".</color>
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:"I am the light of the world; he that followeth me shall not walk in darkness, but shall have the light of life." +John, Chapter 8, Verse 12.
 NPC-Ange(21)<Speaker>Angelia</Speaker>||:...How pretentious.
-AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>And revolting. It's probably a stupid question, but does this remind you of anyone in particular?</color>
+AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>And revolting. It's probably a stupid question, but does this remind you of anyone in particular?</color>
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:Do I look like I know someone so obnoxious?
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>||:<color=#00CCFF>The message itself reads...</color> +<color=#00CCFF>"Dear Ms. Anna Viktorovna Tsoi,</color> +<color=#00CCFF>"I hope you will forgive me for meddling, but I deeply regret what happened in Bremen and the bad decisions the Stasi have made due to internal strife.</color> +<color=#00CCFF>"There are things I wish to discuss with you concerning Paradeus. Please meet me after lunch."</color> +<color=#00CCFF>...Then there's an address. It looks like a bar in the Old Town.</color> +<color=#00CCFF>A bar called "Athena's Owl".</color>
-RPK16(0)<通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:Do you know the three types of people that I hate the most?
-RPK16(5)<Speaker>RPK-16</Speaker><通讯框>;NPC-Ange(19)||:<color=#00CCFF>People like AK-12 and people like me?</color>
-RPK16(5)<通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:People with no conviction, pretentious pricks...
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>;NPC-Ange(19)||:<color=#00CCFF>And what's the last type?</color>
-RPK16(0)<通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:William.
-AK12(4)<Speaker>AK-12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(19)||:<color=#00CCFF>Will you go to the meeting?</color>
-AK12(4)<Position>0,50</Position><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:No. +I would've been interested if things were different.
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>||:<color=#00CCFF>The message itself reads...</color> +<color=#00CCFF>"Dear Ms. Anna Viktorovna Tsoi,</color> +<color=#00CCFF>"I hope you will forgive me for meddling, but I deeply regret what happened in Bremen and the bad decisions the Stasi have made due to internal strife.</color> +<color=#00CCFF>"There are things I wish to discuss with you concerning Paradeus. Please meet me after lunch."</color> +<color=#00CCFF>...Then there's an address. It looks like a bar in the Old Town.</color> +<color=#00CCFF>A bar called "Athena's Owl".</color>
+RPK16(0)<scan><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:Do you know the three types of people that I hate the most?
+RPK16(5)<Speaker>RPK-16</Speaker><scan><通讯框>;NPC-Ange(19)||:<color=#00CCFF>People like AK-12 and people like me?</color>
+RPK16(5)<scan><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:People with no conviction, pretentious pricks...
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>;NPC-Ange(19)||:<color=#00CCFF>And what's the last type?</color>
+RPK16(0)<scan><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:William.
+AK12(4)<Speaker>AK-12</Speaker><Position>0,50</Position><scan><通讯框>;NPC-Ange(19)||:<color=#00CCFF>Will you go to the meeting?</color>
+AK12(4)<Position>0,50</Position><scan><通讯框>;NPC-Ange(19)<Speaker>Angelia</Speaker>||:No. +I would've been interested if things were different.
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:But now? He's too late, and I don't have time for this. +Just ignore him. Let's meet at the mansion.
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>||:<color=#00CCFF>Aren't you being a bit too impatient?</color>
-AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Don't bother. Once Ange has made up her mind, even I can't hold her back.</color>
-AK12(4)<Speaker>AK-12</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>Just do as she says.</color>
-RPK16(0)<Speaker>RPK-16</Speaker><通讯框>||:<color=#00CCFF>...Of course.</color>
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>||:<color=#00CCFF>Aren't you being a bit too impatient?</color>
+AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Don't bother. Once Ange has made up her mind, even I can't hold her back.</color>
+AK12(4)<Speaker>AK-12</Speaker><Position>0,50</Position><scan><通讯框>||:<color=#00CCFF>Just do as she says.</color>
+RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>||:<color=#00CCFF>...Of course.</color>
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Ange hangs up and peers at AK-15 and AN-94 in the back through the rearview mirror.
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:Send them the coordinates.
@@ -151,9 +151,9 @@ NPC-Ange(19)<Speaker>Ange</Speaker>||:...12?
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:She's on.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Patch her through.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click. +Channel established.
-NPC-maya(2)<Speaker>Agent Q</Speaker><通讯框>||:<color=#00CCFF>When it comes to fishing, the most important thing to have is patience.</color>
+NPC-maya(2)<Speaker>Agent Q</Speaker><scan><通讯框>||:<color=#00CCFF>When it comes to fishing, the most important thing to have is patience.</color>
 NPC-Ange(19)<Speaker>Ange</Speaker>||:I hope your fish is worth it.
-NPC-maya(2)<Speaker>Agent Q</Speaker><通讯框>||:<color=#00CCFF>Of course.</color> +<color=#00CCFF>Don't worry, I have my eyes on you.</color>
+NPC-maya(2)<Speaker>Agent Q</Speaker><scan><通讯框>||:<color=#00CCFF>Of course.</color> +<color=#00CCFF>Don't worry, I have my eyes on you.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click. +Transmission terminated.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:Well? Ange?
 NPC-Ange(21)<Speaker>Ange</Speaker>||:...

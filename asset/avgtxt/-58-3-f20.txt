@@ -32,15 +32,15 @@ RO635Mod(2)<Speaker>RO635</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:After taking a deep breath, RO635 carries SOP-II out of the room...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>446</BIN>:...Near the roof of the Eastern Tower, Avernus.
-NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is Daybreak. We found Aliana's body in the Relic Simulation Zone...</color> +<color=#00CCFF>Her neural cloud is completely fried. We'll bring her body back.</color>
-BossJustice(0)<Speaker>Judge</Speaker><通讯框>||:<color=#00CCFF>In that case, you'll now take over as the field commander of this mission.</color>
-NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>||:<color=#00CCFF>I will complete the remaining task in Aliana's place.</color> +<color=#00CCFF>Right now, all teams are to withdraw.</color> +<color=#00CCFF>Fe56 will help Taraxacum withdraw first while Daybreak will cover their rear and ensure everyone can leave safely.</color>
+NPC-SCR(2)<Speaker>SCR</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is Daybreak. We found Aliana's body in the Relic Simulation Zone...</color> +<color=#00CCFF>Her neural cloud is completely fried. We'll bring her body back.</color>
+BossJustice(0)<Speaker>Judge</Speaker><scan><通讯框>||:<color=#00CCFF>In that case, you'll now take over as the field commander of this mission.</color>
+NPC-SCR(2)<Speaker>SCR</Speaker><scan><通讯框>||:<color=#00CCFF>I will complete the remaining task in Aliana's place.</color> +<color=#00CCFF>Right now, all teams are to withdraw.</color> +<color=#00CCFF>Fe56 will help Taraxacum withdraw first while Daybreak will cover their rear and ensure everyone can leave safely.</color>
 NPC-SCR(2);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Hang on, RO and SOP-II haven't checked in yet.
-NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>;AR15Mod(5)||:<color=#00CCFF>They've already received the order to withdraw.</color>
+NPC-SCR(2)<Speaker>SCR</Speaker><scan><通讯框>;AR15Mod(5)||:<color=#00CCFF>They've already received the order to withdraw.</color>
 NPC-SCR(2);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:I'm going to meet up with them.
-NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>;AR15Mod(5)||:<color=#00CCFF>Denied. You need to stay with Taraxacum and ensure Dandelion can withdraw safely. You must not allow her to fall into Paradeus' hands.</color>
+NPC-SCR(2)<Speaker>SCR</Speaker><scan><通讯框>;AR15Mod(5)||:<color=#00CCFF>Denied. You need to stay with Taraxacum and ensure Dandelion can withdraw safely. You must not allow her to fall into Paradeus' hands.</color>
 AR15Mod(4)<Speaker>ST AR-15</Speaker>||:...
-NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>||:<color=#00CCFF>All units, withdraw from Avernus now.</color>
+NPC-SCR(2)<Speaker>SCR</Speaker><scan><通讯框>||:<color=#00CCFF>All units, withdraw from Avernus now.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:ST AR-15 pokes her head out and looks down the corridor, which seems to spiral infinitely downward to Hell itself. Anger simmers within her.
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Pick up already! SOP-II, you picked up just a minute ago, so why aren't you responding now?!

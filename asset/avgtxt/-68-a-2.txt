@@ -35,30 +35,30 @@ AR18(5)<Speaker>AR-18</Speaker><Position>0,70</Position>||:Commander, a comms re
 ()<Speaker></Speaker>||<SE1>AVG_va_addingredient</SE1>:The Commander is just about to finally relax, but they have no choice but to straighten up again and drain their new cup of coffee in one gulp.
 ()<Speaker>Commander</Speaker>||:Put him on.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>First of all, I must offer my congratulations.</color> +<color=#00CCFF>Your unsanctioned action has been retroactively given an official seal of approval, and you have certainly done a wonderful job.</color> +<color=#00CCFF>The "Dead Sea" is no longer off-limits, and you've even managed to secure the key target.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...But we've lost more than we've gained.
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>I did tell you to stop, remember?</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><通讯框>||:No, you had already decided to sacrifice Ange before that.
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Death is never the destination. Besides, our lives are not entirely our own.</color> +<color=#00CCFF>In our long journey, some are bound to leave us behind, while others join us halfway through.</color> +<color=#00CCFF>Be sensible, both for your sake and the sake of Kryuger and those at the base.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:I'm guessing you want me to hand "him" over to you?
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>First of all, I must offer my congratulations.</color> +<color=#00CCFF>Your unsanctioned action has been retroactively given an official seal of approval, and you have certainly done a wonderful job.</color> +<color=#00CCFF>The "Dead Sea" is no longer off-limits, and you've even managed to secure the key target.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...But we've lost more than we've gained.
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>I did tell you to stop, remember?</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:No, you had already decided to sacrifice Ange before that.
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Death is never the destination. Besides, our lives are not entirely our own.</color> +<color=#00CCFF>In our long journey, some are bound to leave us behind, while others join us halfway through.</color> +<color=#00CCFF>Be sensible, both for your sake and the sake of Kryuger and those at the base.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:I'm guessing you want me to hand "him" over to you?
 NPC-Griffin(1)<Speaker>Earl</Speaker>||:<color=#00CCFF>The Stasi's people are waiting on the border just beyond the "Dead Sea".</color> +<color=#00CCFF>It doesn't matter to whom he is handed over. It is simply not up to you to decide his fate.</color> +<color=#00CCFF>I thought Kryuger would have made this clear to you.</color> +<color=#00CCFF>You have done your part, now leave the rest to those who can bring an end to this farce.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:What are you planning to do with "him"?
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>...This is not a request, Commander.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Yes, I am aware.
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>...You are not without weaknesses.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:I'm also aware of that.
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>I see you refuse to give up your obstinate ways.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:...All I want is an explanation. +Something to justify the blood spilled at my hands.
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Not everything has closure or answers.</color> +<color=#00CCFF>When you live to my age, you will understand that there is only so much we can do.</color> +<color=#00CCFF>You should not blame yourself for things beyond your capability.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:But if I hand him over to you... +That would make me personally responsible. +Especially if eradicating Paradeus for good isn't actually on your agenda.
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Avernus crashed and burned right before your eyes, yet you still doubt Paradeus' demise.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:You know full well what I mean!
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>Don't let emotions get the better of you, my young friend.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:There was a time I looked up to you, the same way I look up to Mr. Kryuger.
-NPC-Griffin(1)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>I see.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><通讯框>||:Looks like you've already made your decision.
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>I will see you again soon, Commander.</color>
-NPC-Griffin(0)<Speaker>Earl</Speaker><通讯框>||:<color=#00CCFF>You... as well as William.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:What are you planning to do with "him"?
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>...This is not a request, Commander.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Yes, I am aware.
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>...You are not without weaknesses.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:I'm also aware of that.
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>I see you refuse to give up your obstinate ways.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:...All I want is an explanation. +Something to justify the blood spilled at my hands.
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Not everything has closure or answers.</color> +<color=#00CCFF>When you live to my age, you will understand that there is only so much we can do.</color> +<color=#00CCFF>You should not blame yourself for things beyond your capability.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:But if I hand him over to you... +That would make me personally responsible. +Especially if eradicating Paradeus for good isn't actually on your agenda.
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Avernus crashed and burned right before your eyes, yet you still doubt Paradeus' demise.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:You know full well what I mean!
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>Don't let emotions get the better of you, my young friend.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:There was a time I looked up to you, the same way I look up to Mr. Kryuger.
+NPC-Griffin(1)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>I see.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><同时置暗><scan><通讯框>||:Looks like you've already made your decision.
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>I will see you again soon, Commander.</color>
+NPC-Griffin(0)<Speaker>Earl</Speaker><scan><通讯框>||:<color=#00CCFF>You... as well as William.</color>
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:...
 ()<Speaker></Speaker>||:The comms channel falls silent. +Nobody wants to speak, but someone has to interrupt.
 AR18(2)<Speaker>AR-18</Speaker><Position>0,70</Position>||:Commander, we have Statesec on line 2.

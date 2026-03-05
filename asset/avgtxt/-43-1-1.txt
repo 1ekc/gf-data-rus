@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>161</BIN><Night><BGM>GF_xDivision_Scene2</BGM>:—Hudson Refugee Camp, Manhattan.<下雪></下雪>
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>It seems your ISACs haven't malfunctioned yet, so why not check your status before heading out?</color>+<color=#00CCFF>I will provide more information when the need arises. Good luck, Agents.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>It seems your ISACs haven't malfunctioned yet, so why not check your status before heading out?</color>+<color=#00CCFF>I will provide more information when the need arises. Good luck, Agents.</color>
 NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Was that the NPC the Commander was talking about?
 NPC-Dima(1);K5(0)<Speaker>K5</Speaker>||:There's nobody else but her, right...+I see, it looks like she provides tutorials and suggestions depending on our game progression. Seems like a pretty useful NPC. +However, she has an unlucky face.
 NPC-Dima(1)<Speaker>Dima</Speaker>||:<color=#00CCFF>Thank you for your feedback. I will take it to heart.</color>
@@ -14,7 +14,7 @@ Vector(0)<Speaker>Vector</Speaker>||:...
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:She's ignoring you.
 PP90(0)<Speaker>PP-90</Speaker>||:C-come on, say something!
 ()<Speaker></Speaker>||:Vector remains unresponsive to PP-90's prompt. Instead, she leans against a nearby piece of cover, then stands up and leans over it again...+Finally, she raises her gun and accurately hits several beer bottles and empty cans in the distance.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Well done, Agent.</color>+<color=#00CCFF>The streets are now fields of slaughter. Hopefully, your participation will bring a ray of hope to this city.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Well done, Agent.</color>+<color=#00CCFF>The streets are now fields of slaughter. Hopefully, your participation will bring a ray of hope to this city.</color>
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:...Is she going through the newbie tutorial?
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Well, if we were to list the Dolls who always follow instructions to a tee, Vivi would have to be one of them.
 K5(0);PP90(0)<Speaker>PP-90</Speaker>||:Didn't you go through the tutorial as well?
@@ -34,7 +34,7 @@ R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Yes, yes, I know, they
 ()<Speaker>System</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:Player "Pink Nyan Nyan Punch" has died of hypothermia.
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||<SE1>AVG_The_Division_ISAC_Off</SE1>:Ehh? Who's "Pink Nyan Nyan Punch"?! +And how did she die from hypothermia, is she human or something?
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:Didn't the Commander say that all the players were Dolls?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like a squad of agents has taken casualties because they couldn't adapt to the environment.</color>+<color=#00CCFF>The current temperature in Manhattan is -25 degrees centigrade, going as low as -30 in some places.</color>+<color=#00CCFF>If you're not careful, you'll meet the same fate as that fallen agent.</color>+<color=#00CCFF>Please make sure to keep warm, Agents.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Looks like a squad of agents has taken casualties because they couldn't adapt to the environment.</color>+<color=#00CCFF>The current temperature in Manhattan is -25 degrees centigrade, going as low as -30 in some places.</color>+<color=#00CCFF>If you're not careful, you'll meet the same fate as that fallen agent.</color>+<color=#00CCFF>Please make sure to keep warm, Agents.</color>
 NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:I don't feel anything though. Can we really freeze to death?
 Vector(0)<Speaker>Vector</Speaker>;R93(0)<Position>0,-100</Position>||:Well, the game is being played on Level II, after all. Our virtual avatars probably share certain algorithms with this world in order to maintain data compatibility.+There are advantages and drawbacks to this, of course. We can use weapons freely, but it also means poor conditions will affect us, especially since we aren't used to taking human survival needs into consideration. +In order to avoid danger, we should plan carefully and tread lightly.
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:That sounds tough. K5, what did you say about our chances of winning earlier?
@@ -64,7 +64,7 @@ PP90(0)<Speaker>PP-90</Speaker>||:Vivi... Something's not right.+I have a feelin
 PP90(0);Vector(0)<Speaker>Vector</Speaker>||:The enemy probably won't have been wiped out so soon, so it's good that you're staying alert. Although...+Could you please stop hugging me?
 PP90(0)<Speaker>PP-90</Speaker>;Vector(0)||:But I feel safer this way~
 PP90(0);Vector(0)<Speaker>Vector</Speaker>||:But if we get ambushed, neither of us will be safe.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, this location is being held by a large number of enemies. Please be careful.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Agents, this location is being held by a large number of enemies. Please be careful.</color>
 NPC-Dima(1);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:We knew that already!
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:Leader, they look like pretty tough customers, and things look even worse inside. Are you sure you want to continue onward?
 K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:These enemies are designed to be killed by players, so why shouldn't we go ahead?

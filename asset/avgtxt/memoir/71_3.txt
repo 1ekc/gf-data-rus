@@ -99,17 +99,17 @@ AR(0)<Speaker>Galil</Speaker>||:...
 ()||:After a brief pause, Galil replies to the message.
 ()<Speaker>Galil</Speaker>||:Thank you for your concern, Gr MG23. +I'm okay; I'm just worried about being told off by Kalina. +Good thing watermelons aren't too expensive, or there'd be hell for me to pay, haha...
 ()||:After sending the message with a completely blank face, Galil buries her face into the pillow. +But her communicator keeps beeping stubbornly. +After a long while, Galil finally answers the call.
-MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hey, Galil! What took you so long to pick up?</color>
-MicroUZIMod(0)<通讯框>;AR(0)<Speaker>Galil</Speaker>||:I was asleep!
-MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>;AR(0)||:<color=#00CCFF>Huh? You went to bed so early? That's not like the workaholic Galil I know at all.</color>
-TAR21(0)<Speaker>TAR-21</Speaker><通讯框>;AR(0)||:<color=#00CCFF>Tough job today?</color>
-TAR21(0)<通讯框>;AR(0)<Speaker>Galil</Speaker>||:Eh, it was alright.
-NEGEV(0)<Speaker>Negev</Speaker><通讯框>;AR(0)||:<color=#00CCFF>We've completed the mission and are on our way back to base.</color> +<color=#00CCFF>Let's have a meal together when we're there.</color>
-NEGEV(0)<通讯框>;AR(0)<Speaker>Galil</Speaker>||:You're done so soon?
-NEGEV(0)<Speaker>Negev</Speaker><通讯框>;AR(0)||:<color=#00CCFF>Yeah, we're ahead of schedule.</color>
-NEGEV(0)<通讯框>;AR(0)<Speaker>Galil</Speaker>||:...Nice.
-MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>;AR(0)||:<color=#00CCFF>Gotta hang! We're going through a tunnel!</color>
-MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><通讯框>||:<color=#00CCFF>We'll talk later!</color>
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hey, Galil! What took you so long to pick up?</color>
+MicroUZIMod(0)<scan><通讯框>;AR(0)<Speaker>Galil</Speaker>||:I was asleep!
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><scan><通讯框>;AR(0)||:<color=#00CCFF>Huh? You went to bed so early? That's not like the workaholic Galil I know at all.</color>
+TAR21(0)<Speaker>TAR-21</Speaker><scan><通讯框>;AR(0)||:<color=#00CCFF>Tough job today?</color>
+TAR21(0)<scan><通讯框>;AR(0)<Speaker>Galil</Speaker>||:Eh, it was alright.
+NEGEV(0)<Speaker>Negev</Speaker><scan><通讯框>;AR(0)||:<color=#00CCFF>We've completed the mission and are on our way back to base.</color> +<color=#00CCFF>Let's have a meal together when we're there.</color>
+NEGEV(0)<scan><通讯框>;AR(0)<Speaker>Galil</Speaker>||:You're done so soon?
+NEGEV(0)<Speaker>Negev</Speaker><scan><通讯框>;AR(0)||:<color=#00CCFF>Yeah, we're ahead of schedule.</color>
+NEGEV(0)<scan><通讯框>;AR(0)<Speaker>Galil</Speaker>||:...Nice.
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><scan><通讯框>;AR(0)||:<color=#00CCFF>Gotta hang! We're going through a tunnel!</color>
+MicroUZIMod(0)<Speaker>Micro Uzi</Speaker><scan><通讯框>||:<color=#00CCFF>We'll talk later!</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The call ends.
 AR(0)<Speaker>Galil</Speaker>||:Their mission seems to have gone smoothly.
 ()||:Struck by a sudden thought, Galil opens up her shift timetable. All the departments she has been to have been crossed out.

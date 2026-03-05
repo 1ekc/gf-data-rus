@@ -10,29 +10,29 @@ AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position>||:Mia, we can now esta
 APC556(2)<Speaker>Mia</Speaker>||:Right.
 APC556(2)<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_connect</SE1>:
 APC556(3)<Speaker>Mia</Speaker>||:Nele, you there?
-NPC-Nele(2)<Speaker>Nele</Speaker><通讯框>;APC556(3)||:<color=#00CCFF>I'm here. Did you make it into the city okay?</color>
+NPC-Nele(2)<Speaker>Nele</Speaker><scan><通讯框>;APC556(3)||:<color=#00CCFF>I'm here. Did you make it into the city okay?</color>
 NPC-Nele(2);APC556(3)<Speaker>Mia</Speaker>||:We passed the checkpoint without arousing any suspicion.+We're now en route to our destination.
-NPC-Nele(1)<Speaker>Nele</Speaker><通讯框>;APC556(3)||:<color=#00CCFF>I see. I'm glad it went smoothly.</color>
-NPC-Nele(1)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>Miss Instructor, I've solved your problem, so when do I get to meet the Commander?</color>
+NPC-Nele(1)<Speaker>Nele</Speaker><scan><通讯框>;APC556(3)||:<color=#00CCFF>I see. I'm glad it went smoothly.</color>
+NPC-Nele(1)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>Miss Instructor, I've solved your problem, so when do I get to meet the Commander?</color>
 AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position>||:The Commander will definitely arrange a meeting with you first thing once this is over, I promise.
-NPC-Nele(1)<Speaker>Nele</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-Nele(1)<Speaker>Nele</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 APC556(3)<Speaker>Mia</Speaker>||:Get some rest, Nele. It's already morning.+You still need to visit your grandfather this afternoon.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>470</BIN><CGDelay>0.5</CGDelay>:
 NPC-Nele(1)<Speaker>Nele</Speaker>||:Yeah, I know...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Inside her hotel room, Nele is sitting at the desk with her head propped on her hand.+On the bed behind her lie a few pieces of clothing her cousin has prepared for her for tomorrow, but she is not in the mood to try them on.
 NPC-Nele(2)<Speaker>Nele</Speaker>||:Why is the Commander avoiding me...?
-NPC-Nele(2);APC556(2)<Speaker>Mia</Speaker><通讯框>||:<color=#00CCFF>Don't overthink it. Griffin is currently dealing with some very tricky issues. The Instructor hasn't told you about them because she doesn't want to get you involved.</color>
+NPC-Nele(2);APC556(2)<Speaker>Mia</Speaker><scan><通讯框>||:<color=#00CCFF>Don't overthink it. Griffin is currently dealing with some very tricky issues. The Instructor hasn't told you about them because she doesn't want to get you involved.</color>
 NPC-Nele(1)<Speaker>Nele</Speaker>;APC556(2)||:...Fine, I won't pry.
-NPC-Nele(1);APC556(2)<Speaker>Mia</Speaker><通讯框>||:<color=#00CCFF>Is everything all set for the afternoon? Has Frau Hebe confirmed everything with you?</color>
+NPC-Nele(1);APC556(2)<Speaker>Mia</Speaker><scan><通讯框>||:<color=#00CCFF>Is everything all set for the afternoon? Has Frau Hebe confirmed everything with you?</color>
 NPC-Nele(0)<Speaker>Nele</Speaker>;APC556(2)||:All set.+At eight in the morning, I'll meet Frau Hebe and have breakfast with her, then she'll give me some pointers regarding my appearance.+At two in the afternoon, my grandfather's chauffeur will come pick me up at Frau Hebe's place.
-NPC-Nele(0);APC556(2)<Speaker>Mia</Speaker><通讯框>||:<color=#00CCFF>How do you feel about your interactions with Frau Hebe? What do you make of her?</color>
+NPC-Nele(0);APC556(2)<Speaker>Mia</Speaker><scan><通讯框>||:<color=#00CCFF>How do you feel about your interactions with Frau Hebe? What do you make of her?</color>
 NPC-Nele(1)<Speaker>Nele</Speaker>||:Hm...
 ()<Speaker></Speaker>||<SE1>AVG_TurnOverCard</SE1>:Nele pulls out a business card sandwiched between the pages of her notebook—+It's printed on an unusual cream card stock with understated gold foil on the edge. The card is embossed with Hebe's signature and the sketch of a beautiful woman's profile.+The only information it contains is Hebe's name and the contact details of her assistant.
 NPC-Nele(1)<Speaker>Nele</Speaker>||:I still haven't met her in person, but according to my cousin, Frau Hebe is a very charming retro belle...
-NPC-Nele(1);APC556(2)<Speaker>Mia</Speaker><通讯框>||:<color=#00CCFF>From what I know, Frau Hebe has a pretty good reputation within the entertainment circle and still keeps in touch with her old friends even after getting married and leaving the showbiz.</color>+<color=#00CCFF>You know, I've never seen any other woman who didn't attract gossip for keeping her own name after marrying some bigwig government official.</color>+<color=#00CCFF>You see what I'm getting at? Women usually take their husband's surname after getting married, but she still goes by "Frau Hebe".</color>
+NPC-Nele(1);APC556(2)<Speaker>Mia</Speaker><scan><通讯框>||:<color=#00CCFF>From what I know, Frau Hebe has a pretty good reputation within the entertainment circle and still keeps in touch with her old friends even after getting married and leaving the showbiz.</color>+<color=#00CCFF>You know, I've never seen any other woman who didn't attract gossip for keeping her own name after marrying some bigwig government official.</color>+<color=#00CCFF>You see what I'm getting at? Women usually take their husband's surname after getting married, but she still goes by "Frau Hebe".</color>
 NPC-Nele(1)<Speaker>Nele</Speaker>;APC556(2)||:...So?
-NPC-Nele(1);APC556(2)<Speaker>Mia</Speaker><通讯框>||:<color=#00CCFF>This is highly unconventional for female stars. Other than her, I have not seen another case.</color>+<color=#00CCFF>This goes to show that there's something unusual about her, so you'd better watch out.</color>
+NPC-Nele(1);APC556(2)<Speaker>Mia</Speaker><scan><通讯框>||:<color=#00CCFF>This is highly unconventional for female stars. Other than her, I have not seen another case.</color>+<color=#00CCFF>This goes to show that there's something unusual about her, so you'd better watch out.</color>
 NPC-Nele(1)<Speaker>Nele</Speaker>||:Right, I'll be careful.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>766</BIN><CGDelay>0.5</CGDelay>:

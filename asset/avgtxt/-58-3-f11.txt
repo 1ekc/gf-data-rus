@@ -1,11 +1,11 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BGM>GF_EV9_Story</BGM><BIN>446</BIN>:...On the spiral staircase in the Eastern Tower of Avernus.
 AN94MOD(0)<Speaker>AN-94</Speaker>||:...Are you sure you want to do this?
-AN94MOD(0);NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>I've already decided.</color> +<color=#00CCFF>There are many things still waiting to be done. You don't have time to drag your feet.</color>
-AN94MOD(0)<Speaker>AN-94</Speaker>;NPC-Koleda(0)<通讯框>||:...
-AN94MOD(0);NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>We still need to wreck the interior of this building more thoroughly to help Muromets utterly destroy Paradeus.</color> +<color=#00CCFF>Don't forget, Ange and the Commander are working toward the same objective—to capture the culprit behind everything.</color>
-AN94MOD(0)<Speaker>AN-94</Speaker>;NPC-Koleda(0)<通讯框>||:Got it.
-NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>Lie low and keep in contact.</color>
+AN94MOD(0);NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>I've already decided.</color> +<color=#00CCFF>There are many things still waiting to be done. You don't have time to drag your feet.</color>
+AN94MOD(0)<Speaker>AN-94</Speaker>;NPC-Koleda(0)<scan><通讯框>||:...
+AN94MOD(0);NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>We still need to wreck the interior of this building more thoroughly to help Muromets utterly destroy Paradeus.</color> +<color=#00CCFF>Don't forget, Ange and the Commander are working toward the same objective—to capture the culprit behind everything.</color>
+AN94MOD(0)<Speaker>AN-94</Speaker>;NPC-Koleda(0)<scan><通讯框>||:Got it.
+NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>Lie low and keep in contact.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:She hangs up.
 AN94MOD(0)<Speaker>AN-94</Speaker>||:Let's go, 15.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...

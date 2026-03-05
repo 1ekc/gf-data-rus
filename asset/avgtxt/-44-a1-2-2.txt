@@ -30,7 +30,7 @@ NPC-Ange(4)<Speaker>Ange</Speaker>||:Tsk!
 ()<Speaker></Speaker>||:No matter where she goes, these people stick to her like glue, as though she has a GPS tracker on her. +Even when she wants to make a move, she can never completely escape her enemies' line-of-sight—not even for a second. +In such a tightly-packed crowd, she has neither the time nor the space to have a boxing match with them.
 ()<Speaker></Speaker>||:What's even worse...
 NPC-Ange(4)<Speaker>Ange</Speaker>||:12! 94!
-AK12(13)<Speaker>AK-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ange! Ange, where are you?!</color>
+AK12(13)<Speaker>AK-12</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ange! Ange, where are you?!</color>
 NPC-Ange(4)<Speaker>Ange</Speaker>||:I'm... Dammit!
 ()<Speaker></Speaker>||:How can she tell where she is? +For some reason, a commotion seems to have broken out at the front of the procession, and the demonstration comes to a halt at this block. +The people in the front and the back cannot communicate with each other. The ones in the back try to push forward while the ones in the front are stuck, and chaos ensues. +Under these conditions, even powerful T-Dolls are utterly helpless.
 ()<Speaker></Speaker>||:Ange has been separated from DEFY for over five minutes. The Dolls can locate each other by their signals, but it has already occurred to Ange that that isn't the problem. +New protesters keep pouring in from all directions. Even AK-15 cannot make her way through all that people to Ange. +She must think of something fast.

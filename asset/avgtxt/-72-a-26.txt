@@ -38,28 +38,28 @@ NPC-Keven(7)<Speaker>J</Speaker>||:...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BGM>GF_22W_BGM_2</BGM><SE1>AVG_tele_connect</SE1><黑屏2><BIN>685</BIN>:
 ()<Speaker></Speaker>||:The Commander receives intelligence transmitted back from Task Force DEFY.
-NPC-AK12Mod(11)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>We've acquired complete intel on the new Nyto. Her codename is "Hebe".</color>
-NPC-AK12Mod(11)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>Also, bad news—aside from this Hebe, there's another high-level Nyto lurking in Frankfurt. No specifics yet.</color>
-NPC-AK12Mod(11)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Almost there... Once we have intel on her, we can prepare for the final sweep.
+NPC-AK12Mod(11)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>We've acquired complete intel on the new Nyto. Her codename is "Hebe".</color>
+NPC-AK12Mod(11)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Also, bad news—aside from this Hebe, there's another high-level Nyto lurking in Frankfurt. No specifics yet.</color>
+NPC-AK12Mod(11)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Almost there... Once we have intel on her, we can prepare for the final sweep.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Just as the communicator is put down, it rings again.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:AR-18 brings over another cup of coffee.
 AR18(3)<Speaker>AR-18</Speaker><Position>0,100</Position>||:Commander, it's a call from Mr. Kryuger.
 ()<Speaker>Commander</Speaker>||:...Kryuger?!
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:The Commander picks up at once.
 ()<Speaker>Commander</Speaker>||:Mr. Kryuger?
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>Yes, it's me.</color>
-NPC-Kyruger(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Finally, a call from you...+Does this mean you and Helian are safe?
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>Yes, we've been released.</color>
-NPC-Kyruger(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:That's great news!
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>The Earl told me you and the Stasi took down Paradeus' Project Cocoon...</color>
-NPC-Kyruger(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Yes, their leader Laplace has been eliminated. Only William remains...
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>...Commander, we're so proud of you.</color>
-NPC-Kyruger(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:Once we finish off William and the remnants of Paradeus, I'll come get you both home.
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||<CGDelay>0.5</CGDelay>:<color=#00CCFF>Home...</color>
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>Let's rebuild Griffin together, Commander.</color>
-NPC-Kyruger(0)<Speaker>Commander</Speaker><通讯框><同时置暗>||:...
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>Even though the fire at the base burned for days, leaving almost nothing of the surface buildings...</color>+<color=#00CCFF>The good news is that it's finally burned out.</color>+<color=#00CCFF>It's the perfect time to rebuild. Now we can construct the new Griffin base exactly how we envision it.</color>
-NPC-Kyruger(0)<Speaker>Kryuger</Speaker><通讯框>||:<color=#00CCFF>Commander, I want to invite you to join us—not as an employee, but as family.</color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, it's me.</color>
+NPC-Kyruger(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Finally, a call from you...+Does this mean you and Helian are safe?
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, we've been released.</color>
+NPC-Kyruger(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:That's great news!
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>The Earl told me you and the Stasi took down Paradeus' Project Cocoon...</color>
+NPC-Kyruger(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Yes, their leader Laplace has been eliminated. Only William remains...
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>...Commander, we're so proud of you.</color>
+NPC-Kyruger(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:Once we finish off William and the remnants of Paradeus, I'll come get you both home.
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||<CGDelay>0.5</CGDelay>:<color=#00CCFF>Home...</color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>Let's rebuild Griffin together, Commander.</color>
+NPC-Kyruger(0)<Speaker>Commander</Speaker><scan><通讯框><同时置暗>||:...
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>Even though the fire at the base burned for days, leaving almost nothing of the surface buildings...</color>+<color=#00CCFF>The good news is that it's finally burned out.</color>+<color=#00CCFF>It's the perfect time to rebuild. Now we can construct the new Griffin base exactly how we envision it.</color>
+NPC-Kyruger(0)<Speaker>Kryuger</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I want to invite you to join us—not as an employee, but as family.</color>
 ()<Speaker></Speaker>||<CGDelay>0.7</CGDelay><SE1>ClothingUp</SE1>:Looking out at the silent night, the Commander feels a calm unlike anything before.
 ()<Speaker>Commander</Speaker>||<CGDelay>0.5</CGDelay>:Nothing would make me happier, Mr. Kryuger.
 ()||<黑屏1>:

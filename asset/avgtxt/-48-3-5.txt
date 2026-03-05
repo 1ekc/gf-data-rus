@@ -11,7 +11,7 @@ APC556(2)<Speaker>Mia</Speaker><Position>0,120</Position>||:Yeah, I'll go tidy u
 NPC-Nele(0)<Speaker>Nele</Speaker>||:Okay.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>129</BIN><黑屏2><BGM>BGM_Room</BGM><SE1>AVG_tele_connect</SE1>:Click. The call goes through, and she is answered by a lazy-sounding voice.
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>Good news?</color>
+NPC-Keven(0)<Speaker>J</Speaker><scan><通讯框>||:<color=#00CCFF>Good news?</color>
 NPC-Keven(0);NPC-Nele(0)<Speaker>Nele</Speaker>||:...There's news, but whether or not it's good is up to you. +About the truck—it was definitely from Galatea, but there are many such vehicles. Also each truck makes a lot of trips, so the transport logs alone are several hundred pages long.
 NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:<color=#00CCFF>What information do those logs contain?</color>
 NPC-Keven(0);NPC-Nele(0)<Speaker>Nele</Speaker>||:My clearance only gives me access to names, warehouses, times and so on—basic stuff. +And the system doesn't let me do open searches.
@@ -34,7 +34,7 @@ APC556(2)<Speaker>Mia</Speaker><Position>0,120</Position>||:Nele, you're a scien
 NPC-Nele(0)<Speaker>Nele</Speaker>||:I brought this on myself... +Whew... I'll go check again tomorrow.
 ()<Speaker></Speaker>||:... 
 ()||<黑屏1>:
-APC556(5)<Speaker>Mia</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>325</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Don't push yourself too hard. You're just an ordinary girl. </color>
+APC556(5)<Speaker>Mia</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>325</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Don't push yourself too hard. You're just an ordinary girl. </color>
 NPC-Nele(0)<Speaker>Nele</Speaker>||:Relax, Mia. I've got this.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Nele puts her communicator away and pulls her coat over her body as Mia watches on with concern.
 ()<Speaker></Speaker>||<BGM>BGM_Brain</BGM>:... 

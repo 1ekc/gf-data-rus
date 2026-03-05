@@ -8,18 +8,18 @@ ColtWalker(3)<Speaker>Maggie</Speaker>||:Repair stations are no place for a Doll
 ColtWalker(3)<Speaker>Maggie</Speaker>||:Catherine...
 ()<Speaker>Catherine</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Dear customer, the user you are trying to reach is busy making money. Please do not disturb.</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>||:Quimby.
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>...Yes, Mistress.</color>
-NPC-Quimby(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Can you locate Catherine?
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>Geolocation failed. I only have the coordinates of where she made her last communication...</color>
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>...Yes, Mistress.</color>
+NPC-Quimby(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:Can you locate Catherine?
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>Geolocation failed. I only have the coordinates of where she made her last communication...</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>||:...Looks like she's also targeted by the Vory.
 ()||<SE1>AVG_Punch</SE1>:Maggie punches the wall in frustration.
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>||:<color=#00CCFF>Mistress!</color>
-NPC-Quimby(0)<通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:How could I have made such a rookie mistake?! +I didn't bother to run a background check on Nikolai... A thief in law... I didn't expect him to be a Vor...
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>Mistress... What do we do now?</color>
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>||:<color=#00CCFF>Mistress!</color>
+NPC-Quimby(0)<scan><通讯框>;ColtWalker(3)<Speaker>Maggie</Speaker>||:How could I have made such a rookie mistake?! +I didn't bother to run a background check on Nikolai... A thief in law... I didn't expect him to be a Vor...
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>;ColtWalker(3)||:<color=#00CCFF>Mistress... What do we do now?</color>
 ColtWalker(3)<Speaker>Maggie</Speaker>||:The Vory has Catherine... +People who end up getting captured by those thugs don't tend to get out alive. +I've got to hurry...
 ()||<SE1>Rope</SE1>:Maggie's nails dig into her palms.
 ColtWalker(3)<Speaker>Maggie</Speaker>||:...I'm out of options. +This is a risk I'll have to take.
-NPC-Quimby(0)<Speaker>Quimby</Speaker><通讯框>||:<color=#00CCFF>What are you planning to do?</color>
+NPC-Quimby(0)<Speaker>Quimby</Speaker><scan><通讯框>||:<color=#00CCFF>What are you planning to do?</color>
 ()||<SE1>AVG_tele_connect</SE1>:Maggie makes a call.
 ColtWalker(3)<Speaker>Maggie</Speaker>||:...Hey, I'm taking the anonymous case that you told me about.
 ColtWalker(3)<Speaker>???</Speaker><同时置暗>||:<color=#00CCFF>Maggie? I told you, ALL of the Dolls who took the case disappeared! I thought you had enough self-preservation instinct to steer clear of this mess...</color>
@@ -63,7 +63,7 @@ NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<color=#A9A9A9>You've got to be kid
 ()||:The hall is bright, but Catherine's eyes are dull with despair. +She knows that it won't be long till she dies in the crushing depths of the ocean...
 ()||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:Beep. Catherine's comms are back online once she is out of the basement.
 ()||<BGM>m_avg_hope</BGM>:Maggie has left a message.
-ColtWalker(1)<Speaker>Maggie</Speaker><通讯框>||:<color=#00CCFF>Wait for me. I'll think of a way...</color>
+ColtWalker(1)<Speaker>Maggie</Speaker><scan><通讯框>||:<color=#00CCFF>Wait for me. I'll think of a way...</color>
 NPC-Scalper(2)<Speaker>Catherine</Speaker>||:<color=#A9A9A9>Thank goodness... At least Maggie got away...</color> +<color=#A9A9A9>Don't come for me... It's too dangerous...</color>
 ()||:Catherine thinks back on the days she's spent with Maggie and her eyes fill up with tears. +She decides that she must do something for her in her final moment. +She logs onto the bank account that she has only ever put money into and never taken anything out of. She gazes at the figure of her hard-earned savings.
 NPC-Scalper(2)<Speaker>Catherine</Speaker>||:<color=#A9A9A9>Live a good life...</color> +<color=#A9A9A9>For my sake...</color>
@@ -95,13 +95,13 @@ ColtWalker(1)<Speaker>Maggie</Speaker>||:... +Let's get you in the car first.
 ()||<黑屏2><BIN>532</BIN><narrator>:Two years later, Warszawa Centralna Railway Station.
 ()||<SE1>AVG_tele_connect</SE1>:Maggie cheerfully makes a call while lying low in a crowd.
 ColtWalker(1)<Speaker>Maggie</Speaker>||:Catherine, change of plans.
-NPC-Scalper(0)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>Hm?</color>
-NPC-Scalper(0)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:We have to board the train ahead of schedule. Get into position in your carriage now.
-NPC-Scalper(0)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>...Gotcha. What about Quimby?</color>
-NPC-Scalper(0)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Someone has to stay behind and guard our colossal fortune.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>Why couldn't it be me?!</color>
-NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:The job requires someone who's 100% dependable.
-NPC-Scalper(3)<Speaker>Catherine</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>...</color> +<color=#00CCFF>Maggie, we can retire after this job, right?</color>
+NPC-Scalper(0)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>Hm?</color>
+NPC-Scalper(0)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:We have to board the train ahead of schedule. Get into position in your carriage now.
+NPC-Scalper(0)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>...Gotcha. What about Quimby?</color>
+NPC-Scalper(0)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:Someone has to stay behind and guard our colossal fortune.
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>Why couldn't it be me?!</color>
+NPC-Scalper(3)<scan><通讯框>;ColtWalker(1)<Speaker>Maggie</Speaker>||:The job requires someone who's 100% dependable.
+NPC-Scalper(3)<Speaker>Catherine</Speaker><scan><通讯框>;ColtWalker(1)||:<color=#00CCFF>...</color> +<color=#00CCFF>Maggie, we can retire after this job, right?</color>
 ColtWalker(1)<Speaker>Maggie</Speaker>||:There's no retiring for Dolls, just endless reincarnations.
 ()||<SE1>AVG_tele_disconnect</SE1>:Catherine hangs up. +Maggie pulls the brim of her hat lower and blends in with the crowd. +The long intercontinental train is parked at the platform, waiting patiently for the curtain to rise.
 ()||<黑点1>:

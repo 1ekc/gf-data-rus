@@ -21,13 +21,13 @@ NPC-Ambassador(0)<Speaker>Ulrich</Speaker>||:So you're asking that the Soviets r
 NPC-Ambassador(0)<Speaker>Ulrich</Speaker>||:... +You're absolutely right, we need to trust each other now more than ever in the aftermath of the war. I completely understand your concern. +Protecting our country's interests is our common goal, so I will do whatever I can for this noble cause.
 ()<Speaker>Mayor of Bremen</Speaker>||<黑屏1>:Thank you for everything you have done for Bremen and for our country.
 ()||<黑屏2>:...
-NPC-Morridow(1)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>The mayor actually said that?</color>
+NPC-Morridow(1)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>The mayor actually said that?</color>
 NPC-Ambassador(0)<Speaker>Ulrich</Speaker>||:Morridow, what's the situation over there?
-NPC-Morridow(1)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>We just entered the refugee camp. Things have been going well so far...</color>
+NPC-Morridow(1)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>We just entered the refugee camp. Things have been going well so far...</color>
 NPC-Ambassador(0)<Speaker>Ulrich</Speaker>||:Hm, I trust Ange will have no problem keeping things under control. +Your presence should also help stabilize the situation, but right now, we can't be certain of anything. +If the settlement erupts into chaos, make your safety the priority.
-NPC-Morridow(1)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>...Understood, Frau Ulrich.</color> +<color=#00CCFF>Frau Ange is a real pro. She's been neutralizing all kinds of threats very skillfully throughout her investigations.</color> +<color=#00CCFF>However, she is hellbent on capturing the child trafficker in the settlement. No matter how cautious we try to be, I'm afraid a commotion is inevitable.</color>
+NPC-Morridow(1)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>...Understood, Frau Ulrich.</color> +<color=#00CCFF>Frau Ange is a real pro. She's been neutralizing all kinds of threats very skillfully throughout her investigations.</color> +<color=#00CCFF>However, she is hellbent on capturing the child trafficker in the settlement. No matter how cautious we try to be, I'm afraid a commotion is inevitable.</color>
 NPC-Ambassador(0)<Speaker>Ulrich</Speaker>||:You've been working by my side for too long. We only ever see the good side of things—the deceptive façade—because we have little to no real-world experience. +I didn't tell you about the conversation I had with the mayor to put a stop to your operation. I just want you to know that the path to even the slightest bit of progress is always long and winding, and sometimes, the price for progress is far beyond what you can imagine. +Our goal is to build a world of peace. Before we have peace, we must experience the cruelty of war.
-NPC-Morridow(1)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Yes, Frau Ulrich, I will do my utmost best.</color>
+NPC-Morridow(1)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, Frau Ulrich, I will do my utmost best.</color>
 NPC-Ambassador(0)<Speaker>Ulrich</Speaker>||<黑屏1>:Whatever the outcome of this capture operation, tell Ange to get in touch with me once you leave the settlement. +There are certain matters that we can attend to only after this is over.
 ()||<BIN>168</BIN><黑屏2>:...
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:How are things on your end?
@@ -39,23 +39,23 @@ AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:Ange, take a look a
 NPC-Morridow(1)<Speaker>Morridow</Speaker>||:Police from the MEK? +So it wasn't the GIP? +Then why were they following us?
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:IDs can be falsified, but this insignia is the real deal. +Also, just because they're police doesn't mean they don't work for the GIP. +Looks like corruption runs a lot deeper in the local public service than we first imagined.
 NPC-Keven(0)<Speaker>J</Speaker>||:Save me your schadenfreude. This is exactly why we're needed for the job.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Ange, enemy reinforcements are heading this way.</color>
+AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Ange, enemy reinforcements are heading this way.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Got it. We're getting out of here.
 ()||:A group of people rush toward the alley. Ange pulls Morridow further down the passageway. +AK-12 turns into another alley and disappears. +Their new pursuers stop to examine the unconscious MEK officers and report their findings through the comms while cautiously keeping an eye on their surroundings. +In the end, probably intimidated by their enemies' strength, they decide to give up the chase and withdraw with their unconscious colleagues. 
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:The cops have left the alley.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:They gave up then. Smart choice. +Alright. Renate, sit rep.
-RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>The HVT has entered the Refugee Support Center indicated on our map. It looks like a church.</color> +<color=#00CCFF>I'm detecting multiple human bio signs on the second floor. He's not alone.</color>
+RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>The HVT has entered the Refugee Support Center indicated on our map. It looks like a church.</color> +<color=#00CCFF>I'm detecting multiple human bio signs on the second floor. He's not alone.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Seal off the back door. Don't let them escape. +J, Hopps, do you copy?
 NPC-Keven(0)<Speaker>J</Speaker>||:What do you need?
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:The HVT's location has been confirmed. He's in the Refugee Support Center. You two approach from the southeast and I'll enter the church from the northwest. DEFY will cut them off. +Don't give yourselves away. We need this guy alive.
 NPC-Keven(0)<Speaker>J</Speaker>||:I can handle that, but make sure you don't beat him to death, big oaf.
 NPC-Hopps(0)<Speaker>Hopps</Speaker>||:I will capture this man myself.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Lucia, watch the front entrance. Don't let anyone out.</color>
-AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Are you sure about this?</color> +<color=#00CCFF>The capture will likely go better if you leave that to us.</color>
+AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Are you sure about this?</color> +<color=#00CCFF>The capture will likely go better if you leave that to us.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>You need to secure the perimeter of the church. Compared to Powell, I'm more worried about the cops of questionable allegiance.</color>
-AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Understood.</color> +<color=#00CCFF>We've lost our stalkers, but the refugees nearby have started gathering this way. This doesn't look entirely natural.</color>
+AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Understood.</color> +<color=#00CCFF>We've lost our stalkers, but the refugees nearby have started gathering this way. This doesn't look entirely natural.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Aide summoned by the HVT?</color>
-AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>I'm not sure. They aren't displaying any hostile behavior, but they could be tipping others off about our location.</color> +<color=#00CCFF>We will try our best to avoid getting spotted as we relocate to a new observation point.</color>
+AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>I'm not sure. They aren't displaying any hostile behavior, but they could be tipping others off about our location.</color> +<color=#00CCFF>We will try our best to avoid getting spotted as we relocate to a new observation point.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Copy that.</color>
 ()||<BGM>BGM_Brain</BGM>:Ange drags Morridow along as they dart through alleys and passageways. She can clearly tell that there are more refugees out and about than before. +These people eye the two women quizzically and expectantly.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Why are there more and more of them...?
@@ -63,7 +63,7 @@ NPC-Morridow(1)<Speaker>Morridow</Speaker>||:It's almost noon. The Refugee Suppo
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:What? +Why didn't you tell me something so important?
 NPC-Morridow(1)<Speaker>Morridow</Speaker>||:Huh? Is it important? +...You didn't ask.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:It's not a good idea to snatch someone in broad daylight...
-NPC-Hopps(0)<Speaker>Hopps</Speaker><通讯框>||:<color=#00CCFF>Ange, we're to the southeast of the church. Where are you?</color>
+NPC-Hopps(0)<Speaker>Hopps</Speaker><scan><通讯框>||:<color=#00CCFF>Ange, we're to the southeast of the church. Where are you?</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>We're almost in position as well. Stand by where you are.</color>
 ()||:Ange and Morridow exit the alley and the church that's being used as the Refugee Support Center comes into view. +There aren't that many wandering refugees here, but the two women stick out too much because of their appearance. +Ange was going to leave Morridow outside, but she changes her mind and decides to bring her along.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Are you familiar with this building?
@@ -79,9 +79,9 @@ NPC-Morridow(1)<Speaker>Morridow</Speaker>||:Oh... That's not what I mean.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:In that case, leave this to me. +Don't make a peep and just stay close to me, okay?
 ()||<黑点1><BGM>BGM_Sneak</BGM>:Morridow nods uncertainly. +Ange pulls out her pistol and vaults through the window quietly into the building with Morridow.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||<BIN>270</BIN><黑点2>:<color=#00CCFF>We're in. There are two staircases with access to the second floor. You two take over the one on the other side.</color> +<color=#00CCFF>I will capture the HVT when the timing is right.</color>
-NPC-Hopps(0)<Speaker>Hopps</Speaker><通讯框>||:<color=#00CCFF>None of us knows what's waiting for us in there.</color> +<color=#00CCFF>Frau Ulrich reminded me once again after learning what happened before that we mustn't let you put yourself in too much danger.</color> +<color=#00CCFF>Let me take the lead.</color>
+NPC-Hopps(0)<Speaker>Hopps</Speaker><scan><通讯框>||:<color=#00CCFF>None of us knows what's waiting for us in there.</color> +<color=#00CCFF>Frau Ulrich reminded me once again after learning what happened before that we mustn't let you put yourself in too much danger.</color> +<color=#00CCFF>Let me take the lead.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>No, I want to catch that bastard myself.</color> +<color=#00CCFF>Take control of the staircase on the other end. That's an order.</color>
-NPC-Hopps(0)<Speaker>Hopps</Speaker><通讯框>||:<color=#00CCFF>...Roger.</color>
+NPC-Hopps(0)<Speaker>Hopps</Speaker><scan><通讯框>||:<color=#00CCFF>...Roger.</color>
 ()||:Ange creeps toward the bottom of the stairs. She gestures for Morridow to remain where she is and starts ascending cautiously. +The thick floorboards creak softy under her slow footsteps. As she gets closer to the second floor, she can clearly overhear someone having a conversation.
 ()||:...
 ()<Speaker>Male Voice</Speaker>||:...Is my contact still not here? +I'm already being followed! +This isn't what we agreed on!
@@ -102,33 +102,33 @@ NPC-Ange(2)<Speaker>Angelia</Speaker>||:Behind you? What rotten luck. +J, check 
 NPC-Keven(0)<Speaker>J</Speaker>||:It's empty. Do we go down the ladder and maintain pursuit?
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:No, unless you want to die.
 NPC-Keven(0)<Speaker>J</Speaker>||:Fine, forget I asked.
-AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Watch out, Ange. The refugees outside heard the gunshots and are gathering outside the church.</color> +<color=#00CCFF>They have the building completely surrounded. I suggest you stay put inside.</color>
+AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Watch out, Ange. The refugees outside heard the gunshots and are gathering outside the church.</color> +<color=#00CCFF>They have the building completely surrounded. I suggest you stay put inside.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Crap...</color> +<color=#00CCFF>Hopps, get Morridow up here.</color> +<color=#00CCFF>Then lock all the doors and windows.</color>
-NPC-Hopps(0)<Speaker>Hopps</Speaker><通讯框>||:<color=#00CCFF>On it.</color> +<color=#00CCFF>Some refugees tried to break into the lobby. I scared them off with my gun.</color>
+NPC-Hopps(0)<Speaker>Hopps</Speaker><scan><通讯框>||:<color=#00CCFF>On it.</color> +<color=#00CCFF>Some refugees tried to break into the lobby. I scared them off with my gun.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Make sure no one gets in.</color> +<color=#00CCFF>If they charge in as a group, we can't hold them off with our armament.</color>
-NPC-Hopps(0)<Speaker>Hopps</Speaker><通讯框>||:<color=#00CCFF>I'll do my best.</color>
-AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Do you have the HVT?</color>
+NPC-Hopps(0)<Speaker>Hopps</Speaker><scan><通讯框>||:<color=#00CCFF>I'll do my best.</color>
+AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Do you have the HVT?</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>No, the capture failed. The target escaped through the cellar.</color> +<color=#00CCFF>Renate, can you spot the HVT?</color>
-RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Ange messed up. How unusual.</color>
+RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Ange messed up. How unusual.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Answer me!</color>
-RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>I'll try to find him, but the refugees around us are getting uncomfortably close.</color> +<color=#00CCFF>Permission to intimidate them with our weapons?</color>
+RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>I'll try to find him, but the refugees around us are getting uncomfortably close.</color> +<color=#00CCFF>Permission to intimidate them with our weapons?</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Permission granted, but don't fire unless you absolutely have to.</color> 
-RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>We will respond in an appropriately friendly manner.</color> +<color=#00CCFF>Still, the refugees around the church are getting rowdy. They seem very angry about the lack of rations today.</color> +<color=#00CCFF>If they get their hands on you, they'll probably make a delicious lunch out of you.</color>
+RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>We will respond in an appropriately friendly manner.</color> +<color=#00CCFF>Still, the refugees around the church are getting rowdy. They seem very angry about the lack of rations today.</color> +<color=#00CCFF>If they get their hands on you, they'll probably make a delicious lunch out of you.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Thanks for the warning. Capture the HVT and bring him to the church.</color> +<color=#00CCFF>I will hunker down here with these bumbling dunces. This will also be our extraction point.</color> +<color=#00CCFF>Take Erwin with you. Lucia and Antje, keep the situation outside under control.</color>
-AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Copy that.</color>
-RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Didn't you just give a grand speech about not exploiting Dolls? Now you're leaving the nastiest job to us.</color>
+AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Copy that.</color>
+RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Didn't you just give a grand speech about not exploiting Dolls? Now you're leaving the nastiest job to us.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Oh please, I know you enjoy it.</color>
-RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>By the way, Powell just has to be alive when I bring him to you, right?</color>
+RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>By the way, Powell just has to be alive when I bring him to you, right?</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:<color=#00CCFF>I have no complaints as long as he can speak. Otherwise, do as you please.</color>
-RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Hahaha... I was hoping you'd say that.</color>
+RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Hahaha... I was hoping you'd say that.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:J, what have you found?
 NPC-Keven(0)<Speaker>J</Speaker>||:Powell's ledger, contact list, and memo pad. +I'm sure these will help us dig up a bunch of people. +Hard to believe he has all this important evidence just lying around in the room.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:He probably didn't expect anyone to take down his meat shields and gatecrash his den.
 NPC-Keven(0)<Speaker>J</Speaker>||:True, bulldozers like you aren't too common... +You really are made of sterner stuff to have made it out alive of that submarine base. +Don't look at me like that, the entire Stasi knows about your daring escapade with K.
-RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Ange, we've once again located the HVT.</color> +<color=#00CCFF>He has emerged in the residential area and is moving south.</color> +<color=#00CCFF>He is taking cover among a group of refugees, and the ones around us are getting restless.</color> +<color=#00CCFF>I don't think they want us to be snooping around.</color> +<color=#00CCFF>Erwin, give them a glimpse of your combat knife.</color> +<color=#00CCFF>...</color> +<color=#00CCFF>Okay, they now have no problem with our snooping around.</color> +<color=#00CCFF>But we'd better be on our way. Lucia, do you have visuals on the HVT's location?</color>
-AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>One moment, establishing visual link.</color> +<color=#00CCFF>Right, that's him. We'll keep observing the HVT. You now have his real-time coordinates.</color> +<color=#00CCFF>You'd better hurry. I have a feeling that things are going to get worse the longer this drags on.</color>
-RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>Understood. Finally, we can take credit for a capture.</color> +<color=#00CCFF>It was always you who got all the glory. Erwin isn't too pleased about that.</color>
-AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><通讯框>||:<color=#00CCFF>You mean YOU are not too pleased about that. As if Erwin would care about this kind of thing.</color>
+RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Ange, we've once again located the HVT.</color> +<color=#00CCFF>He has emerged in the residential area and is moving south.</color> +<color=#00CCFF>He is taking cover among a group of refugees, and the ones around us are getting restless.</color> +<color=#00CCFF>I don't think they want us to be snooping around.</color> +<color=#00CCFF>Erwin, give them a glimpse of your combat knife.</color> +<color=#00CCFF>...</color> +<color=#00CCFF>Okay, they now have no problem with our snooping around.</color> +<color=#00CCFF>But we'd better be on our way. Lucia, do you have visuals on the HVT's location?</color>
+AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>One moment, establishing visual link.</color> +<color=#00CCFF>Right, that's him. We'll keep observing the HVT. You now have his real-time coordinates.</color> +<color=#00CCFF>You'd better hurry. I have a feeling that things are going to get worse the longer this drags on.</color>
+RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Understood. Finally, we can take credit for a capture.</color> +<color=#00CCFF>It was always you who got all the glory. Erwin isn't too pleased about that.</color>
+AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>You mean YOU are not too pleased about that. As if Erwin would care about this kind of thing.</color>
 NPC-Hopps(0)<Speaker>Hopps</Speaker>||:Ange, can your Doll squad come and give us some support?
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:I've left two nearby outside the church; the other pair are pursuing Powell. +He's heading south and the refugees are covering his escape.
 NPC-Keven(0)<Speaker>J</Speaker>||:I thought Powell was an undesirable figure here, but the opposite seems to be true?

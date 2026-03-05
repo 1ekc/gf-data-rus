@@ -1,18 +1,18 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>657</BIN><BGM>Campaion-58-3</BGM>:...Purification System Control Zone.
-NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>Well? Have you found it?</color>
+NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>Well? Have you found it?</color>
 RO635Mod(2)<Speaker>RO635</Speaker>||:...
 ()<Speaker></Speaker>||:RO635 stares at the machinery running smoothly in front of her.
 RO635Mod(2)<Speaker>RO635</Speaker>||:I found the purification system on this floor, but it's working perfectly fine, and it's got plenty of power.
-NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>Huh?</color>
-NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>Send me the operation logs.</color>
+NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>Huh?</color>
+NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>Send me the operation logs.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:Done.
-NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 RO635Mod(2)<Speaker>RO635</Speaker>||:What is it? Is something wrong with it after all?
-NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>The purification system in this lab is dependent on the central control room. The power supply has been cut off over there...</color>
+NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>The purification system in this lab is dependent on the central control room. The power supply has been cut off over there...</color>
 RO635Mod(4)<Speaker>RO635</Speaker>||:So as a result, the purification system of the entire lab has also stopped running?
-NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>That's right. Also, the system cannot be activated from here. It can only be done in the central control room.</color> +<color=#00CCFF>There is only one explanation for turning off the purification system... The people here are no longer needed...</color>
+NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>That's right. Also, the system cannot be activated from here. It can only be done in the central control room.</color> +<color=#00CCFF>There is only one explanation for turning off the purification system... The people here are no longer needed...</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||<黑点1>:... +In that case, there is only one thing to do... +We must get Ange out of here before the radiation levels go through the roof.
 ()<Speaker></Speaker>||<黑点2><SE1>RunStep</SE1>:RO635 sprints down the corridor. She is so anxious she doesn't even notice that the place is now completely deserted...
-NPC-Koleda(0)<Speaker>Koleda</Speaker><通讯框>||:<color=#00CCFF>RO.</color> +<color=#00CCFF>Get back here.</color> +<color=#00CCFF>Ange is awake.</color>
+NPC-Koleda(0)<Speaker>Koleda</Speaker><scan><通讯框>||:<color=#00CCFF>RO.</color> +<color=#00CCFF>Get back here.</color> +<color=#00CCFF>Ange is awake.</color>
 ()||<黑屏1>:

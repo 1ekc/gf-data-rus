@@ -66,48 +66,48 @@ NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>||:Get the hell out 
 LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:Yes, ma'am!
 ()||<SE1>AVG_Team_Running</SE1><BGM>BGM_Empty</BGM>:LAMG and her teammates disappear into the dense woods and join in on the cacophony of gunfire in the distance. +Ange rolls out of her hammock and steps onto the soft soil covered in a thick layer of fallen leaves with bare feet. +After having a good stretch, she finally accepts the comms request that has been pending for a while.
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:Report.
-NPC-Ange(10)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||<BGM>10301</BGM>:<color=#00CCFF>Commander, as per your request, we have secured the confidential file before all Griffin squads.</color>
-NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:Good. Are you still under the radar?
-NPC-Ange(10)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>I believe so...</color>
-NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:What's with the hesitation?
-NPC-Ange(12)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>One of our escape routes is occupied by a Griffin squad...</color> +<color=#00CCFF>There are five of them, led by LAMG.</color>
-NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:You have intel on them, so what are you afraid of? +Go ahead and make your move before they spot you.
-NPC-Ange(10)<Position>0,25</Position>;M4A1(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>But...</color>
-NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(3)<通讯框>||:Hm?
-NPC-Ange(12)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>We're from the same base... How could we attack our allies...?</color>
-NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:Huh, you've never met. They're completely unaware of the AR Team's existence.
-NPC-Ange(10)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>This does not sit right with me. We should be protecting our allies...</color>
-NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:Even if doing so would botch the mission?
-M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>I...</color>
+NPC-Ange(10)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><scan><通讯框>||<BGM>10301</BGM>:<color=#00CCFF>Commander, as per your request, we have secured the confidential file before all Griffin squads.</color>
+NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<scan><通讯框>||:Good. Are you still under the radar?
+NPC-Ange(10)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>I believe so...</color>
+NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<scan><通讯框>||:What's with the hesitation?
+NPC-Ange(12)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>One of our escape routes is occupied by a Griffin squad...</color> +<color=#00CCFF>There are five of them, led by LAMG.</color>
+NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<scan><通讯框>||:You have intel on them, so what are you afraid of? +Go ahead and make your move before they spot you.
+NPC-Ange(10)<Position>0,25</Position>;M4A1(3)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>But...</color>
+NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(3)<scan><通讯框>||:Hm?
+NPC-Ange(12)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>We're from the same base... How could we attack our allies...?</color>
+NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<scan><通讯框>||:Huh, you've never met. They're completely unaware of the AR Team's existence.
+NPC-Ange(10)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>This does not sit right with me. We should be protecting our allies...</color>
+NPC-Ange(13)<Speaker>Ange</Speaker><Position>0,25</Position>;M4A1(0)<scan><通讯框>||:Even if doing so would botch the mission?
+M4A1(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>I...</color>
 ()||:Ange lets out a sigh. She can already hear the approaching footsteps and gunshots on M4's end.
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:Fine. Stand by in position.
-M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>Roger...</color>
+M4A1(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Roger...</color>
 ()||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Ange hangs up and issues LAMG a new command— +Abort the attack and retreat immediately. +After that, she opens the training plan designed for the AR Team. They are absolutely brilliant in their training simulations, but their performance in actual combat can only be described as pathetic.
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||<BGM>10213</BGM>:... +Have you received the combat logs?
-NPC-Ange(10)<Position>0,25</Position>;NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Yep, I've gone through all of them. I have a question—</color> +<color=#00CCFF>Do you not know how to command the AR Team?</color>
-NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(0)<通讯框>||:Are you questioning my ability as a commander?
-NPC-Ange(12)<Position>0,25</Position>;NPC-Persica(3)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>No, not at all.</color> +<color=#00CCFF>The AR Team is special. What works on other Dolls may not work on them.</color>
-NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(3)<通讯框>||:I only have one way of commanding Dolls—they do as I say.
-NPC-Ange(14)<Position>0,25</Position>;NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I know, but out of all the Dolls on the AR Team, M4 is especially different. That child is very much like a human.</color> +<color=#00CCFF>This means that she can make very human mistakes, such as letting emotions get the better of her.</color>
-NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(2)<通讯框>||:I don't know much about Doll tech. All I care about is if she can complete her missions. +Judging by her current stats, I think it's better if she stays in your lab and off the battlefield.
-NPC-Ange(14)<Position>0,25</Position>;NPC-Persica(2)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>Don't be so quick to judge, Commander Angelia. This is only the beginning.</color>
-NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(2)<通讯框>||:Suit yourself. As long as our deal still stands.
-NPC-Ange(12)<Position>0,25</Position>;NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>But of course. That has been the agreement since day one.</color> +<color=#00CCFF>You take charge of the AR Team, and I'll get you your monthly outings.</color>
-NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(0)<通讯框>||:Which reminds me—it's almost time for my outing this month. How is the paperwork coming along?
-NPC-Ange(10)<Position>0,25</Position>;NPC-Persica(1)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I'm on it, I'm on it. Gotta go now.</color>
+NPC-Ange(10)<Position>0,25</Position>;NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Yep, I've gone through all of them. I have a question—</color> +<color=#00CCFF>Do you not know how to command the AR Team?</color>
+NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(0)<scan><通讯框>||:Are you questioning my ability as a commander?
+NPC-Ange(12)<Position>0,25</Position>;NPC-Persica(3)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>No, not at all.</color> +<color=#00CCFF>The AR Team is special. What works on other Dolls may not work on them.</color>
+NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(3)<scan><通讯框>||:I only have one way of commanding Dolls—they do as I say.
+NPC-Ange(14)<Position>0,25</Position>;NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I know, but out of all the Dolls on the AR Team, M4 is especially different. That child is very much like a human.</color> +<color=#00CCFF>This means that she can make very human mistakes, such as letting emotions get the better of her.</color>
+NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(2)<scan><通讯框>||:I don't know much about Doll tech. All I care about is if she can complete her missions. +Judging by her current stats, I think it's better if she stays in your lab and off the battlefield.
+NPC-Ange(14)<Position>0,25</Position>;NPC-Persica(2)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Don't be so quick to judge, Commander Angelia. This is only the beginning.</color>
+NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(2)<scan><通讯框>||:Suit yourself. As long as our deal still stands.
+NPC-Ange(12)<Position>0,25</Position>;NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>But of course. That has been the agreement since day one.</color> +<color=#00CCFF>You take charge of the AR Team, and I'll get you your monthly outings.</color>
+NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-Persica(0)<scan><通讯框>||:Which reminds me—it's almost time for my outing this month. How is the paperwork coming along?
+NPC-Ange(10)<Position>0,25</Position>;NPC-Persica(1)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I'm on it, I'm on it. Gotta go now.</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:Alright.
 ()||<SE1>AVG_tele_disconnect</SE1>:Persica ends the call, but Ange is in no hurry to leave the comms channel. She strokes her chin and taps the communicator with her fingers leisurely.
 ()<Speaker>???</Speaker>||:<color=#00CCFF>Tsk.</color>
 NPC-Ange(11)<Speaker>Ange</Speaker><Position>0,25</Position>||:Why, hello. How does it feel, eavesdropping on your competitor?
-NPC-Ange(11)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>So that's what she offered you...</color> +<color=#00CCFF>No wonder you abandoned the Wolf Pack and took on the AR Team.</color>
-NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:I told you, I don't care what team I command as long as they can get the job done.
-NPC-Ange(10)<Position>0,25</Position>;NPC-shaw(5)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>From what I heard, the AR Team isn't up to your standard.</color>
-NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(5)<通讯框>||:... +Even Dolls have room to grow.
-NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(2)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>Persica's offer must be very tempting.</color>
-NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(2)<通讯框>||:...
-NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(2)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>What exactly do you plan on doing away from Griffin?</color>
-NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(2)<通讯框>||:This has nothing to do with our deal.
-NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>Fine, as long as you're sure it won't affect anything else.</color> +<color=#00CCFF>I've sent you your new assignment. You know the drill.</color>
+NPC-Ange(11)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>So that's what she offered you...</color> +<color=#00CCFF>No wonder you abandoned the Wolf Pack and took on the AR Team.</color>
+NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(0)<scan><通讯框>||:I told you, I don't care what team I command as long as they can get the job done.
+NPC-Ange(10)<Position>0,25</Position>;NPC-shaw(5)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>From what I heard, the AR Team isn't up to your standard.</color>
+NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(5)<scan><通讯框>||:... +Even Dolls have room to grow.
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(2)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>Persica's offer must be very tempting.</color>
+NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(2)<scan><通讯框>||:...
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(2)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>What exactly do you plan on doing away from Griffin?</color>
+NPC-Ange(12)<Speaker>Ange</Speaker><Position>0,25</Position>;NPC-shaw(2)<scan><通讯框>||:This has nothing to do with our deal.
+NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(0)<Speaker>Shaw</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>Fine, as long as you're sure it won't affect anything else.</color> +<color=#00CCFF>I've sent you your new assignment. You know the drill.</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||<黑屏1>:No problem.
 ()||<黑屏2><BIN>83</BIN><BGM>BGM_Empty</BGM>:...Parking lot, Griffin base.
 ()||<SE1>AVG_brake</SE1>:A dusty off-road vehicle speeds over and comes to an abrupt halt in a parking space after drifting wildly.

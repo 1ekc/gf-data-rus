@@ -19,10 +19,10 @@ SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Поняла... Я соглас�
 ()||<闪屏><duration>5</duration></闪屏><BIN>99</BIN>:
 SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:Аааааааааааааааааааааааааааааааа—!
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Это... это сработало... +Этот голос только что... Это была ты, М16? Ты всё ещё жива?!
-M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>В некотором смысле, да.</color>
+M16A1BOSS(0)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>В некотором смысле, да.</color>
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:Это замечательно! +Подожди минутку!
 SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:...Твой сигнал определения "свой-чужой" красный... это сигнал Сангвис?!
-SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>...</color>
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:Что происходит, М16?!
 SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑点1>:<color=#00CCFF>Не переживай об этом. Я взламываю твою систему передачи данных. Я не смогу долго это продолжать.</color>+<color=#00CCFF>Я отметила несколько точек на твоей карте. Найди способ добраться туда.</color>
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>10</BIN><黑点2>:M16 работает с С.Ф. +Должна ли я... ей доверять...?

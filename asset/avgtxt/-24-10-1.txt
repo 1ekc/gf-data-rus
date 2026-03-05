@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><BGM>BGM_Room</BGM><黑屏1><黑屏2>:...Клик.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Всем привет!</color>+<color=#00CCFF>Хотя я не знаю, который час. Ты же не против, да?</color>
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Всем привет!</color>+<color=#00CCFF>Хотя я не знаю, который час. Ты же не против, да?</color>
 BOSS-1(0)<Speaker>Пугало</Speaker>;SOPIIDamage(0)||:Итак, ты пришла сдаться?
 BOSS-1(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Пугало, я пришла договориться.</color>+<color=#00CCFF>В нынешних условиях нам нужно спокойно...</color>
 BOSS-1(0)<Speaker>Пугало</Speaker>;SOPIIDamage(0)||:С тобой нет смысла объединяться.

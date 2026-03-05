@@ -68,15 +68,15 @@ NPC-Ange(22)<Speaker>Ange</Speaker>||:...So this is how you take care of my need
 NPC-Light(1)<Speaker>Agent U</Speaker>||:Apologies... Introductions are indeed in order. +As you can see, I'm a Stasi agent.
 NPC-Ange(22)<Speaker>Ange</Speaker>||:...Yeah, you may as well introduce yourself after I die.
 AK12(3)<Position>0,50</Position><Speaker>AK-12</Speaker>||:I've got K on the comms!
-NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>...You crossed the line.</color>
-NPC-Ange(19)<Speaker>Ange</Speaker>;NPC-Jason(2)<通讯框>||:Haven't I been working with one of your fellow agents?
-NPC-Ange(19);NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>...Ange, you picked the wrong side. Q and whoever's behind her are collaborators of the White Faction.</color> +<color=#00CCFF>She is also involved in arms trafficking.</color>
-NPC-Ange(19)<Speaker>Ange</Speaker>;NPC-Jason(2)<通讯框>||:I have no time for your infighting!
-NPC-Ange(19);NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>We have orders from above to erase all information about Q.</color>
+NPC-Jason(2)<scan><通讯框><Speaker>K</Speaker>||:<color=#00CCFF>...You crossed the line.</color>
+NPC-Ange(19)<Speaker>Ange</Speaker>;NPC-Jason(2)<scan><通讯框>||:Haven't I been working with one of your fellow agents?
+NPC-Ange(19);NPC-Jason(2)<scan><通讯框><Speaker>K</Speaker>||:<color=#00CCFF>...Ange, you picked the wrong side. Q and whoever's behind her are collaborators of the White Faction.</color> +<color=#00CCFF>She is also involved in arms trafficking.</color>
+NPC-Ange(19)<Speaker>Ange</Speaker>;NPC-Jason(2)<scan><通讯框>||:I have no time for your infighting!
+NPC-Ange(19);NPC-Jason(2)<scan><通讯框><Speaker>K</Speaker>||:<color=#00CCFF>We have orders from above to erase all information about Q.</color>
 NPC-Ange(19)<Speaker>Ange</Speaker>;NPC-Jason(2)||:...
-NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>Any last words?</color>
+NPC-Jason(2)<scan><通讯框><Speaker>K</Speaker>||:<color=#00CCFF>Any last words?</color>
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Go f*ck yourself.
-NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>Duly noted.</color>
+NPC-Jason(2)<scan><通讯框><Speaker>K</Speaker>||:<color=#00CCFF>Duly noted.</color>
 ()||<SE1>AVG_tele_disconnect</SE1>:The call disconnects.
 NPC-Light(0)<Speaker>Agent U</Speaker>||:I'm very sorry, Miss Angelia. There was a time when I wanted to become someone like you. +But we ended up on opposing sides. +So... I'll see you in the brave new world.
 ()||<SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:Bang!

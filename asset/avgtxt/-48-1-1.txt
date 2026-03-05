@@ -44,13 +44,13 @@ NytoWhite(0)<Speaker>White Nyto</Speaker>||:...
 ()<Speaker></Speaker>||<黑屏2><BGM>BGM_Truth</BGM><BIN>239</BIN><Night>:... +The mansion is surrounded by Stasi barricade tape. Not even the Berlin police is authorized to investigate this crime scene. +Stasi agents can be glimpsed standing watch against trespasses by busybody reporters and other individuals.
 ()||<黑屏1>:
 NPC-Keven(4)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:—I don't understand. +This case has always been mine, so why can't I investigate it? +You came running back all of sudden and took it over without saying a word. +And now you're freezing me out? What the hell is wrong with you, Schwaben?
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>... Calm down, J. </color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>... Calm down, J. </color>
 ()<Speaker></Speaker>||:The image of K in the communicator pauses for a moment to choose his words carefully.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>First of all, opinions in the Ministry are divided on this case, as I'm sure you already know. </color> +<color=#00CCFF>While you're certain that it must have been Paradeus who attacked Light and Angelia, that's not what the scene looks like to us. </color> +<color=#00CCFF>Other than our people, the only remains we found are those of the Soviet Dolls. There isn't even a trace of these Paradeus forces!</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>First of all, opinions in the Ministry are divided on this case, as I'm sure you already know. </color> +<color=#00CCFF>While you're certain that it must have been Paradeus who attacked Light and Angelia, that's not what the scene looks like to us. </color> +<color=#00CCFF>Other than our people, the only remains we found are those of the Soviet Dolls. There isn't even a trace of these Paradeus forces!</color>
 NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:So what?! Do you actually believe those stupid bastards, huh?! +"Angelia attacked Light and ran off," is that it?! +Do you actually believe that bullshit?!
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>It doesn't matter what I believe!</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>It doesn't matter what I believe!</color>
 ()<Speaker></Speaker>||:K finds himself unconsciously raising his voice to quell J's hysteria.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>The problem doesn't lie with Angelia. There have always been people harboring hostility to the Soviets. </color> +<color=#00CCFF>It's not like they appeared out of nowhere, so why are you so surprised?</color> +<color=#00CCFF>Also, nothing is conclusive right now! Nobody's got a clear-cut answer!</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>The problem doesn't lie with Angelia. There have always been people harboring hostility to the Soviets. </color> +<color=#00CCFF>It's not like they appeared out of nowhere, so why are you so surprised?</color> +<color=#00CCFF>Also, nothing is conclusive right now! Nobody's got a clear-cut answer!</color>
 NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:Then let me look into it! This is the last night we have! +They'll be handing over the premises tomorrow, and then there really will be nothing we can do!
 NPC-Keven(4);NPC-Jason(4)<Speaker>K</Speaker>||:<color=#00CCFF>No!</color>
 NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:...Why not?
@@ -59,7 +59,7 @@ NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:So you're saying we should just 
 NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:<color=#00CCFF>Yes. That is what our new director intends. </color>
 NPC-Keven(5)<Speaker>J</Speaker>||:(Scoffs) Looks like the new boss is throwing his weight around to show he means business.
 ()<Speaker></Speaker>||:J doesn't even bother hiding his derision.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I only want the best for you. </color> +<color=#00CCFF>This is a sensitive period, so don't be foolish—</color>
+NPC-Jason(2)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I only want the best for you. </color> +<color=#00CCFF>This is a sensitive period, so don't be foolish—</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click—the call ends.
 ()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:Thud! J squeezes his communicator and pounds the steering wheel.
 NPC-Keven(5)<Speaker>J</Speaker>||:...Don't be foolish? +You're the fool here, Schwaben.

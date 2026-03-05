@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-JS9mm(2)<Speaker>JS9</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>m_avg_casual</BGM><黑屏2><BIN>139</BIN>:<color=#00CCFF>Attention everyone, we're opening the doors now!</color>
+JS9mm(2)<Speaker>JS9</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>m_avg_casual</BGM><黑屏2><BIN>139</BIN>:<color=#00CCFF>Attention everyone, we're opening the doors now!</color>
 JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:I haven't finished setting up yet and they're already letting the guests in...+Now where should I put this big cabinet?
 JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>Sorry, DP-12. Do you have something that needs putting away?</color>+<color=#00CCFF>I'll come over in a bit to help you, so please hang in there!</color>
 JS9mm(2);DP12(2)<Speaker>DP-12</Speaker>||:I'll be fine, just leave this place to me.+Relax, JS9.

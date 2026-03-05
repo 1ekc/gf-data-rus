@@ -59,7 +59,7 @@ Vector(0)<Speaker>琪亚娜</Speaker>||:呿，你这家伙，说是为人类服�
 Vector(0)<Speaker>Vector</Speaker>||:（冷笑）所以我才不讨人喜欢呢，而且现在你不得不依赖我了哦。+（自言自语）很好，拨出去了。
 Vector(0)<Speaker></Speaker>||:……滴。
 Vector(0)<Speaker>Vector</Speaker>||:Vector呼叫PP90，Vector呼叫PP90——
-Vector(0);PP90(0)<Speaker>PP90</Speaker><通讯框>||:V……Vivi？
+Vector(0);PP90(0)<Speaker>PP90</Speaker><scan><通讯框>||:V……Vivi？
 Vector(0);PP90(0)<Speaker>PP90</Speaker>||<震屏>:Vivivivivivivivi——！
 琪亚娜()<Speaker>琪亚娜</Speaker>||:性格有问题的人形之后，是口齿有问题的人形吗……
 Vector(0);PP90(0)<Speaker>PP90</Speaker>||:是你修好的通讯系统吗！是吗是吗！
@@ -82,5 +82,5 @@ Vector(0)<Speaker>Vector</Speaker>||:我们的指挥官发出了信号，人形�
 琪亚娜()<Speaker>琪亚娜</Speaker>||:喂，你！你等等我啊！+真是够了，为什么我要被一个人造人耍得团团转啊！
 ()||<黑屏1>:……琪亚娜跟了上去。
 ()||<黑屏2><BIN>10</BIN>:……同一时间，格里芬的人形梯队，重新开始突围行动。
-PP90(0)<Speaker>PP90</Speaker><通讯框>||:指挥官，我们的梯队休整完毕，可以继续行动了！+另外，Vector正在与我们会合中，她在途中还带上了一位人类！+啊……感觉不太像Vivi能做出来的事就是了……+虽然她们两个人应该也能勉强脱险，不过如果您有多余的人手，还是请支援一下她们吧！+好了，简报完毕，指挥官，开始突围作战吧！
+PP90(0)<Speaker>PP90</Speaker><scan><通讯框>||:指挥官，我们的梯队休整完毕，可以继续行动了！+另外，Vector正在与我们会合中，她在途中还带上了一位人类！+啊……感觉不太像Vivi能做出来的事就是了……+虽然她们两个人应该也能勉强脱险，不过如果您有多余的人手，还是请支援一下她们吧！+好了，简报完毕，指挥官，开始突围作战吧！
 ()||<BIN>10</BIN><黑点2>:

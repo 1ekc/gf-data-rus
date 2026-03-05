@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BGM>BGM_Room</BGM><BIN>8</BIN><黑屏2>:Inside the Command Room.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:I didn't expect you to make it back alive, Commander.
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:I didn't expect you to make it back alive, Commander.
 NPC-Havel(0)<Speaker>Commander</Speaker>||:Thanks for your support... Mister Havier.
 NPC-Havel(0)<Speaker>Havier</Speaker>||:Oh, that "Mr." sounds very forced. +You sound like you've got a lot of pent-up frustration, hm?
 NPC-Havel(0)<Speaker>Commander</Speaker>||:Nobody who's completed a mission that you gave would treat you with anything close to politeness.
@@ -24,7 +24,7 @@ NPC-Havel(0)<Speaker>Havier</Speaker>||:That's what the textbooks say, but in my
 NPC-Havel(0)<Speaker>Commander</Speaker>||:Just like what Carter and Yegor were trying to do?
 NPC-Havel(1)<Speaker>Havier</Speaker>||:Carter was once a comrade of mine. Together, we went through one impossible mission after another. +When we were young, I would have gladly thrown myself in the path of any bullet fired at him. +And I have no doubt that if our situations were reversed, he would have done the same for me. +He was once my best friend. +And that is why I could not forgive him.
 ()<Speaker></Speaker>||:Havier sighs on the other end of the connection.
-NPC-Havel(1)<Speaker>Havier</Speaker><通讯框>||:He changed after the war. Many people did. +In times like this, people ought to unite and face the problems before them. +But in the end, not a single person was willing to do so. +Why do you think that was the case, Commander?
+NPC-Havel(1)<Speaker>Havier</Speaker><scan><通讯框>||:He changed after the war. Many people did. +In times like this, people ought to unite and face the problems before them. +But in the end, not a single person was willing to do so. +Why do you think that was the case, Commander?
 NPC-Havel(1)<Speaker>Commander</Speaker>||:Because of hatred and resentment?
 NPC-Havel(1)<Speaker>Havier</Speaker>||:Correct. +Later on, I came to understand that compared to finding a way to pull yourself out of the swamp, it was easier to find someone to hate. +When you unite to collectively hate an imagined enemy, life becomes less painful. +Never mind that nothing has changed, or that nothing has gotten better.
 NPC-Havel(1)<Speaker>Commander</Speaker>||:It just seems so stupid...
@@ -53,7 +53,7 @@ NPC-Havel(0)<Speaker>Commander</Speaker>||:So how should I help her?
 NPC-Havel(0)<Speaker>Havier</Speaker>||:You know, I could ponder that question of yours for a good long time, but unfortunately old folks are easily worn out. +In order to make things easier for you, I'll send the file over. This is all the intel we've managed to gather on our end. Read it and decide how you want to proceed.
 ()<Speaker></Speaker>||:【File Received.】
 指挥官()<Speaker>Commander</Speaker>||:Got it.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||:Oh, and there's one more thing. Persica's been pestering me about wanting to contact you. +She was previously under investigation by Statesec, but she'll finally be allowed back into her lab today. +My guess is that she'll come over to harass you when the time comes.
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||:Oh, and there's one more thing. Persica's been pestering me about wanting to contact you. +She was previously under investigation by Statesec, but she'll finally be allowed back into her lab today. +My guess is that she'll come over to harass you when the time comes.
 NPC-Havel(0)<Speaker>Commander</Speaker>||:Miss Persica... +I'm a little worried about her situation.
 NPC-Havel(0)<Speaker>Havier</Speaker>||:She's doing very well. Much better than you, at least. +However, you DID lose her most precious Doll, so I'm pretty sure she'll be chewing your ear off.
 NPC-Havel(0)<Speaker>Commander</Speaker>||:...I'll explain things to her.

@@ -134,21 +134,21 @@ NPC-Sanaya(0)<Speaker>Susan</Speaker>||:Hahaha... okay, no problem.
 ()<Speaker></Speaker>||<Night><黑屏2><BIN>262</BIN><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:At night, the pond is even quieter than it was during the day. The Commander arrives at a clearing, carefully ensuring there's no place for anyone to hide nearby.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:Hello?
-NPC-Evita_AB(0)<Speaker>Evita</Speaker><通讯框>||:<color=#00CCFF>How did it go?</color>
-NPC-Evita_AB(0)<Speaker>Commander</Speaker><通讯框>||<BGM>GF_EV9_Story</BGM>:It's all confirmed. Doctor Lawrence was indeed murdered.
-NPC-Evita_AB(0)<Speaker>Commander</Speaker><通讯框>||:He had been using his procurement privileges here to make money for himself, and his mistress took a decent cut of that too.
-NPC-Evita_AB(0)<Speaker>Commander</Speaker><通讯框>||:Not long ago, he announced that he was leaving but didn't plan to take her with him. Out of resentment, she got him drunk and pushed him into the pond.
-NPC-Evita_AB(0)<Speaker>Evita</Speaker><通讯框>||:<color=#00CCFF>Is that all?</color>
-NPC-Evita_AB(0)<Speaker>Commander</Speaker><通讯框>||:If I remember correctly, my job was to investigate the cause of Lawrence's death. Beyond that, I didn't dig further.
-NPC-Evita_AB(0)<Speaker>Evita</Speaker><通讯框>||:<color=#00CCFF>Did Lawrence leave behind anything?</color>
-NPC-Evita_AB(0)<Speaker>Commander</Speaker><通讯框>||:As far as I know, all of his belongings are still in his home, waiting for your team to come sort them.
-NPC-Evita_AB(0)<Speaker>Evita</Speaker><通讯框>||:<color=#00CCFF>Anything else?</color>
-NPC-Evita_AB(0)<Speaker>Commander</Speaker><通讯框>||<CGDelay>0.5</CGDelay>:What do you mean?
-NPC-Evita_AB(0)<Speaker>Evita</Speaker><通讯框>||:<color=#00CCFF>Never mind.</color>
-NPC-Evita_AB(0)<Speaker>Evita</Speaker><通讯框>||:<color=#00CCFF>You did well. You'll receive the promised payment.</color>
-NPC-Evita_AB(0)<Speaker>Commander</Speaker><通讯框>||:Thanks.
-NPC-Evita_AB(0)<Speaker>Evita</Speaker><通讯框>||:<color=#00CCFF>One more thing—I heard there was a recent raid on the clinic. A lot of supplies were stolen.</color>
-NPC-Evita_AB(0)<Speaker>Evita</Speaker><通讯框>||:<color=#00CCFF>I'm sending you the coordinates of the raiders' hideout. I hope you can go "check in" on them tomorrow.</color>
+NPC-Evita_AB(0)<Speaker>Evita</Speaker><scan><通讯框>||:<color=#00CCFF>How did it go?</color>
+NPC-Evita_AB(0)<Speaker>Commander</Speaker><scan><通讯框>||<BGM>GF_EV9_Story</BGM>:It's all confirmed. Doctor Lawrence was indeed murdered.
+NPC-Evita_AB(0)<Speaker>Commander</Speaker><scan><通讯框>||:He had been using his procurement privileges here to make money for himself, and his mistress took a decent cut of that too.
+NPC-Evita_AB(0)<Speaker>Commander</Speaker><scan><通讯框>||:Not long ago, he announced that he was leaving but didn't plan to take her with him. Out of resentment, she got him drunk and pushed him into the pond.
+NPC-Evita_AB(0)<Speaker>Evita</Speaker><scan><通讯框>||:<color=#00CCFF>Is that all?</color>
+NPC-Evita_AB(0)<Speaker>Commander</Speaker><scan><通讯框>||:If I remember correctly, my job was to investigate the cause of Lawrence's death. Beyond that, I didn't dig further.
+NPC-Evita_AB(0)<Speaker>Evita</Speaker><scan><通讯框>||:<color=#00CCFF>Did Lawrence leave behind anything?</color>
+NPC-Evita_AB(0)<Speaker>Commander</Speaker><scan><通讯框>||:As far as I know, all of his belongings are still in his home, waiting for your team to come sort them.
+NPC-Evita_AB(0)<Speaker>Evita</Speaker><scan><通讯框>||:<color=#00CCFF>Anything else?</color>
+NPC-Evita_AB(0)<Speaker>Commander</Speaker><scan><通讯框>||<CGDelay>0.5</CGDelay>:What do you mean?
+NPC-Evita_AB(0)<Speaker>Evita</Speaker><scan><通讯框>||:<color=#00CCFF>Never mind.</color>
+NPC-Evita_AB(0)<Speaker>Evita</Speaker><scan><通讯框>||:<color=#00CCFF>You did well. You'll receive the promised payment.</color>
+NPC-Evita_AB(0)<Speaker>Commander</Speaker><scan><通讯框>||:Thanks.
+NPC-Evita_AB(0)<Speaker>Evita</Speaker><scan><通讯框>||:<color=#00CCFF>One more thing—I heard there was a recent raid on the clinic. A lot of supplies were stolen.</color>
+NPC-Evita_AB(0)<Speaker>Evita</Speaker><scan><通讯框>||:<color=#00CCFF>I'm sending you the coordinates of the raiders' hideout. I hope you can go "check in" on them tomorrow.</color>
 ()<Speaker>Commander</Speaker>||<CGDelay>0.5</CGDelay>:No problem. My pleasure.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>9</BIN><CGDelay>0.3</CGDelay><BGM>BGM_Empty</BGM>:

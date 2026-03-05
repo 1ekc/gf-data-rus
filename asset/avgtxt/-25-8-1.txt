@@ -121,9 +121,9 @@ SOPIIDamage(0);HK416(0)<Speaker>416</Speaker>||:Пойдем.
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;HK416(0)||:Эй, это была шутка? Я что, что-то пропустила?
 HK416(3)<Speaker>416</Speaker>||<震屏><黑屏1>:Я сказала: ПОЙДЕМ!
 ()||<黑屏2><BIN>161</BIN><BGM>BGM_Empty</BGM>:...
-HK416(0)<Speaker>416</Speaker><通讯框>||<BGM>BGM_NightOPS</BGM>:<color=#00CCFF>Командир, мы двигаемся к Опорному пункту № 76, чтобы отбить атаку белых врагов.</color> +<color=#00CCFF>Кстати, мы случайно подобрали...</color>
-HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Командир! Командир! Командир!</color>
-HK416(0)<Speaker></Speaker><通讯框>||:...Клик! +...416-я принудительно отключает канал связи SOP-II.
+HK416(0)<Speaker>416</Speaker><scan><通讯框>||<BGM>BGM_NightOPS</BGM>:<color=#00CCFF>Командир, мы двигаемся к Опорному пункту № 76, чтобы отбить атаку белых врагов.</color> +<color=#00CCFF>Кстати, мы случайно подобрали...</color>
+HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Командир! Командир! Командир!</color>
+HK416(0)<Speaker></Speaker><scan><通讯框>||:...Клик! +...416-я принудительно отключает канал связи SOP-II.
 HK416(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Эй! Это было очень грубо, 416-я!</color> +<color=#00CCFF>RO даже не смог сказать ни слова!</color>
 HK416(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Просто оставь это. Пусть Командир думает, что я погибла...</color>
 HK416(0)<Speaker>416</Speaker>||:<color=#00CCFF>По дороге мы забрали SOP-II и RO из Команды AR. Storm и ее отряд тоже с ними. </color> +<color=#00CCFF>Они выглядят немного... по-другому, но, по крайней мере, могут передвигаться.</color>

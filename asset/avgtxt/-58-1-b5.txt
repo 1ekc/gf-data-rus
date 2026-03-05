@@ -1,8 +1,8 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><SE1>AVG_Gunfire</SE1><BIN>41</BIN><BGM>10082</BGM>:Bang-bang-bang! Gunshots erupt endlessly like fireworks in the abandoned town.
-NPC-Pamzan(4)<Speaker>Ramzan</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Anna, we'll have to cover each other's retreat. Lead the 3rd Platoon in laying down some suppressive fire now!</color>
+NPC-Pamzan(4)<Speaker>Ramzan</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Anna, we'll have to cover each other's retreat. Lead the 3rd Platoon in laying down some suppressive fire now!</color>
 NPC-Ange(29)<Speaker>Anna</Speaker>||:Copy that, but I'm running pretty low on ammo.
-NPC-Pamzan(6)<Speaker>Ramzan</Speaker><通讯框>||:<color=#00CCFF>Do whatever you can!</color>
+NPC-Pamzan(6)<Speaker>Ramzan</Speaker><scan><通讯框>||:<color=#00CCFF>Do whatever you can!</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Beep.
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch</SE1>:Anna kicks at the mud beneath her feet and looks toward the four remaining survivors of 3rd Platoon.
 NPC-Ange(29)<Speaker>Anna</Speaker>||:Contact the command post again!
@@ -42,7 +42,7 @@ NPC-Ange(29)<Speaker>Anna</Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1><BGM>BGM_T
 NPC-Alexander(0)<Speaker>Alexander</Speaker><Position>0,60</Position>||:...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Alexander takes one last look at his comrades lying on the ground and turns away resolutely.
 NPC-Ange(29)<Speaker>Anna</Speaker>||<SE1>AVG_tele_connect</SE1>:Captain, there are only two of us left. We can't give you any more cover. Requesting to link up with you. Repeat—requesting to link up.
-NPC-Pamzan(4)<Speaker>Ramzan</Speaker><通讯框>||:<color=#00CCFF>...Understood. Make your way over here quickly.</color>
+NPC-Pamzan(4)<Speaker>Ramzan</Speaker><scan><通讯框>||:<color=#00CCFF>...Understood. Make your way over here quickly.</color>
 NPC-Ange(29)<Speaker>Anna</Speaker>||:Copy that!
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=4</controll_shake><黑屏2><SE1>Battlefield</SE1><BIN>468</BIN>:Outside an abandoned house, Alexander tosses away his rifle since he is now out of ammo.

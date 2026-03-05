@@ -1,11 +1,11 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
 ()<Speaker></Speaker>||<黑屏2><BIN>298</BIN><SE1>AVG_rifle_finalshot_h</SE1>:0019 hours, Lexington Avenue. +Squad Springfield has just finished hunting down the landmark bosses. +After watching the collapse of the tall figure shining with golden light, AA-12 puts her gun away and approaches it with Type 97 to gather the spoils.
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Very good, Agents.</color>+<color=#00CCFF>Carry on at this pace. Ample preparations and a careful attitude will bring you closer to success.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Very good, Agents.</color>+<color=#00CCFF>Carry on at this pace. Ample preparations and a careful attitude will bring you closer to success.</color>
 MP7(0)<Speaker>Gr MP7</Speaker>;NPC-Dima(1)||:Springfield told us to leave the ammo, but if other players pick up the gear we leave behind, it'll be a threat to us.
 MP7(0)<Speaker>Gr MP7</Speaker>;97type(0)||:We'll take it all, then. Besides, it's not like Springfield will go through our backpacks.
-MP7(0);AA12(0)<Speaker>AA-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We've taken out the boss over here. How are things on your end?</color>
+MP7(0);AA12(0)<Speaker>AA-12</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>We've taken out the boss over here. How are things on your end?</color>
 MP7(0)<Speaker>Gr MP7</Speaker>;AA12(0)||:I've gotten rid of the enemies over here. Currently stocking up until my backpack is full, like Springfield said.+Shall we pick a place to meet up?
-MP7(0);M1903(10)<Speaker>Springfield</Speaker><通讯框>||:<color=#00CCFF>Hm... We haven't found one of the local bosses yet, but I think we ought to go on in.</color>+<color=#00CCFF>From what I can tell, there happens to be an entrance to the Dark Zone near the last boss. I'll send you the coordinates, so let's meet there.</color>
+MP7(0);M1903(10)<Speaker>Springfield</Speaker><scan><通讯框>||:<color=#00CCFF>Hm... We haven't found one of the local bosses yet, but I think we ought to go on in.</color>+<color=#00CCFF>From what I can tell, there happens to be an entrance to the Dark Zone near the last boss. I'll send you the coordinates, so let's meet there.</color>
 MP7(0)<Speaker>Gr MP7</Speaker>;M1903(10)||<黑屏1>:Roger. See you later.
 ()||<黑屏2><BIN>296</BIN><BGM>BGM_Empty</BGM>:Several minutes later, the four members of Squad Springfield meet at the appointed location.
 M1903(12)<Speaker>Springfield</Speaker>||<BGM>GF_xDivision_Scene2</BGM>:We'll wait another minute. If the boss hasn't turned up by then, we'll just enter the Dark Zone. We can't delay any longer.

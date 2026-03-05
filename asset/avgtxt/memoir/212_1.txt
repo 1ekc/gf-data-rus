@@ -24,22 +24,22 @@ K5(0)<Speaker>K5</Speaker>||:It will show us the way...
 K5(0)<Speaker>K5</Speaker>||:Whew...
 ()||:K5 clutches the tarot card in her palm tight. This is where the divination leads her to. +Powerful wind pours into the narrow hallway, accompanied by a shrilling howl.
 ()||<SE1>Stop_AVG_loop</SE1><SE2>AVG_tele_connect</SE2>:A call comes in at just the right moment, dispersing the ominous atmosphere.
-PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>Vivi, 3 o'clock is clear. No sign of the target!</color>
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Roger, what about everyone else?</color>
-R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>Still searching, but I have a feeling there's something ahead.</color>
+PP90(0)<Speaker>PP90</Speaker><scan><通讯框>||:<color=#00CCFF>Vivi, 3 o'clock is clear. No sign of the target!</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||:<color=#00CCFF>Roger, what about everyone else?</color>
+R93(0)<Speaker>R93</Speaker><scan><通讯框>||:<color=#00CCFF>Still searching, but I have a feeling there's something ahead.</color>
 K5(0)<Speaker>K5</Speaker>||:Approaching destination, no signs of activity on my way here.
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>Roger, be careful.</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||:<color=#00CCFF>Roger, be careful.</color>
 ()||<SE1>AVG_Card_Reader</SE1>:Just as K5 was about to close her communications, she heard a beeping noise.
 K5(0)<Speaker>K5</Speaker>||:W-wait...
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>What's wrong?</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||:<color=#00CCFF>What's wrong?</color>
 K5(0)<Speaker>K5</Speaker>||:The sensor just detected vital signs! Judging from the heart rate, it's a child!
 ()||:On the digital map, an amber dot keeps blinking like a beating heart.
-PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>Woohoo, great job!</color>
-Vector(0)<Speaker>Vector</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...Hold on, did you say that there's only "a" child?</color>
+PP90(0)<Speaker>PP90</Speaker><scan><通讯框>||:<color=#00CCFF>Woohoo, great job!</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...Hold on, did you say that there's only "a" child?</color>
 ()||<SE1>AVG_2022Saros_timebomb</SE1>:Suddenly, some sort of countdown noise surrounds K5 as she's looking around, dumbfounded.
 ()||<BGM>GF_21winter_avg_betray</BGM>:Vector quickly realizes what's going on and shouts at the top of her lungs.
-Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>K5, retreat from that building immediately! It's a trap! The terrorists booby-trapped it!</color>
-PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>B-b-b-b-b-bombs?!</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||:<color=#00CCFF>K5, retreat from that building immediately! It's a trap! The terrorists booby-trapped it!</color>
+PP90(0)<Speaker>PP90</Speaker><scan><通讯框>||:<color=#00CCFF>B-b-b-b-b-bombs?!</color>
 ()||<震屏3><SE1>Stop_AVG_loop</SE1><SE2>Explode</SE2><火花>:In an instant, BOOM—A violent explosion erupts from the building.
 ()||<SE1>AVG_lifttable</SE1>:The ceiling, the walls, and the floors... Everything starts collapsing and crumbling, followed by countless fragments falling apart, jolting K5 around.
 K5(0)<Speaker>K5</Speaker>||:But I haven't found that child yet!
@@ -50,6 +50,6 @@ K5(0)<Speaker>K5</Speaker>||:Give me your hand!
 ()||<SE1>Rope</SE1><SE2>AVG_Door_Hit</SE2>:Just as K5 reaches out to grab the girl's arm, the platform underneath her feet starts crumbling and their body plummets.
 ()||<SE1>Rope</SE1>:The last thing she recalls doing before losing consciousness is holding the little girl tightly in her arms.
 ()||<黑屏1>:
-Vector(0)<Speaker>Vector</Speaker><通讯框>||<SE1>AVG_Fire_Bonfire</SE1><黑屏2><BIN>98</BIN>:<color=#00CCFF>K5? K5?! K5!</color>
-R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>Can you hear me, K5?!</color>
+Vector(0)<Speaker>Vector</Speaker><scan><通讯框>||<SE1>AVG_Fire_Bonfire</SE1><黑屏2><BIN>98</BIN>:<color=#00CCFF>K5? K5?! K5!</color>
+R93(0)<Speaker>R93</Speaker><scan><通讯框>||:<color=#00CCFF>Can you hear me, K5?!</color>
 ()||<SE1>AVG_whitenoise</SE1><黑点1>:The only response... is silence.

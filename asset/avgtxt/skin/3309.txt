@@ -13,7 +13,7 @@ Thunder50(0)<Speaker>Thunder</Speaker>||:In that case, can I bring my friends al
 Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>As long as they don't have any missions in progress.</color>+<color=#00CCFF>Who do you have in mind?</color>
 Thunder50(0)<Speaker>Thunder</Speaker>||:I was thinking of M950A, is she free?
 Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>Let me see...</color>+<color=#00CCFF>Kalin, is M950A free on the day of the party?</color>
-NPC-Kalin(0)<Speaker>Kalin</Speaker><通讯框>;Thunder50(0)||:<color=#00CCFF>M950A? What a shame, she happens to be on dispatch that day.</color>+<color=#00CCFF>The party will be over by the time she gets back...</color>
+NPC-Kalin(0)<Speaker>Kalin</Speaker><scan><通讯框>;Thunder50(0)||:<color=#00CCFF>M950A? What a shame, she happens to be on dispatch that day.</color>+<color=#00CCFF>The party will be over by the time she gets back...</color>
 NPC-Kalin(0);Thunder50(0)<Speaker>Thunder</Speaker>||:...You can't change her schedule?
 NPC-Kalin(3)<Speaker>Kalin</Speaker>;Thunder50(0)||:<color=#00CCFF>That would have to be done beforehand, and she's already set out. </color>
 Thunder50(0)<Speaker>Commander</Speaker>||:<color=#00CCFF>That's how it is. I'm very sorry, Thunder. Do you have anyone else in mind?</color>
@@ -29,10 +29,10 @@ Thunder50(0)<Speaker></Speaker>||:<color=#00CCFF>【The user you are hailing —
 Thunder50(0)<Speaker>Thunder</Speaker>||<黑屏1>:<color=#00CCFF>I wish I was going to the party with you.</color>
 ()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><黑屏1>:Thunder stares at the ceiling and quietly waits for a reply. +Ten minutes go by, then twenty... +Yet the comms channel remains silent. +An hour passes. +Thunder closes her eyes.
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>【You have a new communications request.】</color>+<color=#00CCFF>【Connecting.】</color>
-M950A(0)<Speaker>M950A</Speaker><通讯框>||:<color=#00CCFF>The anniversary party? That's great, too bad I can't go back early. Things here are a little prickly, but I should still be able to come back on time!</color>+<color=#00CCFF>Enjoy the party, chances like these are hard to come by.</color>
+M950A(0)<Speaker>M950A</Speaker><scan><通讯框>||:<color=#00CCFF>The anniversary party? That's great, too bad I can't go back early. Things here are a little prickly, but I should still be able to come back on time!</color>+<color=#00CCFF>Enjoy the party, chances like these are hard to come by.</color>
 M950A(0)<Speaker>Thunder</Speaker>||<黑屏1>:...
 Thunder50(0)<Speaker>Thunder</Speaker>||<BIN>72</BIN><黑屏2>:<color=#00CCFF>The Commander seems very happy and wants me to enjoy the party as well.</color>+<color=#00CCFF>But I don't know what I should be doing.</color>
-M950A(0)<Speaker>M950A</Speaker><通讯框>;Thunder50(0)||:<color=#00CCFF>It's simple. A cocktail party is where you can express yourself, so do whatever you want!</color>+<color=#00CCFF>That's what I did.</color>
+M950A(0)<Speaker>M950A</Speaker><scan><通讯框>;Thunder50(0)||:<color=#00CCFF>It's simple. A cocktail party is where you can express yourself, so do whatever you want!</color>+<color=#00CCFF>That's what I did.</color>
 M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||:<color=#00CCFF>You've been to one before? But there's nothing I want to do.</color>
 M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:<color=#00CCFF>Well, that can't be helped.</color>+<color=#00CCFF>If there's anything you like or want to do that you can't do in the base, just go do it at the cocktail party.</color>+<color=#00CCFF>Besides, nobody's going to mind much at places like that, so just go ahead and express yourself!</color>
 M950A(0);Thunder50(0)<Speaker>Thunder</Speaker>||:<color=#00CCFF>I understand.</color>
@@ -84,7 +84,7 @@ Thunder50(2)<Speaker>Thunder</Speaker>||:I understand...
 Thunder50(2)<Speaker>Commander</Speaker>||<震屏><SE1>AVG_weapon_reload</SE1><黑屏1>:...Wait a minute, what are you doing, hold on, Thunder! Don't pull out your gun at a party—!!
 ()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM>:...
 ()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>【You have received a communication request from Thunder.】</color>+<color=#00CCFF>【Connecting.】</color>
-Thunder50(0)<Speaker>Thunder</Speaker><通讯框>||<BIN>72</BIN><黑屏2><BGM>GF_Memorial</BGM>:<color=#00CCFF>I've returned to the base.</color>
+Thunder50(0)<Speaker>Thunder</Speaker><scan><通讯框>||<BIN>72</BIN><黑屏2><BGM>GF_Memorial</BGM>:<color=#00CCFF>I've returned to the base.</color>
 Thunder50(0);M950A(0)<Speaker>M950A</Speaker>||:<color=#00CCFF>Sorry, I'm not back yet. </color>+<color=#00CCFF>Did you enjoy the party?</color>
 Thunder50(0)<Speaker>Thunder</Speaker>;M950A(0)||:<color=#00CCFF>Very much.</color>+<color=#00CCFF>The party was lively and safe, and I got to do what I wanted.</color>
 Thunder50(0);M950A(0)<Speaker>M950A</Speaker>||:<color=#00CCFF>Sounds good. What did you do?</color>

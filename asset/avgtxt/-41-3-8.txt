@@ -77,6 +77,6 @@ NPC-Oldartist(0)<Speaker>Krone</Speaker>||:Other staff members can also enter an
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Thank you, I now have a general picture of the situation. +That's all for now.
 NPC-Oldartist(0)<Speaker>Krone</Speaker>||:(Sighs) I feel somewhat better, having come clean about what happened. +The world is cruel enough as it is, so why are the kind-hearted never rewarded for their good deeds? +Even the previous housemother passed away because of heart disease. Poor woman, she was still so young. +I wish God had more mercy on the good.
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||<SE1>AVG_tele_connect</SE1>:Ange, I'm sending you everything I've logged.
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||:<color=#00CCFF>Received. Thanks, this will be very helpful.</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Received. Thanks, this will be very helpful.</color>
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Have you figured it out?
-NPC-Ange(2)<Speaker>Angelia</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Patience. We are very close to the truth.</color>
+NPC-Ange(2)<Speaker>Angelia</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Patience. We are very close to the truth.</color>

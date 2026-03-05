@@ -64,18 +64,18 @@ Commander()<Speaker>Commander</Speaker>||:I guess that's a wrap on this Hallowee
 ()<Speaker></Speaker>||:It wasn't until this moment that I realize that I had completely forgotten about the date with Gr Mk23.+I hastily fumble for my communicator while praying that Gr Mk23 won't be furious.
 ()<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM>:Gr Mk23, Gr Mk23, it's me. Please respond if you can hear me.
 ()<Speaker></Speaker>||:Beep.
-Mk23(2)<Speaker>Gr Mk23</Speaker><通讯框>||<BGM>GF_Memorial</BGM>:<color=#00CCFF>Oh, Darling♪</color>+<color=#00CCFF>Where are you right now?</color>
+Mk23(2)<Speaker>Gr Mk23</Speaker><scan><通讯框>||<BGM>GF_Memorial</BGM>:<color=#00CCFF>Oh, Darling♪</color>+<color=#00CCFF>Where are you right now?</color>
 Mk23(2)<Speaker>Commander</Speaker>||:I'm at the entrance of the haunted house.+Um, I'm really sorry-
-Mk23(2)<Speaker>Gr Mk23</Speaker><通讯框>||:<color=#00CCFF>(Interrupts) Darling, do you know where I am right now?</color>
-Mk23(2)<Speaker></Speaker><通讯框>||:Confused by her question, I hesitate a little.
+Mk23(2)<Speaker>Gr Mk23</Speaker><scan><通讯框>||:<color=#00CCFF>(Interrupts) Darling, do you know where I am right now?</color>
+Mk23(2)<Speaker></Speaker><scan><通讯框>||:Confused by her question, I hesitate a little.
 ()<Speaker>Commander</Speaker>||:Uhm, are you asking…yourself?+Sorry, I don't know where you are right now…
 ()<Speaker></Speaker>||:There's no response from the other side of the communicator.
 ()<Speaker>Commander</Speaker>||:(Panick) Hey, Gr Mk23, I'm really REALLY sorry…+I should've brought you along with me.
-Mk23(2)<Speaker>Gr Mk23</Speaker><通讯框>||:<color=#00CCFF>…I saw Darling's note.</color>
-Mk23(2)<Speaker>Commander</Speaker><通讯框>||:Um, that's because someone was asking for help…+I was afraid I wouldn't make it in time, so I left a note and rushed out…
-Mk23(2)<Speaker>Gr Mk23</Speaker><通讯框>||:<color=#00CCFF>That's alright, Darling, I understand everything.</color>
-Mk23(2)<Speaker>Commander</Speaker><通讯框>||:Ah! Really?+You're so considerate, Gr Mk23…
-Mk23(2)<Speaker>Gr Mk23</Speaker><通讯框>||:<color=#00CCFF>So do you know where I am right now?</color>
+Mk23(2)<Speaker>Gr Mk23</Speaker><scan><通讯框>||:<color=#00CCFF>…I saw Darling's note.</color>
+Mk23(2)<Speaker>Commander</Speaker><scan><通讯框>||:Um, that's because someone was asking for help…+I was afraid I wouldn't make it in time, so I left a note and rushed out…
+Mk23(2)<Speaker>Gr Mk23</Speaker><scan><通讯框>||:<color=#00CCFF>That's alright, Darling, I understand everything.</color>
+Mk23(2)<Speaker>Commander</Speaker><scan><通讯框>||:Ah! Really?+You're so considerate, Gr Mk23…
+Mk23(2)<Speaker>Gr Mk23</Speaker><scan><通讯框>||:<color=#00CCFF>So do you know where I am right now?</color>
 ()<Speaker>Commander</Speaker>||:Huh? No matter how many times you ask…
 Mk23(2)<Speaker>Gr Mk23</Speaker>||:I've been beside you the whole time, yet you never noticed.
 ()<Speaker></Speaker>||:I suddenly hear Gr Mk23's voice from behind me.+I turn around to see her in her costume with her hands behind her back.

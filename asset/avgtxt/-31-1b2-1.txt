@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BGM>BGM_NightOPS</BGM><BIN>167</BIN>:Three hours flew by, and the sun has sank completely beneath the horizon. +Outside the military camp, below a certain unassuming manhole cover.
 AN94(0)<Speaker>AN-94</Speaker>||:<color=#00CCFF>AR-15, I'm at the designated location.</color>
-AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Why did you take so long...</color>
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Why did you take so long...</color>
 AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>I might have... Nyet, it's nothing. I took a detour because I didn't want to be followed.</color>
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Hm?</color>+<color=#00CCFF>Well, whatever. All that matters is that you came.</color>+<color=#00CCFF>...I've been keeping watch for three hours now, and neither the signal source inside the base nor the military forces here have made any abnormal moves.</color>
 AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>This might just be a backup unit. If only we could hack the systems here and conduct electronic surveillance...</color>+<color=#00CCFF>I'm sorry, if AK-12 was here instead, she'd probably be able to do a better job.</color>
@@ -14,7 +14,7 @@ AN94(2)<Speaker>AN-94</Speaker><Shake>;AR15Mod(2)||<SE1>RunStep</SE1>:<color=#00
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1>:<color=#00CCFF>W-Wait... Aren't you going to discuss this with Ange first?!</color>+<color=#00CCFF>94! AN-94! I can't believe she just ran out on her own like that!</color>
 ()<Speaker></Speaker>||<BIN>9</BIN><黑点2><SE1>RunStep</SE1><黑屏1>:AR-15 has no choice but to abandon her hiding place to chase after AN-94.
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BIN>168</BIN><黑点2>:Dammit!+<color=#00CCFF>Ange, do you read me?</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker><通讯框>;AR15Mod(5)<通讯框>||:<color=#00CCFF>I read you. What's the matter, why are you broadcasting in clear?</color>
+NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>;AR15Mod(5)<scan><通讯框>||:<color=#00CCFF>I read you. What's the matter, why are you broadcasting in clear?</color>
 NPC-AngeStreet(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>AN-94 ran off by herself to chase a military vehicle, I can't establish a secure channel by myself!</color>+<color=#00CCFF>Something's wrong with her, I'm doing my best to catch up with her in case something happens!</color>
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AR15Mod(5)||:<color=#00CCFF>So we've sighted the big one at last.</color>
 NPC-AngeStreet(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>The big one?</color>

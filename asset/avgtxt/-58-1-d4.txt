@@ -21,13 +21,13 @@ AK15(0)<Speaker>AK-15</Speaker>||:...
 ()||<黑点1>:
 ()||<黑点2><BIN>46</BIN>:...
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Q, her identity.
-NPC-Ange(19);NPC-maya(0)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Public spokesperson of Galatea as well as a renowned scientist—Mrs. Gray, the "Lady of Ashes".</color>
+NPC-Ange(19);NPC-maya(0)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Public spokesperson of Galatea as well as a renowned scientist—Mrs. Gray, the "Lady of Ashes".</color>
 NPC-Ange(19)<Speaker>Ange</Speaker>;NPC-maya(0)||:Combat information.
-NPC-Ange(19);NPC-maya(0)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>...None. There's no information about her in the Bee Sting System.</color>
+NPC-Ange(19);NPC-maya(0)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>...None. There's no information about her in the Bee Sting System.</color>
 NPC-Ange(19)<Speaker>Ange</Speaker>;NPC-maya(0)||:The Stasi, restored to its former glory, you say?
-NPC-Ange(19);NPC-maya(0)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Maybe my access clearance isn't high enough.</color>
+NPC-Ange(19);NPC-maya(0)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Maybe my access clearance isn't high enough.</color>
 NPC-Ange(19)<Speaker>Ange</Speaker>;NPC-maya(0)||:...You're not really after Paradeus, are you... +You simply want true "ownership" over the Bee Sting system.
-NPC-Ange(19);NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Working with clever people can be so tricky.</color> +<color=#00CCFF>But the good news is... our objectives do align until we have what we want.</color>
+NPC-Ange(19);NPC-maya(2)<scan><通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>Working with clever people can be so tricky.</color> +<color=#00CCFF>But the good news is... our objectives do align until we have what we want.</color>
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Tsk.
 ()<Speaker>Paradeus Soldier</Speaker>||<BGM>BGM_Empty</BGM>:Target... located.
 NPC-Ange(22)<Speaker>Ange</Speaker>||:...
@@ -122,7 +122,7 @@ AK15(4)<Speaker>AK-15</Speaker>||:...!
 AK12(3)<Position>0,50</Position><Speaker>AK-12</Speaker>||<BGM>BGM_Empty</BGM>:...Wait, don't go after them.
 ()||:AK-12 stops AK-15, who is raring to pursue the enemies. +Then with her communicator, she contacts Ange, who has been hiding behind cover.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:The plan went smoothly.
-NPC-Ange(19)<通讯框><Speaker>Ange</Speaker>||:<color=#00CCFF>Good. Now we just have to wait.</color> +<color=#00CCFF>We wait for this lost rabbit to scurry back to its den in its panic.</color>
+NPC-Ange(19)<scan><通讯框><Speaker>Ange</Speaker>||:<color=#00CCFF>Good. Now we just have to wait.</color> +<color=#00CCFF>We wait for this lost rabbit to scurry back to its den in its panic.</color>
 ()||<BGM>GF_21summer_avg_Demon</BGM>:With all the unwelcome guests gone, Ange can finally study this mansion in greater detail.
 ()||<SE1>AVG_20Winter_Door_Open</SE1><黑点1>:Creak...
 NPC-Ange(19)<Speaker>Ange</Speaker>||<黑点2><BIN>470</BIN>:(Coughs) This place is really dusty.

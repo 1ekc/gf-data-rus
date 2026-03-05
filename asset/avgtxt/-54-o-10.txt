@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>197</BIN><common_effect>%%code=CJ_rain%%</common_effect><narrator>:At the Intercontinental Railway train "Future", not far from the destroyed carriages.
 ()||<SE1>AVG_amb_thunderrain</SE1>:Captain Ivan is standing by on this rainy night. +That is, until a transmission finally comes through—
-NPC-Tareus(3)<通讯框><Speaker>Tareus</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Move in.</color> +<color=#00CCFF>I want this Doll.</color>
+NPC-Tareus(3)<scan><通讯框><Speaker>Tareus</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Move in.</color> +<color=#00CCFF>I want this Doll.</color>
 ()||<SE1>AVG_tele_connect</SE1>:A stream of code comes through... +Captain Ivan enters his orders, and a stern-looking face wearing a hat appears.
 AR18(6)<Speaker></Speaker>||<黑点1>:<color=#00CCFF>Instructor "Я"—from the 7th General Directorate Advanced Combat Training Team. She is the only Doll in her unit. Little is known about her; considered extremely dangerous.</color>
 ()||<黑点1><BIN>9</BIN><关闭蒙版><SE1>Stop_AVG_loop</SE1>:...

@@ -60,23 +60,23 @@ VP1915(0)<Speaker>Commander</Speaker>||:Perosa? What is it?
 VP1915(0)<Speaker>Perosa</Speaker>||:...It's the Earl.
 ()<Speaker>Commander</Speaker>||:...Put him through!
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Good morning, Commander.</color> +<color=#00CCFF>Forgive me for dispensing with the usual pleasantries, but I'm going to cut to the chase.</color> +<color=#00CCFF>I had someone run some checks on the images you sent.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Alright, and what did they say?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Take a look at this first.</color>
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Good morning, Commander.</color> +<color=#00CCFF>Forgive me for dispensing with the usual pleasantries, but I'm going to cut to the chase.</color> +<color=#00CCFF>I had someone run some checks on the images you sent.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Alright, and what did they say?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Take a look at this first.</color>
 ()<Speaker></Speaker>||:Griffin's image vanishes, replaced by a news clip. +A pretty woman is reporting on the tragedy behind her, and as the Commander watches the clip, their heart skips a beat.
 ()||<黑屏1>:
 ()<Speaker>Shadowless</Speaker>||<黑屏2><BIN>353</BIN><common_effect>%%code=NPC_TV_15%%</common_effect>:At 0723 this morning, Berlin Hospital experienced an alleged terrorist attack for the first time since the construction of the quarantine wall. +Three members of the medical staff and four patients were in the wards when the explosion occurred. +The police is currently investigating the source of the explosion. This is frontline correspondent Shadowless bringing you the news...
 ()||<黑屏1>:
 ()<Speaker>Commander</Speaker>||<关闭蒙版>%%</关闭蒙版><BIN>357</BIN><黑屏2>:...Berlin Hospital? An explosion?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Yes, and the scene perfectly matched the images you sent us.</color> +<color=#00CCFF>But the media never released shots from the same angle shown in the pictures you sent. </color> +<color=#00CCFF>We can be certain that the image was not stolen from a news broadcast.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:What about the other places? +Have other places been attacked too?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>No.</color> +<color=#00CCFF>At least, not yet.</color>
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, and the scene perfectly matched the images you sent us.</color> +<color=#00CCFF>But the media never released shots from the same angle shown in the pictures you sent. </color> +<color=#00CCFF>We can be certain that the image was not stolen from a news broadcast.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:What about the other places? +Have other places been attacked too?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>No.</color> +<color=#00CCFF>At least, not yet.</color>
 ()<Speaker></Speaker>||:Griffin looks rather grim.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Your discovery has been very useful, Commander.</color> +<color=#00CCFF>I believe Machlian's memories might well be a sort of prophecy.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:A prophecy? +Is that...even possible? +Wait a minute, you mean the other locations might end up being attacked as well?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>It's not an actual prophecy, but I think the possibility exists.</color> +<color=#00CCFF>If Machlian once took part in the plan or at least heard of it...</color> +<color=#00CCFF>Then her "visualization" of the plan might also exist within her memories.</color> +<color=#00CCFF>In any case, there's a possibility that William might take further action.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...Understood.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>These are the coordinates of the remaining locations.</color> +<color=#00CCFF>I believe you know what to do, Commander.</color>
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Your discovery has been very useful, Commander.</color> +<color=#00CCFF>I believe Machlian's memories might well be a sort of prophecy.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:A prophecy? +Is that...even possible? +Wait a minute, you mean the other locations might end up being attacked as well?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>It's not an actual prophecy, but I think the possibility exists.</color> +<color=#00CCFF>If Machlian once took part in the plan or at least heard of it...</color> +<color=#00CCFF>Then her "visualization" of the plan might also exist within her memories.</color> +<color=#00CCFF>In any case, there's a possibility that William might take further action.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...Understood.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>These are the coordinates of the remaining locations.</color> +<color=#00CCFF>I believe you know what to do, Commander.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:The transmission ends.
 ()<Speaker>Commander</Speaker>||:...Perosa. +Did the Earl send any coordinates over?
 VP1915(0)<Speaker>Perosa</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Yes. +Upon verification, there are four more locations which have not yet been attacked. +They are an old U-Bahn station, the quarantine wall, Berlin Prison, and...Bohnsdorf.

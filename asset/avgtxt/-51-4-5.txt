@@ -104,9 +104,9 @@ NPC-Bramedb(3)<Speaker>Bramedb</Speaker>||:Who knows if your precious Teacher ca
 NPC-MrsGray(9)<Speaker>Gray</Speaker>||:...You're even more laughable than usual, Bramedb. +I've read about cliched characters like you in stories. +I didn't think I'd get to meet one in real life.
 NPC-Bramedb(4)<Speaker>Bramedb</Speaker>||:... +...Go ahead and mouth off now, Gray. +You won't be doing that for very long.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Click.
-NytoWhite(0)<Speaker>Ashley</Speaker><通讯框>||:<color=#00CCFF>...This is Ashley, Big Sister Bramedb.</color> +<color=#00CCFF>Big Sister Nemhran has received your results.</color>
+NytoWhite(0)<Speaker>Ashley</Speaker><scan><通讯框>||:<color=#00CCFF>...This is Ashley, Big Sister Bramedb.</color> +<color=#00CCFF>Big Sister Nemhran has received your results.</color>
 NPC-Bramedb(3)<Speaker>Bramedb</Speaker>||:They responded quickly. Otherwise, I could have gotten more out of them.
-NytoWhite(0)<Speaker>Ashley</Speaker><通讯框>||:<color=#00CCFF>...Big Sister Nemhran said "don't bother".</color> +<color=#00CCFF>It is sufficient... I will now relay the latest news to you.</color>
+NytoWhite(0)<Speaker>Ashley</Speaker><scan><通讯框>||:<color=#00CCFF>...Big Sister Nemhran said "don't bother".</color> +<color=#00CCFF>It is sufficient... I will now relay the latest news to you.</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><SE1>AVG_tele_connect</SE1><BIN>9</BIN>:Click...
 ()<Speaker></Speaker>||:Transmitting files...

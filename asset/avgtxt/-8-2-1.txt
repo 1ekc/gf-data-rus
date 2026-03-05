@@ -18,11 +18,11 @@ BB_Noel(2)<Speaker>Noel</Speaker>;FAL(0)||<BIN>8</BIN>:Fantastic! I have hope of
 BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:Sorry, Mademoiselle Noel, but let's not get too excited. +You're still under suspicion yourself, so your freedom is still restricted.
 BB_Noel(2)<Speaker>Noel</Speaker>;FAL(0)||<BIN>8</BIN>:Oh... I'm sorry... I forgot my place...
 BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN><黑点1>:The report has forecast the possible location of the next Sangvis attack. +Allez, girls, and get the one who's stuffing her face... +Operation Rabbit Hunt is about to begin.
-FN49(0)<Speaker>FF FN49</Speaker><通讯框>||<BIN>10</BIN><BGM>BGM_Empty</BGM><黑点2>:Th-This is Point B... Evacuation of all residents confirmed.
-FN57(0)<Speaker>Five-seven</Speaker><通讯框>||<BIN>10</BIN>:Point C also checked. There shouldn't be a problem, I suppose?
+FN49(0)<Speaker>FF FN49</Speaker><scan><通讯框>||<BIN>10</BIN><BGM>BGM_Empty</BGM><黑点2>:Th-This is Point B... Evacuation of all residents confirmed.
+FN57(0)<Speaker>Five-seven</Speaker><scan><通讯框>||<BIN>10</BIN>:Point C also checked. There shouldn't be a problem, I suppose?
 FAL(0)<Speaker>FAL</Speaker>||<BIN>10</BIN><BGM>BGM_Frontline</BGM>:Très bien. Now we just have to sit tight and wait for the rabbit to set off the trap...
-FAL(0);BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>||<BIN>10</BIN>:Nice setup. Your effort is much appreciated.
-FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<通讯框>||<BIN>10</BIN>:Intruder? How could it be you?!
-FAL(0);BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>||<BIN>10</BIN>:Forgive me, I can't let you see the Rabbit for now. +But I trust that you won't be too offended if I take part in the show in her place?
-FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<通讯框>||<BIN>10</BIN>:Both you and the Rabbit are on our bucket list. +Though it seems like we can strike your name off early.
-FAL(0);BOSS-4(0)<Speaker>Intruder</Speaker><通讯框>||<BIN>10</BIN>:Then thank you for your hospitality. Let us make the most of our chance meeting.
+FAL(0);BOSS-4(0)<Speaker>Intruder</Speaker><scan><通讯框>||<BIN>10</BIN>:Nice setup. Your effort is much appreciated.
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<scan><通讯框>||<BIN>10</BIN>:Intruder? How could it be you?!
+FAL(0);BOSS-4(0)<Speaker>Intruder</Speaker><scan><通讯框>||<BIN>10</BIN>:Forgive me, I can't let you see the Rabbit for now. +But I trust that you won't be too offended if I take part in the show in her place?
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<scan><通讯框>||<BIN>10</BIN>:Both you and the Rabbit are on our bucket list. +Though it seems like we can strike your name off early.
+FAL(0);BOSS-4(0)<Speaker>Intruder</Speaker><scan><通讯框>||<BIN>10</BIN>:Then thank you for your hospitality. Let us make the most of our chance meeting.

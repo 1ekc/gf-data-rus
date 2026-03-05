@@ -55,10 +55,10 @@ NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||<BGM>BGM_Scar_Battle</BGM>:...Did you ex
 NPC-SCAR-H(0)<同时置暗><Speaker>Worker</Speaker>||:They're all in your new body. No functions have been left out.
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||:...
 ()||<黑屏1><SE1>AVG_Cloak_Whoosh</SE1>:Amaris climbs out of the metal vat.+A flash of green light passes through the eyes of her brand new body, and she calls that long-abandoned number.
-NPC-SCAR-L(0)<通讯框><Speaker>Aliana</Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_tele_connect</SE1>:<color=#99CC33>...</color>
-NPC-SCAR-H(0)<Speaker>Amaris</Speaker>;NPC-SCAR-L(0)<通讯框>||:...This is between you and me.+You shouldn't have involved others.
-NPC-SCAR-H(0);NPC-SCAR-L(0)<通讯框><Speaker>Aliana</Speaker>||:<color=#99CC33>What a coincidence, I was thinking the same thing.</color>+<color=#99CC33>Amaris.</color>+<color=#99CC33>I thought you'd have run off by now.</color>
-NPC-SCAR-H(0)<Speaker>Amaris</Speaker>;NPC-SCAR-L(0)<通讯框>||:...You think too much...+Pick a place. We'll settle everything there.+...I'll take revenge on you for everyone's sake—Samantha, Morea, Olivia, Eula, Nicole, Callisto, Laura, and myself, Amaris.
-NPC-SCAR-L(0)<通讯框><Speaker>Aliana</Speaker>||:<color=#99CC33>Very well... I've sent you the location.</color>+<color=#99CC33>See you there tomorrow, Amaris.</color>
+NPC-SCAR-L(0)<scan><通讯框><Speaker>Aliana</Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_tele_connect</SE1>:<color=#99CC33>...</color>
+NPC-SCAR-H(0)<Speaker>Amaris</Speaker>;NPC-SCAR-L(0)<scan><通讯框>||:...This is between you and me.+You shouldn't have involved others.
+NPC-SCAR-H(0);NPC-SCAR-L(0)<scan><通讯框><Speaker>Aliana</Speaker>||:<color=#99CC33>What a coincidence, I was thinking the same thing.</color>+<color=#99CC33>Amaris.</color>+<color=#99CC33>I thought you'd have run off by now.</color>
+NPC-SCAR-H(0)<Speaker>Amaris</Speaker>;NPC-SCAR-L(0)<scan><通讯框>||:...You think too much...+Pick a place. We'll settle everything there.+...I'll take revenge on you for everyone's sake—Samantha, Morea, Olivia, Eula, Nicole, Callisto, Laura, and myself, Amaris.
+NPC-SCAR-L(0)<scan><通讯框><Speaker>Aliana</Speaker>||:<color=#99CC33>Very well... I've sent you the location.</color>+<color=#99CC33>See you there tomorrow, Amaris.</color>
 NPC-SCAR-H(0)<Speaker>Amaris</Speaker>||:See you tomorrow, Aliana.
 ()||<黑屏1>:

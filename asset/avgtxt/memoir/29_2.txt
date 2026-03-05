@@ -6,7 +6,7 @@ MK2(0)<Speaker>STEN MkII</Speaker>||:Found you! +Wait!!
 ()||<快跑><SE1>Runstep</SE1>:
 MK2(0)<Speaker>STEN MkII</Speaker>||<黑屏2>1,0.7</黑屏2>:Ugh... There are more and more S.F. around... +Where...exactly am I...?
 ()<Speaker></Speaker>||:...Click.
-AAT52(0)<Speaker>AAT-52</Speaker><通讯框>||:<color=#00CCFF>STEN, bad news!</color>
+AAT52(0)<Speaker>AAT-52</Speaker><scan><通讯框>||:<color=#00CCFF>STEN, bad news!</color>
 MK2(0)<Speaker>STEN MkII</Speaker>;AAT52(0)||:Huh?! W-what's wrong? Don't scare me!
 MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||:<color=#00CCFF>We just arrived at the shelter, but it's already deserted.</color> +<color=#00CCFF>We have no idea where Document 36 is!</color>
 MK2(0)<Speaker>STEN MkII</Speaker>;AAT52(0)||:It's gone? +Then...what are Miss RO's instructions...?

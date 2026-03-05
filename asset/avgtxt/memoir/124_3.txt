@@ -6,10 +6,10 @@
 Super SASS()<Speaker>Super SASS</Speaker>||<SE1>AVG_tinnitus_0</SE1>:Huh?
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>99</BIN><BGM>BGM_Danger</BGM><SE2>Battlefield</SE2><回忆>:...On the frontlines.
-M1911(1)<Speaker>M1911</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:SASS, S.F. is mounting a counter-charge, we need fire support!
-M1911(1);MAC10(1)<Speaker>Ingram</Speaker><通讯框>||:Hehehehe, isn't this the perfect opportunity to wipe them all out in one fell swoop?
-M9(1)<Speaker>M9</Speaker><通讯框>;MAC10(1)||:Like hell it is! (Whimpers) My makeup's all messed up.
-M9(1);M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:SASS, how are things on your end?
+M1911(1)<Speaker>M1911</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:SASS, S.F. is mounting a counter-charge, we need fire support!
+M1911(1);MAC10(1)<Speaker>Ingram</Speaker><scan><通讯框>||:Hehehehe, isn't this the perfect opportunity to wipe them all out in one fell swoop?
+M9(1)<Speaker>M9</Speaker><scan><通讯框>;MAC10(1)||:Like hell it is! (Whimpers) My makeup's all messed up.
+M9(1);M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:SASS, how are things on your end?
 SuperSASS(0)<Speaker>Super SASS</Speaker>;M1928A1(0)||:Sorry, I'm still a little dizzy.
 SuperSASS(0);M1928A1(0)<Speaker>Thompson</Speaker>||:What's your status?
 SuperSASS(0)<Speaker>Super SASS</Speaker>;M1928A1(0)||:...No obvious external injuries, but...but my fire control system isn't very stable.
@@ -20,24 +20,24 @@ SuperSASS(0)<Speaker>Super SASS</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Yes...
 ()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:Bang—!
 SuperSASS(0)<Speaker>Super SASS</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:Bang—!
-M1911Mod(0)<Speaker>M1911</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:Got it... One down!
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:Carry on!
+M1911Mod(0)<Speaker>M1911</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Got it... One down!
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:Carry on!
 SuperSASS(0)<Speaker>Super SASS</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:Bang—!
 ()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:Bang—!
 ()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:Bang—!
 SuperSASS(0)<Speaker>Super SASS</Speaker>||:W-what's wrong? Don't tell me my fire control system is...?
-M9(1)<Speaker>M9</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:Wow, looks like SASS' shots all went wide.
-M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||:SASS, is the damage to your fire control system severe?
+M9(1)<Speaker>M9</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Wow, looks like SASS' shots all went wide.
+M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||:SASS, is the damage to your fire control system severe?
 SuperSASS(0)<Speaker>Super SASS</Speaker>;M1928A1(0)||:Yes... I'm sorry, I may need to re-calibrate...
 SuperSASS(0);M1928A1(0)<Speaker>Thompson</Speaker>||:No, we don't have the time for that... Everyone, fall back!
 SuperSASS(0)<Speaker>Super SASS</Speaker>;M1928A1(0)||:B-but...!
 M1928A1(0)<Speaker>Thompson</Speaker>||:Don't be too short-sighted, SASS. What we lose now, we can make up later.
-MAC10(1)<Speaker>Ingram</Speaker><通讯框>||:Ah~ What a shame we couldn't slaughter them all.
-M1911(1)<Speaker>M1911</Speaker><通讯框>||:Save that sort of thing for later.
-M9(1)<Speaker>M9</Speaker><通讯框>||:W-wait for me!
+MAC10(1)<Speaker>Ingram</Speaker><scan><通讯框>||:Ah~ What a shame we couldn't slaughter them all.
+M1911(1)<Speaker>M1911</Speaker><scan><通讯框>||:Save that sort of thing for later.
+M9(1)<Speaker>M9</Speaker><scan><通讯框>||:W-wait for me!
 SuperSASS(0)<Speaker>Super SASS</Speaker>||:...
-SuperSASS(0);M1928A1(0)<Speaker>Thompson</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:SASS, fall back from your position. We'll meet up at the rendezvous point.
+SuperSASS(0);M1928A1(0)<Speaker>Thompson</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:SASS, fall back from your position. We'll meet up at the rendezvous point.
 SuperSASS(0)<Speaker>Super SASS</Speaker>;M1928A1(0)||:...Yes, at once!
 SuperSASS(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Also, we need to have a chat sometime.
 SuperSASS(0)<Speaker>Super SASS</Speaker>||<SE1>AVG_tele_disconnect</SE1>:... +...Right.

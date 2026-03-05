@@ -8,7 +8,7 @@ M1903(12)<Speaker>Springfield</Speaker>||:Are you sure you don't need a break? Y
 G36Mod(0)<Speaker>Gr G36</Speaker>||:The canteen has submitted its ingredients purchase list and budget for approval, Commander. Please take a look at it.
 ()<Speaker>Commander</Speaker>||:Alright, I will.
 ()||:A pile of documents suddenly collapses and Gr G36 stacks them back up again before leaving the office without a word.
-NPC-Helian(0)<Speaker>Helian</Speaker><通讯框>||:<color=#00CCFF>Commander, I.O.P. is asking for confirmation of receipt for the most recent batch of supplies.</color>
+NPC-Helian(0)<Speaker>Helian</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I.O.P. is asking for confirmation of receipt for the most recent batch of supplies.</color>
 ()<Speaker>Commander</Speaker>||:Hang on, where did Springfield's list go...
 ()||:I dive into the pile of documents and rummage through them...
 ()<Speaker>Commander</Speaker>||:Kalina, help me ask Springfield about her comparison list.

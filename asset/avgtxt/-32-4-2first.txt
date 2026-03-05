@@ -21,15 +21,15 @@ Super-Shorty()<Speaker>Super-Shorty</Speaker>||<黑屏1>:—! +No! Don't peek at
 Super-Shorty()<Speaker>Super-Shorty</Speaker>||<黑屏1>:What should I do... +What...should I do... +I have nothing... I've done nothing... +I couldn't even protect...the only thing I had... +I...
 ？？()<Speaker>???</Speaker>||<BIN>18</BIN><Night><黑屏2><BGM>BGM_Empty</BGM>:<color=#00CCFF>Hey shorty! You awake?</color>
 SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<BGM>m_va_drive_me_wild</BGM>:!? A voice...from outside? +Dana! Is that you, Dana!?
-Dana(2)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Yeah! It's me, don't panic!</color>
+Dana(2)<Speaker>Dana</Speaker><scan><通讯框>;SuperShorty(0)||:<color=#00CCFF>Yeah! It's me, don't panic!</color>
 Dana(2);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:You said it was just a checkup!
 Dana(2)<Speaker>Dana</Speaker>;SuperShorty(0)||:<color=#00CCFF>Sorry, but accidents do happen from time to time. Even I get stuck inside things occasionally. </color>+<color=#00CCFF>Hang on for a bit, we'll get you out of there right away!</color>
 SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:We...? Who else is there!?
 SuperShorty(0)<Speaker>Dana</Speaker>||:<color=#00CCFF>Architect, over here! Shorty's in this pod!</color>
 SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:Architect? Eh!? Wait—!
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Ohohoho! Leave the rest to me!</color>
-Dana(2)<Speaker>Dana</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>Are you sure you're not going to hurt her? Even I'm not too comfortable around that weapon of yours.</color>
-BOSS-9(0)<Speaker>Architect</Speaker><通讯框>;SuperShorty(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>You know why they call me "Architect"?</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>;SuperShorty(0)||:<color=#00CCFF>Ohohoho! Leave the rest to me!</color>
+Dana(2)<Speaker>Dana</Speaker><scan><通讯框>;SuperShorty(0)||:<color=#00CCFF>Are you sure you're not going to hurt her? Even I'm not too comfortable around that weapon of yours.</color>
+BOSS-9(0)<Speaker>Architect</Speaker><scan><通讯框>;SuperShorty(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>You know why they call me "Architect"?</color>
 BOSS-9(0)<Speaker></Speaker>;SuperShorty(0)||<SE1>AVG_weapon_reload</SE1>:...Architect raises her bazooka.
 BOSS-9(0)<Speaker>Super-Shorty</Speaker>;SuperShorty(0)||:Dana, she—!
 BOSS-9(0)<Speaker>Architect</Speaker>||<白屏1>:<color=#00CCFF>Because every explosion I make is a carefully-calculated work of art!</color>
@@ -77,4 +77,4 @@ SuperShorty(1)<Speaker>Super-Shorty</Speaker>;Dana(0)||:I...I lost my memories. 
 SuperShorty(1)<Speaker></Speaker>||:...Super-Shorty turns her head.
 ()<Speaker>???</Speaker>||:<color=#00CCFF>Now, do you see me?</color>
 Super-Shorty()<Speaker>Super-Shorty</Speaker>||:You...you're... +I remember...you're... +Alma? You're Alma, right?
-Alma(0)<Speaker>Alma</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>That's right...</color>+<color=#00CCFF>I am Alma Armas, your commander from three years ago.</color>
+Alma(0)<Speaker>Alma</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>That's right...</color>+<color=#00CCFF>I am Alma Armas, your commander from three years ago.</color>

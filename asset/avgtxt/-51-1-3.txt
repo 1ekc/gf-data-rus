@@ -51,7 +51,7 @@ NPC-Jason(3)<Speaker>K</Speaker>||:There's something else in store for her—som
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>412</BIN><BGM>BGM_Empty</BGM>:Inside Romy's office.
 NPC-Romy(0)<Speaker>Romy</Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_stage10</BGM>:How's the cleanup work going?
-NPC-Romy(0);NPC-maya(2)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>We've sped things up after the "Fireworks".</color> +<color=#00CCFF>The situation in Moscow right now is dire; just about every single foreigner in the embassy is under surveillance, and even the delivery boys have at least 40 cameras installed in their homes.</color>
+NPC-Romy(0);NPC-maya(2)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>We've sped things up after the "Fireworks".</color> +<color=#00CCFF>The situation in Moscow right now is dire; just about every single foreigner in the embassy is under surveillance, and even the delivery boys have at least 40 cameras installed in their homes.</color>
 NPC-Romy(0)<Speaker>Romy</Speaker>;NPC-maya(2)||:I haven't received any official requests for agent repatriation yet. +At the very least, things over there haven't affected things here, and compared to our embedded personnel, their own internal troubles take priority, so be careful when you work.
 NPC-Romy(0)<Speaker>Romy</Speaker>;NPC-maya(2)||:We have no grounds to intervene in their internal affairs. The nation's stance is exactly as it appears.
 NPC-Romy(0);NPC-maya(2)<Speaker>???</Speaker>||:<color=#00CCFF>Meh, doesn't matter. Besides, we're all "illegals", so even if we get captured, you'll trade for us, right, Boss?</color>
@@ -60,7 +60,7 @@ NPC-Romy(3);NPC-maya(2)<Speaker>???</Speaker>||:<color=#00CCFF>Ehhh, the thing i
 NPC-Romy(0)<Speaker>Romy</Speaker>;NPC-maya(2)||:If you can't do it, then tag out. +Still, the expat bonus pool is fixed. Do you still need assistance?
 NPC-Romy(0);NPC-maya(0)<Speaker>???</Speaker>||:<color=#00CCFF>Is it a matter of bonuses? No, it's a question of ideals!</color> +<color=#00CCFF>Boss, I have a dream. Only people with dreams ask for overseas assignments. It's true, you gotta believe me.</color>
 NPC-Romy(1)<Speaker>Romy</Speaker>||:Heh.
-NPC-maya(2)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>In any case, all I can tell is that those inhuman toys have already been pulled out of Moscow.</color>
+NPC-maya(2)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>In any case, all I can tell is that those inhuman toys have already been pulled out of Moscow.</color>
 NPC-Romy(0)<Speaker>Romy</Speaker>;NPC-maya(2)||:Can you restore their data?
 NPC-Romy(0);NPC-maya(2)<Speaker>???</Speaker>||:<color=#00CCFF>That'll be difficult. Their systems' operational efficiency are like heaven and earth compared to the obsolete hunks of junk they have in the agency.</color> +<color=#00CCFF>Frankly speaking, I'd advise that the Technical Branch bring in more civilian pros or experts.</color>
 NPC-Romy(0)<Speaker>Romy</Speaker>;NPC-maya(2)||:Did you find the border crossing info of those weapons?

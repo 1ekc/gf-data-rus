@@ -18,7 +18,7 @@
 ()||<黑屏1>:【That's all I need to hear.】
 ()||<黑屏2><BIN>202</BIN>:On the train.
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||<BGM>BGM_Brain</BGM>:Hmm... The recordings this time are rather hard to digest... +Miss Persica, can you make any sense of it?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Dammit...</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Dammit...</color>
 NPC-Persica(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Miss Persica?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>I need to go for a bit! I have to check this room!</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>I need to go for a bit! I have to check this room!</color>
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:Hmm? Why does she suddenly want to do that...? Eh, maybe scientists are just weirdos.

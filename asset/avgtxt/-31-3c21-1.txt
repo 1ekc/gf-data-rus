@@ -1,7 +1,7 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()||<BGM>BGM_Brain</BGM><BIN>85</BIN><黑屏2>:...In a certain safe house in Belgrade.
 Commander()||:...That's all for our strategic preparations. +Our blockade on Sangvis Ferri's predicted escape route has been completed.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I understand.</color> +<color=#00CCFF>I was right to have chosen you for this mission.</color> +<color=#00CCFF>Prove your worth in the following operation, Griffin Commander.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I understand.</color> +<color=#00CCFF>I was right to have chosen you for this mission.</color> +<color=#00CCFF>Prove your worth in the following operation, Griffin Commander.</color>
 ()||:...Transmission ends.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Commander...
 Commander()||:You have a question, SOP-II?

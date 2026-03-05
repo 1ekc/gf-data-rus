@@ -10,29 +10,29 @@ NPC-Kalin(3)<Speaker>Kalina</Speaker>||:I don't quite get what you mean.
 ()<Speaker>Commander</Speaker>||:You're still mad, huh...
 NPC-Kalin(3)<Speaker>Kalina</Speaker>||:There are more important things which require your attention than such trivial matters, Commander. +16Lab has sent a comms request.
 ()<Speaker>Commander</Speaker>||:... +Eh, at a time like this? +Put it through.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:Sorry to disturb you, Commander... +Oh dear, you look terrible.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Sorry to disturb you, Commander... +Oh dear, you look terrible.
 ()<Speaker>Commander</Speaker>||:I couldn't get back to sleep after you woke me up in the middle of the night. +What do you want this time?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Oh... I see.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Oh... I see.
 ()<Speaker>Commander</Speaker>||:You don't sound the least bit guilty... +So what's the matter, changed your mind about coming here?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Of course not. +However, I'd like you to do me a favor before I arrive.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Of course not. +However, I'd like you to do me a favor before I arrive.
 ()<Speaker>Commander</Speaker>||:The mission Havier gave us is a big enough hassle as it is... +And we're kind of short on people to take on new missions.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:I'm sorry, Commander, but the truth is, this request I'm making is quite close to Mr. Havier's objectives. +He should have assigned you something troublesome like data analysis, right? +I studied that data too, and I went out of my way to contact you because I thought you might have missed something.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:I'm sorry, Commander, but the truth is, this request I'm making is quite close to Mr. Havier's objectives. +He should have assigned you something troublesome like data analysis, right? +I studied that data too, and I went out of my way to contact you because I thought you might have missed something.
 ()<Speaker>Commander</Speaker>||:Well, thank you very much.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:You should look into a Sangvis Doll. I believe you're quite familiar with her.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:You should look into a Sangvis Doll. I believe you're quite familiar with her.
 ()<Speaker>Commander</Speaker>||:Who is it?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Ouroboros.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Ouroboros.
 ()<Speaker>Commander</Speaker>||:... +Isn't she in your lab?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Back then, 404 only delivered her neural core. Her body was thoroughly wrecked. +The evolution records of a high-level Sangvis AI were also completely destroyed.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Back then, 404 only delivered her neural core. Her body was thoroughly wrecked. +The evolution records of a high-level Sangvis AI were also completely destroyed.
 ()<Speaker>Commander</Speaker>||:Well, that's Squad 404 for you... Sounds like they were pretty damn vicious.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Havier should have told you that Paradeus is researching S.F.'s neural cloud construction. +After all, the Sangvis Mastermind vanished with M4 in the wake of the Reverse Collapse phenomenon. +This indicates that S.F.-derived OGAS consciousnesses can resonate with Relics, just like M4. +My guess is that William has already picked up on this, so we need to hurry...
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Havier should have told you that Paradeus is researching S.F.'s neural cloud construction. +After all, the Sangvis Mastermind vanished with M4 in the wake of the Reverse Collapse phenomenon. +This indicates that S.F.-derived OGAS consciousnesses can resonate with Relics, just like M4. +My guess is that William has already picked up on this, so we need to hurry...
 ()<Speaker>Commander</Speaker>||:So you want to figure all this out before Paradeus does?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Yes. +...After all, that was Lyco's work. +I don't want the fruits of his labor to fall into the hands of those bastards.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Yes. +...After all, that was Lyco's work. +I don't want the fruits of his labor to fall into the hands of those bastards.
 ()<Speaker>Commander</Speaker>||:...What do you need me to do?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Does that mean you're agreeing to help me out?
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Does that mean you're agreeing to help me out?
 ()<Speaker>Commander</Speaker>||:(Sighs) +It's always like this... +Just tell me what I need to do.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Thank you very much. +There ought to be other neural cloud backups of Ouroboros at her base, as well as spare bodies. +If you could recover those, I think I'll be able to figure out how S.F. neural clouds evolve. +You still remember that place, right?
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Thank you very much. +There ought to be other neural cloud backups of Ouroboros at her base, as well as spare bodies. +If you could recover those, I think I'll be able to figure out how S.F. neural clouds evolve. +You still remember that place, right?
 ()<Speaker>Commander</Speaker>||:I'll go through previous reports and let you know once I turn up something.
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:Thank you once again. It would be best if you have them ready before I arrive at the base. +It would let me hit the ground running, so to speak.
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:Thank you once again. It would be best if you have them ready before I arrive at the base. +It would let me hit the ground running, so to speak.
 ()<Speaker>Commander</Speaker>||:I'll do my best.
 ()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 ()||:The Commander turns off the screen, sighs heavily and collapses into their chair.

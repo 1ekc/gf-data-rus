@@ -6,15 +6,15 @@
 Type100(0)<Speaker>100 Shiki</Speaker>||:Yes, I'm 2.1 kilometers away from the target campsite. ETA 10...
 ()||:100 Shiki looks up. Not far away, Afra curses as she applies lubricant to her joints, grumbling about the fragility of her civilian doll body.
 Type100(0)<Speaker>100 Shiki</Speaker>||:...ETA 30 minutes.
-FP6(0)<Speaker>FP6</Speaker><通讯框>||:<color=#00CCFF>You know.. why is the target location this remote? Two more kilometers and you'll be out of signal range.</color>
+FP6(0)<Speaker>FP6</Speaker><scan><通讯框>||:<color=#00CCFF>You know.. why is the target location this remote? Two more kilometers and you'll be out of signal range.</color>
 Type100(0)<Speaker>100 Shiki</Speaker>||:Don't worry, I'm just confirming the location and health of the cherry blossom. I will return soon after.
-Type100(0);FP6(0)<Speaker>FP6</Speaker><通讯框>||:<color=#00CCFF>Tsk, I know. It's just that the guide you hired—</color>+<color=#00CCFF>They just so happened to meet you at the black market, just so happened to have seen a cherry blossom in the past, just so happened to have lost their five-years-old map data and now have to guide you purely from memory?</color>+<color=#00CCFF>Are you SURE you don't need my support? </color>
-Type100(0)<Speaker>100 Shiki</Speaker>;FP6(0)<通讯框>||:...I understand Miss FP-6's concern. +While I am also concerned with Miss Afra's excuse, she's just an ordinary civilian Doll. Considering the gap in combat prowess between us, you shouldn't worry about my safety.
-Type100(0);FP6(0)<Speaker>FP6</Speaker><通讯框>||:<color=#00CCFF>At the end of the day, you just don't want to bother others do you?</color>+<color=#00CCFF>Unlike Px4, I won't charge you for lending a hand. </color>
+Type100(0);FP6(0)<Speaker>FP6</Speaker><scan><通讯框>||:<color=#00CCFF>Tsk, I know. It's just that the guide you hired—</color>+<color=#00CCFF>They just so happened to meet you at the black market, just so happened to have seen a cherry blossom in the past, just so happened to have lost their five-years-old map data and now have to guide you purely from memory?</color>+<color=#00CCFF>Are you SURE you don't need my support? </color>
+Type100(0)<Speaker>100 Shiki</Speaker>;FP6(0)<scan><通讯框>||:...I understand Miss FP-6's concern. +While I am also concerned with Miss Afra's excuse, she's just an ordinary civilian Doll. Considering the gap in combat prowess between us, you shouldn't worry about my safety.
+Type100(0);FP6(0)<Speaker>FP6</Speaker><scan><通讯框>||:<color=#00CCFF>At the end of the day, you just don't want to bother others do you?</color>+<color=#00CCFF>Unlike Px4, I won't charge you for lending a hand. </color>
 ()||:100 Shiki bites her lip, appearing somewhat embarrassed.
-Type100(0)<Speaker>100 Shiki</Speaker>;FP6(0)<通讯框>||:That's not the case—Miss FP-6 is on patrol duty, it-it's a crucial task for making the sector safe! +In the meanwhile, looking after that cherry blossom is but my own little wish, insignificant in comparison to...
-Type100(0);FP6(0)<Speaker>FP6</Speaker><通讯框>||:<color=#00CCFF> Gee, I can almost feel the badge on top of my cap shining brighter!</color>+<color=#00CCFF>Alright then, set me as your emergency contact and we'll keep in touch. Also—</color>
-FP6(0)<Speaker>FP6</Speaker><通讯框>||:<color=#00CCFF>May your wish come true. </color>
+Type100(0)<Speaker>100 Shiki</Speaker>;FP6(0)<scan><通讯框>||:That's not the case—Miss FP-6 is on patrol duty, it-it's a crucial task for making the sector safe! +In the meanwhile, looking after that cherry blossom is but my own little wish, insignificant in comparison to...
+Type100(0);FP6(0)<Speaker>FP6</Speaker><scan><通讯框>||:<color=#00CCFF> Gee, I can almost feel the badge on top of my cap shining brighter!</color>+<color=#00CCFF>Alright then, set me as your emergency contact and we'll keep in touch. Also—</color>
+FP6(0)<Speaker>FP6</Speaker><scan><通讯框>||:<color=#00CCFF>May your wish come true. </color>
 ()||<SE1>AVG_tele_disconnect</SE1>:As the call ends, Afra immediately limps over.
 NPC-Maid(0)<Speaker>Afra</Speaker>||:The gentle and caring Miss Sakura, I know you're a good person through and through...
 ()||:Afra shakes her leg; her joint parts grind against each other in a cacophony of clanks. 

@@ -7,12 +7,12 @@ TMP(2)<Speaker>TMP</Speaker>||<SE1>AVG_tele_disconnect</SE1>:K2, why aren't you 
 TMP(2)<Speaker>TMP</Speaker>||:Where...is everybody...?
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:TMP sits down dejectedly on the stairs when her communicator finally chirps.
 TMP(2)<Speaker>TMP</Speaker>||:K2, you're finally returning my calls!
-TMP(2);K2(0)<Speaker>K2</Speaker><通讯框>||:Oh, sorry. We've been a bit busy.
+TMP(2);K2(0)<Speaker>K2</Speaker><scan><通讯框>||:Oh, sorry. We've been a bit busy.
 TMP(2)<Speaker>TMP</Speaker>;K2(0)||:Lots of work tonight?
 TMP(2);K2(0)<Speaker>K2</Speaker>||:<color=#00CCFF>Um... Yeah, haha.</color>
 TMP(2)<Speaker>TMP</Speaker>||:The Christmas event is about to end. I was hoping—
 ()<Speaker></Speaker>||<SE1>AVG_brake</SE1><震屏3>:An ear-splitting screech of brakes can be heard coming from K2's end.
-K2(0)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>Your driving sucks!</color> +<color=#00CCFF>Sorry, TMP. I gotta go. Talk to you later.</color>
+K2(0)<Speaker>K2</Speaker><scan><通讯框>||:<color=#00CCFF>Your driving sucks!</color> +<color=#00CCFF>Sorry, TMP. I gotta go. Talk to you later.</color>
 TMP(2)<Speaker>TMP</Speaker>||:Okay...
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:K2 hangs up hurriedly. Clutching at her communicator, TMP thinks about her friends in the frigid wind.
 ()||<黑点1>:

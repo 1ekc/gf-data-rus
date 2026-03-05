@@ -83,7 +83,7 @@ NPC-Machlian(5)<Speaker>Commander</Speaker><Position>0,-50</Position>||:...Alrig
 NPC-Machlian(8)<Speaker>Machlian</Speaker><Position>0,-50</Position>||:...Thank you for always believing in me, Robin. +I'll give you the medicine, I promise.
 ()<Speaker></Speaker>||:The Commander nods and takes several steps back, along with Dandelion. +Machlian grits her teeth, then plunges the needles into her arm. +As the machine starts up, the lights in the synthesis room suddenly come on.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:A transmission comes in.
-VP1915(0)<Speaker>Perosa</Speaker><通讯框>||:<color=#00CCFF>Time for your scheduled check-in, Commander.</color>
+VP1915(0)<Speaker>Perosa</Speaker><scan><通讯框>||:<color=#00CCFF>Time for your scheduled check-in, Commander.</color>
 VP1915(0)<Speaker>Commander</Speaker>||:Things are going well here. +We've reached our objective, and we're having a look around. +Any issues on your end?
 VP1915(0)<Speaker>Perosa</Speaker>||:<color=#00CCFF>None so far.</color> +<color=#00CCFF>404 is on patrol, though we can't see them.</color> +<color=#00CCFF>But we did radio them just now.</color>
 VP1915(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:A strange burst of radio static suddenly comes from the communicator.

@@ -86,26 +86,26 @@ UMP9Mod(3)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:12 slots... It'll 
 RO635Mod(0)<Speaker>RO635</Speaker>||:Indeed, this operation is going to be quite challenging. +Which is why the Commander had this conference room built on such short notice and asked us to run multiple tests.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Having experienced so many tragedies caused by comms breakdowns, the Commander must have learned their lesson.
 UMP9Mod(0)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:Once bitten, twice shy?
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hello everyone on Task Force Aeneas, I am your commander.</color> +<color=#00CCFF>Please upload your neural data backup to this link.</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hello everyone on Task Force Aeneas, I am your commander.</color> +<color=#00CCFF>Please upload your neural data backup to this link.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:...You may sound like the Commander, but we can still see your face.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Whoops, my mistake.</color>
+NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Whoops, my mistake.</color>
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Why is it you again?! Where's 15? I wanna see her! Let me see 15!
-AR15Mod(8)<Speaker>ST AR-15</Speaker><通讯框>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=6</controll_shake><SE1>AVG_whitenoise</SE1><SE1>Rope</SE1>:<color=#00CCFF><size=50>DAN! DE! LION! GIVE THE COMMAND TABLET BACK!</size></color>
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Don't mind her, she's just messing around. The Commander is currently away on some business. Let's check our comms.</color>
+AR15Mod(8)<Speaker>ST AR-15</Speaker><scan><通讯框>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=6</controll_shake><SE1>AVG_whitenoise</SE1><SE1>Rope</SE1>:<color=#00CCFF><size=50>DAN! DE! LION! GIVE THE COMMAND TABLET BACK!</size></color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Don't mind her, she's just messing around. The Commander is currently away on some business. Let's check our comms.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:That's good to hear.
 M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:15!
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>I'm still struggling to understand why I'm being left behind for this operation.</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>I'm still struggling to understand why I'm being left behind for this operation.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:Someone needs to protect Dandelion and the Commander. One of us has to stay behind.
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>But we're extremely short-handed! A handful of Dolls are no match for Paradeus' strength!</color> +<color=#00CCFF>416 and Gr G11 are also here with the Commander while there are only so few of you...</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>But we're extremely short-handed! A handful of Dolls are no match for Paradeus' strength!</color> +<color=#00CCFF>416 and Gr G11 are also here with the Commander while there are only so few of you...</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Gr G11's neural cloud suffered a lot of damage in the last operation, Dier is giving her remote maintenance. +416 is staying behind to stabilize her neural cloud with Dier's help. +So technically, neither of them have the capacity to protect the Commander at the moment.
-AR15Mod(4)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>I'm just... a bit concerned...</color>
+AR15Mod(4)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>I'm just... a bit concerned...</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Just take care of the Commander. They have a lot to do apart from worrying about things on our end.
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>That goes without saying.</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>That goes without saying.</color>
 RO635Mod(0)<Speaker>RO635</Speaker>||:Don't worry, 15. Our mission objective isn't to eliminate enemies; this is meant to be a covert operation. +We will avoid engaging Paradeus in battle as much as possible and make our objective the priority.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:This is also why we're keeping our party small. Big numbers won't be an advantage for our infiltration. +All members of this group are picked because their skill sets match the mission requirement. The point is to meet the requirement while keeping the group as small as possible.
-AR15Mod(2)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>...Fine. Nothing I say will change anything.</color>
-AR15Mod(4)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>...</color>
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Stay safe and make sure you come back.</color>
+AR15Mod(2)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>...Fine. Nothing I say will change anything.</color>
+AR15Mod(4)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Stay safe and make sure you come back.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:After some awkward words of encouragement, ST AR-15 hangs up.
 RO635Mod(0)<Speaker>RO635</Speaker>||:...
 M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:We certainly will!
@@ -130,7 +130,7 @@ BOSS-9(0)<Speaker>Architect</Speaker><Shake>0.1</Shake>||:<size=50>Hey, are you 
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><BGM>BGM_Empty</BGM>:In a certain safe house in Berlin.
 ()<Speaker></Speaker>||<BGM>GF_21winter_avg_pathfinder</BGM><SE1>AVG_Gray_Hand_Mech</SE1>:In an inconspicuous building, Beak is assembling a new motorbike. +Meanwhile, the other Doll in the room is in an encrypted call.
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Well done.</color>
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Well done.</color>
 M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:Have you intercepted those planes?
 M16A1BOSS(2);NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>You don't seem too worried about your old boss? Then you must've been in touch with the Commander.</color> +<color=#00CCFF>Don't you fret. The Griffin base may be lost, but Kryuger and the others are still alive.</color> +<color=#00CCFF>If all goes well, you will soon get to meet them in Berlin.</color>
 M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:Save the small talk. Give me the mission brief.
@@ -150,5 +150,5 @@ M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:...Alright.
 NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>I will share all the intelligence I have with you.</color> +<color=#00CCFF>By the way, here's a little clue—the mole among us has exposed herself. She may be able to give you some help.</color>
 NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>It's a woman named Nemhran.</color> +<color=#00CCFF>She has already departed from Moscow and is en route to Berlin.</color>
 ()||<黑屏1>:
-NPC-Havel(0)<Speaker>Havier</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>Follow her. You may learn something unexpected.</color>
+NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>Follow her. You may learn something unexpected.</color>
 ()||<黑点1>:

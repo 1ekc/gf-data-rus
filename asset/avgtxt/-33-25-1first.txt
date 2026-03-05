@@ -23,19 +23,19 @@ AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:(Am I being paranoid? Why do I 
 ()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Empty</BGM>:At the Griffin command post.
 NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Commander, the echelons are formed up and ready. Apart from a few echelons investigating the test subjects, all the other Dolls are outside the control center building. +It's not often that the AR Team call for reinforcements. Could they have found a way to open the quarantine wall?
 指挥官()<Speaker>Commander</Speaker>||<BGM>BGM_Brain</BGM>:Something just feels off about this... What are your thoughts on the matter, Persica?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I've got a bit of a bad feeling about this too... A dense network, forcing a connection with M4, and now she requests to not shoot at the "Isomers".</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I've got a bit of a bad feeling about this too... A dense network, forcing a connection with M4, and now she requests to not shoot at the "Isomers".</color>
 NPC-Persica(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:What exactly is an Isomer?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>I don't know why M4 would suddenly mention that term either...</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>I don't know why M4 would suddenly mention that term either...</color>
 NPC-Persica(0);NPC-Kalin(7)<Speaker>Kalina</Speaker>||:However, M4 does physically resemble those test subjects. Miss Persica, you should know something about this since you developed M4, right?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>I'm looking into it, but I'm not sure—</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I'm looking into it, but I'm not sure—</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:An urgent transmission suddenly comes though.
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Commander! Miss Persica! We've got trouble! 45's trapped inside M4's neural cloud!</color>
+UMP9Mod(4)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>Commander! Miss Persica! We've got trouble! 45's trapped inside M4's neural cloud!</color>
 UMP9Mod(4)<Speaker>Commander</Speaker>||:Say what?
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>45 entered M4's neural cloud when she was performing the connection, but she's trapped inside now for some reason!</color>+<color=#00CCFF>These are the memory fragments she intercepted, she said I HAD to get them to you! Please, you have to help us save 45!</color>
+UMP9Mod(4)<Speaker>UMP9</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>45 entered M4's neural cloud when she was performing the connection, but she's trapped inside now for some reason!</color>+<color=#00CCFF>These are the memory fragments she intercepted, she said I HAD to get them to you! Please, you have to help us save 45!</color>
 ()<Speaker></Speaker>||<BIN>195</BIN><黑屏2>:...
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>This...this is!</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>This...this is!</color>
 NPC-Persica(0)<Speaker>Commander</Speaker>||:What's the matter?
-NPC-Persica(0)<Speaker>Persica</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>"Inverted Forest"... That was the codename of the first Doll neural cloud development project that Lyco and I worked on in 90wish!</color>+<color=#00CCFF>It's a layered space made to simulate neural clouds. The basic neural cloud templates of the second generation of Tactical Dolls were first computed here.</color>+<color=#00CCFF>I see... I know what William is trying to do now!</color>+<color=#00CCFF>Commander! Make M4 terminate the connection! You mustn't let M4's neural cloud fuse with them!</color>
+NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>"Inverted Forest"... That was the codename of the first Doll neural cloud development project that Lyco and I worked on in 90wish!</color>+<color=#00CCFF>It's a layered space made to simulate neural clouds. The basic neural cloud templates of the second generation of Tactical Dolls were first computed here.</color>+<color=#00CCFF>I see... I know what William is trying to do now!</color>+<color=#00CCFF>Commander! Make M4 terminate the connection! You mustn't let M4's neural cloud fuse with them!</color>
 ()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:Inside the control center.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4! M4, did you hear that?! The Commander orders you to terminate the connection immediately!
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:...

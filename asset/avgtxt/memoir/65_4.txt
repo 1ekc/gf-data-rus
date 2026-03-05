@@ -23,11 +23,11 @@ HK416Mod(0);NPC-Deele(0)<Speaker>Dier</Speaker>||:(Sighs) If it's just money, I'
 HK416Mod(0)<Speaker>416</Speaker>;NPC-Deele(0)||:Then what about Gr G11? You said her neural cloud diagnostics finished before mine...
 NPC-Deele(0)<Speaker>Dier</Speaker>||:Hm? Oh yeah, the diagnostic revealed that she hasn't gotten worse or anything. Everything's normal, but there's quite a few bad sectors and permanent damage in her neural cloud.+Since I didn't have the luxury of giving her more upgrades, I sent her off to the game room after making a few small repairs.
 ()||:Dier gestures to the side, at a security camera monitor display which shows Gr G11 holding a controller and playing a video game against a maid Doll.
-G11(0)<Speaker>Gr G11</Speaker><通讯框>||:Ah, ah, ah! I win! Fräulein Maid, I'm surprised by how good you are at Kamen Fighter!
-G11(0)<通讯框>;G11story(1)<Speaker>Maid Doll</Speaker><通讯框>||:Master Dier is busy most of the time, so I usually only get to play games by myself...
-G11(0)<Speaker>Gr G11</Speaker><通讯框>;G11story(1)<通讯框>||:What else do you know? Have you ever played the remake of Dark Zombies 2? How about trying it in co-op mode?
-G11(0)<通讯框>;G11story(1)<Speaker>Maid Doll</Speaker><通讯框>||:...I would be happy to. Shall we set the difficulty to Hell Mode?
-G11(0)<Speaker>Gr G11</Speaker><通讯框>||:Sounds great! Looks like we're going to be good friends!
+G11(0)<Speaker>Gr G11</Speaker><scan><通讯框>||:Ah, ah, ah! I win! Fräulein Maid, I'm surprised by how good you are at Kamen Fighter!
+G11(0)<scan><通讯框>;G11story(1)<Speaker>Maid Doll</Speaker><scan><通讯框>||:Master Dier is busy most of the time, so I usually only get to play games by myself...
+G11(0)<Speaker>Gr G11</Speaker><scan><通讯框>;G11story(1)<scan><通讯框>||:What else do you know? Have you ever played the remake of Dark Zombies 2? How about trying it in co-op mode?
+G11(0)<scan><通讯框>;G11story(1)<Speaker>Maid Doll</Speaker><scan><通讯框>||:...I would be happy to. Shall we set the difficulty to Hell Mode?
+G11(0)<Speaker>Gr G11</Speaker><scan><通讯框>||:Sounds great! Looks like we're going to be good friends!
 NPC-Deele(0)<Speaker>Dier</Speaker>||<BGM>BGM_Empty</BGM>:Well? Want me to call her over? Or should I take you to her?
 HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Moon</BGM>:...No need for that. Things are fine as they are now. +This is just fine.
 ()||:416 gazes at Gr G11's image on the screen and watches as the latter laughs heartily while having fun. +Slowly, 416's deeply furrowed brows start to relax, and the corners of her mouth turn up slightly.

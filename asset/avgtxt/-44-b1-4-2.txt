@@ -1,94 +1,94 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<BIN>357</BIN><黑屏2><BGM>GF_EV9_Story</BGM>:Berlin. +As the lock disengages with a "ka-click", the door to the building slowly opens. +Several lights come on within the dark room. +Zzzzt—+The holographic image of a man appears in the doorway.
-NPC-Griffin(0)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>Good afternoon, Commander.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Good day, Sir.
-NPC-Griffin(0)<Speaker>???</Speaker><通讯框>||:<color=#00CCFF>You seem a little stiff, Commander.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...Well, not every Griffin Commander has the chance to meet you in person. +I've heard my fair share of rumors about you.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Rumors are just that—rumors.</color> +<color=#00CCFF>Right now, I am just an old man, performing some insignificant administrative work. </color> +<color=#00CCFF>You can think of me as an ordinary senior citizen, Commander. We are much closer than you imagine.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:But how could I do that, Sir? After all, you're...
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Just call me "Griffin", Commander.</color> +<color=#00CCFF>I hope we can be less formal around each other while we're in private.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Um... Alright, Mr...Griffin.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>(Chuckles)</color> +<color=#00CCFF>While this is a memorable first meeting, I regret that I can only speak to you in this manner.</color> +<color=#00CCFF>I hope you are not too offended.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:No, of course not.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Thank you for being so understanding, Commander.</color> +<color=#00CCFF>I, too, have heard a lot about you.</color> +<color=#00CCFF>At first, I thought someone like yourself, who has been on the battlefield many times, would have the indelible scent of bloodthirst and murder about them.</color> +<color=#00CCFF>But it seems to me that you are simply a kind and polite young person.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:I have not been through a fraction of what you have experienced. +And I do not wish to become like my enemies.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Haha, do pardon the ramblings of an old man.</color> +<color=#00CCFF>I am simply delighted to see you.</color> +<color=#00CCFF>Kryuger has always had a good eye for talent, and I have always favored useful and capable individuals.</color> +<color=#00CCFF>Please excuse this bad habit of mine.</color>
-NPC-Griffin(0)<通讯框>;VP1915(0)<Speaker>Perosa</Speaker>||:Sir.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Ah yes, please, sit down. No need to be so stiff.</color> +<color=#00CCFF>Let us move on to the main subject, Commander.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Of course.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Now then, before we begin...</color> +<color=#00CCFF>Commander, I believe you have already encountered this person.</color>
-()<Speaker>Commander</Speaker><通讯框>||<黑屏2><BIN>335</BIN>:Indeed, I have found Machlian... However, there are many things about her which do not match the data provided. +Before conclusive evidence is available, I would not recommend considering her and the person in the picture to be one and the same.
+NPC-Griffin(0)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>Good afternoon, Commander.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Good day, Sir.
+NPC-Griffin(0)<Speaker>???</Speaker><scan><通讯框>||:<color=#00CCFF>You seem a little stiff, Commander.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...Well, not every Griffin Commander has the chance to meet you in person. +I've heard my fair share of rumors about you.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Rumors are just that—rumors.</color> +<color=#00CCFF>Right now, I am just an old man, performing some insignificant administrative work. </color> +<color=#00CCFF>You can think of me as an ordinary senior citizen, Commander. We are much closer than you imagine.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:But how could I do that, Sir? After all, you're...
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Just call me "Griffin", Commander.</color> +<color=#00CCFF>I hope we can be less formal around each other while we're in private.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Um... Alright, Mr...Griffin.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>(Chuckles)</color> +<color=#00CCFF>While this is a memorable first meeting, I regret that I can only speak to you in this manner.</color> +<color=#00CCFF>I hope you are not too offended.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:No, of course not.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Thank you for being so understanding, Commander.</color> +<color=#00CCFF>I, too, have heard a lot about you.</color> +<color=#00CCFF>At first, I thought someone like yourself, who has been on the battlefield many times, would have the indelible scent of bloodthirst and murder about them.</color> +<color=#00CCFF>But it seems to me that you are simply a kind and polite young person.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:I have not been through a fraction of what you have experienced. +And I do not wish to become like my enemies.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Haha, do pardon the ramblings of an old man.</color> +<color=#00CCFF>I am simply delighted to see you.</color> +<color=#00CCFF>Kryuger has always had a good eye for talent, and I have always favored useful and capable individuals.</color> +<color=#00CCFF>Please excuse this bad habit of mine.</color>
+NPC-Griffin(0)<scan><通讯框>;VP1915(0)<Speaker>Perosa</Speaker>||:Sir.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Ah yes, please, sit down. No need to be so stiff.</color> +<color=#00CCFF>Let us move on to the main subject, Commander.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Of course.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Now then, before we begin...</color> +<color=#00CCFF>Commander, I believe you have already encountered this person.</color>
+()<Speaker>Commander</Speaker><scan><通讯框>||<黑屏2><BIN>335</BIN>:Indeed, I have found Machlian... However, there are many things about her which do not match the data provided. +Before conclusive evidence is available, I would not recommend considering her and the person in the picture to be one and the same.
 ()||:Griffin smiles.
-()<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>You ARE a sharp one, Commander. Kryuger's opinion of you was not inflated.</color> +<color=#00CCFF>Indeed, the person in the picture is not the Machlian whom you've met.</color> +<color=#00CCFF>Rather, she is the Paradeus agent who was planted by Ange's side in Bremen. She stole the name of Morridow and infiltrated our government.</color> +<color=#00CCFF>For the sake of convenience, let us continue calling her "Morridow".</color>
-()<Speaker>Commander</Speaker><通讯框>||<黑屏1>:So is Machlian Morridow? +Or...are they two identical-looking women?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||<BIN>357</BIN><黑屏2>:<color=#00CCFF>That is what I hope you will find out.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I have also arranged a consultant for you regarding this problem.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:A consultant?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I believe you will be very happy to fight side-by-side with Captain Angelia Tsoi. </color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Ange? She's in Berlin too?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Perhaps it is time the two of you finally met.</color> +<color=#00CCFF>I am sure you have a lot to ask her about Bremen and Morridow.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Alright, I see. +Thank you... Truth to be told, Ange is my most reliable friend.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Indeed, your most reliable friends are often found by your side, Commander.</color> +<color=#00CCFF>I hope that after the two of you compare notes, you can become a capable agent for us in Berlin.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:You want me to investigate Paradeus' plans for Germany?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>You should begin by looking into Machlian. I believe your efforts will be fruitful.</color> +<color=#00CCFF>I imagine you have already noticed the anomalies in Bohnsdorf.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...The villagers seemed to be worshipping Machlian in a strange fashion. +Their religious and cult-like behavior certainly matches up with Paradeus' modus operandi. +Their sermons also validated my suspicion... Paradeus' influence is spreading, and I am sure it is already deeply rooted.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Hm, what else have you learned?</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Also, there's Machlian... Or should I say Morridow, or whatever her real identity is. +It seems Paradeus values her greatly. +When we were fleeing with her, not only did the villagers come out in force to stop us, Paradeus also dispatched large numbers of troops to cut off our escape. +That was definitely not an act. Their fixation on Machlian is genuine.
-NPC-Griffin(0)<通讯框>;VP1915(0)<Speaker>Perosa</Speaker>||:Apart from information about Machlian, our previous recon attempts even uncovered the presence of a high-ranking Nyto. +However, she did not engage us directly during the latest confrontation.
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Whatever the reason, they were very unwilling to let Machlian fall into our hands. +Fortunately, we chose to infiltrate them and managed to safely extract her by taking advantage of the enemy's slack security measures.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>You have done very well, Commander.</color> +<color=#00CCFF>Kryuger was right about you. You've served up quite a surprise for your first mission.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Er... Thank you for the praise.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Since Machlian is so important to Paradeus, we can make full use of the importance which they attach to her in order to gain more leads.</color> +<color=#00CCFF>I give you full discretion over how to handle this matter, Commander. I can think of nobody else who is as reliable and understands Paradeus as well as you do.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...I understand.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Paradeus' activities are growing more frequent throughout Germany.</color> +<color=#00CCFF>The incident in Bremen was only one of many such cases.</color> +<color=#00CCFF>Especially now that bloody William has finally managed to extend his claws into Berlin.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:What is this William person like?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I came here to look into this very matter.</color> +<color=#00CCFF>All we know from his actions is that he is very highly placed. Otherwise there is no way to explain how he can mobilize so many resources.</color> +<color=#00CCFF>I still do not know what he is planning, but I am certain that he will stop at no means to disrupt our...endeavors. </color> +<color=#00CCFF>He has even orchestrated several terrorist attacks towards that end.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:I will spare no effort in my investigation. but if we end up having to face Paradeus head-on like we did before... +I fear our current forces are somewhat insufficient.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I would very much like to personally provide you with support.</color> +<color=#00CCFF>However, my current duties will not permit me to do so... Which is why I seek your understanding and forgiveness, Commander.</color> +<color=#00CCFF>I will not let the opportunities created by your previous efforts go to waste.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:You flatter me.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Still, I will assist you to the best of my ability.</color> +<color=#00CCFF>I hope you enjoy the temporary command post I have prepared for you. The facilities here are quite comprehensive and you may make free use of everything here.</color> +<color=#00CCFF>In addition...</color> +<color=#00CCFF>Perosa, you and Squad Griffin will be under the Commander's authority from now on. I want you to give the Commander your full support in all future operations.</color>
-NPC-Griffin(0)<Speaker><通讯框>;VP1915(0)<Speaker>Perosa</Speaker>||:Yes, Sir!
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...Thank you for your help. However... +I do not know if I can stop Paradeus' schemes by myself.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Nevertheless, I believe you will try with all your might.</color> +<color=#00CCFF>That's the way you've always done it, no?</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Do not underestimate yourself, Commander.</color> +<color=#00CCFF>The things you have accomplished would be miracles in the eyes of others.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...I understand.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Something still seems to be weighing on your mind.</color> +<color=#00CCFF>I might be mistaken, but could it be that I have not yet won your trust?</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:No...how could that be? +It's just... Perhaps going through so much has left me a little high-strung.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>It is good to be suspicious, and I am willing to use my actions to help quell your suspicions.</color> +<color=#00CCFF>Kryuger has mentioned your opinions many times before.</color> +<color=#00CCFF>Perhaps we might not be completely in alignment, but our ideals are one and the same.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...To be the "shining beacon in a brave new world"?
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Everything we do is for the future of ourselves and this world.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Still, I spent a lot of time thinking when I learned that our company had the same motto as the Rossartrist movement.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>What did you think about?</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:I thought about what I ought to be doing. +How I could help our country, our society, and our world free itself from the crappy circumstances we're in.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>A revolutionary needs an appropriate philosophy. I believe we will get along very well.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:I'm not too sure about that, Mr. Griffin. +Rossartrism paints a beautiful picture of the world. +But can people really unite and understand each other?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>...Perhaps I shouldn't keep you in the dark.</color> +<color=#00CCFF>Do you want to know how I truly feel about this?</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:Please, by all means.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>My answer is...they cannot.</color> +<color=#00CCFF>Men will never be able to stand united or understand each other forever.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:What...
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>That is why this world needs order. It needs rules that will FORCE them to unite, to guide them towards understanding each other. </color> +<color=#00CCFF>Those who cause division must be punished. Those who help each other must be rewarded. Only the existence of such behavior-shaping rules will allow mankind to right its wrongs and return the world to its intended order.</color> +<color=#00CCFF>Mr. Rossartre was a great pioneer, but he was an idealist.</color> +<color=#00CCFF>Idealism cannot help us build an ideal world. We must take responsibility for the consequences of our actions.</color> +<color=#00CCFF>We must build a world order that benefits all of humanity, and to that end we will pay any price.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:And it will be up to "you" to build and dictate the order of the world?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>It is the heart of man that decides the order of the world. We are merely servants of mankind's interests.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:...Your answer is a little different from what I expected.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Speaking the truth is the best way of dealing with intelligent people.</color> +<color=#00CCFF>If slogans alone could bring about revolutions, then why would we need to speak to each other here?</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:... +I have one last question.
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>Go ahead.</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:When we reach the end of this road and look back on the things we've sacrificed to get there... +Will justice and decency be among them?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||<BGM>GF_21winter_avg_pathfinder</BGM>:<color=#00CCFF>Commander, do you know what fables are?</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:...Fables?
-NPC-Griffin(1)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>"The hedgehog, who serves absolute truth, reduces the world to one organizing principle, raises his spines all over, and staunchly resists all other views."</color> +<color=#00CCFF>"The cunning and mercurial fox rides the waves of tumultuous times, narrowing his eyes and discerning the discordant voices that can reshape the world."</color>
-NPC-Griffin(1)<Speaker>Commander</Speaker><通讯框>||:The hedgehog and the fox... It sounds more like philosophy.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>I will not clarify your doubts right now, just as I do not expect you to clarify mind either.</color> +<color=#00CCFF>But someday... You will make a choice of your own.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:...Perhaps.
-NPC-Griffin(0)<Speaker>Griffin</Speaker><通讯框>||:<color=#00CCFF>In that case, I hope you will bring us good news, Commander.</color> +<color=#00CCFF>I have an important meeting that I need to attend, so I will bid you farewell for now.</color>
-NPC-Griffin(0)<Speaker>Commander</Speaker><通讯框>||:Yes, Sir.
+()<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>You ARE a sharp one, Commander. Kryuger's opinion of you was not inflated.</color> +<color=#00CCFF>Indeed, the person in the picture is not the Machlian whom you've met.</color> +<color=#00CCFF>Rather, she is the Paradeus agent who was planted by Ange's side in Bremen. She stole the name of Morridow and infiltrated our government.</color> +<color=#00CCFF>For the sake of convenience, let us continue calling her "Morridow".</color>
+()<Speaker>Commander</Speaker><scan><通讯框>||<黑屏1>:So is Machlian Morridow? +Or...are they two identical-looking women?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||<BIN>357</BIN><黑屏2>:<color=#00CCFF>That is what I hope you will find out.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I have also arranged a consultant for you regarding this problem.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:A consultant?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I believe you will be very happy to fight side-by-side with Captain Angelia Tsoi. </color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Ange? She's in Berlin too?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Perhaps it is time the two of you finally met.</color> +<color=#00CCFF>I am sure you have a lot to ask her about Bremen and Morridow.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Alright, I see. +Thank you... Truth to be told, Ange is my most reliable friend.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Indeed, your most reliable friends are often found by your side, Commander.</color> +<color=#00CCFF>I hope that after the two of you compare notes, you can become a capable agent for us in Berlin.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:You want me to investigate Paradeus' plans for Germany?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>You should begin by looking into Machlian. I believe your efforts will be fruitful.</color> +<color=#00CCFF>I imagine you have already noticed the anomalies in Bohnsdorf.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...The villagers seemed to be worshipping Machlian in a strange fashion. +Their religious and cult-like behavior certainly matches up with Paradeus' modus operandi. +Their sermons also validated my suspicion... Paradeus' influence is spreading, and I am sure it is already deeply rooted.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Hm, what else have you learned?</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Also, there's Machlian... Or should I say Morridow, or whatever her real identity is. +It seems Paradeus values her greatly. +When we were fleeing with her, not only did the villagers come out in force to stop us, Paradeus also dispatched large numbers of troops to cut off our escape. +That was definitely not an act. Their fixation on Machlian is genuine.
+NPC-Griffin(0)<scan><通讯框>;VP1915(0)<Speaker>Perosa</Speaker>||:Apart from information about Machlian, our previous recon attempts even uncovered the presence of a high-ranking Nyto. +However, she did not engage us directly during the latest confrontation.
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Whatever the reason, they were very unwilling to let Machlian fall into our hands. +Fortunately, we chose to infiltrate them and managed to safely extract her by taking advantage of the enemy's slack security measures.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>You have done very well, Commander.</color> +<color=#00CCFF>Kryuger was right about you. You've served up quite a surprise for your first mission.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Er... Thank you for the praise.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Since Machlian is so important to Paradeus, we can make full use of the importance which they attach to her in order to gain more leads.</color> +<color=#00CCFF>I give you full discretion over how to handle this matter, Commander. I can think of nobody else who is as reliable and understands Paradeus as well as you do.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...I understand.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Paradeus' activities are growing more frequent throughout Germany.</color> +<color=#00CCFF>The incident in Bremen was only one of many such cases.</color> +<color=#00CCFF>Especially now that bloody William has finally managed to extend his claws into Berlin.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:What is this William person like?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I came here to look into this very matter.</color> +<color=#00CCFF>All we know from his actions is that he is very highly placed. Otherwise there is no way to explain how he can mobilize so many resources.</color> +<color=#00CCFF>I still do not know what he is planning, but I am certain that he will stop at no means to disrupt our...endeavors. </color> +<color=#00CCFF>He has even orchestrated several terrorist attacks towards that end.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:I will spare no effort in my investigation. but if we end up having to face Paradeus head-on like we did before... +I fear our current forces are somewhat insufficient.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I would very much like to personally provide you with support.</color> +<color=#00CCFF>However, my current duties will not permit me to do so... Which is why I seek your understanding and forgiveness, Commander.</color> +<color=#00CCFF>I will not let the opportunities created by your previous efforts go to waste.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:You flatter me.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Still, I will assist you to the best of my ability.</color> +<color=#00CCFF>I hope you enjoy the temporary command post I have prepared for you. The facilities here are quite comprehensive and you may make free use of everything here.</color> +<color=#00CCFF>In addition...</color> +<color=#00CCFF>Perosa, you and Squad Griffin will be under the Commander's authority from now on. I want you to give the Commander your full support in all future operations.</color>
+NPC-Griffin(0)<Speaker><scan><通讯框>;VP1915(0)<Speaker>Perosa</Speaker>||:Yes, Sir!
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...Thank you for your help. However... +I do not know if I can stop Paradeus' schemes by myself.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Nevertheless, I believe you will try with all your might.</color> +<color=#00CCFF>That's the way you've always done it, no?</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Do not underestimate yourself, Commander.</color> +<color=#00CCFF>The things you have accomplished would be miracles in the eyes of others.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...I understand.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Something still seems to be weighing on your mind.</color> +<color=#00CCFF>I might be mistaken, but could it be that I have not yet won your trust?</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:No...how could that be? +It's just... Perhaps going through so much has left me a little high-strung.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>It is good to be suspicious, and I am willing to use my actions to help quell your suspicions.</color> +<color=#00CCFF>Kryuger has mentioned your opinions many times before.</color> +<color=#00CCFF>Perhaps we might not be completely in alignment, but our ideals are one and the same.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...To be the "shining beacon in a brave new world"?
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Everything we do is for the future of ourselves and this world.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Still, I spent a lot of time thinking when I learned that our company had the same motto as the Rossartrist movement.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>What did you think about?</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:I thought about what I ought to be doing. +How I could help our country, our society, and our world free itself from the crappy circumstances we're in.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>A revolutionary needs an appropriate philosophy. I believe we will get along very well.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:I'm not too sure about that, Mr. Griffin. +Rossartrism paints a beautiful picture of the world. +But can people really unite and understand each other?
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>...Perhaps I shouldn't keep you in the dark.</color> +<color=#00CCFF>Do you want to know how I truly feel about this?</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:Please, by all means.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>My answer is...they cannot.</color> +<color=#00CCFF>Men will never be able to stand united or understand each other forever.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:What...
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>That is why this world needs order. It needs rules that will FORCE them to unite, to guide them towards understanding each other. </color> +<color=#00CCFF>Those who cause division must be punished. Those who help each other must be rewarded. Only the existence of such behavior-shaping rules will allow mankind to right its wrongs and return the world to its intended order.</color> +<color=#00CCFF>Mr. Rossartre was a great pioneer, but he was an idealist.</color> +<color=#00CCFF>Idealism cannot help us build an ideal world. We must take responsibility for the consequences of our actions.</color> +<color=#00CCFF>We must build a world order that benefits all of humanity, and to that end we will pay any price.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:And it will be up to "you" to build and dictate the order of the world?
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>It is the heart of man that decides the order of the world. We are merely servants of mankind's interests.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:...Your answer is a little different from what I expected.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Speaking the truth is the best way of dealing with intelligent people.</color> +<color=#00CCFF>If slogans alone could bring about revolutions, then why would we need to speak to each other here?</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:... +I have one last question.
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>Go ahead.</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:When we reach the end of this road and look back on the things we've sacrificed to get there... +Will justice and decency be among them?
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||<BGM>GF_21winter_avg_pathfinder</BGM>:<color=#00CCFF>Commander, do you know what fables are?</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:...Fables?
+NPC-Griffin(1)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>"The hedgehog, who serves absolute truth, reduces the world to one organizing principle, raises his spines all over, and staunchly resists all other views."</color> +<color=#00CCFF>"The cunning and mercurial fox rides the waves of tumultuous times, narrowing his eyes and discerning the discordant voices that can reshape the world."</color>
+NPC-Griffin(1)<Speaker>Commander</Speaker><scan><通讯框>||:The hedgehog and the fox... It sounds more like philosophy.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>I will not clarify your doubts right now, just as I do not expect you to clarify mind either.</color> +<color=#00CCFF>But someday... You will make a choice of your own.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:...Perhaps.
+NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>In that case, I hope you will bring us good news, Commander.</color> +<color=#00CCFF>I have an important meeting that I need to attend, so I will bid you farewell for now.</color>
+NPC-Griffin(0)<Speaker>Commander</Speaker><scan><通讯框>||:Yes, Sir.
 ()||:Griffin executes a gentlemanly bow and switches off the holographic projection. +The Commander's eye falls on the chessboard laid out on the table. What kind of game awaits him this time?
 ()<Speaker>Commander</Speaker>||:...So Ange is in Berlin too?
 RO635Mod(0)<Speaker>RO635</Speaker>||:Commander, I just received an encrypted message.
-()<Speaker>Commander</Speaker><通讯框>||:Got it.
+()<Speaker>Commander</Speaker><scan><通讯框>||:Got it.
 ()||:I take the communicator from her and play back the message.
-NPC-Ange(2)<Speaker>Ange</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hi, Commander. Long time no see.</color>
+NPC-Ange(2)<Speaker>Ange</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hi, Commander. Long time no see.</color>
 ()||:A familiar face appears on the communicator, though Ange looks a lot more haggard than before. +Still, for some reason, it feels incredibly comforting to see someone I know I can count on.
-NPC-Ange(2)<Speaker>Ange</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>By the time you see this message, you'll probably have met "that guy". </color> +<color=#00CCFF>I'm sure you're bursting with questions—so am I.</color> +<color=#00CCFF>So come and meet me, Commander.</color> +<color=#00CCFF>I'll be waiting for you at Athena's Owl at 3pm today.</color> +<color=#00CCFF>And just to make it clear, I hate people who don't show up on time.</color>
+NPC-Ange(2)<Speaker>Ange</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>By the time you see this message, you'll probably have met "that guy". </color> +<color=#00CCFF>I'm sure you're bursting with questions—so am I.</color> +<color=#00CCFF>So come and meet me, Commander.</color> +<color=#00CCFF>I'll be waiting for you at Athena's Owl at 3pm today.</color> +<color=#00CCFF>And just to make it clear, I hate people who don't show up on time.</color>

@@ -1,26 +1,26 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>357</BIN><BGM>10254</BGM>:Through Dandelion, the Commander finds an extraordinary amount of memory fragments in Machlian's virtual cognition image...
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>How interesting...</color>
-NytoIsomer(7)<通讯框>;AR15Mod(0)<Speaker>ST AR-15</Speaker>||:You've been muttering to yourself for a while now. What have you found?
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>;AR15Mod(0)||:<color=#00CCFF>Machlian is truly a collection of contradictions. The structure of her virtual cognition image looks like very early Paradeus technology, but her memory fragments are presented in a way that is nothing like I've ever seen in a Nyto before.</color>
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:So she's both new and old...?
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>The memory fragments from the abandoned Isomers in Tallinn were just a collection of low-res visual clips, but Machlian's memories look like they've been digitized.</color>
-NytoIsomer(7)<Speaker>Commander</Speaker><通讯框>||:Is it hard to process her virtual consciousness?
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Hacking her virtual consciousness isn't difficult in itself, but I don't know where to start when it comes to a collection of memory fragments of this size. </color>
-NytoIsomer(7)<通讯框>;AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Well, whatever its structure, you can always sort them by chronological order, right?
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>;AR15Mod(0)||:<color=#00CCFF>If it were that simple, I would have done it already, but that's impossible here.</color> +<color=#00CCFF>Machlian's memory fragments lack timestamps, so I can't put them in chronological order.</color>
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:How could that be?!
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>That's how it is.</color>
-NytoIsomer(7)<通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What's that supposed to mean?
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:Memory fragments are all timestamped from creation and they are typically never removed. +Unless...
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>Unless someone really had all the free time to go frame by frame and trim off the timestamps for every single one.</color>
-NytoIsomer(7)<通讯框>;AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Deleting the timestamps for this amount of memory fragments on a frame-by-frame basis seems almost impossible.
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:Then that leaves only one possibility—her memories were destructively wiped, which led to the loss of their timestamps and her memories being thrown into disarray.
-NytoIsomer(7)<通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:So even she doesn't know what really happened in the past?
-NytoIsomer(7)<Speaker>Commander</Speaker><通讯框>||:... +Is it possible that somebody could have embedded these memory fragments into her?
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>No.</color> +<color=#00CCFF>Machlian's virtual cognition image is extremely fragile and forcibly implanting memories could have led to a complete breakdown.</color> +<color=#00CCFF>Also, I collected some readable data, but since they're out of order, reorganizing them might lead to many different conclusions once they're read.</color>
-NytoIsomer(7)<Speaker>Commander</Speaker><通讯框>||:Please go over the fragments which can be read.
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Alright, I'll start from the most recent one...</color>
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>How interesting...</color>
+NytoIsomer(7)<scan><通讯框>;AR15Mod(0)<Speaker>ST AR-15</Speaker>||:You've been muttering to yourself for a while now. What have you found?
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>;AR15Mod(0)||:<color=#00CCFF>Machlian is truly a collection of contradictions. The structure of her virtual cognition image looks like very early Paradeus technology, but her memory fragments are presented in a way that is nothing like I've ever seen in a Nyto before.</color>
+NytoIsomer(7)<scan><通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:So she's both new and old...?
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>;RO635Mod(0)||:<color=#00CCFF>The memory fragments from the abandoned Isomers in Tallinn were just a collection of low-res visual clips, but Machlian's memories look like they've been digitized.</color>
+NytoIsomer(7)<Speaker>Commander</Speaker><scan><通讯框>||:Is it hard to process her virtual consciousness?
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Hacking her virtual consciousness isn't difficult in itself, but I don't know where to start when it comes to a collection of memory fragments of this size. </color>
+NytoIsomer(7)<scan><通讯框>;AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Well, whatever its structure, you can always sort them by chronological order, right?
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>;AR15Mod(0)||:<color=#00CCFF>If it were that simple, I would have done it already, but that's impossible here.</color> +<color=#00CCFF>Machlian's memory fragments lack timestamps, so I can't put them in chronological order.</color>
+NytoIsomer(7)<scan><通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:How could that be?!
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>;RO635Mod(0)||:<color=#00CCFF>That's how it is.</color>
+NytoIsomer(7)<scan><通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What's that supposed to mean?
+NytoIsomer(7)<scan><通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:Memory fragments are all timestamped from creation and they are typically never removed. +Unless...
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>;RO635Mod(0)||:<color=#00CCFF>Unless someone really had all the free time to go frame by frame and trim off the timestamps for every single one.</color>
+NytoIsomer(7)<scan><通讯框>;AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Deleting the timestamps for this amount of memory fragments on a frame-by-frame basis seems almost impossible.
+NytoIsomer(7)<scan><通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:Then that leaves only one possibility—her memories were destructively wiped, which led to the loss of their timestamps and her memories being thrown into disarray.
+NytoIsomer(7)<scan><通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:So even she doesn't know what really happened in the past?
+NytoIsomer(7)<Speaker>Commander</Speaker><scan><通讯框>||:... +Is it possible that somebody could have embedded these memory fragments into her?
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>No.</color> +<color=#00CCFF>Machlian's virtual cognition image is extremely fragile and forcibly implanting memories could have led to a complete breakdown.</color> +<color=#00CCFF>Also, I collected some readable data, but since they're out of order, reorganizing them might lead to many different conclusions once they're read.</color>
+NytoIsomer(7)<Speaker>Commander</Speaker><scan><通讯框>||:Please go over the fragments which can be read.
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Alright, I'll start from the most recent one...</color>
 ()||<黑屏2><回忆><BIN>318</BIN><BGM>BGM_Empty</BGM>:...In Bohnsdorf.
 NPC-Lilyan(0)<Speaker>Elsa</Speaker>||<BGM>m_avg_labyrinth</BGM>:...My Lady, do you have any brothers or sisters?
 NPC-Machlian(4)<Speaker>Machlian</Speaker><Position>0,-50</Position>||:Hm, I suppose you could say I have a little sister.
@@ -32,7 +32,7 @@ NPC-Lilyan(0)<Speaker>Elsa</Speaker>||:I don't quite get it... +But that's okay!
 NPC-Machlian(4)<Speaker>Machlian</Speaker><Position>0,-50</Position>||<黑屏1>:Haha, you're my favorite person too, Elsa...
 ()<Speaker>Commander</Speaker>||<黑屏2><关闭蒙版><BIN>357</BIN><BGM>BGM_Empty</BGM>:Another memory of Bohnsdorf... We've seen those several times already.
 RO635Mod(0)<Speaker>RO635</Speaker>||:It's smooth and clear, but doesn't tell us anything of value.
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>It can't be helped. It seems only the memories from this period are clear.</color>
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>It can't be helped. It seems only the memories from this period are clear.</color>
 ()<Speaker>Commander</Speaker>||<黑屏1>:Let's look through the muddled memory fragments.
 ()||<黑屏2><BIN>70</BIN><回忆><BGM>10082</BGM>:...In a lab. +She is shackled to some kind of experimental device. +A man whose face is distorted and blurred sits opposite her.
 ()<Speaker>□□</Speaker>||:How do you feel now?
@@ -59,13 +59,13 @@ NPC-Machlian(7)<Speaker>Machlian</Speaker><Position>0,-50</Position><Shake>||:..
 NPC-Machlian(5)<Speaker>Machlian</Speaker><Position>0,-50</Position>||:Not very good...
 ()||<黑屏1>:The man with the distorted face laughs menacingly, and Machlian's vision begins to blur...
 ()<Speaker>Commander</Speaker>||<黑屏2><关闭蒙版><BIN>357</BIN><BGM>BGM_Empty</BGM>:... +Are there any fragments where his face is visible?
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>I do not recommend doing that at the moment. Machlian's virtual consciousness is weak to begin with; forcibly restoring specially processed image data could easily lead to a breakdown. </color>
-NytoIsomer(7)<通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:That guy's face is such a scary mess...
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:I don't know if that's the result of Machlian's fear for him or the alterations Paradeus has made to her memories. +If it's the latter, it would mean Paradeus has a terrifying degree of control over virtual cognition.
-NytoIsomer(7)<Speaker>Commander</Speaker><通讯框>||:...Keep searching.
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>I do not recommend doing that at the moment. Machlian's virtual consciousness is weak to begin with; forcibly restoring specially processed image data could easily lead to a breakdown. </color>
+NytoIsomer(7)<scan><通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:That guy's face is such a scary mess...
+NytoIsomer(7)<scan><通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:I don't know if that's the result of Machlian's fear for him or the alterations Paradeus has made to her memories. +If it's the latter, it would mean Paradeus has a terrifying degree of control over virtual cognition.
+NytoIsomer(7)<Speaker>Commander</Speaker><scan><通讯框>||:...Keep searching.
 ()||:Dandelion puts Machlian's mind on display. Fragments of all colors, sizes and shapes are scattered everywhere. Some of them seem out of place, while others even look damaged.
 ()<Speaker>Commander</Speaker>||:Start with these fragments and look for the ones with similar colors. Doesn't matter if they're blurred.
-NytoIsomer(7)<Speaker>Dandelion</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Alright.</color>
+NytoIsomer(7)<Speaker>Dandelion</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Alright.</color>
 ()||<黑屏2><BIN>322</BIN><回忆><BGM>10227</BGM>:...Inside a certain underground base. +An electronic monitor clearly displays a map of Berlin, covered in densely-packed location markers. +A girl with a blurred face is giving out assignments.
 Narciss(4)<Speaker>???</Speaker>||:Do you remember your assigned locations?
 NytoWhite(0)<Speaker>White Nyto</Speaker>||:We have memorized them.

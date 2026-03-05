@@ -25,7 +25,7 @@ NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Эти действия с�
 ()||:<color=#00CCFF>...Пззз...пзззззззз.</color>
 ()<Speaker>??</Speaker>||:<color=#00CCFF>Анжелия...</color> +<color=#00CCFF>Я знал, что ты меня не подведешь.</color>
 ()||<SE2>Gunfight</SE2>:...На фоне звуков выстрелов и помех, мужской голос ясно раздается по общему каналу связи.
-NPC-YegorDamage(0)<Speaker>Егор</Speaker><通讯框>||:<color=#00CCFF>Ты выжила после взрыва... только для того, чтобы я мог убить тебя своими руками.</color>
+NPC-YegorDamage(0)<Speaker>Егор</Speaker><scan><通讯框>||:<color=#00CCFF>Ты выжила после взрыва... только для того, чтобы я мог убить тебя своими руками.</color>
 NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:Егор... +Ты и сам выглядишь не особо лучше...
 NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>Егор</Speaker>||:<color=#00CCFF>Я чувствую себя просто супер. Только что закончил все приготовления, и вот ты уже здесь.</color>
 NPC-AngeDamage(0)<Speaker>Анжелия</Speaker>;NPC-YegorDamage(0)||:Ты все спланировал?

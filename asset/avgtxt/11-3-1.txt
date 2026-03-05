@@ -64,11 +64,11 @@ Doll tracker()||:...? Сообщи...мой...
 Doll tracker()||:Ничего необычного. Всё в норме.
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Достала!
 RO635-NoArmor(5)<Speaker>RO635</Speaker>||:SOP-II, слышишь меня?
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Что такое?</color>
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Что такое?</color>
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Я взломал их уровень II. Это Белая фракция. Их больше, чем я думала — у нас точно не будет шансов, если дело дойдет до драки. +Но я собираюсь отключить одну или две Куклы, которые перекрывают перекресток. Если горничная быстро сообразит, она точно найдет лазейку.
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Тогда я прикрою ее отход и не дам врагам устроить засаду?</color>
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Тогда я прикрою ее отход и не дам врагам устроить засаду?</color>
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Именно. Я найду всех ее преследователей и установлю в них бэкдор-программу, которая может вызвать перегрузку. +Когда ты будешь убегать, я перегружу их одну за другой. К тому времени, когда они поймут, что их взломали, будет уже слишком поздно.
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>Принято! Как только мы будем в безопасности, я ее задержу. У нас к ней куча вопросов!</color>
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Принято! Как только мы будем в безопасности, я ее задержу. У нас к ней куча вопросов!</color>
 RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:Хорошо. Тогда приступим!
 ()||<黑点2><BIN>10</BIN>:
 

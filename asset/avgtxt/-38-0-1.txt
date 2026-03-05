@@ -34,15 +34,15 @@ DP12(0)<Speaker>DP-12</Speaker>||:That got her good, didn't it...?
 DP12(0)<Speaker>DP-12</Speaker>||:Hmm...you're right. I suppose I should also go and comfort our poor, terror-stricken young lady. +I'll be off then, Commander. Catch you later?
 ()<Speaker>Commander</Speaker>||:Sure, catch you later.
 ()||:The Dolls have vacated the café. It is another peaceful day. +Miss Springfield's coffee is refreshingly fragrant. I take small, savory sips as I read through the list of acquisitions from the latest logistics missions. +However, my peace and quiet is interrupted by my beeping communicator less than two minutes in.
-DP12(0)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>Commander, are you there? It's an emergency!</color>
+DP12(0)<Speaker>DP-12</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, are you there? It's an emergency!</color>
 ()<Speaker>Commander</Speaker>||:I'm here. What happened?
-DP12(0)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>Um, listen to me, Commander. I swear I'm not joking, but the internet soul-eater thing might actually be true.</color>
+DP12(0)<Speaker>DP-12</Speaker><scan><通讯框>||:<color=#00CCFF>Um, listen to me, Commander. I swear I'm not joking, but the internet soul-eater thing might actually be true.</color>
 ()<Speaker>Commander</Speaker>||:What do you mean?
-DP12(0)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>I chased Cano and Ceno all the way to the dorms and found them collapsed at S.A.T.8's door. They have sufficient power, but for some reason I can't reboot their surface consciousness.</color>
+DP12(0)<Speaker>DP-12</Speaker><scan><通讯框>||:<color=#00CCFF>I chased Cano and Ceno all the way to the dorms and found them collapsed at S.A.T.8's door. They have sufficient power, but for some reason I can't reboot their surface consciousness.</color>
 ()||:She sounds deadly serious and doesn't seem to be pulling my leg. +Cano and Ceno have recently become hooked on S.A.T.8's charcoal-grilled pizza so I'm aware that the three of them are on good terms. But I've never heard of charcoal-grilled pizzas rendering Dolls unconscious.
 ()<Speaker>Commander</Speaker>||:Leave the whole internet soul-eater business aside for now and get S.A.T.8 to help you take them to the repair bay for a detailed inspection.
-DP12(0)<Speaker>DP-12</Speaker><通讯框>||:<color=#00CCFF>That's exactly the other thing that I'm about to report...</color>
-DP12(0)<Speaker>DP-12</Speaker><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>Commander, her door is open; both S.A.T.8 and SPAS are lying on the floor inside and in the exact same state as the Carcanos.</color>
+DP12(0)<Speaker>DP-12</Speaker><scan><通讯框>||:<color=#00CCFF>That's exactly the other thing that I'm about to report...</color>
+DP12(0)<Speaker>DP-12</Speaker><scan><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>Commander, her door is open; both S.A.T.8 and SPAS are lying on the floor inside and in the exact same state as the Carcanos.</color>
 ()||<黑屏2><BIN>8</BIN><关闭蒙版><BGM>BGM_Brain</BGM>:It's been seven days since then. +Just like how the legend goes, the Dolls' neural clouds were attacked by an unknown entity; their consciousness have completely vanished and their bodies are paralyzed. The technicians from I.O.P finally started analyzing the attack and tracing it yesterday, but we still haven't heard anything from them. +Kalina and I only managed to crack open a few downloaded nodes ourselves, but all they contained was a simple song...
 ()<Speaker>Commander</Speaker>||:"It wears the face of a young girl and sings in a gentle croon..." +"Sings in a gentle croon..."
 NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Commander? Why are you back again? I thought you'd gone for a break.

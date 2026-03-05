@@ -48,20 +48,20 @@ NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:<color=#A9A9A9>(RO probably wasn
 NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Argh, this goddamned piece of crap! Can't you just do your job for once?! If you don't start working, we're all gonna kick the bucket here!
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Kalina gives the comms equipment a vicious kick. The radio emits a burst of static white noise, then...
 ()<Speaker></Speaker>||:Click!
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>Finally. I thought you were already dead meat.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>Finally. I thought you were already dead meat.</color>
 NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:C...Commander, we've established comms with K!
 ()<Speaker>Commander</Speaker>||:Where's this extraction point that you promised? We have nobody and nothing to aid in our withdrawal here. If you don't send in some reinforcements soon, you can kiss ⁠— not just the VIP, but also me ⁠— goodbye.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I don't find that joke very funny.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I don't find that joke very funny.</color>
 NPC-KalinReporter(0)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:(Interrupts) You think that was a joke? +With this difference in firepower, it's only a matter of time for the enemy to breach our defense line!
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>The helicopter can't land in the city.</color> +<color=#00CCFF>The extraction point has been changed to a location in the delta region outside Belgrade. I'll send you the exact coordinates. Head toward those coordinates with the VIP now. An aircraft will be there to evacuate you in half an hour.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>The helicopter can't land in the city.</color> +<color=#00CCFF>The extraction point has been changed to a location in the delta region outside Belgrade. I'll send you the exact coordinates. Head toward those coordinates with the VIP now. An aircraft will be there to evacuate you in half an hour.</color>
 NPC-Jason(0)<Speaker>Commander</Speaker>||:That's impossible.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>What?</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>What?</color>
 NPC-Jason(0)<Speaker>Commander</Speaker>||:I promised Chairwoman Ulrich that I would ensure the safety of the civilians seeking refuge in the cathedral. Even if I want to take her away, I don't think she'd make this easy for us.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I don't care about the Chairwoman's wishes. Knock her out and carry her if you have to.</color> +<color=#00CCFF>Our time is precious. Stick to the plan and evacuate with the Chairwoman. Don't waste firepower without making any progress—</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I don't care about the Chairwoman's wishes. Knock her out and carry her if you have to.</color> +<color=#00CCFF>Our time is precious. Stick to the plan and evacuate with the Chairwoman. Don't waste firepower without making any progress—</color>
 ()<Speaker>Commander</Speaker>||:—Let me repeat myself. That is out of the question. +You're currently in a safe location, which means you've saved yourself some cards up your sleeve. +If you want to evacuate the VIP, then think of a way to get these civilians out as well. +Reinforcements. Now. This instant. +I'm not negotiating.
 NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:(Whispers) Hey, Commander. Being so blunt with him...
 ()<Speaker></Speaker>||:The bombardment goes on and on outside the cathedral. Even the comms signal is fluctuating, threatening to disconnect at any moment.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>A convoy will come and pick you up in five minutes.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>A convoy will come and pick you up in five minutes.</color>
 NPC-Jason(0)<Speaker>Commander</Speaker>||:Now you're talking.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>I will put together an operation plan. Ready your Dolls and those civilians.</color> +<color=#00CCFF>Also, you're going to pay for that attitude just now.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I will put together an operation plan. Ready your Dolls and those civilians.</color> +<color=#00CCFF>Also, you're going to pay for that attitude just now.</color>
 指挥官()<Speaker>Commander</Speaker>||<黑屏1>:...Humph, if I come out of this alive, gladly.

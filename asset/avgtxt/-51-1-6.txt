@@ -39,9 +39,9 @@ TFQ(0)<Speaker>Dagmar</Speaker><Position>0,100</Position>||:Roger.
 LS26(0)<Speaker>Edith</Speaker><Position>0,-60</Position>||:No sign of the target.
 PPQ(0)<Speaker>Brigitte</Speaker>||:...All records have been purged. We're too late.
 Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position>||<SE1>AVG_tele_connect</SE1>:This is Sterling. +The enemy is ahead of us. They've already deserted this hideout. We can't find any useful clues.
-NPC-Keven(4)<Speaker>J</Speaker><通讯框>;Sterling(0)<Position>0,150</Position>||:<color=#00CCFF>Tsk... Not again.</color> +<color=#00CCFF>We just got them by the tail only for them to give us the slip.</color>
+NPC-Keven(4)<Speaker>J</Speaker><scan><通讯框>;Sterling(0)<Position>0,150</Position>||:<color=#00CCFF>Tsk... Not again.</color> +<color=#00CCFF>We just got them by the tail only for them to give us the slip.</color>
 NPC-Keven(4);Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position>||:What do we do now?
-NPC-Keven(5)<Speaker>J</Speaker><通讯框>;Sterling(0)<Position>0,150</Position>||:<color=#00CCFF>Leave that place to my subordinates.</color> +<color=#00CCFF>Make your way here quickly and link up with me.</color> +<color=#00CCFF>We must ensure the safety of other Stasi folks.</color>
+NPC-Keven(5)<Speaker>J</Speaker><scan><通讯框>;Sterling(0)<Position>0,150</Position>||:<color=#00CCFF>Leave that place to my subordinates.</color> +<color=#00CCFF>Make your way here quickly and link up with me.</color> +<color=#00CCFF>We must ensure the safety of other Stasi folks.</color>
 Sterling(0)<Speaker>Sterling</Speaker><Position>0,150</Position>||:Understood.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Call disconnected.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Sterling switches off her earpiece and turns to beckon at her three teammates, whose searches have been equally fruitless.

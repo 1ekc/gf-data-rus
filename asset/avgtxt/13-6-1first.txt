@@ -4,8 +4,8 @@ AK12(0)<Position>0,100</Position><Speaker>AK-12</Speaker><Position>0,100</Positi
 RPK16(0)<Speaker>RPK-16</Speaker>;AK12(0)<Position>0,100</Position><Position>0,100</Position>||:That's 12 for you, ever so observant.
 RPK16(0);AK12(0)<Position>0,100</Position><Speaker>AK-12</Speaker><Position>0,100</Position>||:Honestly, storing all your backup copies is really slowing down my processing speed. +Maybe I should delete yours to make some space?
 RPK16(0)<Speaker>RPK-16</Speaker>;AK12(0)<Position>0,100</Position>||:Then I'll get to meet you for the first time again the next time I wake up. +How wonderful – I love surprises.
-NPC-AngeDamage(4)<Speaker>Angelia</Speaker><通讯框>;AK12(0)<Position>0,100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Cut the crap. I can't hear the mech properly.</color>
-NPC-AngeDamage(4)<通讯框>;AK12(0)<Position>0,100</Position><Speaker>AK-12</Speaker><Position>0,100</Position>||:Once it's close enough, I'll sync everything with you.
+NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>;AK12(0)<Position>0,100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Cut the crap. I can't hear the mech properly.</color>
+NPC-AngeDamage(4)<scan><通讯框>;AK12(0)<Position>0,100</Position><Speaker>AK-12</Speaker><Position>0,100</Position>||:Once it's close enough, I'll sync everything with you.
 AK12(0)<Position>0,100</Position><Speaker>AK-12</Speaker><Position>0,100</Position>||<SE1>AVG_tele_disconnect</SE1>:94, detonate at points 3 and 5.
 AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||:Done.
 ()||<SE1>Explode</SE1><震屏3>:Rumbling explosions come from a distance.
@@ -19,8 +19,8 @@ RPK16(0)<Speaker>RPK-16</Speaker>||:The things you see dictate the way you see t
 AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||:It has always been like this, we are all used to it.
 AK12(0)<Position>0,100</Position><Speaker>AK-12</Speaker><Position>0,100</Position>||:When you are all destroyed, I'll rewrite your backup copies. +Maybe then you'll know the meaning of "respect".
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE2>Alarm</SE2>:All of a sudden, the alarm goes off in their channel. +The wolf pack immediately cease their tomfoolery – the enemy has entered the ambush zone right on schedule.
-NPC-AngeDamage(4)<Speaker>Angelia</Speaker><通讯框>||<BGM>10203</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Yegor has crossed your safety perimeter!</color>
-NPC-AngeDamage(4)<通讯框>;AK12(0)<Position>0,100</Position><Speaker>AK-12</Speaker><Position>0,100</Position>||:Roger that. Make sure you stay hidden.
+NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>||<BGM>10203</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Yegor has crossed your safety perimeter!</color>
+NPC-AngeDamage(4)<scan><通讯框>;AK12(0)<Position>0,100</Position><Speaker>AK-12</Speaker><Position>0,100</Position>||:Roger that. Make sure you stay hidden.
 AK12(0)<Position>0,100</Position><Speaker>AK-12</Speaker><Position>0,100</Position>||<SE1>AVG_tele_disconnect</SE1>:RPK!
 RPK16(0)<Speaker>RPK-16</Speaker>;AK12(0)<Position>0,100</Position>||<SE2>Gunfight</SE2><CGDelay>0.6</CGDelay>:Opening fire!
 RPK16(0)<Speaker>RPK-16</Speaker>||<SE1>RunStep</SE1>:Mag emptied! Switching positions!

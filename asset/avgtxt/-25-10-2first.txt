@@ -19,7 +19,7 @@ RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Она... +...не выгля�
 RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:О чем ты вообще говоришь?! Зачем им посылать человека вместо Куклы?
 RO635(6)<Speaker>RO635</Speaker>;SOPIIDamage(0)||:Но когда ее ранили, красная жидкость, которая начала вытекать... выглядела скорее как...
 RO635(6);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Может быть, это просто что-то похожее? Вряд ли это имеет большое значение.
-HK416(0)<Speaker>416</Speaker><通讯框>;SOPIIDamage(0)||:<color=#00CCFF>Как дела, SOP-II? Удалось захватить Куклу?</color>
+HK416(0)<Speaker>416</Speaker><scan><通讯框>;SOPIIDamage(0)||:<color=#00CCFF>Как дела, SOP-II? Удалось захватить Куклу?</color>
 HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Она взорвала себя. А ты?
 HK416(0)<Speaker>416</Speaker>;SOPIIDamage(0)||:<color=#00CCFF>То же самое. Давай сначала вернёмся. С этим покончено.</color>
 HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Э? Разве у врагов нет подкрепления?
@@ -29,6 +29,6 @@ HK416(0)<Speaker>416</Speaker>;RO635(6)||:<color=#00CCFF>Отправляемс�
 HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Что? На поле боя никого не осталось?! Да какого хрена?!
 HK416(0);RO635(6)<Speaker>RO635</Speaker>||:Это всё твоя вина, SOP-II, что ты всё время подбираешь мусор! +Поторопись! Если будем терять время, то не займём хорошие места!
 HK416(0);SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Черт! Ладно, 416-я! Подожди меня!
-HK416(0)<Speaker>416</Speaker><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>...</color> +<color=#00CCFF>Я и не говорила, что пойду с тобой.</color>
+HK416(0)<Speaker>416</Speaker><scan><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>...</color> +<color=#00CCFF>Я и не говорила, что пойду с тобой.</color>
 ()||<BIN>9</BIN><黑屏2>:...
 HK416(0)<Speaker>416</Speaker>||<黑屏1>:Да, верно... +Я никогда такого не говорила...

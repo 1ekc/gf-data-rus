@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>73</BIN><SE1>AVG_tele_connect</SE1><BGM>BGM_22Swim_langrensha</BGM>:Ten days ago, IOP T-Doll Training Center.
-NPC-Persica(11)<Speaker>Persica</Speaker><通讯框>||:<color=#00CCFF>When you're ready, you may begin the test. </color>
+NPC-Persica(11)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>When you're ready, you may begin the test. </color>
 NPC-Persica(11);M4A1(2)<Speaker>M4A1</Speaker>||:...Roger, please issue your orders, Miss Persica.
 NPC-Persica(11);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:Haha! We finally get to play outside the lab! Big sis 16 ! I've caught up with you now!
 NPC-Persica(11);M16(5)<Speaker>M16A1</Speaker>||:Alright, you got me... So, please elaborate on this, Miss Persica.

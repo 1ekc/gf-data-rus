@@ -1,6 +1,6 @@
  ()||<BGM>BGM_NightOPS</BGM><BIN>1</BIN><Night>:...Infiltration success. UMP9 and 416 have split off to their target locations.
 HK416(0)<Speaker>416</Speaker>||:This is 416. I've reached my destination. Currently seaching for Gr G11.
-UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:Huh? According to the radar, shouldn't Gr G11 be right beside you?
+UMP45(2)<Speaker>UMP45</Speaker><scan><通讯框>||:Huh? According to the radar, shouldn't Gr G11 be right beside you?
 HK416(0)<Speaker>416</Speaker>||:It's all trees here. I don't know where she is hiding...+...Oh, nevermind.+Wake up, Gr G11.
 G11()<Speaker>Gr G11</Speaker>||:No... I don't wanna...
 HK416(0)<Speaker>416</Speaker>||<震屏>:Wake up, we don't have time.
@@ -25,7 +25,7 @@ HK416(3)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:Shit!+Gr G11! Get down!!
 ()||<黑屏1><震屏><SE1>Explode</SE1>:Boom!!!
 ()||<黑屏2><BIN>3</BIN><Night>:Meanwhile at Area S06 Sangvis command center.
 HunterElite(0)<Speaker>Hunter</Speaker>||<BGM>BGM_Boss</BGM>:Ouroboros, a sound triggered bomb has went off in point F3 of Area S06.+Based on the captured images, the enemies are confirmed to be Squad 404, but we cannot confirm if they have been wiped out.
-Weaver(0)<Speaker>Ouroboros</Speaker><通讯框>;HunterElite(0)||:Then get closer and send out a team to ensure that they've been eliminated.
+Weaver(0)<Speaker>Ouroboros</Speaker><scan><通讯框>;HunterElite(0)||:Then get closer and send out a team to ensure that they've been eliminated.
 Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:Are you sure? Agent has said that we should avoid conflict with Griffin as much as possible.
 Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||:Hunter, it is exactly because you are too inflexible and too reliant on your experience that you got crushed by AR-15.+Listen, my goal is their leader, not these few small fries.+The point is to lure out their boss.
 Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:404 and AR Team are different, though. How do you know their boss won't write them off as a loss?
@@ -38,7 +38,7 @@ Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||<黑屏1>:Go, Hunter. Prot
 ()||<黑屏2><BIN>1</BIN><Night><BGM>BGM_Danger</BGM><SE1>Battlefield</SE1>:Ten minutes later at the location of 416 and Gr G11.
 G11(2)<Speaker>Gr G11</Speaker>||<SE2>Gunfight</SE2>:Uuu... Hurry up, 416! The Sangvis are gonna catch us!
 HK416(3)<Speaker>416</Speaker>||:Shut up! Why don't you try to carry me while you're running instead?+...Shit, there's nowhere to go up ahead. 45, where's our extraction?
-UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:Very close by. We're right under you!
+UMP45(2)<Speaker>UMP45</Speaker><scan><通讯框>||:Very close by. We're right under you!
 HK416(3)<Speaker>416</Speaker>;UMP45(2)||<SE1>Battlefield</SE1><SE2>Gunfight</SE2>:Are you serious? We're on a cliff!
 HK416(3);UMP45(2)<Speaker>UMP45</Speaker>||:I know. Just keep running and jump!
 HK416(2)<Speaker>416</Speaker>;UMP45(2)||<SE1>Gunfight</SE1>:...So you're finally disposing of us, 45?

@@ -68,12 +68,12 @@ gsh18(0)<Speaker>GSh-18</Speaker>||:Say WHAT!? I was asleep...so everything that
 ()<Speaker>Computer Assistant</Speaker>||:The book you brought back is blank.
 gsh18(0)<Speaker>GSh-18</Speaker>||:... +I must have left traces behind on the monitor at the forward basecamp!+Miss Kalina saw it back then...
 gsh18(0)<Speaker>GSh-18</Speaker>||:Miss Kalina!
-NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>||:What's the matter, GSh-18?
-NPC-Kalin(1)<通讯框>;gsh18(0)<Speaker>GSh-18</Speaker>||:Miss Kalina...what happened when I was at the forward basecamp yesterday?
-NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>;gsh18(0)||:Hahaha, perhaps the daily life of the expedition team was too boring, because you actually fell asleep.
-NPC-Kalin(1)<通讯框>;gsh18(0)<Speaker>GSh-18</Speaker>||:... +Was it really all a dream?
-NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>;gsh18(0)||:It seems you had a really exciting dream?
-NPC-Kalin(1)<通讯框>;gsh18(0)<Speaker>GSh-18</Speaker>||:It's nothing... +Thanks for sending me back to my dorm, Miss Kalina...
+NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>||:What's the matter, GSh-18?
+NPC-Kalin(1)<scan><通讯框>;gsh18(0)<Speaker>GSh-18</Speaker>||:Miss Kalina...what happened when I was at the forward basecamp yesterday?
+NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>;gsh18(0)||:Hahaha, perhaps the daily life of the expedition team was too boring, because you actually fell asleep.
+NPC-Kalin(1)<scan><通讯框>;gsh18(0)<Speaker>GSh-18</Speaker>||:... +Was it really all a dream?
+NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>;gsh18(0)||:It seems you had a really exciting dream?
+NPC-Kalin(1)<scan><通讯框>;gsh18(0)<Speaker>GSh-18</Speaker>||:It's nothing... +Thanks for sending me back to my dorm, Miss Kalina...
 gsh18(0)<Speaker>GSh-18</Speaker>||:I'm hanging up.
 ()||<SE1>AVG_tele_disconnect</SE1>:GSh-18 suddenly looks at her blank sketchbook.
 ()<Speaker>Computer Assistant</Speaker>||:As a gentle reminder, you don't have much time left...

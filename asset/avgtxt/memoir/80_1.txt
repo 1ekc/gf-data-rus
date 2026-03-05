@@ -1,11 +1,11 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<BGM>BGM_Sad</BGM>:...
 NPC-Maid(0)<Speaker>Sofiya</Speaker>||<BIN>9</BIN>:When can I get the result of the interview? +I... I really need a job...
-NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Thank you for attending our online interview. I will notify you of the results in three days.</color>
+NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Thank you for attending our online interview. I will notify you of the results in three days.</color>
 NPC-Maid(0)<Speaker>Sofiya</Speaker>||:Three days?
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>I'm very sorry—</color>	
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>I'm very sorry—</color>
 ()||<SE1>AVG_doorknock_wood</SE1>:Knocks can be heard from the other side of the call. Kalina turns to answer someone off-screen.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Hold on, I'm coming—Miss Sofia, the procedure will take some time, please understand.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Hold on, I'm coming—Miss Sofia, the procedure will take some time, please understand.</color>
 NPC-Maid(0)<Speaker>Sofiya</Speaker>||:I see... Goodbye.
 ()||<SE1>AVG_tele_disconnect</SE1>:...
 ()||:...
@@ -42,11 +42,11 @@ C96(0)<Speaker>C96</Speaker>||:Do you have some misconception about the word "bo
 ()||:She vows that if she ever goes to an amusement park with M1919A4 again she'll— +She'll make sure that M1919A4 can never taste her beloved canned foods again!
 ()||:A call suddenly comes in.
 M1919A4(0)<Speaker>M1919A4</Speaker>||<SE1>AVG_tele_connect</SE1>:Hello, Miss Kalina?
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Hey, are you having fun at the amusement park?</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Hey, are you having fun at the amusement park?</color>
 ()||:M1919A4 glances at C96, her eyes curving into a smile.
 M1919A4(0)<Speaker>M1919A4</Speaker>||<SE1>ClothingUp</SE1>:Despite the attractions being quite boring, the—Hmpf—!
 ()||:M1919A4's mouth is covered by her companion. Just when she's about to push C96 away, she suddenly remembers something and capitulates. She then waves her hands before pointing at her mouth. +C96 stares at her with a threatening look and a pouting face before letting go of her hand.
-NPC-Kalin(1)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Haha, sorry to interrupt you on your day off. However, we have an urgent mission, one that only Miss M1919A4 can handle. </color>
+NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Haha, sorry to interrupt you on your day off. However, we have an urgent mission, one that only Miss M1919A4 can handle. </color>
 M1919A4(0)<Speaker>M1919A4</Speaker>||:Whew, one that "only M1919A4 can handle?" Say no more, Miss Kalina!
 ()||:Kalina immediately sends her two resumes.
 M1919A4(0)<Speaker>M1919A4</Speaker>||:A Doll looking for a job! Sofia... Looking at her resume, her life must've been worse than even mine back in the day...
@@ -54,11 +54,11 @@ M1919A4(0)<Speaker>M1919A4</Speaker>||:A Doll looking for a job! Sofia... Lookin
 M1919A4(0)<Speaker>M1919A4</Speaker>||:Huh, is that me?
 ()||:A picture of M1919A4 sits front and center on the second resume; her name is simply the letter "M". As for her occupation—
 M1919A4(0)<Speaker>M1919A4</Speaker>||:An unemployed... bodyguard???
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Here's what happened. Few days ago, Miss Sofiya attended our online interview. Today, I tried to notify her that she was hired, but I couldn't reach her no matter what.</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>While it's quite normal for Dolls to pass the interview but decline the job, Miss Sofia was clearly very eager that day. Now she has just disappeared. </color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>We ran an analysis at the base, only to discover that there had been eight similar cases of job-seeking Dolls disappearing during the past two months! That's nonsensical! </color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Here's what happened. Few days ago, Miss Sofiya attended our online interview. Today, I tried to notify her that she was hired, but I couldn't reach her no matter what.</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>While it's quite normal for Dolls to pass the interview but decline the job, Miss Sofia was clearly very eager that day. Now she has just disappeared. </color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>We ran an analysis at the base, only to discover that there had been eight similar cases of job-seeking Dolls disappearing during the past two months! That's nonsensical! </color>
 M1919A4(0)<Speaker>M1919A4</Speaker>||:So you suspect that Sofiya had an accident?
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||:<color=#00CCFF>Yep, according to our investigation, Sofia was last spotted at Worf Playground on the city outskirts. </color> +<color=#00CCFF>So, your mission go undercover as "M" and...</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Yep, according to our investigation, Sofia was last spotted at Worf Playground on the city outskirts. </color> +<color=#00CCFF>So, your mission go undercover as "M" and...</color>
 ()||:...
 ()||<黑屏1><BGM>BGM_Empty</BGM>:...
 ()||<黑屏2><BGM>10082</BGM><BIN>72</BIN>:City outskirts, Worf Playground's waiting room.
@@ -82,11 +82,11 @@ M1919A4(0)<Speaker>M1919A4</Speaker>||:Wait... If the prize is that high, yet th
 ()<Speaker>Tall Doll</Speaker>||:It's time to go. I'll see you on the field!
 ()||:The tall Doll gets up and heads out of the door. +M1919A4 checks her surroundings, making sure no one is paying attention. She then covertly opens her comms. +Turns out it was just C96 who sent her an emoji of a kitten daydreaming.
 M1919A4(0)<Speaker>M1919A4</Speaker>||:Don't just message me like that! +I can't read them anyway, and the notification bugs me!
-C96(0)<Speaker>C96</Speaker><通讯框>||:<color=#00CCFF>You're the one drooling and daydreaming after hearing about the prize money. Time to wake up. </color>
+C96(0)<Speaker>C96</Speaker><scan><通讯框>||:<color=#00CCFF>You're the one drooling and daydreaming after hearing about the prize money. Time to wake up. </color>
 M1919A4(0)<Speaker>M1919A4</Speaker>||:Poke fun at me again, and I'll drag you on a 10,000-meter skydive next time!
-C96(0)<Speaker>C96</Speaker><通讯框>||:<color=#00CCFF>Ahhhh, please don't... Eh? </color>+<color=#00CCFF>Haha, Miss Kalina just said that if you complete the task, you can have all the canned food of your choice. But if you fail, then you'll have to watch us eat all the canned food! </color>
+C96(0)<Speaker>C96</Speaker><scan><通讯框>||:<color=#00CCFF>Ahhhh, please don't... Eh? </color>+<color=#00CCFF>Haha, Miss Kalina just said that if you complete the task, you can have all the canned food of your choice. But if you fail, then you'll have to watch us eat all the canned food! </color>
 M1919A4(0)<Speaker>M1919A4</Speaker>||:The mission will be accomplished!!
-C96(0)<Speaker>C96</Speaker><通讯框>||:Stay in touch; we're ready to back you up at any time!
+C96(0)<Speaker>C96</Speaker><scan><通讯框>||:Stay in touch; we're ready to back you up at any time!
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BGM>m_avg_casual</BGM><BIN>322</BIN>:Outside entrance no. 2, M1919A4 looks around like a curious baby, inquisitive of everything. +Behind the fences, a vast abandoned factory is encircled by buildings and vegetation. +While walking over to collect her equipment, M1919A4 estimates the size of the playground.
 ()<Speaker>Worker</Speaker>||:This is your gear. A dummy gun, rubber bullets, communication headset, and wrist terminal. Please take care of them. +The wrist terminal is equipped with sensors that record your battle performance, stamina, and real-time position. +After the game starts, Collapse particle streams will gradually spread. You need to retreat into a safe zone in time, otherwise...

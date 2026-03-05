@@ -47,14 +47,14 @@ NPC-Kalin(9)<Speaker>Kalina</Speaker>||:I don't know either. Too many Dolls rush
 ()<Speaker>Commander</Speaker>||:Alright... I understand.+Where's Dandelion?
 NPC-Kalin(9)<Speaker>Kalina</Speaker>||:She was trapped on the other side by the explosion.+We can still contact her, though the connection is intermittent.
 ()<Speaker>Commander</Speaker>||:Hand me the communicator.+Dandelion, can you hear me...? Give me a quick rundown of the situation.
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Less than 5% of our Dolls remain.</color>+<color=#00CCFF>Are we still going to fight?</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Less than 5% of our Dolls remain.</color>+<color=#00CCFF>Are we still going to fight?</color>
 ()<Speaker>Commander</Speaker>||:...Yes, we'll continue to fight. All our previous plans are now unusable. Can you help me come up with a new one?
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Griffin still has a chance of victory, even if the probability of success is less than 1%.</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Griffin still has a chance of victory, even if the probability of success is less than 1%.</color>
 ()<Speaker>Commander</Speaker>||:Tell me now.
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Although the coastal defense artillery opened fire on our train, the AR Team has regained control of the cannon. </color>+<color=#00CCFF>Although the Military will counterattack, we have a chance to fire one shot.</color>+<color=#00CCFF>I need the coordinates of the enemy armored train so we can give them a taste of their own medicine.</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Although the coastal defense artillery opened fire on our train, the AR Team has regained control of the cannon. </color>+<color=#00CCFF>Although the Military will counterattack, we have a chance to fire one shot.</color>+<color=#00CCFF>I need the coordinates of the enemy armored train so we can give them a taste of their own medicine.</color>
 ()<Speaker>Commander</Speaker>||:Kalina, have DEFY go scout out the Military's position!
 NPC-Kalin(9)<Speaker>Kalina</Speaker>||:Yes, Commander, right away!
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>We can no longer hold this location. Squad 404 has entered the base following DEFY's withdrawal route. I recommend we do the same.</color>+<color=#00CCFF>After entering the base, we should destroy the entrance. Perhaps that will buy us some time.</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>We can no longer hold this location. Squad 404 has entered the base following DEFY's withdrawal route. I recommend we do the same.</color>+<color=#00CCFF>After entering the base, we should destroy the entrance. Perhaps that will buy us some time.</color>
 ()<Speaker>Commander</Speaker>||:Understood. I hope these delaying tactics will still be useful.
-NytoIsomer(4)<Speaker>Dandelion</Speaker><通讯框>||:<color=#00CCFF>Also, there aren't many Dolls left here. I've already done a final neural cloud backup, so I believe my presence is no longer needed here.</color>+<color=#00CCFF>From now on, I will be assisting Lunasia. Please take care, Commander.</color>
+NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Also, there aren't many Dolls left here. I've already done a final neural cloud backup, so I believe my presence is no longer needed here.</color>+<color=#00CCFF>From now on, I will be assisting Lunasia. Please take care, Commander.</color>
 ()<Speaker>Commander</Speaker>||<黑屏1>:Go, then. Make sure they come back alive. +As long as you survive...

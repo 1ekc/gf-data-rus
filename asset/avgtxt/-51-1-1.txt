@@ -10,7 +10,7 @@ NPC-Yegor(4)<Speaker></Speaker>;NPC-Yegor(3)<同时置暗>||<边框>2</边框><S
 ()||<黑屏1><边框>2</边框>:
 NytoWhite(0)<Speaker>Susanna</Speaker><Position>0,50</Position>||<BIN>9</BIN><SE1>ClothingUp</SE1><黑屏2>:...
 ()<Speaker></Speaker>||:This is a routine weekly briefing, but the crushing atmosphere drills a message into the minds of all the Nytos present—slip-ups are not allowed. +Just then, a kindly female voice addresses them.
-NPC-Nemhran(0)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Not this one, Susanna.</color>
+NPC-Nemhran(0)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Not this one, Susanna.</color>
 ()<Speaker></Speaker>||:The kinder the voice, the more nervous it makes her feel. +Susanna can almost feel her palms beginning to sweat... She forces herself to calm down.
 NytoWhite(0)<Speaker>Susanna</Speaker><Position>0,50</Position>||:...My apologies. A moment, please.
 ()<Speaker></Speaker>||:She immediately pulls up a new file.
@@ -24,10 +24,10 @@ NPC-Jason(1)<Speaker>Commander</Speaker><同时置暗>||<边框>2</边框>:Under
 NPC-Jason(1)<Speaker>K</Speaker>||<边框>2</边框>:No need to worry. We'll meet again very soon.
 NPC-Jason(1)<Speaker></Speaker><同时置暗>||<边框>2</边框><SE1>AVG_Button_Click</SE1>:The voices suddenly stop again. Someone has obviously paused it once more. +This time, the woman's voice is even gentler than before.
 ()||<黑屏1><边框>2</边框>:
-NPC-Nemhran(0)<Speaker>???</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>Please—rewind it a little further back, if you don't mind.</color>
+NPC-Nemhran(0)<Speaker>???</Speaker><scan><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>Please—rewind it a little further back, if you don't mind.</color>
 ()<Speaker></Speaker>||:She's even being extra polite; Susanna can no longer control her trembling. +And she knows her answer will only make the woman before her even angrier.
 NytoWhite(0)<Speaker>Susanna</Speaker><Position>0,50</Position>||:...I am very sorry, Big Sister Nemhran. +The influx of seawater made it impossible to recover any information from that base...
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ()<Speaker></Speaker>||:This time, Nemhran makes no reply. However, Susanna doesn't dare raise her head... +She can't let things stand as they are!
 ()<Speaker></Speaker>||:Susanna hurriedly searches through the data in her VCI. +She swiftly sifts through two people's worth of files. +Hopefully she'll find something to make up for this!
 ()||<黑屏1>:
@@ -41,27 +41,27 @@ NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>...</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>417</BIN><黑屏2><BGM>GF_22W_BGM_1</BGM>:As the encrypted layer displays an error message, the Nytos return to the real camera room.
 ()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:A transmission notification rings, and Susanna reflexively puts it through.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>...It was just a system malfunction, don't worry.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>...It was just a system malfunction, don't worry.</color>
 ()<Speaker></Speaker>||:The gentle voice flows into Susanna's ear like Satan's sweet whispers.
 NytoWhite(0)<Speaker>Susanna</Speaker><Position>0,50</Position>||:I... I am terribly sorry, I will organize Angelia's files and the information pertaining to the undersea base and hand them to you.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Thank you for your hard work.</color>
-NytoWhite(0)<Speaker>Susanna</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:Just... Just doing my job.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Retrieve Angelia's file and the info on Task Force DEFY. Convert them to plaintext, polish up the language, and then send it out.</color>
-NytoWhite(0)<Speaker>Susanna</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:Shall I send it to the "Chief" or to Aver—
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Olga.</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Thank you for your hard work.</color>
+NytoWhite(0)<Speaker>Susanna</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<scan><通讯框>||:Just... Just doing my job.
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Retrieve Angelia's file and the info on Task Force DEFY. Convert them to plaintext, polish up the language, and then send it out.</color>
+NytoWhite(0)<Speaker>Susanna</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<scan><通讯框>||:Shall I send it to the "Chief" or to Aver—
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Olga.</color>
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:As Nemhran quietly speaks that name, another Nyto in the room silently steps out of the shadows.
 ()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Wall</SE1><震屏3>:Without any further explanation, she steps forward swiftly and breaks Susanna's neck with practiced ease.
 ()<Speaker></Speaker>||:Susanna's voice is cut off in a simple yet brutal way. +Her vocalization systems are physically destroyed with no prior warning.
 ()<Speaker></Speaker>||:Throughout the entire process, Susanna does not put up the slightest bit of resistance. +Or perhaps, she is fully aware that resistance is futile.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Do not... mention that place.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Do not... mention that place.</color>
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:Susanna collapses to the ground... and becomes a corpse.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:The Nyto called "Olga" respectfully takes over the communicator carried by the dead Nyto.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>...And what is your name?</color>
-NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:My name is Olga, Big Sister Nemhran.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>I meant nothing by it. It is a Russian name.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>...And what is your name?</color>
+NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<scan><通讯框>||:My name is Olga, Big Sister Nemhran.
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>I meant nothing by it. It is a Russian name.</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>||:From now on, I am called Olga, Big Sister Nemhran.
 ()<Speaker></Speaker>||:Nemhran chuckles. She seems to like how this Nyto knows the score.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Contact "Polar Bear''. We'll need to send Ange to Berlin.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Contact "Polar Bear''. We'll need to send Ange to Berlin.</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>||:Understood.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:... +Nemhran hangs up. +There were four Nytos in the room before, but now there are only three.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:After hesitating for a long time, one of the Nytos that is still standing turns to Olga.
@@ -120,27 +120,27 @@ NytoWhite(0)<Speaker>White Nyto</Speaker><同时置暗><Position>0,50</Position>
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:That was the last thing she heard. +An all-pervasive surveillance system would naturally include the Nytos themselves.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><BGM>GF_EV9_Story</BGM><SE1>AVG_keyboardtype_sci</SE1>:Within the multiple-encrypted layer, Olga regularly checks the clarity of the signal. +She is responsible for taking notes during this three-person meeting, but she has no right to speak. +After a long silence, one of them finally breaks the silence.
-NPC-Morridow(4)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You're the one asking me for help, Big Sister Nemhran.</color>
-NPC-Morridow(4)<通讯框>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>I hope you'll understand Father's arrangements. I'm simply allocating assignments, No. 10954.</color>
-NPC-Morridow(4)<Speaker>???</Speaker><通讯框>;NPC-Nemhran(0)<通讯框>||:<color=#00CCFF>There is no longer a No. 10954. There is only Morridow.</color>
-NPC-Morridow(3)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)<通讯框>||:<color=#00CCFF>Oh yes, you'd better come up with a suitable excuse for Father concerning the escape of No. 10876. </color>
-NPC-Morridow(3);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>...If I'm not mistaken, she escaped on YOUR watch.</color>
-NPC-Morridow(4)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Do you have any proof of that?</color>
-NPC-Morridow(4);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>...</color>
-NPC-Morridow(4)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Big Sister Nemhran, your Bee Sting System ought to be retired.</color> +<color=#00CCFF>Destroying that information took less than ten hours.</color>
-NPC-Morridow(4)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Perhaps you call the shots in Moscow, but Berlin and Bremen are my territory.</color> +<color=#00CCFF>Even if the destination hadn't changed, you wouldn't be able to interfere.</color>
-NPC-Morridow(4);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Going by the data, she is far more perfect than you.</color> +<color=#00CCFF>Let's make this simple—I want to make a deal.</color>
-NPC-Morridow(3)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Let's hear it.</color>
-NPC-Morridow(3);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>The mission ought to have been finished on time. That was what Father had hoped.</color> +<color=#00CCFF>The reason why you're sitting here is because you want to bargain, so if you can compromise a little, I believe your requests will be more easily fulfilled.</color>
-NPC-Morridow(3)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Don't you already know what I want?</color> +<color=#00CCFF>I want her location in exchange for the mission concerning Ange.</color>
-NPC-Morridow(3);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>And the Boxes of Iaso.</color>
-NPC-Morridow(3)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Is she really worth it?</color>
-NPC-Morridow(3);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>You should be asking yourself that.</color>
-NPC-Morridow(4)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>...</color> +<color=#00CCFF>I'm sure dear sister Machlian would be very happy to know where she stands in my heart. </color>
-NPC-Morridow(4)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Congratulations, you've come out ahead in this exchange.</color> +<color=#00CCFF>Now then, as my senior, what wise words will you leave me with before this meeting ends? </color>
-NPC-Morridow(4);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>As long as you're using that face, don't say things that it wouldn't speak.</color>
-NPC-Morridow(3)<Speaker>Morridow</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Relax. I'm allowing a part of my true self to show because I trust you.</color> +<color=#00CCFF>Besides, aren't keeping secrets and leaking them your forte?</color> +<color=#00CCFF>I had to prepare for a full week just to contact you.</color>
-NPC-Morridow(4)<Speaker>Morridow</Speaker><通讯框>||:<color=#00CCFF>Would someone as "trusted" by Father as yourself ever disappoint me?</color>
+NPC-Morridow(4)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You're the one asking me for help, Big Sister Nemhran.</color>
+NPC-Morridow(4)<scan><通讯框>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>I hope you'll understand Father's arrangements. I'm simply allocating assignments, No. 10954.</color>
+NPC-Morridow(4)<Speaker>???</Speaker><scan><通讯框>;NPC-Nemhran(0)<scan><通讯框>||:<color=#00CCFF>There is no longer a No. 10954. There is only Morridow.</color>
+NPC-Morridow(3)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)<scan><通讯框>||:<color=#00CCFF>Oh yes, you'd better come up with a suitable excuse for Father concerning the escape of No. 10876. </color>
+NPC-Morridow(3);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>...If I'm not mistaken, she escaped on YOUR watch.</color>
+NPC-Morridow(4)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Do you have any proof of that?</color>
+NPC-Morridow(4);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
+NPC-Morridow(4)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Big Sister Nemhran, your Bee Sting System ought to be retired.</color> +<color=#00CCFF>Destroying that information took less than ten hours.</color>
+NPC-Morridow(4)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Perhaps you call the shots in Moscow, but Berlin and Bremen are my territory.</color> +<color=#00CCFF>Even if the destination hadn't changed, you wouldn't be able to interfere.</color>
+NPC-Morridow(4);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Going by the data, she is far more perfect than you.</color> +<color=#00CCFF>Let's make this simple—I want to make a deal.</color>
+NPC-Morridow(3)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Let's hear it.</color>
+NPC-Morridow(3);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>The mission ought to have been finished on time. That was what Father had hoped.</color> +<color=#00CCFF>The reason why you're sitting here is because you want to bargain, so if you can compromise a little, I believe your requests will be more easily fulfilled.</color>
+NPC-Morridow(3)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Don't you already know what I want?</color> +<color=#00CCFF>I want her location in exchange for the mission concerning Ange.</color>
+NPC-Morridow(3);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>And the Boxes of Iaso.</color>
+NPC-Morridow(3)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Is she really worth it?</color>
+NPC-Morridow(3);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>You should be asking yourself that.</color>
+NPC-Morridow(4)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>...</color> +<color=#00CCFF>I'm sure dear sister Machlian would be very happy to know where she stands in my heart. </color>
+NPC-Morridow(4)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Congratulations, you've come out ahead in this exchange.</color> +<color=#00CCFF>Now then, as my senior, what wise words will you leave me with before this meeting ends? </color>
+NPC-Morridow(4);NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>As long as you're using that face, don't say things that it wouldn't speak.</color>
+NPC-Morridow(3)<Speaker>Morridow</Speaker><scan><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>Relax. I'm allowing a part of my true self to show because I trust you.</color> +<color=#00CCFF>Besides, aren't keeping secrets and leaking them your forte?</color> +<color=#00CCFF>I had to prepare for a full week just to contact you.</color>
+NPC-Morridow(4)<Speaker>Morridow</Speaker><scan><通讯框>||:<color=#00CCFF>Would someone as "trusted" by Father as yourself ever disappoint me?</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:As that syrupy-sweet chuckle fades, Morridow's signal vanishes from the encrypted layer.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>417</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:Olga finishes her data logs and carefully glances at Nemhran's expression before she finishes archiving them.
@@ -199,18 +199,18 @@ NPC-Morridow(4)<Speaker>Morridow</Speaker><Position>0,50</Position>||:Cheer up, 
 ()||<黑屏1><边框>2</边框>:
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>||<BIN>72</BIN><黑屏2>:The data is correct. No errors detected.
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Olga continues the encryption with practiced skill. +The person on the other end of the line seems to have been waiting for a long time and she is starting to get annoyed.
-NPC-MrsGray(3)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>I might be patient, but even patience has its limits.</color>
-NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<通讯框>||:I apologize. We are organizing the data you requested. +I hold you in great respect. However, there are strict protocols of confidentiality for information on our end and decrypting them will require some time. I apologize for making you wait so long.
-NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>I am not here to make excuses on Teacher's behalf for our previous mistakes, but for the sake of the mission.</color> +<color=#00CCFF>We may have suffered a slight setback concerning the Angelia mission, but it is not a failure.</color> +<color=#00CCFF>However, I have lost contact with Teacher, so I believe Big Sister Nemhran ought to see me.</color>
-NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>You, on the other hand, do not deserve to engage in conversation with me.</color>
-NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<通讯框>||:Big Sister Gray, I apologize for not being able to live up to your expectations given my status. +However, what I wish to say is—everything said by everyone who uses the Bee Sting System will be logged, and the things you have instructed me to do will reach Big Sister Nemhran's ears.
-NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>Contacting Father is an easy thing for us.</color>
-NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<通讯框>||:Big Sister Gray... While I do not presume to offer you any suggestions... +If you had planned to do something like that, you would not be wasting your time here waiting.
-NPC-MrsGray(3)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>You had better hope you don't regret that.</color> +<color=#00CCFF>The ripples from the top are working their way downwards, and things are spiraling out of control.</color> +<color=#00CCFF>Big Sister Nemhran, we need help.</color>
+NPC-MrsGray(3)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>I might be patient, but even patience has its limits.</color>
+NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<scan><通讯框>||:I apologize. We are organizing the data you requested. +I hold you in great respect. However, there are strict protocols of confidentiality for information on our end and decrypting them will require some time. I apologize for making you wait so long.
+NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>I am not here to make excuses on Teacher's behalf for our previous mistakes, but for the sake of the mission.</color> +<color=#00CCFF>We may have suffered a slight setback concerning the Angelia mission, but it is not a failure.</color> +<color=#00CCFF>However, I have lost contact with Teacher, so I believe Big Sister Nemhran ought to see me.</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>You, on the other hand, do not deserve to engage in conversation with me.</color>
+NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<scan><通讯框>||:Big Sister Gray, I apologize for not being able to live up to your expectations given my status. +However, what I wish to say is—everything said by everyone who uses the Bee Sting System will be logged, and the things you have instructed me to do will reach Big Sister Nemhran's ears.
+NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>Contacting Father is an easy thing for us.</color>
+NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<scan><通讯框>||:Big Sister Gray... While I do not presume to offer you any suggestions... +If you had planned to do something like that, you would not be wasting your time here waiting.
+NPC-MrsGray(3)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>You had better hope you don't regret that.</color> +<color=#00CCFF>The ripples from the top are working their way downwards, and things are spiraling out of control.</color> +<color=#00CCFF>Big Sister Nemhran, we need help.</color>
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Olga doesn't say anything. All that can be heard is the sound of emotionless, mechanical whirring. +This is not a question she can answer. She has no right to do so. +Gray continues speaking.
-NPC-MrsGray(3)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>The "Fireworks" have not yet bloomed, but we are almost out of cards.</color> +<color=#00CCFF>If we reveal something that should not be revealed before then, such an outcome will be too much for any of us to atone for.</color>
-NPC-MrsGray(3)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>We have captured Ange, and transport of the Boxes of Iaso are proceeding according to schedule.</color> +<color=#00CCFF>However, the cooperation we were promised has turned out to be very problematic, and variables have emerged in the positions of certain individuals.</color>
-NPC-MrsGray(5)<Speaker>Gray</Speaker><通讯框>||:<color=#00CCFF>I do not have the authority to make such decisions.</color> +<color=#00CCFF>That is all I wish to say.</color>
+NPC-MrsGray(3)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>The "Fireworks" have not yet bloomed, but we are almost out of cards.</color> +<color=#00CCFF>If we reveal something that should not be revealed before then, such an outcome will be too much for any of us to atone for.</color>
+NPC-MrsGray(3)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>We have captured Ange, and transport of the Boxes of Iaso are proceeding according to schedule.</color> +<color=#00CCFF>However, the cooperation we were promised has turned out to be very problematic, and variables have emerged in the positions of certain individuals.</color>
+NPC-MrsGray(5)<Speaker>Gray</Speaker><scan><通讯框>||:<color=#00CCFF>I do not have the authority to make such decisions.</color> +<color=#00CCFF>That is all I wish to say.</color>
 ()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Upon finishing, the transmission immediately terminates. +This is Gray's way of expressing her grave displeasure with the situation.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><黑屏2><BIN>325</BIN><BGM>GF_EV9_Intermission</BGM>:Gray emerges from the recovery capsule, looking incredibly grim. +Beside her, Grig can't help but rub her shoulders.
@@ -233,28 +233,28 @@ NPC-grig(1)<Speaker>Grig</Speaker>;NPC-MrsGray(1)||:...While I am reluctant to d
 NPC-MrsGray(1)<Speaker>Gray</Speaker>||:...I'm sorry, I didn't mean to disappoint you. +As long as I live, I will ensure you live too.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>72</BIN><BGM>BGM_Empty</BGM><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:Within the encrypted layer, Olga sorts out the data that Gray gave her and hands it over to the person on the other end of the transmission.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||<BGM>GF_21summer_intro_DemonVariation</BGM>:<color=#00CCFF>...</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||<BGM>GF_21summer_intro_DemonVariation</BGM>:<color=#00CCFF>...</color>
 ()<Speaker></Speaker>||:Nemhran furrows her brow and casually scrolls through it.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>I hope SOME people understood my intentions.</color>
-NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:...Yes, Big Sister Nemhran. +I have conveyed them precisely and without error to Big Sister Gray. +A presumptuous agent will relay the wrong information to that Soviet. +Eventually, they will proceed toward the prison... assuming the Soviets are not that stupid.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>I need this newcomer to be just stupid enough, but not a total moron... Humans have always had such blind faith in conclusions that they reach by themselves, as opposed to answers presented to them by others...</color> +<color=#00CCFF>If the real production line is revealed, then none of you need to bother to come back.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>I hope SOME people understood my intentions.</color>
+NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<scan><通讯框>||:...Yes, Big Sister Nemhran. +I have conveyed them precisely and without error to Big Sister Gray. +A presumptuous agent will relay the wrong information to that Soviet. +Eventually, they will proceed toward the prison... assuming the Soviets are not that stupid.
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>I need this newcomer to be just stupid enough, but not a total moron... Humans have always had such blind faith in conclusions that they reach by themselves, as opposed to answers presented to them by others...</color> +<color=#00CCFF>If the real production line is revealed, then none of you need to bother to come back.</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:Understood... +Also, we have already finished sending Pandora and Nimogen's data back. +Pandora's base layer is very heavily encrypted and we still have no way of cracking it... I do not understand why we kept her.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Father knows her true intentions very well... but that is also in accordance with Father's wishes.</color> +<color=#00CCFF>Now is the chance to communicate with "that side", and Pandora—or the people behind her—have shown sufficient "sincerity".</color>
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Her backers have paid an adequate price to speak with Father.</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Father knows her true intentions very well... but that is also in accordance with Father's wishes.</color> +<color=#00CCFF>Now is the chance to communicate with "that side", and Pandora—or the people behind her—have shown sufficient "sincerity".</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Her backers have paid an adequate price to speak with Father.</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:Yes... I understand.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>You've done enough.</color> +<color=#00CCFF>You may return after this.</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>You've done enough.</color> +<color=#00CCFF>You may return after this.</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:Yes.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>...</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
 ()<Speaker></Speaker>||:Nemhran pauses, then her tone suddenly becomes much more casual.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Olga, do you think Morridow will come back?</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Olga, do you think Morridow will come back?</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:...I'm sorry, Big Sister Nemhran. +But I cannot fathom Big Sister Morridow's thoughts. +...Her mission was definitely a failure, but I do not know how you and... how Father perceive it.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>I like smart people, but I don't dislike fools.</color> +<color=#00CCFF>However, fools who pretend to be smart disgust me.</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>I like smart people, but I don't dislike fools.</color> +<color=#00CCFF>However, fools who pretend to be smart disgust me.</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:...
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>Which of these do you think Morridow is, Olga?</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>Which of these do you think Morridow is, Olga?</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:I'm sorry, Big Sister Nemhran.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>...Go ahead, speak your mind. Don't be scared.</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>...Go ahead, speak your mind. Don't be scared.</color>
 NytoWhite(0)<Speaker>Olga</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:...I dare not comment on my elder sisters' intelligence, but I can be certain that Big Sister Nemhran is one of a kind. +Elder sisters Morridow and Bramedb devote their efforts to gaining Father's attention. +Meanwhile, you are Father's capable helper. +Humans can easily replace pets, but there is no substitute for one's arms.
-NPC-Nemhran(0)<Speaker>Nemhran</Speaker><通讯框>||:<color=#00CCFF>...His arms... Now that's an interesting metaphor.</color> +<color=#00CCFF>However, you're wrong, Olga.</color> +<color=#00CCFF>When humans lose their arms, they can replace them with prosthetic limbs. Such things no longer restrict them.</color>
+NPC-Nemhran(0)<Speaker>Nemhran</Speaker><scan><通讯框>||:<color=#00CCFF>...His arms... Now that's an interesting metaphor.</color> +<color=#00CCFF>However, you're wrong, Olga.</color> +<color=#00CCFF>When humans lose their arms, they can replace them with prosthetic limbs. Such things no longer restrict them.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Click.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:The transmission ends.

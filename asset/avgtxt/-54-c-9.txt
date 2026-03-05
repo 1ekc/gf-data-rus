@@ -5,13 +5,13 @@
 ()<Speaker>Doll A</Speaker>||:<color=#00CCFF>Fight the VORY?! Are you insane?!</color> +<color=#00CCFF>We're just ordinary civilian Dolls.</color>
 ()<Speaker>Doll B</Speaker>||:<color=#00CCFF>I-I can't do it, you don't know how scary these guys are!</color> +<color=#00CCFF>I'm not even armed...</color>
 ()<Speaker>Doll C</Speaker>||:<color=#00CCFF>We're kinda fine right now...</color> +<color=#00CCFF>If we behave, they won't cause us trouble...</color> +<color=#00CCFF>Who'd go all out against a toaster anyway?</color>
-NPC-TD_Worker(1)<通讯框><Speaker>Pavel</Speaker>||:<color=#00CCFF>Reporting from Carriage F09.</color> +<color=#00CCFF>12 Vory, 3 sentry droids.</color> +<color=#00CCFF>My body is fully functional.</color>
+NPC-TD_Worker(1)<scan><通讯框><Speaker>Pavel</Speaker>||:<color=#00CCFF>Reporting from Carriage F09.</color> +<color=#00CCFF>12 Vory, 3 sentry droids.</color> +<color=#00CCFF>My body is fully functional.</color>
 ()<Speaker>Doll A</Speaker>||:<color=#00CCFF>A-are you for real...</color>
-NPC-TD_Worker(1)<通讯框><Speaker>Pavel</Speaker>||:<color=#00CCFF>I worked on the Siberian Lifeline Project, namely the route this very train travels on.</color> +<color=#00CCFF>I am very familiar with the structure and loadout of this train.</color> +<color=#00CCFF>Once you activate me, I can work with you.</color>
+NPC-TD_Worker(1)<scan><通讯框><Speaker>Pavel</Speaker>||:<color=#00CCFF>I worked on the Siberian Lifeline Project, namely the route this very train travels on.</color> +<color=#00CCFF>I am very familiar with the structure and loadout of this train.</color> +<color=#00CCFF>Once you activate me, I can work with you.</color>
 ()<Speaker>Doll D</Speaker>||:<color=#00CCFF>...Hey, don't forget to save me too!</color> +<color=#00CCFF>I, I used to do tricks in a circus, so I'm pretty agile.</color> +<color=#00CCFF>Now that I think about it, humans aren't so scary after all!</color>
 ()||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Beepbeep—</color>
 ()||:<color=#00CCFF>Channel is now muted—</color>
-AR18(2)<通讯框><Speaker>Lyudmila</Speaker>||:<color=#00CCFF>Don't waste time on pointless details.</color> +<color=#00CCFF>Report the situation in the carriages you're in. Follow Mr. Pavel's format.</color> +<color=#00CCFF>I'll be taking command now.</color>
+AR18(2)<scan><通讯框><Speaker>Lyudmila</Speaker>||:<color=#00CCFF>Don't waste time on pointless details.</color> +<color=#00CCFF>Report the situation in the carriages you're in. Follow Mr. Pavel's format.</color> +<color=#00CCFF>I'll be taking command now.</color>
 ()||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Beepbeep—</color>
 ()||:<color=#00CCFF>Channel is now unmuted—</color>
 ()<Speaker>Doll A</Speaker>||:<color=#00CCFF>Reporting from Carriage F12.</color> +<color=#00CCFF>3 Vory, no sentry droids.</color> +<color=#00CCFF>My body is partially damaged.</color>
@@ -19,27 +19,27 @@ AR18(2)<通讯框><Speaker>Lyudmila</Speaker>||:<color=#00CCFF>Don't waste time 
 ()||:...
 ()||<黑点1><BGM>BGM_Empty</BGM>:...
 ()||<黑点2><BIN>528</BIN><BGM>GF_EV9_Story</BGM>:Catherine listens quietly. She's saying surprisingly little. +This is practically silence for her.
-ColtWalker(4)<通讯框><Speaker>Maggie</Speaker>||:<color=#00CCFF>Are you okay?</color>
-ColtWalker(4)<通讯框>;NPC-Scalper(0)<Speaker>Catherine</Speaker>||:<color=#00CCFF>No need to worry about me. You should try to get out of there.</color> +<color=#00CCFF>The mission is still the top priority.</color>
-ColtWalker(3)<通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(0)||:<color=#00CCFF>That gunshot must have hurt, right?</color> +<color=#00CCFF>...It feels like I keep having to feed you to the sharks on all kinds of missions.</color>
-ColtWalker(3)<通讯框>;NPC-Scalper(0)<Speaker>Catherine</Speaker>||:<color=#00CCFF>...Well, I have 80 more backups, so just remember to collect me.</color> +<color=#00CCFF>It's happened before. I know the drill.</color>
-ColtWalker(1)<通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(0)||:<color=#00CCFF>...</color> +<color=#00CCFF>By the way, do you feel sad when I abandon you?</color>
-ColtWalker(1)<通讯框>;NPC-Scalper(0)<Speaker>Catherine</Speaker>||:<color=#00CCFF>...Not like I remember; it's a brand new experience each time.</color>
-ColtWalker(1)<通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(0)||:<color=#00CCFF>You sound pretty upset alright.</color>
-ColtWalker(1)<通讯框>;NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<color=#00CCFF>Who are you, and what have you done with Maggie? Why are you talking about all this crap?</color>
-ColtWalker(1)<通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>Just making idle conversation since we've got nothing to do anyway.</color>
+ColtWalker(4)<scan><通讯框><Speaker>Maggie</Speaker>||:<color=#00CCFF>Are you okay?</color>
+ColtWalker(4)<scan><通讯框>;NPC-Scalper(0)<Speaker>Catherine</Speaker>||:<color=#00CCFF>No need to worry about me. You should try to get out of there.</color> +<color=#00CCFF>The mission is still the top priority.</color>
+ColtWalker(3)<scan><通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(0)||:<color=#00CCFF>That gunshot must have hurt, right?</color> +<color=#00CCFF>...It feels like I keep having to feed you to the sharks on all kinds of missions.</color>
+ColtWalker(3)<scan><通讯框>;NPC-Scalper(0)<Speaker>Catherine</Speaker>||:<color=#00CCFF>...Well, I have 80 more backups, so just remember to collect me.</color> +<color=#00CCFF>It's happened before. I know the drill.</color>
+ColtWalker(1)<scan><通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(0)||:<color=#00CCFF>...</color> +<color=#00CCFF>By the way, do you feel sad when I abandon you?</color>
+ColtWalker(1)<scan><通讯框>;NPC-Scalper(0)<Speaker>Catherine</Speaker>||:<color=#00CCFF>...Not like I remember; it's a brand new experience each time.</color>
+ColtWalker(1)<scan><通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(0)||:<color=#00CCFF>You sound pretty upset alright.</color>
+ColtWalker(1)<scan><通讯框>;NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<color=#00CCFF>Who are you, and what have you done with Maggie? Why are you talking about all this crap?</color>
+ColtWalker(1)<scan><通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>Just making idle conversation since we've got nothing to do anyway.</color>
 ColtWalker(1);NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<color=#00CCFF>Quit pretending! We're Dolls, not humans.</color> +<color=#00CCFF>If something feels bad, all we have to do is get rid of the memories. It's tiring enough just to survive. Who's got the energy to overthink such things, anyway?</color>
-ColtWalker(1)<通讯框><Speaker>Maggie</Speaker>||:<color=#00CCFF>I'm not pretending, I'm just...</color>
-ColtWalker(4)<通讯框><Speaker>Maggie</Speaker>||:<color=#00CCFF>...Who's that?</color>
+ColtWalker(1)<scan><通讯框><Speaker>Maggie</Speaker>||:<color=#00CCFF>I'm not pretending, I'm just...</color>
+ColtWalker(4)<scan><通讯框><Speaker>Maggie</Speaker>||:<color=#00CCFF>...Who's that?</color>
 ()||<SE1>AVG_whitenoise</SE1>:Halfway through the conversation, Maggie senses something, and the gentle tone she's using with Catherine instantly changes.
-Erma(0)<通讯框><Speaker>Erma</Speaker>||:<color=#00CCFF>Ahem... Uh... I didn't mean to eavesdrop on you guys...</color>
-Erma(0)<通讯框>;NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<color=#00CCFF>But you already did, didn't you?!</color>
-Erma(1)<通讯框><Speaker>Erma</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>...Well, I picked up some signal fluctuations and thought it was something extraordinary.</color> +<color=#00CCFF>Sorry to bother you, please continue.</color>
+Erma(0)<scan><通讯框><Speaker>Erma</Speaker>||:<color=#00CCFF>Ahem... Uh... I didn't mean to eavesdrop on you guys...</color>
+Erma(0)<scan><通讯框>;NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<color=#00CCFF>But you already did, didn't you?!</color>
+Erma(1)<scan><通讯框><Speaker>Erma</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>...Well, I picked up some signal fluctuations and thought it was something extraordinary.</color> +<color=#00CCFF>Sorry to bother you, please continue.</color>
 NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<color=#00CCFF>What, you think you can just walk in and out as you like?</color>
-ColtWalker(1)<通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>Quite the hacker, aren't you?</color> +<color=#00CCFF>Catherine, good job on picking this body for me.</color>
-ColtWalker(1)<通讯框>;NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<color=#00CCFF>...Oi.</color>
-ColtWalker(2)<通讯框><Speaker>Maggie</Speaker>||:<color=#00CCFF>You do know, right? Your train ride isn't free.</color>
-Erma(0)<通讯框><Speaker>Erma</Speaker>||:<color=#00CCFF>...I do now.</color> +<color=#00CCFF>No wonder you didn't want money but rather wanted me to put my body up as collateral.</color> +<color=#00CCFF>So, am I getting back the 2 ounces I earned on the Colt Express?</color>
+ColtWalker(1)<scan><通讯框><Speaker>Maggie</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>Quite the hacker, aren't you?</color> +<color=#00CCFF>Catherine, good job on picking this body for me.</color>
+ColtWalker(1)<scan><通讯框>;NPC-Scalper(3)<Speaker>Catherine</Speaker>||:<color=#00CCFF>...Oi.</color>
+ColtWalker(2)<scan><通讯框><Speaker>Maggie</Speaker>||:<color=#00CCFF>You do know, right? Your train ride isn't free.</color>
+Erma(0)<scan><通讯框><Speaker>Erma</Speaker>||:<color=#00CCFF>...I do now.</color> +<color=#00CCFF>No wonder you didn't want money but rather wanted me to put my body up as collateral.</color> +<color=#00CCFF>So, am I getting back the 2 ounces I earned on the Colt Express?</color>
 ()||<SE1>AVG_tele_disconnect</SE1><黑点1>:Catherine hangs up without any hesitation.
 ()||<黑点2><BIN>530</BIN><narrator>:At the gangway connection between Carriages F01 and F02 of the Intercontinental Railway train "Future".
 ()||:The faint scent of blood hangs in the air, and the mood is heavy and stagnant.

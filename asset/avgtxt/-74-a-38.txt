@@ -31,11 +31,11 @@
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>72</BIN><黑屏2>:……斯塔西特殊通讯频道。
-NPC-maya(0)<Speaker>Q</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>以上，就是本次服务器事件的调查报告。</color>
-NPC-Romy(0)<Speaker>罗密</Speaker><通讯框>||:<color=#00CCFF>你做得很好。</color>+<color=#00CCFF>迁移服务器和重新规划地下分区的事情，就交给霍夫曼了。</color>
-NPC-Hoffmann(1)<Speaker>费恩·霍夫曼</Speaker><通讯框>||:<color=#00CCFF>收到，部长。</color>+<color=#00CCFF>不，现在应该称呼您为蕾芬斯塔尔将军了。</color>
-NPC-Romy(1)<Speaker>罗密</Speaker><通讯框>||:<color=#00CCFF>我的承诺已经实现，现在的斯塔西恢复了过去的荣光。</color>
-NPC-maya(1)<Speaker>Q</Speaker><通讯框>||:<color=#00CCFF>……看来，我总算可以休息一阵子了。</color>
+NPC-maya(0)<Speaker>Q</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>以上，就是本次服务器事件的调查报告。</color>
+NPC-Romy(0)<Speaker>罗密</Speaker><scan><通讯框>||:<color=#00CCFF>你做得很好。</color>+<color=#00CCFF>迁移服务器和重新规划地下分区的事情，就交给霍夫曼了。</color>
+NPC-Hoffmann(1)<Speaker>费恩·霍夫曼</Speaker><scan><通讯框>||:<color=#00CCFF>收到，部长。</color>+<color=#00CCFF>不，现在应该称呼您为蕾芬斯塔尔将军了。</color>
+NPC-Romy(1)<Speaker>罗密</Speaker><scan><通讯框>||:<color=#00CCFF>我的承诺已经实现，现在的斯塔西恢复了过去的荣光。</color>
+NPC-maya(1)<Speaker>Q</Speaker><scan><通讯框>||:<color=#00CCFF>……看来，我总算可以休息一阵子了。</color>
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_tele_disconnect</SE1>:……
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><黑屏2><BIN>9</BIN>:

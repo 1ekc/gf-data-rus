@@ -51,7 +51,7 @@ PP90(0);Vector(0)||:
 PP90(0)<Speaker>PP90</Speaker>;Vector(0)||:诶……是公共广播？？
 PP90(0);Vector(0)||:
 破坏者()<Speaker>破坏者</Speaker>||<黑屏1>:咳咳！格里芬的各位，请听好了！+我这次可是特地来告诉你们……+这场战争，就要结束啦！
-BOSS-6(0)<Speaker>破坏者</Speaker><通讯框>||<BGM>BGM_Battle</BGM><BIN>9</BIN><黑屏2>:刚才的丧尸攻势你们还满意吗？+诶？什么事？
+BOSS-6(0)<Speaker>破坏者</Speaker><scan><通讯框>||<BGM>BGM_Battle</BGM><BIN>9</BIN><黑屏2>:刚才的丧尸攻势你们还满意吗？+诶？什么事？
 Vector()<Speaker>Vector</Speaker>||:……？
 BOSS-6(0)<Speaker>破坏者</Speaker>||:啊，对哦，不好意思，咳咳……+那么，刚才的死士攻势你们还满意吗？+不过刚才的攻势，可是连我储备的十分之一都不到哦。
 PP90()<Speaker>PP90</Speaker>||:喂喂，不会吧！+那些死士都是铁血派来的？！还会有多少啊！

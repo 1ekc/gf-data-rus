@@ -72,10 +72,10 @@ LAMG(0)<Speaker>Ange</Speaker><Position>0,100</Position><同时置暗>||<黑屏1
 ()||<黑屏2><BIN>1</BIN>:...On the training ground near the Griffin base.
 ()||<SE1>ClothingUp</SE1>:Ange takes off her commander's uniform and vaults out of the window of the dormitory building. She avoids the surveillance cameras and slips into the woods. +If all goes according to plan, she will circle around the forested training ground and eventually make it out of the base.
 NPC-Ange(19)<Speaker>Ange</Speaker>||<BGM>10254</BGM>:... +12, are you out of combat?
-NPC-Ange(19);AK12(4)<Speaker>AK-12</Speaker><通讯框>||:<color=#00CCFF>They had absolutely no desire to fight us.</color>
-NPC-Ange(19);AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>They left something behind and left in a hurry.</color>
+NPC-Ange(19);AK12(4)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>They had absolutely no desire to fight us.</color>
+NPC-Ange(19);AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>They left something behind and left in a hurry.</color>
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Give me the coordinates and wait for me.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
+AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
 ()||:Ange can feel the blood pumping through her veins. +She breathes deeply to keep herself from hyperventilating. +She has been waiting for this for far too long. +The ghost ship that she has been chasing after all these years has finally appeared before her, and she can finally row with its rusted oars...
 M4A1(0)<Speaker>M4A1</Speaker>||:...Commander?
 NPC-Ange(19)<Speaker>Ange</Speaker>||:...

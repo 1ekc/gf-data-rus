@@ -74,8 +74,8 @@ HK416Mod(0)<Speaker>416</Speaker>||:You handle the shooting!
 G11Mod(0)<Speaker>Gr G11</Speaker>||:On it!
 ()<Speaker></Speaker>||<震屏3><CGDelay>1</CGDelay><SE2>Gunfight</SE2>:
 HK416Mod(0)<Speaker>416</Speaker>||<SE1>AVG_tele_connect</SE1>:45! Any luck?!
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Give me another 37 seconds.</color>
-HK416Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>Hang in there, guys!</color>
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Give me another 37 seconds.</color>
+HK416Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>Hang in there, guys!</color>
 HK416Mod(0);G11Mod(0)<Speaker>Gr G11</Speaker><Shake>||:Ughhhh... Hurry up! I'm about to be electrocuted!
 HK416Mod(0)<Speaker>416</Speaker>||:...Copy that.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><CGDelay>0.5</CGDelay>:
@@ -89,9 +89,9 @@ G11Mod(0)<Speaker>Gr G11</Speaker><Shake>||:Argh!
 ()<Speaker></Speaker>||<SE1>Explode</SE1>:Boom...+They are pelted with grenades from behind.
 HK416Mod(0)<Speaker>416</Speaker>||:<size=50>45!!!</size>
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_keyboardtype_sci</SE1>:
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_2023Slow_Keyboard_Correct</SE1>:<color=#00CCFF>It's done. Logging out.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_2023Slow_Keyboard_Correct</SE1>:<color=#00CCFF>It's done. Logging out.</color>
 HK416Mod(0)<Speaker>416</Speaker>||:Get Gr G11 out first. She can't take any more of this.+I'll go last.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Got it.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Got it.</color>
 G11Mod(0)<Speaker>Gr G11</Speaker>||:Ugh...
 ()<Speaker></Speaker>||<SE1>AVG_magic_circle_start</SE1>:Gr G11 moans as she dematerializes in 416's arms.+Now that she has logged out successfully, 416 can finally go all out.
 HK416Mod(0)<Speaker>416</Speaker>||<SE1>Select</SE1>:Come on then!
@@ -100,7 +100,7 @@ HK416Mod(0)<Speaker>416</Speaker>||<SE1>Select</SE1>:Come on then!
 HK416Mod(0)<Speaker>416</Speaker>||:...!
 ()<Speaker></Speaker>||:It's that white-lipped python again.+This is the first time it has appeared so close to her.
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:416 immediately switches her aim and fires at it, but it simply twists its body nimbly and avoids all the bullets.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>416, prepare to log out.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>416, prepare to log out.</color>
 HK416Mod(0)<Speaker>416</Speaker>||:Acknowledged.
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_Cut_Watermelon</SE1>:Almost immediately, the python strikes and sinks its teeth into 416's arm.
 ()||<黑点1><SE1>AVG_magic_circle_start</SE1>:

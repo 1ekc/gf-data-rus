@@ -77,20 +77,20 @@ MDR(2)<Speaker>MDR</Speaker>||<黑屏1>:In that case... "Halloween Special! Live
 MDR(2)<Speaker>MDR</Speaker>||:Electronic Warfare Simulation Training Room...not that. +Underground Arcade...not that either.
 MDR(2)<Speaker>MDR</Speaker>||:Main Server Room...activated ten minutes ago? +Bingo!
 MDR(2)<Speaker>MDR</Speaker>||:Identify signal... Oh, it's TAC-50! +Hey, do you hear me~?
-TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:...Is that...MDR?
+TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:...Is that...MDR?
 MDR(2)<Speaker>MDR</Speaker>||:I got a reply! Can't believe this is working! Maybe I'm actually a genius!
-MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:Where are you? Are you also trapped?
-MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<通讯框>||:Nope, I'm completely free and well. +I think everyone, except for me, got transported to cyberspace where you get to be heroines. Honestly, I'm jealous. +As for how even your bodies were gone – that's totally a supernatural phenomenon.
-MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:What? You've got to be kidding me! Hurry up and put us back!
-MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<通讯框>||:...What if I say no?
-MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:Huh?
-MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<通讯框>||<BGM>BGM_Empty</BGM>:Humph, to tell you the truth, this has been my plan all along – sending people that rub me the wrong way to a different world... +If the plot develops this way, what do you think? Is it frightening?
-MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||<BGM>BGM_Room</BGM>:...You jerk! People could actually be in danger!
-MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:This is no time to fool around! What's wrong with you?!
-MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<通讯框>||:Hey, it's Halloween – Trick or Treat. +As the only one spared by this..."displacement", I gotta keep a cool head, you know. Or would you rather I start whining and screeching like you?
-MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:Well...
-MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<通讯框>||:Just calm down and stay where you are. We'll keep in touch. +I need to locate the others' signals first.
-MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:Alright, you're the only one who can sort this out... Please find the others.
+MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:Where are you? Are you also trapped?
+MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<scan><通讯框>||:Nope, I'm completely free and well. +I think everyone, except for me, got transported to cyberspace where you get to be heroines. Honestly, I'm jealous. +As for how even your bodies were gone – that's totally a supernatural phenomenon.
+MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:What? You've got to be kidding me! Hurry up and put us back!
+MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<scan><通讯框>||:...What if I say no?
+MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:Huh?
+MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<scan><通讯框>||<BGM>BGM_Empty</BGM>:Humph, to tell you the truth, this has been my plan all along – sending people that rub me the wrong way to a different world... +If the plot develops this way, what do you think? Is it frightening?
+MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||<BGM>BGM_Room</BGM>:...You jerk! People could actually be in danger!
+MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:This is no time to fool around! What's wrong with you?!
+MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<scan><通讯框>||:Hey, it's Halloween – Trick or Treat. +As the only one spared by this..."displacement", I gotta keep a cool head, you know. Or would you rather I start whining and screeching like you?
+MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:Well...
+MDR(2)<Speaker>MDR</Speaker>;TAC50(2)<scan><通讯框>||:Just calm down and stay where you are. We'll keep in touch. +I need to locate the others' signals first.
+MDR(2);TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:Alright, you're the only one who can sort this out... Please find the others.
 ()||:...Beep.
 MDR(2)<Speaker>MDR</Speaker>||:Great, there's a good chance the rest of them are safe as well. +So long as they're still within the computer system, even just as data fragments, I can probably still integrate them with their neural cloud backup copies and re-install them into new bodies...
 ()||<闪屏><duration>5</duration></闪屏>:Suddenly, the light tubes above her head flicker twice.
@@ -116,17 +116,17 @@ MDR(2)<Speaker>MDR</Speaker>||:...You've always dressed like a rebel, but I tota
 MDR(2);FAMAS(2)<Speaker>Fr FAMAS</Speaker>||:I don't know when...I think I've been wearing this ever since I came back from cyberspace.
 MDR(2)<Speaker>MDR</Speaker>;FAMAS(2)||:...Cyberspace? Hmm, hold on, even you got sucked in? +Were you at the ghost story party as well? +Wait a minute... +Don't tell me... 
 MDR(2)<Speaker>MDR</Speaker>;FAMAS(2)||<黑屏1>:I'm...also in cyberspace??
-TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||<黑屏2><BIN>72</BIN><BGM>BGM_Room</BGM>:Can you hear me, MDR?! We all made it back safely! +Hmm? Where's MDR?? Has she left?
+TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||<黑屏2><BIN>72</BIN><BGM>BGM_Room</BGM>:Can you hear me, MDR?! We all made it back safely! +Hmm? Where's MDR?? Has she left?
 MDR(2)<Speaker>MDR</Speaker>||:Huh? Hold on...
-TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:Whatever, at least everyone is fine. +Right then, let's all go and get our neural cloud checked.
+TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:Whatever, at least everyone is fine. +Right then, let's all go and get our neural cloud checked.
 MDR(2)<Speaker>MDR</Speaker>||:W-wait! TAC-50? TAC-50! Fr FAMAS and I are still in here, help!
 ()||:...
 MDR(2)<Speaker>MDR</Speaker>||:How...
-TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:Let's just get out of here.
+TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:Let's just get out of here.
 MDR(2)<Speaker>MDR</Speaker>||:How did this happen...? In the end, I'm the one who...
-TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:...If the plot develops this way, what do you think? Is it frightening?
+TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:...If the plot develops this way, what do you think? Is it frightening?
 MDR(2)<Speaker>MDR</Speaker>||<BGM>BGM_Empty</BGM>:What?
-TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||<BGM>BGM_Hello</BGM>:Actually, we did some investigation after we got back to the real world and realized that even you were trapped in cyberspace. +Fr FAMAS is there just to fetch you. It's our way of showing a little gratitude since you inadvertently helped us by giving us an opening to leave. +It's Halloween – Trick or Treat.
+TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||<BGM>BGM_Hello</BGM>:Actually, we did some investigation after we got back to the real world and realized that even you were trapped in cyberspace. +Fr FAMAS is there just to fetch you. It's our way of showing a little gratitude since you inadvertently helped us by giving us an opening to leave. +It's Halloween – Trick or Treat.
 MDR(2)<Speaker>MDR</Speaker>||:... +Tsk... +So, Fr FAMAS... You've known about this all along?
 MDR(2);FAMAS(2)<Speaker>Fr FAMAS</Speaker>||:S-sorry...
 MDR(2)<Speaker>MDR</Speaker>;FAMAS(2)||:Then why are you wearing something so scary?!
@@ -135,7 +135,7 @@ MDR(2)<Speaker>MDR</Speaker>;FAMAS(2)||:What even...? What happened to you in cy
 MDR(2);FAMAS(2)<Speaker>Fr FAMAS</Speaker>||:It doesn't matter. Now, should we get out of here?
 MDR(2)<Speaker>MDR</Speaker>;FAMAS(2)||:Sigh~ Fine, though it's missing some sense of closure calling it just like that.
 MDR(2)<Speaker>MDR</Speaker>;FAMAS(2)||:Still, this "Halloween Special! Live at the scene of the mysterious Griffin Doll disappearances!" has been a great success.
-TAC50(2)<Speaker>TAC-50</Speaker><通讯框>||:Huh? What did you just say?
+TAC50(2)<Speaker>TAC-50</Speaker><scan><通讯框>||:Huh? What did you just say?
 MDR(2)<Speaker>MDR</Speaker>||<黑屏1>:N-nothing!
 ()||<BIN>9</BIN><黑屏2><黑屏1>:With that, the little commotion on Halloween night comes to an end... +...Or so it should have.
 ()||<BIN>82</BIN><Night><黑屏2>:Just after midnight, on a bed in the Griffin dorms...under the blanket.

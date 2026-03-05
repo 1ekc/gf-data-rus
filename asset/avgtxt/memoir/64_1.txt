@@ -13,7 +13,7 @@ PSG1(0)<Speaker>Gr PSG-1</Speaker>||<SE1>Gunkill</SE1>:Headshot. Retreating now.
 PSG1(0)<Speaker>???</Speaker>||:Get down!
 PSG1(0)<Speaker>Gr PSG-1</Speaker>||<震屏><黑屏1><BGM>BGM_Empty</BGM>:...?!
 ()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1><黑屏2><黑屏1><关闭火花>:...
-XM8(0)<Speaker>XM8</Speaker><通讯框>||<BIN>8</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Well...that's the story, Miss Kalina. +The others are mostly fine, but our squad leader... She's in a pretty bad state.
+XM8(0)<Speaker>XM8</Speaker><scan><通讯框>||<BIN>8</BIN><黑屏2><BGM>BGM_Sneak</BGM>:Well...that's the story, Miss Kalina. +The others are mostly fine, but our squad leader... She's in a pretty bad state.
 XM8(0);NPC-Kalin(2)<Speaker>Kalin</Speaker>||:I see... Did the retreat go smoothly?
 XM8(0)<Speaker>XM8</Speaker>;NPC-Kalin(2)||:Thanks to Gr PSG-1's shot, we didn't have to worry about being pursued by their ground units. +See you around, Miss Kalina.
 ()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...

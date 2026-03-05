@@ -64,11 +64,11 @@ M1887(2)<Speaker>M1887</Speaker>||:A defensive perimeter? Against who?
 M1887(2);RMB93(0)<Speaker>RMB-93</Speaker>||:Against the incoming refugees, of course... Eh, since we've been paid, we should prepare ourselves to get blown up.
 M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:So we're going to stop disarming the bomb and set up a perimeter? Surely they know that the Green Zone isn't going to exist without this purification facility, right?
 M1887(2);RMB93(0)<Speaker>RMB-93</Speaker>||:Let's contact Kalina first.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>;RMB93(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>How are things on your end?</color>
-NPC-Kalin(0)<通讯框>;RMB93(0)<Speaker>RMB-93</Speaker>||:Looks like we'll be clocking overtime.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>;RMB93(0)||:<color=#00CCFF>I've received your intel. Hm... A "Cradle" mechanism... And the SOD has no idea where the other bomb is?</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>;RMB93(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>How are things on your end?</color>
+NPC-Kalin(0)<scan><通讯框>;RMB93(0)<Speaker>RMB-93</Speaker>||:Looks like we'll be clocking overtime.
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>;RMB93(0)||:<color=#00CCFF>I've received your intel. Hm... A "Cradle" mechanism... And the SOD has no idea where the other bomb is?</color>
 NPC-Kalin(0);RMB93(0)<Speaker>RMB-93</Speaker>||:I think it should be close by.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>;RMB93(0)||:<color=#00CCFF>It looks like these terrorists really aren't planning on leaving themselves...a...</color> +<color=#00CCFF>Way out...</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>;RMB93(0)||:<color=#00CCFF>It looks like these terrorists really aren't planning on leaving themselves...a...</color> +<color=#00CCFF>Way out...</color>
 RMB93(0)<Speaker>RMB-93</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Hello? Hello? ...Dammit, did the signal cut out?
 RMB93(0)<Speaker>Distorted Voice</Speaker><同时置暗>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Oh my... It's really hard to get the hang of this frequency... Ahem...um... Dear guests from Griffin, I hope you are well.</color> +<color=#00CCFF>I trust the dictators of the Green Zone are tearing their hair out over our outstanding work, hm?</color>
 RMB93(0)<Speaker>RMB-93</Speaker>||:! +This is a secure channel, who is this? +What do you want?
@@ -82,11 +82,11 @@ RMB93(0)<Speaker>Distorted Voice</Speaker><同时置暗>||:<color=#00CCFF>Nonono
 RMB93(0);M1887(2)<Speaker></Speaker><同时点亮>||:RMB-93 glances over to M1887, but the latter shakes her head.
 RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:The signal trace failed. These guys are pretty tricky.
 RMB93(0)<Speaker>Distorted Voice</Speaker><同时置暗>;M1887(2)||:<color=#00CCFF>The "Cradle" bomb before you is simply an appetizer. The main course is in an SOD safe house due northeast from your current position.</color> +<color=#00CCFF>But remember, this dish was originally served for them.</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Uh...</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>What's going on?</color>
-M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(0)<通讯框>||:This channel isn't secure. Switch to the backup line.
-M1887(2);NPC-Kalin(0)<Speaker>Kalina</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>They hijacked the mission channel? They actually managed to crack our signal encryption...</color>
-M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(0)<通讯框>||:I'm sending you some audio data. Looks like we'll need to hurry over to the northeast safe house. +RMB-93, are you ready?
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>Uh...</color>
+NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>What's going on?</color>
+M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(0)<scan><通讯框>||:This channel isn't secure. Switch to the backup line.
+M1887(2);NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>They hijacked the mission channel? They actually managed to crack our signal encryption...</color>
+M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(0)<scan><通讯框>||:I'm sending you some audio data. Looks like we'll need to hurry over to the northeast safe house. +RMB-93, are you ready?
 M1887(2);RMB93(0)<Speaker>RMB-93</Speaker>||:I am. Huh? I'll be going alone?
 M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:According to what that man said, the other "Cradle" bomb might be over there. +Between the two of us, you're better at defusing bombs. +I'll establish a perimeter here and help keep an eye on the surroundings for you.
 M1887(2);RMB93(0)<Speaker>RMB-93</Speaker>||:I guess I can't argue with that...
@@ -94,9 +94,9 @@ M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:Be careful. I have a feeling that th
 M1887(2);RMB93(0)<Speaker>RMB-93</Speaker>||<黑屏1>:Relax, we aren't ordinary Dolls either.
 ()||<黑屏2><BIN>70</BIN><BGM>BGM_Empty</BGM>:Inside the SOD safe house. +28 minutes until the bomb goes off. +RMB-93 is standing in front of the safe house, trying to sense what's going on inside.
 RMB93(0)<Speaker>RMB-93</Speaker>||<BGM>BGM_Danger</BGM>:Hailing M1887, I'm at the safe house.
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Roger. I've already retreated to a safe zone and the purification facility has been locked down, but there haven't been any movements from the SOD yet.</color>
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Roger. I've already retreated to a safe zone and the purification facility has been locked down, but there haven't been any movements from the SOD yet.</color>
 M1887(2);RMB93(0)<Speaker>RMB-93</Speaker>||:What a troublesome client... I'm going in.
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(0)||:<color=#00CCFF>Keep me posted on the situation.</color>
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(0)||:<color=#00CCFF>Keep me posted on the situation.</color>
 RMB93(0)<Speaker></Speaker>||:RMB-93 carefully enters the safe house and surveys the interior.
 RMB93(0)<Speaker>RMB-93</Speaker>||:Huh? What...
 NPC-PasserbyF(0)<Speaker></Speaker>||:The room is empty, save for a little girl sitting on a wooden chair. Wires are tangled all over her.
@@ -109,32 +109,32 @@ NPC-PasserbyF(0);RMB93(0)<Speaker>RMB-93</Speaker>||:Do you like this? Then here
 NPC-PasserbyF(0);RMB93(0)<Speaker></Speaker>||:RMB-93 takes off her necklace without any hesitation and gives it to the girl.
 NPC-PasserbyF(0);RMB93(7)<Speaker>RMB-93</Speaker>||:<color=#A9A9A9>The girl's stable for now, but I'll have to be really careful with what comes next.</color> +Pretty, isn't it?
 NPC-PasserbyF(0)<Speaker>Girl</Speaker>;RMB93(7)||:Mm.
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>So this is the "main course"?</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:It's a "Cradle" setup, just like the other one...
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>What?!</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:No doubt about it.
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>I'll contact the SOD. Don't do anything rash, 93.</color> +<color=#00CCFF>Hailing SOD, the Griffin squad has found the other bomb site, requesting further instructions.</color>
-M1887(2)<Speaker>Police Supervisor</Speaker><通讯框>;RMB93(7)<同时置暗>||:<color=#00CCFF>Griffin...handle...matter...</color>
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:What's going on? Is the transmission being jammed?
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:What happened to you? How many more minutes do we have?!
-M1887(2)<Speaker>Police Supervisor</Speaker><通讯框>;RMB93(7)<同时置暗>||:<color=#00CCFF>How many...you need...tell you...</color>
-M1887(2)<Speaker></Speaker><通讯框>;RMB93(7)<同时置暗>||:The intermittent transmission finally cuts out altogether. RMB-93 hears M1887 trying to get through again and again.
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:M1887! We're out of time!
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>I can't contact that supervisor, Kalina, or the Commander!</color> +<color=#00CCFF>Wait a minute... Is that... an SOD armored vehicle? They've sent someone over to defuse the bomb, we can...</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:I need to finish the mission, no matter what!
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>Listen to me, RMB-93! Our mission is to stop disarming the bomb and establish a defensive cordon!</color> +<color=#00CCFF>Finding the other bomb and disarming it is the SOD's business!</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:I'm not leaving! I won't abandon this little girl!
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>The mission is over. All they wanted was for us to find where the other bomb was. The final decision is in their hands.</color>
-M1887(2)<Speaker></Speaker><通讯框>;RMB93(7)||:47 seconds to detonation.
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>Once they start disarming it, the bomb on your end will immediately explode. </color>
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:<color=#00CCFF>So this is the "main course"?</color>
+M1887(2)<scan><通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:It's a "Cradle" setup, just like the other one...
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:<color=#00CCFF>What?!</color>
+M1887(2)<scan><通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:No doubt about it.
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:<color=#00CCFF>I'll contact the SOD. Don't do anything rash, 93.</color> +<color=#00CCFF>Hailing SOD, the Griffin squad has found the other bomb site, requesting further instructions.</color>
+M1887(2)<Speaker>Police Supervisor</Speaker><scan><通讯框>;RMB93(7)<同时置暗>||:<color=#00CCFF>Griffin...handle...matter...</color>
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:What's going on? Is the transmission being jammed?
+M1887(2)<scan><通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:What happened to you? How many more minutes do we have?!
+M1887(2)<Speaker>Police Supervisor</Speaker><scan><通讯框>;RMB93(7)<同时置暗>||:<color=#00CCFF>How many...you need...tell you...</color>
+M1887(2)<Speaker></Speaker><scan><通讯框>;RMB93(7)<同时置暗>||:The intermittent transmission finally cuts out altogether. RMB-93 hears M1887 trying to get through again and again.
+M1887(2)<scan><通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:M1887! We're out of time!
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:<color=#00CCFF>I can't contact that supervisor, Kalina, or the Commander!</color> +<color=#00CCFF>Wait a minute... Is that... an SOD armored vehicle? They've sent someone over to defuse the bomb, we can...</color>
+M1887(2)<scan><通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:I need to finish the mission, no matter what!
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:<color=#00CCFF>Listen to me, RMB-93! Our mission is to stop disarming the bomb and establish a defensive cordon!</color> +<color=#00CCFF>Finding the other bomb and disarming it is the SOD's business!</color>
+M1887(2)<scan><通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:I'm not leaving! I won't abandon this little girl!
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:<color=#00CCFF>The mission is over. All they wanted was for us to find where the other bomb was. The final decision is in their hands.</color>
+M1887(2)<Speaker></Speaker><scan><通讯框>;RMB93(7)||:47 seconds to detonation.
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:<color=#00CCFF>Once they start disarming it, the bomb on your end will immediately explode. </color>
 NPC-PasserbyF(0)<Speaker>Girl</Speaker>;RMB93(7)||:Miss... These wires are hurting me...
 NPC-PasserbyF(0);RMB93(7)<Speaker>RMB-93</Speaker>||:Don't worry, I'll sort that out right away...
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Get out of there, that's an order!</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:Only 30 seconds left, there's no time to move her out of range of the "Cradle". There's only one thing I can do...
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>RMB-93, what the hell are you doing?</color>
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Get out of there, that's an order!</color>
+M1887(2)<scan><通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:Only 30 seconds left, there's no time to move her out of range of the "Cradle". There's only one thing I can do...
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:<color=#00CCFF>RMB-93, what the hell are you doing?</color>
 NPC-PasserbyF(0)<Speaker>Girl</Speaker>;RMB93(7)||:Miss!
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:The SOD people haven't moved in yet, right?
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>You!</color>
+M1887(2)<scan><通讯框>;RMB93(7)<Speaker>RMB-93</Speaker>||:The SOD people haven't moved in yet, right?
+M1887(2)<Speaker>M1887</Speaker><scan><通讯框>;RMB93(7)||:<color=#00CCFF>You!</color>
 ()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:The beep of the timer reaching zero echoes through all the active frequencies. A single person grins. +Suddenly, everything comes to an abrupt halt...
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Explode</SE1>:Boom...
 ()<Speaker></Speaker>||<BIN>9</BIN>:...

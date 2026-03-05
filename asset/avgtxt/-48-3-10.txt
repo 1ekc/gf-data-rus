@@ -10,25 +10,25 @@
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>315</BIN><Night><黑屏2><SE1>AVG_tele_connect</SE1>:Pzzt— +The call connects.
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:Hello, can you hear me?
-NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><通讯框>||:<color=#00CCFF>You've called me more times over the past few days than you have for all of last year. </color>
+NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||:<color=#00CCFF>You've called me more times over the past few days than you have for all of last year. </color>
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:What, are you blaming me for being too cold? +I was just a little busy. If you're dying for someone to talk to because you're bored, I'll call you more often in the future.
-NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><通讯框>||:<color=#00CCFF>Enough rubbish. What is it?</color>
+NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||:<color=#00CCFF>Enough rubbish. What is it?</color>
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:Are you aware of the situation? +If those weapons aren't shipped on time, we're all going to get it.
-NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><通讯框>||:<color=#00CCFF>And it is only at this point that you think of asking me for help?</color>
+NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||:<color=#00CCFF>And it is only at this point that you think of asking me for help?</color>
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:Right now. +Our "tail" has already followed us here. +Whatever you're planning, you can forget about getting away if Father is upset.
-NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><通讯框>||:<color=#00CCFF>Really now?</color> +<color=#00CCFF>That has nothing to do with me, Bramedb. </color> +<color=#00CCFF>Do you remember what you said?</color> +<color=#00CCFF>This is your mission, I have no right to interfere. </color>
+NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||:<color=#00CCFF>Really now?</color> +<color=#00CCFF>That has nothing to do with me, Bramedb. </color> +<color=#00CCFF>Do you remember what you said?</color> +<color=#00CCFF>This is your mission, I have no right to interfere. </color>
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:...That was then, this is now. +If we lose this shipment of weapons, none of us are going to have a good time! +Do you want Father to hear about how you just sat there and let it happen?
-NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><通讯框>||:<color=#00CCFF>Well, we can all look forward to Father's opinion about this whole mess. </color>
+NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||:<color=#00CCFF>Well, we can all look forward to Father's opinion about this whole mess. </color>
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:Grig, are you there? Don't pretend you can't hear me~ +Are you just going to watch as your dear sister does something stupid?
-NPC-grig(0)<Speaker>Grig</Speaker><通讯框>||:<color=#00CCFF>I support any and all decisions Big Sister makes. </color>
+NPC-grig(0)<Speaker>Grig</Speaker><scan><通讯框>||:<color=#00CCFF>I support any and all decisions Big Sister makes. </color>
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:...Gray, are you serious? +This isn't the time to be settling private vendettas in public.
-NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><通讯框>||:<color=#00CCFF>... </color>
+NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||:<color=#00CCFF>... </color>
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:... 
-NPC-MrsGray(4)<Speaker>Mrs. Gray</Speaker><通讯框>||:<color=#00CCFF>Pfft... This is the first time I've seen you so flustered, Bramedb. </color>
+NPC-MrsGray(4)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||:<color=#00CCFF>Pfft... This is the first time I've seen you so flustered, Bramedb. </color>
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:... 
-NPC-MrsGray(4)<Speaker>Mrs. Gray</Speaker><通讯框>||:<color=#00CCFF>I've already sent people over. I just wanted to tease you and see your reaction. This doesn't come around often, after all. </color> +<color=#00CCFF>It was well worth it. You're absolutely adorable. </color>
+NPC-MrsGray(4)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||:<color=#00CCFF>I've already sent people over. I just wanted to tease you and see your reaction. This doesn't come around often, after all. </color> +<color=#00CCFF>It was well worth it. You're absolutely adorable. </color>
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:Why you...!
-NPC-MrsGray(4)<Speaker>Mrs. Gray</Speaker><通讯框>||:<color=#00CCFF>Go and finish your mission. </color> +<color=#00CCFF>Don't disappoint me and Father. </color>
+NPC-MrsGray(4)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||:<color=#00CCFF>Go and finish your mission. </color> +<color=#00CCFF>Don't disappoint me and Father. </color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:... +...You bitch.
 ()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:Such is Bramedb's anger that she crushes the communicator in her hand. Then, she takes a deep breath.
@@ -38,11 +38,11 @@ NPC-Bramedb(2)<Speaker>Bramedb</Speaker>||:...You won't get away with this.
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:... 
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>408</BIN><common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_Rain_Heavy</SE1>:As they follow in the manager's footsteps, the Commander and company cross the airport amidst the steady downpour. +The airport at night is largely empty and there seems to be no signs of people around. +Several helicopters are parked on the helipad that is exposed to the elements.
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander! There's an emergency!</color>
-AR15Mod(5)<Speaker>Commander</Speaker><通讯框>||:...What happened?
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>I'm already at the target warehouse. </color> +<color=#00CCFF>...A transport plane is already on the runway and I'm picking up high radiation levels from it!</color>
-AR15Mod(5)<Speaker>Commander</Speaker><通讯框>||:...That must be the cargo. Crap.
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>The pilot looks weird, like...He's crazy. </color>
-AR15Mod(5)<Speaker>Commander</Speaker><通讯框>||:Never mind that! Do NOT let that plane take off! Stop him!
-AR15Mod(5)<Speaker>ST AR-15</Speaker><通讯框>||:<color=#00CCFF>Roger!</color>
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Commander! There's an emergency!</color>
+AR15Mod(5)<Speaker>Commander</Speaker><scan><通讯框>||:...What happened?
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>I'm already at the target warehouse. </color> +<color=#00CCFF>...A transport plane is already on the runway and I'm picking up high radiation levels from it!</color>
+AR15Mod(5)<Speaker>Commander</Speaker><scan><通讯框>||:...That must be the cargo. Crap.
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>The pilot looks weird, like...He's crazy. </color>
+AR15Mod(5)<Speaker>Commander</Speaker><scan><通讯框>||:Never mind that! Do NOT let that plane take off! Stop him!
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Roger!</color>
 ()||<黑点1><BIN>10</BIN>:

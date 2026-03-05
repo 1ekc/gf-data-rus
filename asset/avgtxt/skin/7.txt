@@ -18,14 +18,14 @@ M1919A4(2)<Speaker>M1919A4</Speaker>||<黑屏1>:You can look forward to it! +Spe
 ()<Speaker></Speaker>||<BIN>87</BIN><黑屏2>:…The long evening goes by in the blink of an eye.
 ()<Speaker></Speaker>||:At the Griffin Cafe after the conclusion of the Halloween event.
 Commander()<Speaker>Commander</Speaker>||:I'm beat… Who would've thought that a relaxing, fun event like this would end up becoming so tiring…
-64type(2)<Speaker>Type64</Speaker><通讯框>||:<color=#00CCFF>Commander, it's me.</color>
+64type(2)<Speaker>Type64</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, it's me.</color>
 64type(2)<Speaker></Speaker>||:I receive an emergency message from Type64 just as I'm trying to catch my breath.
 Commander()<Speaker>Commander</Speaker>||:(Anxious) Take your time. What's the matter?
-64type(2)<Speaker>Type64</Speaker><通讯框>||:<color=#00CCFF>M1919 is trapped in a cage. Please come over to the haunted house and save her.</color>
+64type(2)<Speaker>Type64</Speaker><scan><通讯框>||:<color=#00CCFF>M1919 is trapped in a cage. Please come over to the haunted house and save her.</color>
 64type(2)<Speaker>Commander</Speaker>||:(Worried) What? Trapped in a cage? What's going on?
-64type(2)<Speaker>Type64</Speaker><通讯框>||:<color=#00CCFF>Well...</color>+<color=#00CCFF>I'm not sure. M1919 might've activated some trap, or perhaps she was tossed inside by a Halloween ghost...</color>
+64type(2)<Speaker>Type64</Speaker><scan><通讯框>||:<color=#00CCFF>Well...</color>+<color=#00CCFF>I'm not sure. M1919 might've activated some trap, or perhaps she was tossed inside by a Halloween ghost...</color>
 64type(2)<Speaker>Commander</Speaker>||:…At the very least…our base…probably…isn't haunted.+Yup, there's no way it was a ghost…+I understand the situation now. I'll be there ASAP!
-64type(2)<Speaker>Type64</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>Good to hear, Commander.</color>
+64type(2)<Speaker>Type64</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Good to hear, Commander.</color>
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:…Call ended.+"The base isn't haunted."+Though that may be true, did M1919 run into someone and mistakened them for a real ghost and went to hide herself?+I couldn't help but wonder as I make my way to the haunted house.
 ()<Speaker></Speaker>||<BIN>46</BIN><Night><黑屏2><BGM>BGM_Room</BGM>:…Haunted house.+Although the power is already restored, this venue still oozes an eerie atmosphere.
 Commander()<Speaker>Commander</Speaker>||:Hello, are you in here, 1919...?

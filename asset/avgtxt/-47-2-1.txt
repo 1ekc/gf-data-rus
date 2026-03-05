@@ -25,23 +25,23 @@ Lewis(7)<Speaker>Lewis</Speaker>||:Me, me, me! I do! +I-I'm just worried about L
 Thunder50(2)<Speaker>Thunder</Speaker>||:Don't worry, I've prepared a communicator for her and pointed out the quickest route of escape. +If anything happens, she'll be able to get to safety and contact us immediately.
 Welrod(2)<Speaker>Welrod MkII</Speaker>||:Right, that should be enough. Let's go.
 ()||<黑屏1>:
-NPC-Arla(0)<Speaker>Plump Man</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The "fish" is in position. Where is the "bait"?</color>
-NPC-Arla(0)<Speaker>???</Speaker><通讯框>||:Already waiting in the cargo bay. But does this really count as being in position?
-NPC-Arla(0)<Speaker>Plump Man</Speaker><通讯框>||:<color=#00CCFF>...Who could've known this meddling woman would mess up the plan...</color> +<color=#00CCFF>Has it still not been caught? The sooner we get our hands on the "bait", the better.</color>
-NPC-Arla(0)<Speaker>???</Speaker><通讯框>||:Hey, the "fish" hasn't bitten yet~ +Say, that woman... Are you sure you didn't leak the time and location?
-NPC-Arla(0)<Speaker>Plump Man</Speaker><通讯框>||:<color=#00CCFF>I swear to God it wasn't me!</color>
-NPC-Arla(0)<Speaker>???</Speaker><通讯框>||:I do hope you're not blaspheming.
-NPC-Arla(0)<Speaker>Plump Man</Speaker><通讯框>||:<color=#00CCFF>So what do we do now?</color>
-NPC-Arla(0)<Speaker>???</Speaker><通讯框>||:Be patient, sir. This ship is like a large aquarium. The shark is stuck in here; it can't swim its way back into the Pacific Ocean.
-NPC-Arla(0)<Speaker>Plump Man</Speaker><通讯框>||:<color=#00CCFF>Of course you don't see the rush!</color> +<color=#00CCFF>But that—</color>
-NPC-Arla(0)<Speaker>???</Speaker><通讯框>||:I know. We totally understand its value.
-NPC-Arla(0)<Speaker>Plump Man</Speaker><通讯框>||:<color=#00CCFF>Then hurry up!</color> +<color=#00CCFF>We can't rest easy when we don't have what we want.</color>
+NPC-Arla(0)<Speaker>Plump Man</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The "fish" is in position. Where is the "bait"?</color>
+NPC-Arla(0)<Speaker>???</Speaker><scan><通讯框>||:Already waiting in the cargo bay. But does this really count as being in position?
+NPC-Arla(0)<Speaker>Plump Man</Speaker><scan><通讯框>||:<color=#00CCFF>...Who could've known this meddling woman would mess up the plan...</color> +<color=#00CCFF>Has it still not been caught? The sooner we get our hands on the "bait", the better.</color>
+NPC-Arla(0)<Speaker>???</Speaker><scan><通讯框>||:Hey, the "fish" hasn't bitten yet~ +Say, that woman... Are you sure you didn't leak the time and location?
+NPC-Arla(0)<Speaker>Plump Man</Speaker><scan><通讯框>||:<color=#00CCFF>I swear to God it wasn't me!</color>
+NPC-Arla(0)<Speaker>???</Speaker><scan><通讯框>||:I do hope you're not blaspheming.
+NPC-Arla(0)<Speaker>Plump Man</Speaker><scan><通讯框>||:<color=#00CCFF>So what do we do now?</color>
+NPC-Arla(0)<Speaker>???</Speaker><scan><通讯框>||:Be patient, sir. This ship is like a large aquarium. The shark is stuck in here; it can't swim its way back into the Pacific Ocean.
+NPC-Arla(0)<Speaker>Plump Man</Speaker><scan><通讯框>||:<color=#00CCFF>Of course you don't see the rush!</color> +<color=#00CCFF>But that—</color>
+NPC-Arla(0)<Speaker>???</Speaker><scan><通讯框>||:I know. We totally understand its value.
+NPC-Arla(0)<Speaker>Plump Man</Speaker><scan><通讯框>||:<color=#00CCFF>Then hurry up!</color> +<color=#00CCFF>We can't rest easy when we don't have what we want.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>BGM_Sneak</BGM><Night>:VIP passage.
-Welrod(2)<Speaker>Welrod MkII</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is Welrod. Thunder and I are in position.</color>
+Welrod(2)<Speaker>Welrod MkII</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is Welrod. Thunder and I are in position.</color>
 M200(4)<Speaker>M200</Speaker>||:This is M200. Lewis and I are also standing by. MDR, what's the situation?
-MDR(4)<Speaker>MDR</Speaker><通讯框>||:<color=#00CCFF>I've got a handle on the clearance system base code. The coding is military-grade. I gotta say, this ship is really super high-class.</color>
+MDR(4)<Speaker>MDR</Speaker><scan><通讯框>||:<color=#00CCFF>I've got a handle on the clearance system base code. The coding is military-grade. I gotta say, this ship is really super high-class.</color>
 Lewis(9)<Speaker>Lewis</Speaker>||:Alright, then let's be off!
 M200(4)<Speaker>M200</Speaker>||:MDR, start hacking!
 ()||<黑点1><BIN>10</BIN>:

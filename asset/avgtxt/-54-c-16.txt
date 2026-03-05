@@ -62,9 +62,9 @@ Erma(0)<Speaker>Erma</Speaker>||:Alright.
 ()||<黑屏1><SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:Erma reaches out to hack the channel—
 ()||<黑屏2><BIN>72</BIN>:...
 NPC-Tareus(0)<Speaker>Tareus</Speaker>||:...He escaped.
-NPC-MrsGray(0)<通讯框><Speaker>Gray</Speaker>;NPC-Tareus(0)||:<color=#00CCFF>No need for survivors.</color>
-NPC-MrsGray(0)<通讯框>;NPC-Tareus(0)<Speaker>Tareus</Speaker>||:Yes, I planted a time bomb on him. +The kind that can't be disarmed.
-NPC-MrsGray(0)<通讯框><Speaker>Gray</Speaker>;NPC-Tareus(0)||:<color=#00CCFF>Clean it up.</color>
+NPC-MrsGray(0)<scan><通讯框><Speaker>Gray</Speaker>;NPC-Tareus(0)||:<color=#00CCFF>No need for survivors.</color>
+NPC-MrsGray(0)<scan><通讯框>;NPC-Tareus(0)<Speaker>Tareus</Speaker>||:Yes, I planted a time bomb on him. +The kind that can't be disarmed.
+NPC-MrsGray(0)<scan><通讯框><Speaker>Gray</Speaker>;NPC-Tareus(0)||:<color=#00CCFF>Clean it up.</color>
 NPC-Tareus(0)<Speaker>Tareus</Speaker>||<黑屏1>:Understood.
 ()||<黑屏2><BIN>463</BIN><BGM>GF_2022_Summer_AVG_2</BGM><关闭蒙版>:... +She can't describe her feelings with words. +They're too heavy, too dark. +All she can do is expel them from her body with her tears.
 Erma(6)<Speaker>Erma</Speaker>||:...I'm all alone again...

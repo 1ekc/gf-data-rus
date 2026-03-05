@@ -61,10 +61,10 @@ PP90(0)<Speaker>PP-90</Speaker>||:?
 A91(0)<Speaker>A-91</Speaker>||<SE1>Stop_AVG_loop</SE1>:...Uh, excuse me for a moment, please.
 Vector(0)<Speaker>Vector</Speaker>||:...By all means.
 A91(0)<Speaker>A-91</Speaker>||<SE1>AVG_tele_connect</SE1>:Cyka! Where the hell are you?!
-AK47(2)<Speaker>AK-47</Speaker><通讯框>;A91(0)||:<color=#00CCFF>Huh? Didn't we agree to regroup in the Dark Zone?</color>
+AK47(2)<Speaker>AK-47</Speaker><scan><通讯框>;A91(0)||:<color=#00CCFF>Huh? Didn't we agree to regroup in the Dark Zone?</color>
 AK47(2);A91(0)<Speaker>A-91</Speaker>||:Regroup? In the Dark Zone?!
-AK47(2)<Speaker>AK-47</Speaker><通讯框>;A91(0)||:<color=#00CCFF>Yeah, I said there was no need to fight with them, so we should just avoid them and head straight into the Dark Zone...</color>
-AK47(2)<Speaker>AK-47</Speaker><通讯框>||:<color=#00CCFF>I thought you got it? You told me it was OK. Where are you, anyway?</color>
+AK47(2)<Speaker>AK-47</Speaker><scan><通讯框>;A91(0)||:<color=#00CCFF>Yeah, I said there was no need to fight with them, so we should just avoid them and head straight into the Dark Zone...</color>
+AK47(2)<Speaker>AK-47</Speaker><scan><通讯框>||:<color=#00CCFF>I thought you got it? You told me it was OK. Where are you, anyway?</color>
 A91(0)<Speaker>A-91</Speaker>||:BLYAT!
 ()||<SE1>AVG_tele_disconnect</SE1>:The transmission ends.
 Vector(0)<Speaker>Vector</Speaker>||:So what's your game?

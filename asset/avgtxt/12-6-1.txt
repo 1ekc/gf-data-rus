@@ -21,9 +21,9 @@ M4A1Mod(0)<Speaker>M4A1</Speaker>||:Understood. I have linked my neural processi
 ()<Speaker>Commander</Speaker>||:Kalin, go into red alert and have all logistics personnel withdraw from the crossfire zone. +Prioritize establishing visuals for the HOC. All echelons are to withhold fire until ordered otherwise.
 NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Roger that! +Receiving an incoming transmission from UMP45. I just patched it through to you!
 ()<Speaker>Commander</Speaker>||:Go ahead.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Commander, I do apologize for interrupting your little reunion, but I'm sure you're also aware that the Military forces are closing in on us fast.</color> +<color=#00CCFF>All other combat echelons are already in position awaiting your orders.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><通讯框>||:Squad 404, stand by on the train and wait for the AR Team to join you.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>Copy that.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I do apologize for interrupting your little reunion, but I'm sure you're also aware that the Military forces are closing in on us fast.</color> +<color=#00CCFF>All other combat echelons are already in position awaiting your orders.</color>
+UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Squad 404, stand by on the train and wait for the AR Team to join you.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that.</color>
 ()<Speaker>Commander</Speaker>||:RO, has the Military reactivated their armored trains?
 RO635(0)<Speaker>RO635</Speaker>||:I don't think so. According to the sensors, all large heat sources are still stationary within Tallinn.
 ()<Speaker>Commander</Speaker>||:Their scouts may be probing us with an attack to figure out why we've stopped here. +If that's the case, we must be prepared.

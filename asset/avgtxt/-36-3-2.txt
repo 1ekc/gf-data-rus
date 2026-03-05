@@ -42,7 +42,7 @@ UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:We can with this!
 UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:The mic?
 UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:That's right. It looks like an internal communications system for the base. It's not too secure, but we can't really be bothered about that now!
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:Can't be helped then. Hello, can you hear me?
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Aha, yes, we hear you.</color>+<color=#00CCFF>Hello, this is the Military, please identify yourselves for follow-up contact.</color>
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Aha, yes, we hear you.</color>+<color=#00CCFF>Hello, this is the Military, please identify yourselves for follow-up contact.</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:This is UMP45. +If you're in the mood to crack jokes like this, you must be feeling pretty relaxed, unlike those two new teammates of yours.
 UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>So it's UMP45.</color>+<color=#00CCFF>Looks like you've already met, which saves me the trouble of introducing them.</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:I didn't think I'd have to wipe DEFY's butts twice. What a medal of honor for my career as a T-Doll.

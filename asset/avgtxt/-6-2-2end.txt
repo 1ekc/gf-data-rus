@@ -1,6 +1,6 @@
 ()||<BIN>2</BIN><BGM>BGM_Empty</BGM><Night><SE1>Battlefield</SE1>:...The battle is coming to an end.
 HunterElite(0)<Speaker>Hunter</Speaker>||:I'm...at my limit...+Ouroboros...where are the reinforcements that you had promised earlier? The outpost is about to be overtaken!
-Weaver(0)<Speaker>Ouroboros</Speaker><通讯框>;HunterElite(0)||:Even you should be aware that their target is you, right, Hunter?+It goes without saying that leaving you there is the easiest way to protect the jammer.
+Weaver(0)<Speaker>Ouroboros</Speaker><scan><通讯框>;HunterElite(0)||:Even you should be aware that their target is you, right, Hunter?+It goes without saying that leaving you there is the easiest way to protect the jammer.
 Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||<BGM>BGM_Boss</BGM>:Ouroboros...+You... You knew this was going to happen, and you intended abandon me right from the beginning, didn't you?
 Weaver(0)<Speaker>Ouroboros</Speaker>;HunterElite(0)||:Hunter, do you know how I was created?+Pitted against thousands of AIs in thousands of chess deathmatches, I was the only one to survive.+From what I can see, your value as a pawn has been exhausted.
 Weaver(0);HunterElite(0)<Speaker>Hunter</Speaker>||:War is not chess! You're neglecting too many factors, Ouroboros! You will soon regret this!

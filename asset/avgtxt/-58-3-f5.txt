@@ -32,7 +32,7 @@ BOSS-2(0)<Speaker>Executioner</Speaker>||:Kinda lame, if you ask me.
 BossJustice(0)<Speaker>Judge</Speaker>||:... +Don't forget our mission.
 ()||<SE1>AVG_whitenoise</SE1>:Judge opens the channel to Muromets.
 BossJustice(0)<Speaker>Judge</Speaker>||:This is Fe56. Team D has finished clearing out all the firebases in the Western Tower. Team C will continue wiping out the remaining units on the platform. +The wind on the platform is blowing due south, and Collapse particle density is highest at 7 o'clock, while the rain will help with camouflage. You should be able to approach the Eastern Tower following Plan B.
-NPC-SCAR-L(0)<通讯框><Speaker>Aliana</Speaker>||:<color=#00CCFF>Daybreak copies. Moving out now.</color>
+NPC-SCAR-L(0)<scan><通讯框><Speaker>Aliana</Speaker>||:<color=#00CCFF>Daybreak copies. Moving out now.</color>
 ()||<黑点1>:
 ()||<黑点2><关闭蒙版><BIN>459</BIN>:...Eastern Tower Main Hall, Avernus.
 ()||<SE1>AVG_Gunfire</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:Rumble... +The storm rages on outside. The sounds of the rain and gunfire mix together into a hasty beat.

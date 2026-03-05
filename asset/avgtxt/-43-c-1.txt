@@ -31,7 +31,7 @@ M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:The environment here is hars
 M1903(10);97type(0)<Speaker>Type 97</Speaker>||:Huh? There's something glowing on the ground!
 M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Careful, Type 97. We aren't familiar with the game's systems. It would be very dangerous if this were a trap.
 M1903(10);97type(0)<Speaker>Type 97</Speaker>||:You're overthinking this, Springfield. It's not like this is Bright Souls or Bloodblessed, I'm sure the starting area won't be THAT malicious. +Let me see... Water, soda, and fabric. What's all this?
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;97type(0)||:<color=#00CCFF>Looks like you've obtained some supplies. Use your supplies to stay alive so that you can complete your mission.</color>+<color=#00CCFF>Good luck.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;97type(0)||:<color=#00CCFF>Looks like you've obtained some supplies. Use your supplies to stay alive so that you can complete your mission.</color>+<color=#00CCFF>Good luck.</color>
 M1903(10)<Speaker>Springfield</Speaker>;97type(0)||:Ah, so these are supplies. +Just directly wearing the fabric doesn't seem to be useful. It looks like you'll need to combine it with something else. Unfortunately, I didn't bring my sewing kit with me. Perhaps we need to find tools in the next safe house.
 M1903(10);97type(0)<Speaker>Type 97</Speaker>||:If we can't lighten the fabric, perhaps it might be used for something else? +In any case, I'll have a drink of the water first!
 M1903(10);97type(0)<Speaker></Speaker>||:Glug, glug. Type 97 finishes off a bottle of water.
@@ -92,7 +92,7 @@ M1903(10)<Speaker>System</Speaker><同时置暗>||<BGM>BGM_Empty</BGM>:X Pink Ny
 AA12(0)<Speaker>AA-12</Speaker>||:...
 M1903(11)<Speaker>Springfield</Speaker>||:...
 97type(5)<Speaker>Type 97</Speaker>||<BGM>BGM_Danger</BGM>:...Ehhhh?! Dolls can actually freeze to death in this game?! +Crap crap crap crap crap, how much longer do we have before we become popsicles?!
-NPC-Dima(1)<Speaker>Dima</Speaker><通讯框>;97type(5)||:<color=#00CCFF>Agents, you can take shelter from the cold inside a house. When the temperature falls too low, it would be a good idea to rest indoors for a while.</color>
+NPC-Dima(1)<Speaker>Dima</Speaker><scan><通讯框>;97type(5)||:<color=#00CCFF>Agents, you can take shelter from the cold inside a house. When the temperature falls too low, it would be a good idea to rest indoors for a while.</color>
 AA12(0)<Speaker>AA-12</Speaker>;97type(5)||:Well, that's a noob-friendly tutorial... Are there any houses nearby which we can enter? +I feel like we're going to freeze to death.
 AA12(0);97type(0)<Speaker>Type 97</Speaker>||:(Wails) Do we have anything that can keep us warm? Can we start a fire outside?
 M1903(11)<Speaker>Springfield</Speaker>;97type(5)||:That doesn't seem possible. Keep to the right, we might be able to rest inside the houses there... +...Oh dear. They don't have doors.

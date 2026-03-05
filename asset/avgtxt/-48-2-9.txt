@@ -11,7 +11,7 @@ NPC-Nele(1)<Speaker>Nele</Speaker>||:...
 ()<Speaker></Speaker>||:Once again, the familiar ringtone plays. Mia is about to hang up reflexively, but then she sees the words "Mrs. Gray" on the caller ID.
 APC556(2)<Speaker>Mia</Speaker><Position>0,120</Position>||:It's Gray.
 ()<Speaker></Speaker>||:Nele's eyes snap open and she darts over to pick up the call.
-NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is an emergency announcement—due to unavoidable circumstances, our workplace remains unusable. The company has decided to temporarily shut down the research center. Do not return barring special circumstances. Please direct any questions to the HR manager. </color>
+NPC-MrsGray(0)<Speaker>Mrs. Gray</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is an emergency announcement—due to unavoidable circumstances, our workplace remains unusable. The company has decided to temporarily shut down the research center. Do not return barring special circumstances. Please direct any questions to the HR manager. </color>
 APC556(2)<Speaker>Mia</Speaker><Position>0,120</Position>||:It was a group call.
 NPC-Nele(1)<Speaker>Nele</Speaker>||:...Yeah.
 ()<Speaker></Speaker>||:Nele hangs up Gray's call and slumps weakly onto her sofa.
@@ -47,9 +47,9 @@ APC556(4)<Speaker>Mia</Speaker><Position>0,120</Position>||:...
 APC556(5)<Speaker>Mia</Speaker><Position>0,120</Position>||:Nele... You're in grave danger. There are troublemakers everywhere outside. They'd spot us even if we jumped out a window. +I probably couldn't protect you by myself if we went out there.
 NPC-Nele(1)<Speaker>Nele</Speaker>||:... 
 ()<Speaker></Speaker>||:Mia sighs and dials a number.
-MG338(0)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Mia?</color>
+MG338(0)<Speaker>???</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Mia?</color>
 APC556(2)<Speaker>Mia</Speaker><Position>0,120</Position>||:Leni, sorry to bother you at a time like this, but I've got nowhere else to turn. +Please come over ASAP... I need your help to save someone.
-MG338(0)<Speaker>Leni</Speaker><通讯框>||:<color=#00CCFF>Alright, give me the address. </color>
+MG338(0)<Speaker>Leni</Speaker><scan><通讯框>||:<color=#00CCFF>Alright, give me the address. </color>
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Mia sends the address over and sighs in relief before going over to Nele, who has been silent all this time.
 APC556(2)<Speaker>Mia</Speaker><Position>0,120</Position>||:...Nele, pack lightly. We'll leave once Leni comes.
 NPC-Nele(1)<Speaker>Nele</Speaker>||:If we're surrounded by all those people, then leaving isn't going to be a matter of numbers. Let me think... 
@@ -72,7 +72,7 @@ NPC-Keven(5)<Speaker>J</Speaker>||:That's Galatea's logo...
 ()<Speaker></Speaker>||:This is the first time Mona has seen a serious expression on J's lackadaisical face.
 NPC-Keven(0)<Speaker>J</Speaker>||:Ha~ Now this is getting interesting. +Them again... 
 ()<Speaker></Speaker>||:J's communicator suddenly rings. It's a number he hasn't seen before.
-NPC-Nele(0)<Speaker>Nele</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hello, Agent J. </color>
+NPC-Nele(0)<Speaker>Nele</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Hello, Agent J. </color>
 NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:Nele?
 NPC-Keven(0);NPC-Nele(0)<Speaker>Nele</Speaker>||:<color=#00CCFF>Our apartment block is under siege by refugees. We have information that the police must never find out. </color> +<color=#00CCFF>But I'm pretty sure you'll be interested in this info. </color>
 NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(0)||:Give me the address.
