@@ -1,36 +1,37 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>9</BIN><BGM>BGM_Truth</BGM>:...
 ()<Speaker></Speaker>||:...
-()<Speaker></Speaker>||:What scant legacies we still possess, you left behind for us. +What convictions burned in your hearts when you first sacrificed yourselves? +What did you hope to gain when you decided to surrender control over your destinies?
+()<Speaker></Speaker>||:Какое скудное наследие нам досталось от вас. +Какие же убеждения пылали в ваших сердцах, когда вы впервые пожертвовали собой? +На что вы надеялись, когда решили отказаться от контроля над своей судьбой?
 ()<Speaker></Speaker>||:...
-()<Speaker>Ange</Speaker>||<黑屏1>:Tell me, would you all have made the same decision if you saw how we are now?
-()<Speaker>Ange</Speaker>||<黑屏2><BIN>170</BIN>:...+Perhaps the only one lesson that we, those who remain, have learned from your sacrifices... +...Is that we will never, ever learn anything from them.
-()<Speaker></Speaker>||:...Click.
-()<Speaker>AK-12</Speaker>||:<color=#00CCFF>Ange, the lurking threats are on the move.</color>+<color=#00CCFF>Shall we continue surveillance?</color>
-()<Speaker>Ange</Speaker>||:...
-()<Speaker>AK-12</Speaker>||:<color=#00CCFF>Ange? Do you read me?</color>
-()<Speaker>Ange</Speaker>||:They're moving much faster than anything Statesec planned for. +And those bureaucrats... they won't ever consider the errors in orders they gave out from behind the desk.
-()<Speaker>AK-12</Speaker>||:<color=#00CCFF>You mean you plan on using this opportunity to take the wind out of their sails?</color>
-()<Speaker>Ange</Speaker>||:...+That's not the reason we came here. Nor are they the ones responsible for the choices we made. +Take 94 and link up with me. Get the team ready for action.
-()<Speaker></Speaker>||:...The transmission ends.
-()<Speaker>Ange</Speaker>||:M4.
-()<Speaker>M4A1</Speaker>||:I'm here. +What is this place? Ange, there's no need for us to be here during a surveillance operation.
-()<Speaker>Ange</Speaker>||:It might be unnecessary...but that doesn't mean it's meaningless. +What is this place, according to your neural cloud?
-()<Speaker>M4A1</Speaker>||:It's a memorial to the fallen. There are no clues or information around here. +The world got worse and worse, even after wars upon wars. Their sacrifices were in vain.
-()<Speaker>Ange</Speaker>||:This memorial to the fallen of the last war is enough of an answer. +A sacrifice is the final defense of one's beliefs. They died for what they believed in. +And we, the ones who lived, have no right to assign value to the sacrifices of others.
-()<Speaker>M4A1</Speaker>||:I will not adjust my opinion in light of that.
-()<Speaker>Ange</Speaker>||:...+...And you decided to interfere with Griffin's business with the same attitude? +You knew very well that what you did would only expose us prematurely.
-()<Speaker>M4A1</Speaker>||:...It's all for the sake of future operations.
-()<Speaker>Ange</Speaker>||:But if it all comes to nothing in the end, are you willing to accept the fact that everything you did was in vain?
-()<Speaker>M4A1</Speaker>||:I will not, nor is there a need to consider such a possibility.
-()<Speaker>Ange</Speaker>||:M4... +... +You're becoming more and more of a stranger to me.
-()<Speaker>M4A1</Speaker>||:"Protect your friends in the AR Team no matter the cost, even if you have to sacrifice yourself." +Weren't you the one who taught me this core principle?
-()<Speaker>Ange</Speaker>||:...
-()<Speaker></Speaker>||:A bouquet of fresh flowers is laid before the memorial.
-()<Speaker>Ange</Speaker>||:Things are different from how they used to be.
-()<Speaker>M4A1</Speaker>||:Nothing's changed. It's just that you've become weak.
-()<Speaker>Ange</Speaker>||:Ha, you don't quite seem to know the difference. +However, you'll probably begin to understand after this operation.
-()<Speaker>M4A1</Speaker>||:Really? +Do you know what's going to happen during this operation?
-()<Speaker>Ange</Speaker>||:I don't, M4A1... +But it definitely won't be anything good, right?
-()<Speaker>M4A1</Speaker>||:...Aren't you the optimist.
-()<Speaker>Ange</Speaker>||<黑屏1>:The only good thing that can come of this is that we survive. +Do your best to achieve that, then you'll understand... +The meaning of sacrifice, and everything you see before you... +...I assure you of that.
+()<Speaker>Анже</Speaker>||<黑屏1>:Скажите мне, вы бы приняли такое же решение, если бы видели, в укаком состоянии мы сейчас?
+()<Speaker>Анже</Speaker>||<黑屏2><BIN>170</BIN>:...+Наверное, единственный урок, который мы, те, кто остался, извлекли из ваших жертв... +...Это то, что мы никогда, никогда не извлечем из них никаких уроков.
+()<Speaker></Speaker>||:...Клик.
+()<Speaker>AK-12</Speaker>||:<color=#00CCFF>Анже, нависшая опасность приближается.</color>+<color=#00CCFF>Продолжим наблюдение?</color>
+()<Speaker>Анже</Speaker>||:...
+()<Speaker>AK-12</Speaker>||:<color=#00CCFF>Анже? Ты меня слышишь?</color>
+()<Speaker>Анже</Speaker>||:Они действуют гораздо быстрее, чем предполагало Госдеп. +А эти бюрократы... они никогда не признают ошибки в своих решениях, принятых за письменным столом.
+()<Speaker>AK-12</Speaker>||:<color=#00CCFF>Ты хочешь сказать, что собираешься воспользоваться этой возможностью, чтобы выбить из них почву из под ног?</color>
+()<Speaker>Анже</Speaker>||:...+Мы сюда не за этим приехали. И они не виноваты в наших решениях. +Возьми 94-ю и перегруппируйся со мной. Подготовь отряд к действию.
+()<Speaker></Speaker>||:...Связь завершена.
+()<Speaker>Анже</Speaker>||:M4.
+()<Speaker>M4A1</Speaker>||:Я тут. +Что это за место? Анже, нам нет нужды быть здесь во время наблюдения.
+()<Speaker>Анже</Speaker>||:Это может быть и ненужно... но это не значит, что это бессмысленно. +Что это за место, по мнению твоего нейронного облака?
+()<Speaker>M4A1</Speaker>||:Это памятник погибшим. Здесь нет никаких подсказок или информации. +Мир становился все хуже и хуже, даже после многих войн. Их жертвы были напрасны.
+()<Speaker>Анже</Speaker>||:Этот мемориал в честь погибших в последней войне — отличный ответ. +Жертва — это последний способ защитить свои убеждения. Они погибли за то, во что верили. +А мы, те, кто выжил, не имеем права давать оценку жертвам других.
+()<Speaker>M4A1</Speaker>||:Я не собираюсь менять своё мнение из-за этого.
+()<Speaker>Анже</Speaker>||:...+...И ты решила вмешаться в дела Грифона с таким же отношением? +Ты прекрасно знала, что твои действия только преждевременно нас разоблачат.
+()<Speaker>M4A1</Speaker>||:...Всё это ради будущих операций.
+()<Speaker>Анже</Speaker>||:Но если в итоге всё окажется напрасным, ты готова смириться с тем, что всё, что ты делала, было зря?
+()<Speaker>M4A1</Speaker>||:Я не собираюсь и не вижу смысла думать об этом.
+()<Speaker>Анже</Speaker>||:M4... +... +Ты становишься для меня всё более и более чужой.
+()<Speaker>M4A1</Speaker>||:«Защищай своих друзей в Команде AR любой ценой, даже если тебе придется пожертвовать собой». +Разве не ты научила меня этому основному принципу?
+()<Speaker>Анже</Speaker>||:...
+()<Speaker></Speaker>||:Перед мемориалом лежит букет свежих цветов.
+()<Speaker>Анже</Speaker>||:Все теперь не так, как было раньше.
+()<Speaker>M4A1</Speaker>||:Ничего не изменилось. Просто ты стала слабее.
+()<Speaker>Анже</Speaker>||:Ха, похоже, ты не совсем понимаешь разницу. +Но, наверное, после этой операции ты начнешь осознавать.
+()<Speaker>M4A1</Speaker>||:Серьезно? +Ты знаешь, что будет во время этой операции?
+()<Speaker>Анже</Speaker>||:Я не знаю, M4A1... +Но это точно будет что-то негативное?
+()<Speaker>M4A1</Speaker>||:...Ты такая оптимистка.
+()<Speaker>Анже</Speaker>||<黑屏1>:Единственное хорошее, что может из этого выйти, — это то, что мы выживем. +Сделай всё, что можешь, чтобы этого добиться, и тогда ты поймёшь... +смысл жертвы и всё, что видишь перед собой... +...Я тебя в этом уверяю.
+
