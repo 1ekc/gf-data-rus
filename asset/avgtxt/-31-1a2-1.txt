@@ -1,37 +1,37 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Room</BGM>:...Mission accomplished.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Commander, judging by the signals, we've wiped out the last enemies in hiding. +But we couldn't find any more clues about the White Faction on their bodies. +I've already sent over the data we've collected.
-()<Speaker>Commander</Speaker>||:Is that so... +It seems we'll need to count on K in order to unravel this mystery.
-()<Speaker></Speaker>||:...Click.
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Neatly done, Commander.</color> +<color=#00CCFF>Objectively speaking, there are few people with your level of operational efficiency. I have to say that it's left quite an impression.</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:Humph, we've done what you've asked of us. +Don't you think it's time to honor the promise you've made? +At the very least, can you explain what this mission is all about?
-NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>You've made it perfectly clear that you can complete a task well even without knowing the details behind it. </color>+<color=#00CCFF>However, I'll make an exception on account of the passable results of this task... What do you want to know?</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:The briefcase you gave RO... The signal marker database inside it allowed us to accurately pinpoint the Dolls in hiding. +Since you had the ability to find them, why didn't you take care of them yourself?
-NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Someone's responsible for finding them, and you're responsible for exterminating them. That's the principle. Passing the information on to you via the database was just a secure means of communication.</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:And did we purge the White Factions' infiltrators in order to secure the safety of the upcoming bilateral talks?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Yes.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:...And here I thought you'd have denied or tried to hide it
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>You would have guessed it, even if I hadn't said anything, so there was no harm in telling you.</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:Why didn't you send out more professional security personnel since it's such an important summit? Surely Statesec's better at this than PMCs like us.
-NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>That's because someone believes you can do a better job than Statesec.</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:What...
-NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>...</color>+<color=#00CCFF>We're not inside our country. We're not even within a country that's under our control.</color>+<color=#00CCFF>If we're even the slightest bit careless here in anything we do, it might trigger a diplomatic disaster. </color>+<color=#00CCFF>Therefore they cannot — and they will not — act rashly.</color>+<color=#00CCFF>What we need are people who can conceal their identities and who are also capable of eliminating the enemy.</color>+<color=#00CCFF>What you said earlier was right; there's no better choice than you for the job.</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:In that case, how about telling us about Ange...
-NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Being the best choice doesn't mean you get to make any demands</color>+<color=#00CCFF>We have other plans in place even without you. Nobody is irreplaceable.</color>
-NPC-Kalin(3)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:Tsk...
-NPC-Jason(0)<Speaker>Commander</Speaker>||:I understand our position, and we're doing our best to keep our side of the bargain. +I don't mind not asking about Ange now, but I have another question.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Today's Q&A session is over.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Even if this question could determine the success or failure of the entire operation?
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Room</BGM>:...Миссия завершена.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Командир, судя по сигналам, мы уничтожили последних врагов, что прятались. +Но на их телах мы не нашли никаких новых улик, касающихся «Белой фракции». +Я уже отправила тебе собранные данные.
+()<Speaker>Командир</Speaker>||:Что ж... +Похоже, чтобы раскрыть эту тайну, нам придётся рассчитывать на К.
+()<Speaker></Speaker>||:...Клик.
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Отлично сработано, Командир.</color> +<color=#00CCFF>Если говорить объективно, то людей с таким уровнем операционной эффективности, как у тебя, не так уж и много. Должен признать, что это произвело на меня большое впечатление.</color>
+NPC-Kalin(3)<Speaker>Калина</Speaker>;NPC-Jason(0)||:Хм, мы сделали то, о чём ты нас просил. +Не думаешь, что пора выполнить и своё обещание? +Можешь хотя бы объяснить, в чём суть этой миссии?
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Ты ясно дал понять, что можешь отлично справиться с задачей, даже не зная всех подробностей. </color>+<color=#00CCFF>Однако я сделаю исключение, учитывая неплохие результаты этой работы... Что ты хочешь узнать?</color>
+NPC-Kalin(3)<Speaker>Калина</Speaker>;NPC-Jason(0)||:Портфель, который ты отдал RO... База данных с сигналами, которая была в нём, позволила нам точно определить местонахождение скрывающихся Кукол. +Раз у тебя была возможность их найти, почему ты сам с ними не разобрался?
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Кто-то отвечает за их поиск, а ты — за их уничтожение. Вот в чём суть. Передача информации тебе через эту базу данных была просто безопасным способом связи.</color>
+NPC-Kalin(3)<Speaker>Калина</Speaker>;NPC-Jason(0)||:И мы же вычистили агентов «Белых фракций», чтобы обеспечить безопасность предстоящих двусторонних переговоров?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Да.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:...А я-то думал, что ты будешь это отрицать или попытаешься скрыть
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Ты бы и так догадался, даже если бы я ничего не сказал, так что в том, что я тебе рассказал, нет ничего страшного.</color>
+NPC-Kalin(3)<Speaker>Калина</Speaker>;NPC-Jason(0)||:Почему ты не привлек больше спецов по безопасности, ведь это же важный саммит? Наверняка у Госбеза это получится лучше, чем у таких ЧВК, как мы.
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Это потому, что кто-то считает, что ты справишься с этим лучше, чем Гозбес.</color>
+NPC-Kalin(3)<Speaker>Калина</Speaker>;NPC-Jason(0)||:Что...
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>...</color>+<color=#00CCFF>Мы находимся не на территории нашей страны. Мы даже не находимся на территории страны, которая находится под нашим контролем.</color>+<color=#00CCFF>Если мы хоть немного проявим небрежность в том, что делаем, это может привести к дипломатической катастрофе. </color>+<color=#00CCFF>Поэтому они не могут — и не будут — действовать опрометчиво.</color>+<color=#00CCFF>Нам нужны люди, которые могут не раскрывать свою личность и при этом способны уничтожать врага.</color>+<color=#00CCFF>Ты был прав, когда говорил, что для этой работы нет никого лучше тебя.</color>
+NPC-Kalin(3)<Speaker>Калина</Speaker>;NPC-Jason(0)||:В таком случае, может, расскажешь нам об Анже...
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>То, что ты — лучший выбор, не значит, что можешь требовать что угодно.</color>+<color=#00CCFF>У нас есть и альтернативные планы, даже без тебя. Никто не незаменим.</color>
+NPC-Kalin(3)<Speaker>Калина</Speaker>;NPC-Jason(0)||:Цк...
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Я понимаю наше положение, и мы делаем всё возможное, чтобы выполнить свою часть договоренности. +Я не против пока не спрашивать про Анже, но у меня есть другой вопрос.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Сегодняшняя сессия вопросов и ответов завершена.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Даже если от ответа на этот вопрос зависит успех или провал всей операции?
 NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>...</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Are the people you want us to purge really from the White Faction? +At first, I thought they had spread out and hidden because they were preparing to unleash a wave of city-wide devastation. +But as we uncovered more of their ambush positions, I realized they did not follow that logic.+Their deployment was extremely sloppy, and even if they wanted to take action, they lacked coordination among themselves and were easily isolated and destroyed. +When we launched an electronic warfare offensive to eliminate the infiltrating enemy units, they couldn't mount any effective resistance. They could not even find the origin of the Dolls which launched the attack. +But the technology and equipment they used definitely belong to the White Faction. That's what I find the most disturbing. +If they really were units from the White Faction, then they were being far too amateurish.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Perhaps that's all there is to them.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:In my experience, it's not a good sign when an operation goes too well.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Overestimating the enemy is just as bad a habit as underestimating them, Commander.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:If this meeting isn't so important, we wouldn't be standing here. If the meeting really is that important, then the White Faction wouldn't have sent a bunch of rabble over. That leaves only one conclusion...the true threat is not among these enemies.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I will convey your opinion to my client.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:There's still time to call for reinforcements from StateSec.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>No help will come from within the country.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:What? Why?! Do you intend to stand by and watch as the peace summit is ruined?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Even if this is an important meeting, there is no real meaning behind the meeting itself.</color>+<color=#00CCFF>The true meaning lies in the change of opinions behind the meeting.</color>+<color=#00CCFF>There is nothing that cannot be sacrificed and nothing that cannot be forgotten.</color>+<color=#00CCFF>You're smart, Commander. Sometimes, knowing less will help you live a little longer.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:...
-NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>That's all for today, go get some rest. There will be far more arduous tasks ahead of you.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Те, кого ты хочешь, чтобы мы уничтожили, действительно из «Белой фракции»? +Сначала я думал, что они разбрелись и спрятались, готовясь к массированному наступлению по всему городу. +Но по мере того, как мы обнаруживали всё больше их укрытий, я понял, что их действия не соответствуют этой логике.+Их расположение было крайне небрежным, и даже если бы они хотели действовать, им не хватало координации, и их легко было изолировать и уничтожить. +Когда мы начали наступление с помощью средств РЭБ, чтобы уничтожить проникшие вражеские подразделения, они не смогли оказать никакого эффективного сопротивления. Они даже не смогли определить, откуда именно атаковали «Куклы». +Но технологии и оборудование, которые они использовали, определенно принадлежат «Белой фракции». И это меня беспокоит больше всего. +Если это действительно были подразделения «Белой фракции», то они действовали слишком непрофессионально.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Наверное, это и всё, что они собой представляют.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:По моему опыту, когда операция проходит слишком гладко, это не к добру.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Переоценивать противника — такая же плохая привычка, как и недооценивать его, Командир.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Если бы эта встреча не была такой значимой, мы бы здесь не стояли. Если бы встреча действительно была настолько важна, то «Белая фракция» не послала бы сюда кучу разного сброда. Из этого можно сделать только один вывод… настоящая угроза не среди этих врагов.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Я передам твое мнение моему клиенту.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Еще есть время обратиться за подкреплением в Госбезопасность.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Помощи со стороны страны не будет.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Что? Почему?! Ты что, собираешься просто стоять и смотреть, как проваливается мирный саммит?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Даже если это важная встреча, сама по себе она не несет никакого реального смысла.</color>+<color=#00CCFF>Настоящий смысл заключается в том, как изменятся мнения в ходе встречи.</color>+<color=#00CCFF>Нет ничего, чем нельзя было бы пожертвовать, и нет ничего, что нельзя было бы забыть.</color>+<color=#00CCFF>Ты умный, Командир. Иногда меньше знать помогает прожить чуть дольше.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:...
+NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>На сегодня всё, иди отдохни. Впереди тебя ждут гораздо более сложные задачи.</color>
