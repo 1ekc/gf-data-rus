@@ -1,49 +1,49 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>8</BIN><BGM>BGM_Room</BGM>:...The third day after the beginning of the extermination operation.
-()<Speaker></Speaker>||:...Click.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Commander—!</color>+<color=#00CCFF>Are we done yet?!</color>
-M4 SOPMOD IIMod(0)<Speaker>Commander</Speaker>||:And by done you mean...?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>We've been scanning, pinpointing and burning the enemy for the past few days...then we scan, pinpoint and burn the enemy again...and the enemy can't really fight either...</color>+<color=#00CCFF>Doing this sort of thing over and over again...it gets really boring.</color>
-M4 SOPMOD IIMod(0)<Speaker>Commander</Speaker>||:I've been looking at monitors all day long myself, I feel like I'm about to go blind.+You're at Position 44, right? Things are almost wrapped up there, as long as you and RO...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>RO's getting bored too!</color>+<color=#00CCFF>"Besides, after 44 there'll be 54 and 64," she said.</color>+<color=#00CCFF>Ahhh! Quit pulling on me like that, RO!</color>
-RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>I-I never said that!</color>
-()<Speaker>Commander</Speaker>||:Calm down. +According to K's information, we've almost finished wiping out the enemy's infiltrators. +So now all we need to do is wait for his...
-()<Speaker></Speaker>||:...Click.
-()<Speaker>Commander</Speaker>||:As I thought. +RO, SOP-II, head back to the safe house first.
-RO635(0)<Speaker>RO635</Speaker><scan><通讯框>|||:<color=#00CCFF>It's over?</color>+<color=#00CCFF>It's really over?</color>
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Room</BGM>:...Третий день после начала операции по ликвидации.
+()<Speaker></Speaker>||:...Кликн.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Командир—!</color>+<color=#00CCFF>Мы уже закончили?!</color>
+M4 SOPMOD IIMod(0)<Speaker>Командир</Speaker>||:И что ты имеешь в виду под словом завершено...?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>Последние несколько дней мы сканируем, наводимся и обстреливаем врага... потом снова сканируем, наводимся и обстреливаем врага... да и враг как-то не может сопротивляться...</color>+<color=#00CCFF>Делать одно и то же снова и снова… это становится очень скучно.</color>
+M4 SOPMOD IIMod(0)<Speaker>Командир</Speaker>||:Я сам целый день сижу перед мониторами, чувствую, что вот-вот ослепну.+Ты на 44-й позиции, да? Там дело почти сделано, главное, чтобы ты и RO...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>RO тоже начинает скучать!</color>+<color=#00CCFF>«К тому же, после 44-й будут 54-я и 64-я», — сказала она.</color>+<color=#00CCFF>Аааа! Хватит меня так дергать, RO!</color>
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Я-я этого не говорила!</color>
+()<Speaker>Командир</Speaker>||:Успокойся. +Судя по информации от К, мы почти закончили с уничтожением вражеских разведчиков. +Так что теперь нам осталось только дождаться его...
+()<Speaker></Speaker>||:...Клик.
+()<Speaker>Командир</Speaker>||:Как и думал. +RO, SOP-II, сначала возвращайтесь в убежище.
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>|||:<color=#00CCFF>Всё закончилось?</color>+<color=#00CCFF>Это действительно всё?</color>
 ()<Speaker></Speaker>||:...
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>In terms of pure efficiency, you were eight hours quicker than I expected.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:So, is the mission over? +I'm still waiting for my forces to report in.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>This is a combat feedback report from a Statesec field agent team.</color>+<color=#00CCFF>The information I'm giving you was prepared by professionals, so you can rest easy accepting it.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:If that agent team can pinpoint the enemy so precisely, would they mind going ahead and taking them out while they're at it?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I told you before, their job is surveillance, yours is extermination. Those are the rules of the game.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:So the agent team is your alternative plan, then.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>One of them.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Thank you very much for passing me this piece of information. +But more than that, I'd like to know Ange's current situation.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>You'll see her soon.</color>+<color=#00CCFF>Wait for an update from me.</color>
-()<Speaker></Speaker>||:...The transmission ends.
-()<Speaker>Commander</Speaker>||:...
-NPC-Kalin(1)<Speaker>Kalina</Speaker>||<震屏>:Commander! Breaking news!+ The other four infiltrator units gave their reports, all the information we have suggests that the White Faction units have been completely wiped out!+ Now this entire city district is safe!
-()<Speaker>Commander</Speaker>||:Yeah, K already told me.
-NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Ehh... You already knew...?
-NPC-Kalin(3)<Speaker>Commander</Speaker>||:Call back the echelons that have finished their tasks so they can rest. Have the backup echelons who are standing by take up watch positions. +Don't let your guard down, everyone. Even if we appear to have wiped out the enemy, there might still be lurking threats.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Got it—!
-()<Speaker></Speaker>||:...Kalina leaves.
-()<Speaker>Commander</Speaker>||:(Have they all been wiped out?) +(The White Faction didn't offer any proper resistance right till the end... but even after asking RO to widen her scanning radius, I couldn't find any remaining signals... Are they really so helpless against us?)
-()<Speaker></Speaker>||:...I sweep my gaze over the dozens of monitor feeds before my eyes, trying to find some trace of armed White Faction troops hiding among them. +But that is not possible, the streets of Belgrade are far too peaceful. +Cars travel back and forth, and the streets are filled with throngs of happy, contented citizens. +Perhaps I could tell how many plainclothes police officers there were at a glance, but I can't tell who's a White Faction Doll in hiding. +...As that thought crosses my mind, a familiar figure suddenly appears in the crowd.
-()<Speaker>Commander</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:That's...
-NPC-Nimogen(0)<Speaker></Speaker><scan><通讯框>||<BIN>9</BIN><黑屏2>:...A girl with a familiar face looks up and smiles at the camera.+ ...Then she vanishes into the masses.
-()<Speaker>Commander</Speaker>||<黑屏1>:Ny...
-()||<黑屏2><BIN>8</BIN><BGM>BGM_Brain</BGM><黑屏1>:...She's smiling, a smile that says that she has the situation completely under control. +Are our operations at risk of being exposed? +Is that really the case? Were those enemies just a cover-up while we remain ignorant of the true threat?+ No, that's impossible, if that really is the case, then how could K and Statesec not have realized this? Don't they have any countermeasures in place? +Am I seeing things? Do I make mistakes like that? +As my thoughts reach that point, I feel a chill running down my spine.
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:...Click.
-()<Speaker>K</Speaker>||<CGDelay>0.3</CGDelay><黑屏1>:<color=#00CCFF>I know you're not happy with our deliberate reluctance to turn over information on Ange to you, but unbeknownst to anyone, Ange has given too much of herself for the sake of the upcoming matter, and we can't let her sacrifice be in vain.</color>+<color=#00CCFF>The next and final task you will receive is the true reason why we chose to work with Griffin.</color>+<color=#00CCFF>We have made the appropriate arrangements. Once your task is complete, you will meet with Ange.</color>
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Если говорить о чистой эффективности, ты справился на восемь часов быстрее, чем я ожидал.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Так что, миссия завершена? +Я всё ещё жду отчётов от своих войск.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Это отчёт о ходе боевых действий от группы полевых агентов Госбеза.</color>+<color=#00CCFF>Информация, которую я тебе предоставляю, была подготовлена профессионалами, так что можешь смело ей доверять.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Если эта команда агентов может так точно определить местонахождение врага, может, им не составит труда заодно и уничтожить его?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Я тебе уже говорил: их работа — наблюдение, а твоя — уничтожение. Таковы правила игры.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Значит, команда агентов — это твой запасной план.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Один из них.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Большое спасибо, что поделился этой информацией. +Но больше всего мне хотелось бы узнать, как сейчас дела у Анже.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Ты скоро её увидишь.</color>+<color=#00CCFF>Дождись моего сообщения.</color>
+()<Speaker></Speaker>||:...Связь завершена.
+()<Speaker>Командир</Speaker>||:...
+NPC-Kalin(1)<Speaker>Калина</Speaker>||<震屏>:Командир! Срочная новость!+ Остальные четыре отряда диверсантов доложили: судя по всей имеющейся у нас информации, отряды «Белой фракции» полностью уничтожены!+ Теперь весь этот район города в безопасности!
+()<Speaker>Командир</Speaker>||:Да, К. мне уже рассказал.
+NPC-Kalin(3)<Speaker>Калина</Speaker>||:Э-э... Ты уже знал...?
+NPC-Kalin(3)<Speaker>Командир</Speaker>||:Отзови отряды, которые выполнили свои задачи, чтобы они могли отдохнуть. Пусть запасные отряды, которые находятся в состоянии готовности, займут позиции для наблюдения. +Не теряйте бдительности, девчат. Даже если кажется, что мы уничтожили врага, угрозы всё ещё могут таиться.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Поняла—!
+()<Speaker></Speaker>||:...Калина уходит.
+()<Speaker>Командир</Speaker>||:(Их всех уничтожили?) +(«Белая фракция» до самого конца не оказала никакого серьезного сопротивления... но даже после того, как я попросил RO расширить радиус сканирования, я не смог обнаружить ни одного остаточного сигнала... Неужели они настолько беспомощны против нас?)
+()<Speaker></Speaker>||:...Я пробегаю взглядом по десяткам изображений с мониторов перед глазами, пытаясь найти хоть какой-нибудь след вооруженных бойцов «Белой фракции», скрывающихся среди населения. +Но это невозможно — улицы Белграда выглядят слишком спокойно. +Машины ездят туда-сюда, а улицы заполнены толпами счастливых и довольных граждан. +Возможно, я смог бы с первого взгляда определить, сколько здесь полицейских в штатском, но я не могу понять, кто из них — скрывающийся агент «Белой фракции». +...Как только эта мысль промелькнула у меня в голове, в толпе внезапно появилась знакомая фигура.
+()<Speaker>Командир</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:Это...
+NPC-Nimogen(0)<Speaker></Speaker><scan><通讯框>||<BIN>9</BIN><黑屏2>:...Девушка с знакомым лицом поднимает глаза и улыбается в камеру.+ ...А потом она теряется в толпе.
+()<Speaker>Командир</Speaker>||<黑屏1>:Ни...
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Brain</BGM><黑屏1>:...Она улыбается — эта улыбка говорит о том, что она полностью держит ситуацию под контролем. +Наши операции под угрозой раскрытия? +Это действительно так? Может, те враги были всего лишь прикрытием, а мы до сих пор не знаем о настоящей угрозе?+ Нет, это невозможно — если бы это было правдой, как бы К и Госбез могли этого не заметить? Разве у них нет никаких мер противодействия? +Мне это только кажется? Я так часто ошибаюсь? +Когда мои мысли доходят до этого, по спине бежит холодок.
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:...Клик.
+()<Speaker>K</Speaker>||<CGDelay>0.3</CGDelay><黑屏1>:<color=#00CCFF>Я знаю, что тебе не нравится, что мы сознательно не спешим делиться с тобой информацией об Анже, но никто не знает, что Анже слишком много пожертвовала ради предстоящего дела, и мы не можем допустить, чтобы её жертва оказалась напрасной.</color>+<color=#00CCFF>Следующее и последнее задание, которое ты получишь, — это настоящая причина, по которой мы решили работать с Грифоном.</color>+<color=#00CCFF>Мы всё организовали. Как только ты выполнишь задание, тебе предстоит встретиться с Анже.</color>
 ()<Speaker></Speaker>||<黑屏2><BIN>8</BIN>:...
-()<Speaker>Commander</Speaker>||:So what does Statesec want us to do?
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>You're a PMC. This part should be familiar.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:The small fry outside have been taken care of. That means what comes next is the main event. +You want us to join the security team for the peace conference, don't you?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I can't keep anything from you, can I, Commander?</color>+<color=#00CCFF>But you're still considered a reserve force among the security detail. Don't get carried away.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:If it's already decided that we are to protect our country's ambassador, then what does Statesec want us to do?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Our country's ambassador?</color>+<color=#00CCFF>Didn't I tell you not to get carried away just now? You aren't qualified to join the ambassador's bodyguards. </color>+<color=#00CCFF>...These are the details of your client this time round.</color>
-()<Speaker></Speaker>||:...Click.
-()<Speaker>Commander</Speaker>||:...+ Wait a minute, this is...
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Griffin doesn't need to worry about our ambassador.</color>+<color=#00CCFF>She, on the other hand...is the client who will be in your care.</color>
+()<Speaker>Командир</Speaker>||:Так что же Госбез хочет, чтобы мы сделали?
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Ты — ЧВК. Эта часть тебе должна быть знакома.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:С мелкой шпаной на улице уже разобрались. А это значит, что дальше будет самое интересное. +Ты же хочешь, чтобы мы присоединились к охране на мирной конференции, да?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Я ведь ничего не могу от тебя скрыть, правда, Командир?</color>+<color=#00CCFF>Но все-таки ты числишься в резерве охраны. Не увлекайся.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Если уже решено, что мы должны защищать посла нашей страны, то что же Госбез хочет, чтобы мы сделали?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Посол нашей страны?</color>+<color=#00CCFF> Разве я тебе только что не говорил, чтобы ты не увлекался? Ты не подходишь для службы в качестве телохранителя посла. </color>+<color=#00CCFF>...Вот данные твоего клиента на этот раз.</color>
+()<Speaker></Speaker>||:...Клик.
+()<Speaker>Командир</Speaker>||:...+ Подождите-ка, это же...
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Грифону не стоит беспокоиться о нашем после.</color>+<color=#00CCFF>А она, с другой стороны... — это клиент, о котором вам предстоит заботиться.</color>
