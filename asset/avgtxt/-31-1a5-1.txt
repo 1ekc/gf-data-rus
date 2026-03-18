@@ -1,127 +1,127 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>9</BIN><BGM>BGM_Sneak</BGM>:...
-X95(0)<Speaker>X95</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I can hear gunfire from inside the hall.</color>+<color=#00CCFF>We're in position outside the door and are ready to go at any time.</color>+<color=#00CCFF>Commander?</color>
-()<Speaker>Commander</Speaker>||:......
-()<Speaker></Speaker>||<黑屏1>:If the infiltration team bursts in, even if they manage to take out several renegade soldiers, the remainder will open fire and probably kill the ambassador.+The odds of being able to completely neutralize the enemy without any casualties are practically non-existent...+Dammit, things are looking really bad! What the hell is K up to?+...
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:Inside the Belgrade Conference Hall meeting room.
-()<Speaker>Renegade Soldier</Speaker>||:Madam Chairwoman, your speech was very moving, so much so it made me want to throw up!
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:......
-()<Speaker>Renegade Soldier</Speaker>||:What the hell was that about mutual aid and trust? You mentioned sacrifice just now, right? Just now, our brothers and sisters, our arms and legs were mercilessly slaughtered outside those doors! All they wanted was to air their grievances, but now they're all face down in pools of blood!
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Who are you?!
-()<Speaker>Renegade Soldier</Speaker>||:We are the executors who cleanse the filthy, the loyal and mighty servants of Paradeus, the executioners of you sinners whose mouths are stuffed full of lies! You claim to be for the people, yet you exclude them beyond your walls to fend for themselves! Since you say that the people must not be divided, then today we shall shatter the wall that represents this division!
-()<Speaker>Commander</Speaker>||:I need to be patient... I need to find the chance to strike...
-()<Speaker></Speaker>||:I quietly observe the surroundings. It would seem there are others doing the same thing.
-()<Speaker></Speaker>||:The renegade soldier roughly shoves the Chairwoman to the front of the stage.
-()<Speaker>Renegade Soldier</Speaker>||<震屏>:You said it just now, didn't you? Sacrifices ought to be borne by those who are more responsible! Then why not be the first to die?!+Your blood shall sanctify our revolution!
-()<Speaker></Speaker>||:The renegade soldier points his rifle at the Chairwoman's head.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:This is not my first time staring down the barrel of a gun. I've been prepared to die ever since I devoted myself to Rossartrism.+Even if you open fire now, what can you change? Conflict will only hurt more people. Then when will we be able to rebuild our homes?
-()<Speaker>Renegade Soldier</Speaker>||:Those are your homes, not ours!
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:They're one and the same, why don't you understand that!
-()<Speaker>Renegade Soldier</Speaker>||<黑屏1>0,3</黑屏1>:You shut your whore mouth and go to hell!
-()<Speaker>Commander</Speaker>||<黑屏2>0,3</黑屏2>:This is bad—! +X95, commence—
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Unable to take it already, Commander?</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||<黑屏1>0,3</黑屏1><BGM>BGM_Empty</BGM>:What?!
+X95(0)<Speaker>X95</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, я слышу выстрелы из зала.</color>+<color=#00CCFF>Мы уже на месте у двери и готовы зайти в любой момент.</color>+<color=#00CCFF>Командир?</color>
+()<Speaker>Командир</Speaker>||:......
+()<Speaker></Speaker>||<黑屏1>:Если группа проникновения ворвётся внутрь, даже если им удастся вывести из строя нескольких мятежников, остальные откроют огонь и, скорее всего, убьют посла.+Шансы полностью нейтрализовать врага без единой потери практически равны нулю...+Чёрт, дела обстоят действительно плохо! Что, чёрт возьми, затеял К?+...
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:Внутри конференц-зала «Белград».
+()<Speaker>Мятежный солдат</Speaker>||:Госпожа председатель, твоя речь была очень трогательной, настолько, что меня чуть не стошнило!
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:......
+()<Speaker>Мятежный солдат</Speaker>||:Да что это было за разговор о взаимопомощи и доверии? Ты же только что говорила о жертвах, верно? Только что наших братьев и сестёр, наших родных и близких, безжалостно убивали за этими дверями! Они всего лишь хотели высказать свои претензии, а теперь все лежат лицом вниз в лужах крови!
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Ты кто такой?!
+()<Speaker>Мятежный солдат</Speaker>||:Мы — палачи, очищающие мир от грязи, верные и могущественные слуги Парадеуса, карающие вас, грешников, чьи уста набиты ложью! Вы утверждаете, что выступаете за народ, но при этом отгораживаете его за своими стенами, заставляя выживать в одиночку! Раз уж ты говоришь, что народ нельзя разделять, то сегодня мы разрушим стену, символизирующую это разделение!
+()<Speaker>Командир</Speaker>||:Мне нужно набраться терпения... Мне нужно дождаться подходящего момента...
+()<Speaker></Speaker>||:Я тихо наблюдаю за окружающим. Похоже, есть и другие, кто делает то же самое.
+()<Speaker></Speaker>||:Мятежный солдат грубо толкает председательницу на передний край сцены.
+()<Speaker>Мятежный солдат</Speaker>||<震屏>:Ты же сама это только что сказала, разве не так? Жертвы должны нести те, кто несет большую ответственность! Так почему бы тебе не умереть первой?!+Твоя кровь освятит нашу революцию!
+()<Speaker></Speaker>||:Отступник направляет винтовку на голову председательницы.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Это не первый раз, когда я смотрю в дуло автомата. Я готова к смерти с тех пор, как преданно посвятила себя Россартизму.+Даже если ты сейчас начнёшь стрелять, что это изменит? Конфликт только принесёт страдания ещё большему количеству людей. И когда же мы сможем восстановить свои дома?
+()<Speaker>Мятежный солдат</Speaker>||:Это ваши дома, а не наши!
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Это одно и то же, почему ты этого не понимаешь!
+()<Speaker>Мятежный солдат</Speaker>||<黑屏1>0,3</黑屏1>:Заткнись, шлюха, и иди к черту!
+()<Speaker>Командир</Speaker>||<黑屏2>0,3</黑屏2>:Это плохо—! +X95, начинай—
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Уже не выдерживаешь, Командир?</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||<黑屏1>0,3</黑屏1><BGM>BGM_Empty</BGM>:Что?!
 ()<Speaker></Speaker>||<黑屏2>0,3</黑屏2><CGDelay>0.3</CGDelay>:...
 ()<Speaker></Speaker>||<白屏1>0,6</白屏1>:
 ()<Speaker></Speaker>||<白屏2>0,6</白屏2>:
-()<Speaker></Speaker>||<CGDelay>0.3</CGDelay>:...Bang! Bang! Bang!
-()<Speaker>Renegade Soldier</Speaker>||:...+You...
-()<Speaker></Speaker>||:...A neat little circle appears between the renegade soldier's eyebrows, and fresh blood trickles out of it. +Behind him, Ambassador Roshchin is gripping a pistol tight in his hand.
-()<Speaker></Speaker>||:The faces of the other renegade soldiers are covered in shock, and the reporters whom they are supposed to be watching suddenly whip out guns of their own.
-()<Speaker>Commander</Speaker>||:...I see. +Kalina, get down!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:...A second later, gunfire fills the meeting room.
-X95(0)<Speaker>X95</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, Kalina, are you exchanging fire with the enemy?!</color>
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:It's not us! Not us!
+()<Speaker></Speaker>||<CGDelay>0.3</CGDelay>:...Бэнг! Бэнг! Бэнг!
+()<Speaker>Мятежный солдат</Speaker>||:...+Ты...
+()<Speaker></Speaker>||:...Между бровями отступника появляется аккуратный кружок, из которого стекает свежая кровь. +А позади него посол Рощин крепко сжимает в руке пистолет.
+()<Speaker></Speaker>||:На лицах остальных мятежников отразилось потрясение, а репортёры, за которыми они должны были следить, внезапно выхватили свои пистолеты.
+()<Speaker>Командир</Speaker>||:...Понятно. +Калина, пригнись!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:...Через секунду в конференц-зале раздались выстрелы.
+X95(0)<Speaker>X95</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, Калина, это вы открыли огонь по врагу?!</color>
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Это не мы! Не мы!
 ()<Speaker></Speaker>||:...
-()<Speaker>Commander</Speaker>||:...Looks like it's over.
-()<Speaker></Speaker>||:...The renegade soldiers in the meeting room were gunned down almost instantaneously by the armed reporters. +Many people begin to rise from the press seating to inspect the guards' bodies. All of them are holding weapons.
-NPC-Bodyguard1(0)<Speaker>Undercover Agent A</Speaker>||<BGM>BGM_Room</BGM>:The room is clear. Verify that all hostiles have been eliminated.
-NPC-Bodyguard2(0)<Speaker>Undercover Agent B</Speaker>||:Yes, sir. Team Three, with me.
-()<Speaker>Commander</Speaker>||:Tsk... Goddammit... +Was this all part of your script, K?
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I told you, you're just a backup force.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:I'm guessing that none of the people sitting here are real reporters?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Real reporters wouldn't be able to handle a scene like this.</color>
-()<Speaker></Speaker>||:I look to the stage, where the Ambassador is consoling Chairwoman Ulrich.
-()<Speaker>Ambassador Roshchin</Speaker>||:My sincere apologies, Madam Chairwoman. It seems we gave you quite a fright.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:No, no...it's alright... As long as nobody was hurt...
-()<Speaker>Commander</Speaker>||:Everything that happened just now was caught on camera. The headlines tomorrow will read "Terrorists attempt to disrupt peace talks, but both nations combine forces to crush the conspiracy and ensure the progress of peace." +It'll make for spectacular publicity, and with such stunning news in play, it won't even matter that the summit didn't start properly.
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I suddenly feel that being a commander might not be your true calling. You would make quite a fine reporter for a small tabloid, too.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Humph... So that's why you brushed off my objections just now. You already knew that the real enemy was lurking within the venue itself, didn't you?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>The Belgrade authorities have already uncovered the rebels and handed their names over to us. Their remaining confederates have also been liquidated by our agents. It's funny, really. They sealed off the corridors within the conference hall, but in the end it left them unable to escape. What idiots.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:And we were nothing more than the supporting players for the supporting players. +Never mind, I won't go into it. Though those rebels mentioned a name just now, Paradeus... It kind of bothers me.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I've already looked into it. That name's come up before, in reports from the Yellow Zones. It's the name of an organization which has all the characteristics of a cult. So if I'm not wrong, Paradeus should be the true name of the White Faction.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Paradeus... Do these guys really think God will save them? Forget it, in any case, we can finally stop using a silly name like "White Faction".
-NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>What difference does it make to a bunch of corpses?</color>
+()<Speaker>Командир</Speaker>||:...Похоже, всё кончено.
+()<Speaker></Speaker>||:...Мятежники в конференц-зале были практически мгновенно застрелены вооружёнными журналистами. +Многие люди начинают вставать со своих мест, чтобы осмотреть тела охранников. У всех в руках оружие.
+NPC-Bodyguard1(0)<Speaker>Тайный Агент A</Speaker>||<BGM>BGM_Room</BGM>:Комната освобождена. Убедись, что все враги уничтожены.
+NPC-Bodyguard2(0)<Speaker>Тайный Агент B</Speaker>||:Да, сэр. Третья команда, со мной.
+()<Speaker>Командир</Speaker>||:Тс-с... Чёрт возьми... +Это всё было в твоём сценарии, К?
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Я же тебе говорил, ты всего лишь запасной вариант.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Полагаю, что среди присутствующих нет ни одного настоящего журналиста?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Настоящие репортёры с такой ситуацией не справились бы.</color>
+()<Speaker></Speaker>||:Я смотрю на сцену, где посол утешает председателя Ульрих.
+()<Speaker>Посол Рощин</Speaker>||:Прими мои искренние извинения, госпожа председатель. Похоже, мы вас сильно напугали.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Нет, нет... всё в порядке... Главное, что никто не пострадал...
+()<Speaker>Командир</Speaker>||:Всё, что только что произошло, засняли на камеру. Завтра в заголовках будет: «Террористы пытались сорвать мирные переговоры, но обе страны объединили усилия, чтобы сорвать заговор и обеспечить прогресс в деле мира». +Это станет отличной рекламой, и с такой потрясающей новостью даже не будет иметь значения, что саммит так и не начался как положено.
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Мне вдруг показалось, что быть Командиром — это, наверное, не твоё истинное призвание. Ты бы отлично подошёл и на роль репортёра в каком-нибудь небольшом бульварном журнале.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Хм... Так вот почему ты только что отмахнулся от моих возражений. Ты уже знал, что настоящий враг скрывается прямо здесь, в этом помещении, да?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Власти Белграда уже вычислили мятежников и передали нам их имена. Оставшихся их пособников тоже ликвидировали наши агенты. Забавно, честно говоря. Они перекрыли проходы внутри конференц-зала, но в итоге это не дало им возможности сбежать. Какие идиоты.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:А мы были всего лишь второстепенными персонажами для других второстепенных персонажей. +Ладно, не буду об этом. Хотя те повстанцы только что упомянули одно имя — Парадеус... Это меня как-то беспокоит.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Я уже это проверил. Это название уже упоминалось раньше, в отчётах из Жёлтых зон. Это название организации, которая имеет все признаки секты. Так что, если я не ошибаюсь, «Парадеус» — это, скорее всего, настоящее название «Белой фракции».</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Парадеус... Эти ребята действительно думают, что Бог их спасёт? Забудь об этом, в любом случае, мы наконец-то можем перестать использовать такое дурацкое название, как «Белая фракция».
+NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>Какая разница для нескольких трупов?</color>
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:...
-()<Speaker>???</Speaker>||<黑屏1>:Oh yes, what's the point if they're all dead? I can't believe there are people who still don't understand something that even imbeciles know... +Heeheeheehee...looks like the people inside were every bit the hopeless nincompoops as the ones outside. +Ahhh, but of course I knew they were morons, given how they proudly declared themselves to be servants of Paradeus. +Father would never pick such fools to be his servants. I'm the only one Father needs. +Heeheeheehee... +Still, that's fine too. At least I won't need to waste time on finding the rats in hiding. Now then, the warmup's complete. Is everyone ready?
+()<Speaker>???</Speaker>||<黑屏1>:Действительно, какой смысл, если они все мертвы? Не могу поверить, что есть люди, которые до сих пор не понимают того, что известно даже идиотам... +Хи-хи-хи-хи... Похоже, те, кто был внутри, оказались такими же безнадёжными тупицами, как и те, кто снаружи. +Аааа, но конечно же я знала, что они идиоты, учитывая, как гордо они провозгласили себя слугами Парадеуса. +Отец никогда бы не выбрал таких дураков в свои слуги. Я единственная, кто нужен Отцу. +Хи-хи-хи-хи... +Впрочем, это тоже нормально. По крайней мере, мне не придется тратить время на поиски прячущихся крыс. Ну что ж, разминка закончена. Все готовы?
 ()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:...
-()<Speaker>Commander</Speaker>||:I believe our mission should be complete, then. When do we get to meet Ange?
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I'm a man of my word. Call back your Dolls, I'll begin arrang—</color>
-()<Speaker></Speaker>||<震屏>:Suddenly, a massive tremor rises underneath my feet.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||<BGM>BGM_Boss</BGM>:Is...is that an earthquake?
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>What...what did you say?!</color>
-()<Speaker></Speaker>||:K suddenly cuts the transmission.
-()<Speaker></Speaker>||:...Click.
-Lewis(0)<Speaker>Lewis</Speaker><scan><通讯框>||:Commander! There was a huge explosion in the distance, can you see it from your end?! +Things look really bad!
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:A huge explosion?
-RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, our forces are under enemy attack! It's the White Faction! They're in a completely different league from the previous enemies! SOP-II, get down!</color>
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||<震屏>:What's going on?!
-RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>It's an ambush! We've lost half our Dolls! We can't hold this point any longer, please give us permission to withdraw to the conference hall!</color>
-RO635(0)<Speaker>Commander</Speaker>||:Granted! But you need to stay outside the hall, otherwise the MPs might open fire on you!
-RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Understood, we'll maintain a safe distance!</color>
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Didn't Mr. K say the mission was already over? How could this...
-()<Speaker>Commander</Speaker>||:Clearly, "Paradeus" doesn't share that opinion. +As I thought... It was a Nyto I saw just now... I'm sure I wasn't mistaken. +Tsk, at the very least the conference hall is a sturdy location, and we have the Statesec agents and the MPs' firepower on our side... +Goddammit, K! Answer me! Don't start playing dead again at a time like this!
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Special circumstances, Commander. The mission is still in progress. Ensure the VIP's safety.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:My Dolls outside have taken a real beating, I need to pull them back here to mount a defense!
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Tsk...you were ambushed too? I've lost contact with over two thirds of the field agent teams all of a sudden.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Maybe the real enemy found their locations while they were pinpointing the small fry from earlier. We've taken heavy losses ourselves. We need you to change our Dolls' IFF codes immediately!
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I'll designate your Dolls as friendlies, but the VIP must be unharmed.</color>
-()<Speaker></Speaker>||:...The Statesec agents in the hall have apparently gotten the message too, because they promptly spring into action. +The agents begin fortifying the meeting lounge, their top priority being to ensure the safety of the ambassador and the Chairwoman.
-KSVK(0)<Speaker>KSVK</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, we have sightings of ELIDs on the streets.</color>+<color=#00CCFF>They're hot on the heels of the fleeing populace and do not seem to be moving toward any particular destination.</color>+<color=#00CCFF>Your directions, please.</color>
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>;KSVK(0)||:ELIDs? You mean the monsters we encountered before in the contaminated zone? What are they doing in the city?
-NPC-KalinReporter(0);KSVK(0)<Speaker>KSVK</Speaker>||:<color=#00CCFF>Given that the sound of the explosion came from the direction of the purification towers, it's very likely that the city walls have been breached. The assault team has retreated and our surveillance post is now isolated. Shall we continue monitoring the situation?</color>
-KSVK(0)<Speaker>Commander</Speaker>||:Abandon your post and fall back towards the conference hall, then link up with RO. +Since the Infected aren't rushing straight towards this place, it means we still have some time. +The conference hall was the strongpoint of the MP's defense to begin with. They've got more people here, so the enemy shouldn't be able to...
-()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:...Blam blam.
-()<Speaker>Commander</Speaker>||:What?
-()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:...Blam blam.
-()<Speaker></Speaker>||:Huge bullet holes suddenly appear in the reinforced concrete walls, piercing into the meeting room after penetrating several walls.
-()<Speaker>Commander</Speaker>||:30mm AP shells...!
-()<Speaker>Agent</Speaker>||:Everyone get down!
-()<Speaker>Ambassador Roshchin</Speaker>||:Ensure the Chairwoman's safety! Please follow me, Ma'am!
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||<SE2>MachineGunBurst</SE2>:Alright — Whoaaaa!
-()<Speaker></Speaker>||:An AP round hits Ambassador Roshchin square in the center of his torso and tears him in half. +His corpse falls on Chairwoman Ulrich and knocks her out.
-()<Speaker></Speaker>||:...The Statesec agents inside the lounge are taken out by sniper fire from the outside. The defending agents fall to one precise shot after another.
-()<Speaker>Commander</Speaker>||:Kalina, stay close to me! +K, the Statesec agents are all down!
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I know.</color>
-()<Speaker></Speaker>||:...Blam! +Another agent is instantly killed by a large-caliber round that blasts clean through the piece of cover he was hiding behind.
-()<Speaker>Commander</Speaker>||:They're using armor-piercing rounds on soft targets... This is horrific!
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>There are still traitors inside the conference hall.</color>+<color=#00CCFF>It's not just the agents who exposed themselves earlier who were eliminated, but also the squads still on standby.</color>+<color=#00CCFF>There must be a spotter inside directing the enemy's fire.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:There's too many people in here now! +Give me that magical namelist of yours so I can tell who's a traitor!
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>...I can't.</color>+<color=#00CCFF>The conference hall isn't safe anymore. Find some way to interdict their line of fire and get the VIP out of this sector.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Did Statesec expect something like this too?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Tsk... Things shouldn't have gone this way.</color>
-()<Speaker></Speaker>||:...The transmission ends.
-()<Speaker>Commander</Speaker>||:X95! Have your team clear a path to the basement. Lewis! Get down from your observation point. We'll deploy smoke grenades so you can come to the conference room and get the VIP to the basement! After linking up, you'll combine your teams and serve as the VIP protection squad. Got that?!
-X95(0)<Speaker>X95</Speaker><scan><通讯框>||:<color=#00CCFF>Understood!</color>
-KSVK(0)<Speaker>KSVK</Speaker><scan><通讯框>||:<color=#00CCFF>Received.</color>
-()<Speaker>Commander</Speaker>||:All forces take note, the VIP Team is preparing to leave the conference hall. +RO, SOP-II, are you alright?
-RO635(5)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>We're treating the injuries of the Dolls who were attacked!</color>+<color=#00CCFF>The enemy snipers are prioritizing human targets, the MPs and police outside are being routed!</color>+<color=#00CCFF>What should we do next?</color>
-RO635(5)<Speaker>Commander</Speaker>||:We're preparing to head to the basement, and we need to ensure a clear axis of retreat before making our next move. We'll get the VIP out the back door, but I need you to go there and clear the path outside. Once the VIP gets out, you'll take over protection duties.
-RO635(3)<Speaker>RO635</Speaker>||:<color=#00CCFF>...Understood!</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, the streets are starting to fill with fleeing people.</color>+<color=#00CCFF>Those things coming at us... Are they really ELIDs?</color>
-()<Speaker>Commander</Speaker>||:I don't know, but prepare yourself. +Kill everything in your way, whether they're Infected or Paradeus.
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Still alive, Commander?</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Just barely.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I've lost contact with most of the agent teams lying in wait outside. The remaining teams are searching for the enemy artillery positions. The interior of the conference hall is in shambles too. Nobody's responding from the command center and Ambassador Roshchin has been confirmed KIA.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:What a freaking mess... +Please tell me you still have a backup plan.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>There's a cathedral several streets down, a reserve evac point. It's quite sturdy, which should help you in defending it.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Alright, I'll think of a way to get the VIP there.+Any clue as to the enemy's movements?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Paradeus has infiltrated the Belgrade authorities</color>+<color=#00CCFF>My guess is that while we were clearing the ambush outside, the renegades within the Belgrade authorities grasped the details of the Statesec agent deployment and some mole leaked the details of our plan. The antics before were just a feint to get us to lower our guard.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:I can't believe you can say all that so calmly.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I'm forcing it out through gritted teeth here.</color>+<color=#00CCFF>Everything that happened previously went in our favor, but it was only to make us think that the situation was still under control.</color>+<color=#00CCFF>They let the first wave be wiped out easily so we would think the second wave was their main force.</color>+<color=#00CCFF>But the fact is that everyone before this was nothing but cannon fodder, and the enemies with real strength are actually in this third wave of attack, and they were planning to unleash the most extreme devastation from the beginning...</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:What on earth is their objective? +If they've gone this far, it can't just be to disrupt the talks, right?!
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>They do have an objective, but I didn't expect them to be willing to sacrifice an entire city for it...</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:And you can't talk about this objective, right? I'm guessing their aim has something to do with what Ange is doing.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I won't deny that, given the circumstances. She's probably in danger too; I've lost contact with her as well.</color>+<color=#00CCFF>We need to establish a safe zone so she'll at least have somewhere to fall back to if she moves deeper into the city.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:I'll do my best. We'll need the HOCs going forward, so I need permission to deploy them.
-NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>Permission granted. I'll be counting on you, Commander.</color>
+()<Speaker>Командир</Speaker>||:Полагаю, тогда наша миссия завершена. Когда мы встретимся с Анже?
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Я человек слова. Отзови своих Кукол, я начну подготовку—</color>
+()<Speaker></Speaker>||<震屏>:Внезапно под ногами ощущается сильная тряска.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||<BGM>BGM_Boss</BGM>:Это... это землетрясение?
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Что... что ты сказала?!</color>
+()<Speaker></Speaker>||:К внезапно прерывает связь.
+()<Speaker></Speaker>||:...Клик.
+Lewis(0)<Speaker>Льюис</Speaker><scan><通讯框>||:Командир! Вдали раздался мощный взрыв, вы это видите со своей стороны?! +Дела обстоят очень хреново!
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Мощный взрыв?
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, наши войска подверглись атаке врага! Это «Белая фракция»! Они совсем не похожи на предыдущих противников! SOP-II, пригнись!</color>
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||<震屏>:Что происходит?!
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Это засада! Мы потеряли половину наших Кукол! Мы больше не сможем удержать эту позицию, пожалуйста, дай нам разрешение отступить в конференц-зал!</color>
+RO635(0)<Speaker>Командир</Speaker>||:Конечно! Но тебе нужно оставаться за пределами зала, иначе полиция может открыть по тебе огонь!
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>Понятно, мы будем соблюдать безопасную дистанцию!</color>
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Разве мистер К. не сказал, что миссия уже завершена? Как это могло...
+()<Speaker>Командир</Speaker>||:Похоже, «Парадеус» с этим не согласен. +Как я и думал… Это была Нито, которую я только что видел… Я уверен, что не ошибся. +Тс-с, по крайней мере, конференц-зал — надежное место, да и на нашей стороне огневая мощь агентов Госбеза и военной полиции... +Чёрт возьми, К! Отвечай! Не начинай снова притворяться мёртвым в такой момент!
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Особые обстоятельства, Командир. Операция ещё продолжается. Обеспечь безопасность VIP-персоны.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Мои Куклы на улице сильно пострадали, мне нужно привести их сюда, чтобы организовать оборону!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Эх... тебя тоже заманили в засаду? Я внезапно потерял связь с более чем двумя третями групп агентов.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Может быть, настоящий враг вычислил их местонахождение, пока они выслеживали тех мелких сошек. Мы сами понесли тяжелые потери. Тебе нужно немедленно изменить коды опознавания наших Кукол!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Я обозначу твоих Кукол как дружественных, но VIP должен остаться невредимым.</color>
+()<Speaker></Speaker>||:...Агенты Госбеза в холле, похоже, тоже получили сигнал, потому что тут же приступили к действиям. +Агенты начинают укреплять зал для переговоров, ставя своей главной задачей обеспечение безопасности посла и председателя.
+KSVK(0)<Speaker>КСВК</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, на улицах замечены ЭЛИДы.</color>+<color=#00CCFF>Они идут по следам бегущего населения и, похоже, не направляются никуда конкретно.</color>+<color=#00CCFF>Подскажи, как добраться.</color>
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>;KSVK(0)||:ЭЛИДы? Ты имеешь в виду тех монстров, с которыми мы сталкивались раньше в заражённой зоне? Что они делают в городе?
+NPC-KalinReporter(0);KSVK(0)<Speaker>КСВК</Speaker>||:<color=#00CCFF>Учитывая, что звук взрыва донесся со стороны очистных башен, вполне вероятно, что городские стены были прорваны. Штурмовая группа отступила, и наш наблюдательный пост сейчас оказался в изоляции. Продолжим следить за ситуацией?</color>
+KSVK(0)<Speaker>Командир</Speaker>||:Покинь свой пост и отступай к конференц-залу, а там соединись с RO. +Раз заражённые не рвутся прямо сюда, значит, у нас ещё есть время. +Конференц-зал изначально был опорным пунктом обороны полиции. Здесь у них больше людей, так что враг не должен...
+()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:...Бах-бах.
+()<Speaker>Командир</Speaker>||:Что?
+()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:...Бах-бах.
+()<Speaker></Speaker>||:В железобетонных стенах внезапно появляются огромные пулевые отверстия, пробивающие несколько перегородок.
+()<Speaker>Командир</Speaker>||:30-миллиметровые бронебойные снаряды...!
+()<Speaker>Агент</Speaker>||:Всем пригнуться!
+()<Speaker>Посол Рощин</Speaker>||:Обеспечьте безопасность председателя! Пожалуйста, следуй за мной, мадам!
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||<SE2>MachineGunBurst</SE2>:Ладно — Вау!
+()<Speaker></Speaker>||:Бронебойная пуля попадает послу Рощину прямо в центр туловища и разрывает его пополам. +Его труп падает на председательницу Ульрих и сбивает её с ног.
+()<Speaker></Speaker>||:...Агенты Госбеза, находившиеся в зале, гибнут от снайперских выстрелов с улицы. Остававшиеся на позициях агенты падают один за другим под точными выстрелами.
+()<Speaker>Командир</Speaker>||:Калина, не отходи от меня! +К, все агенты Госбеза выведены из строя!
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Я знаю.</color>
+()<Speaker></Speaker>||:...Бах! +Еще один агент мгновенно погибает от крупнокалиберной пули, которая пробивает насквозь укрытие, за которым он прятался.
+()<Speaker>Командир</Speaker>||:Они используют бронебойные патроны против незащищенных целей... Это просто ужасно!
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>В конференц-зале до сих пор остаются мятежники.</color>+<color=#00CCFF>Были уничтожены не только агенты, которые раскрыли себя раньше, но и отряды, которые всё ещё находились в режиме готовности.</color>+<color=#00CCFF>Внутри наверняка сидит наблюдатель, который направляет огонь противника.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Здесь сейчас слишком много людей! +Дай мне свой чудесный список имен, чтобы я мог понять, кто из них предатель!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>...Я не могу.</color>+<color=#00CCFF>Конференц-зал больше не безопасен. Найди способ блокировать их линию огня и выведи VIP из этого сектора.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Госбез тоже ожидал чего-то подобного?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Эх... Все должно было сложиться не так.</color>
+()<Speaker></Speaker>||:...Связь завершена.
+()<Speaker>Командир</Speaker>||:X95! Пусть твоя команда расчистит путь к подвалу. Льюис! Спускайся со своего пункта наблюдения. Мы запустим дымовые гранаты, чтобы ты смогла пройти в конференц-зал и вывести VIP-персону в подвал! После этого вы объединитесь и будете действовать как отряд охраны VIP-персоны. Поняла?!
+X95(0)<Speaker>X95</Speaker><scan><通讯框>||:<color=#00CCFF>Поняла!</color>
+KSVK(0)<Speaker>КСВК</Speaker><scan><通讯框>||:<color=#00CCFF>Принято.</color>
+()<Speaker>Командир</Speaker>||:Всем подразделениям: команда VIP готовится покинуть конференц-зал. +RO, SOP-II, у вас всё в порядке?
+RO635(5)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Мы оказываем помощь Куклам, которые подверглись нападению!</color>+<color=#00CCFF>Вражеские снайперы отдают приоритет живым целям, военная полиция и полиция снаружи терпят разгром!</color>+<color=#00CCFF>Что нам делать дальше?</color>
+RO635(5)<Speaker>Командир</Speaker>||:Мы готовимся спуститься в подвал, и перед тем, как делать следующий шаг, нам нужно обеспечить свободный путь отступления. VIP-персону мы выведем через заднюю дверь, но тебе нужно пойти туда и расчистить путь снаружи. Как только VIP-персона выйдет, ты возьмешь на себя охрану.
+RO635(3)<Speaker>RO635</Speaker>||:<color=#00CCFF>...Понятно!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, на улицах начинают собираться беженцы.</color>+<color=#00CCFF>Те штуки, что на нас летят... Это действительно ЭЛИДы?</color>
+()<Speaker>Командир</Speaker>||:Не знаю, но будь начеку. +Уничтожай всех на своем пути, будь то заражённые или Парадеус.
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Ты ещё жив, Командир?</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Едва-едва.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Я потерял связь с большинством групп агентов, находившихся в засаде снаружи. Оставшиеся группы ведут поиск позиций вражеской артиллерии. Внутри конференц-зала тоже царит хаос. Из командного центра никто не отвечает, а посол Рощин, по подтвержденным данным, погиб.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Какой же это кошмар. +Пожалуйста, скажи, что у тебя ещё есть запасной план.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Через несколько улиц находится собор — запасной пункт эвакуации. Он довольно прочный, так что тебе будет легче его оборонять.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Ладно, я придумаю, как доставить VIP-персону туда.+Есть какие-нибудь сведения о передвижениях врага?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Парадеус проник в органы власти Белграда</color>+<color=#00CCFF>По-моему, пока мы устраняли засаду снаружи, предатели в руководстве Белграда раздобыли информацию о расположении агентов Госбезопасности, а какой-то крот проболтался о деталях нашего плана. Всё то, что творилось до этого, было просто уловкой, чтобы мы перестали быть настороже.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Не могу поверить, что ты можешь говорить об этом так спокойно.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Я выдавливаю это из себя, стиснув зубы.</color>+<color=#00CCFF>Всё, что происходило до этого, складывалось в нашу пользу, но это было только для того, чтобы мы думали, что ситуация по-прежнему под контролем.</color>+<color=#00CCFF>Они позволили легко уничтожить первую волну, чтобы мы решили, что вторая волна — это их основные силы.</color>+<color=#00CCFF>На самом деле все, кто был до этого, были всего лишь пушечным мясом, а настоящие сильные противники находятся именно в этой третьей волне атаки, и они с самого начала планировали нанести самые разрушительные удары...</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Какова же у них цель? +Если они зашли так далеко, то ведь не может быть, что просто хотят сорвать переговоры, правда?!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>У них действительно есть цель, но я не думал, что они готовы ради этого пожертвовать целым городом...</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:И об этой цели нельзя говорить, да? Полагаю, их цель как-то связана с тем, чем занимается Анже.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Я не буду это отрицать, учитывая обстоятельства. Она, наверное, тоже в опасности, я тоже потерял с ней связь.</color>+<color=#00CCFF>Нам нужно создать безопасную зону, чтобы у неё хотя бы было куда отступить, если она продвинется дальше вглубь города.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Я постараюсь. В дальнейшем нам понадобятся ГОгПы, поэтому мне нужно разрешение на их развертывание.
+NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>Разрешение дано. Буду рассчитывать на тебя, Командир.</color>
