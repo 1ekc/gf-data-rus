@@ -29,7 +29,7 @@ NPC-Mercurows(0)<Speaker>???</Speaker>||:Тебе это не кажется н�
 NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:К сожалению, моя работа ничуть не поэтична. Проходи, мисс Меркьюуроуз.
 ()<Speaker></Speaker>||<黑点1>:Дверь джипа закрывается, и девушка по просьбе офицера входит внутрь крепости.
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BIN>9</BIN><黑屏2>:Меркьюуроуз... что это за странное название? +Разве Нито теперь не называют себя просто Нито?
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:Она не совсем похожа на тех Нито, которых я виделf раньше... +Возможно, лучше не слишком полагаться на прошлый опыт общения с другими Нито, когда дело касается её.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:Она не совсем похожа на тех Нито, которых я видела раньше... +Возможно, лучше не слишком полагаться на прошлый опыт общения с другими Нито, когда дело касается её.
 AN94(0);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Эх... +Стены слишком толстые, я не слышу их голосов.
 AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(4)||:Это каменная стена. Она сильно уменьшает проникновение звука. +Когда-то это место называли Белградской крепостью. В 1979 году она была признана национальным памятником культуры исключительной важности. +В III веке до нашей эры она служила кельтам оборонительным укреплением, а её основная часть была возведена в XVII веке. Для народа этой страны она является символом славы и стабильности.
 AN94(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Я и не зналf, что ты так хорошо разбираешься в истории.
@@ -42,26 +42,26 @@ AN94(0);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Хватит уже исполь
 AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(2)||:Например Анже. Но Анже — человек, так что её нельзя брать за основу для сравнения...
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Фу... хватит... на этом закроем тему. +Не думала, что под этой старой крепостью будет столько ходов... Куда вообще ведут эти пути...
 AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Эти скрытые подземные туннели были прорыты, чтобы облегчить тайное перемещение войск королевской семьи или помочь им самим сбежать. Здесь очень запутанные ходы, будь осторожна, чтобы не заблудиться.
-AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Hidden tunnels, huh... Sounds like it would be very suitable for something leading to an object that needs to be hidden. That works for me.+Ange was right about you; your instincts are indeed very keen.+Can you determine Mercurows' position?
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:She's not emitting any signals. I'll try to pinpoint her location through sound.
-AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:She has her mooks who shouldn't be broadcasting signals march proudly through the city, but a Baptized who ought to be emitting signals doesn't even return an echo... +How is she going to lead her people if she doesn't link up with them?
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:I don't quite get it myself... Shh, they've started talking again.
-()<Speaker></Speaker>||<黑屏1>:AN-94 continues listening to the conversation taking place far within the depths of the tunnels.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<黑屏2><BIN>46</BIN>:How surprising. +I thought we'd need to discuss things for longer before reaching an accord. I didn't expect us to understand each other so quickly.
-NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:My followers and I are of one mind, and we're prepared to cooperate with the outside world.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Because the present situation isn't looking too good for you? +Like someone who stares overlong at the crescent moon and mislikes the light from other sources?
-NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:Like I told you before, we're not a poetic bunch. But I understand your meaning. +You're right. We don't want wicked thinking to enter our cities and pollute our people.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:New light brings new ways of looking at things. What's so bad about that? +We bring a new light of our own, don't we, Mr. Officer?
-NPC-Mercurows(0)<Speaker>Офицер</Speaker>||<震屏>:It's not the same.
-NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:That so-called Rossartrism is a complete and utter farce. +While our fellow men were sleeping in the open wilds, eating nothing but the wind, those people could only think of how to build higher walls! +We will never forget, we will never forgive, and we will most definitely never compromise. +Those days of being deceived by a false peace are over. Even if the ones being deceived are our brothers, we hold the obligation to wake them up with our own hands, no matter whether we have to pay a price in blood!
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<黑屏1>:Hm, <color=#FF0000>their</color> blood.+Well said. I applaud your determination.+Let us wake them all up then, with the blistering fires of war!
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Потайные туннели, да... Похоже, это как раз то, что нужно, чтобы добраться до объекта, который требуется скрыть. Мне это подходит. + Анже была права насчет тебя, у тебя действительно очень чуткий инстинкт. + Можешь определить, где находится Меркьюуроуз?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Она не испускает никаких сигналов. Попробую определить её местонахождение по звуку.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:У неё есть подчинённые, которые не должны излучать сигналы, и которые гордо ходят по городу, но Крещённый, который должен излучать сигналы, даже эха не отдаёт... +Как она собирается вести свой народ, если не устанавливает с ним связь?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Я сама не до конца понимаю... Тише, они снова заговорили.
+()<Speaker></Speaker>||<黑屏1>:АН-94 продолжает прислушиваться к разговору, который ведется где-то глубоко в туннелях.
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||<黑屏2><BIN>46</BIN>:Как неожиданно. +Я думала, нам придётся поговорить подольше, прежде чем мы придём к соглашению. Не ожидала, что мы так быстро поймём друг друга.
+NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:Мы с моими последователями единодушны и готовы сотрудничать с внешним миром.
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Ведь нынешняя ситуация для тебя складывается не слишком радужно? +Как будто ты слишком долго смотришь на луну в виде полумесяца и не любишь свет из других источников?
+NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:Как я уже говорил, мы не из тех, кто любит поэзию. Но я понимаю, о чём ты. +Ты права. Мы не хотим, чтобы злые мысли проникли в наши города и заразили наших людей.
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Новый взгляд открывает новые перспективы. Что в этом такого плохого? +Мы же сами привносим новый взгляд, не так ли, господин офицер?
+NPC-Mercurows(0)<Speaker>Офицер</Speaker>||<震屏>:Это не то же самое.
+NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:Этот так называемый Россартизм – полный и абсолютный фарс. +Пока наши собратья спали под открытым небом, питаясь одним лишь ветром, эти люди могли думать только о том, как возвести ещё более высокие стены! +Мы никогда не забудем, мы никогда не простим и уж точно никогда не пойдём на компромисс. +Те дни, когда нас обманывали ложным миром, прошли. Даже если обманутыми оказываются наши братья, мы обязаны разбудить их собственными руками, даже если за это придется заплатить кровью!
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||<黑屏1>:Хм, <color=#FF0000>их</color> кровь.+Отлично сказано. Я восхищаюсь твоей решимостью.+Давай же разбудим их всех — пламенем войны!
 ()||<黑屏2><黑屏1><BGM>BGM_Empty</BGM>:After filtering out the sound of footsteps, AR-15 carefully analyzes the audio signal she is receiving.
 ()||<黑屏2><BGM>BGM_Room</BGM><BIN>167</BIN>:...Shortly afterwards.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:I'm not imagining things, am I? It seems the surface on which we've been walking has been sloping downwards since not too long ago, Mr. Officer. +Our objective...the "Pike Node" should be located within the permanently-sealed nuclear bunker below, is it not?
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:I'm not imagining things, am I? It seems the surface on which we've been walking has been sloping downwards since not too long ago, Mr. Officer. +Our objective...the "Pike Node" should be located within the permanently-sealed nuclear bunker below, is it not?
 NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:In keeping with the anti-Relic treaties of the time, all such facilities were sealed away forever.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Hmm, I see. +A once-buried secret sits alone beneath the earth, awaiting a hero to venture forth and excavate it. It does seem a little romantic when you think of it that way.
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Hmm, I see. +A once-buried secret sits alone beneath the earth, awaiting a hero to venture forth and excavate it. It does seem a little romantic when you think of it that way.
 NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:There's no safer defensive measure than keeping it underground. +With just a little work, the land itself can become the sturdiest bulwark of mankind.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Well said. It is both protector and home to everything. +That really is quite poetic when you think about it... You said your job didn't lend itself to poetry, but now it seems that isn't the case at all.
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Well said. It is both protector and home to everything. +That really is quite poetic when you think about it... You said your job didn't lend itself to poetry, but now it seems that isn't the case at all.
 NPC-Mercurows(0)<Speaker>Офицер</Speaker>||<黑屏1>:Ahem, pardon me then. I ended up being influenced by you without realizing it. +Come, walk this way, please. +Below this is our...
 AR15Mod(3)<Speaker>ST AR-15</Speaker>||<黑点2>:... +It cut off.
 AN94(4)<Speaker>AN-94</Speaker><Shake>;AR15Mod(3)||:Why? They shouldn't have reached the maximum distance yet. +...I can't hear anything either. +Did they enter a jamming zone? +Or perhaps they've already discovered us... +But if they've found out we were eavesdropping on them, then we ought to be surrounded by now.
