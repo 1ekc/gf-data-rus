@@ -55,48 +55,48 @@ NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Новый взгл�
 NPC-Mercurows(0)<Speaker>Офицер</Speaker>||<震屏>:Это не то же самое.
 NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:Этот так называемый Россартизм – полный и абсолютный фарс. +Пока наши собратья спали под открытым небом, питаясь одним лишь ветром, эти люди могли думать только о том, как возвести ещё более высокие стены! +Мы никогда не забудем, мы никогда не простим и уж точно никогда не пойдём на компромисс. +Те дни, когда нас обманывали ложным миром, прошли. Даже если обманутыми оказываются наши братья, мы обязаны разбудить их собственными руками, даже если за это придется заплатить кровью!
 NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||<黑屏1>:Хм, <color=#FF0000>их</color> кровь.+Отлично сказано. Я восхищаюсь твоей решимостью.+Давай же разбудим их всех — пламенем войны!
-()||<黑屏2><黑屏1><BGM>BGM_Empty</BGM>:After filtering out the sound of footsteps, AR-15 carefully analyzes the audio signal she is receiving.
-()||<黑屏2><BGM>BGM_Room</BGM><BIN>167</BIN>:...Shortly afterwards.
-NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:I'm not imagining things, am I? It seems the surface on which we've been walking has been sloping downwards since not too long ago, Mr. Officer. +Our objective...the "Pike Node" should be located within the permanently-sealed nuclear bunker below, is it not?
-NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:In keeping with the anti-Relic treaties of the time, all such facilities were sealed away forever.
-NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Hmm, I see. +A once-buried secret sits alone beneath the earth, awaiting a hero to venture forth and excavate it. It does seem a little romantic when you think of it that way.
-NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:There's no safer defensive measure than keeping it underground. +With just a little work, the land itself can become the sturdiest bulwark of mankind.
-NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Well said. It is both protector and home to everything. +That really is quite poetic when you think about it... You said your job didn't lend itself to poetry, but now it seems that isn't the case at all.
-NPC-Mercurows(0)<Speaker>Офицер</Speaker>||<黑屏1>:Ahem, pardon me then. I ended up being influenced by you without realizing it. +Come, walk this way, please. +Below this is our...
-AR15Mod(3)<Speaker>ST AR-15</Speaker>||<黑点2>:... +It cut off.
-AN94(4)<Speaker>AN-94</Speaker><Shake>;AR15Mod(3)||:Why? They shouldn't have reached the maximum distance yet. +...I can't hear anything either. +Did they enter a jamming zone? +Or perhaps they've already discovered us... +But if they've found out we were eavesdropping on them, then we ought to be surrounded by now.
-AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:I haven't detected signals from any units, and I haven't heard anything out of place. +...Since it's not an encirclement, let's head a little further inside.
-()||<黑屏2><黑屏1>:Now that their eavesdropping has been suddenly cut off, AR-15 and AN-94 have no choice but to continue forward.
-()<Speaker>ST AR-15</Speaker>||<黑屏1>:Just a little further ahead... a little more and I'll be able to see it clearly...
+()||<黑屏2><黑屏1><BGM>BGM_Empty</BGM>:Отфильтровав звук шагов, AR-15 тщательно анализирует поступающий аудиосигнал.
+()||<黑屏2><BGM>BGM_Room</BGM><BIN>167</BIN>:...Вскоре после этого.
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Я же не галлюцинирую, правда? Мне кажется, дорога, по которой мы идём, с недавних пор имеет уклон вниз, офицер. +Наша цель... узел системы «Щука» должен находиться в законсервированным ядерном бункере внизу, верно?
+NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:В соответствии с антиреликвиальными договорами того времени все подобные объекты были законсервированы навечно.
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Хм, понятно. +Когда-то зарытый секрет лежит в одиночестве под землей, ожидая, пока какой-нибудь герой отважится выйти на поверхность и раскопать его. Если так об этом подумать, это действительно выглядит немного романтично.
+NPC-Mercurows(0)<Speaker>Офицер</Speaker>||:Нет более надежной меры защиты, чем укрытие под землей. +Приложив всего немного усилий, сама земля может стать самым прочным укреплением человечества.
+NPC-Mercurows(0)<Speaker>Меркьюуроуз</Speaker>||:Хорошо сказано. Это и место защиты, и дом для всего. +Если вдуматься, это действительно очень поэтично... Ты говорил, что твоя работа не располагает к поэзии, но теперь кажется, что это совсем не так.
+NPC-Mercurows(0)<Speaker>Офицер</Speaker>||<黑屏1>:Кхм, тогда простите. Я оказался под твоим впечатлением, даже не заметив этого. +Пойдемте, пожалуйста, сюда. +Здесь, внизу, находится наш...
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||<黑点2>:... +Связь прервалась.
+AN94(4)<Speaker>AN-94</Speaker><Shake>;AR15Mod(3)||:Почему? Они ещё не должны были выйти за пределы зоны действия. +...Я тоже ничего не слышу. +Может, они попали в зону радиопомех? +Или, может, они уже нас обнаружили... +Но если они поняли, что мы их прослушиваем, то нас уже давно должны были окружить.
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑屏1>:Я не уловила сигналов ни от одной единицы и не услышала ничего подозрительного. +...Раз окружения нет, давай продвинемся чуть дальше вглубь.
+()||<黑屏2><黑屏1>:Теперь, когда их прослушка внезапно прервалась, AR-15 и АН-94 не остаётся ничего другого, как продолжать движение вперёд.
+()<Speaker>ST AR-15</Speaker>||<黑屏1>:Ещё чуть-чуть... ещё немного, и я смогу всё ясно увидеть...
 ()||<睁眼><BIN>46</BIN>:...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:So there was a barrier door up ahead. They went through it.
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:This fortress has been through hundreds of battles and the fact that it's still standing is all thanks to its refurbishments over the generations. It makes perfect sense that they'd have installed state-of-the-art soundproofed doors like this. Given the markings, it seems it's a new model of safety door, manufactured less than 2 years ago. +We must have filtered out the sound it made while opening as background noise.
-AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I think so too. +There don't seem to be any other sentries, so let's catch up with them.
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||<黑屏1>:Da.
-()||<黑屏2><BIN>167</BIN>:They quietly open the barrier door, but soon they are faced with a fork in the road. They exchange a look.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Впереди была перегородка. Они прошли через неё.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Эта крепость пережила сотни сражений, и то, что она до сих пор стоит, — это заслуга всех , кто ее восстанавливал на протяжении веков. Совершенно логично, что здесь установили такие современные звукоизолированные двери. Судя по маркировке, это, похоже, новая модель защитной двери, выпущенная менее двух лет назад. +Наверное, мы отфильтровали звук, который она издала при открытии, как фоновый шум.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Я тоже так думаю. +Похоже, больше часовых нет, так что давай догоним их.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||<黑屏1>:Да.
+()||<黑屏2><BIN>167</BIN>:Они тихо открывают дверь, но вскоре перед ними появляется развилка. Они обмениваются взглядами.
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||:...
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:... +Let's not split up.
-AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:The light here is pretty dim, and I don't see any cameras... Looks like they kept this place the way it was since the old days. +Can you analyze the surroundings and tell which way they went?
-AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:This place is too tightly sealed... The sensors and directional mics aren't picking up anything... +...
-AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Is that so...? Then you pick a path.
-AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(0)||:In that case, let's go left.
-AN94(5);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I hope your instincts are on the mark. +We'll maintain bounding overwatch and advance cautiously.
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||<黑屏1>:Understood.
-()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:10 minutes later, the two Dolls once again stand in a place that seems identical to where they were just now.
-AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Sneak</BGM>:Did we double back? +This place is just like a maze!
-AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(5)||:The passages here are built at special angles to confuse one's sense of direction. The people of the past probably designed it this way to prevent the enemy from launching a surprise attack through the hidden tunnels.
-AN94(4);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Tsk... Couldn't they have applied their efforts somewhere else...? +Let's try the path on the right. I've already recorded our route just now into my neural cloud. We won't retrace our footsteps. +We have to find that Mercurows and...
-AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(4)||:AR-15, I think we've gone too deep. Even if we find and destroy our objective, just securing a route of retreat will be extremely difficult for us, especially since there'll definitely be pursuers by then. I think our best course of action is to reach a place where we can send and receive transmissions, contact Ange, and receive orders as to our next step.
-AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Since we know the "Node" is below us, how can we go back empty-handed? +Leaving aside what that Mercurows came here for, we might not get the chance to enter the inside of the fortress again, even if we do nothing. +...Or do you have another way?
-AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:I don't intend to argue with you, AR-15. +But...
-AN94(4)<Speaker></Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM><SE1>Explode</SE1>:...A dull sound interrupts their dispute. Surprised, both Dolls unconsciously look behind themselves.
-AN94(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BGM>BGM_NightOPS</BGM>:...Was that... +The barrier door?
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:The barrier door... is locked.
-AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Then do you have a way to open the door?
-AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:AK-12 might.
-AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:In other words, you can't do it.
-AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Can you?
-AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I can't either...
-AN94(4);AR15Mod(5)<Speaker></Speaker>||:AR-15 rounds her shoulders and sighs deeply. AN-94 watches her in silence.
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:So what should we do after this, AR-15? +You should have enough explosives on you to blast the door open.
-AN94(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1>:...I was saving that to blow up the "Node". Forget it... let's keep heading down... +That's... the only path for us now.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:... +Не расходимся.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Здесь довольно темно, и я не вижу никаких камер... Похоже, это место осталось таким же, как и в старые времена. +Можешь проанализировать обстановку и сказать, в какую сторону они ушли?
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Здесь слишком все хорошо изолировано... Датчики и направленные микрофоны ничего не улавливают... +...
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Серьезно...? Тогда выбирай путь.
+AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(0)||:В таком случае пойдем налево.
+AN94(5);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Надеюсь, твоя интуиция тебя не подведёт. +Будем осторожно продвигаться, не теряя из виду обстановку.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||<黑屏1>:Понятно.
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:Через 10 минут обе Куклы снова стоят в месте, которое выглядит точно так же, как и то, где они были недавно.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Sneak</BGM>:Мы что, вернулись назад? +Здесь прямо как в лабиринте!
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(5)||:Эти ходы построены под особыми углами, чтобы сбить с толку чувство ориентации. Вероятно, древние люди спроектировали их именно так, чтобы не дать врагу совершить внезапное нападение через скрытые туннели.
+AN94(4);AR15Mod(4)<Speaker>ST AR-15</Speaker>||:Тц... Неужели они не могли потратить свои силы на что-нибудь другое...? +Давай попробуем пройти по правому пути. Я только что сохранила наш маршрут в своём нейронном облаке. Нам не придётся возвращаться по своим следам. +Нам нужно найти эту Меркьюуроуза и...
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(4)||:AR-15, я думаю, мы зашли слишком далеко. Даже если мы найдём и уничтожим цель, просто обеспечить путь отступления будет для нас крайне сложно, тем более что к тому моменту у нас наверняка уже будут преследователи. Думаю, лучшее, что нам остаётся, — это добраться до места, где можно будет установить соединение, связаться с Анже и получить приказ о том, что делать дальше.
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Раз мы знаем, что «Узел» находится прямо под нами, как мы можем вернуться с пустыми руками? +Не говоря уже о том, зачем сюда пришла эта Меркьюуроуз, у нас может не быть шанса снова попасть внутрь крепости, даже если мы ничего не предпримем. +...Или у тебя есть другой вариант?
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:Я не собираюсь с тобой спорить, AR-15. +Но...
+AN94(4)<Speaker></Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM><SE1>Explode</SE1>:...Их спор прервал глухой звук. Удивлённые, обе Куклы невольно оглянулись.
+AN94(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BGM>BGM_NightOPS</BGM>:...Это была... +дверь?
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:Дверь шлюза... заперта.
+AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:А у тебя есть способ открыть дверь?
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:У AK-12 может быть.
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Другими словами, это невозможно.
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:А ты можешь?
+AN94(4);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Я тоже не могу...
+AN94(4);AR15Mod(5)<Speaker></Speaker>||:AR-15 опускает плечи и глубоко вздыхает. АН-94 молча наблюдает за ней.
+AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(5)||:Ну и что теперь делать, AR-15? +У тебя должно быть достаточно взрывчатки, чтобы взорвать дверь.
+AN94(0);AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1>:...Я собиралась использовать это, чтобы взорвать «Узел». Забудь об этом... давай продолжим спускаться... +Это... единственный путь для нас сейчас.
