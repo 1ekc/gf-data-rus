@@ -1,77 +1,77 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Room</BGM><BGM>BGM_Room</BGM>:
-Angelia()||<黑屏1><BGM>BGM_Room</BGM>:...Alright, the time for chit-chat is over.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||<黑屏2><BIN>181</BIN>:Let's get started with what we ought to be doing. +AK-12, what's the status of the quarantine wall?
-AK12(0)<Speaker>AK-12</Speaker>||:There are five points about three kilometers beyond the wall where infected creatures are gathering. The reason for that is unknown. +According to visual inspection, those infected creatures don't seem to be in a stable condition. The garrison troops near the walls have not yet taken action. +Also, according to the latest weather forecast, there might be stormy weather afterwards, which will lead to a big spike in the nearby radiation levels.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:A storm, huh... What terrible weather.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:The stormy weather might further agitate the Infected. +If I were the officer in charge of the quarantine wall's security, now would be the time to disperse those monsters with firepower.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:That's impossible.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Why? +Isn't an important international conference about to take place in the city?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:The army will be cautious about using force precisely because of that. +Besides, this place is no longer the nation's capital thanks to Collapse Fluid contamination. Just having sufficient forces to respond to emergencies is problematic in itself. +Right now... Belgrade is nothing more than an ordinary city on the edge of a contaminated zone.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:So not many people are going to care about an abandoned capital?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:Exactly... Therefore there are fewer forces in reserve here. The various factions also have less strength here compared to other cities. +I think that's the main reason why this place was chosen for this summit.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Even if it comes with the risk of being attacked by infected creatures?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:Risk and reward come hand in hand. +Besides... rather than the Infected, the other guys are what we should be focusing on.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:You mean the white ones?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||<黑屏1>0,3</黑屏1>:Yes... but not just them.
-()||<BIN>169</BIN><黑屏2>0,5</黑屏2>:Ange looks down at the city below, and her expression grows severe. +Just then, a transmission comes in. She slowly raises a hand to accept it.
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Statesec has arrived.</color>+<color=#00CCFF>Griffin has also passed the test.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:I told you Griffin would be fine.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>There will be more tests to come.</color>+<color=#00CCFF>The Statesec agent teams will buy you time. I hope your efficiency doesn't disappoint them.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:Mm.
-NPC-AngeStreet(0)<Speaker></Speaker>||<黑屏1>:Ange hangs up.
-Angelia()||<黑屏1><BIN>9</BIN>:This city is prosperous now, but how long will this prosperity last?
-()||<BGM>BGM_Empty</BGM><黑屏1>:... + ...... + Team Defy continues surveying the situation near the wall from the vicinity of the memorial.
-()||<BIN>181</BIN><黑屏2>:Ange finds AK-12 standing to the side of the memorial plaque. She seems to be inspecting something.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:What are you looking at, AK-12?
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:I'm looking at this stone plaque. +Why are there no names carved on it?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||<BGM>BGM_Wake</BGM>:...Because a single plaque can't hold the names of everyone who needs to be remembered.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:So leaving it blank is a warning of sorts, then? +Still, Ange, won't people come here?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:Why do you think that?
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Since it's a place used to remember one's deceased friends...surely people would come here frequently to pay homage to them, right?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:...That is how it should have been. +But this place has long since been forgotten by the people of the world.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Forgotten?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:You must know, AK-12, that humans are forgetful creatures. +For most people, it is only by forgetting part of the past that they can gain the courage to face the future. +Unfortunately, this memorial plaque and the names it carries have already been placed into the category of things which need to be forgotten.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:So it's not just their names, but even the memorial plaque that commemorates them has been forgotten... +It seems a little sad.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:They didn't die to earn your sympathy.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:"Your name is unknown, your deeds are immortal."
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:Not everyone is willing to die for their country and what they believe in. +Those people who sacrificed themselves for us ought to be remembered, no matter what reasons they had.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:You look like something's weighing on you. Is there something worrying you besides the mission?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:I was just being sentimental. Seeing this tombstone makes me think of a lot of my friends. +Former friends. +You should be able to understand that.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Nyet... this is too difficult for a Doll to understand. +Humans really are strange.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:Humph... you know, yet you pretend you don't. +It seems we've drifted a little off-topic. +In any case, this is now the most suitable location for us to hide and observe, so let's make good use of it.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Since there's no need to worry about unexpected situations, why are we splitting our forces when we're only a single team to begin with?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:Their abilities are more than adequate for them to operate within the city, and we have other helpers there too. +In comparison, I'm more worried about the purification towers and the quarantine wall. I need to keep my strongest force in reserve.
-AK12(0)<Speaker>AK-12</Speaker>||:Is she really your strongest? Isn't it because you felt she might be the most unpredictable factor?
-()||:Saying so, AK-12 directs her gaze toward M4A1, who is standing watch in the distance.
-AK12(0)<Speaker>AK-12</Speaker>||:It took us a long time to find her and AR-15, and we're still not clear what happened while they were gone.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:I believe that M4 will not be so easily shaken by the past.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Leaving aside that long blank period, just that final battle with the Military would probably be enough to affect her. +After all, that explosion engulfed the members of Griffin she once served with, and I can see how she blames herself even if she doesn't say it. +Moreover, she ended up fighting one of the former members of the AR Team...
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:Her kindness ended up being her undoing. +I understand that kindness very well... but what can you protect with kindness alone? +As long as you bear the weight of duty, you'll have to walk down this path in the end. You'll harm other people, and harm yourself even more.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:I don't doubt her... She performed adequately back then. +I'm simply worried about whether she can continue fighting as a Tactical Doll.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:If you really are that worried about her, then why don't you go have a chat with her?
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||<黑点1>:Humph... I just knew you'd dump this troublesome crap on me.
-()||<黑点2><BGM>BGM_Empty</BGM>:...Near the nameless plaque. +M4 is carrying out her duty and standing watch nearby. +Just then, AK-12 walks over to her.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM>:Is something the matter?
-M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Oh, it's nothing. Just that you looked really bored, so I thought I ought to go show some care and concern for a teammate.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:I don't need your care or concern. Let's just do our jobs.
-M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:You've become more distant ever since you came back. +How does returning to the team feel, M4?
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:... +I don't want to talk about this now.
-M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:So? +Seems you only like talking to yourself, is that it?
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:What do you mean by that?
-M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||:I wonder...
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:I'm not the sort of person who talks to themselves. It's just that right now... I'm not in the mood for idle chatter.
-M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Is it because you want to focus on your mission or because... your partner in conversation isn't the other you?
+Angelia()||<黑屏1><BGM>BGM_Room</BGM>:...Ладно, хватит уже болтать.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||<黑屏2><BIN>181</BIN>:Давай начнём с того, чем нам нужно заняться. +AK-12, как обстоят дела с карантинной стеной?
+AK12(0)<Speaker>AK-12</Speaker>||:Примерно в трёх километрах за стеной есть пять точек, где скапливаются заражённые существа. Причина этого неизвестна. +Судя по визуальному осмотру, эти заражённые существа, похоже, находятся в нестабильном состоянии. Гарнизонные войска у стен пока не предпринимают никаких действий. +Кроме того, согласно последнему прогнозу погоды, в ближайшее время может наступить буря, что приведёт к резкому скачку уровня радиации в этом районе.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Буря, да... Какая ужасная погода.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Непогода может ещё больше разозлить заражённых. +Если бы я была офицером, отвечающим за охрану карантинной стены, сейчас бы самое время разогнать этих монстров с помощью артиллерии.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Это невозможно.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Почему? +Разве в городе не собирается пройти важная международная конференция?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Именно поэтому армия будет осторожно подходить к применению силы. +К тому же, из-за заражения жидкостью «Коллапс» это место уже не является главным городом страны. Даже обеспечить достаточное количество войск для реагирования на чрезвычайные ситуации — это уже само по себе проблема. +Сейчас... Белград — не более чем обычный город на окраине заражённой зоны.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Так что, мало кому будет интересно, что с заброшенной столицей?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Именно... Поэтому здесь меньше резервных сил. Различные группировки здесь тоже не так сильны, как в других городах. +Думаю, это и есть главная причина, почему для этого саммита выбрали именно это место.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Да даже если это сопряжено с риском подвергнуться нападению заражённых существ?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Риск и награда идут рука об руку. +К тому же... нам стоит сосредоточиться не на заражённых, а на тех парнях.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Ты имеешь в виду белые?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||<黑屏1>0,3</黑屏1>:Да... но не только они.
+()||<BIN>169</BIN><黑屏2>0,5</黑屏2>:Анже смотрит вниз на город, и её лицо становится серьёзным. +В этот момент поступает сообщение. Она медленно поднимает руку, чтобы открыть его.
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Госбез прибыл.</color>+<color=#00CCFF>Грифон тоже прошел проверку.</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;NPC-Jason(0)||:Я же тебе говорила, что с Грифоном всё будет в норме.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Впереди ещё много испытаний.</color>+<color=#00CCFF>Группы агентов Госбеза выиграют для тебя время. Надеюсь, твоя эффективность их не разочарует.</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;NPC-Jason(0)||:Ммммм.
+NPC-AngeStreet(0)<Speaker></Speaker>||<黑屏1>:Анже завершает разговор.
+Angelia()||<黑屏1><BIN>9</BIN>:Сейчас этот город процветает, но как долго продлится это состояние?
+()||<BGM>BGM_Empty</BGM><黑屏1>:... + ...... + Команда DEFY продолжает наблюдать за ситуацией у стены, находясь рядом с мемориалом.
+()||<BIN>181</BIN><黑屏2>:Анже видит, как АК-12 стоит рядом с мемориальной доской. Похоже, она что-то рассматривает.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:На что смотришь, АК-12?
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Я смотрю на эту каменную доску. +Почему на ней не высечены имена?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||<BGM>BGM_Wake</BGM>:...Ведь на одной мемориальной доске не поместятся имена всех, кого нужно помнить.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Значит, оставить это место пустым — это своего рода предупреждение? +Но, Анже, разве люди не будут сюда приходить?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Почему ты так думаешь?
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Ведь это место, где люди вспоминают своих умерших друзей… Наверное, люди часто приходят сюда, чтобы почтить их память, да?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:...Так и должно было быть. +Но это место уже давно забыли люди со всего мира.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Заброшено?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Ты должна знать, АК-12, что люди — забывчивые существа. +Для большинства людей только забыв часть прошлого, они могут обрести смелость, чтобы смотреть в будущее. +К сожалению, эта мемориальная доска и имена, которые на ней высечены, уже отнесены к разряду того, что нужно забыть.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Так что забыты не только их имена, но даже мемориальная доска, установленная в их честь... +Это как-то немного грустно.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Они погибли не для того, чтобы вызвать у тебя сочувствие.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:«Твое имя неизвестно, но твои деяния бессмертны».
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Не все готовы умереть за свою страну и за то, во что верят. +Тех, кто пожертвовал собой ради нас, нужно помнить, какими бы ни были их мотивы.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Похоже, тебя что-то тяготит. Тебя беспокоит что-то ещё, кроме миссии?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Я просто почувствовала ностальгию. Когда я смотрю на этот надгробный камень, я вспоминаю многих своих друзей. +Бывших друзей. +Ты должна это понять.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Нет... это слишком сложно для Куклы. +Люди — действительно странные.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Хм... ты же знаешь, но делаешь вид, что не знаешь. +Похоже, мы немного отклонились от темы. +В любом случае, сейчас это самое подходящее место, где мы можем спрятаться и понаблюдать, так что давай этим воспользуемся.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Раз уж не нужно беспокоиться о непредвиденных ситуациях, зачем нам разделять наши силы, если мы и так изначально — одна команда?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Их способностей более чем достаточно для работы в городе, да и другие помощники у нас там тоже есть. +А вот за очистительные башни и карантинную стену я переживаю больше. Мне нужно держать сильнейшие силы в резерве.
+AK12(0)<Speaker>AK-12</Speaker>||:Неужели она действительно твой сильнейший козырь? А может, просто тебе показалось, что она — самый непредсказуемый фактор?
+()||:Сказав это, АК-12 переводит взгляд на М4А1, которая стоит на страже вдали.
+AK12(0)<Speaker>AK-12</Speaker>||:Нам потребовалось немало времени, чтобы найти её и AR-15, и мы до сих пор не понимаем, что же произошло, пока их не было.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Я думаю, что M4 не так легко поддастся влиянию прошлого.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Если не брать во внимание тот долгий период, когда о ней ничего не было слышно, то одной только той финальной битвы с Военными, наверное, хватило бы, чтобы она изменилась. +В конце концов, тот взрыв поглотил товарищей по Грифону, с которыми она когда-то служила, и я понимаю, почему она винит себя, даже не говоря об этом вслух. +К тому же ей пришлось сражаться с одной из бывших членов Команды AR...
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Её доброта в итоге погубила её. +Я очень хорошо понимаю эту доброту... но что можно защитить одной лишь добротой? +Пока ты несешь на себе бремя долга, тебе в конце концов придётся идти по этому пути. Ты причинишь вред другим людям, а себе — ещё больше.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Я не сомневаюсь в ней... Тогда она показала себя достойно. +Просто беспокоюсь, сможет ли она и дальше сражаться в качестве Тактической Куклы.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Если ты действительно так за неё переживаешь, почему бы тебе не пойти и не поговорить с ней?
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||<黑点1>:Хм... Я так и знала, что ты свалишь эту неприятную работу на меня.
+()||<黑点2><BGM>BGM_Empty</BGM>:...Рядом с безымянной мемориальной доской. +M4 дежурит неподалеку. +И тут к ней подходит AK-12.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM>:Что-то не так?
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:О, да ничего. Просто ты выглядела очень скучающей, так что я решила, что нужно проявить немного заботы и внимания к товарищу по команде.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Мне не нужна твоя забота или беспокойство. Давай просто будем делать свою работу.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:С тех пор как ты вернулась, ты стала более отстранённой. +Как тебе вернуться в команду, M4?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:... +Я не хочу сейчас об этом говорить.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:В смысле? +Похоже, тебе нравится разговаривать только с самим собой, так?
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:О чем ты?
+M4A1Mod(3);AK12(0)<Speaker>AK-12</Speaker>||:Я задумалась...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Я не люблю разговаривать сама с собой. Просто сейчас... мне не до пустой болтовни.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Это из-за того, что ты хочешь сосредоточиться на своей задаче, или потому что... твой собеседник — это не твоё второе «я»?
 M4A1Mod(4)<Speaker>M4A1</Speaker>||:...
-AK12(0)<Speaker>AK-12</Speaker>||:Forget it, just stay this way. +The more mysterious you become, the more amusing it is to observe you.
-()||<BGM>BGM_Empty</BGM>:With that, AK-12 leaves M4's side.
-M4A1Mod(3)<Speaker>M4A1</Speaker>||<黑屏1>:...Did she... notice something?
-Clear Voice()||<BIN>9</BIN><BGM>BGM_Brain</BGM>:You don't know how to hide it at all. +Even if you fake a poker face, others can see right into your heart.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Shut up. I wouldn't even need to do this if not for you.
-M4A1Mod(4)<Speaker>Clear Voice</Speaker>||:I would have thought that we had a relationship of mutual trust after going through so much together.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I have never trusted you. At the very most, we've just used each other.
-M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:You wound me. I thought we were quite happy working together before.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Tsk... I had no other choice but to do so at the time.
-M4A1Mod(0)<Speaker>Clear Voice</Speaker>||:There will be more and more situations where you will have no other choice as time goes by. +Still, that's fine. At the very least, you've accepted my existence. +My patience is boundless when it comes to dealing with you.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:I won't forget how you lied to me in the past. If you want to obtain what you want, then serve me obediently, OGAS.
-M4A1Mod(4)<Speaker>The Voice of OGAS</Speaker>||<黑屏1>:We're both looking for the path back to ourselves, aren't we?
-The Voice of OGAS()||<黑屏1>:Let's walk hand in hand as we travel the road of recollection towards the truth, my sister.
+AK12(0)<Speaker>AK-12</Speaker>||:Забудь об этом, просто оставайся такой, как есть. +Чем загадочнее ты становишься, тем интереснее за тобой наблюдать.
+()||<BGM>BGM_Empty</BGM>:После этого АК-12 отходит от М4.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<黑屏1>:...Она... что-то заметила?
+Clear Voice()||<BIN>9</BIN><BGM>BGM_Brain</BGM>:Ты не умеешь скрывать свои чувства. +Даже если ты притворяешься бесстрастной, окружающие всё равно видят, что у тебя на душе.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Заткнись. Если бы не ты, мне бы и не пришлось этого делать.
+M4A1Mod(4)<Speaker>Ясный Голос</Speaker>||:Я думала, что у нас сложились доверительные отношения, ведь мы столько всего вместе пережили.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я тебе никогда не доверяла. В лучшем случае мы просто воспользовались друг другом.
+M4A1Mod(0)<Speaker>Ясный Голос</Speaker>||:Ты меня обидела. Я думала, что раньше нам было довольно хорошо работать вместе.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Тц... В тот момент у меня просто не было другого выбора.
+M4A1Mod(0)<Speaker>Ясный Голос</Speaker>||:Со временем будет всё больше и больше ситуаций, когда у тебя не будет другого выбора. +Но ничего страшного. По крайней мере, ты признала моё существование. +Когда дело касается тебя, мое терпение безгранично.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Я не забуду, как ты лгала мне раньше. Если хочешь получить то, что хочешь, то служи мне послушно, ОГАС.
+M4A1Mod(4)<Speaker>Голос ОГАС</Speaker>||<黑屏1>:Мы обу ищем путь обратно к себе, правда?
+The Voice of OGAS()||<黑屏1>:Давай пойдем рука об руку по пути воспоминаний к истине, сестра.
