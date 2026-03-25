@@ -1,17 +1,17 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BGM>BGM_Sneak</BGM><BIN>169</BIN>:M4 and AK-12 steadily move deeper into the region where the defenders and the rebels are fighting.
-AK12(0)<Speaker>AK-12</Speaker>||:We've nearly cleared out the units in the sector around the lowest levels. +We're going to head up. After this, we'll be making direct contact with human rebels. +M4, are you ready?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Wait a moment.
-AK12(0)<Speaker>AK-12</Speaker>||:What's the matter?
-()||:AK-12 walks over to M4's side and finds that she is inspecting a human collapsed by the wall.
-AK12(0)<Speaker>AK-12</Speaker>||:This man's one of the wall's defenders. Huh, seems to be an officer, too. +As a human, he must have had a hard time holding out here by himself for so long.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:He's still alive... Was he blasted off the side of the wall? +Are you alright? Can you hear me?
-Garrison Officer()||:(Groans) Who...are you...?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'm here to save you. +Hang in there, we'll get you out of here.
-AK12(2)<Speaker>AK-12</Speaker>||:Are you serious about this, M4?
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(2)||:Of course. I'll take him to a safe place. +It won't take much time.
-M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Just now you were saying that joining this battle would lead to unnecessary complications, and now you're going to create an unnecessary complication of your own?
-M4A1Mod(4)<Speaker>M4A1</Speaker>;AK12(0)||:I have my way of doing things. +You stick to the plan and head to the upper level. I'll catch up with you soon.
+()||<黑屏2><BGM>BGM_Sneak</BGM><BIN>169</BIN>:M4 и АК-12 постепенно продвигаются всё глубже в район, где идут бои между защитниками и мятежниками.
+AK12(0)<Speaker>AK-12</Speaker>||:Мы почти очистили этот сектор на нижних уровнях. +Пора подниматься. После этого мы выйдем на прямой контакт с мятежниками-людьми. +M4, ты готова?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Подожди.
+AK12(0)<Speaker>AK-12</Speaker>||:В чём дело?
+()||:АК-12 подходит к М4 и видит, что та осматривает человека, лежащего без сознания у стены.
+AK12(0)<Speaker>AK-12</Speaker>||:Этот парень — один из защитников стены. Хм, похоже, он ещё и офицер. +Будучи человеком, ему, наверное, было тяжело так долго держаться здесь в одиночку.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Он ещё жив... Его отбросило к стене? +Ты в порядке? Ты меня слышишь?
+Garrison Officer()||:(Стонет) Кто... ты...?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я здесь, чтобы спасти тебя. +Держись, мы тебя отсюда вытащим.
+AK12(2)<Speaker>AK-12</Speaker>||:Ты это всерьёз, M4?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(2)||:Конечно. Я отведу его в безопасное место. +Это не займёт много времени.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Только что ты говорила, что участие в этой битве приведет к ненужным осложнениям, а теперь сама собираешься создать излишние проблемы?
+M4A1Mod(4)<Speaker>M4A1</Speaker>;AK12(0)||:У меня свой подход к делу. +Держись плана и иди на верхний уровень. Я скоро тебя догоню.
 AK12(0)<Speaker>AK-12</Speaker>||:You really do like doing things your own way... Fair enough. +Let me see what this unnecessary complication brings us. +I'll make a move first, then.
 ()||<BGM>BGM_Empty</BGM>:AK-12 leaves.
 Garrison Officer()||<BGM>BGM_Wake</BGM>:Thank you, young lady...
@@ -59,5 +59,5 @@ M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Still, there's something weird here
 M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:If they're retreating, that position would end up being flanked. It's not suitable for defense. There must be something fishy going on.
 AK12(0)<Speaker></Speaker>||:AK-12 connects to the comms network and reports the situation to Ange.
 AK12(0)<Speaker>AK-12</Speaker>||<BGM>BGM_Empty</BGM>:Did you hear that, Ange? The enemy's situation is a little abnormal. I've already sent you the distribution of their forces.
-AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>The enemy's gathering at the base of the wall, huh...</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>||<黑点1><BGM>BGM_Danger</BGM>:<color=#00CCFF>Tsk... the surrounded rebel troops might just be bait. They've discovered that they can't seize control access for the entire quarantine wall and so they're using their backup plan.</color>+<color=#00CCFF>That other group of rebels is probably going to try and seize the sector containing the wall control room, and then they'll try to open the wall up! You need to get to the control room and stop the rebels before they make their move!</color>
+AK12(0);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker><scan><通讯框>||:<color=#00CCFF>The enemy's gathering at the base of the wall, huh...</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker><scan><通讯框>||<黑点1><BGM>BGM_Danger</BGM>:<color=#00CCFF>Tsk... the surrounded rebel troops might just be bait. They've discovered that they can't seize control access for the entire quarantine wall and so they're using their backup plan.</color>+<color=#00CCFF>That other group of rebels is probably going to try and seize the sector containing the wall control room, and then they'll try to open the wall up! You need to get to the control room and stop the rebels before they make their move!</color>
