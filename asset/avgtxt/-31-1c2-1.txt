@@ -1,54 +1,54 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>181</BIN><黑屏2><BGM>BGM_Room</BGM>:...Click. +...The transmission begins.
-AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>That doesn't mean she had to run off on her own... I'll catch up and follow the vehicle with her.</color>+<color=#00CCFF>If we do find the "Node", should we destroy it immediately?</color>+<color=#00CCFF>What on earth could it be...?</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AR15Mod(0)||:You don't need to know. The moment you find something like it, wait for my order and destroy it on the spot.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>...Understood.</color>+<color=#00CCFF>This channel isn't secure. I'll find some way to contact you after I catch up with AN-94.</color>
-AK12(0)<Speaker>AK-12</Speaker>||:Ange, something isn't quite right over here.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:Acknowledged. +I'll be waiting for the two of you to contact me again, AR-15.
-()||:Ange ends her transmission with AR-15.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:What happened?
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Something's happening at the wall. +You asked me to keep an eye on the local garrison units in addition to the infected creatures beyond the wall. +According to my previous observations, they've been patrolling according to a fixed pattern. +But just now, some of them broke off from their original patrol routes and began to assemble at the wall.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:Were they hacked by the enemy?
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Nyet... +I didn't detect any external signals. +The units that broke off are now using a new IFF signal in place of their original one. The signal characteristics...are that of the White Faction.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:"The leaves always wither after the roots rot." +So it's not just within the city, but here too...
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Ange, what should we do now?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||<黑点1>:You and M4 head over to the quarantine wall. Conduct recon and gather information there. +We'll decide on our next move depending on the situation.
-()||<黑点2><BGM>BGM_Empty</BGM><BIN>169</BIN>:...Several minutes later. +AK-12 and M4A1 reach the wall district.
-AK12(0)<Speaker>AK-12</Speaker>||<BGM>BGM_Sneak</BGM>:Ange, we've got a mutiny here. +The defenders inside the wall have split into two forces and are currently engaged in battle. +I'm sending you the data on the situation.
-AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Got it, understood.</color>
-AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Should we stay here and continue observing?
-AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>...No.</color>+<color=#00CCFF>AK-12, M4A1, the two of you will now assist the wall defenders in wiping out the rebel troops.</color>
-AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Ange, are you sure? Using military force on foreign territory, even if it's to wipe out rebel troops...
-AK12(2);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>When did you start being so indecisive?</color>
-AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Don't get mad... I just want to make sure if you really want us to carry out this order. +You need to think about the consequences of doing so.
-AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Of course I know what the consequences are, AK-12.</color>
-AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:So we'll be pointing our guns at humans then, is that it?
-AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>According to the information you sent, there aren't many humans among the rebels. The bulk of their fighting strength is made up of automaton units and mechs.</color>+<color=#00CCFF>Destroy their automatons, wreck their mechs, ease the pressure on the defenders... That's all you need to do. It'll be enough.</color>+<color=#00CCFF>Of course, if you have no choice, then you need to be prepared to open fire on human beings.</color>
-M4A1Mod(3)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:Ange, while I don't mean to second-guess your orders, is it really wise to intervene in a firefight that's unrelated to the mission? +Isn't our aim to find and destroy the Pike Node?
-M4A1Mod(3);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>This is most definitely not "unrelated to the mission", M4.</color>+<color=#00CCFF>What the rebels and the White Faction are doing is definitely linked to the Pike Node.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:Why do you think so?
-M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>That's because the same thing is happening on the other side of the city.</color>
-M4A1Mod(4)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:The peace conference, huh... You think this is a coordinated attack by the White Faction? +Even so, it doesn't prove that this conflict is more important than finding the Pike Node...
-M4A1Mod(4);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Waiting until you have "completely confirmed" information before acting invariably leads to regrettable consequences.</color>+<color=#00CCFF>You should understand that better than me.</color>
-M4A1Mod(4)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:But...
-M4A1Mod(4);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>M4, why are you so fixated on the Pike Node?</color>
-M4A1Mod(3)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:... +I just want to complete the mission.
-AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Although I'm inclined to agree with M4's opinion... +It can't be helped. Whatever you say, goes.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Since you understand, hurry up and get moving.</color>
-AK12(0)<Speaker>AK-12</Speaker>||<黑屏1>:In that case... +Task Force DEFY will begin a new operation.
-()||<BGM>BGM_Empty</BGM><黑屏2>:...Several minutes after Task Force DEFY joins the battle.
-()||<BGM>BGM_Sneak</BGM>:...A transmission comes through.
-AK12(0)<Speaker>AK-12</Speaker>||<SE1>Gunfight</SE1>:Eh, at a time like this...
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Sounds like you've already started fighting.</color>
-AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:We're wiping out a few defensive automatons while approaching the location where the defenders and rebels are exchanging fire. +Ange, if you're contacting us now... I trust it isn't good news, is it?
-AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:<color=#00CCFF>Correct.</color>+<color=#00CCFF>The storm's begun, and it's driving the infected creatures closer to the wall.</color>
-AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Ugh... That'll make things difficult. +Given the situation at the wall now...it looks like they won't be able to defend it at full strength.
-AK12(0);NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||<黑点1>:<color=#00CCFF>Worse still, the storm will intensify the speed of infection... Belgrade's defenders may end up facing several times the number of Infected they were expecting.</color>+<color=#00CCFF>You need to move faster before the situation becomes irrecoverable!</color>+<color=#00CCFF>There really isn't much time left!</color>
-()||<黑点2>:...In a passage within the quarantine wall.
-AK12(0)<Speaker>AK-12</Speaker>||<SE1>Gunfight</SE1>:There really are a lot of autonomous units here...
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:It's understandable for them to be present in such numbers in order to make up for the shortfall of soldiers.
-M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Still, they're making our job more troublesome. +Perhaps we should explain ourselves to the defenders to clear up their suspicions about us. That'll facilitate our future actions greatly.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:...I disagree. +We can't reveal DEFY's existence so easily.
-M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:But if the situation remains as it is, our mission will incur additional risk.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Let me think, there must be some other way...
-M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||<黑点1>:Some other way? Now I'm kind of looking forward to it. +Still, you'd better come up with it quickly... Time is running out for us.
+()||<BIN>181</BIN><黑屏2><BGM>BGM_Room</BGM>:...Клик. +...Трансляция начинается.
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Но это не значит, что ей нужно было убегать одной... Я догоню её и поеду за машиной вместе с ней.</color>+<color=#00CCFF>Если мы найдём «Узел», нужно ли его сразу уничтожить?</color>+<color=#00CCFF>Что это, черт возьми, может быть...?</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AR15Mod(0)||:Тебе не нужно этого знать. Как только найдёшь нечто подобное, дождись моего приказа и уничтожь это на месте.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>...Понятно.</color>+<color=#00CCFF>Этот канал небезопасен. Я найду способ связаться с тобой, как только догоню АН-94.</color>
+AK12(0)<Speaker>AK-12</Speaker>||:Анже, тут что-то не так.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:Согласна. +Буду ждать, когда вы обе снова свяжетесь со мной, AR-15.
+()||:Анже завершает связь с AR-15.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:Что случилось?
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:У стены что-то происходит. +Ты попросила меня следить не только за заражёнными существами за стеной, но и за местным гарнизоном. +Судя по моим предыдущим наблюдениям, они патрулировали по фиксированному маршруту. +Но только что некоторые из них отклонились от своих обычных маршрутов и начали собираться у стены.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Их хакнули?
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Нет... +Я не зафиксировала никаких внешних сигналов. +Отколовшиеся подразделения теперь используют новый опозновательный сигнал вместо прежнего. Характеристики сигнала... соответствуют «Белой фракции».
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:«Листья всегда увядают после того, как сгниют корни». +Значит, это происходит не только в городе, но и здесь...
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Анже, что нам теперь делать?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||<黑点1>:Ты и M4 отправляетесь к карантинной стене. Проводите разведку и соберите там информацию. +Мы решим, что делать дальше, в зависимости от ситуации.
+()||<黑点2><BGM>BGM_Empty</BGM><BIN>169</BIN>:...Через несколько минут. +AK-12 и M4A1 добираются до Стены.
+AK12(0)<Speaker>AK-12</Speaker>||<BGM>BGM_Sneak</BGM>:Анже, у нас тут бунт. +Защитники внутри стен разделились на две группы и сейчас сражаются друг с другом. +Я вышлю тебе данные о ситуации.
+AK12(0);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker><scan><通讯框>||:<color=#00CCFF>Понял, поняла.</color>
+AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Может, останемся здесь и продолжим наблюдать?
+AK12(0);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>...Нет.</color>+<color=#00CCFF>AK-12, M4A1, вам двоим теперь предстоит помочь обороняющимся на стене уничтожить мятежные отряды.</color>
+AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Анже, ты уверена? Применять военную силу на чужой территории, даже если это для уничтожения мятежных отрядов...
+AK12(2);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>С каких это пор ты стала такой нерешительной?</color>
+AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Не обижайся... Я просто хотела убедиться, что ты на самом деле хочешь, чтобы мы выполнили этот приказ. +Тебе нужно подумать о последствиях такого решения.
+AK12(0);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>Конечно, я знаю, к чему это приведёт, АК-12.</color>
+AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Значит, мы будем целиться в людей, так?
+AK12(0);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>Судя по информации, которую ты прислала, среди мятежников не так много людей. Основную часть их боевых сил составляют отряды автоматонов и мехов.</color>+<color=#00CCFF>Уничтожь их автоматонов, разбей их мехов, ослабь давление на защитников... Это всё, что тебе нужно сделать. Этого будет достаточно.</color>+<color=#00CCFF>Конечно, если у тебя нет выбора, то будь готов открыть огонь по людям.</color>
+M4A1Mod(3)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:Анже, я не хочу подвергать сомнению твои приказы, но разве разумно вмешиваться в столкновение, которое не имеет отношения к заданию? +Разве наша цель не состоит в том, чтобы найти и уничтожить узел системы «Щука»?
+M4A1Mod(3);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>Это точно никак не «не имеет отношения к заданию», M4.</color>+<color=#00CCFF>То, чем занимаются мятежники и Белая фракция, определенно связано с узлом «Щука».</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:Почему ты так думаешь?
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>Все потому, что то же самое происходит и на другом конце города.</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:Мирная конференция, да... Думаешь, это скоординированная атака Белой фракции? +Но даже если так, это не доказывает, что этот конфликт важнее, чем поиски узла «Щука»...
+M4A1Mod(4);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>Если ждать, пока информация не будет «полностью подтверждена», прежде чем действовать, это неизбежно приведет к печальным последствиям.</color>+<color=#00CCFF>Ты должна понимать это лучше, чем я.</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:Но...
+M4A1Mod(4);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>M4, почему ты так цепляешься за узел «Щука»?</color>
+M4A1Mod(3)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:... +Я просто хочу выполнить задание.
+AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Хотя я склонна согласиться с мнением M4... +Ничего не поделаешь. Как скажешь, так и будет.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>Раз ты всё поняла, то давай быстрее приступай к делу.</color>
+AK12(0)<Speaker>AK-12</Speaker>||<黑屏1>:В таком случае... +Оперативная группа DEFY приступит к новой операции.
+()||<BGM>BGM_Empty</BGM><黑屏2>:...Через несколько минут в бой вступает оперативная группа DEFY.
+()||<BGM>BGM_Sneak</BGM>:...Входящая передача.
+AK12(0)<Speaker>AK-12</Speaker>||<SE1>Gunfight</SE1>:Эх, в такое время...
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker><scan><通讯框>||:<color=#00CCFF>Похоже, ты начала сражаться.</color>
+AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Мы устранили несколько роботов, приближаясь к месту, где защитники и мятежники ведут перестрелку. +Анже, если ты сейчас связываешься с нами... Полагаю, новости не из приятных, да?
+AK12(0);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:<color=#00CCFF>Верно.</color>+<color=#00CCFF>Буря уже началась, и она загоняет заражённых тварей к стене.</color>
+AK12(0)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)||:Эх... Это усложнит дело. +Учитывая текущую ситуацию у стены... похоже, они не смогут защищать её в полном составе.
+AK12(0);NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||<黑点1>:<color=#00CCFF>Хуже того, шторм ускорит распространение инфекции... Защитникам Белграда, возможно, придётся столкнуться с многократно большим количеством заражённых, чем они ожидали.</color>+<color=#00CCFF>Тебе нужно действовать быстрее, пока ситуация не стала безнадёжной!</color>+<color=#00CCFF>Времени действительно осталось совсем немного!</color>
+()||<黑点2>:...В проходе внутри карантинной зоны.
+AK12(0)<Speaker>AK-12</Speaker>||<SE1>Gunfight</SE1>:Здесь действительно дофига роботов...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Понятно, что их так много, ведь они должны восполнить нехватку солдат.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Тем не менее, они усложняют нам работу. +Может, нам стоит поговорить с защитниками, чтобы развеять их подозрения о нас. Это значительно облегчит наши дальнейшие действия.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:...Я не согласна. +Мы не можем так просто раскрыть существование DEFY.
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:Но если ситуация останется прежней, наша миссия подвергнется дополнительному риску.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:Дай-ка подумать, наверняка есть какой-то другой способ...
+M4A1Mod(0);AK12(0)<Speaker>AK-12</Speaker>||<黑点1>:А есть другой способ? Я даже с нетерпением жду его. +Тем не менее, тебе лучше поспешить... У нас время на исходе.
