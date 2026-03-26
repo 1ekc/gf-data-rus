@@ -1,162 +1,163 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>86</BIN><黑屏2><BGM>BGM_Danger</BGM>:...In the streets.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:RO635 attempts to fire at Nimogen from the side, but her target dodges the attack with ease. +Suddenly extending her tentacles, Nimogen grabs RO635 by the ankles and flings her brutally from the height of two  stories onto the ground. Before RO635 can scramble to her feet, Nimogen is already right before her, resting a foot on her chest and leering at her impishly.
-RO635(4)<Speaker>RO635</Speaker>||:...Get your filthy foot off me.
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:It wasn't actually all that satisfying, but I suppose you've already done the best you could as a piece of junk. +Heeheehee, so this is all Griffin amounts to!
-()<Speaker></Speaker>||<SE1>Explode</SE1>:BOOM!
-()<Speaker></Speaker>||:All of a sudden, a grenade explodes right where Nimogen was just a second ago. +RO635 crawls out from within the smokescreen and dashes behind the nearest cover.
-RO635(5)<Speaker>RO635</Speaker>||<震屏>:Are you trying to blow me to pieces, SOP-II?!
-()<Speaker></Speaker>||:That grenade interrupted Nimogen's attempt on RO635's life just in time. +In the smokescreen, a figure flits behind cover at lightning speed. +With an equally creepy grin, she peers at the black-clad girl just meters away.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Heheh, my bad. It wasn't on purpose... +Anyway, I'm here!
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:SOP-II flashes a smile at the piece of cover that RO635 is hiding behind and loads her weapon with another grenade.
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||<BGM>BGM_Battle</BGM>:Oh wow, looks like the real fun has finally got here. Heeheehee, now this is more like it~
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Hmm? Are all Nytos so snotty these days? Still weak as ever, but your blabbing skills sure have improved~
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:I said I'm not Ny⁠—
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Nyto is Nyto, just as trash is trash. Even if you're something different, as long as you're categorized as trash, I don't care.
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:Heehee, now I'm starting to get angry. The last person who riled me up got turned into a bloody sludge. Unfortunately, Dolls can only become a pile of scrap metal.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Humph, still spouting rubbish, I see. If you could scare me, my name wouldn't be SOP-II!
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:It appears that you still harbor some misconceptions about me. I really must clear them up...before I lop your head off your shoulders, heeheehee~
-RO635(4)<Speaker>RO635</Speaker>||:SOP-II...we've got to find a way to get the Chairwoman out of here! We can't afford to waste too much time on her! +The Commander said they're almost done clearing the way to the cathedral!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Then we'll just have to make this a draw! Easy-peasy~
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:Heeheehee... That's the spirit! I like you~ +Now, show me what you've got!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang bang! Bang bang bang!
-()<Speaker></Speaker>||:The two exchange fire. +SOP-II's firepower isn't strong enough to actually repel the girl in black, but it's enough to slow her down. +Seizing this opportunity, RO635 retreats with the Chairwoman.
-RO635(4)<Speaker>RO635</Speaker>||:This is RO635! I have rendezvoused with the rescue team and am now trying to evade enemy pursuit!
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker><scan><通讯框>;RO635(4)||:<color=#00CCFF>Received!</color> +<color=#00CCFF>Just head straight to the cathedral! Our assault team has secured the road, but the enemy is relentless in their attacks so we can't hold them off for long!</color>
-RO635(4)<Speaker>RO635</Speaker>||:Roger that! We'll be right there!
-()<Speaker></Speaker>||<SE1>Explode</SE1>:BOOM!
-()<Speaker></Speaker>||:The laughter is even more eerie amidst the sound of artillery. +Defending against Nimogen's onslaught, SOP-II has no wish to linger in battle. She creates traps every now and then to put more distance between Nimogen and herself.
-RO635(2)<Speaker>RO635</Speaker>||:Nicely done, SOP-II!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Heheh, this is more like it! It's much more interesting than fighting the cannon fodder from before!
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:Is that all it takes to impress you?
-RO635(5)<Speaker>RO635</Speaker>||:SOP-II, watch out!
-()<Speaker></Speaker>||:Nimogen suddenly darts forward and wraps her tentacle around SOP-II's neck. Just as she thinks victory is hers, SOP-II tears off the tentacle and drags Nimogen towards herself, then delivers a massive kick that sends her flying off.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Game over~
-()<Speaker></Speaker>||:SOP-II launches a grenade in the same direction. It lands on the ground at the same time as Nimogen. With her back to the violent explosion in the distance, SOP-II pulls RO out from behind her cover.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Sorry, RO. I didn't obey your order to make it a draw.
-RO635(2)<Speaker>RO635</Speaker>||<黑屏1>:You only know how to show off, don't you... Never mind, let's hurry and regroup with the Commander!
-()<Speaker></Speaker>||<BIN>136</BIN><黑屏2><BGM>BGM_Empty</BGM>:...Outside the cathedral.
-()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM>:Under the Commander's command, the Dolls eliminate the remaining ELIDs around the perimeters and establish a defense line around the cathedral.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:K's intel isn't accurate! He said we should be able to break through in one go! +Can we even last that long under such heavy fire?! +And there are simply way too many ELIDs in the area!
-Lewis(0)<Speaker>Lewis</Speaker>||:(Gags) All these fluids are disgusting! +Positively repugnant! Even I can't bear it any longer!
-P22(0)<Speaker>P22</Speaker>||<黑屏1>:Just hang in there for a bit. The security entourage hasn't made it here yet. We've got to keep this up until they bring the VIP and regroup with us... +Good news! Look, they're here!
-()<Speaker></Speaker>||<BIN>86</BIN><黑屏2>:...Ten minutes later. +Somewhere on the battlefield.
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||<黑屏1>:Heeheehee... Never mind... +It's okay, don't sweat it. It doesn't hurt to let the rats have some fun. After all... +I will eventually reduce you all to ashes. +That's right...I will burn the living hell out of you! +Heehee... Unforgivable... Utterly unforgivable! +I'm going to tear you apart piece by piece! Just you wait... Just you wait!
-()<Speaker></Speaker>||<BIN>136</BIN><黑屏2>:...15 minutes later. +At the cathedral.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:It's the Commander!
-RO635(2)<Speaker>RO635</Speaker>||:You're back!
-()<Speaker>Commander</Speaker>||:Yep, it's safe outside for the time being, and the HOCs have also been deployed in secure sectors.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Commander, mission accomplished! RO and I have brought the VIP with us!
-RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:(Hey, don't fish for compliments the moment you see the Commander...)
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Heheh, but we deserve to be praised for completing the mission!
-()<Speaker>Commander</Speaker>||:Sorry but you won't have time to rest up. +There is still a considerable amount of Paradeus units and infected creatures out there... Our situation hasn't improved all that much.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:No problem! I'll be fine as long as there are enemies to kill! +We even ran into the commander of those white things! She tried to take the VIP from RO but I took care of her with a "BOOM"! +It's just a bit of a shame that I couldn't get a piece of her as souvenir...
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>;M4 SOPMOD IIMod(0)||:...Thank goodness you didn't bring back some weird body part... +I don't think my heart could take it otherwise...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Still, that "person" was really strange. She looked like a Nyto but insisted that she wasn't. +And the way she smiled... How should I put it...? It gave me the chills!
-()<Speaker></Speaker>||:My heart misses a beat at the sound of that. +Did SOP-II feel what I felt...? I knew it - it was a Nyto that I saw... What is she planning in secret...? +An uncanny sense of foreboding is gradually expanding in my mind.
-()<Speaker>Commander</Speaker>||:SOP-II, have you really eliminated that Nyto?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:She called herself Nimogen and claimed to be different than the other Nytos. She was just plain weird... I launched a grenade at her, but I don't know if it actually killed her. Should I go back and look for her body?
-()<Speaker>Commander</Speaker>||:No, thank you, SOP-II. You've done enough.
-()<Speaker></Speaker>||:An unsettling smile... The attempt to abduct the VIP... The assault in the conference hall and on our Dolls... These must all be related, but I simply don't have enough time to think about that. It's challenging enough just to stand our ground here in the cathedral.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Are you okay?
-()<Speaker></Speaker>||:The gentle question pulls my thoughts back to the tense present.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Is...everything alright? +You've been looking very grim.
-NPC-Ambassador(0)<Speaker>Commander</Speaker>||:I'm fine... Excuse me.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Um... I know I shouldn't interrupt you, but... +There are refugees and children seeking shelter in the cathedral. May I ask when your reinforcements will arrive?
-NPC-Ambassador(0)<Speaker>Commander</Speaker>||:Reinforcements...will have to take some time to get here. +Please stay inside the building. It's too dangerous outside. +Kalina, protect the Chairwoman!
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>;NPC-Ambassador(0)||:Right, Madam, please come inside the cathedral with me. It's very dangerous here.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Alright...
-NPC-Ambassador(0)<Speaker></Speaker>||:Chairwoman Ulrich walks toward the cathedral, but turns back halfway.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Commander, you don't seem to be a local, nor do you look like an agent from the Bureau of State Security. Who exactly...
-()<Speaker>Commander</Speaker>||:I'm nothing more than someone from a struggling PMC.
-()<Speaker></Speaker>||:After reining in my facial expression, I quickly brief RO635 on the current tactical situation and our plan of action.
-RO635(2)<Speaker>RO635</Speaker>||:I've reorganized our vanguard teams but it still doesn't seem to be enough... +What do we do next? +We've already suffered very heavy losses in the previous fight. I don't think we'll be able to maintain our defense line for very long in a battle of attrition.
-()<Speaker></Speaker>||<SE1>Explode</SE1>:BOOM!
-()<Speaker></Speaker>||:Waves of the explosive blasts come crashing through, affecting even the interior of the cathedral. One can just about hear the shattering of some works of art, as if they've been abandoned by God.
-RO635(4)<Speaker>RO635</Speaker>||:Dammit, another barrage. They're trying to reduce our numbers before the next round of attack. Commander, what do we do?
-()<Speaker>Commander</Speaker>||:We have no choice but to abandon this position, but the cathedral can probably still buy us some time... +Kalina, are the comms still down?
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:I haven't been able to get in touch with our logistics teams. I've been attempting to contact K on my radio communicator, but the interference is really bad so I'm still trying!
-()<Speaker>Commander</Speaker>||:Tsk... How much longer will be we able to stop these bastards with just us...?
-()<Speaker></Speaker>||<SE1>Explode</SE1>:BOOOOM!
-()<Speaker></Speaker>||:Another blast wave rolls in, and the T-Dolls barely manage to keep their formation intact.
-RO635(5)<Speaker>RO635</Speaker>||:Commander, you'll be in danger if we don't go now!
-()<Speaker>Commander</Speaker>||<黑屏1>:Dammit! All teams, retreat into the cathedral!
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:...Ten minutes later. +Inside the cathedral.
-()<Speaker></Speaker>||<BGM>BGM_Room</BGM>:Once the teams have settled in, we started mounting our defenses against fire from outside the building. +Fortunately, thanks to the distance, we weren't affected by any enemy bombardment during the retreat.
-RO635(2)<Speaker>RO635</Speaker>||:The cathedral interior is safe, but we're still losing manpower. +I'll now arrange for more Dolls to man the defenses against an invasion.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Commander, we're getting through!
-()<Speaker></Speaker>||:Click.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:K, do you copy?! +We've already retreated into the cathedral, but the enemy have almost caught up and we don't have much backup to support us! When can we expect someone to assist in our withdrawal?!
-NPC-KalinReporter(0);NPC-Jason(0)<Speaker></Speaker>K<scan><通讯框>||:Pzzzt⁠— +<color=#00CCFF>There are—everywhere in the city—</color> +Pzzzt— +<color=#00CCFF>It's difficult to deploy—</color>
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:That's exactly why we need reinforcements! +What are our new orders? Also, there are civilians and children here; without support, they'll—
-()<Speaker></Speaker>||:—The transmission gets cut off.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Goddammit! This broken piece of junk isn't working when it counts! +Was it damaged on our way here...? There should be some spare parts... +Commander? What do we do now? Looks like we won't be getting reinforcements for a while...
-NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:If they really can't make it, then we'll have to move the VIP even farther away... +But there are also civilians here... +Must we prepare for the worst...?
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Commander... +Don't give up just yet! I'll be able to fix this radio soon. K must have asked us to retreat to the cathedral for a reason! We'll just have to keep the Chairwoman safe... +Huh? Where is she? Wasn't she just...standing right next to me? +This is bad, Commander! The Chairwoman is missing!
-()<Speaker></Speaker>||<SE1>Explode</SE1>:BOOOM!
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Another artillery explosion has shaken small chunks off the stone pillars in the cathedral. +I look to the side. The Chairwoman appears to be shielding someone with her body, and the fallen pieces of debris are all sprinkled onto her back. SOP-II runs over at the sound.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Truth</BGM>:Huh? She...she's right here! Kalin, the Chairwoman isn't missing!
-()<Speaker></Speaker>||:SOP-II shouts. +A person is huddling underneath the Chairwoman. +It is...a child - a shuddering child with a tear-streaked face.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Did you save the child? +...That was way too dangerous! If you had gotten hit by a rock, we'd all be finished!
-()<Speaker></Speaker>||:Probably due to the previous shockwave, the Chairwoman stumbles as she's getting to her feet. +The child in her arms has also come to his senses. He breaks free from the Chairwoman's embrace and runs off to cower in a corner.
-RO635(3)<Speaker>RO635</Speaker>||:Are you alright?
-()<Speaker></Speaker>||:The Chairwoman nods, but she seems a little anxious.
-()<Speaker>Commander</Speaker>||:Cough... Rest assured. +We're not so pathetic that we can't even defend a cathedral. +Please don't worry about your personal safety. We will do everything we can.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:No...I'm not worried about myself...
-NPC-Ambassador(0)<Speaker>Commander</Speaker>||:Hmm?
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:I heard your discussion...about the retreat...
-NPC-Ambassador(0)<Speaker>Commander</Speaker>||:Sorry, but that is our only option if we can't get any reinforcements in time.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Can you promise me one thing... +Kind-hearted Commander?
-NPC-Ambassador(0)<Speaker>Commander</Speaker>||:...Go ahead.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Please do your best to protect the civilians and children here.
-NPC-Ambassador(0)<Speaker>Commander</Speaker>||:That is the plan, so⁠—
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:I won't leave this place alone. I don't care if I live or die. +To be completely honest, I'm not even sure if I'm actually worth protecting. I'm nothing more than a bargaining chip.
-NPC-Ambassador(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:But our mission is to protect you! Besides, you're the Chairwoman of that Pan-something, which makes your a very important person!
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:I'm not anyone important, and I cannot bear to walk away while leaving others to die. +The world I'm trying to build is for everyone...everyone who survives.
-()<Speaker></Speaker>||:RO635 gazes at the child still cowering in the corner. He looks all but numb because of constant fear.
-RO635(3)<Speaker>RO635</Speaker>||:... +I think I see your point...
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:So long as the cathedral holds, rather than dashing through hails of bullets and swarms of ELIDs, the civilians have a much higher chance of living if they stay here... +If I leave the cathedral with you, how long will they survive under the circumstances?
-()<Speaker></Speaker>||:I don't know what to say. +I don't even know if I was right to swallow the "NO!" that I almost blurted out. +Perhaps...I simply don't have her level of resolve.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:As a representative of the Union and a Rossartrist to boot, I can sense the antagonism towards me, both here and when I was talking to the Neo-Soviets. +But the people are innocent. I hope that these people, regardless of where their loyalties lie, can be freed from this state of decadence.
-NPC-Ambassador(0);RO635(2)<Speaker>RO635</Speaker>||:Is that why you wanted to take part in this conference...?
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Yes, my dream is to break down these barriers of mistrust. +To bridge the gulfs among nations; to bring people together... +The Union intelligence service had actually warned us beforehand that there would be an insurgence here. To minimize the loss of lives, I've only brought a skeleton crew with me... In the end, those people all died because of me...
-()<Speaker></Speaker>||:For some reason, I can't help but take another look at the child who's staring at us from the corner with unreadable eyes.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Commander, I know I am making a very overbearing request. +If you still decide to retreat, please leave some weapons for me. +No matter how this ends, no matter what happens to me... It's enough for me if I can stay true to my dream until I breathe my last.
-()<Speaker>Commander</Speaker>||:<color=#A9A9A9>(Indiscriminate peace...huh.)</color>
-()<Speaker></Speaker>||:I look into the Chairwoman's eyes... +Strong, unquestionable, yet without any sign of malice. Candid and unyielding eyes.
-()<Speaker>Commander</Speaker>||:I don't personally agree with your views. +However, you've probably guessed as much. +We will do what we can to hold this cathedral.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Thank you. I understand that I'm practically holding you hostage with my words. +But right now you're the only one who has the power to save more lives. +I can see that you're a good person. Only when power is used justly will the world become a better place.
-指挥官()<Speaker>Commander</Speaker>||:Is that what you mean by being "a shining beacon in a brave new world"?
-()<Speaker></Speaker>||<黑屏1>:The Chairwoman gives us a small nod. Even now, artillery fire can still be heard from outside the cathedral.
-()<Speaker></Speaker>||<BIN>136</BIN><黑屏2><BGM>BGM_Empty</BGM>:A few minutes later... Behind the cathedral.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||<BGM>BGM_Sneak</BGM>:Civilians from the residences behind the cathedral are retreating this way! The assault team is trying to escort them here! +Everyone else maintain fire on the enemies ahead, or they'll break through our defenses!
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:TEC-9, you go too!
-TEC9(0)<Speaker>TEC-9</Speaker>||:Huh? B-b-but they're humans...
-X95(0)<Speaker>X95</Speaker>||<黑屏1>:It's okay, Kalin. I'll go. +TEC-9, take my place for now!
-()<Speaker></Speaker>||<黑屏2>:...Ten minutes later.
-()<Speaker></Speaker>||:X95 joins the other Dolls in escorting the two humans into the cathedral. +However, she notices that these humans don't look particularly happy about being rescued.
-X95(0)<Speaker>X95</Speaker>||:(Whispers) Kalin, is there...something wrong with them...?
-()<Speaker></Speaker>||:Kalina glances over at the civilians and sighs softly at X95.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:There are always people like these...in every place ravaged by war. +You'll just have to get used to it...
-()<Speaker></Speaker>||:X95 is still pondering Kalina's words when something suddenly hit her on the back. +She turns around and sees the two recently rescued humans. +Crouching and shivering in the corner, they glare at X95 hatefully with rocks in their hands.
-X95(0)<Speaker>X95</Speaker>||:Um...
-()<Speaker></Speaker>||<震屏><BGM>BGM_Empty</BGM>:Thud!
-()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:Before X95 can finish her sentence, the female human hurls a rock at her. +What appears to be a chunk of a shattered statue hits X95 squarely above her left eye.
-男性人类()<Speaker>Male Human</Speaker>||:...They're not human! These inhuman things have been slaughtering people in the streets!
-女性人类()<Speaker>Female Human</Speaker>||:That-that's right! Our home...our home was destroyed in the bombing... (Sobs) Dammit...
-()<Speaker></Speaker>||:X95 is a little flustered. She slowly approaches the humans and kneels before them.
-男性人类()<Speaker>Male Human</Speaker>||:W-what are you doing?! Are you gonna kill us now?! Go to hell, you monsters!
-X95(0)<Speaker>X95</Speaker>||:...I'm so sorry.
-()<Speaker></Speaker>||:...The man raised his hand to throw another rock at her, but instead of blocking it, X95 merely apologized softly. +The humans, completely taken aback, freeze in their tracks.
-X95(0)<Speaker>X95</Speaker>||:I am very sorry... +It may sound a bit odd to you, but...I completely understand your pain.
-X95(0)<Speaker>Female Human</Speaker>||:An inhuman thing saying it can understand our pain. You think we'd believe you? +D-Don't think we'd be grateful to you just because you brought us here! +The fighting started because of you! If it hadn't been for you...our home wouldn't have been destroyed!
-X95(0)<Speaker>X95</Speaker>||:... +I can't argue with that. +But we're doing everything we can to avoid unnecessary fights... Dolls like us don't have a say in a lot of things...
-()<Speaker></Speaker>||:The humans have nothing to say to that.
-X95(0)<Speaker>X95</Speaker>||:That's why I'm truly sorry. +But I hope you can understand that even Dolls are on your side. +I want everybody to live... which is why we'll keep fighting. +If the war keeps raging on, I also wish that Dolls will be the only ones expended...
-()<Speaker></Speaker>||:The humans stop verbally abusing X95. The man lowers his head in silence, and the woman weeps. +Having soothed the humans, X95 walks over to Kalina.
-X95(0)<Speaker>X95</Speaker>||:They were overreacting to Dolls because of the trauma they suffered at Paradeus' hands.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:It must've been tough on you... I should've been the one to deal with them...
-NPC-KalinReporter(0);X95(0)<Speaker>X95</Speaker>||:It's fine. It wasn't their fault. +Kalin, do you think this conflict will ever end?
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>;X95(0)||:Of course I want it to be over soon.
-NPC-KalinReporter(0);X95(0)<Speaker>X95</Speaker>||:(Mutters) Yeah, then there will be no more civilian casualties...
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>;X95(0)||<黑屏1>:... +If only the world would never see another conflict like this ever again.
+()<Speaker></Speaker>||<BIN>86</BIN><黑屏2><BGM>BGM_Danger</BGM>:...На улицах.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:RO635 пытается выстрелить в Нимоген сбоку, но та с легкостью уклоняется от атаки. +Внезапно вытянув щупальца, Нимоген хватает RO635 за лодыжки и безжалостно швыряет её с высоты двух этажей на землю. Неуспев подняться на ноги, RO635 видит, что Нимоген уже стоит прямо перед ней, прижав ногу к её груди и лукаво ухмыляется.
+RO635(4)<Speaker>RO635</Speaker>||:...Убери от меня свою вонючую ногу.
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||:На самом деле это было не так уж и круто, но, наверное, ты уже сделала всё, на что способна, как неудачница. +Хи-хи-хи, так вот на что способен Грифон!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:БАБАХ!
+()<Speaker></Speaker>||:Внезапно прямо там, где секунду назад стояла Нимоген, взрывается граната. +RO635 вылезает из-под дымовой завесы и бросается за ближайшее укрытие.
+RO635(5)<Speaker>RO635</Speaker>||<震屏>:Ты что, хочешь меня разнести на куски, SOP-II?!
+()<Speaker></Speaker>||:Эта граната как раз вовремя помешала Нимоген покончить с RO635. +В дымовой завесе фигура с молниеносной скоростью мелькает за укрытие. +С такой же жуткой улыбкой она пристально смотрит на девушку в чёрном, стоящую всего в нескольких метрах от неё.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Хе-хе, моя вина. Я не специально... +В любом случае, я здесь!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:SOP-II улыбнулась, глядя на укрытие, за которым прячется RO635, и зарядила оружие ещё одной гранатой.
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||<BGM>BGM_Battle</BGM>:Ого, похоже, наконец-то началось самое интересное. Хи-хи-хи, вот это уже гораздо лучше~
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Хм? Все Нито в последнее время такие напыщенные? Ты по-прежнему слаба, но говорить научилась~
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||:Я же говорила, что я не Ни⁠—
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Нито — это Нито, так же как мусор — это мусор. Даже если ты кто-то другая, пока ты относишься к категории мусора, мне всё равно.
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||:Хеехее, вот я и начинаю злиться. Последний, кто меня разозлил, превратился в кровавую кашу. К сожалению, Куклы могут превратиться разве что в кучу металлолома.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Хм, видимо, ты всё ещё несешь херь. Если бы ты могла меня напугать, меня бы не звали SOP-II!
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||:Похоже, у тебя до сих пор есть некоторые заблуждения по поводу меня. Мне просто необходимо их развеять… прежде чем я отрублю тебе голову, хеехеехее~
+RO635(4)<Speaker>RO635</Speaker>||:SOP-II... нам надо как-то вытащить Председательницу отсюда! Нельзя тратить на неё слишком много времени! +Командир сказал, что они почти расчистили путь к собору!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Тогда придется сыграть по-честному! Проще простого~
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||:Хеехеехее... Вот это настрой! Ты мне нравишься~ +А теперь покажи, на что ты способна!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Бенг-бенг! Бенг-бенг-бенг!
+()<Speaker></Speaker>||:Они обмениваются выстрелами. +Огневой мощи SOP-II не хватает, чтобы окончательно отбить атаку девушки в чёрном, но этого достаточно, чтобы замедлить её. +Воспользовавшись моментом, RO635 отступает вместе с Председательницей.
+RO635(4)<Speaker>RO635</Speaker>||:Это RO635! Я встретилась с группой поддержки и сейчас пытаюсь уйти от преследования врага!
+NPC-KalinReporter(0)<Speaker>Калина</Speaker><scan><通讯框>;RO635(4)||:<color=#00CCFF>Принято!</color> +<color=#00CCFF>Просто беги прямо к собору! Наша штурмовая группа обеспечила проход, но враг не перестает атаковать, так что мы не сможем удержать их долго!</color>
+RO635(4)<Speaker>RO635</Speaker>||:Поняла! Мы сразу же побежим!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:БАБАХ!
+()<Speaker></Speaker>||:Среди звуков артиллерии смех звучит ещё более зловеще. +Отбивая атаки Нимоген, SOP-II не хочет задерживаться в бою. Она то и дело создаёт ловушки, чтобы увеличить расстояние между собой и Нимоген.
+RO635(2)<Speaker>RO635</Speaker>||:Отлично сработано, SOP-II!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Хехе, вот это да! Это гораздо интереснее, чем сражаться с пушечным мясом, как раньше!
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||:Это всё, что нужно, чтобы произвести на тебя впечатление?
+RO635(5)<Speaker>RO635</Speaker>||:SOP-II, берегись!
+()<Speaker></Speaker>||:Нимоген внезапно бросается вперед и обхватывает щупальцем шею SOP-II. Как только она думает, что победа уже в кармане, SOP-II срывает щупальце, притягивает Нимоген к себе, а затем наносит мощный удар ногой, от которого та отлетает в сторону.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Гейм овер~
+()<Speaker></Speaker>||:SOP-II бросает гранату в том же направлении. Она падает на землю одновременно с Нимоген. Стоя спиной к мощному взрыву вдали, SOP-II вытаскивает RO из-за укрытия.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Извини, RO. Я не следовала твоему приказу и тянуть время.
+RO635(2)<Speaker>RO635</Speaker>||<黑屏1>:Ты только и умеешь, что хвастаться, да... Ладно, неважно, давай поспешим и присоединимся к Командиру!
+()<Speaker></Speaker>||<BIN>136</BIN><黑屏2><BGM>BGM_Empty</BGM>:...Возле собора.
+()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM>:Под командованием Командира, Куклы уничтожают оставшихся ЭЛИД по периметру и выстраивают линию обороны вокруг собора.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Информация от К неверна! Он сказал, что мы сможем прорваться одним махом! +А мы вообще сможем продержаться так долго под таким сильным обстрелом?! +Да и ЭЛИД в этом районе просто слишком много!
+Lewis(0)<Speaker>Льюис</Speaker>||:(Давится) Все эти жидкости просто отвратительны! +Совершенно невыносимо! Даже я больше не могу это выносить!
+P22(0)<Speaker>P22</Speaker>||<黑屏1>:Потерпи еще чуть-чуть. Охрана ещё не добралась сюда. Нам нужно продержаться, пока они не приведут VIP-персону и не перегруппируются с нами... О, вот и они!
+()<Speaker></Speaker>||<BIN>86</BIN><黑屏2>:...Десять минут спустя. +Где-то на поле сражения.
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||<黑屏1>:Хеехеехее... Неважно... +Ничего страшного, не переживай. Пусть крысы немного повеселятся. В конце концов... +Я всё равно со временем превращу вас всех в пепел. +Именно... Я сожгу вас дотла! +Хеехее... Непростительно... Совершенно непростительно! +Я разорву тебя на куски! Подожди... Просто подожди!
+()<Speaker></Speaker>||<BIN>136</BIN><黑屏2>:...15 минут спустя. +У собора.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Это Командир!
+RO635(2)<Speaker>RO635</Speaker>||:Ты вернулся!
+()<Speaker>Командир</Speaker>||:Ага, на улице пока безопасно, да и ГОгПы тоже развернуты в безопасных секторах.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Командир, миссия выполнена! Мы с RO доставили VIP-персону!
+RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:(Эй, не надо выпрашивать комплименты, как только увидишь Командира...)
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Хехе, но мы заслуживаем похвалы за то, что выполнили задание!
+()<Speaker>Командир</Speaker>||:Извини, но у тебя не будет времени на отдых. +Там всё ещё осталось довольно много отрядов Парадеуса и заражённых существ... Наше положение не особо улучшилось.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Без проблем! Мне будет норм, пока есть враги, которых можно убивать! +Мы даже наткнулись на командира тех белых штук! Она пыталась увести VIP-персону от RO, но я с ней разобралась одним «БУМ»! +Жаль только, что не удалось оторвать от нее кусочек на память...
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>;M4 SOPMOD IIMod(0)||:...Слава богу, ты не притащила какую-нибудь странную часть тела... +Думаю, моё сердце бы этого не выдержало...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Тем не менее, эта «девушка» была действительно странной. Она выглядела как Нито, но настаивала, что это не так. +И как она улыбалась… Как бы это сказать…? У меня аж мурашки по коже побежали!
+()<Speaker></Speaker>||:От этих слов у меня сердце замерло. +Неужели SOP-II почувствовалf то же, что и я...? Я так и знал — это была Нито, которую я видел... Что она там замышляет втайне...? +В моей голове постепенно нарастает странное предчувствие.
+()<Speaker>Командир</Speaker>||:SOP-II, ты действительно уничтожила этого Нито?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Она называла себя Нимоген и утверждала, что отличается от остальных Нито. Она была просто странная... Я бросила в неё гранату, но не знаю, убила ли она её. Может, мне вернуться и поискать её тело?
+()<Speaker>Командир</Speaker>||:Нет, спасибо, SOP-II. Ты уже много сделала.
+()<Speaker></Speaker>||:Пугающая улыбка... Попытка похищения важной персоны... Нападение в конференц-зале и на наших Кукол... Все это, наверное, как-то связано, но у меня просто нет времени об этом думать. И так достаточно сложно просто удержать позиции здесь, в соборе.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Ты в порядке?
+()<Speaker></Speaker>||:Этот мягкий вопрос возвращает мои мысли в насыщенное настоящее.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Всё... в порядке? +Ты выглядишь очень мрачно.
+NPC-Ambassador(0)<Speaker>Командир</Speaker>||:Я в порядке... Извините.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Хм... Я знаю, что не стоит тебя беспокоить, но... +В соборе укрылись беженцы и дети. Можно спросить, когда прибудут твои подкрепления?
+NPC-Ambassador(0)<Speaker>Командир</Speaker>||:Подкрепление... прибудет не скоро. +Пожалуйста, оставайся внутри здания. На улице слишком опасно. +Калина, защищай Председательницу!
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>;NPC-Ambassador(0)||:Хорошо, мадам, пожалуйста, пройдите со мной внутрь собора. Здесь очень опасно.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Хорошо...
+NPC-Ambassador(0)<Speaker></Speaker>||:Председательница Ульрих направляется к собору, но на полпути поворачивает назад.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Командир, ты, похоже, не местный, да и на агента Бюро государственной безопасности тоже не похож. Кто ты, собственно...
+()<Speaker>Командир</Speaker>||:Я всего лишь сотрудник небольшой ЧВК, которая с трудом сводит концы с концами.
+()<Speaker></Speaker>||:Сдерживая свои эмоции, я быстро ввожу RO635 в курс дела о текущей тактической обстановке и нашем плане действий.
+RO635(2)<Speaker>RO635</Speaker>||:Я реорганизовала наши передовые отряды, но, похоже, этого всё равно недостаточно... +Что делать дальше? +Мы уже понесли очень тяжёлые потери в предыдущем бою. Не думаю, что нам удастся долго удерживать линию обороны в затяжной битве.
+()<Speaker></Speaker>||<SE1>Explode</SE1>:БАБАХ!
+()<Speaker></Speaker>||:Взрывные волны проносятся сквозь здание, достигая даже внутренних помещений собора. Кажется, что слышно, как разбиваются некоторые произведения искусства, словно их покинул сам Бог.
+RO635(4)<Speaker>RO635</Speaker>||:Чёрт, опять обстрел. Они пытаются сократить наши ряды перед следующей волной атаки. Командир, что нам делать?
+()<Speaker>Командир</Speaker>||:Нам ничего не остаётся, как покинуть эту позицию, но собор, наверное, ещё сможет выиграть нам немного времени... +Калина, связь всё ещё не восстановлена?
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Мне пока не удалось связаться с нашей логистической командой. Я пыталась дозвониться до К. по радиосвязи, но там сильные помехи, так что я все еще пытаюсь!
+()<Speaker>Командир</Speaker>||:Тц... Сколько ещё мы сможем сдерживать этих мразей в одиночку...?
+()<Speaker></Speaker>||<SE1>Explode</SE1>:БАБАААХ!
+()<Speaker></Speaker>||:На них обрушивается очередная ударная волна, и Т-Куклам с трудом удаётся сохранить строй.
+RO635(5)<Speaker>RO635</Speaker>||:Командир, тебе грозит опасность, если мы не уйдем отсюда сейчас же!
+()<Speaker>Командир</Speaker>||<黑屏1>:Чёрт! Всем отрядам — отступить в собор!
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:...Десять минут спустя. +Внутри собора.
+()<Speaker></Speaker>||<BGM>BGM_Room</BGM>:Как только отряды заняли свои позиции, мы начали укреплять оборону, чтобы выдержать обстрел здания. +К счастью, благодаря большой дистанции при отступлении мы не пострадали от ударов.
+()<Speaker></Speaker>||<BGM>BGM_Room</BGM>:Как только команды заняли свои позиции, мы начали укреплять нашу оборону от обстрела здания. +К счастью, благодаря большому расстоянию, во время отступления мы не пострадали от обстрелов.
+RO635(2)<Speaker>RO635</Speaker>||:Внутри собора все в порядке, но мы по-прежнему теряем людей. +Я сейчас организую, чтобы больше Кукол заняли позиции для защиты от нападения.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Командир, связь восстановлена!
+()<Speaker></Speaker>||:Клик.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:К, слышишь?! +Мы уже отступили в собор, но враг почти достиг нас, а у нас  нет подкрепления! Когда будет это чертово подкрепление ?!
+NPC-KalinReporter(0);NPC-Jason(0)<Speaker></Speaker>K<scan><通讯框>||:Пзззт⁠— +<color=#00CCFF>Они повсюду в городе —</color> +Пззззт— +<color=#00CCFF>Их сложно развернуть—</color>
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Вот именно поэтому нам нужно подкрепление! +Каковы новые приказы? +И здесь есть гражданские и дети, без поддержки они…
+()<Speaker></Speaker>||:—Связь обрывается.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Чёрт возьми! Эта развалина не работает, когда нужна! +Может, она повредилась, пока мы сюда пробивались… +Где-то должны быть запчасти… +Командир? Что нам теперь делать? +Похоже, подкрепления нам ещё долго не видать…
+NPC-KalinReporter(0)<Speaker>Командир</Speaker>||:Если они правда не могут пробиться, придётся уводить VIP ещё дальше… +Но здесь же гражданские… +Неужели нужно готовиться к худшему…?
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Командир… +Не сдавайтесь так сразу! +Я скоро починю эту рацию. +К ведь не просто так приказал нам отступать к собору! +Нам просто нужно сберечь председательницу от опасности… +А? Где она? +Она же только что… стояла прямо рядом со мной? +Плохо дело, командир! Председательница пропала!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:БАБААХ!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Очередной арт.удар выбил мелкие куски из каменных колонн собора. +Я посмотрел в сторону. Председательница, кажется, прикрывает собой кого-то, и упавшие обломки осыпали её спину. +SOP-II подбегает на звук.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Truth</BGM>:А? Она… она здесь! +Калина, Председательница никуда не пропала!
+()<Speaker></Speaker>||:SOP-II кричит. +Под Председательницей находится кто-то маленький. +Это... дрожащий ребенок, с заплаканным лицом.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Ты спасла ребенка? +...Это было слишком опасно! Если бы в тебя попал камень, нам бы всем пришел звездец!
+()<Speaker></Speaker>||:Возможно, из-за взрывной волны Председательница, поднимаясь, пошатывается. +Ребенок у нее на руках тоже приходит в чувство. Он вырывается з объятий Председательницы и убегет, прячась в углу.
+RO635(3)<Speaker>RO635</Speaker>||:Вы в порядке?
+()<Speaker></Speaker>||:Председательница кивает, но выглядит немного встревоженной.
+()<Speaker>Командир</Speaker>||:Кашеь... Не переживай. +Мы не настолько жалки, чтобы не смочь защитить собор. +Пожалуйста, не переживай о своей безопасности. Мы сделаем все что можем.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Нет...Я не о себе переживаю...
+NPC-Ambassador(0)<Speaker>Командир</Speaker>||:Хмм?
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Я слышала ваш разговор...об отступлении...
+NPC-Ambassador(0)<Speaker>Командир</Speaker>||:Простите, но это наш единственный вариант, если подкрепление не прибудет.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Можете пообещать мне одну вещь... +Добрейший Командир?
+NPC-Ambassador(0)<Speaker>Командир</Speaker>||:...Говорите.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Пожалуйста, сделайте все возможное, чтобы защитить гражданских и детей.
+NPC-Ambassador(0)<Speaker>Командир</Speaker>||:Это само собой разумеющееся, так что...
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Я не покину это место одна. Мне все равно, выживу я или умру. +Если честно, я не уверена, что меня стоит защищать. Я всего лишь разменная монета.
+NPC-Ambassador(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Но наша миссия — защищать вас! +К тому же вы председательница этого… Пан-союза, значит, вы очень важная персона!
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Я ничего не стою, и я не могу уйти, оставив других умирать. +Мир, который я пытаюсь построить, — для всех… для всех, кто выживет.
+()<Speaker></Speaker>||:RO635 смотрит на ребёнка, всё ещё сидящего в углу. Он выглядет потерянным от страха.
+RO635(3)<Speaker>RO635</Speaker>||:... +Кажется, я понимаю о чем Вы...
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Пока собор держится, у гражданских гораздо больше шансов выжить здесь, чем если они будут прорываться сквозь обстрел и полчищ ЭЛИДов… +Если я покину собор с вами, как долго они продержатся в таких условиях?
+()<Speaker></Speaker>||:Я не знаю, что сказать. +Я даже не знаю, правильно ли я поступил, не сказав «Нет». +Возможно… у меня просто решимости как у нее.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Как представительница Союза и, кроме того, Росартризма, я чувствую враждебность по отношению к себе — и здесь, и когда говорила с представителями Нео-Советов. +Но люди невиновны. +Я хочу, чтобы они — независимо от того, кому они преданы — освободились от этого состояния упадка.
+NPC-Ambassador(0);RO635(2)<Speaker>RO635</Speaker>||:Именно поэтому Вы захотели принять участие в этой конференции...?
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Да, моя мечта — разрушить эти барьеры недоверия. +Преодолеть разрыв между народами и объединить людей... +Спец.разведка Союза заранее предупреждала нас, что здесь будет восстание. Чтобы свести к минимуму человеческие жертвы, я взяла с собой только самую необходимую команду... В итоге все эти люди погибли из-за меня...
+()<Speaker></Speaker>||:Почему-то я не могу удержаться от того, чтобы ещё раз взглянуть на ребёнка, который смотрит на нас из угла с таким трудночитаемым взглядом.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Командир, я знаю, что прошу слишком многое. +Если ты всё же решишь отступить, пожалуйста, оставь мне немного оружия. +Как бы это ни закончилось, что бы со мной ни случилось... Мне достаточно того, что я смогу остаться верной своей мечте до последнего вздоха.
+()<Speaker>Командир</Speaker>||:<color=#A9A9A9>(Беспорядочный мир... хм)</color>
+()<Speaker></Speaker>||:Я смотрю в глаза председательнице... +Сильный и уверенный взгляд, но без тени злобы. Откровенный и непреклонный взгляд.
+()<Speaker>Командир</Speaker>||:Лично я не разделяю ваших взглядов. +Впрочем, вы, наверное, и так это догадались. +Мы сделаем всё, что в наших силах, чтобы удержать этот собор.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Спасибо. Я понимаю, что своими словами я практически беру тебя в заложники. +Но сейчас ты единственный, кто способен спасти ещё больше жизней. +Я вижу, что ты хороший человек. Только когда власть используется справедливо, мир станет лучше.
+指挥官()<Speaker>Командир</Speaker>||:Вы это имеете в виду, говоря о «сияющем маяке в новом прекрасном мире»?
+()<Speaker></Speaker>||<黑屏1>:Председательница слегка кивает нам. Даже сейчас снаружи собора слышен артиллерийский обстрел.
+()<Speaker></Speaker>||<BIN>136</BIN><黑屏2><BGM>BGM_Empty</BGM>:Через несколько минут... За собором.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||<BGM>BGM_Sneak</BGM>:Гражданские лица, проживающие в домах за собором, отступают в эту сторону! Штурмовая группа пытается сопроводить их сюда! +Остальные продолжайте ведение огня по врагам впереди, иначе они прорвут нашу оборону!
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:TEC-9, ты тоже иди!
+TEC9(0)<Speaker>TEC-9</Speaker>||:Что? Н-н-но ведь они люди...
+X95(0)<Speaker>X95</Speaker>||<黑屏1>:Ничего страшного, Калин. Я пойду. +TEC-9, замени меня пока!
+()<Speaker></Speaker>||<黑屏2>:...Десять минут спустя.
+()<Speaker></Speaker>||:X95 присоединяется к остальным Куклам и сопровождает двоих людей в собор. +Однако она замечает, что эти люди не выглядят особо счастливыми от того, что их спасли.
+X95(0)<Speaker>X95</Speaker>||:(Шепотом) Калин, с ними... что-то не так...?
+()<Speaker></Speaker>||:Калина бросает взгляд на гражданских и тихо вздыхает, глядя на X95.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Такие люди всегда встречаются... везде, где бушует война. +Тебе просто придётся к этому привыкнуть...
+()<Speaker></Speaker>||:X95 ещё размышляет над словами Калин, как вдруг что-то ударило её по спине. +Она оборачивается и видит двух недавно спасённых людей. +Прижавшись в углу и дрожа, они злобно смотрят на X95, сжимая в руках камни.
+X95(0)<Speaker>X95</Speaker>||:Эм...
+()<Speaker></Speaker>||<震屏><BGM>BGM_Empty</BGM>:Удар!
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:Не успела X95 договорить, как женщина швырнула в неё камнем. +Что-то, похожее на осколок разбитой статуи, попало X95 прямо над левым глазом.
+男性人类()<Speaker>Мужчина</Speaker>||:...Они не люди! Эти чудовища убивают людей прямо на улицах!
+女性人类()<Speaker>Женщина</Speaker>||:Точно! Наш дом... наш дом был разрушен во время бомбардировки... (Рыдает) Чёрт...
+()<Speaker></Speaker>||:X95 немного растерялась. Она медленно подходит к людям и опускается перед ними на колени.
+男性人类()<Speaker>Мужчина</Speaker>||:Ч-что ты делаешь?! Ты что, собираешься нас убить?! Убирайся к черту, вы, чудовища!
+X95(0)<Speaker>X95</Speaker>||:...Мне очень жаль.
+()<Speaker></Speaker>||:...Мужчина поднял руку, чтобы бросить в неё ещё один камень, но вместо того, чтобы отбить его, X95 просто тихо извинилась. +Люди, совершенно ошеломлённые, застыли на месте.
+X95(0)<Speaker>X95</Speaker>||:Мне очень жаль... +Это может показаться тебе немного странным, но... я полностью понимаю вашу боль.
+X95(0)<Speaker>Женщина</Speaker>||:Нечеловеческое существо, которое говорит, что понимает нашу боль. Думаешь, мы тебе поверим? +Не думай, что мы будем тебе благодарны только за то, что ты нас сюда привела! +Из-за тебя и начались эти сражения! Если бы не ты... наш дом не был бы разрушен!
+X95(0)<Speaker>X95</Speaker>||:... +С этим не поспоришь. +Но мы делаем всё, что в наших силах, чтобы избежать ненужных конфликтов... У таких Кукол, как мы, во многих вопросах просто нет права голоса...
+()<Speaker></Speaker>||:Людям нечего на это ответить.
+X95(0)<Speaker>X95</Speaker>||:Вот почему мне действительно очень жаль. +Но я надеюсь, вы поймете, что даже Куклы на вашей стороне. +Я хочу, чтобы все остались живы... и именно поэтому мы будем продолжать сражаться. +Если война будет продолжаться, я также хочу, чтобы жертвами стали только Куклы...
+()<Speaker></Speaker>||:Люди перестают оскорблять X95. Мужчина молча опускает голову, а женщина плачет. +Успокоив людей, X95 подходит к Калин.
+X95(0)<Speaker>X95</Speaker>||:Они так остро отреагировали на Кукол из-за травмы, которую им нанес Парадеус.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Тебе, наверное, было тяжело... Это я должна была с ними поговорить...
+NPC-KalinReporter(0);X95(0)<Speaker>X95</Speaker>||:Всё в порядке. Они не виноваты. +Калин, как думаешь, этот конфликт когда-нибудь закончится?
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>;X95(0)||:Конечно, я хотела бы, чтобы это поскорее закончилось.
+NPC-KalinReporter(0);X95(0)<Speaker>X95</Speaker>||:(Бормочет) Да, тогда больше не будет жертв среди мирного населения...
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>;X95(0)||<黑屏1>:... +IЕсли бы только мир больше никогда не видел подобных конфликтов.
