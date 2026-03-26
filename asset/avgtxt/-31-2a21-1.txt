@@ -1,22 +1,22 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Room</BGM>:...Behind the quarantine wall.
+()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Room</BGM>:...За пределами карантинной стены.
 ()<Speaker></Speaker>||:Ange activates her comms.
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I remember telling you not to say anything unnecessary again.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:... +There's been another breach on the quarantine wall. We're currently trying to keep things under control.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Your mission is to gather intelligence on the Pike Node, not damage control.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:If the situation gets any worse, we won't be able to do any recon work. +Even if we aren't getting any support, at least give me something to work with? How are things on the other end?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>You mean with Griffin?</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:Yes. +What is the Commander's mission?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>The Commander is in charge of the Union Chairwoman's personal safety.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:Tsk...you've got guts to have so much faith in them. +I also remember telling you not to drag that Commander into this mess.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>What a coincidence. It's quite rare that we share the same opinion.</color> +<color=#00CCFF>However, the Commander's involvement is essential.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:Are you so ready to entrust the mission to an "outsider"?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Are you trying to protect the Commander?</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:...I didn't say that.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Even if the Commander is an outsider, at least Griffin can keep their last spark alight by working with us.</color> +<color=#00CCFF>...So, do you still want to put a stop to this?</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:Griffin's state has nothing to do with me.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Really? I thought you were quite attached because of the time you spent there.</color> +<color=#00CCFF>By the way, we lost all our agents in the last operation.</color> +<color=#00CCFF>The Griffin Commander is now the only force we can rely on in battle.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)||:... +I believe the Commander is fully capable of completing the mission...
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>It's as you just said. The retreat has been going smoothly.</color> +<color=#00CCFF>Right, if that's all the information you need, can you get on with your mission now?</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:...Tsk.
-()<Speaker></Speaker>||<黑屏1>:—Transmission terminated.
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Я помню, что говорил тебе больше не болтать лишнего.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)||:... +В карантинной стене произошёл очередной прорыв. Сейчас мы пытаемся взять ситуацию под контроль.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Твоя задача — собрать разведданные об узле системы «Щука», а не заниматься ликвидацией последствий.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)||:Если ситуация станет еще хуже, мы не сможем вести разведку. +Даже если нам не оказывают поддержку, дай мне хотя бы что-нибудь, с чем можно работать? Что там у вас?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Ты имеешь в виду с Грифоном?</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)||:Да. +В чем заключается задача Командира?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Командир отвечает за личную безопасность Председательницы Союза.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)||:Тц... у тебя хватило смелости так им довериться. +Я ещё помню, как говорила тебе не втягивать этого Командира в свою проблему.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Какое совпадение. Мы довольно редко сходимся во мнениях.</color> +<color=#00CCFF>Однако участие Командира просто необходимо.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)||:Ты действительно готов поручить эту задачу «постороннему»?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Ты пытаешься защитить Командира?</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)||:...Я этого не говорила.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Даже если Командир — чужак, то, по крайней мере, Грифон сможет сохранить последнюю искру надежды, работая вместе с нами.</color> +<color=#00CCFF>...Итак, ты всё ещё хочешь положить этому конец?</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)||:Ситуация с Грифоном меня не касается.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Серьезно? Я думал, ты к этому месту привязалась, учитывая, сколько времени там провела. +<color=#00CCFF>Кстати, в последней операции мы потеряли всех наших агентов. +<color=#00CCFF>Теперь Командир Грифона — единственная сила, на которую мы можем положиться в бою.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)||:... +Я уверена, что Командир вполне способен выполнить эту миссию...
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>IВсё так, как ты и сказалв. Отступление проходит без сучка и задоринки.</color> +<color=#00CCFF>Ладно, если это вся информация, которая тебе нужна, можешь теперь приступать к выполнению своей задачи?</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>||:...Тц.
+()<Speaker></Speaker>||<黑屏1>:—Соединение завершено.
