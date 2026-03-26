@@ -1,61 +1,61 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>182</BIN><黑屏2><BGM>BGM_Sneak</BGM>:...Half an hour later. +Outside the conference hall.
-RO635(4)<Speaker>RO635</Speaker>||:At this rate... No...the entire city will be overrun!
-()<Speaker></Speaker>||:The Infected surge towards the city center from all directions. RO635 and the Commander's team are all but surrounded by the swarm outside the conference hall.
-RO635(4)<Speaker>RO635</Speaker>||:Commander, we can't fight them all...! +This place is going to be completely swamped by the infected creatures soon! We've got to retreat to the cathedral!
-()<Speaker></Speaker>||:Click— +All of a sudden, K's voice comes through the comms channel once again.
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Is that all Griffin's got?</color>
-RO635(4)<Speaker>RO635</Speaker>;NPC-Jason(0)||:Damn this guy who only knows how to jeer on the other end of the line!
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Your lives are insignificant, but if anything happens to the VIP, there won't be any reason for Griffin to exist anymore.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Tsk...we're still within range of the 30mm cannon. They'll try to snipe us again the moment we leave the building's cover!
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Their artillery position has been neutralized.</color>
-NPC-Jason(0)<Speaker>Commander</Speaker>||:Was that the agents' doing?
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, but it was a suicide mission. They bought you this chance with their own lives.</color>
-()<Speaker>Commander</Speaker>||:...They have my deepest gratitude. RO, get all teams to prepare for action and get ready to move the VIP!
-RO635(4)<Speaker>RO635</Speaker>||:On foot...?! But under these circumstances...
-RO635(4)<Speaker>Commander</Speaker>||:We're just sitting ducks if we stay here! Go!
-RO635(4)<Speaker>RO635</Speaker>||:Got it! SOP-II, have the other teams standby on our flanks. We're moving!
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Commander, you'd better come over here!
-NPC-KalinReporter(0)<Speaker>Commander</Speaker>||:What is it?
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:Chairwoman Ulrich is regaining consciousness... I don't know how to explain the situation to her...
-()<Speaker>Commander</Speaker>||:That's alright, leave it to me. +Madam Chairwoman, can you hear me?
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:(Groans) It hurts... What happened...?
-NPC-Ambassador(0)<Speaker>Commander</Speaker>||:Please keep calm and listen to me. +The conference was sabotaged. ELIDs have breached the city. We are the last of your security detail. From here on out, it is imperative that you heed our instructions. We will protect you and lead you to safety.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Un...understood... Is it a terrorist attack? Ambassador Roshchin was...
-NPC-Ambassador(0)<Speaker>Commander</Speaker>||:I'm sorry, it was all very sudden. I'm afraid most of the security personnel within the conference hall were lost. So was Ambassador Roshchin.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Oh...
-NPC-Ambassador(0)<Speaker>Commander</Speaker>||:You look a lot less stricken than I expected.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:You don't have to worry too much about me. This isn't the first time I've found myself in a crisis. +Besides, I was fully prepared to die here before I even arrived.
-()<Speaker>Commander</Speaker>||:You will NOT die here. RO, are you still there?
-RO635(2)<Speaker>RO635</Speaker>||:All teams are fully prepared. We're ready to move anytime.
-RO635(2)<Speaker>Commander</Speaker>||:Alright. Madam Chairwoman, this is RO635, my adjutant on the field. She'll be your bodyguard.
-RO635(2)<Speaker>RO635</Speaker>||:Me?
-RO635(2)<Speaker>Commander</Speaker>||:Can you do it? I'll command the other teams to clear a path ahead. You and your team are to escort the Chairwoman and ensure her safety.
-RO635(2)<Speaker>RO635</Speaker>||<黑点1>:Yes, Commander. I won't let a single hair on her head be harmed.
-()<Speaker></Speaker>||<BIN>86</BIN><黑点2><BGM>BGM_Empty</BGM>:RO635 shields the Chairwoman as they seek cover.
-RO635(2)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:Sorry for making you see such a horrific scene... +I'm Tactical Doll RO635 from Griffin. From now on, I'll be in charge of your personal safety.
-RO635(2);NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Thank you. +Though I'm not sure I'm actually that important...
-RO635(2)<Speaker>RO635</Speaker>;NPC-Ambassador(0)||<黑屏1>:I heard your speech just now. The world needs people like you who can truly bring about peace, so you cannot die here. +The Commander and my team of Tactical Dolls are going to keep you safe!
-()<Speaker></Speaker>||<BIN>86</BIN><黑屏2>:Several minutes later... In a certain district in Belgrade.
-()<Speaker></Speaker>||:The Griffin entourage is moving at high speed. +Unlike the Dolls around her, the Chairwoman is starting to lose her breath. +Noticing the Chairwoman's distress, RO635 orders her team to stop.
-RO635(2)<Speaker>RO635</Speaker>||:Madam, we'll take a short break here.
-RO635(2);NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:S...Sorry...for slowing you down...
-RO635(2)<Speaker>RO635</Speaker>;NPC-Ambassador(0)||:It's okay. The roads have been temporarily sealed off by barricades. The Commander is trying to open the way up for us, so we're going to have to stop and wait for the word from our teams ahead anyway. +Not to mention that the cathedral we're heading to isn't too far from here. Stopping briefly to recover your strength is no big deal.
-RO635(2);NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:The cathedral...? +I remember that there's a residential area not far from here. +I wonder if the terrorist attack has affected the local residents...
-RO635(2)<Speaker>RO635</Speaker>;NPC-Ambassador(0)||:Don't worry, Madam. Our reinforcements will be here very soon.
-RO635(2)<Speaker>RO635</Speaker>||:<color=#A9A9A9>(I hope...)</color>
-()<Speaker>???</Speaker>||<SE1>Select</SE1>:Really? Do you actually have reinforcements?
-RO635(5)<Speaker>RO635</Speaker>||<震屏><BGM>BGM_Empty</BGM>:!! +Who's that?!
-()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:The scornful snicker among the cacophony of gunfire is exceptionally grating on the ear. RO635 positions herself in front of the Chairwoman and eyes the person warily.
-NPC-Nimogen(0)<Speaker>Mysterious Girl</Speaker>||:Lying is a bad habit, RO635~ Just be a good girl and hand me that woman, so that you can die in peace later.
-RO635(4)<Speaker>RO635</Speaker>||:Are you a Nyto?! Everyone, suppressive fire!
-NPC-Nimogen(0)<Speaker>Mysterious Girl</Speaker>||:Nyto? Please, could you not insult me with that tasteless name? +I am Nimogen, your undertaker. +Now, how should I arrange your corpses? Heeheeheehee~
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:With that, the white mechs behind her launch a barrage at RO635's team.
-RO635(5)<Speaker>RO635</Speaker>||:Are you crazy?! +You don't care if you end up killing your target?!
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:Father never said he wanted her alive though? +Or should I say, it'd actually make my job easier if she's dead? Heeheehee, now you have you answer, so just die!
-()<Speaker></Speaker>||:The black-clad Nimogen grins psychotically, not the slightest bit bothered by the blood splashed onto her clothes and cheek during the massacre. She merely keeps smirking as she commands the white units in attacking RO635 and the Chairwoman. +RO635's team protect their target in a hasty retreat, all the while fending off the infected creatures that periodically charge at them...
-RO635(4)<Speaker>RO635</Speaker>||:C-Commander! This is RO635! +The enemy has ambushed us from behind! It's a Nyto with Paradeus units! +We're no match against their overwhelming firepower...cough... We need support!
-()<Speaker>Commander</Speaker>||:<color=#00CCFF>They intercepted us and now we're also under attack! I'm trying to break through and get to you! Hang in there!</color>
-()<Speaker></Speaker>||:RO635 and the Chairwoman find cover behind some obstacles, but the laughter of the mysterious girl keeps getting closer, and the tremors in the ground becomes more violent with every explosion.
-RO635(4)<Speaker>RO635</Speaker>||:Tsk, that's some insane firepower... +We can't huddle here forever. Will we make it? Before the Commander gets here... +If I can draw that Nyto away, there might still be a chance...
-RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:Dammit... Here goes nothing!
+()<Speaker></Speaker>||<BIN>182</BIN><黑屏2><BGM>BGM_Sneak</BGM>:...Полчаса спустя. +У входа в конференц-зал.
+RO635(4)<Speaker>RO635</Speaker>||:Если так пойдет дальше... Нет... весь город окажется в опасности!
+()<Speaker></Speaker>||:Заражённые устремляются к центру города со всех сторон. RO635 и команда Командира практически окружены толпой за пределами конференц-зала.
+RO635(4)<Speaker>RO635</Speaker>||:Командир, мы не сможем сражаться со всеми...! +Это место скоро будет полностью захвачено зараженными тварями! Нам нужно отступать в собор!
+()<Speaker></Speaker>||:Клик— +И вдруг в канале связи снова раздался голос К.
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Это всё, на что способен Грифон?</color>
+RO635(4)<Speaker>RO635</Speaker>;NPC-Jason(0)||:Да пошел он, этот ублюдок, который умеет только насмехаться по ту сторону линии!
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Ваши жизни не имеют значения, но если с VIP-персоной что-нибудь случится, у Грифона больше не будет смысла в существовании.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Ять... мы всё ещё находимся в зоне досягаемости оружия. Как только выйдем из-за укрытия здания, они сразу же попытаются нас пристрелить!
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Их арт.позиции были выведены из строя.</color>
+NPC-Jason(0)<Speaker>Командир</Speaker>||:Это дело рук агентов?
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Да, но это была самоубийственная миссия. Они купили тебе этот шанс ценой своих жизней.</color>
+()<Speaker>Командир</Speaker>||:...Я им безмерно благодарен. RO, пусть все команды готовятся к действию и приступают к эвакуации VIP-персоны!
+RO635(4)<Speaker>RO635</Speaker>||:Пешком...?! Но в таких условиях...
+RO635(4)<Speaker>Командир</Speaker>||:Если останемся здесь, мы будем просто легкой добычей! Беги!
+RO635(4)<Speaker>RO635</Speaker>||:Поняла! SOP-II, пусть остальные команды ждут на флангах. Мы выдвигаемся!
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Командир, тебе лучше подойти сюда!
+NPC-KalinReporter(0)<Speaker>Командир</Speaker>||:Что такое?
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Председатель Ульрих приходит в себя... Я не знаю, как ей объяснить ситуацию...
+()<Speaker>Командир</Speaker>||:Все в порядке, доверь это мне. +Госпожа председатель, вы меня слышите?
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:(Стоны) Больно... Что случилось...?
+NPC-Ambassador(0)<Speaker>Командир</Speaker>||:Пожалуйста, сохраняйте спокойствие и слушайте меня. +Конференцию сорвали. ЭЛИДы проникли в город. Мы — последние из вашей охраны. С этого момента вам необходимо строго следовать нашим указаниям. Мы защитим вас и выведем в безопасное место.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:По...поняла... Это террористический акт? Посол Рощин был...
+NPC-Ambassador(0)<Speaker>Командир</Speaker>||:Простите, всё произошло очень неожиданно. Боюсь, что большинство охранников в конференц-зале погибли. Как и посол Рощин.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Ох...
+NPC-Ambassador(0)<Speaker>Командир</Speaker>||:Вы выглядите гораздо лучше, чем я ожидал.
+NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Не стоит слишком переживать за меня. Я не впервые попадаю в кризисную ситуацию. +К тому же я была полностью готова умереть здесь ещё до того, как сюда приехала.
+()<Speaker>Командир</Speaker>||:Вы здесь НЕ умрете. RO, ты ещё здесь?
+RO635(2)<Speaker>RO635</Speaker>||:Все команды полностью готовы. Мы готовы выдвигаться в любой момент.
+RO635(2)<Speaker>Командир</Speaker>||:Хорошо. Госпожа председатель, это RO635, моя помощница. Она будет вашей телехранительницей.
+RO635(2)<Speaker>RO635</Speaker>||:Я?
+RO635(2)<Speaker>Командир</Speaker>||:Ты справишься? Я прикажу остальным командам расчистить путь впереди. Ты и твоя команда должны сопровождать председателя и обеспечить её безопасность.
+RO635(2)<Speaker>RO635</Speaker>||<黑点1>:Да, Командир. Я не позволю, чтобы с её головы пропал хоть один волосок.
+()<Speaker></Speaker>||<BIN>86</BIN><黑点2><BGM>BGM_Empty</BGM>:RO635 прикрывает Председателя, пока они ищут укрытие.
+RO635(2)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:Извините, что заставила вас увидеть такую ужасную сцену... +Я — Тактическая Кукла RO635 из компании Грифон. С этого момента я буду отвечать за вашу личную безопасность.
+RO635(2);NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Спасибо. +Хотя я не уверена, что я на самом деле такой уж и важна.
+RO635(2)<Speaker>RO635</Speaker>;NPC-Ambassador(0)||<黑屏1>:Я слышала вашу речь. Миру нужны такие люди, как вы, способные по-настоящему принести мир, поэтому вы не можете здесь погибнуть. +Командир и моя команда Тактических Кукол позаботятся о вашей безопасности!
+()<Speaker></Speaker>||<BIN>86</BIN><黑屏2>:Через несколько минут... В одном из районов Белграда.
+()<Speaker></Speaker>||:Группа Грифона движется на предельной скорости. +В отличие от Кукол вокруг неё, Председательница начинает задыхаться. +Заметив, что Председательнице тяжело, RO635 приказывает своей команде остановиться.
+RO635(2)<Speaker>RO635</Speaker>||:Мадам, давайте сделаем здесь небольшой перерыв.
+RO635(2);NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:П...Прости...что задерживаю тебя...
+RO635(2)<Speaker>RO635</Speaker>;NPC-Ambassador(0)||:Ничего страшного. Дороги временно перекрыты баррикадами. Командир пытается проложить нам путь, так что нам всё равно придётся остановиться и дождаться новостей от наших передовых отрядов. +К тому же собор, к которому мы направляемся, находится недалеко отсюда. Небольшая остановка, чтобы передохнуть и набраться сил, — это не страшно.
+RO635(2);NPC-Ambassador(0)<Speaker>Председатель Ульрих</Speaker>||:Собор...? +По-моему, недалеко отсюда есть жилой район. +Интересно, затронул ли этот теракт местных жителей...
+RO635(2)<Speaker>RO635</Speaker>;NPC-Ambassador(0)||:Не беспокойтесь, мадам. Наше подкрепление прибудет очень скоро.
+RO635(2)<Speaker>RO635</Speaker>||:<color=#A9A9A9>(Надеюсь...)</color>
+()<Speaker>???</Speaker>||<SE1>Select</SE1>:Правда? У вас действительно есть подкрепление?
+RO635(5)<Speaker>RO635</Speaker>||<震屏><BGM>BGM_Empty</BGM>:!! +Кто это?!
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:Презрительный смешок на фоне грохота выстрелов режет слух. RO635 встает перед Председательницей и настороженно смотрит на неё.
+NPC-Nimogen(0)<Speaker>Загадочная девушка</Speaker>||:Ложь — это плохая привычка, RO635~ Просто будь хорошей девочкой и отдай мне эту женщину, чтобы потом умереть с чистой совестью.
+RO635(4)<Speaker>RO635</Speaker>||:Ты что, Нито?! Всем, огонь на подавление!
+NPC-Nimogen(0)<Speaker>Загадочная девушка</Speaker>||:Нито? Пожалуйста, не оскорбляй меня этим безвкусным именем? +Я — Нимоген, твой гробовщик. +Ну, как бы мне расположить твои останки? Хи-хи-хи-хи~
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:В этот момент белые мехи, стоящие позади неё, открывают шквал огня по команде RO635.
+RO635(5)<Speaker>RO635</Speaker>||:Ты с ума сошла?! +Тебе всё равно, что ты можешь убить свою цель?!
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||:Но отец ведь никогда не говорил, что хочет, чтобы она осталась жива? Или, может, лучше сказать, что если она умрёт, мне будет даже проще? Хи-хи-хи, теперь ты знаешь ответ, так что просто сдохни!
+()<Speaker></Speaker>||:Одетая в чёрное Нимоген улыбается как психопатка, и её ничуть не беспокоит кровь, брызнувшая на её одежду и щеку во время бойни. Она просто продолжает ухмыляться, отдавая приказ белым отрядам атаковать RO635 и Председательницу. +Команда RO635 защищает свою цель, спешно отступая и при этом отбиваясь от заражённых тварей, которые периодически набрасываются на них...
+RO635(4)<Speaker>RO635</Speaker>||:Командир! Это RO635! +Враг атаковал нас с тыла! Это Нито с отрядами Парадеус! +Мы не можем противостоять их подавляющей огневой мощи... кашель... Нам нужна поддержка!
+()<Speaker>Командир</Speaker>||:<color=#00CCFF>Они перехватили нас, и теперь на нас тоже нападают! Я пытаюсь прорваться к тебе! Держись!</color>
+()<Speaker></Speaker>||:RO635 и Председательница укрываются за какой-то преградой, но смех таинственной девушки слышится всё ближе, а с каждым взрывом тряска земли становится всё сильнее.
+RO635(4)<Speaker>RO635</Speaker>||:Тц, какая-то безумная огневая мощь... +Мы не можем здесь вечно прятаться. Доживем ли до того, как прибудет Командир... +Если мне удастся отвлечь эту Нито, то, может, ещё есть шанс...
+RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:Чёрт... Пробуем!
