@@ -1,25 +1,25 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>159</BIN><黑屏2><BGM>BGM_Truth</BGM>:...In the streets.
-()<Speaker></Speaker>||:The Griffin entourage is moving through the streets in careful formation. +Other than the Infected who are oblivious to their own tragic fate, the battlefield is littered with broken bodies. +RO635 guns down another batch of ELIDs, then notices something all of a sudden.
-RO635(2)<Speaker>RO635</Speaker>||:<color=#A9A9A9>(A blue signal ID...)</color> +<color=#A9A9A9>(A Griffin Doll that's unaccounted for?)</color>
-()<Speaker></Speaker>||:RO635 gestures at her teammate to keep quiet and stay close, then she moves cautiously to a pile of rubble. Behind a metal panel sprinkled with bullet holes, she finds a distraught Doll, clutching at her chest and shivering uncontrollably. +Before her lies the remains of an Infected blasted beyond recognition.
-RO635(2)<Speaker>RO635</Speaker>||:Are...you okay?
-()<Speaker></Speaker>||:The gray-haired Doll doesn't reply.
-RO635(2)<Speaker>RO635</Speaker>||:Are you a Griffin Doll? +Are you part of the surveillance team that we lost contact with...? We have some new recruits on this operation... You're HS2000, aren't you? I've read your file.
-HS2000(1)<Speaker></Speaker>||:The girl lifts her head, showing a face full of fear...and shame.
-HS2000(1)<Speaker>HS2000</Speaker>||:I'm sorry... I-I'm so scared... +He... That man...
-RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:...Where are your teammates?
-RO635(2);HS2000(1)<Speaker>HS2000</Speaker>||:They...for me... I'm...I'm sorry... I was too scared... +I didn't know how to respond to the situation... My neural cloud was completely blank... I couldn't move...
-RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:Calm down. Look at me.
-RO635(2);HS2000(1)<Speaker>HS2000</Speaker>||:If I could fight properly, my teammates wouldn't have... +But...I'm just a Medical Doll...
-RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:I didn't see so many dead bodies on my first mission - I was a lot luckier than you. +Which is why you, whose first mission is to repel ELIDs on the battlefield, are so much braver.
-RO635(2);HS2000(1)<Speaker>HS2000</Speaker>||:But...I...
-RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:You're facing enemies that shouldn't have been yours to face - this courage alone is commendable. +So stop blaming yourself. What matters now is to survive.
-RO635(2);HS2000(1)<Speaker></Speaker>||:HS2000 looks up. Beyond her initial panic, RO635 now sees a glint of surprise and gratitude in her eyes.
-RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:I suppose you don't want to suddenly find yourself back at the base in a brand spanking new body with no memory of what has happened before, right?
-RO635(2);HS2000(1)<Speaker>HS2000</Speaker>||:I...don't want that...
-RO635(2)||:RO635 looks around vigilantly and taps HS2000 gently on the shoulder.
-RO635(2)<Speaker>RO635</Speaker>||:Then try not to get hit. Just survive for now, okay? +Now that you've rejoined our main force, let's all do our best to go home without a scratch.
-()<Speaker></Speaker>||:With a wavering gleam in her eyes, HS2000 finally nods at RO635. +She gets on her feet unsteadily and jogs over to the group of Griffin Dolls.
-()<Speaker></Speaker>||:RO635 gets up and walks away once she's made sure the Doll has settled in.
-RO635(3)<Speaker>RO635</Speaker>||<黑屏1>:If I could help it, I really wouldn't want these girls to experience something so cruel.
+()<Speaker></Speaker>||<BIN>159</BIN><黑屏2><BGM>BGM_Truth</BGM>:...На улицах.
+()<Speaker></Speaker>||:Группа Грифона движется по улицам в аккуратном строю. +Помимо заражённых, которые даже не подозревают о своей трагической судьбе, поле битвы усеяно изуродованными телами. +RO635 уничтожает ещё одну группу ЭЛИД, а потом вдруг замечает какую-то деталь.
+RO635(2)<Speaker>RO635</Speaker>||:<color=#A9A9A9>(Идентификатор синего сигнала...)</color> +<color=#A9A9A9>(Кукла Грифона, о которой ничего не известно?)</color>
+()<Speaker></Speaker>||:RO635 жестом приказывает напарнице молчать и держаться поближе, а затем осторожно подходит к куче обломков. За металлической панелью, испещрённой пулевыми отверстиями, она обнаруживает потрясённую Куклу, которая прижимает руки к груди и неконтролируемо дрожит. Перед ней лежат останки заражённого, разорванного на куски до неузнаваемости.
+RO635(2)<Speaker>RO635</Speaker>||:Ты... в порядке?
+()<Speaker></Speaker>||:Седовласая Кукла не отвечает.
+RO635(2)<Speaker>RO635</Speaker>||:Ты кукла Грифона? +Ты из той группы наблюдения, с которой мы потеряли связь...? У нас появились новые участники этой операции... Ты же HS2000, верно? Я читала твое досье.
+HS2000(1)<Speaker></Speaker>||:Девушка поднимает голову, и на её лице отражаются страх... и стыд.
+HS2000(1)<Speaker>HS2000</Speaker>||:Прости... Мне... мне так страшно... +Он... Тот человек...
+RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:...Где твои товарищи по команде?
+RO635(2);HS2000(1)<Speaker>HS2000</Speaker>||:Они... для меня... Я... прости... Я слишком испугалась... +Я не знала, как реагировать на ситуацию... У меня в голове полная пустота... Я не смогла пошевелиться...
+RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:Успокойся. Посмотри на меня.
+RO635(2);HS2000(1)<Speaker>HS2000</Speaker>||:Если бы я умела нормально сражаться, мои товарищи по команде не оказались бы... +Но... я всего лишь Медицинская Кукла...
+RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:Во время своей первой миссии я не видела столько трупов — мне повезло гораздо больше, чем тебе. +Именно поэтому ты, чья первая миссия — отражать атаки ЭЛИДов на поле боя, гораздо смелее.
+RO635(2);HS2000(1)<Speaker>HS2000</Speaker>||:Но... я...
+RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:Тебе приходится сражаться с врагами, с которыми тебе не следовало сталкиваться — уже одно это достойно уважения. +Так что хватит винить себя. Сейчас главное — выжить.
+RO635(2);HS2000(1)<Speaker></Speaker>||:HS2000 поднимает взгляд. Преодолев первоначальную панику, RO635 теперь видит в её глазах отблеск удивления и благодарности.
+RO635(2)<Speaker>RO635</Speaker>;HS2000(1)||:Наверное, ты же не хочешь вдруг очутиться на базе в совершенно новом теле, не помня, что было раньше, правда?
+RO635(2);HS2000(1)<Speaker>HS2000</Speaker>||:Я... не хочу этого...
+RO635(2)||:RO635 оглядывается по сторонам и осторожно похлопывает HS2000 по плечу.
+RO635(2)<Speaker>RO635</Speaker>||:Тогда постарайся не попасть под огонь. Просто выживи пока, ладно? +Теперь, когда ты снова присоединилась к нашим основным силам, давай вместе постараемся вернуться домой без единой царапины.
+()<Speaker></Speaker>||:В глазах HS2000 мелькнул неуверенный блеск, и она наконец кивнула RO635. +Она неуверенно поднялась на ноги и поспешила к группе Кукол Грифона.
+()<Speaker></Speaker>||:RO635 встает и уходит, убедившись, что Кукла пришла в себя.
+RO635(3)<Speaker>RO635</Speaker>||<黑屏1>:Если бы я могла это предотвратить, я бы ни за что не позволила этим девочкам пережить нечто столь жестокое.
