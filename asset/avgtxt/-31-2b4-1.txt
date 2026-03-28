@@ -1,41 +1,41 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<火花><黑屏2><SE1>Gunkill</SE1><SE2>Gunfight</SE2>:In the theater ravaged by intense fighting.
-AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Battle</BGM>:Unbelievable... +Sangvis Dolls have grown even more powerful than before! +Is that a new model?
-AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(5)||:At least that particular Doll has never been sighted before. +There are no records concerning her in my database, so she could be a new model. +She must have exploited a loophole in the White Faction's defenses to have brought so many Sangvis units into the city.
-AN94(5);AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1>:Even so, isn't this way too many? +Ange just said they're not doing well, so M4 could be having trouble too. +In any case...this fight is almost over. We'd better get ready.
-NPC-Mercurows(0)<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:The White Faction is overwhelmed by the sudden onslaught. All the units around Mercurows collapse one after the other.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:...I didn't expect mere Dolls like you...to do so much damage. +Fine. If you're so dead set on getting your hands on these two unsavory pieces of meat, I'll leave them to you.
-NPC-Mercurows(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Don't you even think about retreating underground.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>;M16A1BOSS(0)||:Till next we meet, Sangvis Ferri and DEFY!
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||<SE1>Gunkill</SE1>:Stop right there!
-M16A1BOSS(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Mercurows disappeared into a secret passage and M16's bullets only managed to hit the locked steel door.
-M16A1BOSS(0);Beak_M16(0)<Speaker>Unfamiliar S.F. Doll</Speaker>||<关闭火花><SE1>Select</SE1>:Oh dear, just a bit too late, M16. +We aren't able to break down the door... What a shame—
-Beak_M16(0)<Speaker>Unfamiliar S.F. Doll</Speaker>||<SE2>MachineGunBurst</SE2><SE1>Gunfight</SE1><BGM>BGM_Brain</BGM>:My, my, don't Griffin Dolls have any manners at all?
-Beak_M16(0)<Speaker></Speaker>||:The Sangvis Doll deflects the bullets AR-15 fired at M16 with a casual flick of her right arm.
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;Beak_M16(0)||:(She blocked the bullets with just an arm...)
-AR15Mod(4);AN94(2)<Speaker>AN-94</Speaker>||:What are you doing, AR-15? +Isn't that a member of the AR Team...?
-AR15Mod(4)<Speaker>ST AR-15</Speaker>;AN94(2)||:Not anymore. +She stopped being our friend the moment she decided to join Sangvis Ferri. +The AR Team...is now nothing more than an empty shell.
-AR15Mod(4);Beak_M16(0)<Speaker>Unfamiliar S.F. Doll</Speaker>||:Hmm, they're no fun at all. Kill them now.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:I don't recall handing you the authority to give orders, Beak.
-M16A1BOSS(0);Beak_M16(0)<Speaker>Beak</Speaker>||:M16, you make me worry so. +If it weren't for me, you'd have been shot - by a former teammate, no less.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:I didn't ask you to protect me.
-M16A1BOSS(0);Beak_M16(0)<Speaker>Beak</Speaker>||:Humph, whatever. You'll thank me one day.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:That day will never come. +AR-15 from Griffin and AN-94 of Task Force DEFY.
+()<Speaker></Speaker>||<火花><黑屏2><SE1>Gunkill</SE1><SE2>Gunfight</SE2>:На сцене, разрушенной интенсивными боями.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Battle</BGM>:Невероятно... +Куклы Сангвис стали ещё сильнее, чем раньше! +Это новая модель?
+AN94(5)<Speaker>AN-94</Speaker>;AR15Mod(5)||:По крайней мере, эту конкретную Куклу раньше никто не видел. +В моей базе данных нет никаких записей о ней, так что это может быть новая модель. +Она, должно быть, воспользовалась лазейкой в обороне Белой фракции, раз смогла протащить в город столько отрядов Сангвис.
+AN94(5);AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1>:Но всё-таки, разве это не слишком много? +Анже только что сказала, что у них дела идут неважно, так что у M4 тоже могут быть проблемы. +В любом случае... этот бой почти закончился. Нам лучше подготовиться.
+NPC-Mercurows(0)<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:Белая фракция оказалась подавлена внезапным натиском. Все отряды вокруг Меркьюуроуз один за другим терпят поражение.
+NPC-Mercurows(0)<Speaker>Меркьюроуз</Speaker>||:...Я не ожидала, что такие Куклы, как вы... нанесут столько урона. +Ладно. Если ты так уж настроена заполучить этих двух отвратительных кусков мяса, я оставлю их тебе.
+NPC-Mercurows(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Даже не думай о том, чтобы уйти под землю.
+NPC-Mercurows(0)<Speaker>Меркьюроуз</Speaker>;M16A1BOSS(0)||:До новых встреч, Сангвис Ферри и DEFY!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<SE1>Gunkill</SE1>:Стой на месте!
+M16A1BOSS(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Меркьюроуз скрылась в потайном ходу, а пули М16 попали лишь в запертую стальную дверь.
+M16A1BOSS(0);Beak_M16(0)<Speaker>Незнакомая кукла С.Ф.</Speaker>||<关闭火花><SE1>Select</SE1>:Ой, M16, чуть-чуть опоздала. +Мы не можем выбить дверь... Какая жалость—
+Beak_M16(0)<Speaker>Незнакомая кукла С.Ф.</Speaker>||<SE2>MachineGunBurst</SE2><SE1>Gunfight</SE1><BGM>BGM_Brain</BGM>:Ой-ой, у этих Кукол Грифона совсем нет манер?
+Beak_M16(0)<Speaker></Speaker>||:Кукла Сангвис, легким движением правой руки, отбивает пули, выпущенные из AR-15 по M16
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;Beak_M16(0)||:(Она заблокировала пули одной рукой...)
+AR15Mod(4);AN94(2)<Speaker>AN-94</Speaker>||:Что ты делаешь, AR-15? +Разве это не один из членов команды AR...?
+AR15Mod(4)<Speaker>ST AR-15</Speaker>;AN94(2)||:Теперь уже нет. +Она перестала быть нашей подругой в тот момент, когда решила присоединиться к Сангвис Ферри. +Команда AR... теперь — не более чем пустая оболочка.
+AR15Mod(4);Beak_M16(0)<Speaker>Незнакомая кукла С.Ф.</Speaker>||:Хм, с ними совсем не интересно. Убей их немедленно.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:Не припомню, чтобы я давала тебе право отдавать приказы, Бик.
+M16A1BOSS(0);Beak_M16(0)<Speaker>Бик</Speaker>||:M16, ты меня так заставляешь волноваться. +Если бы не я, тебя бы застрелили — причём ни кто иной, как бывший товарищ по команде.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:Я не просила тебя защищать меня.
+M16A1BOSS(0);Beak_M16(0)<Speaker>Бик</Speaker>||:Хм, ну и ладно. Когда-нибудь ты мне ещё скажешь спасибо.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:Этот день никогда не наступит. +AR-15 от Грифона и АН-94 от оперативной группы DEFY.
 M16A1BOSS(0);AN94(0)<Speaker>AN-94</Speaker>||<BGM>BGM_Empty</BGM>:...
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;AN94(0)||<BGM>BGM_Sneak</BGM>:Drop your weapons before my forces smash you to pieces.
-M16A1BOSS(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Why should I?
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||:That's an order. An order sanctioned by absolute superiority in strength. +If you don't want to be reduced to a pile of scrap metal, obey me.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;AN94(0)||<BGM>BGM_Sneak</BGM>:Бросьте оружие, пока мои отряды не уничтожили вас всех.
+M16A1BOSS(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:С хрена ли?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||:Это приказ. Приказ, подкреплённый абсолютным превосходством в силе. +Если не хочешь превратиться в кучу металлолома, подчиняйся мне.
 M16A1BOSS(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||:Do not hesitate, and do not think about resisting. +You aren't in the position to do so.
-AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>AR-15, we're running out of ammo. If we fight them, the probability of our survival is zero...</color> +<color=#00CCFF>Ange already has our coordinates. We just need to buy ourselves time until help arrives.</color>
-AN94(4);AR15Mod(3)<Speaker>ST AR-15</Speaker>||<黑屏1>:<color=#00CCFF>I understand.</color> +Fine. We surrender.
-()<Speaker></Speaker>||<BIN>172</BIN><黑屏2>:With Sangvis muzzles pointed at them, AR-15 and AN-94 discard their weapons and put their hands up in the air.
-M16A1()<Speaker>M16A1</Speaker>||:You've made the right choice. +Now bring me to the Pike Node.
-AR15()<Speaker>ST AR-15</Speaker>||:I have no idea what you're talking about.
-M16A1()<Speaker>M16A1</Speaker>||:The signal of that Baptized affiliated with Paradeus, the clone that refers to herself as "Mercurows", was directly underneath this theater just a while ago. According to your signals, you stumbled into this theater as she was pursuing you. +I know what your objective is. If Mercurows hadn't chased you down to kill you for knowing where the Node is, why would you be here?
-AR15()<Speaker>ST AR-15</Speaker>||:Tsk...
-Beak()||:As the saying goes, old friends make the worst enemies. You sure know your former teammate very well.
-AR15()<Speaker>ST AR-15</Speaker>||:Humph, follow me. But I can't guarantee if I'll remember the way.
-M16A1()||:You will.
-()||<SE1>Select</SE1>:M16 points her gun at AN-94.
-M16A1()||<黑屏1>:You'd better find the way, for the sake of your new friends as well as your old ones - before OGAS starts to get worse.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||:Не сомневайся и даже не думай сопротивляться. +У тебя просто нет на это права.
+AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>AR-15, у нас заканчиваются патроны. Если мы будем с ними сражаться, шансы на выживание равны нулю...</color> +<color=#00CCFF>У Анже уже есть наши координаты. Нам просто нужно выиграть время, пока не прибудет помощь.</color>
+AN94(4);AR15Mod(3)<Speaker>ST AR-15</Speaker>||<黑屏1>:<color=#00CCFF>Я понимаю.</color> +Ладно. Мы сдаемся.
+()<Speaker></Speaker>||<BIN>172</BIN><黑屏2>:Когда на них направлены орудия Сангвис,  AR-15 и АН-94 бросают оружие и поднимают руки вверх.
+M16A1()<Speaker>M16A1</Speaker>||:Ты сделала правильный выбор. +Теперь отведи меня к узлу системы «Щука».
+AR15()<Speaker>ST AR-15</Speaker>||:Я понятия не имею, о чём ты говоришь.
+M16A1()<Speaker>M16A1</Speaker>||:Сигнал той Крещённой, связанной с Парадеусом, — клона, называющего себя Меркьюроуз, — совсем недавно находился прямо под этим театром. Судя по твоим сигналам, ты забежала в этот театр, когда она преследовала тебя. +Я знаю, в чём твоя цель. Если бы Меркьюроуз не гналась за тобой, чтобы убить тебя за то, что ты знаешь, где находится Узел, зачем бы ты тогда оказалась здесь?
+AR15()<Speaker>ST AR-15</Speaker>||:Тц...
+Beak()||:Как говорится, старые друзья бывают самыми злейшими врагами. Ты, похоже, очень хорошо знаешь своего бывшего товарища по команде.
+AR15()<Speaker>ST AR-15</Speaker>||:Хм, иди за мной. Но не могу гарантировать, что я не заблужусь.
+M16A1()||:Ты обязательно это сделаешь.
+()||<SE1>Select</SE1>:М16 направляет ствол на АН-94.
+M16A1()||<黑屏1>:Тебе лучше найти выход из этой ситуации — как ради своих новых друзей, так и ради старых — пока ситуация с ОГАС не стала ещё хуже.
