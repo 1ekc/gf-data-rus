@@ -1,137 +1,137 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
 ()<Speaker></Speaker>||<BIN>169</BIN><黑屏2>:
-()||<BGM>BGM_Danger</BGM><SE2>Alarm</SE2>:The streets in the immediate vicinity of the quarantine wall have become hell on earth.
-NPC-PasserbyM(0)<Speaker>Civilian</Speaker>||:Ahhhhhhhh!
-NPC-PasserbyF(0)<Speaker>Civilian</Speaker>||:S-stay away from me! Help!
-()<Speaker>Garrison Soldier</Speaker>||<SE2>Gunfight</SE2>:Residents, evacuate to the nearest shelter immediately! Don't open the door until they stand down the alert! +Garrison of Gate E4 hailing Garrison HQ! ELIDs have invaded the city! We have entered combat! Requesting reinforcements!
-()<Speaker>Garrison Soldier</Speaker><黑屏1>||<SE2>Gunfight</SE2><黑点1>:Please... E-even here?! Ahhhhh!!
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||<黑点2>:<color=#A9A9A9>M4, AK-12, report! Answer me!</color>
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:Well...
-AK12(2)<Speaker>AK-12</Speaker>||:Ange, we couldn't stop the rebels. They detonated the explosives. +The explosion wasn't particularly big, it just blew a hole in the quarantine wall, but even so, it's large enough that plugging the breach is not going to be easy.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>...Copy that. I understand.</color>
-AK12(2)<Speaker>AK-12</Speaker>||:What are you planning to do, Ange?
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:...
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>They punched a hole through the wall...and at the worst possible time...</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>With just half of Task Force DEFY, we're pretty much helpless under the circumstances. At a time like this...</color>
-()<Speaker>Garrison Officer</Speaker><scan><通讯框>||:<color=#00CCFF>This is Lieutenant Dragović, Acting Commander of the Eastern Garrison.</color>
-()<Speaker>Garrison Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Attention all garrison units - we have received reports that the quarantine wall has been destroyed by rebel forces not long ago.</color>
-()<Speaker>Garrison Officer</Speaker><scan><通讯框>||:<color=#00CCFF>Do not panic. Everyone heed my command and hold your ground!</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>That sounds like...the wounded officer we came across.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ange, I have an idea.
-AK12(0)<Speaker>AK-12</Speaker>||:Being a busybody again?
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:Let her finish. What are you trying to say, M4?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:We coordinated with the officer of the local garrison while clearing the rebel forces. That's how we acquired our military IFF signals and comms frequency. +We alone can't stop the ELIDs, but if we work with the garrison troops...
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:I see, borrowing the strength of the local garrison is indeed a valid solution. +Patch me through. I'm gonna have a proper chat with that guy.
-()||:After making some small adjustments to the comms settings, Ange's digitally-distorted voice is transmitted through the channel. 
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>You seem to be having some trouble, Lieutenant Dragović.</color>
-()<Speaker>Garrison Officer</Speaker>||:Who are you? Which unit are you from? Why do you have access to this channel?
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>You've met my subordinates before. You probably remember them.</color>
-()<Speaker>Garrison Officer</Speaker>||:...I see. +If it hadn't been for you, we'd have been completely crushed by the bastards. +No matter who you're with, I owe you one.
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>Let's leave that for later. We're both short on time.</color>
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>What's your current situation? How long can you last? When will your reinforcements arrive?</color>
-()<Speaker>Garrison Officer</Speaker>||:It's chaos. My forces are putting their lives on the line to hold the upper wall, but the bottom has already been breached by the ELIDs...
-()<Speaker>Garrison Officer</Speaker>||:Most of the troops on the wall, including me, don't actually have much combat experience. Our tactical teams have also been separated so it's difficult for us to mount an organized defense.
-()<Speaker>Garrison Officer</Speaker>||:Also, we haven't been able to contact HQ. There's been no response to our communications. I doubt we'll be getting any reinforcements at all.
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>Tsk... The worst possible scenario, huh...</color>
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>Tell your subordinates to save their ammo and try their best to retreat into narrow passages or corridors.</color>
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>Concentrate your fire and rebuild your defense line. Do that first to make sure you don't get overrun.</color>
-()<Speaker>Garrison Officer</Speaker>||:Understood... But if we draw back to within the wall, more ELIDs will force their way into the city...
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>If you die here, no one will be left to stop the ELIDs.</color>
-()<Speaker>Garrison Officer</Speaker>||:...Right, I'll have my forces fire at the infected creatures to give us cover while we safeguard our defense line.
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>Each minute you fight, you'll kill more ELIDs and give the citizens of Belgrade a better chance to survive.</color>
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>Hold the wall and stay in touch. We'll find a way to give you support. Over.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>AK-12, M4, you heard that?</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>From now on, support the garrison troops in defending the wall and focus on helping isolated forces return to their garrison.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Our priority is to minimize their casualities and stop the ELIDs from entering the city. Hold out until reinforcements get here.</color>
-AK12(0)<Speaker>AK-12</Speaker>||:As always, you're the kind of person who enjoys surfing in a thunderstorm.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>I'm not that stupid. Besides, we're doing ourselves a favor by helping these garrison troops.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>We'll find a way to withdraw to the safe zone once this is over.</color>
-AK12(0)<Speaker>AK-12</Speaker>||:But some ELIDs have already broken through the wall and into the city, and the Collapse contamination has also started seeping in thanks to the destruction of the purification tower and the storm. +If you don't want to take another radiation bath, I suggest you stay indoors. Just leave everything on the frontlines to M4 and me.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>I know. With ELIDs crawling all over the place, running around like a headless chicken is suicide.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>If there's only a single breach, it should be pretty easy to tell where the ELIDs are coming from...</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>...If everything goes well, we should be able to keep the damage to a minimum with the help of the garrison troops.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Question is, will everything actually go that well?
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>To stir up waves in still waters... To turn bad things to our advantage... That's Task Force DEFY's mission.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Alright, focus on fighting. I have other things to sort out.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...K, do you read me?</color>
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Why have you broken radio silence?</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)<scan><通讯框>||<BGM>BGM_Room</BGM>:The purification tower is screwed. +...Not that you'd care about that, I suppose.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Just get to the point.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)<scan><通讯框>||:There are too many ELIDs and I don't have enough people, not to mention the oncoming storm. Time is short. I need you to send in more troops to lend me support near the wall.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I can't.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)<scan><通讯框>||:Why?!
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><Shake>;NPC-Jason(0)<scan><通讯框>||:Ahem...I just need them to round off the ELIDs; that's hardly an unreasonable request!
+()||<BGM>BGM_Danger</BGM><SE2>Alarm</SE2>:Улицы в непосредственной близости от карантинной стены превратились в настоящий ад.
+NPC-PasserbyM(0)<Speaker>Гражданский</Speaker>||:Ахххххх!
+NPC-PasserbyF(0)<Speaker>Гражданский</Speaker>||:Н-не подходи ко мне! На помощь!
+()<Speaker>Солдат гарнизона</Speaker>||<SE2>Gunfight</SE2>:Жители, немедленно эвакуируйтесь в ближайшее укрытие! Не открывай дверь, пока не отменят тревогу! +Гарнизон ворот E4 выходит на связь со штабом гарнизона! ЭЛИДы вторглись в город! Мы ведем бой! Просим подкрепления!
+()<Speaker>Солдат гарнизона</Speaker><黑屏1>||<SE2>Gunfight</SE2><黑点1>:Пожалуйста... Даже здесь?! Аааааа!!
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||<黑点2>:<color=#A9A9A9>М4, АК-12, отзовитесь! Ответьте!</color>
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Ну...
+AK12(2)<Speaker>AK-12</Speaker>||:Анже, нам не удалось остановить мятежников. Они привели в действие взрывчатку. +Взрыв был не слишком мощным, просто пробило дыру в карантинной стене, но даже так она достаточно большая, и заделать пролом будет нелегко.
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>...Принято. Всё понятно.</color>
+AK12(2)<Speaker>AK-12</Speaker>||:Что ты собираешься делать, Анже?
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:...
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Они пробили дыру в стене… и в самый неподходящий момент…</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>С половиной состава оперативной группы DEFY мы в таких условиях практически беспомощны. В такой момент...</color>
+()<Speaker>Офицер гарнизона</Speaker><scan><通讯框>||:<color=#00CCFF>Это лейтенант Драгович, исполняющий обязанности Командира Восточного гарнизона.</color>
+()<Speaker>Офицер гарнизона</Speaker><scan><通讯框>||:<color=#00CCFF>Внимание всем подразделениям гарнизона — поступили сообщения о том, что недавно мятежники разрушили карантинную стену.</color>
+()<Speaker>Офицер гарнизона</Speaker><scan><通讯框>||:<color=#00CCFF>Не паникуй. Все, слушайте мой приказ и держите оборону!</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>Это похоже на... того раненого офицера, которого мы встретили.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Анже, у меня есть идея.
+AK12(0)<Speaker>AK-12</Speaker>||:Опять суешь нос не в своё дело?
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:Дай ей договорить. Что ты хочешь сказать, M4?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Мы скоординировали свои действия с офицером местного гарнизона, когда зачищали территорию от мятежников. Так мы и добыли военные идентификационные сигналы и частоту связи. +В одиночку мы не сможем остановить ЭЛИД, но если будем работать вместе с войсками гарнизона...
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:Понятно, прибегнуть к помощи местного гарнизона — действительно хорошее решение. +Соедини меня с ним. Я по-настоящему поговорю с этим парнем.
+()||:После небольшой настройки параметров связи по каналу раздаётся голос Анже с цифровым искажением.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Похоже, у вас возникли проблемы, лейтенант Драгович.</color>
+()<Speaker>Офицер гарнизона</Speaker>||:Кто ты? Из какой ты части? Почему у тебя есть доступ к этому каналу?
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Ты уже встречался с моими подчинёнными. Наверное, ты их помнишь.</color>
+()<Speaker>Офицер гарнизона</Speaker>||:...Ясно. +Если бы не ты, эти ублюдки нас бы полностью разгромили. +Независимо от того, с кем ты сейчас, я у тебя в долгу.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Давай оставим это на потом. У нас обоих мало времени.</color>
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Какова твоя текущая ситуация? Сколько вы ещё продержитесь? Когда прибудут подкрепления?</color>
+()<Speaker>Офицер гарнизона</Speaker>||:Здесь царит хаос. Мои войска рискуют жизнью, чтобы удержать верхнюю стену, но нижнюю часть уже прорвали ЭЛИДы...
+()<Speaker>Офицер гарнизона</Speaker>||:Большинство солдат на стене, включая меня, на самом деле не имеют особого боевого опыта. К тому же наши боевые группы разделились, так что нам сложно организовать скоординированную оборону.
+()<Speaker>Офицер гарнизона</Speaker>||:К тому же нам не удалось связаться со штабом. На наши сообщения нет никакого ответа. Сомневаюсь, что нам вообще пришлют подкрепление.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Тц... Самый худший из возможных вариантов, да...</color>
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Скажи своим подчинённым, чтобы они берегли боеприпасы и старались отступать в узкие проходы или коридоры.</color>
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Сконцентрируйте огонь и восстановите линию обороны. Сделай это в первую очередь, чтобы тебя не захватили.</color>
+()<Speaker>Офицер гарнизона</Speaker>||:Понятно... Но если мы отступим за стены, то ещё больше ЭЛИД прорвутся в город...
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Если ты здесь сдохнешь, не останется никого, кто смог бы остановить ЭЛИД.</color>
+()<Speaker>Офицер гарнизона</Speaker>||:...Ладно, я прикажу своим войскам отстреливаться от заражённых тварей, чтобы обеспечить нам прикрытие, пока мы укрепляем линию обороны.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Каждую минуту, пока ты сражаешься, ты убиваешь всё больше ЭЛИД и даёшь жителям Белграда больше шансов на выживание.</color>
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Держись и оставайся на связи. Мы найдём способ тебе помочь. Конец связи.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>АК-12, М4, вы слышали?</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>С этого момента поддерживайте гарнизонные войска в обороне стены и сосредоточься на том, чтобы помочь отрезанным отрядам вернуться в гарнизон.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Наша главная задача — свести потери до минимума и не дать ЭЛИД прорваться в город. Держитесь, пока не прибудет подкрепление.</color>
+AK12(0)<Speaker>AK-12</Speaker>||:Как всегда, ты из тех, кто любит серфить во время грозы.
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Я не настолько глупа. К тому же, помогая гарнизонным войскам, мы делаем себе одолжение.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Как только всё закончится, мы найдём способ уйти в безопасную зону.</color>
+AK12(0)<Speaker>AK-12</Speaker>||:Но некоторые ЭЛИДы уже прорвались через стену и проникли в город, а из-за разрушения Очистительной башни и бури началось проникновение заражения «Коллапс». +Если не хочешь снова подвергнуться радиации, советую тебе оставаться в помещении. Просто оставь всё на передовой М4 и мне.
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Я знаю. Когда ЭЛИДы повсюду ползают, бегать как с ума сошедший — это самоубийство.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Если есть только одно место проникновения, то определить, откуда приходят ЭЛИД, должно быть довольно просто...</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>...Если всё пойдёт гладко, нам удастся свести ущерб к минимуму с помощью гарнизонных войск.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Вопрос в том, действительно ли всё пройдёт так гладко?
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Привнести волнение в тихую воду... Обрати неблагоприятные обстоятельства себе на пользу... Вот в чём заключается миссия оперативной группы DEFY.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Ладно, сконцентрируйтесь на бою. Мне нужно разобраться с другими делами.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...K, ты меня слышишь?</color>
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Почему ты нарушила радиомолчание?</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)<scan><通讯框>||<BGM>BGM_Room</BGM>:Очистительная башня испорчена. +...Хотя тебе, наверное, всё равно.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Просто переходи к делу.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)<scan><通讯框>||:ЭЛИДов слишком много, а у меня не хватает людей, не говоря уже о приближающейся буре. Времени мало. Мне нужно, чтобы ты прислал подкрепление, чтобы поддержать мой отряд у стены.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Я не могу.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)<scan><通讯框>||:Почему?!
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><Shake>;NPC-Jason(0)<scan><通讯框>||:Какого... Мне просто нужно, чтобы они уничтожили ЭЛИД, это же не такая уж и непомерная просьба!
 NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)<scan><通讯框>||:Perhaps I should seriously consider just how much you care about this mission.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Don't think too much. Just carry out your orders.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)<scan><通讯框>||:Care to listen to my suspicions about you?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Did these suspicions form over the last few seconds?</color>
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I believe I'm not obliged to listen, nor am I obliged to offer you any explanation—</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)<scan><通讯框>||:For example, maybe there's actually a secret agenda to this mission?
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)<scan><通讯框>||:Возможно, мне стоит всерьёз задуматься о том, насколько тебе важна эта миссия.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Не думай слишком много. Просто выполняй приказы.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)<scan><通讯框>||:Хочешь выслушать, что я о тебе подозреваю?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Эти подозрения возникли за последние несколько секунд?</color>
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Я считаю, что не обязан тебя слушать, да и объяснять тебе ничего тоже не обязан—</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)<scan><通讯框>||:Например, может, у этой миссии на самом деле есть какой-то скрытый план?
 NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>You're overthinking it, woman. That's not good for your health, mental or physical.</color>
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>As a Statesec agent, you simply have to do your job. That's the only thing you're good for.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)<scan><通讯框>||:Oh? And here I thought I was a renegade.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>All the more reason why you need me.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)<scan><通讯框>||:...What do you—
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I have no wish to concern myself with what you have done or who you used to be. Those things mean nothing to me.</color>
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>You're nothing more than a tool, and right now I'm the only one who can tell where your loyalties lie.</color>
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>I hope you can remember that. Now shut up.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;NPC-Jason(0)<scan><通讯框>||:...
-NPC-AngeStreet(0)<Speaker></Speaker>||:Click.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:Dammit, it's always like this. +He always says that everything is under his control, that he can provide all the support at his disposal, but when shit goes down, we're always on our own.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Disappointed?</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;AK12(0)<scan><通讯框>||:I never had any hopes for reinforcements. There's nothing to be disappointed about.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Still, I must say...K actually has a point. Stopping the ELIDs has never been our job to begin with. We can still leave this mess if we want to.</color>
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Judging by the speed at which these ELIDs are swarming in, I'm afraid I can't say the same in another ten minutes. Your location won't be safe for long.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;AK12(0)<scan><通讯框>||:...It isn't time yet.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;AK12(0)<scan><通讯框>||:Abandoning the wall will make the rest of our operation even more difficult. At least hold out till AR-15 and AN-94 complete their objective.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>So we're buying them time...</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;AK12(0)<scan><通讯框>||:What's the situation?
-NPC-AngeStreet(0);M4A1Mod(0)<Speaker>M4A1Mod</Speaker><scan><通讯框>||:<color=#00CCFF>Order is gradually being restored, but things still aren't looking good.</color>
-NPC-AngeStreet(0);M4A1Mod(0)<Speaker>M4A1Mod</Speaker><scan><通讯框>||:<color=#00CCFF>Almost all garrison outposts are in a state of emergency...</color>
-NPC-AngeStreet(0);M4A1Mod(0)<Speaker>M4A1Mod</Speaker><scan><通讯框>||:<color=#00CCFF>From what I saw, these soldiers are practically panic-shooting, and their accuracy is...</color>
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>With this level of training, I'm afraid they won't last very long.</color>
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Also, I just eavesdropped on the comms of the local garrison.</color>
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>It appears that neither the mobilization of backup forces nor the evacuation of civilians are going too well.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>;AK12(0)<scan><通讯框>||:The majority of them are youngsters who have never seen real combat. You can't expect them to be too capable. On top of that, the garrisons have been infiltrated. This must also be part of their plan.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Actually, the main reason why things have gone down so badly is because the rebels seized control of all automated heavy weapons beforehand.</color>
-NPC-AngeStreet(0);M4A1Mod(0)<Speaker>M4A1Mod</Speaker><scan><通讯框>||:<color=#00CCFF>But they have all pretty much been destroyed in the previous battle...by us.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>||<BGM>BGM_Empty</BGM>:What else could we have done? We didn't have the luxury to spare the armored units and the tanks.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>||<SE1>Explode</SE1><黑屏1>:Besides, as long as we still have ammo and we make sure the ELIDs are only coming from one direction, then the situation isn't exactly beyond...
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Ты слишком много об этом думаешь, женщина. Это вредно для твоего здоровья — и психического, и физического.</color>
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Как агент Госбеза, тебе просто нужно делать свою работу. Это единственное, на что ты годна.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)<scan><通讯框>||:Да? А я-то думала, что это я — изгой.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Тем более я тебе нужен.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)<scan><通讯框>||:...О чем ты—
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Мне нет дела до того, что ты натворила или кем ты была раньше. Мне на это плевать.</color>
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Ты всего лишь марионетка, и сейчас только я знаю, на чьей стороне твоя лояльность.</color>
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||:<color=#00CCFF>Надеюсь, ты это запомнишь. А теперь заткнись.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;NPC-Jason(0)<scan><通讯框>||:...
+NPC-AngeStreet(0)<Speaker></Speaker>||:Клик.
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>||:Звездец, так всегда. +Он всегда говорит, что всё под его контролем, что он может предоставить всю доступную поддержку, но когда дело доходит до дела, мы всегда остаемся одни.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Разочарованна?</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;AK12(0)<scan><通讯框>||:Я и не надеялась на подкрепление. Так что разочароваться не в чем.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Но всё же надо сказать... К, пожалуй, прав. Останавливать ЭЛИДы никогда не входило в наши обязанности. Мы всё ещё можем уйти из этой заварушки, если захотим.</color>
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Судя по тому, с какой скоростью сюда устремляются эти ЭЛИДы, боюсь, что через десять минут я уже не смогу сказать того же самого. Твое местоположение не будет безопасным еще долго.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;AK12(0)<scan><通讯框>||:...Еще не время.
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;AK12(0)<scan><通讯框>||:Если мы оставим эту стену, остальная часть нашей операции станет ещё сложнее. По крайней мере, продержись, пока AR-15 и АН-94 не выполнят свою задачу.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Таким образом, мы выигрываем для них время...</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;AK12(0)<scan><通讯框>||:Как обстоят дела?
+NPC-AngeStreet(0);M4A1Mod(0)<Speaker>M4A1Mod</Speaker><scan><通讯框>||:<color=#00CCFF>Порядок постепенно налаживается, но ситуация по-прежнему не выглядит обнадёживающей.</color>
+NPC-AngeStreet(0);M4A1Mod(0)<Speaker>M4A1Mod</Speaker><scan><通讯框>||:<color=#00CCFF>Практически все отряды гарнизона находятся в состоянии чрезвычайной ситуации...</color>
+NPC-AngeStreet(0);M4A1Mod(0)<Speaker>M4A1Mod</Speaker><scan><通讯框>||:<color=#00CCFF>Насколько я видела, эти солдаты стреляют практически вслепую, и их меткость...</color>
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>С таким уровнем подготовки, боюсь, они долго не продержатся.</color>
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Кстати, я только что подслушала разговор местного гарнизона.</color>
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Похоже, что ни мобилизация резервных сил, ни эвакуация мирных жителей идут не слишком гладко.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>;AK12(0)<scan><通讯框>||:Большинство из них — молодые ребята, которые никогда не участвовали в настоящих боях. Не стоит ожидать от них особой эффективности. К тому же в гарнизоны проникли шпионы. Наверное, это тоже часть их плана.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Вообще-то, главная причина, по которой всё так плохо обернулось, в том, что мятежники заранее захватили все автоматическое тяжёлое вооружение.</color>
+NPC-AngeStreet(0);M4A1Mod(0)<Speaker>M4A1Mod</Speaker><scan><通讯框>||:<color=#00CCFF>Но их всех практически уничтожили в предыдущем сражении... мы сами.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>||<BGM>BGM_Empty</BGM>:Что ещё мы могли сделать? У нас не было возможности уделить внимание бронетанковым частям и танкам.
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>||<SE1>Explode</SE1><黑屏1>:К тому же, пока у нас ещё есть боеприпасы и мы следим за тем, чтобы сигналы ЭЛИД поступали только с одной стороны, ситуация ещё не совсем безнадёжна...
 ()||<BIN>169</BIN><BGM>BGM_Danger</BGM>:
-()<Speaker>Ange</Speaker>||<BIN>9</BIN><黑屏2>:Despair often comes hand-in-hand with hope that is almost within reach.
-()<Speaker>Ange</Speaker>||<黑屏1>:A second explosion on the quarantine wall thoroughly destroys the opportunity that I thought I had within my grasp.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||<黑屏2>:<color=#00CCFF>Another explosion?! And the scale...</color>
-AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:I'm investigating, but...
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||<SE2>Gunfight</SE2>:Too many people are trying to communicate simultaneously; coupled with the EM storm, the signals are getting all scrambled!
-M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>M4, can you see the location of the explosion? Do you have visuals?</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:There...there's a second opening on the wall! +I...I'm sending you the location!
-M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>No way...</color>
-AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:It could be a time-delayed bomb. That would explain why the first explosion was a lot smaller than expected. +The rebels probably planned to trigger the second explosion as the rescue teams and engineer corps rushed in to plug the first opening.
-AK12(2);NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>That hardly matters anymore. More importantly, if they're caught in between, then the garrison troops...</color>
-AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||<黑点1>:Holding our position here no longer serves any purpose. We must leave this place before we're attacked from both sides.
-()||<黑点2>:...At the quarantine wall.
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>Lieutenant Dragović, do you copy?! There's been another explosion!</color>
-()<Speaker>Garrison Officer</Speaker>||<SE2>Gunfight</SE2>:I know... ELIDs have already started appearing from behind! We're only holding a small section at the top of the wall...
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>As you can see, the situation has become even more precarious. There's no point in defending the wall at this point.</color>
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>For the sake of preserving your strength, I suggest you withdraw immediately.</color>
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>My subordinates will cover your evacuation. Please move in an organized manner and follow my plan...</color>
-()<Speaker>Garrison Officer</Speaker>||<BGM>BGM_Empty</BGM>:...We're not leaving.
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>There's no time for you to hesitate. This is your only chance of escape. If you drag this on...</color>
-()<Speaker>Garrison Officer</Speaker>||<BGM>BGM_Sad</BGM>:I can see that the other teams are still doing everything they can to destroy the ELIDs. If we leave, they'll lose fire support and take the brunt of the attack. I can't just abandon them.
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>You want to drag your subordinates with you to hell?</color>
-()<Speaker>Garrison Officer</Speaker>||:...You were right. Every ELID we kill will buy more time for the citizens of Belgrade.
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>Given that you survive!</color>
-()<Speaker>Garrison Officer</Speaker>||<SE2>Gunfight</SE2>:Our orders are to defend this wall. This is our post. +Behind the wall is my hometown; behind the wall is my country and my people. I have to protect it. +The same...goes for my subordinates. We've all got family here.
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>...</color>
-()<Speaker>Garrison Officer</Speaker>||:Thank you very much for all the help you've given us. If it hadn't been for you, we wouldn't have made it this far. +We will stay behind to slow them down. Please withdraw as fast as you can.
-()<Speaker>Ange</Speaker>||:<color=#00CCFF>...Received.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Attention Task Force DEFY, we're withdrawing.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:But those people...!
-AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:No buts, M4. We're in combat. Our orders are absolute.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||:<color=#00CCFF>Rendezvous with me at the Belgrade safe house. We'll plan for our next step when we're there.</color>
-NPC-AngeStreet(0)<Speaker>Ange</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Don't think. Just focus on executing my order.</color>
-()||<黑点2><BIN>181</BIN>:...Click.
-NPC-AngeStreet(0)<Speaker>Ange</Speaker>||:Soldiers are all the same...be it Yegor or Dragović. +I wonder if it's a good thing or a bad thing to train people into such soldiers.
+()<Speaker>Анже</Speaker>||<BIN>9</BIN><黑屏2>:Отчаяние часто идет рука об руку с надеждой, которая уже почти на расстоянии вытянутой руки.
+()<Speaker>Анже</Speaker>||<黑屏1>:Второй взрыв на карантинной стене окончательно разрушил ту возможность, которую я считала уже почти у себя в руках.
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||<黑屏2>:<color=#00CCFF>Еще один взрыв?! И такие масштабы...</color>
+AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:Я занимаюсь расследованием, но...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||<SE2>Gunfight</SE2>:Слишком много людей пытаются говорить одновременно, в сочетании с электромагнитной бурей сигналы просто смешиваются!
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>M4, ты видишь место взрыва? У тебя есть видеозапись?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:Там... там на стене ещё одно отверстие! +Я... я отправляю тебе координаты!
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Не может быть...</color>
+AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:Это может быть бомба с отложенным взрывом. Это объяснило бы, почему первый взрыв оказался гораздо слабее, чем ожидалось. +По всей видимости, мятежники планировали устроить второй взрыв, когда спасатели и саперы бросятся заделывать первую брешь.
+AK12(2);NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Это уже не имеет значения. Гораздо важнее то, что если они окажутся между двух огней, то гарнизонные войска...</color>
+AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||<黑点1>:Держать оборону здесь больше не имеет смысла. Нам нужно уходить отсюда, пока нас не атаковали с двух сторон.
+()||<黑点2>:...У карантинной стены.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Лейтенант Драгович, вы слышите?! Произошёл ещё один взрыв!</color>
+()<Speaker>Офицер гарнизона</Speaker>||<SE2>Gunfight</SE2>:Я знаю... ЭЛИДы уже начали появляться сзади! Мы удерживаем лишь небольшой участок на вершине стены...
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Как видишь, ситуация стала ещё более опасной. Сейчас уже нет смысла защищать стену.</color>
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Чтобы сберечь силы, я предлагаю вам немедленно отступить.</color>
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Мои подчинённые обеспечат твою эвакуацию. Пожалуйста, двигайся спокойно и следуй моему плану...</color>
+()<Speaker>Офицер гарнизона</Speaker>||<BGM>BGM_Empty</BGM>:...Мы не уйдем.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Нет времени раздумывать. Это твой единственный шанс спастись. Если ты будешь тянуть...</color>
+()<Speaker>Офицер гарнизона</Speaker>||<BGM>BGM_Sad</BGM>:Я вижу, что другие команды по-прежнему делают всё возможное, чтобы уничтожить ЭЛИД. Если мы уйдём, они останутся без огневой поддержки и примут на себя всю тяжесть атаки. Я не могу просто бросить их.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Ты хочешь утащить своих подчинённых с собой в ад?</color>
+()<Speaker>Офицер гарнизона</Speaker>||:...Ты была права. Каждый убитый нами ЭЛИД даст жителям Белграда ещё немного времени.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>Если, конечно, ты выживешь!</color>
+()<Speaker>Офицер гарнизона</Speaker>||<SE2>Gunfight</SE2>:Нам приказано защищать эту стену. Это наш рубеж. +За стеной — мой родной город, за стеной — моя страна и мой народ. Я должен их защищать. +То же самое... касается и моих подчинённых. У всех нас здесь есть семьи.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>...</color>
+()<Speaker>Офицер гарнизона</Speaker>||:Большое спасибо за всю помощь, которую ты нам оказала. Если бы не ты, мы бы так далеко не зашли. +Мы останемся здесь, чтобы задержать их. Пожалуйста, уходи отсюда как можно быстрее.
+()<Speaker>Анже</Speaker>||:<color=#00CCFF>...Принято.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Внимание, оперативная группа DEFY, мы отступаем.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:Но эти люди...!
+AK12(2)<Speaker>AK-12</Speaker>;NPC-AngeStreet(0)<scan><通讯框>||:Никаких но, М4. Мы в бою. Наши приказы — это закон.
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||:<color=#00CCFF>Встретимся в убежище в Белграде. Там и решим, что делать дальше.</color>
+NPC-AngeStreet(0)<Speaker>Анже</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Не думай. Просто сосредоточься на выполнении моего приказа.</color>
+()||<黑点2><BIN>181</BIN>:...Клик.
+NPC-AngeStreet(0)<Speaker>Анже</Speaker>||:Солдаты все одинаковые... будь то Егор или Драгович. +Интересно, это хорошо или плохо — воспитывать из людей таких солдат?
 ()||<黑屏1>:
