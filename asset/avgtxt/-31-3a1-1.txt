@@ -1,37 +1,37 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||<BIN>136</BIN><BGM>BGM_Sneak</BGM><黑屏2><震屏>:...What?!
-()<Speaker></Speaker>||:A truck is making for the cathedral at top speed. Everyone present assumes it is rigged to self-destruct and prepares to fire at it, but it slams to a sudden stop and Marlohe hops out of the vehicle.
-NPC-Maid(0)<Speaker>Marlohe</Speaker>||:These are the only vehicles we have. We might still make it if we leave with the VIP now.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:So these banged-up trucks are our so-called reinforcements...? They aren't even armored!
-NPC-KalinReporter(0);NPC-Jason(0)<Speaker>K</Speaker>||:Just be grateful we managed to find something.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>;NPC-Jason(0)||:What should we do about the refugees? If we only have these unprotected vehicles, they might as well stay in the cathedral...
-NPC-KalinReporter(0);NPC-Jason(0)<Speaker>K</Speaker>||:That's right. Take a small number of elite Dolls and escort the VIP to the extraction point where the helicopter will be waiting. I'll allow the rest of your Dolls to stay behind and protect the civilians.
-NPC-KalinReporter(0)<Speaker>Kalina</Speaker>||:But the enemy's attack...
-RO635(2)<Speaker>RO635</Speaker>||:Their target is the Chairwoman herself. If we leave with her, we'll probably draw the enemies away. With just the ELIDs to deal with, I'm sure the remaining teams will be able to handle it. I second Mr. K's idea.
-NPC-Jason(0)<Speaker>K</Speaker>||:Marlohe will come with you as a guide. This is all I can give you.
-指挥官()<Speaker>Commander</Speaker>||:But then the escort team will be at incredible risk.
-RO635(2)<Speaker>RO635</Speaker>||:Commander, please have faith in us. +If we remain in this impasse, we'll be waiting for certain death. If we move, there might just be some hope for us.
-()<Speaker></Speaker>||:I turn around and see that RO and SOP-II have already prepped their gear and are all set to go.
-RO635(2)<Speaker>RO635</Speaker>||:SOP-II, you alright with that?
-RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Of course! I'm the best at this kind of mission!
-RO635(2)<Speaker>RO635</Speaker>||<黑点1>:My plan is to drive through the city as quickly as possible. We'll send the Chairwoman off once we reach the extraction point. I've already studied the map. This sector is relatively less dangerous, so our team will retreat toward the city outskirts. Once the White Faction has been drawn away, you can also lead the civilians away from the city. No matter how you look at it, it beats hanging around in the cathedral.
-()<Speaker></Speaker>||<BIN>86</BIN><黑点2>:...Five minutes later. +RO, with her team and Chairwoman Ulrich in tow, sets off on the road leading to the river delta.
-RO635(3)<Speaker>RO635</Speaker>||:My deepest apologies, Madam, for putting you in danger again. To tell the truth, I'm not sure if we can reach the destination safely. Judging from the previous attacks, the risks are very high.
-RO635(3);NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:...I'm the one who should apologize. I know I shouldn't be the only one to escape. +But if this would give those civilians and children a chance to survive, I've got to give this a try.
-RO635(3)<Speaker>RO635</Speaker>||:If everyone can make it to the destination, we'll all be safe... +That said...it didn't take the enemy long to catch up with us...
-()<Speaker></Speaker>||:Marlohe looks toward RO, who nods. +RO turns to observe the commotion from behind the vehicle, only to find SOP-II already in battle position. +The enemies in pursuit are trying to gain on them, but they can't catch up to the truck's speed. +Just as RO starts to relax slightly and is about to turn her attention away...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:Watch out ahead!
-()<Speaker></Speaker>||<BGM>BGM_Battle</BGM><震屏><SE1>Explode</SE1>:BOOM!
-()<Speaker></Speaker>||:A sedan suddenly dives out right in front of the truck. Startled, Marlohe tries to swerve and avoid the car, but it's already too late. The truck loses control and crashes straight into the railings on the side of the road.
-RO635(5)<Speaker>RO635</Speaker>||:Tsk, I knew it wouldn't be so easy! Madam, are you alright?!
-()<Speaker></Speaker>||:RO635 shields Chairwoman Ulrich with her own body while SOP-II and the other Dolls jump off the truck and prepare to defend the VIP.
-NPC-Ambassador(0)<Speaker>Chairwoman Ulrich</Speaker>||:Tha...thanks, I'm fine...
-RO635(4)<Speaker>RO635</Speaker>||:Please stay on the truck and don't move. I'll take a look outside.
-RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO, the White Faction are coming from behind!
-RO635(4)<Speaker>RO635</Speaker>||:Tsk, there's more of them coming from ahead! Even ELIDs! Dammit, we're trapped!
-()<Speaker></Speaker>||:As they have observed, the truck transporting Chairwoman Ulrich is almost completely surrounded.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What do we do now?
-RO635(5)<Speaker>RO635</Speaker>||:We'll clear the road ahead while the others defend against the enemy attack from behind. Once the road is secure, we'll move the VIP on foot!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang bang! Bang bang bang!
-()<Speaker></Speaker>||<黑点1>:Gunshots, echoes of artillery fire, running footsteps, mechanical whirs, and the splattering of blood as bodies of flesh are blown up... All these noises weave into the road's only refrain.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||<BIN>136</BIN><BGM>BGM_Sneak</BGM><黑屏2><震屏>:...Что?!
+()<Speaker></Speaker>||:Грузовик мчится на полной скорости к собору. Все присутствующие думают, что он заминирован и вот-вот взорвётся, и готовятся открыть огонь, но он резко тормозит, и из него выпрыгивает Марло.
+NPC-Maid(0)<Speaker>Марло</Speaker>||:Это единственные машины, которые у нас есть. Если мы выедем прямо сейчас с VIP-персоной, то, может быть, ещё успеем.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Так вот они, наши так называемые подкрепления — эти разбитые грузовики...? Они даже не бронированные!
+NPC-KalinReporter(0);NPC-Jason(0)<Speaker>K</Speaker>||:Просто будь благодарна, что нам удалось что-то найти.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>;NPC-Jason(0)||:Что нам делать с беженцами? Если у нас есть только эти небронированные машины, им лучше остаться в соборе...
+NPC-KalinReporter(0);NPC-Jason(0)<Speaker>K</Speaker>||:Всё верно. Возьми небольшую группу элитных Кукол и сопроводи VIP-персону к месту эвакуации, где будет ждать вертолёт. Остальным твоим Куклам я разрешу остаться и прикрывать мирных жителей.
+NPC-KalinReporter(0)<Speaker>Калина</Speaker>||:Но атака врага...
+RO635(2)<Speaker>RO635</Speaker>||:Их цель — сама председательница. Если мы уйдем вместе с ней, то, скорее всего, отвлечём врагов. Остальные команды, я уверена, справятся с ЭЛИД, если придётся иметь дело только с ними. Я поддерживаю идею мистера К.
+NPC-Jason(0)<Speaker>K</Speaker>||:Марло будет сопровождать тебя в качестве проводника. Это всё, что я могу тебе предложить.
+指挥官()<Speaker>Командир</Speaker>||:Но тогда группа сопровождения окажется в чрезвычайной опасности.
+RO635(2)<Speaker>RO635</Speaker>||:Командир, пожалуйста, доверьтесь нам. +Если мы останемся в этом положении, нас ждет верная гибель. Если мы начнем действовать, у нас ещё может появиться надежда.
+()<Speaker></Speaker>||:Я оборачиваюсь и вижу, что RO и SOP-II уже собрали своё снаряжение и готовы к выходу.
+RO635(2)<Speaker>RO635</Speaker>||:SOP-II, ты не против?
+RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Конечно! Я в таких миссиях просто профи!
+RO635(2)<Speaker>RO635</Speaker>||<黑点1>:Мой план — как можно быстрее проехать через город. Как только доберёмся до точки эвакуации, мы попрощаемся с председательницей. Я уже изучил карту. Этот район относительно безопасен, так что наша команда отступит к окраинам города. Как только Белая фракция будет отвлечена, ты тоже сможешь вывести мирных жителей из города. Как ни крути, это лучше, чем сидеть без дела в соборе.
+()<Speaker></Speaker>||<BIN>86</BIN><黑点2>:...Пять минут спустя. RO вместе со своей командой и председательницей Ульрих отправляется по дороге, ведущей к дельте реки.
+RO635(3)<Speaker>RO635</Speaker>||:Прими мои искренние извинения, мадам, за то, что снова подвергаем вас опасности. По правде говоря, я не уверена, что нам удастся благополучно добраться до места назначения. Судя по предыдущим нападениям, риск очень высок.
+RO635(3);NPC-Ambassador(0)<Speaker>Председательница Ульрих</Speaker>||:...Это я должна извиниться. Я знаю, что не должна уходить одной. +Но если это даст тем мирным жителям и детям шанс выжить, я должна попробовать.
+RO635(3)<Speaker>RO635</Speaker>||:Если всем удастся добраться до места назначения, мы все будем в безопасности... +Но... враг очень быстро нас догнал...
+()<Speaker></Speaker>||:Марло смотрит на RO, которая кивает. +RO поворачивается, чтобы понаблюдать за суматохой из-за машины, и видит, что SOP-II уже заняла боевую позицию. +Преследующие враги пытаются их догнать, но не могут угнаться за скоростью грузовика. +Как раз когда RO начинает немного расслабляться и собирается отвлечься...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:Осторожно!
+()<Speaker></Speaker>||<BGM>BGM_Battle</BGM><震屏><SE1>Explode</SE1>:БАБАХ!
+()<Speaker></Speaker>||:Прямо перед грузовиком внезапно выскочил седан. Испугавшись, Марло пытается свернуть в сторону, чтобы избежать столкновения, но уже слишком поздно. Грузовик теряет управление и врезается прямо в ограждение на обочине дороги.
+RO635(5)<Speaker>RO635</Speaker>||:Эх, я же знала, что так просто не получится! Мадам, с вами все в порядке?!
+()<Speaker></Speaker>||:RO635 закрывает своим телом председательницу Ульрих, пока SOP-II и остальные «Куклы» спрыгивают с грузовика и готовятся защищать VIP-персону.
+NPC-Ambassador(0)<Speaker>Председательница Ульрих</Speaker>||:Спа...спасибо, я в порядке...
+RO635(4)<Speaker>RO635</Speaker>||:Пожалуйста, оставайтесь в грузовике и не двигайтесь. Я пойду посмотрю, что там снаружи.
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO, Белая фракция приближается сзади!
+RO635(4)<Speaker>RO635</Speaker>||:Черт, впереди их еще больше! Даже ЭЛИДы! Черт возьми, мы в ловушке!
+()<Speaker></Speaker>||:Как они заметили, грузовик, в котором едет председательница Ульрих, почти полностью окружен.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Что нам теперь делать?
+RO635(5)<Speaker>RO635</Speaker>||:Мы расчистим дорогу впереди, пока остальные будут отражать атаку врага с тыла. Как только дорога будет безопасна, мы будем двигаться с VIP пешком!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Бэнг бэнг! Бэнг бэнг бэнг!
+()<Speaker></Speaker>||<黑点1>:Выстрелы, эхо артиллерийского огня, топот бегущих ног, механический гул и брызги крови, когда тела разрываются на куски… Все эти звуки сплетаются в единственный аккорд на дороге.
 ()||<黑点2><BIN>10</BIN>:
