@@ -1,39 +1,39 @@
 ()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
 ()||<BIN>167</BIN><黑屏2>:
-()||<BGM>BGM_Boss</BGM>:...Under the city of Belgrade.
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||<SE2>Gunfight</SE2>:Is that the best you can do, Sangvis Ferri? What an utter disgrace.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Oh, Pestilence! Oh, War! Oh, Famine! And I - am Death!
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||<SE2>Gunfight</SE2>:Here to deliver your bespoke demise!
-()||:Even under the pervasive and deafening barrage, the condescending smile and over-the-top inflection are transmitted to M16's transciever with perfect clarity.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:This isn't the first time I've been in this kind of situation, but I must say I'm surprised. +We're hopelessly outmatched. +Even though they've already opened the doors to the Node, we haven't even been able to take a single step inside...
-()||<SE2>Gunfight</SE2>:The Sangvis forces are quite literally being cut down by the White Faction, completely unable to fight back. +The dazzling lasers, continuously exploding grenades, and never-ending gunshots together weave a symphony following the Nytos' conducting gestures.
-()||<SE1>Explode</SE1>:It's as if an opera duet titled "Carnage" is being performed in these depths of this city.
-NPC-Nimogen(0)<Speaker>Nimogen</Speaker>||:In the end, these so-called Sangvis are exactly like the Griffins - nothing more than stinking rats sneaking around the sewers. +What's the point in playing hard-to-get? Come on out and let me put an end to this meaningless battle.
-NPC-Mercurows(0)<Speaker>Mercurows</Speaker>||:Without destruction, there will be no rebirth! +Oh, my angels, sound the trumpet! Unleash the devastation! +In the name of the Father, let the world burn in the lake of fire!
-()||<SE2>Gunfight</SE2>:Under the overwhelming firepower of the massive amount of white units, the Sangvis forces are slowly pushed back until they're huddling together as a compact group in the center of the White Faction's encirclement. +However, despite the extreme disadvantage her forces are in, M16's face remains totally impassive.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:I didn't want to do this, but...
-()||<BGM>BGM_Empty</BGM><SE2>MachineGunBurst</SE2>:Suddenly, M16 raises an eyebrow almost imperceptibly.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Gunfire? +A single...no, two shots fired simultaneously?
-()||<黑点1>:Some distinctive noises can be heard from amidst the commotion of intense crossfire.
-()||<黑点2>:On the other side of the passage...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Did I miss? Then I'll just get in another shot...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Wait, look!
-()||:The gunfire gradually dies down, and the white units come to a halt one after the other. They all freeze in place like puppets whose strings are cut. +With M4's and AR-15's weapons still trained on them, the two Nytos merely look stunned.
-NPC-Nimogen(0)<Speaker></Speaker>||<黑点1>:But unlike the white units, one of them is still capable of movement. She slowly looks down and stares at the her broken hairband lying on the ground in pieces. Then...
-()<Speaker>Nimogen</Speaker>||<BIN>173</BIN><黑点2><BGM>BGM_Brain</BGM>:AAAAAAAAAAAAARGHHHH!!!
-()<Speaker>Nimogen</Speaker>||:It-it hurts! Fa-Father! Help me!
-()<Speaker>Nimogen</Speaker>|||<黑点1>:Who was it?! Who did this?! Stop it! Don't come in! It hurts! It hurts! AHHH...AAAAHHHHHHH!!!
-()||<BIN>167</BIN><黑点2>:The piercing wails break the silence and these high-pitched shrieks slowly turn into hoarse moans. +The crazed Nyto stumbles her way through the inanimate legion of white units and makes a clumsy escape.
-()||:As she scrambles away, the white forces also drop their weapons and fall over each other trying to reach the exit.
-NPC-Mercurows(0)<Speaker></Speaker>||:As for the other Nyto, she's still frozen on the spot, completely motionless.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...It worked! The white forces have gone out of control! +You're pretty good when you put your heart in it, M4.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:The plan could only work with your help.
-M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Still, how did you do that? +I mean, so we know that the blocking device is a weak spot, but even AN-94, who specializes in electronic warfare, wouldn't have been able to hack two Nytos so quickly.
+()||<BGM>BGM_Boss</BGM>:...Под городом Белградом.
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||<SE2>Gunfight</SE2>:Это всё, на что ты способен, Сангвис Ферри? Какой же это позор.
+NPC-Mercurows(0)<Speaker>Меркьюроуз</Speaker>||:О, Чума! О, Война! О, Голод! А я — Смерть!
+NPC-Mercurows(0)<Speaker>Меркьюроуз</Speaker>||<SE2>Gunfight</SE2>:Мы здесь, чтобы принести тебе смерть по твоему вкусу!
+()||:Даже под этим непрекращающимся и оглушительным обстрелом высокомерная улыбка и напыщенная интонация передаются на приёмник M16 с идеальной чёткостью.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Я не впервые попадаю в такую ситуацию, но должна признать, что удивлена. +Мы безнадежно уступаем им. +Хотя они уже открыли двери в Узел, нам так и не удалось сделать ни одного шага внутрь...
+()||<SE2>Gunfight</SE2>:Войска Сангвиса буквально сражаются до последнего под натиском Белой фракции, будучи совершенно неспособными дать отпор. +Ослепительные лазеры, непрерывные взрывы гранат и несмолкаемый автоматный огонь вместе создают симфонию под дирижерские жесты Нито.
+()||<SE1>Explode</SE1>:Как будто в этих глубинах города исполняется оперный дуэт под названием Резня.
+NPC-Nimogen(0)<Speaker>Нимоген</Speaker>||:В конце концов, эти так называемые Сангвис ничем не отличаются от Грифонов — они всего лишь вонючие крысы, ползающие по канализации. +Зачем притворяться неприступными? Выходите же, я положу конец этой бессмысленной битве.
+NPC-Mercurows(0)<Speaker>Меркьюроуз</Speaker>||:Без разрушения не будет возрождения! +О, мои ангелы, трубите в трубы! Развяжите хаос! +Во имя Отца, пусть мир сгорит в озере огненном!
+()||<SE2>Gunfight</SE2>:Под сокрушительным огнём огромного количества белых отрядов войска Сангвиса постепенно оттесняются, пока не сбиваются в плотную группу в центре окружения Белой фракции. +Однако, несмотря на крайне невыгодное положение своих войск, лицо M16 остаётся совершенно бесстрастным.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Я не хотела этого делать, но...
+()||<BGM>BGM_Empty</BGM><SE2>MachineGunBurst</SE2>:Внезапно М16 почти незаметно приподнял бровь.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Выстрелы? +Один... нет, два выстрела одновременно?
+()||<黑点1>:Среди шума интенсивного перекрестного огня слышны некоторые характерные звуки.
+()||<黑点2>:По другую сторону прохода...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Я промахнулась? Тогда попробую ещё раз...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Подожди, смотри!
+()||:Стрельба постепенно стихает, и белые отряды один за другим останавливаются. Все они замирают на месте, словно марионетки, у которых перерезали нитки. +Под прицелами M4 и AR-15 две Нито просто стоят в оцепенении.
+NPC-Nimogen(0)<Speaker></Speaker>||<黑点1>:Но в отличие от белых фигурок, одна из них всё ещё может двигаться. Она медленно опускает взгляд и пристально смотрит на свою разбитую повязку, лежащую на земле кусками. А потом...
+()<Speaker>Нимоген</Speaker>||<BIN>173</BIN><黑点2><BGM>BGM_Brain</BGM>:AAAAAAAAAAAAA!!!
+()<Speaker>Нимоген</Speaker>||:Бо-больно! О-отец! Помоги мне!
+()<Speaker>Нимоген</Speaker>|||<黑点1>:Кто это был?! Кто это сделал?! Хватит! Не входи! Больно! Больно! АААА...ААААААААААААААА
+()||<BIN>167</BIN><黑点2>:Пронзительные вопли разрывают тишину, и эти высокие крики постепенно сменяются хриплыми стонами. +Обезумевшая Нито пробирается сквозь безжизненную армию белых юнитов и неуклюже удирает.
+()||:Пока она отбегает, белые солдаты тоже бросают оружие и падают друг на друга, пытаясь добраться до выхода.
+NPC-Mercurows(0)<Speaker></Speaker>||:А вот другая Нито до сих пор застыла на месте, совершенно неподвижно.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...Получилось! Белые войска вышли из-под контроля! +Ты неплохо справляешься, когда вкладываешь в это душу, M4.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:Этот план может сработать только с твоей помощью.
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Но всё-таки, как тебе это удалось? +То есть, мы знаем, что устройство блокировки — это слабое место, но даже АН-94, которая специализируется на радиоэлектронной борьбе, не смогла бы так быстро взломать двух Нито.
 M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:...
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:<color=#A9A9A9>What on earth happened? Why could I hack those Nyto...those people?</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:I suppose I've learned a few new tricks since we last saw each other.
-M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Glad to see you've become so dependable. I'd better put more effort in improving myself as well. +Now that we've dealt with the white stuff, it's time to settle things with Sangvis Ferri...and her, isn't that right?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Hold on.
-NPC-Mercurows(0)<Speaker></Speaker>||:Following M4A1's gaze, AR-15 looks over to the Nyto still standing there like a statue.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...I've still got some questions that need answering.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:<color=#A9A9A9>Что, черт возьми, произошло? Почему я смогла взломать этих Нито... этих людей?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:Похоже, с тех пор, как мы в последний раз виделись, я научилась паре-тройке новых трюков.
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Рада видеть, что ты стала такой надежной. Мне тоже нужно больше стараться, чтобы стать лучше. +Теперь, когда мы разобрались с белым существом, пора покончить с Сангвис Ферри... и с ней, верно?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Подожди.
+NPC-Mercurows(0)<Speaker></Speaker>||:Следуя за взглядом M4A1, AR-15 смотрит на Нито, которая по-прежнему стоит там, словно статуя.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...У меня ещё остались вопросы, на которые нужно получить ответы.
 ()||<黑屏1>:
