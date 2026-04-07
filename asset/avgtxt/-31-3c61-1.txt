@@ -1,102 +1,102 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>159</BIN><黑屏2>:... +...Near a pile of Sangvis remains.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? I was just... +What happened? Where's M16? And that Sangvis biker... Where have they gone?
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:They escaped.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Then the thing that the Commander asked us to intercept...
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:It doesn't look quite the same as the picture...but I'm guessing it's a small orb like this one? +It seems we've completed the mission...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Is that so...?
-()||<BGM>BGM_Empty</BGM>:SOP-II looks around.
-RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Wake</BGM>:What are you looking for, SOP-II?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:RO... When I was in the middle of the fight, for just an instant, I thought I saw AR-15 and M4... +But it's probably just my imagination...
+()||<BIN>159</BIN><黑屏2>:... +...Рядом с кучей останков Сангвиса.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Что? Я просто... +Что случилось? Где М16? И этот байкер из Сангвис... Куда они делись?
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:Они сбежали.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:А то, что Командир попросил нас перехватить...
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:Выглядит не совсем так, как на изображении... Но, наверное, это небольшой шар, вроде этого? +Похоже, мы выполнили задание...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Неужели...?
+()||<BGM>BGM_Empty</BGM>:SOP-II оглядывается по сторонам.
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Wake</BGM>:Что ты ищешь, SOP-II?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:RO... Когда я была в разгаре боя, на мгновение мне показалось, что я увидела AR-15 и M4... +Но, наверное, это просто мое воображение...
 M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:SOP-II...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:But they both looked...different than they used to be. +Haha, I must've been dreaming...
-M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:Dolls don't dream, SOP-II.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Then why...would I think I saw them...?
-RO635(2)<Speaker>RO635</Speaker>||<黑点1>:Because you actually did. +Look over there—
-()||<黑点2>:SOP-II looks toward where RO is pointing. +Two familiar figures are walking in her direction through the billowing smoke on the battlefield.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:Но они обе выглядели… не так, как раньше. +Ха-ха, наверное, мне это приснилось…
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:Куклы ведь не видят снов, SOP-II.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:Тогда почему... мне показалось, что я их видела...?
+RO635(2)<Speaker>RO635</Speaker>||<黑点1>:Ведь ты действительно это видела. +Посмотри вон туда—
+()||<黑点2>:SOP-II смотрит туда, куда указывает RO. +Две знакомые фигуры идут в её сторону сквозь клубящийся дым на поле боя.
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
-()||:M4 comes to a halt. She looks back at AR-15.
-AR15Mod(0)<Speaker></Speaker>||:AR-15 returns her gaze and gives her a determined nod.
-()||:Then M4 keeps on walking toward a shell-shocked SOP-II and smiling RO. +Her pace quickens until she breaks into a run. +SOP-II seems to finally realize what's happening. She dashes over to M4 and sweeps her into a bear hug.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:(Sobs) Is this...is this real? +M4...is that really you? Am I really not dreaming?
-M4A1Mod(2)<Speaker>M4A1</Speaker>||:That's right, it's me... +SOP-II...and RO... +I'm so glad you're both alright...
-()||:SOP-II holds M4 tightly for a while, then she looks up.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:And... AR-15... Is that actually you? +Didn't you...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I was fully prepared to die, but I didn't get my wish. +So I came back...to the same battlefield that you're also fighting on.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:AR-15...AR-15! (Massive sobbing)
-()||:SOP-II throws herself at AR-15, almost knocking her off balance.
-AR15Mod(2)<Speaker>ST AR-15</Speaker><Shake>||:What's this all of a sudden... +Jeez, you're always such a baby...
-M4A1Mod(2)<Speaker>M4A1</Speaker>||:Just cut her some slack on this occasion, 15.
-AR15Mod(3)<Speaker>ST AR-15</Speaker>||:...Seriously, what am I going to do with you? +SOP-II, stop crying. +We finally meet again, you should be smiling.
-()||:AR-15 returns SOP-II's embrace and pats her on the head a bit helplessly.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I...I'm just so happy...! (Uncontrollable sobbing)
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:She deserves to cry herself out today.
-()||<黑屏1>:M4 furtively wipes the corner of her eye with the back of her hand and watches her friends with a smile.
-M4A1()||<黑屏2><黑屏1><BIN>9</BIN>:After a long battle, the AR Team...is reunited at last. +You're the only left, M16... +When will you finally come back to our side?
-()||<黑屏2><BIN>168</BIN><BGM>BGM_Empty</BGM>:...Near the safe house.
-()||:In the city of Belgrade, the commotion has gradually died down since the white units became paralyzed. +Eventually the last intermittent gunshots disappear altogether, leaving the sun to sink slowly down the hill in a peaceful twilight.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:All that strife over the Pike Node... +Was it really worth it?
-()||<黑屏1>:Ange looks into the distant sky. The storms and lighting are nowhere to be seen. +All that's left up there is a heavy layer of clouds - as if nothing has ever happened.
+()||:M4 останавливается. Она оглядывается на AR-15.
+AR15Mod(0)<Speaker></Speaker>||:AR-15 отвечает ей взглядом и решительно кивает.
+()||:Затем М4 продолжает идти к ошеломленной SOP-II и улыбающейся RO. +Её шаг ускоряется, пока она не переходит на бег. +SOP-II, похоже, наконец осознает, что происходит. Она подбегает к М4 и обнимает её так крепко, что та едва не задыхается.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:(Рыдает) Это... это правда? +M4... это действительно ты? Я действительно не сплю?
+M4A1Mod(2)<Speaker>M4A1</Speaker>||:Да, это я... +SOP-II... и RO... +Я так рада, что с вами обоеми всё в порядке...
+()||:SOP-II некоторое время крепко держит M4, а затем поднимает взгляд.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:И... AR-15... Это действительно ты? +Разве ты не...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Я была совершенно готова умереть, но мое желание не сбылось. +Так что я вернулась... на то же самое поле боя, где сражаешься и ты.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:AR-15...AR-15! (Громкие всхлипы)
+()||:SOP-II бросается на AR-15, чуть не сбивая её с ног.
+AR15Mod(2)<Speaker>ST AR-15</Speaker><Shake>||:С чего это вдруг... +Боже, ты всегда ведешь себя как ребенок...
+M4A1Mod(2)<Speaker>M4A1</Speaker>||:Просто не будь к ней в этот раз слишком строга, 15-я.
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:...Серьезно, что мне с тобой делать? +SOP-II, перестань плакать. +Мы наконец-то снова встретились, тебе следует улыбаться.
+()||:AR-15 отвечает на объятия SOP-II и немного растерянно поглаживает её по голове.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Я... я просто так счастлива...! (Неконтролируемые рыдания)
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Сегодня она имеет полное право выплакаться.
+()||<黑屏1>:М4 незаметно вытирает угол глаза тыльной стороной ладони и с улыбкой смотрит на своих подруг.
+M4A1()||<黑屏2><黑屏1><BIN>9</BIN>:После долгой битвы Команда AR... наконец-то вновь собралась вместе. +Ты осталась единственной, M16... +Когда же ты наконец вернешься к нам?
+()||<黑屏2><BIN>168</BIN><BGM>BGM_Empty</BGM>:...Рядом с убежищем.
+()||:В Белграде суматоха постепенно улеглась после того, как белые отряды оказались парализованы. +В конце концов последние редкие выстрелы затихли совсем, и солнце стало медленно опускаться за холм в мирных сумерках.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:Вся эта борьба за узел «Щука»... +А стоило ли это того?
+()||<黑屏1>:Анже смотрит в далекое небо. Ни грозы, ни молний нигде не видно. +Там наверху остался только плотный слой облаков — словно ничего и не было.
 ()||<黑屏1>0,5</黑屏1><BGM>BGM_Empty</BGM><BIN>9</BIN>:... +......
-()||<黑屏2><BGM>BGM_Room</BGM><BIN>4</BIN><Night>:At Griffin's temporary camp. +M4 walks up to the truck where the Pike Node is stored. Two Griffin Dolls are standing guard next to it.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Are you injured?
-HS2000(0)<Speaker>HS2000</Speaker>||:Just a little, nothing serious... +U-Um...you're the legendary elite T-Doll, M4A1, aren't you?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Yeah.
-KSVK(0)<Speaker>KSVK</Speaker>||:Haha, you really do have the looks of an elite.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Aren't you going to get yourselves patched up?
-HS2000(0)<Speaker>HS2000</Speaker>||:We just received orders from Miss RO to guard this truck.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I think you should finish your repairs first. That way you can perform better in your sentry duties.
-KSVK(0)<Speaker>KSVK</Speaker>||:I'd like that too. This arm isn't working properly. +But we can't just abandon our posts...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I can take over for a while.
-HS2000(0)<Speaker>HS2000</Speaker>||:B-but this is our mission... +We can't trouble you with this...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:It is not wise for you to delay your maintenance. +It's alright, I'll guard the truck in your place.
-KSVK(0)<Speaker>KSVK</Speaker>||:Right, you have a point. Then we'll go for our repairs now. +Sorry for the trouble, M4A1. We'll be right back!
-()||<BGM>BGM_Empty</BGM>:...The two Griffin Dolls take their leave.
-Clear Voice()||<BGM>BGM_Truth</BGM>:They've gone. I will make sure we aren't disturbed in the next few minutes. +Now, let's establish a connection with the Pike Node.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:That's it? I just have to plug myself to this piece of metal?
-Clear Voice()||<白屏1>:Leave it to me.
-()||<白屏2><BIN>9</BIN><白屏1>:The second she accesses the Node, M4 feels as if she's been sucked into a black hole. +The world turns into a void in an instant, then...
-()||<BIN>142</BIN><白屏2>:Lots of glittering shards start tumbling out from within the depths of the black hole. +Among these bubbles of memories, a few images stand out—
-()||:—Several coordinates on the world map. +—A Relic site being excavated. +—Space. +—A satellite. +—The core of the satellite. +—A blinking signal.
-M4A1()||:This is...
-Clear Voice()||:My past, M4.
-M4A1()||:Who exactly are you...?
-Clear Voice()||:I don't know either... I only have a feeling... +That the object known to humans as the "Pike" Node is part of me. +The map and the coordinates you just saw are the locations of the remaining Nodes. +This particular one has already been emptied. If I can connect to more of them... +Help me retrieve those lost Nodes, M4.
-M4A1()||:Why should I?
-Clear Voice()||:I can vaguely sense your past... Remember the dream you had? Remember the girl in that garden?
-M4A1()||:That was my past?
-Clear Voice()||:It isn't too clear, but I believe we can find some answers in our pasts. + If I can find out more about myself, perhaps I'll be able to unleash more power to help you.
-M4A1()||:...Is that so?
-Clear Voice()||:You may reject me all you want, but you also know what it is that you truly want, deep down in your heart. +You're not like the rest of them, M4. +You can only have a future...if you own up to your past.
-M4A1()||:My future...?
-Clear Voice()||<黑屏1>:(She barely noticed the massive signal load when connecting to the core... She really is the chosen one.)
-()||<黑屏2><BGM>BGM_Empty</BGM><BIN>85</BIN>:...In the safe house.
-AK12(0)<Speaker>AK-12</Speaker>||<BGM>BGM_Room</BGM>:...And that's a complete account of what has transpired. +In a nutshell... +M4A1 regrouped with AR-15 and successfully retrieved the core of the Pike Node... +...left behind by M16, who has fled the scene with the remaining Sangvis forces. +Judge, who was engaged in battle with Griffin, also retreated following M16's departure.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:Sangvis Ferri just abandoned the core...? That smells a bit fishy. +What's the current status of the Node?
-AN94(0)<Speaker>AN-94</Speaker>||:I just received a report from AR-15. +She and M4A1, along with the Griffin Commander's remaining forces, are guarding it.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:I see... +So they've deviated from the initial plan. Then we've got to destroy the core now.
-()||<BGM>BGM_Empty</BGM>:...An incoming transmission.
-NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>I gather you have retrieved the Pike Node?</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:Yep, exactly as you wished. +We shall now proceed to destroy it.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Change of plan, Ange.</color> +<color=#00CCFF>Do not destroy the Pike Node. Have it transported to me.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:What?!
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>The Pike Node is to be brought into Statesec's custody.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:I refuse. +According to the original plan, the Pike Node cannot fall into the hands of either side. +It has to be destroyed.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Just follow your orders.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:Traitors don't take orders from you.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Then feel free to declare war on Griffin.</color> +<color=#00CCFF>As per my order, the Commander is currently having the Griffin Dolls guard the Pike Node.</color> +<color=#00CCFF>You can destroy it if you eliminate Griffin.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:...You son of a bitch! You think Griffin will just let you shove them around?!
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Certainly.</color> +<color=#00CCFF>Even if the Commander isn't willing, their base is under the control of Statesec. It's pretty obvious what the right choice is, isn't it?</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:...Tsk.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Know your place, Ange.</color> +<color=#00CCFF>Don't lose sight of your mission.</color>
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;NPC-Jason(0)||:...
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>I look forward to your good news.</color>
-()||:...Transmission ends.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:That bastard...
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:What do we do now?
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:We do as he asks.
-NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Is that really a good idea? +You don't seem too happy about it.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK12(0)||:When have we ever been happy about the things we did? +Just bear with it for now... +Set off with AN-94 and arrange for the transfer of the Pike Node with Griffin. +K will inform the Commander of the situation beforehand.
-AK12(0)<Speaker>AK-12</Speaker>||<黑屏1>:Understood. We're leaving now.
-NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:They're keeping the Pike Node... What on earth is Statesec up to? +Something just feels off...about this whole thing and its timing. +Still...
-Angelia()||<黑屏1><BIN>9</BIN>:K, if you think DEFY is at anyone's mercy... +You're sorely mistaken.
+()||<黑屏2><BGM>BGM_Room</BGM><BIN>4</BIN><Night>:Во временном лагере Грифона. +M4 подходит к грузовику, где хранится узел системы «Щука». Рядом с ним стоят на страже две Куклы Грифона.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ты ранена?
+HS2000(0)<Speaker>HS2000</Speaker>||:Ну, совсем немного, ничего серьёзного... +Э-э... ты же легендарная элитная Т-Кукла, M4A1, верно?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Да.
+KSVK(0)<Speaker>KSVK</Speaker>||:Ха-ха, ты действительно выглядишь как представитель элиты.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ты не собираешься залатать свои раны?
+HS2000(0)<Speaker>HS2000</Speaker>||:Мы только что получили приказ от мисс RO охранять этот грузовик.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Думаю, тебе стоит сначала заняться ремонтом. Так ты сможешь лучше справляться со своими обязанностями часового.
+KSVK(0)<Speaker>KSVK</Speaker>||:Я бы тоже хотела. У меня рука не слушается. +Но мы же не можем просто бросить свои посты...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я могу на время тебя подменить.
+HS2000(0)<Speaker>HS2000</Speaker>||:Но-но это же наша миссия... +Мы не можем тебя этим обременять...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Тебе не стоит откладывать техническое обслуживание. +Ничего страшного, я присмотрю за грузовиком вместо тебя.
+KSVK(0)<Speaker>KSVK</Speaker>||:Ладно, ты права. Тогда мы пойдем на ремонт. +Извини за неудобства, M4A1. Мы сейчас вернёмся!
+()||<BGM>BGM_Empty</BGM>:...Две куклы Грифона уходят.
+Clear Voice()||<BGM>BGM_Truth</BGM>:Они ушли. Я позабочусь о том, чтобы нас не беспокоили в ближайшие несколько минут. +А теперь давай установим связь с узлом системы «Щука».
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:И это всё? Мне просто нужно подключить себя к этому куску металла?
+Clear Voice()||<白屏1>:Доверься мне.
+()||<白屏2><BIN>9</BIN><白屏1>:Как только она подключается к Узлу, М4 чувствует, будто её затянуло в чёрную дыру. +Мир в мгновение ока превращается в пустоту, а потом...
+()||<BIN>142</BIN><白屏2>:Из недр чёрной дыры начинают высыпаться сотни сверкающих осколков. +Среди этих пузырьков воспоминаний выделяются несколько образов—
+()||:—Несколько точек на карте мира. +—Место раскопок древних руин. +—Космос. +—Спутник. +—Ядро спутника. +—Мигающий сигнал.
+M4A1()||:Это...
+Clear Voice()||:Мое прошлое, M4.
+M4A1()||:Кто ты, собственно, такая...?
+Clear Voice()||:Я тоже не знаю... У меня просто такое предчувствие... +Что объект, известный людям как узел системы «Щука», — это часть меня. +Карта и координаты, которые ты только что видела, — это местоположения оставшихся узлов. +Этот конкретный узел уже опустошен. Если мне удастся подключиться к другим... +Помоги мне вернуть эти утраченные узлы, M4.
+M4A1()||:А зачем мне это?
+Clear Voice()||:Я как-то смутно чувствую твое прошлое... Помнишь тот сон, который тебе приснился? Помнишь ту девушку в саду?
+M4A1()||:Это моё прошлое?
+Clear Voice()||:Все не так ясно, но я думаю, что мы сможем найти ответы в нашем прошлом. + Если я смогу лучше понять себя, возможно, у меня появится больше сил, чтобы помочь тебе.
+M4A1()||:...Неужели?
+Clear Voice()||:Можешь отвергать меня сколько хочешь, но в глубине души ты тоже знаешь, чего на самом деле хочешь. +Ты не такая, как все остальные, M4. +У тебя будет будущее... только если ты признаешь своё прошлое.
+M4A1()||:Моё будущее...?
+Clear Voice()||<黑屏1>:(Она едва заметила огромную нагрузку на канал связи при подключении к ядру... Она действительно избранная.)
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>85</BIN>:...В убежище.
+AK12(0)<Speaker>AK-12</Speaker>||<BGM>BGM_Room</BGM>:...Вот и весь отчёт о том, что произошло. +Если коротко... +M4A1 объединилась с AR-15 и успешно вернули ядро узела системы «Щука»... +...оставленное M16, которая сбежала с оставшимися силами Сангвис. +Судья, сражавшаяся с Грифоном, тоже отступила после ухода M16.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:Сангвис Ферри что, просто бросил ядро...? Что-то тут нечисто. +А как обстоят дела с Узлом?
+AN94(0)<Speaker>AN-94</Speaker>||:Я только что получила отчёт от AR-15. +Она и M4A1 вместе с оставшимися силами Командира Грифона охраняют его.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:Понятно... +Значит, они отклонились от первоначального плана. Тогда нам нужно уничтожить ядро прямо сейчас.
+()||<BGM>BGM_Empty</BGM>:...Входящее сообщение.
+NPC-Jason(0)<Speaker>K</Speaker><scan><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>Я так понимаю, ты уже достала узел «Щука»?</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;NPC-Jason(0)||:Да, именно так, как ты и хотел. +Теперь приступим к его уничтожению.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>План изменился, Анже.</color> +<color=#00CCFF>Не уничтожай узел. Переправь его ко мне.</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;NPC-Jason(0)||:Что?!
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Узел системы «Щука» должен быть передан под стражу в Госбез.</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;NPC-Jason(0)||:Я отказываюсь. +Согласно первоначальному плану, узел не должен попасть ни в чьи руки. +Его нужно уничтожить.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Просто выполняй приказы.</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;NPC-Jason(0)||:Предатели не подчиняются твоим приказам.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Тогда смело объявляй войну Грифону.</color> +<color=#00CCFF>По моему приказу Командир поручил Куклам Грифона охранять узел «Щука».</color> +<color=#00CCFF>Ты сможешь уничтожить его, если убьешь Грифон.</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;NPC-Jason(0)||:...Ах ты сукин сын! Думаешь, Грифон позволит тебе так с ними обращаться?!
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Конечно.</color> +<color=#00CCFF>Даже если Командир не хочет, их база находится под контролем Госбеза. Довольно очевидно, какой выбор правильный, не так ли?</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;NPC-Jason(0)||:...Тц.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>Знай своё место, Анже.</color> +<color=#00CCFF>не упускай из вида свою миссию.</color>
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;NPC-Jason(0)||:...
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>С нетерпением жду от тебя хороших новостей.</color>
+()||:...Связь завершена.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||:Этот ублюдок...
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Что нам теперь делать?
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Мы сделаем так, как он просит.
+NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker>||:Это действительно хорошая идея? +Ты, похоже, не слишком этому рада.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>;AK12(0)||:Мы когда-нибудь радовались тому, что натворили? +Просто пока терпи... +Отправляйся с АН-94 и договорись с Грифоном о передаче узла системы «Щука». +К заранее проинформирует Командира о ситуации.
+AK12(0)<Speaker>AK-12</Speaker>||<黑屏1>:Понятно. Мы сейчас же уходим.
+NPC-AngeStreet(0)<Speaker>Анжелия</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:Они оставляют узел системы «Щука»... Что, черт возьми, затевает Госбез? +Что-то здесь не так... во всём этом деле и с его сроками. +Но всё же...
+Angelia()||<黑屏1><BIN>9</BIN>:К, ладно, если ты думаешь, что DEFY находится в чьей-то власти... +Ты сильно ошибаешься.
