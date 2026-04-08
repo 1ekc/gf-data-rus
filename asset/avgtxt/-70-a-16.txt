@@ -110,7 +110,7 @@ NPC-Koleda(0)<Speaker>Koleda</Speaker>||:We're getting front-row seats to watch 
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Embla takes some time to scrutinize the interior of the Großer Saal. This particular hall is the most fully restored and most resplendent venue within the Alte Oper. +The auditorium has three levels of seating and can accommodate more than 2,000 people. +However, there are only three people in her current audience.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Embla looks toward the balcony. That would be AN-94's preferred location from which to offer assistance in defense, because when AK-15 is present, everyone automatically leaves the door for her to defend.
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||:AN-94, the "Snow Wolf" of DEFY. +Featuring enhanced melee capability and firepower after the upgrade.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...
 ()<Speaker></Speaker>||:Embla does not even have to look for AK-15. She is, as always, at the most eye-catching position.
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||:That by the door is AK-15, the "White Mastiff" of DEFY. +The most powerful T-Doll in the entire Neo-Soviet Union.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
@@ -140,21 +140,21 @@ NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||<白屏2><BIN>719</BIN><SE1>ClothingUp
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:Bam!
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=5%%delay=0.1%%range=3</controll_shake><SE1>AVG_Cloak_Whoosh</SE1>:AN-94's position is attacked by multiple Nytos. Under the wavering light, they dart in and out of the shadows, falling upon her incessantly like minions from Hell.
 ()||<黑点1>:
-AN94MOD(6)<Speaker>AN-94</Speaker>||<SE1>Select</SE1><黑点2><BIN>96</BIN>:...I won't let you get your way.
+AN94MOD(6)<Speaker>АН-94</Speaker>||<SE1>Select</SE1><黑点2><BIN>96</BIN>:...I won't let you get your way.
 ()<Speaker></Speaker>||:Embla knows DEFY well, but so does AN-94. +AN-94 knows exactly what Embla is up to. She is trying to locate AK-12, who has vanished out of sight. As long as AK-12 is still around, nobody dares make a move.
-AN94MOD(4)<Speaker>AN-94</Speaker>||:...Don't underestimate me, 16.
+AN94MOD(4)<Speaker>АН-94</Speaker>||:...Don't underestimate me, 16.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>Rope</SE1>:AN-94 pulls up one of the Paradeus units near her and uses it to block the long-range attacks coming from the stage.
 ()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL4</SE1>:She reloads quickly.
 ()<Speaker></Speaker>||:Then she shifts into a different attack mode.
-AN94MOD(6)<Speaker>AN-94</Speaker>||:...If you think of me as the weakest link... +I'll turn this place into your grave.
+AN94MOD(6)<Speaker>АН-94</Speaker>||:...If you think of me as the weakest link... +I'll turn this place into your grave.
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=6</controll_shake><SE1>ClothingUp</SE1>:AN-94 vaults lightly over the railing of the balcony. She is aware that Embla is intimately familiar with the "geography" of this place, but so is she. +In a theater like this, the quickest way to get from the balcony to the stage... +...Is not via the stairs in the back, nor is it to clamber over the Nyto corpses in front of her. +It is...
 ()<Speaker></Speaker>||:The chandelier overhead.
-AN94MOD(4)<Speaker>AN-94</Speaker>||:Are you not going to fight back, RPK?! +Or are you ready to atone for your sins?
+AN94MOD(4)<Speaker>АН-94</Speaker>||:Are you not going to fight back, RPK?! +Or are you ready to atone for your sins?
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=3</controll_shake><SE1>AVG_Cloak_Whoosh</SE1>:AN-94 leaps nimbly up the chandelier and flies toward the woman standing at center stage like a bullet ejected from the muzzle of a gun.
 ()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:Bang! +Things do not go according to plan.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><震屏3>:A large scythe is swung toward AN-94 on the chandelier—by a Nyto lurking on the other side of the ceiling fixture in her blind spot.
 NytoWhite(0)<Speaker>Graff</Speaker>||:Sister Embla is spot-on.
-AN94MOD(4)<Speaker>AN-94</Speaker>||:!
+AN94MOD(4)<Speaker>АН-94</Speaker>||:!
 ()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:Graff lets out a triumphant cackle from her hiding place and hits AN-94 in the shoulder while she is airborne.
 ()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:Whoosh! +Like a bird with broken wings... a meteor that breaks through the atmosphere... AN-94 falls towards the stalls in the auditorium...
 ()<Speaker></Speaker>||:Awaiting her down there is countless Paradeus units with their blades raised and poised to strike.
@@ -190,7 +190,7 @@ NytoWhite(0)<Speaker>Graff</Speaker>||:Understood.
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||<BGM>BGM_Empty</BGM>:Now that we've found Faust, let's begin Act Two!
 NPC_Embla_RPK(1)<Speaker>Embla</Speaker>||<SE1>ClothingUp</SE1>:Act Two—The Never-Ending Dance
 ()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_21Winter_Open_Light</SE1><BGM>GF_21winter_battle_3</BGM>:Thunk. +The dazzling chandelier, the blinding spotlights, the dim wall lights all go out in an instant... +Plunging everything into darkness.
-AN94MOD(6)<Speaker>AN-94</Speaker>||:...
+AN94MOD(6)<Speaker>АН-94</Speaker>||:...
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Stay where you are.</color>
 ()<Speaker></Speaker>||<SE1>AVG_NightVision_Start</SE1>:Task Force DEFY calmly activate their Eyes of the Snow Wolf, all the while listening carefully for every movement on the stage.

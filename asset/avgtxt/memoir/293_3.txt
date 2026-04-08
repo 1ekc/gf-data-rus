@@ -1,11 +1,11 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:...
-AN94MOD(0)<Speaker>AN-94</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Your weapon has also been calibrated.
+AN94MOD(0)<Speaker>АН-94</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Your weapon has also been calibrated.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>Rope</SE1>:AK-15 slowly gets down from the testing platform. She raises her hand and stares at her palm. Then she curls her fingers into a fist and throws a few jabs.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:AK-15...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:She picks up her gun from the table. +The scratches aren't too obvious, but they're definitely still there on the surface of the metal.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:If you wish to Imprint with a heavier weapon, we can try to put in a request.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:If you wish to Imprint with a heavier weapon, we can try to put in a request.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
 ()||<黑屏1>:
 RPK16(0)<Speaker>RPK-16</Speaker>||<BIN>9</BIN><黑屏2><回忆>:We're partners, 15. You can share your thoughts with us.

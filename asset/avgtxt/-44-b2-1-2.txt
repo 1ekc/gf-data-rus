@@ -25,11 +25,11 @@ AR15Mod(0)<Speaker>ST AR-15</Speaker>||:What's on your mind, RO?
 RO635Mod(0)<Speaker>RO635</Speaker>||:The name of this corporation also came up in Bohnsdorf.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:... +Both the timing and location where it showed up were surprising coincidental.
 ()||<SE1>AVG_Door_Open_Close</SE1>:Ting-a-ling... +The bell behind the door tinkles softly. +A white-haired girl steps out, carrying a bag of cat food in her arms.
-AN94(12)<Speaker>AN-94</Speaker><Position>0,-100</Position>||:...
+AN94(12)<Speaker>АН-94</Speaker><Position>0,-100</Position>||:...
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:94?
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-100</Position>||:15... +Hello, members of the AR Team.
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-100</Position>||:15... +Hello, members of the AR Team.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Hi. Are Ange and the Commander having a good chat?
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-100</Position>||:...It's pretty good.
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-100</Position>||:...It's pretty good.
 ()||:AN-94 quietly walks to the side of the road and crouches down. The cat that was sunning itself on the eaves lazily jumps down and rubs up against AN-94's hand.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Since you're here, that means...
 ()||<SE1>AVG_Door_Open_Close</SE1>:Ting-a-ling... The doorbell tinkles again.

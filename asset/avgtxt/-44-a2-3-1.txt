@@ -70,9 +70,9 @@ NPC-Ange(6)<Speaker>Ange</Speaker>;RPK16(7)||:You got any objections?
 NPC-Ange(6);RPK16(7)<Speaker>RPK-16</Speaker>||:No, but just as a reminder, paranoia can affect your judgment. +We're not in Bremen anymore.
 NPC-Ange(6);AK12(12)<Speaker>AK-12</Speaker>||:But Gray was TOO fast. It's too much of a coincidence... This is exactly like how it was in Bremen. +Even if it isn't Light, one of his subordinates could be leaking our plans. +Don't forget—if Gray has the power to get Leone acquitted... +Then she's more than capable of planting moles in the Stasi.
 NPC-Ange(7)<Speaker>Ange</Speaker>||:I know what I'm doing. +Let's go back to the apartment and wait for Light to get back to us.
-AN94(11)<Speaker>AN-94</Speaker>||:...
+AN94(11)<Speaker>АН-94</Speaker>||:...
 ()<Speaker></Speaker>||:AN-94 seems to have noticed something. She walks over to Ange.
-AN94(11)<Speaker>AN-94</Speaker>||:Be careful.
+AN94(11)<Speaker>АН-94</Speaker>||:Be careful.
 NPC-Ange(7)<Speaker>Ange</Speaker>||:...Thanks.
 ()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:Ange leans on AN-94's arm as she makes it down the stairs slowly.
 ()<Speaker></Speaker>||:...

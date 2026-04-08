@@ -24,7 +24,7 @@ Nyto(1)<Speaker>Черная Нито</Speaker>;NytoWhite(0)<Position>0,50</Posi
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:...Десять минут спустя.
 AK12(3)<Speaker>AK-12</Speaker>||<BIN>157</BIN><黑屏2><SE2>Gunfight</SE2>:Их оборона вот-вот рухнет! Так и держать!
 NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Ваши действия бессмысленны, Куклы Грифона. +Сколько бы раз вы ни атаковали, вам не удастся приблизиться к моей косе.
-AN94(0)<Speaker>AN-94</Speaker>||:Знаем, что мы не сможем... +А они смогут.
+AN94(0)<Speaker>АН-94</Speaker>||:Знаем, что мы не сможем... +А они смогут.
 ()<Speaker></Speaker>||:...
 ()<Speaker>Terrifying howl</Speaker>||<震屏>:ГРРРАААААААА!
 NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Зараженные?
@@ -32,7 +32,7 @@ SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Девчат, RO и я приг�
 RO635(6)<Speaker>RO635</Speaker>||:Я же говорила, что могу быть полезна!
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:Хм, ты имеешь в виду свой мегафон. Я не знала, что у него столько режимов!
 RO635(6)<Speaker>RO635</Speaker>||:Я Т-Кукла со многими талантами! +Эй, быстрее! Они меня сейчас поймают!
-AN94(2)<Speaker>AN-94</Speaker>||:SOP-II, ты, наверное, привлекла слишком много этих существ.
+AN94(2)<Speaker>АН-94</Speaker>||:SOP-II, ты, наверное, привлекла слишком много этих существ.
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:Ты же сказала, чтобы их притянуть со всех направлений?
 ()<Speaker></Speaker>||<震屏>:...ЭЛИДы устремляются к заграждению.
 NytoWhite(0)<Position>0,50</Position><Speaker>Белая Нито</Speaker>||:Всем подразделениям прекратить огонь. Не нападать на зараженныех.
@@ -60,7 +60,7 @@ Nyto(1)<Speaker>Черная Нито</Speaker>||:К сожалению, чел�
 ()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:...Бэнг! +...Анже убивает черную Куклу одним выстрелом.
 NPC-AngeDamage(3)<Speaker>Анжелия</Speaker>||:Не говори так при мне. Меня это бесит.
 AK12(2)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Анже, на полях сражений выходит из-под контроля! Нам нужно уходить!</color>
-AN94(2)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Можешь подтвердить, что Командир... действительно был похищен?</color>
+AN94(2)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Можешь подтвердить, что Командир... действительно был похищен?</color>
 HK416(0)<Speaker>416</Speaker>||:В убежище нет признаков жизни. Думаю, это правда...
 ()<Speaker>RO635</Speaker>||:<color=#00CCFF>Эти белые Куклы... были здесь только для того, чтобы нас задержать.</color>
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Анже...</color> +<color=#00CCFF>Мы провалили миссию...?</color>

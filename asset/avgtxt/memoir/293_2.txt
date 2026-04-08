@@ -1,11 +1,11 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:...
-AN94MOD(0)<Speaker>AN-94</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:...I thought your body was plenty strong. +I never thought it could become even stronger.
+AN94MOD(0)<Speaker>АН-94</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:...I thought your body was plenty strong. +I never thought it could become even stronger.
 ()<Speaker></Speaker>||:AN-94 watches silently as AK-15's body undergoes further testing and adjustment. She tilts her head to read the parameter table and can't help but marvel out loud.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15 also turns to study the the displayed parameters.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:Doctor Shaw's design was flawless, but she kept another design with even higher efficacy when I was rolled out. +That design couldn't be realized back then due to material limitations, but that's no longer a problem.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:Compared to your old body, the density in your synthetic muscles is now higher. +And yet your total weight has been reduced... You now pack an even harder punch. 
+AN94MOD(0)<Speaker>АН-94</Speaker>||:Compared to your old body, the density in your synthetic muscles is now higher. +And yet your total weight has been reduced... You now pack an even harder punch.
 ()<Speaker></Speaker>||:This is without a doubt a body forged for battle—a warrior's body in its purest form. +AN-94 chuckles in amusement as she recalls how she once recklessly issued a challenge to the owner of this body.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...Just having overwhelming force is not enough.
 ()||<黑屏1>:

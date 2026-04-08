@@ -51,7 +51,7 @@ MDR(4)<Speaker>MDR</Speaker>||<BGM>BGM_Hello</BGM>:Oh, Commander! You showed up 
 MDR(4)<Speaker>MDR</Speaker>||:A-actually, we just met today, and it feels like we hit it off really well, so I wanted to take a photo to commemorate the occasion, ahaha.
 ()<Speaker>Commander</Speaker>||:Wait a minute, if AN-94's here, then that means...
 AK12(10)<Speaker>???</Speaker>||:It would seem that 94's circle of friends has expanded considerably while I wasn't looking.
-AN94(10)<Speaker>AN-94</Speaker>||:AK-12?! You...!
+AN94(10)<Speaker>АН-94</Speaker>||:AK-12?! You...!
 ()<Speaker>Commander</Speaker>||:(Groans) AK-12, AN-94, it's you again? And you've got a big case with you? +Does your presence mean that we're going to be pulled into some great conspiracy tonight?
 AK12(10)<Speaker>AK-12</Speaker>||:You wouldn't believe me if I said no, right?
 AK12(10)<Speaker>Commander</Speaker>||:Frankly speaking, I wouldn't believe you no matter you said.
@@ -120,7 +120,7 @@ G28(6)<Speaker>Gr G28</Speaker>||:Hmm...it's impossible to tell.
 M99(6)<Speaker>M99</Speaker>||:This...is just the beginning. How does she know if her cards are good or bad? I'm sure she's just bluffing.
 ()||:Compared to the Griffin contingent's doubt and disbelief, the DEFY contingent seems to be enjoying themselves very much.
 AK12(8)<Speaker>AK-12</Speaker>||:What an interesting person. In that case... I'll bet 1000.
-AN94(10)<Speaker>AN-94</Speaker>||:I call.
+AN94(10)<Speaker>АН-94</Speaker>||:I call.
 G28(6)<Speaker>Gr G28</Speaker>||:...I fold.
 M99(6)<Speaker>M99</Speaker>||:Gr G28, what are you... MDR's clearly bluffing! 
 G28(6)<Speaker>Gr G28</Speaker>||:Something doesn't feel right about this... +Also, Texas Hold 'Em isn't won in one round. If this round goes badly, I'll just try again during the next one.
@@ -129,7 +129,7 @@ K2(4)<Speaker>K2</Speaker>||:I call! We can't lose, for the sake of Griffin.
 MDR(4)<Speaker>MDR</Speaker>||:ALL IN.
 MDR(4)<Speaker>MDR</Speaker>||:Ahhhh, this feels great, can I do that again? Let's just put some filters on this selfie, and then...yeah!
 AK12(10)<Speaker>AK-12</Speaker>||:There's probably something interesting in store... I fold.
-AN94(10)<Speaker>AN-94</Speaker>||:Me too. 
+AN94(10)<Speaker>АН-94</Speaker>||:Me too.
 M99(6)<Speaker>M99</Speaker>||:(Groans) Don't tell me you really started with good cards? +In that case, I'll...er... I'll fold too.
 ()||:Four of the six Dolls have already folded, and now it's down to a one-on-one. +But just then, K2 also does something unexpected.
 K2(4)<Speaker>K2</Speaker>||:I'm going all in too! MDR, I won't be scared off by your cheap tricks!
@@ -138,7 +138,7 @@ K2(4)<Speaker>K2</Speaker>||:...A flush!
 MDR(4)<Speaker>MDR</Speaker>||:What a shame, I have a full house.
 ()||:MDR smiles brightly as she shows her hole cards, and K2 can only watch as MDR sweeps away all the chips which had been bet.
 K2(4)<Speaker>K2</Speaker>||:Why...but how...
-AN94(10)<Speaker>AN-94</Speaker>||:<color=#A9A9A9>(It's just like what we saw beforehand. She's cheating. She used that drone to scan every card and gave them infrared markers...)</color>
+AN94(10)<Speaker>АН-94</Speaker>||:<color=#A9A9A9>(It's just like what we saw beforehand. She's cheating. She used that drone to scan every card and gave them infrared markers...)</color>
 AK12(8)<Speaker>AK-12</Speaker>||:<color=#A9A9A9>(That's none of our business. Besides, isn't this pretty entertaining too?)</color>
 MDR(4)<Speaker>MDR</Speaker>||:Aw, how cruel of me, I actually made you the first loser to retire from this game empty-handed.+I'll level with you - you already fell into my trap from the start when I was laughing out loud. Ohoho! +Did you see that, everyone? That's the inscrutable power of the great and wise MDR.
 ()||:She looks toward the drone and makes a V sign for victory.

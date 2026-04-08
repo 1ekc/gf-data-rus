@@ -18,23 +18,23 @@ NPC-AngeDamage(3)<Speaker>Ange</Speaker>||:...Shut your face. +It's not time to 
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Ange watches the slowly approaching white soldiers and reaches for her combat knife.
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏3><SE2>Gunfight</SE2>:Boom! +Bang bang bang!
 ()<Speaker></Speaker>||:Another explosion erupts, followed by a shower of heavy gunfire. +A round hits the leading Paradeus soldier squarely in the forehead, toppling him instantly.
-AN94(2)<Speaker>AN-94</Speaker>||<BGM>10118</BGM>:Ange!
+AN94(2)<Speaker>АН-94</Speaker>||<BGM>10118</BGM>:Ange!
 AK15(2)<Speaker>AK-15</Speaker>||:Enemies targeted.
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:The two DEFY members let no bullet go to waste. The moment they join the fray, the tables have turned.
 NPC-AngeDamage(1)<Speaker>Ange</Speaker>||:(Coughs)
-AN94(2)<Speaker>AN-94</Speaker>||:Ange!
+AN94(2)<Speaker>АН-94</Speaker>||:Ange!
 ()<Speaker></Speaker>||:Still holding up her rifle vigilantly, AN-94 makes her way quickly to Ange, who's slumped on the floor. +Meanwhile, RPK-16 has used the distraction created by her teammates' arrival to adjust her position and replace her expended magazine.
-AN94(2)<Speaker>AN-94</Speaker>||:Stasi reinforcements and the local police will be here soon.
+AN94(2)<Speaker>АН-94</Speaker>||:Stasi reinforcements and the local police will be here soon.
 RPK16(1)<Speaker>RPK-16</Speaker>||:Paradeus is retreating.
 NPC-AngeDamage(1)<Speaker>Ange</Speaker>||:So should we. There's no point in pursuing them.
 AK15(2)<Speaker>AK-15</Speaker>||:Understood.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15 slings her rifle onto her shoulder and carries Ange on her back. +Behind her, AN-94 and RPK-16 start laying down more suppressive fire.
-AN94(0)<Speaker>AN-94</Speaker>||:Where's 12?
+AN94(0)<Speaker>АН-94</Speaker>||:Where's 12?
 NPC-AngeDamage(2)<Speaker>Ange</Speaker>||:...
 ()<Speaker></Speaker>||:AN-94's anxious question is met with Ange's grim silence.
-AN94(5)<Speaker>AN-94</Speaker>||:...
+AN94(5)<Speaker>АН-94</Speaker>||:...
 ()<Speaker></Speaker>||:AN-94 bites her trembling lip and issues a signal with her free hand.
-AN94(2)<Speaker>AN-94</Speaker>||:Target secured! Retreat!
+AN94(2)<Speaker>АН-94</Speaker>||:Target secured! Retreat!
 ()<Speaker></Speaker>||:...
 ()||<黑点1>:
 ()<Speaker></Speaker>||<BIN>86</BIN><Night><黑点2><SE1>Stop_AVG_loop</SE1><震屏3><SE1>Explode</SE1><关闭火花>:Boom! +Another deafening explosion comes from the upper floors until everything finally falls silent. +There is no more gunfire. Only the blazing flames crackle on.
@@ -48,23 +48,23 @@ NPC-AngeDamage(2)<Speaker>Ange</Speaker>||:...I'm fine.
 ()<Speaker></Speaker>||<SE1>AVG_21Winter_Fire_Truck</SE1>:Ange gasps for air. Her lungs are burning. +She can just make out the sirens of fire engines.
 NPC-Keven(1)<Speaker>J</Speaker>||:Who are you trying to kid? You look even more terrible than K after a mixer. +...Where are the others?
 AK15(2)<Speaker>AK-15</Speaker>||<SE1>Stop_AVG_loop</SE1>:...
-AN94(4)<Speaker>AN-94</Speaker>||:I'm sorry. We did our best. +But we didn't see Mr. Light.
+AN94(4)<Speaker>АН-94</Speaker>||:I'm sorry. We did our best. +But we didn't see Mr. Light.
 NPC-Keven(2)<Speaker>J</Speaker>||:...! +...Come again? How could that brat possibly— +Hey, you've got to be kidding, right? How am I supposed to tell Shadow?!
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:This is the first time AN-94 has seen J so terrified.
 ()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:Boom! +At that moment, another explosion erupts where the fire is blazing the most heavily in the apartment block. 
 ()<Speaker></Speaker>||:Lying on the ground, Ange looks up at the night sky, which is lit up by the flames.
 ()<Speaker>Ange</Speaker>||:12...
-()<Speaker>AN-94</Speaker>||<SE1>AVG_20Winter_Burnfire_Loop</SE1><common_effect>%%code=AVG_ink3%%</common_effect>:Ange? Ange?
+()<Speaker>АН-94</Speaker>||<SE1>AVG_20Winter_Burnfire_Loop</SE1><common_effect>%%code=AVG_ink3%%</common_effect>:Ange? Ange?
 ()<Speaker>RPK-16</Speaker>||:This doesn't bode well... 15, where's the first-aid kit?
 ()<Speaker>AK-15</Speaker>||:Right here.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Stop_AVG_loop</SE1>:... +...Here it goes again. +Fire, bullets...casualties. +Why has nothing changed at all? +Why is she just as helpless as she once was? +What kind of sick joke is this...?!
-()<Speaker>AN-94</Speaker>||:Ange!
+()<Speaker>АН-94</Speaker>||:Ange!
 ()||<黑屏1>:
 NPC-AngeDamage(2)<Speaker>Ange</Speaker>||<黑屏2><BIN>86</BIN><Night>:94... +12...12 stayed behind to cover our retreat. +So did Light...
 AK15(5)<Speaker>AK-15</Speaker>||:There are no bio signs in the building. +I'm not detecting AK-12's signal either.
-AN94(2)<Speaker>AN-94</Speaker>||:Enough, 15!
+AN94(2)<Speaker>АН-94</Speaker>||:Enough, 15!
 NPC-AngeDamage(2)<Speaker>Ange</Speaker>||:...
 NPC-Keven(1)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:...Comms are back.
 RPK16(0)<Speaker>RPK-16</Speaker>||:Ange, you have an incoming call. +It's...the "Earl".
@@ -76,6 +76,6 @@ NPC-AngeDamage(3);NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<c
 NPC-AngeDamage(3)<Speaker>Ange</Speaker>;NPC-Griffin(0)<scan><通讯框>||:Don't you...dare...bring up...Beslan!
 NPC-Griffin(0)<Speaker>Griffin</Speaker><scan><通讯框>||:<color=#00CCFF>...I wish you good luck.</color>
 NPC-AngeDamage(3)<Speaker>Ange</Speaker><Shake>0.1</Shake>||<SE1>AVG_tele_disconnect</SE1>:You...mother...fucker.
-AN94(2)<Speaker>AN-94</Speaker>||:Ange! Ange!
+AN94(2)<Speaker>АН-94</Speaker>||:Ange! Ange!
 ()<Speaker></Speaker>||:...
 ()||<黑屏1>:

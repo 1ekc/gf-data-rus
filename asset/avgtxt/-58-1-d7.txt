@@ -13,10 +13,10 @@ NPC-Ange(19);AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:...The n
 NPC-Ange(19)<Speaker>Ange</Speaker>;AK12(2)<Position>0,50</Position>||:...The contamination zone?
 NPC-Ange(19);AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:...It's quite close to Berlin.
 NPC-Ange(21)<Speaker>Ange</Speaker>||:... +This brings back some really bad memory. +Give me the car keys. I'll drive.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:...But you could make your injuries worse.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:...But you could make your injuries worse.
 ()||:AK-12 pats AN-94 on the back.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Sit in the back with 15. I'll ride shotgun and keep an eye on her.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Okay.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Okay.
 ()||<SE1>AVG_20Winter_Door_Car_Open</SE1>:Ange adjusts the driver's seat and rearview mirror, which reflects her tired face.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Are you sure about this? +Shouldn't we at least...
 NPC-Ange(19)<Speaker>Ange</Speaker>||:At least what?
@@ -49,19 +49,19 @@ NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 AK15(0)<Speaker>AK-15</Speaker>||:...
 ()||<SE1>AVG_Button_Click</SE1>:AK-15 looks into the rearview mirror and turns on the radio.
 ()||<SE1>AVG_2023Slow_ED_Phonograph_Disc</SE1>:Soothing music starts playing. +As night falls, the fog gradually rises outside the windows, creating a rare moment of tranquility. 
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:...Strange.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:...Strange.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:What's wrong?
-AN94(0)<Speaker>AN-94</Speaker>||:I think I've heard this song somewhere before...
+AN94(0)<Speaker>АН-94</Speaker>||:I think I've heard this song somewhere before...
 ()||:AK-12 concentrates and listens for a while.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:It's a common tune on the radio. Nothing special.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:...Hm, that's weird.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:...Hm, that's weird.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:What is it this time?
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Don't you think we've been driving for too long? +This motorway seems endless. I don't remember it being so long on our way here. +We should've passed through the quarantine wall by now.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Don't you think we've been driving for too long? +This motorway seems endless. I don't remember it being so long on our way here. +We should've passed through the quarantine wall by now.
 ()||<SE1>Stop_AVG_loop</SE1>:Pzzt...
 ()||<SE1>AVG_whitenoise</SE1>:Just then, the radio suddenly crackles ominously.
 ()<Speaker>RPK-16</Speaker>||:<color=#00CCFF>...You're always so stubborn, Ange.</color>
 ()<Speaker>RPK-16</Speaker>||<BGM>BGM_23S_Expedition_Story</BGM>:<color=#00CCFF>The Commander was only dispatched to Berlin because of your rash decision.</color> +<color=#00CCFF>So many have paid a heavy price for what you've done. Won't you at least reflect on your actions a little?</color>
-AN94(2)<Position>0,50</Position><Speaker>AN-94</Speaker>||:RPK!
+AN94(2)<Position>0,50</Position><Speaker>АН-94</Speaker>||:RPK!
 ()<Speaker>RPK-16</Speaker>||:<color=#00CCFF>You just never listen, Ange.</color> +<color=#00CCFF>You knew this would be a path of no return, yet you carried on regardless.</color> +<color=#00CCFF>You forced me to prove my allegiance to my true master.</color>
 AK12(3)<Speaker>AK-12</Speaker><Position>0,50</Position>||:Your true...?
 AK15(4)<Speaker>AK-15</Speaker>||:...The vehicle is out of control!
@@ -80,7 +80,7 @@ AK12(3)<Speaker>AK-12</Speaker><Position>0,50</Position>||:...There are better b
 ()<Speaker>Ange</Speaker>||:12...?!
 AK15(4)<Speaker>AK-15</Speaker>||:Ange, wake up.
 ()<Speaker>Ange</Speaker>||:...I'm awake. Where am I...?
-AN94(4)<Speaker>AN-94</Speaker>||:I'm sorry, Ange... We failed.
+AN94(4)<Speaker>АН-94</Speaker>||:I'm sorry, Ange... We failed.
 ()||:...
 RPK16(0)<Speaker>RPK-16</Speaker>||:If everything in life is futile, then what is the point in struggling?
 ()||<SE1>AVG_bigglassbreak</SE1>:Thunk!

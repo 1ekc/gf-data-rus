@@ -78,7 +78,7 @@ NPC-Leone(0)<Speaker>Leone</Speaker>||:...
 ()||:Leone's lips twitch, but she does not utter a word.
 ()||<SE1>AVG_tele_connect</SE1>:Beep— +The tension in the air is broken by the sudden ring of Ange's communicator.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:...What is it? What have you found?
-AN94(11)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Miss Ange, a large number of armed personnel is lying in ambush under the research facility.</color> +<color=#00CCFF>Please get out immediately. This is a trap.</color>
+AN94(11)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Miss Ange, a large number of armed personnel is lying in ambush under the research facility.</color> +<color=#00CCFF>Please get out immediately. This is a trap.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Got it. +Wow, serving the main course straight away? Not even bothering with some warm-up?
 NPC-Morridow(0)<Speaker>Morridow</Speaker>||:Wait... Huh? Ambush? A trap? +What even? J-Just what is going on?!
 ()||:Hopps has his firearm trained on Leone in the blink of an eye.

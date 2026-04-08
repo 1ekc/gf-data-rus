@@ -66,7 +66,7 @@ NPC-Oldartist(0)<Speaker>Krone</Speaker>||:I'm really sorry, Frau Angelia. +Refu
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:You're right, for the sake of the children, we must take this security issue seriously. +Hopps, take your men to secure the front gates and entrance.
 NPC-Hopps(0)<Speaker>Hopps</Speaker>||:Yes, ma'am.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Lucia, Renate, you two come with me. +Antje and Erwin, accompany the staff on their patrol and identify potential risks.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Understood.
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Understood.
 AK15(6)<Speaker>AK-15</Speaker>||:Understood.
 NPC-handyman(0)<Speaker>Adam</Speaker>||:P...Patrol? +Two women? +Don't get me wrong, but these refugee syndicates are nothing to sneeze at. +If they come across female targets, they'll do a lot worse than mugging them.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Don't worry, my subordinates have all undergone rigorous training. +They can easily handle ten of you. +No vagrant will dare enter this orphanage with them here.
@@ -111,9 +111,9 @@ NPC-Hopps(0)<Speaker>Hopps</Speaker>||:I'm on it.
 NPC-Oldartist(0)<Speaker>Krone</Speaker>||:A robbery...? +Why would anyone do such a thing to the housemother?! +We've been devoting all our effort in doing good! What have we done to deserve this?! +Could it be the thieving refugees? +We didn't pursue the matter any further, but they still killed the housemother in cold blood!
 NPC-Hopps(0)<Speaker>Hopps</Speaker>||:The refugees don't care what kind of charity you've done. To them, all locals are fair game.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Antje, are you still outside?
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Yes.</color>
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Yes.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Check the surroundings. If someone had broken into the orphanage, they must've left traces.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Understood. Erwin and I will start looking for clues.</color>
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Understood. Erwin and I will start looking for clues.</color>
 NPC-Lilyan(0)<Speaker>Lillian</Speaker>||:Noooo! No way! Not Housemother! This can't be real!
 ()||:Lillian, having slipped into the office, clings to her stuffed toy in a death grip.
 NPC-Oldartist(0)<Speaker>Krone</Speaker>||:Lillian, what are you doing in here?! Get out. Housemother wouldn't want you to see this.

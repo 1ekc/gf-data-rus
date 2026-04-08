@@ -29,7 +29,7 @@ NPC-Ange(1)<Speaker>Angelia</Speaker>||<黑点1>:Surround him!
 ()||<黑点2><BIN>217</BIN><SE1>Explode</SE1><火花>:The red-hot missiles hit the ceiling and explode, sending shrapnel flying everywhere. They shower down like a rainstorm on the approaching Dolls.
 ()<Speaker>AK-15</Speaker>||:Take cover!
 ()<Speaker>RPK-16</Speaker>||:Oh!
-()<Speaker>AN-94</Speaker>||<黑点1><关闭火花>:Over here!
+()<Speaker>АН-94</Speaker>||<黑点1><关闭火花>:Over here!
 ()||<黑点2><BIN>221</BIN><Night>:Yegor manages to carefully maintain the mech's balance amidst the tremendous shaking. +The detonation of his missiles at such close range is just as unpleasant for him as it is for his enemies, but the mech's armor is able to withstand the impact of the high explosive and the shrapnel. +Yegor pounds on his flickering display, which flashes a couple of times until the static on the screen finally resolves into usability.
 NPC-Yegor(4)<Speaker>Yegor</Speaker>||<BGM>BGM_Empty</BGM>:Well, that was lucky.
 ()||:The smoke before him has dispersed and the flames are dying down. +He switches on the headlights. The Dolls attacking him ferociously just seconds ago are now sprawled on the ground, their bodies mangled and motionless.+Unfortunately, the blast has made it impossible for him to identify his surroundings. He can't even find the path he took here. +It's as though it never existed.

@@ -1,32 +1,32 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>201</BIN><BGM>BGM_Room</BGM>:...
 ()<Speaker></Speaker>||:A little earlier.
-AN94(4)<Speaker>AN-94</Speaker>||:...
+AN94(4)<Speaker>АН-94</Speaker>||:...
 ()<Speaker></Speaker>||:AN-94 and Light are hidden in the quiet front yard, keeping watch outside the main entrance of the mansion.
 NPC-Light(0)<Speaker>Light</Speaker>||:...Stay hidden and don't alert any civilians. +Keep monitoring the official channel, make sure you don't draw any attention. +Report back in five minutes.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:Light ends the transmission after confirming the status with one of his subordinates.
-AN94(4)<Speaker>AN-94</Speaker>||:...
+AN94(4)<Speaker>АН-94</Speaker>||:...
 AN94(4);NPC-Light(0)<Speaker>Light</Speaker>||:Miss 94?
-AN94(5)<Speaker>AN-94</Speaker>;NPC-Light(0)||:Yes?
+AN94(5)<Speaker>АН-94</Speaker>;NPC-Light(0)||:Yes?
 AN94(5);NPC-Light(3)<Speaker>Light</Speaker>||:Nothing, you just look a little distracted to me. +Is something on your mind?
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(3)||:No. What are you implying?
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(3)||:No. What are you implying?
 AN94(0);NPC-Light(0)<Speaker>Light</Speaker>||:Ever since Miss AK-12...signed off temporarily... +You've been feeling a little out of it.
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(0)||:You're mistaken. +Besides, even if I were not at my best, I am still more than good enough.
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(0)||:You're mistaken. +Besides, even if I were not at my best, I am still more than good enough.
 AN94(0);NPC-Light(3)<Speaker>Light</Speaker>||:Please don't get me wrong, I don't mean to find fault with you. I'm just a bit concerned. +After all, all members of Task Force DEFY seem to share a really strong bond.
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(3)||:Dolls don't really die. Besides, 12 fought to the bitter end for Ange. +It's a result that I find acceptable, and I have no complaints. +If anything, I'm just sorry that I wasn't able to help her back then.
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(3)||:Dolls don't really die. Besides, 12 fought to the bitter end for Ange. +It's a result that I find acceptable, and I have no complaints. +If anything, I'm just sorry that I wasn't able to help her back then.
 AN94(0);NPC-Light(0)<Speaker>Light</Speaker>||:I see...
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(0)||:Why do you care?
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(0)||:Why do you care?
 AN94(0);NPC-Light(0)<Speaker>Light</Speaker>||:Hm? +Well...I can relate to how you feel.
-AN94(5)<Speaker>AN-94</Speaker>||:Relate? To how I feel?
+AN94(5)<Speaker>АН-94</Speaker>||:Relate? To how I feel?
 ()<Speaker></Speaker>||:AN-94 stares at Light blankly, perplexed about his answer.
 NPC-Light(3)<Speaker>Light</Speaker>||:You and Miss AK-12 look very much like sisters to me. +I also have an elder sister, so when I see you, I can't help but see myself.
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(3)||:You will not make your sister sad.
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(3)||:You will not make your sister sad.
 AN94(0);NPC-Light(3)<Speaker>Light</Speaker>||:I hope not.
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(3)||:Ange and K have been at this for years. It is only by sheer dumb luck that they have managed to survive for so long. +If you're afraid to die, you shouldn't be in this line of work.
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(3)||:Ange and K have been at this for years. It is only by sheer dumb luck that they have managed to survive for so long. +If you're afraid to die, you shouldn't be in this line of work.
 AN94(0);NPC-Light(0)<Speaker>Light</Speaker>||:I'm not afraid to die; I just don't want to break my sister's heart.
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(0)||:If you wish to avoid that... +Then make sure you stay alive. Unlike 12, you cannot come back to life.
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(0)||:If you wish to avoid that... +Then make sure you stay alive. Unlike 12, you cannot come back to life.
 AN94(0);NPC-Light(3)<Speaker>Light</Speaker>||:I've already done "that" once, and that's enough for me. +Not to mention...
-AN94(5)<Speaker>AN-94</Speaker>||<BGM>BGM_Empty</BGM>:...Hush.
+AN94(5)<Speaker>АН-94</Speaker>||<BGM>BGM_Empty</BGM>:...Hush.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:All of a sudden, AN-94 raises a hand to silence Light.
 ()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:The smile remained on Light's face, yet he also drew his weapon.
 ()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:... +The front yard is still quiet. Not even an insect can be heard.
@@ -34,12 +34,12 @@ NPC-Light(3)<Speaker>Light</Speaker>||:Group A? +...Group B?
 ()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:The communicator is also eerily silent.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Light's smile finally fades. Crouching back-to-back with AN-94, he scans the surroundings with narrowed eyes.
 NPC-Light(0)<Speaker>Light</Speaker>||:...When did you notice something's wrong?
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(0)||:I've been ambushed during a past mission, which taught me a lesson about reading the atmosphere in my surroundings. +...The bees in the front yard are all gone.
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(0)||:I've been ambushed during a past mission, which taught me a lesson about reading the atmosphere in my surroundings. +...The bees in the front yard are all gone.
 AN94(0);NPC-Light(2)<Speaker>Light</Speaker>||:The bees?
-AN94(0)<Speaker>AN-94</Speaker>||:The bees.
+AN94(0)<Speaker>АН-94</Speaker>||:The bees.
 ()<Speaker></Speaker>||:Light studies the spacious front yard again. +The bees that were buzzing around the rampant and untended flowerbeds just a while ago are now twitching limply on the ground, as if under the effect of some chemical.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:Whoosh!
-AN94(2)<Speaker>AN-94</Speaker>||:Watch out!
+AN94(2)<Speaker>АН-94</Speaker>||:Watch out!
 ()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:AN-94 shoves Light aside as a blur of gray slashes through the air, splitting the tree trunk that they've been using as cover right down the center.
 NPC-MrsGray(4)<Speaker>???</Speaker>||<BGM>10130</BGM>:Heh.
 NPC-Light(1)<Speaker>Light</Speaker>||:Mrs. Gray...
@@ -55,7 +55,7 @@ NPC-Light(1)<Speaker>Light</Speaker>||:We're under attack!! +It's Paradeus! +Mis
 NPC-Light(1)<Speaker>Light</Speaker>||:Tsk! +The communicator!
 ()<Speaker></Speaker>||:The pain has caused Light to drop the communicator.
 ()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:The device falls to the ground. Before Light can dive for it, Gray's sharp blade has already sliced it in two.
-AN94(2)<Speaker>AN-94</Speaker>||:Light! Run!
+AN94(2)<Speaker>АН-94</Speaker>||:Light! Run!
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:AN-94 unleashes another barrage to pin Gray down. +That's when Light spots more Nytos and Paradeus soldiers behind Gray. +What happened to his men?
 NPC-Light(1)<Speaker>Light</Speaker>||<SE1>Heartbeat</SE1>:I doubt they made it...
 ()<Speaker></Speaker>||:Before remorse can consume him, Light is struck by another frightening thought. +How does Gray know where Ange is? +Why does it look like she came prepared? +...A trap?

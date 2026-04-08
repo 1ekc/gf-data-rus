@@ -2,22 +2,22 @@
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:...
 ()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:Bam!! +With a single punch, AK-15 sends the reinforced punch bag careening across the room, leaving iron sand all over the floor.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AN-94 gapes a little at this display of power. She leans down to dust off some of the sand that has got onto her shoes. Then she straightens up again and heads over to check AK-15's arm.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:It's holding up nicely. +Final parameter recorded. Your modification has been a great success, 15.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:It's holding up nicely. +Final parameter recorded. Your modification has been a great success, 15.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||:AK-15 nods briefly as she gazes at the sand still leaking out of the punch bag. Then her eyes suddenly shift over to AN-94.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:AK-12 is an outstanding Tactical Doll.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...Why are you suddenly bringing this up?
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...Why are you suddenly bringing this up?
 AK15MOD(0)<Speaker>AK-15</Speaker>||:Do you trust her?
 ()<Speaker></Speaker>||:AK-15 ignores AN-94's question and asks a question of her own. +AN-94 stares at her uncertainly. After a brief moment of silence, she finally gives her reply.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:Of course. She is my most trusty partner.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:Of course. She is my most trusty partner.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
 ()||<黑屏1>:
 RPK16(0)<Speaker>RPK-16</Speaker>||<回忆>:Do you trust me, 15?
 ()||<黑屏1>:
 AK15MOD(0)<Speaker>AK-15</Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版>:...
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...So what's this all about?
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...So what's this all about?
 AK15MOD(0)<Speaker>AK-15</Speaker>||:I'm a bit jealous. +Of your pairing.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:You... What? What did you just say?!
+AN94MOD(0)<Speaker>АН-94</Speaker>||:You... What? What did you just say?!
 ()<Speaker></Speaker>||:...
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:After the devastating failure of "Incident Zero", the Wolf Pack Project comes under heavy scrutiny and criticism. +But under the leadership of senior agent "Angelia", the two-Doll team that comprises AK-12 and AN-94 remains active across multiple areas, completing a myriad of missions that would have been impossible for regular agents. +And thus, not long after the scandal, the Wolf Pack Project once again gains acknowledgment and support, and is able to continue with the investors' backing.
@@ -141,19 +141,19 @@ RPK16(2)<Speaker>RPK-16</Speaker>||<BIN>9</BIN><黑屏2><回忆><BGM>BGM_Empty</
 AK15(5)<Speaker>AK-15</Speaker>||:...I have always trusted you. +You let me focus on being the most powerful T-Doll. I never had to worry about anything else. +I've always trusted you, RPK. It's just like you said. +I trusted you.
 ()||<黑屏1>:
 AK15MOD(0)<Speaker>AK-15</Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版>:...
-AN94MOD(0)<Speaker>AN-94</Speaker>||:15?
+AN94MOD(0)<Speaker>АН-94</Speaker>||:15?
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>Rope</SE1>:AK-15 cuts the tape and weighs the explosives in her hand. Her clear eyes are utterly devoid of emotion.
 AK15MOD(0)<Speaker>AK-15</Speaker>||<SE1>ClothingUp</SE1>:Last one...
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:You've already made a lot of them.
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:You've already made a lot of them.
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:Last spot. +...I'm saving it for RPK.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:...
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:...
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:I must deal with her myself.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:You mustn't let your personal feelings interfere with the mission... I understand how you feel, because I also feel the same way.
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:You mustn't let your personal feelings interfere with the mission... I understand how you feel, because I also feel the same way.
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:I know. +Which is why this is the most effective solution. +I must be the one to kill her.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:Because you're partners?
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:Because you're partners?
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:...Because in her eyes, I am the most powerful T-Doll. +That's why she will never win against me. Never.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:... +Let's go. The Commander is summoning us.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:... +Let's go. The Commander is summoning us.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:Right.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15 stands up and pockets all the weapons she has prepared. +...She doesn't know who will be the first. +But she vows to herself that RPK-16 will be the last. +She swears.
 ()||<黑点1>:

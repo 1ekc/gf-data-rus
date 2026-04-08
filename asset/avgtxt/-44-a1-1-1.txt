@@ -84,14 +84,14 @@ NPC-Ange(4)<Speaker>Ange</Speaker>||:...What do you want with me?
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>129</BIN>:While Ange is still writhing around, a hand stretches out and pulls the sack off her head. +An anxious AN-94 comes into view.
 NPC-Ange(6)<Speaker>Ange</Speaker>||:...94?
-AN94(11)<Speaker>AN-94</Speaker>||:Ange, you are very badly injured.
+AN94(11)<Speaker>АН-94</Speaker>||:Ange, you are very badly injured.
 ()<Speaker></Speaker>||:AN-94 picks up Ange with practiced ease and puts her down gently on the sofa. +Only then does Ange notice she has been moved into an ordinary room. It is clean and even furnished—at least it certainly doesn't look like an interrogation chamber.
 NPC-Ange(6)<Speaker>Ange</Speaker>||:I'm fine... Where are the others?
-AN94(12)<Speaker>AN-94</Speaker>||:I don't know. We've been locked up separately the whole time. I only got brought here minutes ago.
+AN94(12)<Speaker>АН-94</Speaker>||:I don't know. We've been locked up separately the whole time. I only got brought here minutes ago.
 NPC-Ange(5)<Speaker>Ange</Speaker>||:(Hisses)
 ()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:Before they can say more, the door opens again.
 AK12(12)<Speaker>AK-12</Speaker>||:Have you considered getting a pair of bionic limbs yourself?
-AN94(11)<Speaker>AN-94</Speaker>||:12!
+AN94(11)<Speaker>АН-94</Speaker>||:12!
 AK12(13)<Speaker>AK-12</Speaker>||:94? ...Ange!
 ()<Speaker></Speaker>||:AK-12 smirk vanishes the moment she sees Ange.
 AK12(13)<Speaker>AK-12</Speaker>||:What the hell have you done to her...you bastards?!
@@ -99,14 +99,14 @@ AK12(13)<Speaker>AK-12</Speaker>||:What the hell have you done to her...you bast
 NPC-Ange(4)<Speaker>Ange</Speaker>||:12! +...Calm down.
 ()<Speaker></Speaker>||:Ange raises her voice to stop AK-12 but the effort ends up tearing a wound open. She collapses into another coughing bout.
 AK12(13)<Speaker>AK-12</Speaker>||:Take it easy, Ange. You look like hell.
-AN94(12)<Speaker>AN-94</Speaker>||:We have to get out of here. Ange needs medical treatment.
+AN94(12)<Speaker>АН-94</Speaker>||:We have to get out of here. Ange needs medical treatment.
 AK12(13)<Speaker>AK-12</Speaker>||:You're right, but I have a feeling this isn't over yet. There must be a reason why they're suddenly putting us back together.
 ()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:The door opens a third time, revealing a hulking figure.
 ()<Speaker>Security Guard</Speaker>||:...G-Get in!
 AK15(6)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||:AK-15 enters the room in silence, followed by the wily RPK-16.
 RPK16(9)<Speaker>RPK-16</Speaker>||:Oh wow, the whole gang is here. Are we taking one last family photo before facing the firing squad?
-AN94(11)<Speaker>AN-94</Speaker>||:Firing squad?
+AN94(11)<Speaker>АН-94</Speaker>||:Firing squad?
 NPC-Ange(6)<Speaker>Ange</Speaker>||:...You think we're about to be executed in secret?
 RPK16(8)<Speaker>RPK-16</Speaker>||:Why else would they suddenly bring us all together?
 AK12(13)<Speaker>AK-12</Speaker>||:Well, they can suck it. 15, did you pass by any armories on your way here?

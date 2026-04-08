@@ -2,20 +2,20 @@
 ()<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1><SE1>AVG_Alarm_Distance</SE1><BIN>182</BIN><BIN>9</BIN><黑屏2>:...Alte Oper, Frankfurt District, Frankfurt.
 ()<Speaker></Speaker>||:A swarm of news reporters have appeared at the site...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AN-94 grabs AK-15 before she can expose herself in front of the crowd.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:We should contact 12 first.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:We should contact 12 first.
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:
-AN94MOD(0)<Speaker>AN-94</Speaker>||<SE1>AVG_tele_connect</SE1>:12... A huge crowd has gathered right outside the Alte Oper... +Is this also part of your plan?
+AN94MOD(0)<Speaker>АН-94</Speaker>||<SE1>AVG_tele_connect</SE1>:12... A huge crowd has gathered right outside the Alte Oper... +Is this also part of your plan?
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>...Yes, you've done your part.</color> +<color=#00CCFF>Leave the rest to me.</color>
-AN94MOD(3)<Speaker>AN-94</Speaker>||<CGDelay>0.5</CGDelay>:
-AN94MOD(3)<Speaker>AN-94</Speaker>||:From the very beginning, you've decided to take care of this all by yourself...
+AN94MOD(3)<Speaker>АН-94</Speaker>||<CGDelay>0.5</CGDelay>:
+AN94MOD(3)<Speaker>АН-94</Speaker>||:From the very beginning, you've decided to take care of this all by yourself...
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Yes.</color>
 AK15MOD(3)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:AK-15 rises to her full height and heads back toward the Alte Oper.
-AN94MOD(4)<Speaker>AN-94</Speaker>||<SE1>Stop_AVG_loop</SE1>:Wait, 15!
+AN94MOD(4)<Speaker>АН-94</Speaker>||<SE1>Stop_AVG_loop</SE1>:Wait, 15!
 AK15MOD(4)<Speaker>AK-15</Speaker>||:I should've been the one to kill her.
 NPC-AK12Mod(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>RPK-16 is dead.</color> +<color=#00CCFF>15, there's nothing more you can do here.</color>
 AK15MOD(5)<Speaker>AK-15</Speaker>||:...
-AN94MOD(0)<Speaker>AN-94</Speaker>||:Let's go, 15. There are still Nytos hiding in the crowd... Our mission isn't over yet.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:Let's go, 15. There are still Nytos hiding in the crowd... Our mission isn't over yet.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:
 ()||<黑屏1>:
@@ -74,11 +74,11 @@ AN94MOD(0)<Speaker>AN-94</Speaker>||:Let's go, 15. There are still Nytos hiding 
 ()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:Having found another bomb, AK-15 prepares to disarm it...
 ()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:Boom... +Dirt and debris rain down on her.
 AK15MOD(0)<Speaker>AK-15</Speaker><Shake>||:...
-AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Are you alright?</color>
+AN94MOD(0)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Are you alright?</color>
 AK15MOD(3)<Speaker>AK-15</Speaker>||:...I'll be more careful.
-AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>...12 says she'll meet us at the safe house.</color>
+AN94MOD(0)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>...12 says she'll meet us at the safe house.</color>
 AK15MOD(4)<Speaker>AK-15</Speaker>||:I will never forgive her.
-AN94MOD(3)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>She has her mission to complete...</color> +<color=#00CCFF>All we can do is wait for her to come back.</color>
+AN94MOD(3)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>She has her mission to complete...</color> +<color=#00CCFF>All we can do is wait for her to come back.</color>
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<CGDelay>0.4</CGDelay><common_effect>%%code=Snowstorm_02%%</common_effect>:

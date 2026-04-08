@@ -59,47 +59,47 @@ NPC-shaw(0)<Speaker>Shaw</Speaker>||:It took her such a long time to handle thos
 NPC-shaw(0)<Speaker>Jarvis</Speaker><同时置暗>||:The results are already quite extraordinary at this stage.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:Spare me the nonsense. I hate it when people beat around the bush.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Rubbing her temple, the doctor rises from her chair. At her full height, she is as tall as Jarvis, though right now she looks a little haggard.
-AN94(0)<Speaker>AN-94</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:...Reporting for duty.
+AN94(0)<Speaker>АН-94</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:...Reporting for duty.
 ()<Speaker>Jarvis</Speaker>||:Oh, if it isn't the star herself.
 ()<Speaker></Speaker>||:An exquisite Doll enters the room through the door. She looks rather haughty, though she dials it down in Shaw and Jarvis' presence.
-AN94(0)<Speaker>AN-94</Speaker>||:Good afternoon, Mr. Jarvis. +Good afternoon, Doctor Shaw.
+AN94(0)<Speaker>АН-94</Speaker>||:Good afternoon, Mr. Jarvis. +Good afternoon, Doctor Shaw.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:Just skip the pleasantries... You did well in your training. +I gathered some pretty useful data.
-AN94(0)<Speaker>AN-94</Speaker>||:You flatter me. It was just a routine session. +Are my opponents in the previous match the best T-Dolls IOP has to offer?
+AN94(0)<Speaker>АН-94</Speaker>||:You flatter me. It was just a routine session. +Are my opponents in the previous match the best T-Dolls IOP has to offer?
 AN94(0)<Speaker>Jarvis</Speaker><同时置暗>||:Well, they may not be the best, but they certainly have a lot of combat experience. +Their leader, AK-47, in particular, has worked with our forces in the past, and her performance was very commendable.
-AN94(0)<Speaker>AN-94</Speaker>||:But even so, she was no match for me. +I would hardly call someone of that caliber an "elite".
+AN94(0)<Speaker>АН-94</Speaker>||:But even so, she was no match for me. +I would hardly call someone of that caliber an "elite".
 AN94(0)<Speaker>Jarvis</Speaker><同时置暗>||:Hahaha... Your tongue is still as sharp as ever. +Still, it's good that things are going well. I'll be taking my leave then, Doctor Shaw.
-AN94(5)<Speaker>AN-94</Speaker>||:One moment please, Mr. Jarvis.
+AN94(5)<Speaker>АН-94</Speaker>||:One moment please, Mr. Jarvis.
 AN94(5)<Speaker>Jarvis</Speaker><同时置暗>||:Hm?
 ()<Speaker></Speaker>||:Jarvis is just about to leave when AN-94 calls out to him. A little confused, he turns around to face her, then looks over to Shaw.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:...What is it?
 ()<Speaker></Speaker>||:Clearly, AN-94's behavior has also taken Shaw by surprise. She eyes the Doll silently and quirks an eyebrow.
-AN94(0)<Speaker>AN-94</Speaker>||:...May I ask when I will go on active duty? 
+AN94(0)<Speaker>АН-94</Speaker>||:...May I ask when I will go on active duty?
 ()<Speaker>Jarvis</Speaker>||:Well...
 ()<Speaker></Speaker>||:Jarvis seems shocked by AN-94's question. Instead of giving an answer, he looks toward Shaw.
 NPC-shaw(4)<Speaker>Shaw</Speaker>||:That's for us to decide. +Robots shouldn't ask too many questions.
-AN94(0)<Speaker>AN-94</Speaker>||:But... Sorry, it's been a long time since I was created.
+AN94(0)<Speaker>АН-94</Speaker>||:But... Sorry, it's been a long time since I was created.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:You don't qualify yet.
-AN94(0)<Speaker>AN-94</Speaker>||:I outperform those Griffin Dolls in every way. +Even they can go on missions with Statesec, while I'm only allowed on the training ground. +I want to know why.
+AN94(0)<Speaker>АН-94</Speaker>||:I outperform those Griffin Dolls in every way. +Even they can go on missions with Statesec, while I'm only allowed on the training ground. +I want to know why.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:Why? Because I say so. +Now get out and stop badgering me.
-AN94(0)<Speaker>AN-94</Speaker>||:... +...I understand. I will continue my training until you deem me ready.
+AN94(0)<Speaker>АН-94</Speaker>||:... +...I understand. I will continue my training until you deem me ready.
 ()<Speaker></Speaker>||:AN-94 falls silent. Her face is unreadable. +She peers at Shaw, who looks adamant. She bows slightly and leaves the room.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><黑点2><BIN>97</BIN>:...
-AN94(0)<Speaker>AN-94</Speaker>||:(Sighs)
+AN94(0)<Speaker>АН-94</Speaker>||:(Sighs)
 ()<Speaker>"Nadia"</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You sound pretty miffed, 94.</color>
-AN94(5)<Speaker>AN-94</Speaker>||:...Nadia? +No, I'm not miffed. Just a bit defeated. +I thought I did an excellent job, but Doctor Shaw expects an awful lot from me.
+AN94(5)<Speaker>АН-94</Speaker>||:...Nadia? +No, I'm not miffed. Just a bit defeated. +I thought I did an excellent job, but Doctor Shaw expects an awful lot from me.
 AN94(5)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>I have served Doctor Shaw for a long time, and she has always held everything to a very high standard.</color> +<color=#00CCFF>Especially since you are the very first Doll she's created, she has extraordinarily high hopes for you in many regards.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:I know, I am Unit 1, so I must have something to show for it.
+AN94(0)<Speaker>АН-94</Speaker>||:I know, I am Unit 1, so I must have something to show for it.
 ()<Speaker></Speaker>||:...At the very least, she must show some improvement before her next successor is rolled out.
-AN94(0)<Speaker>AN-94</Speaker>||:Nadia, could you pull up the report from my last training exercise?
+AN94(0)<Speaker>АН-94</Speaker>||:Nadia, could you pull up the report from my last training exercise?
 AN94(0)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>The report is as follows.</color> +<color=#00CCFF>"Wolf Pack Project" Experiment Log 10032, Location – Field No. 3</color> +<color=#00CCFF>Opponents – Griffin Squad formed of three T-Dolls and 15 Statesec Special Forces.</color> +<color=#00CCFF>Result – All targets subdued in 11 minutes 24 seconds.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:...What could I have done better?
+AN94(0)<Speaker>АН-94</Speaker>||:...What could I have done better?
 AN94(0)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>Apologies, I am an AI for scientific research. I am incapable of detailed tactical analysis.</color> +<color=#00CCFF>But I do believe this was a very outstanding result for you.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:Then why? Why can't I go on any actual missions? +The Griffin Dolls that lost to me today are all so much weaker than me, yet they have already accumulated a great deal of field experience. +So why am I not given the same opportunity?
+AN94(0)<Speaker>АН-94</Speaker>||:Then why? Why can't I go on any actual missions? +The Griffin Dolls that lost to me today are all so much weaker than me, yet they have already accumulated a great deal of field experience. +So why am I not given the same opportunity?
 AN94(0)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>I'm deeply sorry, but I don't have the answer to that question.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:... +...Never mind. There's no point in being angry with you. +Doctor Shaw must have a reason for this decision... I am a member of the Wolf Pack. +Of course I shouldn't compare myself with ordinary Griffin Dolls.
+AN94(0)<Speaker>АН-94</Speaker>||:... +...Never mind. There's no point in being angry with you. +Doctor Shaw must have a reason for this decision... I am a member of the Wolf Pack. +Of course I shouldn't compare myself with ordinary Griffin Dolls.
 AN94(0)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>...I'm glad to see you've cheered up.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:I will keep training. No matter how many times it takes, no matter how many enemies I must defeat.
-AN94(3)<Speaker>AN-94</Speaker>||:I will not back down so easily until I've earned Doctor Shaw's recognition. Don't worry, Nadia.
+AN94(0)<Speaker>АН-94</Speaker>||:I will keep training. No matter how many times it takes, no matter how many enemies I must defeat.
+AN94(3)<Speaker>АН-94</Speaker>||:I will not back down so easily until I've earned Doctor Shaw's recognition. Don't worry, Nadia.
 ()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:After a brief pause at the door, AN-94 shakes off her restlessness and puts on a brave smile. Then she turns around and heads off to the training ground.
 ()||<黑点1>:

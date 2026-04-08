@@ -149,18 +149,18 @@ NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:Alright, I'll be 
 ()||:Ange contains her anger and cleans herself up promptly.
 AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>You slept for 3 hours 12 minutes and had only 15 minutes of REM sleep. You're suffering from severe sleep deprivation, Commander Angelia.</color>
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:I don't need you to tell me that.
-AN94(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, we have reached the target location. Please provide further directives.</color>
+AN94(0)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, we have reached the target location. Please provide further directives.</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:That is the weak point in the security of the Griffin base. The CCTV here broke down a few days before the incident. I suspect that the murderer entered the base from there.
 AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>It does look pretty close to where Commander Novikov was found dead on this map.</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:See if you can find any traces left behind by the culprit.
-AN94(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
+AN94(0)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
 AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Commander Angelia, why didn't you bring this to the investigation team's attention? Wouldn't this clear you of any suspicion?</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:I don't trust them. +Besides, the state Novikov's body was in is a little...
 ()||<SE1>AVG_Door_Hit</SE1>:Thunk-thunk-thunk! +The knocking grows even more forceful.
 ()<Speaker>Guard</Speaker>||:Commander Angelia, you are currently on suspension. Please cease everything you're doing and cooperate with the investigation.
 NPC-Ange(14)<Speaker>Ange</Speaker><Position>0,25</Position>||:I'm coming.
 ()||:The shouting from outside the door continues to grate on Ange's ears. She is just about to put away the micro-communicator when AN-94 pipes up a bit anxiously.
-AN94(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, we just discovered new traces of another break-in.</color> +<color=#00CCFF>They seem to be older than the other traces, but definitely left by the same people.</color>
+AN94(0)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, we just discovered new traces of another break-in.</color> +<color=#00CCFF>They seem to be older than the other traces, but definitely left by the same people.</color>
 NPC-Ange(10)<Speaker>Ange</Speaker><Position>0,25</Position>||:Good. Keep looking.
 AK12(3)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>94, cover me. They're right—</color>
 ()||<SE1>AVG_Explo_Close</SE1>:Boom!

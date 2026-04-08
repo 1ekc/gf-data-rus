@@ -39,34 +39,34 @@ M99(6)<Speaker>M99</Speaker>||:Still, it's a shame I can't do that card-rubbing 
 M99(6)<Speaker>M99</Speaker>||:So it's true...
 M99(6)<Speaker>M99</Speaker>||:The movies just...
 M99(6)<Speaker>M99</Speaker>||:Can't compare to the real thing...
-AN94(10)<Speaker>AN-94</Speaker>||<BGM>BGM_Hello</BGM>:AK-12, she looks like she has a terrible hand. Could it be a trap?
+AN94(10)<Speaker>АН-94</Speaker>||<BGM>BGM_Hello</BGM>:AK-12, she looks like she has a terrible hand. Could it be a trap?
 AK12(11)<Speaker>AK-12</Speaker>||:Don't second-guess yourself, those are her real emotions.
 K2(4)<Speaker>K2</Speaker>||:<size=34>M99...cover your face with the cards, your expression is broadcasting the contents of your hand...</size>
 M99(6)<Speaker>M99</Speaker>||:But... 
 G28(6)<Speaker>Gr G28</Speaker>||:Calm down, M99. MDR was running around causing trouble earlier, but we've gotten rid of her at last. +We need to find our feet and then counterattack!
 M99(6)<Speaker>M99</Speaker>||:You...you're right...
-AN94(10)<Speaker>AN-94</Speaker>||:AK-12, aren't they being too honest? +These people have been planning to give us a hard time for a while now. I believe they must be up to something.
+AN94(10)<Speaker>АН-94</Speaker>||:AK-12, aren't they being too honest? +These people have been planning to give us a hard time for a while now. I believe they must be up to something.
 AK12(11)<Speaker>AK-12</Speaker>||:I doubt it. +There's still room to observe them.
 M99(6)<Speaker>M99</Speaker>||:Ngghh... They're looking down on us! +I'll see you and raise!
 AK12(11)<Speaker>AK-12</Speaker>||:Since you've decided to raise, let's show our hands, then.
-AN94(10)<Speaker>AN-94</Speaker>||:Two pairs.
+AN94(10)<Speaker>АН-94</Speaker>||:Two pairs.
 M99(6)<Speaker>M99</Speaker>||:I... I've got nothing...
-AN94(10)<Speaker>AN-94</Speaker>||:...
+AN94(10)<Speaker>АН-94</Speaker>||:...
 AK12(11)<Speaker>AK-12</Speaker>||:AN-94, you shouldn't pity the blockheaded. +Although, I encourage you to do so.
 G28(6)<Speaker>Gr G28</Speaker>||:Oh no, M99's about to go bust.
 M99(6)<Speaker>M99</Speaker>||:(Whimpers) If only I could have used card-stacking...things wouldn't have ended up like this...
-AN94(10)<Speaker>AN-94</Speaker>||:AK-12, I think she has ill intentions.
+AN94(10)<Speaker>АН-94</Speaker>||:AK-12, I think she has ill intentions.
 AK12(11)<Speaker>AK-12</Speaker>||:We flushed out the last cheat just now, these Griffin Dolls probably aren't that dumb... +No, perhaps that is why we must give more consideration to the possibility of cheating.
 M99(6)<Speaker>M99</Speaker>||:I'm not thinking of cheating! +Does card-stacking or whatever count as cheating?!
 K2(4)<Speaker>K2</Speaker>||:<size=34>It does.</size>
 AK12(11)<Speaker>AK-12</Speaker>||:Time for a new round. Let's deal.
 ()<Speaker></Speaker>||:...
 M99(6)<Speaker>M99</Speaker>||:Aha!
-AN94(10)<Speaker>AN-94</Speaker>||:She seems very hopeful.
+AN94(10)<Speaker>АН-94</Speaker>||:She seems very hopeful.
 AK12(11)<Speaker>AK-12</Speaker>||:It's true. +How adorable.
 M99(6)<Speaker>M99</Speaker>||:I-I'm not!
 AK12(11)<Speaker>AK-12</Speaker>||:I'm folding.
-AN94(10)<Speaker>AN-94</Speaker>||:Me too.
+AN94(10)<Speaker>АН-94</Speaker>||:Me too.
 M99(6)<Speaker>M99</Speaker>||:Ehhhhh?
 K2(4)<Speaker>K2</Speaker>||:Well...they saw you got a good hand. +Of course they wouldn't want to bet against you after that.
 M99(6)<Speaker>M99</Speaker>||:But, but what should I have done...
@@ -74,11 +74,11 @@ G28(6)<Speaker>Gr G28</Speaker>||:Try to put on a poker face. You mustn't give t
 M99(6)<Speaker>M99</Speaker>||:I'll try...
 ()<Speaker></Speaker>||:...
 M99(6)<Speaker>M99</Speaker>||:...
-AN94(10)<Speaker>AN-94</Speaker>||:AK-12, should we contact the Griffin Commander? Her facial expression management system looks like it's in dire need of emergency maintenance.
+AN94(10)<Speaker>АН-94</Speaker>||:AK-12, should we contact the Griffin Commander? Her facial expression management system looks like it's in dire need of emergency maintenance.
 AN94(10);AK12(11)<Speaker>AK-12</Speaker>||:She's just tormenting herself, pay it no heed.
-AN94(10)<Speaker>AN-94</Speaker>;AK12(11)||:So what's the response to that?
+AN94(10)<Speaker>АН-94</Speaker>;AK12(11)||:So what's the response to that?
 AN94(10);AK12(11)<Speaker>AK-12</Speaker>||:Anything you want. Do as you see fit.
-AN94(10)<Speaker>AN-94</Speaker>;AK12(11)||:According to the information I've obtained so far, her face looks very contorted, but the rate at which her fingers are trembling matches that from when she was showing despair earlier.
+AN94(10)<Speaker>АН-94</Speaker>;AK12(11)||:According to the information I've obtained so far, her face looks very contorted, but the rate at which her fingers are trembling matches that from when she was showing despair earlier.
 AK12(11)<Speaker>AK-12</Speaker>||:Very well. Place your bet, then.
 M99(6)<Speaker>M99</Speaker>||<黑屏1>:<color=#A9A9A9>(Argh! How did they know?!)</color>+<color=#A9A9A9>(No, I need to be strong. They didn't see through my expression, so I can win next time if I can control my fingers!)</color>
 ()<Speaker></Speaker>||<黑屏2>:...

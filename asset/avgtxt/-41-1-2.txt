@@ -61,18 +61,18 @@ NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:Really? +I believe it would be wis
 ()<Speaker></Speaker>||:The man takes a blow in the back of his neck. Ange swears she could hear the crack of broken bone. +Without even a chance to pull the trigger, the agent topples over.
 ()<Speaker></Speaker>||:Ange looks placidly at her partners, who have approached without a sound.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:I hope he's not dead.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:I held back.
+NPC-AngeStreet(0);AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:I held back.
 NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||<BGM>m_avg_casual</BGM>:Hm, somehow I don't think this gentleman's spine agrees. +Oh, what a shame. He's still breathing.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;RPK16(7)<Position>0,-70</Position>||:Drag him into the alley back there. Get the other two as well.
 NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:What would you have done if we hadn't shown up in time? +Why didn't you let us stay with you? Don't you know it's very dangerous to split up even for just a few minutes?
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;RPK16(7)<Position>0,-70</Position>||:If I were him, I'd have been relieved that you hadn't shown up in time. After all, he wouldn't have had to stay so long in the hospital if I had taken him down myself.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Miss Ange wants to eliminate the spies who have been following her before we enter the city, that's why she had to bait them into revealing themselves. +They wouldn't have fallen for it if we had been with her.
+NPC-AngeStreet(0);AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Miss Ange wants to eliminate the spies who have been following her before we enter the city, that's why she had to bait them into revealing themselves. +They wouldn't have fallen for it if we had been with her.
 NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Not that they're very professional, seeing that they fell for it at all. +I expected more from the Germans.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;RPK16(7)<Position>0,-70</Position>||:They don't seem to be sent by the government, and they're too weak to be Paradeus. +It's probably just some random gang messing about. We shouldn't waste time on such amateurs. +Still, we weren't actually followed by that many people, so I suppose our disguises are working pretty well.
 NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Is this why you've split the team up?
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>;RPK16(7)<Position>0,-70</Position>||:Though I am a bit puzzled by the grouping...
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>;RPK16(7)<Position>0,-70</Position>||:Though I am a bit puzzled by the grouping...
 AN94(11)<Position>0,-70</Position>;RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Oh? Got something against me, dear Antje?
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:...S-Stop pulling my leg, Renate.
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:...S-Stop pulling my leg, Renate.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:I'm asking you to be sisters because it's easier to disguise the two of you as civilians entering the city. +This is Germany; we're not here on holiday. +We must keep a low profile on this mission.
 NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:That's true; those two stick out like sore thumbs even in civilian clothing. +Is that also why you've given us weird-ass names?
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;RPK16(7)<Position>0,-70</Position>||:Are they weird? +I think they suit you.
@@ -82,19 +82,19 @@ NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:You'll see when we get inside.
 ()<Speaker></Speaker>||:With the nuisance taken care of, the reunited trio join the crowd once again and enter the town leading into Bremen. +The quarantine wall towers above the huddling slipshod buildings. Residents of this town sometimes look up and watch as large metal birds soar through the sky, directly across the satellite town and into Bremen.
 ()||<黑屏1>:
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||<黑屏2><BIN>168</BIN>:We're through. +Where is our informant?
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||<黑屏2><BIN>168</BIN>:We're through. +Where is our informant?
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AN94(11)<Position>0,-70</Position>||:We'll meet him after we rendezvous with Lucia and Erwin. +Now that we're in Bremen, we should be safe for the time being.
 NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:You mean 12 and 15? I just can't get used to these names.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;RPK16(7)<Position>0,-70</Position>||:You'll get used to them soon enough.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:This is the first time I've visited East Germany. +I didn't expect it to be like this.
+NPC-AngeStreet(0);AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:This is the first time I've visited East Germany. +I didn't expect it to be like this.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AN94(11)<Position>0,-70</Position>||:Getting a sense of novelty? +Things aren't really that different from back home.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Hm... You're right. +Most of the refugees at the checkpoint will only get to live in this satellite town.
+NPC-AngeStreet(0);AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Hm... You're right. +Most of the refugees at the checkpoint will only get to live in this satellite town.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AN94(11)<Position>0,-70</Position>||:Even so, it's more than they could hope for. +It certainly beats living in fear and being doused in radiation out in the Yellow Zone. +It's the same for people everywhere.
 NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:I'm surprised you two are in the mood for idle chatter. Don't you think we're standing out a bit too much? +Also, we've been here for a while, but there's no sign of Erwin or Lucia. +Are you sure they actually know where we're meeting up?
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;RPK16(7)<Position>0,-70</Position>||:Yes, they simply haven't arrived.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Then maybe we should've waited before coming in? +It's a lot of trouble crossing the quarantine belt without your papers, not to mention that they're Dolls.
+NPC-AngeStreet(0);AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Then maybe we should've waited before coming in? +It's a lot of trouble crossing the quarantine belt without your papers, not to mention that they're Dolls.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AN94(11)<Position>0,-70</Position>||:Relax, 94, they'll be fine. +Also, it's about time.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:About time?
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:About time?
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>207</BIN><SE1>AVG_wind_grass</SE1>:Ange glances at her watch. +By then, the trio have made their way to a large open field. +This is a piece of undeveloped land between the quarantine belt and the satellite town.
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||<BIN>207</BIN>:An open space, but I'm not seeing any paths. +Oh, I know. 12 and 15 are gonna pop out from underground?
@@ -102,15 +102,15 @@ NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;RPK16(7)<Position>0,-70</Position>||
 NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:...Oh, now I see.
 ()<Speaker></Speaker>||:RPK-16 seems to have come to some kind of realization.
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:No wonder you put them on the same team.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:W-What do you mean?
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:W-What do you mean?
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:There they are.
 ()<Speaker></Speaker>||:Ange looks up in the other direction. +A freighter plane is approaching Bremen from the horizon. +In their field of vision, the small black dot gradually grows into a rumbling aircraft. +Its silhouette blocks out the sunlight. Ange gazes at it with squinted eyes. +The plane becomes larger and larger as it descends, until they can clearly see the landing gear being lowered.
 ()<Speaker></Speaker>||:Ange keeps staring wordlessly at the sky. +All of a sudden, a small object is ejected from the rear of the plane. The object enlarges rapidly and it soon becomes apparent that it's a crate about the size of a car.
 ()<Speaker></Speaker>||:With a loud, dull clang, the crate lands heavily not far from Ange. +The empty weedy field now sports an additional crater.
 安洁莉娅()<Speaker>Angelia</Speaker>||:They've arrived.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Huh?
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Huh?
 ()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:Ange walks up to the crate and disengages the locking mechanism. +The crate opens on the side and two white-haired Dolls roll out from within.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:12...Lucia, are you alright?
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:12...Lucia, are you alright?
 AK12(2)<Speaker>AK-12</Speaker><Position>0,85</Position>;AN94(11)<Position>0,-70</Position>||:My head...felt like it was going to come right off.
 AK12(2)<Position>0,85</Position>;NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:The landing site is only off by 4.75m. The delivery crew is really professional.
 AK12(2)<Position>0,85</Position>;RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:So this is how you made it across the border. +Hahahaha... I'm sorry, but this is hilarious. +I can't believe you actually agreed to this. What obliging subordinates you are.

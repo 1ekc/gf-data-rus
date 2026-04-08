@@ -23,7 +23,7 @@ NPC-Keven(2)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:Group A, Group B! 
 NPC-Keven(1)<Speaker>J</Speaker>||:...They're all dead.
 AK15(0)<Speaker>AK-15</Speaker>||:The Nyto also stopped breathing.
 NPC-Ange(7)<Speaker>Ange</Speaker>||:They ingested delayed-action poison. +Whether they succeed or not, they'd die here... Can they be identified?
-AN94(0)<Speaker>AN-94</Speaker>||:They have all been disfigured, and I'm not getting any fingerprints. +I've extracted DNA samples from each of them. I'll send the data over to Mr. Light in a moment.
+AN94(0)<Speaker>АН-94</Speaker>||:They have all been disfigured, and I'm not getting any fingerprints. +I've extracted DNA samples from each of them. I'll send the data over to Mr. Light in a moment.
 NPC-Light(0)<Speaker>Light</Speaker>||:I got them. J, please cross-check these with what we have in the Stasi database.
 NPC-Light(2)<Speaker>Light</Speaker>||<BGM>BGM_Empty</BGM>:...J?
 NPC-Keven(1)<Speaker>J</Speaker>||:You...little piece of...
@@ -44,9 +44,9 @@ NPC-Ange(7)<Speaker>Ange</Speaker>;NPC-Keven(1)||:So where are they?
 NPC-Keven(1)<Speaker>J</Speaker>||:...Huh?
 ()<Speaker></Speaker>||:J turns around and scans the surroundings.
 NPC-Keven(2)<Speaker>J</Speaker>||:That's strange, wasn't she guarding the ward?
-AN94(2)<Speaker>AN-94</Speaker>||:A-Ange!
+AN94(2)<Speaker>АН-94</Speaker>||:A-Ange!
 NPC-Ange(7)<Speaker>Ange</Speaker>||:What is it?
-AN94(2)<Speaker>AN-94</Speaker>||:It's RPK!
+AN94(2)<Speaker>АН-94</Speaker>||:It's RPK!
 RPK16(3)<Speaker>RPK-16</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...Ange.</color>
 NPC-Ange(7)<Speaker>Ange</Speaker>;RPK16(3)<scan><通讯框>||:What happened? Where are you? Is Leone safe?
 NPC-Ange(7);RPK16(3)<Speaker>RPK-16</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>I'm sorry.</color>
@@ -62,7 +62,7 @@ NPC-Ange(7)<Speaker>Ange</Speaker>||:...!
 ()<Speaker></Speaker>||:Leone is dead.
 ()<Speaker>AK-15</Speaker>||:...How did this happen?
 ()<Speaker>RPK-16</Speaker>||:We were ambushed... It was a white Nyto.
-()<Speaker>AN-94</Speaker>||:A white Nyto?
+()<Speaker>АН-94</Speaker>||:A white Nyto?
 ()<Speaker></Speaker>||:Ange walks down the stairs wordlessly and kneels down next to Leone. +Leone's eyelashes, which were always trembling with fear, have grown still, and her eyes are now completely dull and soulless. +The ghastly wound across her throat was no doubt inflicted by a sharp blade. Ange can't help but picture a white Nyto brandishing a large scythe.
 ()<Speaker>RPK-16</Speaker>||:... +...At least she never has to be fearful of anything ever again.
 ()||<黑屏1>:

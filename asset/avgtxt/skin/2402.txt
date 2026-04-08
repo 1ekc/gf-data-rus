@@ -28,7 +28,7 @@ AK12(7)<Speaker>Commander</Speaker>||:Also, you're not allowed to hurt them with
 AK12(7)<Speaker>AK-12</Speaker>||<黑屏1>0,0.6</黑屏1>:My, you're strict... +All right, I accept. Let's have some fun. +What about you?
 ()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:...The match whistle blows over the volleyball court drawn on the beach.
 AK12(7)<Speaker>AK-12</Speaker>||:I'll handle the first match. I'll be enough by myself.
-AN94(6)<Speaker>AN-94</Speaker>||:Commander, who will Griffin be sending?
+AN94(6)<Speaker>АН-94</Speaker>||:Commander, who will Griffin be sending?
 ()<Speaker>Commander</Speaker>||:(That IS a very important question...) + (In any case, I need to find people who know how formidable DEFY are as well as the rules of volleyball...)
 ()<Speaker>Commander</Speaker>||:I've decided. We'll have...
 G41(2)<Speaker>Gr G41</Speaker>||<震屏>:Obviously Master's going to fight the first battle with you!

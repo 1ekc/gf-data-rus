@@ -84,7 +84,7 @@ NPC-MrsGray(1)<Speaker>Gray</Speaker>||:You're toying with Pandora's Box, Angeli
 ()<Speaker></Speaker>||:Just then, a familiar voice shouts from another entrance. +Then a completely different force rushes in. +Gray lifts her head and her men are immediately on the alert.
 NPC-Light(1)<Speaker>Light</Speaker>||<BGM>BGM_Brain</BGM>:Miss Angelia is an important collaborator of the Stasi. +Neither the Berlin Police nor Galatea has the authority to detain her. +I'm taking over the situation from here!
 ()<Speaker></Speaker>||:The young man strides up to Ange and Gray and flashes his identifications as he approaches. +Behind him, AN-94 heads straight over to the collapsed AK-12 with a toolkit. +She performs emergency repairs on AK-12 wordlessly and soon enough, AK-12's dull eyes light up again.
-AN94(0)<Speaker>AN-94</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Core components are undamaged. You can move now, 12.
+AN94(0)<Speaker>АН-94</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:Core components are undamaged. You can move now, 12.
 AK12(16)<Speaker>AK-12</Speaker><Position>0,60</Position>||:Good. Give me my rifle. +I'm gonna gun down this pompous woman.
 ()<Speaker></Speaker>||:AK-12 struggles to her feet but is held down by both AN-94 and Ange.
 NPC-MrsGray(5)<Speaker>Gray</Speaker>||:...Young man, has your little operation been authorized?

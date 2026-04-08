@@ -16,9 +16,9 @@ NPC-Ange(2)<Speaker>Angelia</Speaker>||:We can't stay here for long. +Renate, re
 ()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:Hopps immediately moves Ange behind him, but Ange steps around him and stares outside the window in silence. +More refugees have taken to the disordered streets due to the noise and tremor of the explosion.
 NPC-Morridow(1)<Speaker>Morridow</Speaker>||:What was that?!
 NPC-Hopps(0)<Speaker>Hopps</Speaker>||:The enemy must be on the move.
-AN94(11)<Speaker>AN-94</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ange, there was an explosion of unknown origin in Zone A. The refugees are getting agitated. This is bad.</color>
+AN94(11)<Speaker>АН-94</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ange, there was an explosion of unknown origin in Zone A. The refugees are getting agitated. This is bad.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>;AN94(11)||:That must've been a signal. Someone is about to get serious.
-AN94(12)<Speaker>AN-94</Speaker>||:<color=#00CCFF>We can't get in touch with Renate or AK-15.</color> +<color=#00CCFF>Ange, their comms are offline. </color>
+AN94(12)<Speaker>АН-94</Speaker>||:<color=#00CCFF>We can't get in touch with Renate or AK-15.</color> +<color=#00CCFF>Ange, their comms are offline. </color>
 AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Is it because of the explosion?</color>
 ()<Speaker></Speaker>||<SE2>Alarm</SE2>:Just then, the "silence" is shattered by the klaxons that are blaring throughout the settlement.
 NPC-Keven(0)<Speaker>J</Speaker>||:Good God, what is it this time?!
@@ -44,12 +44,12 @@ NPC-Ange(2)<Speaker>Angelia</Speaker>||:Lucia, can you hack them?
 NPC-Ange(2);AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>I've tried, but they can't be accessed remotely at all.</color> +<color=#00CCFF>All their ports are closed.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>;AK12(12)||:They know us and they came prepared. +You have permission to use your weapons. Link up with us once you destroy those automatons. +We'll be leaving soon.
 AK12(12)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Acknowledged.</color> +<color=#00CCFF>Antje, get out our rifles and prepare to move.</color>
-AN94(11)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Right.</color> +<color=#00CCFF>We don't have much ammo with us so we need to make every shot count.</color>
+AN94(11)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Right.</color> +<color=#00CCFF>We don't have much ammo with us so we need to make every shot count.</color>
 ()<Speaker></Speaker>||:AK-12 takes a second to observe the situation. Under such intense enemy fire, it's impossible to reach the church by jumping across rooftops.
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:She and AN-94 promptly return to ground level. A few of the anti-riot automatons are charging straight toward the church. The two Dolls take out the closest ones from around the corner.
 ()<Speaker></Speaker>||<SE1>Select</SE1>:With the most imminent threats neutralized, AK-12 reloads and makes for the church while keeping her body close to the ground. +The automatons start shifting their attention to AN-94, who proceeds to switch positions and lay down suppressive fire. Meanwhile, AK-12 dives next to a refugee's corpse, using it as a meat shield while returning fire at the enemies.
 AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>They're pretty slow. This won't be too difficult.</color>
-AN94(11)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Lucia, watch out!</color>
+AN94(11)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Lucia, watch out!</color>
 ()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:The anti-riot automaton that got shot down in front of AK-12 suddenly blows up. +Understanding the dreadful implication, she scrambles quickly to her feet and dashes towards the church. +94 also makes a run for it under the cover of the billowing smoke. They both reach the perimeter of the church with lightning speed.
 AK12(13)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Ange, get out of there!</color> +<color=#00CCFF>The automatons are rigged with explosives! This church can't withstand the impact!</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Shit! They must be insane. Everyone out the windows!! NOW!!
@@ -66,14 +66,14 @@ NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:Alright!
 NPC-Ange(2);AK12(12)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>Ange, go!</color> +<color=#00CCFF>We're almost out of ammo!</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:We're leaving our backs to you!
 ()<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:Ange's group start running towards the residential area while the two Dolls cover their escape.
-AN94(11)<Speaker>AN-94</Speaker>||:...We've got to go too.
+AN94(11)<Speaker>АН-94</Speaker>||:...We've got to go too.
 AK12(12)<Speaker>AK-12</Speaker>;AN94(11)||:No, we need to stay just a little longer.
-AK12(12);AN94(12)<Speaker>AN-94</Speaker>||:But we're running dangerously low on ammo and those automatons are getting close.
+AK12(12);AN94(12)<Speaker>АН-94</Speaker>||:But we're running dangerously low on ammo and those automatons are getting close.
 AK12(12)<Speaker>AK-12</Speaker>;AN94(12)||:Trust me, trust Ange, and trust our stupid teammates. +We have to make our stand here.
-AN94(11)<Speaker>AN-94</Speaker>||:... +Understood. I trust you. +Enemy reinforcements incoming!
+AN94(11)<Speaker>АН-94</Speaker>||:... +Understood. I trust you. +Enemy reinforcements incoming!
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Anti-riot automatons are making a beeline for the church, but the DEFY Dolls shoot them down accurately one after the other.
 AK12(12)<Speaker>AK-12</Speaker>||:Tsk, I'm out of ammo.
-AN94(11)<Speaker>AN-94</Speaker>||:Lucia, straight ahead!
+AN94(11)<Speaker>АН-94</Speaker>||:Lucia, straight ahead!
 ()<Speaker></Speaker>||:With only one Doll firing, one of the anti-riot automatons has made it to the entrance of the church. AN-94's final round hits it on a weak spot. It topples and slides along the muddy ground, stopping right next to a building.
 ()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:The next second, the automaton erupts in a dazzling ball of fire. The impact causes the rickety building to collapse instantaneously. +When the smoke and dust finally settle, there is already no sign of AK-12 and AN-94.
 ()<Speaker></Speaker>||:... +In an abandoned house about 100 meters away, a person puts down their binoculars.

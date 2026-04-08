@@ -33,11 +33,11 @@ NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:What people commemorate, sing pr
 AK12(0)<Speaker>AK-12</Speaker>||:I know it's Vodka Day, but aren't you overdoing it?
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:You're not celebrating Vodka Day right if you're NOT overdoing it. +Since you're back, come join me for a drink.
 ()<Speaker></Speaker>||:AK-12 glances at AN-94, who simply shakes her head helplessly.
-AN94(0)<Speaker>AN-94</Speaker>||:The Doctor won't listen to anyone when she's in this state. +Rather than fretting over her, it's better to help her with some of the vodka.
+AN94(0)<Speaker>АН-94</Speaker>||:The Doctor won't listen to anyone when she's in this state. +Rather than fretting over her, it's better to help her with some of the vodka.
 AK12(0)<Speaker>AK-12</Speaker>||:...Fine.
 ()<Speaker></Speaker>||:AK-12 takes in the heap of bottles on the desk.
 AK12(2)<Speaker>AK-12</Speaker>||:...All pure vodka? You know it's not my thing, right?
-AN94(0)<Speaker>AN-94</Speaker>||:...I've also got some coffee liqueur... +You can have some... Black Russian.
+AN94(0)<Speaker>АН-94</Speaker>||:...I've also got some coffee liqueur... +You can have some... Black Russian.
 AK12(0)<Speaker>AK-12</Speaker>||:That's better. Make me a glass.
 ()<Speaker></Speaker>||<CGDelay>0.7</CGDelay><SE1>AVG_20Winter_Drink_Tea</SE1>:
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:Tsk... Tasteless brat...
@@ -46,7 +46,7 @@ AK12(0)<Speaker>AK-12</Speaker>||:Haha, I'd rather not drink rubbing alcohol.
 AK12(0)<Speaker>AK-12</Speaker>||:Starting so early today?
 NPC-shaw(4)<Speaker>Shaw</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AN-94 points toward the paused video on the monitor. +It's the anniversary news coverage of the Beilan Island Incident.
-AN94(4)<Speaker>AN-94</Speaker>||:The Doctor's entire crew lost their lives in the rescue mission back then.
+AN94(4)<Speaker>АН-94</Speaker>||:The Doctor's entire crew lost their lives in the rescue mission back then.
 ()<Speaker></Speaker>||:As comprehension dawns on AK-12, she opens her mouth to say something comforting.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:Don't give me that disgusting look. +And don't say anything annoying. +I don't need your commiseration.
 AK12(0)<Speaker>AK-12</Speaker>||:Humans can find much solace in the memory of their comrades.
@@ -70,7 +70,7 @@ AK12(3)<Speaker>AK-12</Speaker>||:Say that again, Doctor—what are you?
 NPC-shaw(4)<Speaker>Shaw</Speaker>||:A perfectionist!
 NPC-shaw(4)<Speaker>Shaw</Speaker><Shake>||<SE1>AVG_Punch</SE1>:<size=50>I'M A GODDAMN PERFECTIONIST!</size>
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AN-94 grabs a wet towel and places it on the Doctor's forehead in concern.
-AN94(4)<Speaker>AN-94</Speaker>||:I think that's enough for today. +The Doctor isn't making a lot of sense.
+AN94(4)<Speaker>АН-94</Speaker>||:I think that's enough for today. +The Doctor isn't making a lot of sense.
 AK12(3)<Speaker>AK-12</Speaker>||:...Tsk. Hey, Doctor, what's the security code of your bank account?
 NPC-shaw(4)<Speaker>Shaw</Speaker>||<CGDelay>0.5</CGDelay>:
 NPC-shaw(4)<Speaker>Shaw</Speaker>||:...Six zeroes.
@@ -80,7 +80,7 @@ NPC-shaw(4)<Speaker>Shaw</Speaker>||:...
 AK12(0)<Speaker>AK-12</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_Wheelchair</SE1>:Clank. +The automated logistics cart in the lab wheels up to Shaw.
 ()<Speaker>Nadia</Speaker>||:<color=#00CCFF>Doctor, the vodka you ordered has been delivered. Please sign for it.</color>
-AN94(4)<Speaker>AN-94</Speaker>||<SE1>ClothingUp</SE1>:Let me help.
+AN94(4)<Speaker>АН-94</Speaker>||<SE1>ClothingUp</SE1>:Let me help.
 ()<Speaker>Nadia</Speaker>||:<color=#00CCFF>If the Doctor dies because of an avoidable error, she will never rest in peace.</color>
 AK12(4)<Speaker>AK-12</Speaker>||:She's screwed then. +Judging from the likelihood of human error, she will most probably never rest in peace.
 ()||<黑屏1><CGDelay>0.7</CGDelay>:

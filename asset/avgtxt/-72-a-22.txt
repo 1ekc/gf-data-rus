@@ -96,7 +96,7 @@ NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:Got it.+Erasing it will take a b
 ()<Speaker>AK-12</Speaker>||:<color=#00CCFF>Yes, AK-15 is pursuing the target.</color>
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang-bang-bang!
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><SE1>AVG_brake</SE1><SE1>AVG_engine_speedup</SE1>:Amaris hears intense gunfire, along with the sudden roar of revving engines.
-()<Speaker>AN-94</Speaker>||:<color=#00CCFF>Morridow has disconnected the entire tunnel system from main control.</color>
+()<Speaker>АН-94</Speaker>||:<color=#00CCFF>Morridow has disconnected the entire tunnel system from main control.</color>
 ()<Speaker>Amaris</Speaker>||:Oh, she just did us a huge favor...
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Amaris' lips curl into a cruel smile.
 ()<Speaker>Amaris</Speaker>||:I'll have Gray cut all power to the tunnels.+ Let's give our grand entrance a bit of dramatic flair.
@@ -128,14 +128,14 @@ NPC-Laplace(13)<Speaker>Laplace</Speaker>||:Alright.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><黑点2><CGDelay>0.5</CGDelay>:
 NPC-MorridowNew(0)<Speaker>Morridow</Speaker>||:Why are you strays even here? + The entire world's hunting you—got nowhere else to go?
-AN94MOD(0)<Speaker>AN-94</Speaker>||:Nowhere's better than dead.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:Nowhere's better than dead.
 ()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:AN-94 coldly pulls the trigger. Bang-bang-bang!
 ()<Speaker></Speaker>||<SE1>RunStep</SE1>:Morridow jumps from the vehicle and gives chase.
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0%%range=3</controll_shake><SE1>AVG_Cloak_Whoosh</SE1>:Swish...
 ()<Speaker></Speaker>||:She suddenly realizes AN-94 is merely drawing her away from the vehicle.
 ()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3><CGDelay>0.5</CGDelay>:Bam!+A heavy blow strikes from behind. Morridow narrowly dodges, but the close brush with death leaves her drenched in cold sweat.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...+I was too slow.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:No matter. There'll be plenty more chances.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:No matter. There'll be plenty more chances.
 ()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:Thud. Something heavy hits the vehicle roof.
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:AK-12 deactivates her cloak and reveals herself.
 NPC-AK12Mod(4)<Speaker>AK-12</Speaker><GradientShow>2</GradientShow>||:We've been looking forward to finishing that fight we started at Avernus.+If you go down in one hit, we'll be pretty disappointed, Miss Morridow.

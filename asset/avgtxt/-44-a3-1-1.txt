@@ -152,17 +152,17 @@ NPC-MrsGray(2)<Speaker>Gray</Speaker>||:...!
 ()<Speaker></Speaker>||:A single round flies through the billowing dust and knocks the pistol right out of Gray's hand before she can react.
 NPC-MrsGray(5)<Speaker>Gray</Speaker>||:Tsk!
 ()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:The pistol clatters onto the floor. +When she looks back again, Ange has already dragged her paralyzed body away from her.
-AN94(2)<Speaker>AN-94</Speaker>||<SE1>AVG_weapon_reload</SE1>:Target locked on. Be careful, Ange is in close proximity!
+AN94(2)<Speaker>АН-94</Speaker>||<SE1>AVG_weapon_reload</SE1>:Target locked on. Be careful, Ange is in close proximity!
 AK15(2)<Speaker>AK-15</Speaker>||:Subduing the target.
 ()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:AK-15 raises her rifle again and pulls the trigger.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:A metallic clang rings out. +Something has darted out from behind Gray and blocked the bullet. +It is a long and slender metal tendril with a sharp blade at the tip. +It looks like a scorpion's tail. +In the face of the menacing Dolls, Gray has no intention of getting into a fight. With a single leap, she reaches the wall in the back.
 NPC-MrsGray(5)<Speaker>Gray</Speaker>||:...
 ()<Speaker></Speaker>||:She shoots one last threatening look at Ange before finally turning away.
 ()<Speaker></Speaker>||<SE1>AVG_21Winter_Fire_Alarm</SE1><SE1>AVG_Broken_Glass</SE1>:Then her powerful tail smashes the glass over an emergency button. Before AK-15 can stop her, the wall behind Gray suddenly swivels, and Gray disappears without a trace.
-AN94(2)<Speaker>AN-94</Speaker>||<SE1>AVG_door_storehouse</SE1>:Crap, a trap door! +15!
+AN94(2)<Speaker>АН-94</Speaker>||<SE1>AVG_door_storehouse</SE1>:Crap, a trap door! +15!
 AK15(2)<Speaker>AK-15</Speaker>||:It's built with a special material. I can't find it!
 ()<Speaker></Speaker>||:The alarm goes off and heavy metal gates come slamming down on all four walls of the operating room.
-AN94(2)<Speaker>AN-94</Speaker>||:Ange, we need to retreat! +We won't make it if we don't go now!
+AN94(2)<Speaker>АН-94</Speaker>||:Ange, we need to retreat! +We won't make it if we don't go now!
 NPC-Ange(4)<Speaker>Ange</Speaker>||:Dammit!
 ()<Speaker></Speaker>||:With AK-15's help, Ange scrambles back to her feet.
 NPC-Ange(4)<Speaker>Ange</Speaker>||:Quick, we're going back!

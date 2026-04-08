@@ -5,18 +5,18 @@
 ()<Speaker></Speaker>||<BIN>169</BIN><narrator><黑屏2>:Fall 2064, the whole world can tell that a storm is brewing. +Now that harvest season is here, everyone is eager to pick their own share of fruit from the large orchard. +As an important city within the purification zone on German soil, Bremen is often the first choice for emigrating refugees due to its unique urban policies.
 ()<Speaker></Speaker>||<narrator>:Outskirts of Bremen, Germany. +Today is just like any other day in Bremen. Border Control is being swarmed by a large jostling crowd. +For those who are desperate to escape from a life of suffering, this place is their last remaining lifeline.
 ()||<黑屏1>:... +...
-AN94(0)<Speaker>AN-94</Speaker>||<黑屏2><BIN>1</BIN><SE1>AVG_Helicopter_BG</SE1><关闭蒙版>:We have arrived at the designated location, 3.17km away from the Bremen Quarantine Wall checkpoint. +...We should keep moving and rendezvous with Team B as soon as possible.
+AN94(0)<Speaker>АН-94</Speaker>||<黑屏2><BIN>1</BIN><SE1>AVG_Helicopter_BG</SE1><关闭蒙版>:We have arrived at the designated location, 3.17km away from the Bremen Quarantine Wall checkpoint. +...We should keep moving and rendezvous with Team B as soon as possible.
 NPC-Ange(19)<Speaker>Angelia</Speaker>||<SE1>Stop_AVG_loop</SE1>:...
 ()<Speaker></Speaker>||:Ange looks up at the sky and feels the dazzling sunlight on her body.
 ()||<SE1>Rope</SE1>:She stretches out her arms and clasps her hands together. Her sluggish body crackles from time to time with the stretch. +She lets go when her organic arm protests under the strain placed by her prosthetic arm. She stares at the back of her right hand, which has gone white from a lack of blood circulation.
-AN94(0)<Speaker>AN-94</Speaker>||:...Are you alright, Ange?
+AN94(0)<Speaker>АН-94</Speaker>||:...Are you alright, Ange?
 RPK16(0)<Speaker>RPK-16</Speaker>||:If you want to loosen up a bit, there are better alternatives than doing Soviet morning broadcast workouts. +For instance, shooing away or shaking off the rats sniffing at us.
 NPC-Ange(19)<Speaker>Angelia</Speaker>;RPK16(0)||:Humph... +...They've sure been patient.
-NPC-Ange(19);AN94(0)<Speaker>AN-94</Speaker>||:We have already been keeping a very low profile... but they still managed to sniff us out. +We are now on foreign territory. Things could get tricky if we cause a shootout before meeting with Madam Ulrich.
+NPC-Ange(19);AN94(0)<Speaker>АН-94</Speaker>||:We have already been keeping a very low profile... but they still managed to sniff us out. +We are now on foreign territory. Things could get tricky if we cause a shootout before meeting with Madam Ulrich.
 NPC-Ange(19)<Speaker>Angelia</Speaker>;AN94(0)||:I'm attracting attention because I'm valuable...
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:Not because I'm dangerous. We can just ignore them. RPK?
 RPK16(0)<Speaker>RPK-16</Speaker>||:I've planned our route. +By the way, I recommend setting off sooner rather than later, or 12 will start suffering from Ange withdrawal symptoms. 
-AN94(0)<Speaker>AN-94</Speaker>||:Ange?
+AN94(0)<Speaker>АН-94</Speaker>||:Ange?
 ()<Speaker></Speaker>||<SE1>AVG_Scene_Transfer</SE1>:Ange's eye twitches slightly as she studies the route plotted on the map that RPK-16 just handed her. She drums her fingers on her prosthetic arm and shakes her head.
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:I've got a new plan. +...There's a place in Bremen that I want to check out before meeting with Ulrich. +We'll regroup with the others afterwards.
 RPK16(4)<Speaker>RPK-16</Speaker>||:Hoho...
@@ -26,20 +26,20 @@ NPC-Ange(19)<Speaker>Angelia</Speaker>;RPK16(2)||:That's not for you to worry ab
 NPC-Ange(19);RPK16(0)<Speaker>RPK-16</Speaker>||:Then, what's the target location of your new plan?
 NPC-Ange(19)<Speaker>Angelia</Speaker>;RPK16(0)||:A second-hand record shop in Bremen Old Town. +The name is "Million Roses"... It's an old shop.
 RPK16(5)<Speaker>RPK-16</Speaker>||:...Understood.
-AN94(0)<Speaker>AN-94</Speaker>||:...
+AN94(0)<Speaker>АН-94</Speaker>||:...
 ()<Speaker></Speaker>||<黑屏1>:AN-94 seems a bit confused, but she says nothing. +Ange lowers her eyes and purses her slightly dry lips as she recalls the message from 12 hours ago. +The mysterious message that has led her to come to this decision and change her plans.
 ()<Speaker>Unknown Message</Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><回忆><黑屏2>:<color=#00CCFF>Captain Anna Viktorovna Tsoi, the white "sparrow" you are looking for is by Ulrich's side.</color> +<color=#00CCFF>I would like to be the first person you meet in Germany.</color>
 ()<Speaker>Unknown Message</Speaker>||<黑屏1>:<color=#00CCFF>Samosina.</color>
 ()<Speaker></Speaker>||<关闭蒙版><黑屏2><BGM>GF_EV9_Story</BGM><BIN>168</BIN>:"Million Roses" Record Shop, Bremen. +Standing outside the shop front, Ange can't help but wrinkle her nose at the faint musty smell of mold and dust coming from inside the shop. +This slightly run-down record shop is located on a quiet street with very few pedestrians; the trio looks incredibly out of place standing at the door.
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:I can go in on my own. You two stand guard out here. +Try to lie low. Don't draw too much attention.
-NPC-Ange(19);AN94(0)<Speaker>AN-94</Speaker>||:...Um, are you really going in alone?
+NPC-Ange(19);AN94(0)<Speaker>АН-94</Speaker>||:...Um, are you really going in alone?
 NPC-Ange(19)<Speaker>Angelia</Speaker>;AN94(0)||:Don't worry. I won't snap anyone's neck.
-AN94(0)<Speaker>AN-94</Speaker>||:...I'll be nearby. Stay in touch.
+AN94(0)<Speaker>АН-94</Speaker>||:...I'll be nearby. Stay in touch.
 ()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:After watching Ange disappear into the shop, RPK-16 blinks.
 RPK16(0)<Speaker>RPK-16</Speaker>||:A mysterious figure whom even we mustn't know about.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:Ange has her own ideas. +Our job is just to obey.
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:Ange has her own ideas. +Our job is just to obey.
 AN94(0);RPK16(5)<Speaker>RPK-16</Speaker>||:Haha... You're so cute you have no business being with the rest of us, 94.
-AN94(0)<Speaker>AN-94</Speaker>||:...?
+AN94(0)<Speaker>АН-94</Speaker>||:...?
 ()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:... +...
 ()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><黑屏2><BIN>656</BIN>:Clatter. +The door closes loudly, producing a sound that echoes through the cramped space and sends dust billowing. +However, nobody complains about the abrupt noise. +After all, it is just an old second-hand record shop with barely any customers.
 NPC-Ange(19)<Speaker>Angelia</Speaker>||<SE1>AVG_footsteps_cave</SE1>:...

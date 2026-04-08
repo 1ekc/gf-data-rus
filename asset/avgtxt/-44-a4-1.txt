@@ -1,6 +1,6 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><BGM>10194</BGM>:... +Ange's temporary hideout.
-AN94(0)<Speaker>AN-94</Speaker>||:So what are we going to do?
+AN94(0)<Speaker>АН-94</Speaker>||:So what are we going to do?
 NPC-Ange(7)<Speaker>Ange</Speaker>;AN94(0)||:First of all, we can't just barge in there without making any preparations. +No matter what the Earl did or did not tell me, all I know is that the mansion is connected to William. +It may look abandoned, but I'd still treat it as a well-defended stronghold.
 NPC-Ange(7);NPC-Light(1)<Speaker>Light</Speaker>||:I can contact my subordinates.
 NPC-Ange(7)<Speaker>Ange</Speaker>;NPC-Light(1)||:Yes, but only bring the ones that you absolutely trust. +If you can't be sure about them, I'd rather you come alone.
@@ -8,7 +8,7 @@ NPC-Ange(7);NPC-Light(1)<Speaker>Light</Speaker>||:...I understand.
 NPC-Ange(7)<Speaker>Ange</Speaker>||:The mansion is located in Berlin itself, but in a rather remote wealthy suburb. +It's not densely populated and the area is very safe and peaceful. +We'll definitely draw attention to ourselves if we march in there with a large force.
 NPC-Ange(7);AK15(0)<Speaker>AK-15</Speaker>||:But conversely, Paradeus can't station a large force there either.
 NPC-Ange(7)<Speaker>Ange</Speaker>||:94, you and Light take his men and stand guard outside. +Light at least has emergency law enforcement authority in Germany. Even if we end up drawing unwanted attention, we don't have to worry about things getting completely out of hand. +Besides, we could use the backup.
-AN94(0)<Speaker>AN-94</Speaker>||:Understood.
+AN94(0)<Speaker>АН-94</Speaker>||:Understood.
 NPC-Ange(7)<Speaker>Ange</Speaker>||:15, 16, you two stay with me. We're going in through the front door. +According to the latest intelligence, the mansion is currently uninhabited...but who knows if that's actually true. +Still, right now I don't see the need to enter through another entrance. +15 will take charge of the assault while 16 scans for electric signals. +Report any discovery immediately.
 AK15(0)<Speaker>AK-15</Speaker>||:Understood.
 RPK16(0)<Speaker>RPK-16</Speaker>||:Understood.

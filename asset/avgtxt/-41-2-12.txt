@@ -50,7 +50,7 @@ AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:I told you, they're
 ()<Speaker>Stasi Agent</Speaker>||:!
 ()||:The Stasi agents raise their weapons simultaneously, but they are quite taken aback by the ones coming in.
 AK15(6)<Speaker>AK-15</Speaker>||:...
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Sorry we're late.
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Sorry we're late.
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:Not at all, 94. Your friend hasn't been slowing you down, has she? +You're right on time.
 NPC-Morridow(0)<Speaker>Morridow</Speaker>||:Uh... Ah! +S-So you must be the other DEFY members...! +You're just like the Valkyries!
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:...Well done, but it's not over yet. +They're too well-armed for a mere cult. +They've got to be storing more information and clues somewhere. Our job here isn't over until we find them.

@@ -74,10 +74,10 @@ NPC-maya(0)<Speaker>Q</Speaker>||:Tsk, it's another new day.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>136</BIN>:Kaiserdom St. Bartholomaeus, Frankfurt District, Frankfurt.
 ()<Speaker></Speaker>||:The high vaulted ceiling supported by pillars of red bricks is lit up only by the soft candlelight of a chandelier. A priest is conversing with some churchgoers in a hushed tone. +AK-12 melts into the shadows and slips quietly into the last row of seats.
-AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>You've circled around all potential threats. No one is following you.</color>
+AN94MOD(0)<Speaker>АН-94</Speaker><scan><通讯框>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>You've circled around all potential threats. No one is following you.</color>
 AK15MOD(0)<Speaker>AK-15</Speaker><scan><通讯框>||:<color=#00CCFF>Confirmed. The target area is secure.</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:Copy that. You two don't have to hang around outside. Return to the temporary safe house for now.
-AN94MOD(0)<Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Will you be alright on your own? You are very eye-catching.</color>
+AN94MOD(0)<Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Will you be alright on your own? You are very eye-catching.</color>
 NPC-AK12Mod#隐身(0)<Speaker>AK-12</Speaker>||:Don't worry, ordinary people can't spot me.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:AK-12 terminates the call and gets ready to leave.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:The moment she rises to her feet, someone pushes open the door and enters. +It appears to be a weary traveler.
@@ -117,11 +117,11 @@ NPC-AK12Mod(0)<Speaker>AK-12</Speaker>||<SE1>ClothingUp</SE1>:Phew...
 ()<Speaker></Speaker>||<BGM>BGM_23S_Winter_Night</BGM>:As usual, AN-94 had taken it upon herself to do the household chores after finishing her daily training.
 ()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:At that moment, she was meticulously sweeping up every speck of dust on the floor in the living room.
 RPK16(4)<Speaker>RPK-16</Speaker>||:Morning, 94.
-AN94(4)<Speaker>AN-94</Speaker><Position>0,60</Position>||:...
+AN94(4)<Speaker>АН-94</Speaker><Position>0,60</Position>||:...
 ()<Speaker></Speaker>||:An odious smiling face came into view. AN-94 did her best to ignore the Doll, but she haunted her like a ghost and would not leave her alone.
-AN94(4)<Speaker>AN-94</Speaker><Position>0,60</Position>||:...Good morning.
+AN94(4)<Speaker>АН-94</Speaker><Position>0,60</Position>||:...Good morning.
 RPK16(5)<Speaker>RPK-16</Speaker>||:It's such a fascinating occasion today, so why are you still working?
-AN94(0)<Speaker>AN-94</Speaker><Position>0,60</Position>||:...
+AN94(0)<Speaker>АН-94</Speaker><Position>0,60</Position>||:...
 RPK16(0)<Speaker>RPK-16</Speaker>||:Halloween is a festival dedicated to the spirits of the dead. +Humans dress up as ghosts so that real ghosts can roam the earth more freely.
 ()<Speaker></Speaker>||:AN-94 continued to ignore RPK-16. She glanced at her other two teammates. Those two Dolls were why she had to keep cleaning the house.
 ()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:RPK-16 slowly circled around AK-12 and AK-15, suddenly coming to a stop behind the latter.
@@ -142,8 +142,8 @@ AK12(0)<Speaker>AK-12</Speaker><Position>0,70</Position>||:Where did the words c
 RPK16(4)<Speaker>RPK-16</Speaker>||:I don't know what they are either. They're just two random words found within 15's neural cloud. +She has the smallest neural cloud capacity among us, after all.
 AK15(2)<Speaker>AK-15</Speaker>||:...
 RPK16(6)<Speaker>RPK-16</Speaker>||:Now let the game begin. +Let's start with you, 94.
-AN94(0)<Speaker>AN-94</Speaker><Position>0,60</Position>||:Me?
-AN94(0)<Speaker>AN-94</Speaker><Position>0,60</Position>||<SE1>ClothingUp</SE1>:Hm... +This is a human.
+AN94(0)<Speaker>АН-94</Speaker><Position>0,60</Position>||:Me?
+AN94(0)<Speaker>АН-94</Speaker><Position>0,60</Position>||<SE1>ClothingUp</SE1>:Hm... +This is a human.
 RPK16(4)<Speaker>RPK-16</Speaker>||:15?
 AK15(5)<Speaker>AK-15</Speaker>||:A woman.
 RPK16(2)<Speaker>RPK-16</Speaker>||:You guys need to be a bit more specific than that.

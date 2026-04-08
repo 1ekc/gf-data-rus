@@ -29,7 +29,7 @@ NPC-Light(3)<Speaker>Light</Speaker>||<BGM>BGM_Empty</BGM>:I'm here to help you.
 ()<Speaker></Speaker>||:...
 ()||<黑点1>:
 AK12(12)<Speaker>AK-12</Speaker>||<黑点2><SE1>AVG_door_elecport</SE1><BIN>202</BIN><BGM>BGM_Room</BGM>:Welcome back.
-AN94(11)<Speaker>AN-94</Speaker>||:Ange, are you alright?!
+AN94(11)<Speaker>АН-94</Speaker>||:Ange, are you alright?!
 ()<Speaker></Speaker>||:Ange catches sight of her two familiar subordinates the moment she enters the temporary ops room. +She frowns as she shifts her gaze from the Dolls to the man sitting in front of the monitors.
 NPC-Ange(6)<Speaker>Ange</Speaker>||:You've brought my subordinates here. What's the big idea, J?
 NPC-Keven(2)<Speaker>J</Speaker>||:Hey, don't give me that murderous look, eh? +It took a lot of work to pull these DEFY ladies out from among the rioting mob and gather them all, you know?
@@ -44,7 +44,7 @@ NPC-Ange(6);AK12(12)<Speaker>AK-12</Speaker>||:There's nothing much to explain. 
 NPC-Ange(6)<Speaker>Ange</Speaker>;AK12(12)||:That's how you found this place?
 NPC-Ange(6);AK12(12)<Speaker>AK-12</Speaker>||:It didn't take much effort. After all, they still knew exactly where we were under those circumstances. +It was either GPS trackers or having a high vantage point. +Once we understood that, it wasn't difficult figuring out the rest.
 NPC-Ange(6);RPK16(8)<Speaker>RPK-16</Speaker>||:When we got here, we found out that Mr. J was the one in charge of this operation. +He told us that you were safe and had us wait here while he sent someone to fetch you. +12 refused to cooperate at first and threw a tantrum. +It was kinda noisy, but then we got used to it.
-NPC-Ange(6);AN94(11)<Speaker>AN-94</Speaker>||:It wasn't that noisy.
+NPC-Ange(6);AN94(11)<Speaker>АН-94</Speaker>||:It wasn't that noisy.
 NPC-Ange(6);AK12(12)<Speaker>AK-12</Speaker>||:I don't trust them. J did a decent job in Bremen, +But ensuring Ange's safety is my top priority. +I only agreed to wait because I believe in Ange. +So...have you had your meeting? +How did it go?
 NPC-Ange(6)<Speaker>Ange</Speaker>||:I got some information and possible leads. +At the very least, I now have some idea about what to do. +So you're the aid that he promised?
 ()<Speaker></Speaker>||:Ange eyes Light and J, her gaze moving back and forth between them until finally settling on J.
@@ -54,7 +54,7 @@ AK12(12)<Speaker>AK-12</Speaker>||:So who exactly was he, Ange?
 NPC-Ange(6)<Speaker>Ange</Speaker>||:...The "Earl ".
 ()<Speaker></Speaker>||:Ange fishes out the gold coin from her pocket and rubs the intricate markings with her thumb. +A glistening griffin is etched onto the coin.
 NPC-Ange(6)<Speaker>Ange</Speaker>||:Or should I say... +Griffin Lyons.
-NPC-Ange(6);AN94(11)<Speaker>AN-94</Speaker>||:! +Y-You mean...THAT Griffin? +THE Griffin in "Griffin and Kryuger"? +I hear he...
+NPC-Ange(6);AN94(11)<Speaker>АН-94</Speaker>||:! +Y-You mean...THAT Griffin? +THE Griffin in "Griffin and Kryuger"? +I hear he...
 NPC-Ange(6)<Speaker>Ange</Speaker>||:Yeah, if I'm not mistaken, it's him in the flesh. +I don't work for him, but he is very close with Zelinsky and Old Misha... +I can't tell if he can be trusted, but at the very least, he is on our side.
 NPC-Keven(1)<Speaker>J</Speaker>||:So... Uh, nevermind. I didn't hear anything. +What happens next is none of my business. +Light, I'm leaving you in charge of everything.
 NPC-Light(2)<Speaker>Light</Speaker>||:Me?

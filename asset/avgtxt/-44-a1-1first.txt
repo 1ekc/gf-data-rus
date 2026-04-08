@@ -6,14 +6,14 @@ AK12(12)<Speaker>AK-12</Speaker>||:What's the meaning of this?
 ()<Speaker></Speaker>||:AK-12 is still seething about their treatment.
 AK12(12)<Speaker>AK-12</Speaker>||:A 48-hour interrogation experience? +Not even an extra minute? +Can I extend my session?
 ()<Speaker></Speaker>||:Even their weapons have been returned. Ange caresses her pistol and fights the sudden urge to charge back inside and shoot everyone.
-AN94(11)<Speaker>AN-94</Speaker>||:But isn't it good that we're released?
+AN94(11)<Speaker>АН-94</Speaker>||:But isn't it good that we're released?
 NPC-Ange(7)<Speaker>Ange</Speaker>||:Of course it's good, but I can't help but wonder—why?
 ()<Speaker></Speaker>||:Ange looks up at the long flight of stairs before her thoughtfully. +RPK-16 and AK-15, who were the first to leave the building, are now sitting at the bottom of the staircase. +RPK-16 is tapping away at the laptop computer she is balancing on her knees. A cable joins the two Dolls by the neck.
 NPC-Ange(7)<Speaker>Ange</Speaker>||:Were you all locked up in separate cells?
 ()<Speaker></Speaker>||:Ange shuffles down the stairs slowly and sits down next to her subordinates.
 AK15(6)<Speaker>AK-15</Speaker>||:...
 RPK16(7)<Speaker>RPK-16</Speaker>||<SE1>AVG_tele_connect</SE1>:Neural cloud...okay. +Fire-control core...okay. +Sorry, what was that again?
-AN94(11)<Speaker>AN-94</Speaker>||:Yes, I was held inside an electronically-sealed room. +But they didn't do anything to me.
+AN94(11)<Speaker>АН-94</Speaker>||:Yes, I was held inside an electronically-sealed room. +But they didn't do anything to me.
 AK12(12)<Speaker>AK-12</Speaker>||:Apparently, they were worried that the four of us would be violent in our resistance. +Which is ridiculous—if we had wanted to raise hell, it would make no difference whether we were locked together or separately.
 NPC-Ange(7)<Speaker>Ange</Speaker>||:How long was I in there? Two days?
 NPC-Ange(7);RPK16(7)<Speaker>RPK-16</Speaker>||:It's been more than two days since we got off the plane. +While we were held captive, they wouldn't let us see anyone, nor were we allowed visitors. +All our equipment and weapons were also confiscated. +I honestly thought we would only walk out of there to have our neural clouds fried.
@@ -21,7 +21,7 @@ NPC-Ange(7);AK12(12)<Speaker>AK-12</Speaker>||:What do you make of this, Ange?
 NPC-Ange(7)<Speaker>Ange</Speaker>;AK12(12)||:The detention was uncharacteristically short. It should've lasted at least another week. +They obviously have no qualms about torture, but they ended up releasing me before they could beat the information out of me. That's very odd.
 NPC-Ange(7);AK12(12)<Speaker>AK-12</Speaker>||:True, we shouldn't count on the Germans suddenly developing a conscience.
 NPC-Ange(7)<Speaker>Ange</Speaker>;AK12(12)||:Someone pulled some strings behind the scenes. +Our release definitely wasn't a coincidence.
-NPC-Ange(7);AN94(11)<Speaker>AN-94</Speaker>||:Could it be Chairwoman Ulrich?
+NPC-Ange(7);AN94(11)<Speaker>АН-94</Speaker>||:Could it be Chairwoman Ulrich?
 NPC-Ange(7)<Speaker>Ange</Speaker>||:If Ulrich had that much power, we wouldn't have ended up in this sticky situation in the very first place. +...48 hours is more than enough for Morridow to make it across the border into the Soviet Union.
 AK15(6)<Speaker>AK-15</Speaker>||:I heard that Mr. K has taken over the investigation.
 ()<Speaker></Speaker>||:AK-15 suddenly opens her eyes and joins the conversation. RPK-16 deftly unplugs the cable from her neck.

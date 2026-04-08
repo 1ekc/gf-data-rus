@@ -120,7 +120,7 @@ NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position>||:They
 ()<Speaker></Speaker>||:Stevens M520 replies with a slight frown of distaste.
 NPC-AK12Mod#隐身(11)<Speaker>???</Speaker>||:Aw, I was hoping you wouldn't ruin the surprise.
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:AK-12 deactivates her cloak. Three pale-haired figures materialize on top of the table in the center of the room.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:All members of Task Force DEFY are present.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:All members of Task Force DEFY are present.
 AK15MOD(3)<Speaker>AK-15</Speaker>||:...
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:Good evening, ladies.
 NPC_Stevens520(0)<Speaker>Stevens M520</Speaker><Position>0,60</Position>||:Before we start...

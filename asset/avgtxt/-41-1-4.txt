@@ -86,9 +86,9 @@ NPC-AngeStreet(0)<Speaker>Angelia</Speaker>||:Lucia, get in the car.
 ()<Speaker></Speaker>||:A few minutes later, at the temporary outpost prepared by Ulrich.
 NPC-Morridow(0)<Speaker>Morridow</Speaker>||:It's a bit messy, but it is definitely secure. +Hopps and I will be waiting outside. Please call us if you need anything.
 ()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:With that, Morridow leaves the briefing room and closes the door behind her.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Ange.
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Ange.
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AN94(11)<Position>0,-70</Position>||:Hm... +Where's K?
-NPC-AngeStreet(0);AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Mr. K left shortly after he had brought us here. +He seemed to have other important matters to attend to.
+NPC-AngeStreet(0);AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Mr. K left shortly after he had brought us here. +He seemed to have other important matters to attend to.
 NPC-AngeStreet(0);AK15(0)<Speaker>AK-15</Speaker>||:...How did the discussion go?
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AK15(0)||:There wasn't really much of a discussion. +This is only day one; we'll be here for a long time.
 NPC-AngeStreet(0);AK12(0)<Speaker>AK-12</Speaker><Position>0,85</Position>||:I do hope it will go smoothly. +Unfortunately, from what I can tell, some things are beyond even the chairwoman's control.
@@ -101,6 +101,6 @@ NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;RPK16(7)<Position>0,-70</Position>||:We don't have nearly enough clues to work with, but it's better than nothing. +At least we can now be certain that we're at an important location, and this is where we will find that weasel.
 NPC-AngeStreet(0);RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Right... So we've got to drag the weasel out by his tail.
 NPC-AngeStreet(0);AK12(4)<Speaker>AK-12</Speaker><Position>0,85</Position>||:That sounds very comedic coming from you.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Should we start searching?
+NPC-AngeStreet(0);AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Should we start searching?
 NPC-AngeStreet(0)<Speaker>Angelia</Speaker>;AN94(11)<Position>0,-70</Position>||:No need to be hasty. We aren't the only ones who want a piece of the action. +Right now, all we need to do is sit tight and wait.
 ()||<黑屏1>:

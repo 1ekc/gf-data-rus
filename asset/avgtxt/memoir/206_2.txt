@@ -12,17 +12,17 @@ AK12(0)<Speaker>AK-12</Speaker>||:Roger.
 ()||<黑屏1><CGDelay>0.7</CGDelay>:
 ()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><CGDelay>0.8</CGDelay><BIN>73</BIN><黑屏2><回忆><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||:AN-94 and AK-12 arrive at the training ground at the scheduled time.
-AN94(0)<Speaker>AN-94</Speaker>||:...
+AN94(0)<Speaker>АН-94</Speaker>||:...
 AK12(0)<Speaker>AK-12</Speaker>||:Nervous?
-AN94(0)<Speaker>AN-94</Speaker>||:Yeah... There's no telling what kind of person the commander is or whether we'll get along with them.
+AN94(0)<Speaker>АН-94</Speaker>||:Yeah... There's no telling what kind of person the commander is or whether we'll get along with them.
 AK12(0)<Speaker>AK-12</Speaker>||:That's what you're worried about...? I'm more interested in how long she'll last. Wanna bet?
-AN94(0)<Speaker>AN-94</Speaker>||:How long she'll last?
+AN94(0)<Speaker>АН-94</Speaker>||:How long she'll last?
 AK12(0)<Speaker>AK-12</Speaker>||:Being our boss is not an easy or cushy job, you know.
 NPC-Ange(10)<Speaker>???</Speaker>||:What are the stakes?
 ()<Speaker></Speaker>||<BGM>BGM_TalesofTheBlackFreighter</BGM>:An unfamiliar voice speaks from overhead.
 ()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0%%range=3</controll_shake><SE1>AVG_Cloak_Whoosh</SE1>:Then... whoosh! +A nimble figure leaps down from the second floor.
 NPC-Ange(10)<Speaker>???</Speaker>||:Shaw offered me a very generous salary. I bet I'll last till the end of my contract.
-AN94(0)<Speaker>AN-94</Speaker>||:You're Commander Angelia? Sorry, we were just—
+AN94(0)<Speaker>АН-94</Speaker>||:You're Commander Angelia? Sorry, we were just—
 AK12(0)<Speaker>AK-12</Speaker>||:What are you wagering?
 NPC-Ange(11)<Speaker>???</Speaker>||:I know where Shaw hides her secret vodka stash. +Go and steal all her vodka.
 AK12(0)<Speaker>AK-12</Speaker>||:...She keeps it in the only safe in her dorm. +I don't know the code.
@@ -31,18 +31,18 @@ AK12(0)<Speaker>AK-12</Speaker>||:...
 AK12(4)<Speaker>AK-12</Speaker>||:Deal.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:The woman's eyes narrow in satisfaction. AK-12 realizes that she has been observing them all along.
 NPC-Ange(10)<Speaker>Angelia</Speaker>||:Let me introduce myself. My codename is Angelia. I'm currently a commander working for Griffin & Kryuger PMC. +I'll be taking charge of your training from now on; Shaw has already transferred your authorizations to me.
-AN94(0)<Speaker>AN-94</Speaker>||:Yes, ma'am.
+AN94(0)<Speaker>АН-94</Speaker>||:Yes, ma'am.
 AK12(0)<Speaker>AK-12</Speaker>||:Then you must've read our files. What do you think?
 ()<Speaker></Speaker>||<SE1>AVG_2023Slow_Keyboard_Correct</SE1>:Angelia is already tapping away on her tactical tablet, organizing their training program.
 NPC-Ange(10)<Speaker>Angelia</Speaker>||:You two are pretty strong, and you've got good chemistry. +Certainly better than what you had with AK-15. +Her specs are higher, but one AK-12 plus one AN-94 is greater than two AK-15s. +My only gripe is...
-AN94(0)<Speaker>AN-94</Speaker>||:...
+AN94(0)<Speaker>АН-94</Speaker>||:...
 NPC-Ange(13)<Speaker>Angelia</Speaker>||:The name is kinda lame. "Wolf Pack"? +Just about every Doll manufacturer has given some basic model this name.
 AK12(0)<Speaker>AK-12</Speaker>||:I'm sure Shaw won't mind if you want to change it.
 NPC-Ange(10)<Speaker>Angelia</Speaker>||:I'll think about it. Now let's begin your first training session with me. +Your mission is to escort me safely to the target location. +Remember, I am now an unarmed and helpless human, and you two are my only hope of survival.
-AN94(0)<Speaker>AN-94</Speaker>||:You are to be our escort target? But this training involves real combat and live ammo... +For your safety, please use a Dummy instead.
+AN94(0)<Speaker>АН-94</Speaker>||:You are to be our escort target? But this training involves real combat and live ammo... +For your safety, please use a Dummy instead.
 NPC-Ange(10)<Speaker>Angelia</Speaker>||:That's the point of this training. +You won't be escorting obedient Dummies forever, you know? Don't forget, stupid humans who love looking for trouble are the ones you'll be protecting most of the time.
 AK12(4)<Speaker>AK-12</Speaker>||:Looks like we've got ourselves a masochist of a commander.
-AN94(0)<Speaker>AN-94</Speaker>||<SE1>ClothingUp</SE1>:Understood! In that case, please put on a bulletproof vest and—
+AN94(0)<Speaker>АН-94</Speaker>||<SE1>ClothingUp</SE1>:Understood! In that case, please put on a bulletproof vest and—
 NPC-Ange(10)<Speaker>Angelia</Speaker>||:No need. +We're starting right away.
 ()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:Before the two Dolls can protest, Angelia has already sauntered off toward the entrance of the training ground.
 AK12(0)<Speaker>AK-12</Speaker>||<SE1>Stop_AVG_loop</SE1>:...I think I might just lose the bet.

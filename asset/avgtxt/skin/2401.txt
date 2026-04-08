@@ -40,13 +40,13 @@ G41(2)<Speaker>Gr G41</Speaker>||:Got it! Leave the next match to me! +I won't l
 ()||:...That said, as I watch Gr G41 confidently step onto the court, I realise something.
 ()<Speaker>Commander</Speaker>||:(Come to think of it, Gr G41's the kind of T-Doll who doesn't even know how to pick clothes for herself... Does she even know what beach volleyball is?)
 G41(2)<Speaker>Gr G41</Speaker>||:This is Gr G41! I'm ready to go! Please watch me, Master!
-AN94(6)<Speaker>AN-94</Speaker>||:...Ah.
+AN94(6)<Speaker>АН-94</Speaker>||:...Ah.
 ()||:...The referee blows the whistle.
 AK12(7)<Speaker>AK-12</Speaker>||:Gr G41 moved while hugging the ball. Foul for Griffin.
 G41(2)<Speaker>Gr G41</Speaker>||<BGM>BGM_Hello</BGM>:Huh? Why is that a foul? +Isn't volleyball about taking the ball and hitting the other person with it?
 G41(2)<Speaker>Commander</Speaker>||:(I knew it—)
 G41(2)<Speaker></Speaker>||:...It can't even be considered a match. The whistle was blown every five seconds during the first three minutes of the match. +And while our opponent AN-94 has a blank expression on her face, she clearly knows how to play volleyball.
-AN94(6)<Speaker>AN-94</Speaker>;G41(2)||:Serving.
+AN94(6)<Speaker>АН-94</Speaker>;G41(2)||:Serving.
 G41(2)<Speaker>Gr G41</Speaker>||:That's strange... I'm standing here...so why did you hit the ball to that empty corner?
 AK12(7)<Speaker>AK-12</Speaker>||:Griffin made an error. Task Force DEFY scores with a service ace.
 G41(2)<Speaker>Gr G41</Speaker>||:What's an error? I didn't get hit by the ball, did I?

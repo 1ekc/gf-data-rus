@@ -6,46 +6,46 @@ AK15(0)<Speaker>AK-15</Speaker>||<SE1>Stop_AVG_loop</SE1>:...
 ()<Speaker></Speaker>||:Just then, she comes to a stop.
 AK15(0)<Speaker>AK-15</Speaker>||:...Is something the matter, AN-94?
 ()<Speaker></Speaker>||:She turns her head and looks behind her. +A Doll much shorter than her but no less striking strides out from the shadows.
-AN94(0)<Speaker>AN-94</Speaker>||<BGM>BGM_Room</BGM>:...
+AN94(0)<Speaker>АН-94</Speaker>||<BGM>BGM_Room</BGM>:...
 AK15(0)<Speaker>AK-15</Speaker>||:You've been following me since I left Doctor Shaw's office. +If there's anything you'd like to say, just say it.
-AN94(5)<Speaker>AN-94</Speaker>||:Let's have a duel, AK-15.
+AN94(5)<Speaker>АН-94</Speaker>||:Let's have a duel, AK-15.
 AK15(0)<Speaker>AK-15</Speaker>||:Pardon?
-AN94(5)<Speaker>AN-94</Speaker>||:I want a duel with you.
+AN94(5)<Speaker>АН-94</Speaker>||:I want a duel with you.
 AK15(0)<Speaker>AK-15</Speaker>||:...I don't understand. +What is the point of that?
-AN94(0)<Speaker>AN-94</Speaker>||:Doctor Shaw never lets anyone question her decisions. +Unless they can prove that she's mistaken. +Whether I'm Unit 1 or Unit 0, I don't care. +But I must prove that I'm better than you, AK-15. +I'm not some experimental unit left to rot in the factory. I am the forerunner of the Wolf Pack.
+AN94(0)<Speaker>АН-94</Speaker>||:Doctor Shaw never lets anyone question her decisions. +Unless they can prove that she's mistaken. +Whether I'm Unit 1 or Unit 0, I don't care. +But I must prove that I'm better than you, AK-15. +I'm not some experimental unit left to rot in the factory. I am the forerunner of the Wolf Pack.
 AK15(0)<Speaker>AK-15</Speaker>||:I still don't understand. If that's the case... +Your action is even more pointless, AN-94.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15 turns around and faces AN-94.
 AK15(0)<Speaker>AK-15</Speaker>||:My performance is superior to yours in every way. +You cannot win against me.
-AN94(2)<Speaker>AN-94</Speaker>||:...How will we know without trying? +I really hate the way you look at everything so indifferently. +Can't you even be bothered to look me in the eye?
+AN94(2)<Speaker>АН-94</Speaker>||:...How will we know without trying? +I really hate the way you look at everything so indifferently. +Can't you even be bothered to look me in the eye?
 AK15(5)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||:AK-15 is silent for a while.
 AK15(2)<Speaker>AK-15</Speaker>||:...Alright. +As you wish... +Prototype.
-AN94(0)<Speaker>AN-94</Speaker>||:Much obliged.
+AN94(0)<Speaker>АН-94</Speaker>||:Much obliged.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
-AN94(2)<Speaker>AN-94</Speaker><Shake>0.1</Shake>||<BIN>22</BIN><BGM>BGM_Truth</BGM><震屏3>:<size=50>Hm?!</size>
+AN94(2)<Speaker>АН-94</Speaker><Shake>0.1</Shake>||<BIN>22</BIN><BGM>BGM_Truth</BGM><震屏3>:<size=50>Hm?!</size>
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:...
 ()<Speaker></Speaker>||:AN-94's eyes snap open as she awakens abruptly. She jumps right out of the repair tank.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Shaw is sitting on a chair with her back to her, breaking open a cigarette and scattering the tobacco on the table.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:Run a self-diagnostics to see if anything's wrong with your neural cloud, little nutter.
-AN94(4)<Speaker>AN-94</Speaker>||:D-Doctor Shaw? +...Why are you calling me that? +Wait, where's AK-15?
+AN94(4)<Speaker>АН-94</Speaker>||:D-Doctor Shaw? +...Why are you calling me that? +Wait, where's AK-15?
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:...
 ()<Speaker></Speaker>||:Shaw swivels around on her chair and stares at AN-94 in silence. +She's looking at her with a strange expression—she seems angry, but there's something more. +What just happened? As AN-94 recalls, she was on the training ground with AK-15...
-AN94(4)<Speaker>AN-94</Speaker><Shake>0.1</Shake>||<SE1>AVG_whitenoise</SE1>:Ugh...!
+AN94(4)<Speaker>АН-94</Speaker><Shake>0.1</Shake>||<SE1>AVG_whitenoise</SE1>:Ugh...!
 NPC-shaw(4)<Speaker>Shaw</Speaker>||:How dare you do that behind my back.
 ()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:Ba-dump.
 NPC-shaw(4)<Speaker>Shaw</Speaker>||:...Anna was right. +I've made you too human.
-AN94(4)<Speaker>AN-94</Speaker>||:(Groans)
+AN94(4)<Speaker>АН-94</Speaker>||:(Groans)
 ()<Speaker></Speaker>||:She remembers now. +Effortlessly, like a grown-up teasing a child, like a mastiff hunting a hare... +She was defeated... unequivocally, as expected.
 ()||<黑屏1>:
 AK15(2)<Speaker>AK-15</Speaker>||<BIN>73</BIN><黑屏2><回忆>:...
 ()<Speaker></Speaker>||:AK-15 is superior in every way. +Be it performance, tactics, or skills. +She simply cannot hold a candle to this insurmountable mountain of a Doll. +To AN-94, this is an unprecedented experience. She has always won. She has always been victorious. This is the first time she has experienced crushing defeat.
 ()<Speaker></Speaker>||:...She cannot accept it.
-AN94(2)<Speaker>AN-94</Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:I'll never, ever—
+AN94(2)<Speaker>АН-94</Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:I'll never, ever—
 AK15(4)<Speaker>AK-15</Speaker>||:—!
 ()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><BIN>9</BIN><关闭蒙版>:The last thing she remembers doing was lunging at AK-15 like a lunatic. +It wasn't even a duel at that point. All she wanted was to beat AK-15, because if she didn't do that, she would never recover from the defeat. +However...
-AN94(2)<Speaker>AN-94</Speaker>||<BIN>22</BIN><SE1>AVG_Scene_Transfer</SE1><白屏2>:Ugh...
-AN94(2)<Speaker>AN-94</Speaker><Shake>0.1</Shake>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>AVG_21Winter_OperatingDisc_Drop</SE1><震屏3>:<size=50>AAAAAAAAAAAAAAAAAARGH!!!</size>
+AN94(2)<Speaker>АН-94</Speaker>||<BIN>22</BIN><SE1>AVG_Scene_Transfer</SE1><白屏2>:Ugh...
+AN94(2)<Speaker>АН-94</Speaker><Shake>0.1</Shake>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>AVG_21Winter_OperatingDisc_Drop</SE1><震屏3>:<size=50>AAAAAAAAAAAAAAAAAARGH!!!</size>
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:...Tsk. +Nadia, deactivate her!
 ()<Speaker>"Nadia"</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Yes, madam.</color>
 ()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1><SE1>AVG_Power_Down</SE1><BGM>BGM_Empty</BGM>:She remembers it all. +She suffered a one-sided beatdown against AK-15, but she refused to give up. +In the end, AK-15 disabled her completely, and she was taken to the repair workshop.
@@ -108,40 +108,40 @@ NPC-shaw(4)<Speaker>Shaw</Speaker>||:Screw off.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:A few days later... +Statesec Lab, Neo-Soviet Union.
 ()||<黑屏1>:
-AN94(0)<Speaker>AN-94</Speaker>||<BIN>22</BIN><黑屏2><SE1>ClothingUp</SE1>:...
+AN94(0)<Speaker>АН-94</Speaker>||<BIN>22</BIN><黑屏2><SE1>ClothingUp</SE1>:...
 ()<Speaker></Speaker>||:Dragging her battered body, AN-94 slowly sits down before a one-way mirror. She gazes at the half-assembled Doll lying on the other side of the glass with hollow eyes.
 ()<Speaker>"Nadia"</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You challenged AK-15 to another duel.</color>
 ()<Speaker></Speaker>||:A light flickers in the empty room as a familiar voice offers her some company.
-AN94(0)<Speaker>AN-94</Speaker>||:...Nadia? +So you're still here.
+AN94(0)<Speaker>АН-94</Speaker>||:...Nadia? +So you're still here.
 AN94(0)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>I'm in charge of the security of Doctor Shaw's lab.</color> +<color=#00CCFF>Besides, I'm just an AI. I'm always on duty as long as the power supply is running.</color> +<color=#00CCFF>So I saw everything that had happened on the training ground.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:...
+AN94(0)<Speaker>АН-94</Speaker>||:...
 AN94(0)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>The first time you fought AK-15, both your body and neural cloud experienced an unprecedented breakdown.</color> +<color=#00CCFF>You are putting yourself in excessive danger with your actions. I advise against further duels.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:Nadia, am I weak?
+AN94(0)<Speaker>АН-94</Speaker>||:Nadia, am I weak?
 AN94(0)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>You are without a doubt one of the strongest T-Dolls in existence.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:I once believed I represented a long-awaited new generation of Dolls in Statesec. +I thought I was special. A powerful soldier destined to shoulder extraordinary responsibility.
+AN94(0)<Speaker>АН-94</Speaker>||:I once believed I represented a long-awaited new generation of Dolls in Statesec. +I thought I was special. A powerful soldier destined to shoulder extraordinary responsibility.
 AN94(0)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>...Well, you are indeed very special.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:But I'm weak. +Maybe not objectively speaking, but no matter how many times I take on AK-15, the result is always the same. +I'm pathetically weak, Nadia. +Doctor Shaw is right. She doesn't need me for no reason other than because I'm weak.
+AN94(0)<Speaker>АН-94</Speaker>||:But I'm weak. +Maybe not objectively speaking, but no matter how many times I take on AK-15, the result is always the same. +I'm pathetically weak, Nadia. +Doctor Shaw is right. She doesn't need me for no reason other than because I'm weak.
 AN94(0)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>...AK-15 is an exception among exceptions.</color> +<color=#00CCFF>Even Doctor Shaw herself may not be able to produce another Doll that powerful.</color>
-AN94(4)<Speaker>AN-94</Speaker>||:What about her?
+AN94(4)<Speaker>АН-94</Speaker>||:What about her?
 ()<Speaker></Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:AN-94 points to the slumbering T-Doll on the other side of the glass.
-AN94(4)<Speaker>AN-94</Speaker>||:...How do you explain her?
+AN94(4)<Speaker>АН-94</Speaker>||:...How do you explain her?
 ()<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>"Snow Wolf" is only half-complete. It's too early to tell what kind of Doll she'll be at this stage.</color>
-AN94(4)<Speaker>AN-94</Speaker>||:Stop lying to me, Nadia. +I found out about what the Wolf Pack Project is all about. +Right from the start, only two Dolls were planned—White Mastiff, the direct combat specialist, and Snow Wolf, the commander and strategist. +They are the Wolf Pack. They are destined to work together and blaze a trail into the future for Statesec. As for me... I'm just a simple puppet.
+AN94(4)<Speaker>АН-94</Speaker>||:Stop lying to me, Nadia. +I found out about what the Wolf Pack Project is all about. +Right from the start, only two Dolls were planned—White Mastiff, the direct combat specialist, and Snow Wolf, the commander and strategist. +They are the Wolf Pack. They are destined to work together and blaze a trail into the future for Statesec. As for me... I'm just a simple puppet.
 ()<Speaker></Speaker>||:AN-94 puts her hand against the glass and stares at the Doll in the workshop. +...Who exactly is she? What was the purpose of her creation? +If AK-15 is a weapon, then she... is just a useless gun.
-AN94(4)<Speaker>AN-94</Speaker>||:Griffin Dolls may be weak, but they're still needed; they still have a place where they belong. +But I... I was born in the lab, and I will never get to leave the lab.
-AN94(4)<Speaker>AN-94</Speaker>||<SE1>Rope</SE1>:My creator has no use for me, and neither does anyone else.
+AN94(4)<Speaker>АН-94</Speaker>||:Griffin Dolls may be weak, but they're still needed; they still have a place where they belong. +But I... I was born in the lab, and I will never get to leave the lab.
+AN94(4)<Speaker>АН-94</Speaker>||<SE1>Rope</SE1>:My creator has no use for me, and neither does anyone else.
 ()<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>...</color>
-AN94(4)<Speaker>AN-94</Speaker>||:If I can't win against AK-15... Doctor Shaw will never spare me even a glance. +I thought I was important, but in truth, I'm useful to no one. +Nadia, I have no "value". 
+AN94(4)<Speaker>АН-94</Speaker>||:If I can't win against AK-15... Doctor Shaw will never spare me even a glance. +I thought I was important, but in truth, I'm useful to no one. +Nadia, I have no "value".
 ()<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>94...</color>
-AN94(4)<Speaker>AN-94</Speaker>||:They... THEY are the Dolls that Doctor Shaw, Statesec, and the world need.
+AN94(4)<Speaker>АН-94</Speaker>||:They... THEY are the Dolls that Doctor Shaw, Statesec, and the world need.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Looking at Snow Wolf through the window, AN-94 lowers her head bitterly.
-AN94(4)<Speaker>AN-94</Speaker><Shake>0.1</Shake>||:<size=30>I am, quite simply, superfluous...</size>
+AN94(4)<Speaker>АН-94</Speaker><Shake>0.1</Shake>||:<size=30>I am, quite simply, superfluous...</size>
 ()<Speaker></Speaker>||:Even Nadia doesn't know what to say to that.
 ()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1>:AN-94 clenches her fists and curls up into a ball on the floor. +Her shoulders shake lightly.
-AN94(4)<Speaker>AN-94</Speaker>||:<size=30>I'm... superfluous.</size>
+AN94(4)<Speaker>АН-94</Speaker>||:<size=30>I'm... superfluous.</size>
 ()||<黑屏1>:
-()<Speaker>AN-94</Speaker>||<BIN>9</BIN><黑屏2>:...+AK-15's existence made me realize that. +There's nothing special about me. I am not the least bit valuable.
-()<Speaker>AN-94</Speaker>||:Neither Shaw nor Statesec expected anything of me. +Nobody is counting on me. Nobody needs me. I don't have to do anything. +...Can I even say that I'm alive?
-()<Speaker>AN-94</Speaker>||:... +...The truth is too much for me to bear. +If I'm not needed... If I have no value, then what is my purpose?
+()<Speaker>АН-94</Speaker>||<BIN>9</BIN><黑屏2>:...+AK-15's existence made me realize that. +There's nothing special about me. I am not the least bit valuable.
+()<Speaker>АН-94</Speaker>||:Neither Shaw nor Statesec expected anything of me. +Nobody is counting on me. Nobody needs me. I don't have to do anything. +...Can I even say that I'm alive?
+()<Speaker>АН-94</Speaker>||:... +...The truth is too much for me to bear. +If I'm not needed... If I have no value, then what is my purpose?
 ()<Speaker></Speaker>||:...
 ()||<黑点1>:

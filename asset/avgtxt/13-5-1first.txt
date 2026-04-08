@@ -2,7 +2,7 @@
 ()<Speaker></Speaker>||<BIN>229</BIN><黑屏2><BGM>BGM_Room</BGM>:At the power generators. +Several minutes ago.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:Ange, we've entered the heart of the base. The heat signature that we detected earlier is also approaching, but we definitely got here sooner.
 NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>A mech isn't too maneuverable in such confined spaces. What about our other members?</color>
-AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||:They will be here in one minute.
+AN94(0)<Speaker>АН-94</Speaker><Position>0,100</Position>||:They will be here in one minute.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:This is probably a little too late, but since you're sending us light-weight Dolls to fight a mech of that caliber, have you considered equipping each of us with something like M4's particle cannon?
 NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>If I get out of this alive, I might get Persica to build you some.</color>
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:In other words, we're on our own right now.
@@ -13,20 +13,20 @@ AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:That's because I don
 NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>I really may not walk out of this alive. What I need is a solution that is guaranteed to eliminate the enemy.</color>
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:You think too much of yourself, Ange. +It might be a different story if we were talking about a battle of wits, but your presence has pretty much no influence on the outcome when it comes to head-on fights like this.
 NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
-AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||:Ange, 12, our teammates are in position.
+AN94(0)<Speaker>АН-94</Speaker><Position>0,100</Position>||:Ange, 12, our teammates are in position.
 RPK16(0)<Speaker>RPK-16</Speaker>||:We seem to be right on time. Perfect. +We meet again, 12. +I told you we wouldn't be parted for long.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:I was starting to question Ange's decision of making you the babysitter, but you're surprisingly good at the job. +Got any presents for me?
 RPK16(0)<Speaker>RPK-16</Speaker>||:I will give it to you when the time is right. +Alright, 15, carry on. We mustn't argue with those we've been charged to protect, okay?
 AK15(0)<Speaker>AK-15</Speaker>||:...Right. +Ammo.
-AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||:Oh...! +D-do you need spare ammo? I have some here.
+AN94(0)<Speaker>АН-94</Speaker><Position>0,100</Position>||:Oh...! +D-do you need spare ammo? I have some here.
 AK15(0)<Speaker>AK-15</Speaker>||:Yes.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:Heh, a special snowflake who uses a different kind of ammo than everyone else and needs others to carry spare ammo just for her. What a pain in the ass. +Don't you agree, 94?
-AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||:Huh? +Uh... I don't mind...
+AN94(0)<Speaker>АН-94</Speaker><Position>0,100</Position>||:Huh? +Uh... I don't mind...
 AK15(0)<Speaker>AK-15</Speaker>||:... +Rounds of larger caliber are needed against armored units. 5.45mm just won't cut it.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:Spoken like a true musclehead. +Perhaps fighting the mech in hand-to-hand combat would be the most effective?
 RPK16(0)<Speaker>RPK-16</Speaker>||:94 is always so reliable and accommodating to all kinds of troublesome partners. That's certainly a gift.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:You don't have to be such a goody-two-shoes to the female gorilla, 94. +You are you – you're not my adjunct, or anyone else's.
-AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||:Huh? I...
+AN94(0)<Speaker>АН-94</Speaker><Position>0,100</Position>||:Huh? I...
 NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Alright, I don't want to interrupt your little sorority party, but we don't have much time to waste on idle chit-chat.</color>
 RPK16(0)<Speaker>RPK-16</Speaker>||:We have been downloading 12's battle plan the whole time, you know? +Thanks to you, she's come up with a pretty brilliant idea. +Though our epitaphs could certainly use a bit more work.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:Oh dear, do you have any better suggestions?
@@ -49,9 +49,9 @@ RPK16(0)<Speaker>RPK-16</Speaker>||:If we win, how about triple the bonus and gi
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:Now don't be unreasonable. There are two among us who are a waste of resources.
 RPK16(0)<Speaker>RPK-16</Speaker>||:Let it slide, 15, 94. +12 is just trying to be encouraging.
 AK15(0)<Speaker>AK-15</Speaker>||:...The barricades are ready. Are there any other supplies?
-AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||:These are all the explosives we have on hand.
+AN94(0)<Speaker>АН-94</Speaker><Position>0,100</Position>||:These are all the explosives we have on hand.
 AK15(0)<Speaker>AK-15</Speaker>||:Understood, I will use them wisely. +That side is yours.
-AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||:Alright, I'm on it.
+AN94(0)<Speaker>АН-94</Speaker><Position>0,100</Position>||:Alright, I'm on it.
 NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>Are you sure you want to go ahead with the plan?</color>
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:You and RPK can try to think of a better one, but I'm definitely smarter than both of you combined, so there isn't a better plan.
 RPK16(0)<Speaker>RPK-16</Speaker>||:Isn't this what makes Dolls so handy? +Death is our prerogative, and victory is yours, Ange. +It's weird for you to feel compassion for us. +Just let us have some fun.
@@ -63,4 +63,4 @@ NPC-AngeDamage(4)<Speaker>Angelia</Speaker><scan><通讯框>||:<color=#00CCFF>..
 AK12(0)<Speaker>AK-12</Speaker><Position>0,100</Position>||:Deal. +Now then, come with me. The enemy is close.
 RPK16(0)<Speaker>RPK-16</Speaker>||:Right.
 AK15(0)<Speaker>AK-15</Speaker>||:Understood.
-AN94(0)<Speaker>AN-94</Speaker><Position>0,100</Position>||<黑点1>:Got it.
+AN94(0)<Speaker>АН-94</Speaker><Position>0,100</Position>||<黑点1>:Got it.

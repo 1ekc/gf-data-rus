@@ -110,7 +110,7 @@ NPC-Nele(11)<Speaker>Nele</Speaker>||<CGDelay>0.5</CGDelay>:I have one more requ
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay><黑屏2><边框>2</边框>:
 AK15MOD(0)<Speaker>AK-15</Speaker>||<SE1>Stop_AVG_loop</SE1><边框>2</边框>:...
 ()<Speaker></Speaker>||<边框>2</边框>:A Doll of immense stature drags the still remains of a white Nyto toward the control terminal, using its credentials to activate the system.
-AN94MOD(0)<Speaker>AN-94</Speaker>||<边框>2</边框>:That should do it.
+AN94MOD(0)<Speaker>АН-94</Speaker>||<边框>2</边框>:That should do it.
 AK15MOD(0)<Speaker>AK-15</Speaker>||<边框>2</边框>:Hm.
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1><边框>2</边框>:Clatter. The now-worthless Nyto is tossed aside.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1><边框>2</边框>:A shadow appears soundlessly at the dissipating edge of the smoke, lifting her gaze toward the surveillance camera—

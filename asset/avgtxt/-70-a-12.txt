@@ -221,9 +221,9 @@ NPC-Keven(12)<Speaker>J</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Punch_Hit</SE1><
 ()||<黑屏1><CGDelay>0.7</CGDelay><SE1>AVG_AMB_Wind</SE1>:
 ()<Speaker></Speaker>||<黑屏2><CGDelay>0.8</CGDelay><BIN>658</BIN>:
 ()<Speaker></Speaker>||:Standing in the square just outside an office building, AN-94 looks at the towering quarantine wall in the distance.
-AN94MOD(0)<Speaker>AN-94</Speaker>||<SE1>AVG_tele_connect</SE1>:12, how are things on your end? +15 is guarding your frame, but your location is still very dangerous.
+AN94MOD(0)<Speaker>АН-94</Speaker>||<SE1>AVG_tele_connect</SE1>:12, how are things on your end? +15 is guarding your frame, but your location is still very dangerous.
 NPC-AK12Mod(4)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>...I've found Shaw's file, but armed forces in the area are gathering rapidly.</color>
-AN94MOD(4)<Speaker>AN-94</Speaker>||:I'll come and give you some backup!
+AN94MOD(4)<Speaker>АН-94</Speaker>||:I'll come and give you some backup!
 NPC-AK12Mod(4)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>...Alright.</color>
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:
 ()||<黑屏1><CGDelay>0.7</CGDelay><SE1>Stop_AVG_loop</SE1>:

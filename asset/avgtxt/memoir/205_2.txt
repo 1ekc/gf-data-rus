@@ -1,58 +1,58 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>73</BIN><黑屏2><BGM>GF_EV9_Story</BGM>:Statesec Training Ground, Neo-Soviet Union.
 ()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:Bangbangbang!
-AN94(0)<Speaker>AN-94</Speaker>||<SE1>ClothingUp</SE1>:...
+AN94(0)<Speaker>АН-94</Speaker>||<SE1>ClothingUp</SE1>:...
 ()<Speaker></Speaker>||:The gunshots cease, and AN-94 lowers her weapon.
 ()<Speaker>"Nadia"</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Accuracy – 92.16%.</color> +<color=#00CCFF>Congratulations, AN-94, you have shown even more improvement.</color>
 ()<Speaker></Speaker>||:Her test result has improved yet again since last time. +She once thought a Doll's performance was decided from the moment they're rolled out, but now, she can see the difference that training has made.
-AN94(3)<Speaker>AN-94</Speaker>||:So this is what Doctor Shaw wanted me to figure out... Now I understand completely.
+AN94(3)<Speaker>АН-94</Speaker>||:So this is what Doctor Shaw wanted me to figure out... Now I understand completely.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Nadia's statistics has lifted AN-94's spirits. She stretches her arms and put down her weapon.
 AK47(0)<Speaker>AK-47</Speaker>||<SE1>AVG_door_elecport</SE1>:Oh? If it isn't AN-94! So you're here today as well. +You still train very diligently even though you're an elite Doll.
-AN94(0)<Speaker>AN-94</Speaker>||:The efficacy of training isn't measured by the day. +I'm plenty strong, but that's only in comparison with you. +I'm still a long way off from measuring up to Doctor Shaw's standards.
+AN94(0)<Speaker>АН-94</Speaker>||:The efficacy of training isn't measured by the day. +I'm plenty strong, but that's only in comparison with you. +I'm still a long way off from measuring up to Doctor Shaw's standards.
 AK47(0)<Speaker>AK-47</Speaker>||:...Oof, that stings. +We also train very hard, you know, but we're often busy with missions. +Unlike you, we can't hang around on the training ground all day.
-AN94(4)<Speaker>AN-94</Speaker>||:...
+AN94(4)<Speaker>АН-94</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:AN-94 does not know what to say to that. She picks up her gun again and loads another magazine. +AK-47 obviously doesn't mean to be hurtful either... She doesn't know why AN-94 still hasn't been deployed.
-AN94(0)<Speaker>AN-94</Speaker>||:Our specifications are different from yours. We won't be deployed unless it is absolutely necessary. +Besides, our creator is a perfectionist who won't let us go on missions until she is completely satisfied with our performance.
+AN94(0)<Speaker>АН-94</Speaker>||:Our specifications are different from yours. We won't be deployed unless it is absolutely necessary. +Besides, our creator is a perfectionist who won't let us go on missions until she is completely satisfied with our performance.
 AK47(0)<Speaker>AK-47</Speaker>||:Really? +But your little sister did a pretty good job.
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1><BGM>BGM_Empty</BGM>:Bang!
 ()<Speaker>"Nadia"</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Shot missed.</color>
-AN94(5)<Speaker>AN-94</Speaker>||<BGM>BGM_Truth</BGM>:...What did you say?
+AN94(5)<Speaker>АН-94</Speaker>||<BGM>BGM_Truth</BGM>:...What did you say?
 AK47(0)<Speaker>AK-47</Speaker>||:W-what's wrong?
 ()<Speaker></Speaker>||:AK-47 doesn't know what she said to have provoked such a strong reaction from AN-94. She backs away a little uncomfortably.
-AN94(5)<Speaker>AN-94</Speaker>||:What did you just say? What little sister?
+AN94(5)<Speaker>АН-94</Speaker>||:What did you just say? What little sister?
 AK47(0)<Speaker>AK-47</Speaker>||:You don't know about AK-15?
 ()<Speaker></Speaker>||:AK-47 stares at AN-94 in shock.
-AN94(5)<Speaker>AN-94</Speaker>||:...I do, of course I know about her. +You're referring to Unit 2 of the Wolf Pack Project, White Mastiff, who is to be Imprinted with the assault rifle AK-15, right? +Now that you mention it, it IS about time she got rolled out. I've been at the training ground all this time, I've clearly forgotten about that.
+AN94(5)<Speaker>АН-94</Speaker>||:...I do, of course I know about her. +You're referring to Unit 2 of the Wolf Pack Project, White Mastiff, who is to be Imprinted with the assault rifle AK-15, right? +Now that you mention it, it IS about time she got rolled out. I've been at the training ground all this time, I've clearly forgotten about that.
 AK47(0)<Speaker>AK-47</Speaker>||:Yeah, I think she was completed the day before yesterday. +You're sisters but you didn't even know? Man, that's cold.
-AN94(0)<Speaker>AN-94</Speaker>||:We are Tactical Dolls. We hold no such sisterly ties, so please don't refer to us as such. +Not to mention, I haven't been notified of her completion—but that's not the point. I want to know what you meant by what you just said.
+AN94(0)<Speaker>АН-94</Speaker>||:We are Tactical Dolls. We hold no such sisterly ties, so please don't refer to us as such. +Not to mention, I haven't been notified of her completion—but that's not the point. I want to know what you meant by what you just said.
 AK47(0)<Speaker>AK-47</Speaker>||:What did I say?
-AN94(0)<Speaker>AN-94</Speaker>||:You said AK-15 did a pretty good job. What did you mean by that?
+AN94(0)<Speaker>АН-94</Speaker>||:You said AK-15 did a pretty good job. What did you mean by that?
 AK47(0)<Speaker>AK-47</Speaker>||:You haven't heard about that either? We just came back from a mission with her. +She is an absolute beast like you. She took on all those terrorists single-handedly. +She was practically a tank on legs.
-AN94(5)<Speaker>AN-94</Speaker>||:...
+AN94(5)<Speaker>АН-94</Speaker>||:...
 ()<Speaker></Speaker>||:...How could this be? +The day before yesterday? AK-15 was only rolled out two days ago, so she just had her first performance evaluation, right? +How come she was sent on a counter-terrorist mission on the very next day?
-AN94(5)<Speaker>AN-94</Speaker>||:Then what's the point of me... Nadia?
+AN94(5)<Speaker>АН-94</Speaker>||:Then what's the point of me... Nadia?
 AN94(5)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>Yes? How may I be of assistance?</color>
-AN94(5)<Speaker>AN-94</Speaker>||:Did you know about this?
+AN94(5)<Speaker>АН-94</Speaker>||:Did you know about this?
 AN94(5)<Speaker>"Nadia"</Speaker><同时置暗>||:<color=#00CCFF>If you are enquiring about Mission File No.206202170016...</color> +<color=#00CCFF>I cannot divulge any information outside of the laboratory as it pertains to confidential matters under the Wolf Pack Project.</color>
-AN94(2)<Speaker>AN-94</Speaker>||:So this mission really did take place?
-AN94(0)<Speaker>AN-94</Speaker>||<震屏3>:<size=55>—WHY?!</size>
+AN94(2)<Speaker>АН-94</Speaker>||:So this mission really did take place?
+AN94(0)<Speaker>АН-94</Speaker>||<震屏3>:<size=55>—WHY?!</size>
 AN94(2);AK47(0)<Speaker>AK-47</Speaker>||:Wait—hey, calm down! Why are you shouting all of a sudden?
-AN94(2)<Speaker>AN-94</Speaker>;AK47(0)||:<size=50>Get out of my way, AK-47!</size>
+AN94(2)<Speaker>АН-94</Speaker>;AK47(0)||:<size=50>Get out of my way, AK-47!</size>
 AK47(0)<Speaker>AK-47</Speaker><Shake>0.1</Shake>||<SE1>AVG_XXS_kick</SE1>:Hold... What's your problem?!
 ()<Speaker></Speaker>||:...
 ()||<黑点1>:
-AN94(2)<Speaker>AN-94</Speaker>||<黑点2><BIN>97</BIN><SE1>RunStep</SE1>:Nadia, why didn't you tell me?!
+AN94(2)<Speaker>АН-94</Speaker>||<黑点2><BIN>97</BIN><SE1>RunStep</SE1>:Nadia, why didn't you tell me?!
 ()<Speaker></Speaker>||:AN-94 questions the accompanying AI angrily as she dashes down the corridor.
 ()<Speaker>"Nadia"</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>You never asked me about the daily schedule.</color> +<color=#00CCFF>I don't know which item you are referring to.</color>
-AN94(2)<Speaker>AN-94</Speaker>||:Don't play dumb! I'm obviously talking about AK-15!
+AN94(2)<Speaker>АН-94</Speaker>||:Don't play dumb! I'm obviously talking about AK-15!
 ()<Speaker></Speaker>||:AN-94 abruptly comes to a stop. +The corridor is completely deserted. Other than the AI that's embedded in the computer system of the entire facility, nothing else can be heard.
-AN94(4)<Speaker>AN-94</Speaker>||:...I've always thought Doctor Shaw had her own considerations. +As the very first unit of the project, I must set a good example, and I trust Doctor Shaw's decisions and judgment. +That's why I've spent the last few months on the training ground telling myself that I wasn't ready, that I still didn't meet her standards.
-AN94(2)<Speaker>AN-94</Speaker>||:But Unit 2 took part in a counter-terrorism mission the day after she came out of the factory! +How am I supposed to accept that?! I haven't even met AK-15!
+AN94(4)<Speaker>АН-94</Speaker>||:...I've always thought Doctor Shaw had her own considerations. +As the very first unit of the project, I must set a good example, and I trust Doctor Shaw's decisions and judgment. +That's why I've spent the last few months on the training ground telling myself that I wasn't ready, that I still didn't meet her standards.
+AN94(2)<Speaker>АН-94</Speaker>||:But Unit 2 took part in a counter-terrorism mission the day after she came out of the factory! +How am I supposed to accept that?! I haven't even met AK-15!
 ()<Speaker>"Nadia"</Speaker>||:<color=#00CCFF>...</color> +<color=#00CCFF>...I have no answer to this question.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:Then I'll have to ask Doctor Shaw herself.
+AN94(0)<Speaker>АН-94</Speaker>||:Then I'll have to ask Doctor Shaw herself.
 ()<Speaker>"Nadia"</Speaker>||:<color=#00CCFF>I do not recommend this course of action.</color> +<color=#00CCFF>AN-94, you may not receive a satisfactory answer.</color>
 ()<Speaker></Speaker>||<SE1>RunStep</SE1>:AN-94 ignores Nadia's warning and continues on her way.
-AN94(2)<Speaker>AN-94</Speaker>||<震屏3><BIN>412</BIN><SE1>AVG_Door_Hit</SE1><BGM>BGM_Empty</BGM>:Doctor Shaw!!
+AN94(2)<Speaker>АН-94</Speaker>||<震屏3><BIN>412</BIN><SE1>AVG_Door_Hit</SE1><BGM>BGM_Empty</BGM>:Doctor Shaw!!
 AK15(0)<Speaker>AK-15</Speaker>||<BGM>GF_EV9_Intermission</BGM>:...
 ()<Speaker></Speaker>||:Being overcome with emotion, AN-94 uncharacteristically throws open the door to Shaw's office without even a greeting. +She marches into the office with the intention to confront Shaw, but the moment she comes through the door, everything she wants to say is lodged in the back of her throat. +She stands transfixed as she meets the gaze of a stranger.
 AK15(0)<Speaker>AK-15</Speaker>||:...The prototype.
@@ -64,16 +64,16 @@ NPC-shaw(4)<Speaker>Shaw</Speaker>||:Shut up.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Shaw sits down on the sofa and puts out her cigarette impatiently. +It's plain to see that she doesn't want AN-94 here right now.
 NPC-AngeYoung(1)<Speaker>Angelia</Speaker>||:I'm introducing myself to my future subordinate. You're the one who should shut up. +You may be their creators, but I'll be the one in charge of them. Don't get the wrong idea here.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:It's AK-15 and AK-12 that I'm handing over to you, not her. +She's just the prototype.
-AN94(5)<Speaker>AN-94</Speaker>||:...What does that mean?
+AN94(5)<Speaker>АН-94</Speaker>||:...What does that mean?
 ()<Speaker></Speaker>||:AN-94 looks at Shaw.
-AN94(4)<Speaker>AN-94</Speaker>||:She... AK-15, right? She also said the same thing just now. +Am I not Unit 1 of the Wolf Pack Project? What do you mean by "prototype"?
+AN94(4)<Speaker>АН-94</Speaker>||:She... AK-15, right? She also said the same thing just now. +Am I not Unit 1 of the Wolf Pack Project? What do you mean by "prototype"?
 NPC-AngeYoung(1)<Speaker>Angelia</Speaker>||:...Shaw?
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:It's her misunderstanding. I have no obligation to explain myself to a Doll.
-AN94(5)<Speaker>AN-94</Speaker>||:Misunderstanding?
+AN94(5)<Speaker>АН-94</Speaker>||:Misunderstanding?
 ()<Speaker></Speaker>||:A seed of doubt and dread burgeons in AN-94 and starts growing rapidly.
 AK15(0)<Speaker>AK-15</Speaker>||:I am Unit 1, AN-94. +You are the prototype. If you're to be given a number, it would be 0.
 ()<Speaker></Speaker>||:AK-15 answers AN-94's question quietly.
-AN94(5)<Speaker>AN-94</Speaker>||<SE1>Rope</SE1>:...What's the meaning of this?
+AN94(5)<Speaker>АН-94</Speaker>||<SE1>Rope</SE1>:...What's the meaning of this?
 ()<Speaker></Speaker>||:AN-94 clenches her fists, trying to suppress her anger. +AK-15's brow furrows in confusion at the question.
 AK15(0)<Speaker>AK-15</Speaker>||:Which part of my answer did you not understand?
 ()<Speaker></Speaker>||:AK-15 means no offense with her query. +Her face is completely calm and devoid of emotion. +Her crimson eyes are cold... just like the way she views the world.
@@ -84,30 +84,30 @@ NPC-shaw(0)<Speaker>Shaw</Speaker>||:What's the point in telling her?
 NPC-AngeYoung(1)<Speaker>Angelia</Speaker>||:No matter what your plans are for her... +She has a right to know the truth.
 NPC-shaw(5)<Speaker>Shaw</Speaker>||:Ha, so even Dolls have rights now.
 ()<Speaker></Speaker>||:The two women starts arguing back and forth right in front of AN-94. +Already anxious to begin with, AN-94 can no longer remain silent.
-AN94(5)<Speaker>AN-94</Speaker>||:...I came to ask you something, Doctor Shaw. +It is more important than the prototype matter. +I want to know why AK-15 is deployed on missions while I'm not.
+AN94(5)<Speaker>АН-94</Speaker>||:...I came to ask you something, Doctor Shaw. +It is more important than the prototype matter. +I want to know why AK-15 is deployed on missions while I'm not.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:...I don't have time for your nonsense.
 NPC-AngeYoung(1)<Speaker>Angelia</Speaker>||:You're full of nonsense yourself. Just solve the problem if you don't want to waste time.
 ()<Speaker></Speaker>||:As if stung by Ange's words, Shaw clicks her tongue in annoyance and produces another cigarette from her pocket.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:...Because you're a prototype, AN-94.
-AN94(5)<Speaker>AN-94</Speaker>||:So what exactly does that mean?
+AN94(5)<Speaker>АН-94</Speaker>||:So what exactly does that mean?
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:It means, I never intended for you to go on missions. +You're just a unit for collecting data in experiments, not for actual combat. Do you understand now?
 ()<Speaker></Speaker>||:AN-94 stares at Shaw in disbelief.
-AN94(5)<Speaker>AN-94</Speaker>||:I'm... an experimental subject, a tool for you to gather data?
+AN94(5)<Speaker>АН-94</Speaker>||:I'm... an experimental subject, a tool for you to gather data?
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:Scientific research is a process of trial and error.
-AN94(2)<Speaker>AN-94</Speaker><Shake>0.1</Shake>||<震屏3><SE1>AVG_Scene_Transfer</SE1><BGM>BGM_Empty</BGM>:<size=50>So I'm an "error"?!</size>
+AN94(2)<Speaker>АН-94</Speaker><Shake>0.1</Shake>||<震屏3><SE1>AVG_Scene_Transfer</SE1><BGM>BGM_Empty</BGM>:<size=50>So I'm an "error"?!</size>
 ()<Speaker></Speaker>||:AN-94 screams furiously.
 AK15(0)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:Stunned by her outburst, AK-15 does an almost imperceptible double take. She gazes at AN-94.
 NPC-AngeYoung(0)<Speaker>Angelia</Speaker>||:...Calm down, AN-94.
 NPC-AngeYoung(1)<Speaker>Angelia</Speaker>||:And you, Shaw, can't you say something nice for once?
 NPC-shaw(4)<Speaker>Shaw</Speaker>||:I never thought I'd ever get a lecture on "speaking kindly" from you of all people.
-AN94(4)<Speaker>AN-94</Speaker>||:...I'm sorry.
+AN94(4)<Speaker>АН-94</Speaker>||:...I'm sorry.
 ()<Speaker></Speaker>||:Realizing that her reaction was a bit overboard, AN-94 reins in her anger and apologizes to Shaw glumly.
-AN94(2)<Speaker>AN-94</Speaker>||:But I cannot accept your decision.
+AN94(2)<Speaker>АН-94</Speaker>||:But I cannot accept your decision.
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:...You're not getting this right. +My decisions aren't for you to second-guess.
-AN94(4)<Speaker>AN-94</Speaker>||:...
+AN94(4)<Speaker>АН-94</Speaker>||:...
 NPC-shaw(0)<Speaker>Shaw</Speaker>||:I've given you the answer you wanted. +Now get out and stand by. Don't make me say that again.
-AN94(4)<Speaker>AN-94</Speaker>||:... +...Understood.
+AN94(4)<Speaker>АН-94</Speaker>||:... +...Understood.
 ()<Speaker></Speaker>||:AN-94 looks like she still has more to say, but under Shaw's stern gaze, she gives up in the end.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:She takes a deep, shuddering breath, and after one final glance at AK-15, she leaves the office.
 NPC-AngeYoung(2)<Speaker>Angelia</Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:...

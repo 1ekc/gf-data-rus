@@ -1,16 +1,16 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><BGM>BGM_NightOPS</BGM><BIN>167</BIN>:Три часа пролетели незаметно, и солнце уже полностью скрылось за горизонтом. +За пределами военного лагеря, под какой-то неприметной крышкой люка.
-AN94(0)<Speaker>AN-94</Speaker>||:<color=#00CCFF>AR-15, я на месте.</color>
+AN94(0)<Speaker>АН-94</Speaker>||:<color=#00CCFF>AR-15, я на месте.</color>
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Почему ты так долго...</color>
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>Может, я... Нет, ничего. Я свернула с дороги, потому что не хотела, чтобы за мной проследили.</color>
+AN94(0)<Speaker>АН-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>Может, я... Нет, ничего. Я свернула с дороги, потому что не хотела, чтобы за мной проследили.</color>
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Hm?</color>+<color=#00CCFF>Ну, ладно. Главное, что ты пришла.</color>+<color=#00CCFF>...Я уже три часа веду наблюдение, и ни источник сигнала внутри базы, ни военные, находящиеся здесь, не совершали никаких подозрительных действий.</color>
-AN94(0)<Speaker>AN-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>Возможно, здесь просто находится резервный блок. Если бы только нам удалось взломать системы и организовать электронную слежку...</color>+<color=#00CCFF>Извини, если бы здесь была АК-12, она, наверное, справилась бы лучше.</color>
+AN94(0)<Speaker>АН-94</Speaker>;AR15Mod(0)||:<color=#00CCFF>Возможно, здесь просто находится резервный блок. Если бы только нам удалось взломать системы и организовать электронную слежку...</color>+<color=#00CCFF>Извини, если бы здесь была АК-12, она, наверное, справилась бы лучше.</color>
 AN94(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Не говори так.</color>+<color=#00CCFF>...Как только стемнеет, я снова проберусь внутрь. Помоги мне следить за тем, кто входит и выходит с базы.</color>
-AN94(2)<Speaker>AN-94</Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Понятно.</color>+<color=#00CCFF>Стой...!</color>
+AN94(2)<Speaker>АН-94</Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Понятно.</color>+<color=#00CCFF>Стой...!</color>
 AN94(2);AR15Mod(2)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>Э? Что такое?</color>
-AN94(4)<Speaker>AN-94</Speaker>;AR15Mod(2)||:<color=#00CCFF>Что-то здесь не так...</color>
+AN94(4)<Speaker>АН-94</Speaker>;AR15Mod(2)||:<color=#00CCFF>Что-то здесь не так...</color>
 AN94(4);AR15Mod(2)<Speaker>ST AR-15</Speaker>||:<color=#00CCFF>Что-то не так? Я сейчас проверю... Завелся автомобиль, это джип. Но он не излучает никаких сигналов, характерных для «Белой фракции».</color>
-AN94(2)<Speaker>AN-94</Speaker><Shake>;AR15Mod(2)||<SE1>RunStep</SE1>:<color=#00CCFF>Нет... этого не может быть. С этой машиной что-то не так, надо ее немедленно догнать!</color>
+AN94(2)<Speaker>АН-94</Speaker><Shake>;AR15Mod(2)||<SE1>RunStep</SE1>:<color=#00CCFF>Нет... этого не может быть. С этой машиной что-то не так, надо ее немедленно догнать!</color>
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1>:<color=#00CCFF>П-подожди... Разве ты не собираешься сначала обсудить это с Анже?!</color>+<color=#00CCFF>94-я! АН-94! Не могу поверить, что она просто так ушла!</color>
 ()<Speaker></Speaker>||<BIN>9</BIN><黑点2><SE1>RunStep</SE1><黑屏1>:AR-15 ничего не остаётся, как покинуть укрытие и броситься в погоню за АН-94.
 AR15Mod(5)<Speaker>ST AR-15</Speaker>||<BIN>168</BIN><黑点2>:Ять!+<color=#00CCFF>Анже, ты меня слышишь?</color>

@@ -53,7 +53,7 @@ NPC-Morridow(1)<Speaker>Morridow</Speaker>||:Okay, I'll make myself useful!
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Girls, all prepped and ready to go?
 AK15(6)<Speaker>AK-15</Speaker>||:Yes.
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Things never go according to plan, do they? +What do you think, Antje?
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:I trust Lucia...
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:I trust Lucia...
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:Our plans always unravel because of the Dolls that are rolled out after us. Who's going to be the one that messes up, I wonder?
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Enough. I know you're itching to move.
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:But are you sure this is a good idea? +Waltzing into the refugee settlement without any backup? +Such slipshod plans aren't your style at all.

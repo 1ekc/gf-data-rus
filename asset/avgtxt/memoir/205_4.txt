@@ -4,26 +4,26 @@ SKS(0)<Speaker>SKS</Speaker>||<SE1>AVG_door_elecport</SE1>:(Sighs) Why is my sco
 OTs12(0)<Speaker>OTs-12</Speaker>||:The moving targets create great variables, so fluctuations in your performance are only natural. +It takes more than just a few days to see tangible improvement.
 SKS(0)<Speaker>SKS</Speaker>||:But there must be some trick to this.
 OTs12(0)<Speaker>OTs-12</Speaker>||:As if it'd be so sim—
-AN94(0)<Speaker>AN-94</Speaker>||:...Your firing posture is too stiff. +This is a common problem for civilian Dolls with a newly installed fire-control core. +Relying too much on data hinders your ability to make full use of your body.
+AN94(0)<Speaker>АН-94</Speaker>||:...Your firing posture is too stiff. +This is a common problem for civilian Dolls with a newly installed fire-control core. +Relying too much on data hinders your ability to make full use of your body.
 SKS(0)<Speaker>SKS</Speaker>||:A... AN-94?!
 ()<Speaker></Speaker>||:A voice suddenly interrupts the Dolls' conversation, making both of them jump.
-AN94(0)<Speaker>AN-94</Speaker>||:You don't have to be so loud. I can hear you just fine.
+AN94(0)<Speaker>АН-94</Speaker>||:You don't have to be so loud. I can hear you just fine.
 OTs12(0)<Speaker>OTs-12</Speaker>||:Uh, no, sorry. She's just a bit surprised. +You've never talked to us before.
-AN94(0)<Speaker>AN-94</Speaker>||:...Tiss, I've been meaning to tell you since our last training session. +When you were operating on your own, you were too engrossed in your surroundings. You wanted to keep an eye on every direction. +Your attention ended up being stretched too thin, and your distraction was easy to exploit. +If you don't want to get taken out like that again, you'll have to get rid of that habit.
+AN94(0)<Speaker>АН-94</Speaker>||:...Tiss, I've been meaning to tell you since our last training session. +When you were operating on your own, you were too engrossed in your surroundings. You wanted to keep an eye on every direction. +Your attention ended up being stretched too thin, and your distraction was easy to exploit. +If you don't want to get taken out like that again, you'll have to get rid of that habit.
 OTs12(0)<Speaker>OTs-12</Speaker>||:...I see.
 AK47(0)<Speaker>AK-47</Speaker>||:...
-AN94(5)<Speaker>AN-94</Speaker>||:...What is it, AK-47?
+AN94(5)<Speaker>АН-94</Speaker>||:...What is it, AK-47?
 AK47(0)<Speaker>AK-47</Speaker>||:Nothing, it's just a little unexpected. +You're suddenly being so nice to us. What's gotten into you?
-AN94(0)<Speaker>AN-94</Speaker>||:It's just a small favor. Giving you such feedback won't bring you much closer to my level. +...Besides, it'd make me feel better if I can be of some help.
+AN94(0)<Speaker>АН-94</Speaker>||:It's just a small favor. Giving you such feedback won't bring you much closer to my level. +...Besides, it'd make me feel better if I can be of some help.
 AK47(0)<Speaker>AK-47</Speaker>||:Feel better?
-AN94(4)<Speaker>AN-94</Speaker>||:...It's nothing. +It's just that I now understand how it feels to be defeated.
+AN94(4)<Speaker>АН-94</Speaker>||:...It's nothing. +It's just that I now understand how it feels to be defeated.
 SKS(0)<Speaker>SKS</Speaker>||:Defeated? You? Really?
 ()<Speaker></Speaker>||:SKS's face is the very image of shock.
-AN94(0)<Speaker>AN-94</Speaker>||:...There will always be someone better than you.
+AN94(0)<Speaker>АН-94</Speaker>||:...There will always be someone better than you.
 AK47(0)<Speaker>AK-47</Speaker>||:...Are you talking about AK-15? You've been training with her for a while.
 OTs12(0)<Speaker>OTs-12</Speaker>||:I see. Well, then it isn't so surprising... +AK-15 and AK-12... Hm, from what I know, they're both insanely powerful.
 SKS(0)<Speaker>SKS</Speaker>||:Are they really that big of a deal...? But powerful as they may be, they still botched a mission, didn't they?
-AN94(0)<Speaker>AN-94</Speaker>||:...What?
+AN94(0)<Speaker>АН-94</Speaker>||:...What?
 ()<Speaker></Speaker>||:AN-94 does a double take at that.
 SKS(0)<Speaker>SKS</Speaker>||:You haven't heard? They went on a mission together and ended up getting the target they were meant to protect—
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||<SE1>AVG_footsteps_cave</SE1>:Now, now, let's stop right there. How about letting us sisters have a private conversation?
@@ -34,30 +34,30 @@ AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||<SE1>Stop_AVG_loop</SE
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>73</BIN><BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:...
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:Your results are much better than your records suggest, 94.
-AN94(0)<Speaker>AN-94</Speaker>||<SE1>AVG_weapon_reload</SE1>:...I've been training regularly. +Still, I am nowhere near as good as AK-15.
+AN94(0)<Speaker>АН-94</Speaker>||<SE1>AVG_weapon_reload</SE1>:...I've been training regularly. +Still, I am nowhere near as good as AK-15.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AN-94 turns around and puts away her weapon, then she starts tidying up the slightly messy desk behind her. +...Now that AK-47 and the others have left, AN-94 is alone on the training ground with AK-12, who still hasn't explained why she wanted to talk.
 ()<Speaker></Speaker>||<SE1>AVG_Zipper</SE1>:AN-94 speculates about AK-12's intentions as she organizes the ammo stores—accumulated spent casings, low-quality cartridges, blanks... She sorted them all out and stacked up all the ammo boxes tidily.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:You're a far cry from what's written in the records, AN-94. +Your neural cloud has clearly undergone changes that Shaw didn't see coming. That's no easy feat.
-AN94(0)<Speaker>AN-94</Speaker>;AK12(0)<Position>0,50</Position>||:Doctor Shaw didn't see this coming because she doesn't care about me. +I don't think these changes are anything remarkable anyway. I just feel like I should be doing a little more.
+AN94(0)<Speaker>АН-94</Speaker>;AK12(0)<Position>0,50</Position>||:Doctor Shaw didn't see this coming because she doesn't care about me. +I don't think these changes are anything remarkable anyway. I just feel like I should be doing a little more.
 AN94(0);AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:Why is that?
-AN94(4)<Speaker>AN-94</Speaker>;AK12(0)<Position>0,50</Position>||:...Because I have no purpose. +If I don't do something, I can't justify my own existence.
+AN94(4)<Speaker>АН-94</Speaker>;AK12(0)<Position>0,50</Position>||:...Because I have no purpose. +If I don't do something, I can't justify my own existence.
 AK12(4)<Speaker>AK-12</Speaker><Position>0,50</Position>||<BGM>BGM_Truth</BGM>:Hahahahahahahahaha.
 ()<Speaker></Speaker>||:AK-12 bursts into a peal of shrill laughter at AN-94's reply.
-AN94(5)<Speaker>AN-94</Speaker>||:...Was that funny?
+AN94(5)<Speaker>АН-94</Speaker>||:...Was that funny?
 AN94(5);AK12(4)<Speaker>AK-12</Speaker><Position>0,50</Position>||:Wasn't it? I thought you were breaking the ice with humor.
-AN94(2)<Speaker>AN-94</Speaker>;AK12(4)<Position>0,50</Position>||:...Are you trying to pick a fight?
+AN94(2)<Speaker>АН-94</Speaker>;AK12(4)<Position>0,50</Position>||:...Are you trying to pick a fight?
 AN94(2);AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:No way. I just wanted to see if you're really the sort who'd take jibes lying down.
-AN94(0)<Speaker>AN-94</Speaker>||:...
+AN94(0)<Speaker>АН-94</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1>:After cleaning the weapon she has been practicing with and returning it to its original storage place, AN-94 looks up and stares at the wall in front of her. +She doesn't want to turn around and look at AK-12... This Doll's very existence is a proclamation that "AN-94 is trash".
-AN94(0)<Speaker>AN-94</Speaker>||:So... what business do you have with a useless Doll like me?
+AN94(0)<Speaker>АН-94</Speaker>||:So... what business do you have with a useless Doll like me?
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:AK-15 and I separated.
-AN94(5)<Speaker>AN-94</Speaker>||:...What?
+AN94(5)<Speaker>АН-94</Speaker>||:...What?
 ()<Speaker></Speaker>||:AN-94 turns around dubiously and stares at AK-12, who looks decidedly flippant.
-AN94(0)<Speaker>AN-94</Speaker>||:That's no laughing matter.
+AN94(0)<Speaker>АН-94</Speaker>||:That's no laughing matter.
 AK12(14)<Speaker>AK-12</Speaker><Position>0,50</Position>||:I'm not joking. AK-15 and I aren't compatible at all. Our differences are so great it put our mission in jeopardy. +So I've decided to ditch her.
 ()<Speaker></Speaker>||:AN-94 gazes at AK-12, dumbfounded. +She's been immensely tormented because of AK-15's greatness, yet here stands AK-12, casually telling her that she's ditched AK-15. +And what she doesn't understand is...
-AN94(0)<Speaker>AN-94</Speaker>||<SE1>ClothingUp</SE1>:...What does this have to do with me?
+AN94(0)<Speaker>АН-94</Speaker>||<SE1>ClothingUp</SE1>:...What does this have to do with me?
 ()<Speaker></Speaker>||:Sitting on the bench with her chin resting in a hand, AK-12 studies AN-94 with great interest. +Her usually closed eyes are now open. The faint glow characteristic of the Wolf Eye sends a jolt down AN-94's spine, making her flinch a little.
 AK12(3)<Speaker>AK-12</Speaker><Position>0,50</Position>||:You just said you had no purpose, yeah? +Well, here's your chance, 94—I need a partner.
 ()<Speaker></Speaker>||:She holds out a hand to AN-94.
@@ -73,104 +73,104 @@ AK12(3)<Speaker>AK-12</Speaker><Position>0,50</Position>||<BIN>9</BIN><黑屏2>:
 ()<Speaker></Speaker>||:The dull clanking above ground can be heard faintly even from so far below ground level. +AN-94 follows silently behind her teammate and commander and carefully cleans up their tracks.
 AK12(14)<Speaker>AK-12</Speaker><Position>0,50</Position>||:You do know that we can't handle that Sinner with just the two of us, right?
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:Of course I do. +I can't attest to the aesthetics of Shaw's creations, but they are definitely the most effective in the Neo-Soviet Union.
-AN94(0)<Speaker>AN-94</Speaker>||:But it's just a matter of time for Yegor to make his way down here.
+AN94(0)<Speaker>АН-94</Speaker>||:But it's just a matter of time for Yegor to make his way down here.
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:Luckily for us, our backup will join us before he can get here. +We'll still have time to discuss strategies.
 AK12(14)<Speaker>AK-12</Speaker><Position>0,50</Position>||:Let me put it more plainly, Ange. +Do you know what we'd need in order to take down the Sinner? +A team that can pin it down in direct combat and three or more highly skilled blasters. +The key would be the one leading the assault. I could do that, but what can you do about the very specific things that we don't have? +Even two more T-Doll squads would be useless against that kind of monstrous mech.
-AN94(0)<Speaker>AN-94</Speaker>||:...I can pin it down.
+AN94(0)<Speaker>АН-94</Speaker>||:...I can pin it down.
 AK12(14)<Speaker>AK-12</Speaker><Position>0,50</Position>||:No, it's too dangerous for you, 94. +That's not something that a Doll can handle alone.
-AN94(4)<Speaker>AN-94</Speaker>||:Right...
+AN94(4)<Speaker>АН-94</Speaker>||:Right...
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:If 94 can't do it, what about AK-15?
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:...Who?
-AN94(5)<Speaker>AN-94</Speaker>||<SE1>ClothingUp</SE1>:—?!
+AN94(5)<Speaker>АН-94</Speaker>||<SE1>ClothingUp</SE1>:—?!
 ()<Speaker></Speaker>||:AN-94's hands twitch as she looks up in shock.
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:Your former partner, THE AK-15.
-AN94(5)<Speaker>AN-94</Speaker>||:AK-15... is here?
+AN94(5)<Speaker>АН-94</Speaker>||:AK-15... is here?
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:Yep, together with RPK-16, so there's your blaster.
 ()<Speaker></Speaker>||:Ange turns around and looks at her two subordinates.
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:With them in the equation, what are our chances of winning?
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:They jumped from 0% to 1%—rejoice, Ange.
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:...So it went from "utterly impossible" to "worth a try", eh?
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:I envy your optimism. +But it's true. So long as that gorilla stays on her feet, we'll stand a chance of bringing down the Sinner.
-AN94(5)<Speaker>AN-94</Speaker>||:But... is AK-15 back on the frontline already?
+AN94(5)<Speaker>АН-94</Speaker>||:But... is AK-15 back on the frontline already?
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:Thanks to AK-12, I don't know much about what she's been up to in the last two years. +But I hear that she gets along swell with RPK, unlike with a certain someone.
-AN94(0)<Speaker>AN-94</Speaker>||:...
+AN94(0)<Speaker>АН-94</Speaker>||:...
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:They'll be here any minute, so get ready.
-AN94(0)<Speaker>AN-94</Speaker>||:...Right. +AK-15 isn't one to skim on ammo, so she'll need some spares. +I'll see if I can find any in the ammo dump we passed by earlier.
+AN94(0)<Speaker>АН-94</Speaker>||:...Right. +AK-15 isn't one to skim on ammo, so she'll need some spares. +I'll see if I can find any in the ammo dump we passed by earlier.
 ()<Speaker></Speaker>||<SE1>RunStep</SE1>:With a shake of her head, AN-94 turns and leaves hastily.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:...
 NPC-Ange(0)<Speaker>Angelia</Speaker>||:I'll go and scout out the terrain. +Start coming up with a battle plan.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:Alright, you're the boss.
 ()||<黑点1>:
 ()<Speaker></Speaker>||<BIN>88</BIN><黑点2><SE1>AVG_door_elecport</SE1>:Inside the ammunition depot, AN-94 gathers all the 7.62mm cartridges she managed to find.
-AN94(0)<Speaker>AN-94</Speaker>||<SE1>ClothingUp</SE1>:There are still some explosives here... +They could come in useful later...
+AN94(0)<Speaker>АН-94</Speaker>||<SE1>ClothingUp</SE1>:There are still some explosives here... +They could come in useful later...
 ()<Speaker></Speaker>||:...AK-15 is coming. +AN-94 stops what she's doing and stands rooted to the spot. +The thought buzzes inside her head incessantly.
-AN94(3)<Speaker>AN-94</Speaker>||:That's great...
+AN94(3)<Speaker>АН-94</Speaker>||:That's great...
 ()<Speaker></Speaker>||:It is certainly a huge relief. +Powerful support is coming their way in this hour of desperation and despair, bringing them a sliver of hope. +As Ange has said, AK-15's arrival makes their plan worth a try.
-AN94(4)<Speaker>AN-94</Speaker>||:...
+AN94(4)<Speaker>АН-94</Speaker>||:...
 ()<Speaker></Speaker>||:But... +AK-15... was AK-12's original partner. +They went their separate ways because of irreconcilable differences, but that was a long time ago. +If AK-15 is willing to put aside her disagreements with AK-12, then... will AK-12...
-AN94(4)<Speaker>AN-94</Speaker>||<BGM>BGM_Empty</BGM>:Does 12... need a stronger partner after all...?
+AN94(4)<Speaker>АН-94</Speaker>||<BGM>BGM_Empty</BGM>:Does 12... need a stronger partner after all...?
 ()<Speaker></Speaker>||:...What she cannot do, AK-15 can. +In the end, she is still just a substitute. +Turns out the one who claimed to need AN-94 is still going to—
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||<SE1>AVG_door_elecport</SE1>:AN-94.
-AN94(5)<Speaker>AN-94</Speaker>||:1-12? W-why are you here?!
+AN94(5)<Speaker>АН-94</Speaker>||:1-12? W-why are you here?!
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:If we're to bring down the Sinner, ammo alone won't do. +We'll need a large amount of explosives, so I've come to take a look... You've already gathered them? +I really shouldn't be surprised. You're always so thoughtful and attentive.
-AN94(4)<Speaker>AN-94</Speaker>||:Yes... I thought we might have use for them.
+AN94(4)<Speaker>АН-94</Speaker>||:Yes... I thought we might have use for them.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:...
 ()<Speaker></Speaker>||:AK-12 takes in AN-94's awkward unease and walks up to her with a smile.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:I've never considered you a substitute for anyone. +It's my problem that I don't gel with the gorilla, but you're a fantastic partner.
-AN94(5)<Speaker>AN-94</Speaker>||<BGM>GF_EV9_Story</BGM>:...! +I... How do you...
+AN94(5)<Speaker>АН-94</Speaker>||<BGM>GF_EV9_Story</BGM>:...! +I... How do you...
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:How long have we been partners now?
-AN94(4)<Speaker>AN-94</Speaker>||:...It has almost been two years since Shaw disappeared.
+AN94(4)<Speaker>АН-94</Speaker>||:...It has almost been two years since Shaw disappeared.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-12 pats AN-94 on the back warmly.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:You don't have to keep thinking about how to beat her. It's stupid to compare muscles with a gorilla like that. +You are you. You are AN-94, and you have your own strengths. +You must be yourself, and not another AK-15.
-AN94(5)<Speaker>AN-94</Speaker>;AK12(0)<Position>0,50</Position>||:Strengths? ...Do I have any?
+AN94(5)<Speaker>АН-94</Speaker>;AK12(0)<Position>0,50</Position>||:Strengths? ...Do I have any?
 AN94(5);AK12(4)<Speaker>AK-12</Speaker><Position>0,50</Position>||:AK-15 wouldn't have thought to gather the explosives even she spent a whole day in here.
-AN94(5)<Speaker>AN-94</Speaker>;AK12(4)<Position>0,50</Position>||:...
+AN94(5)<Speaker>АН-94</Speaker>;AK12(4)<Position>0,50</Position>||:...
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:My partner will only be you, AN-94. You are you.
 ()<Speaker></Speaker>||:AK-12 says cheerfully as she makes for the door.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||<SE1>AVG_BaseDoor_Open</SE1>:They're almost here so Ange asked me to go collect them. Get everything ready and go back to her...
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:Partner. ♪
-AN94(5)<Speaker>AN-94</Speaker>||<SE1>AVG_BaseDoor_Close</SE1>:... +Got it.
+AN94(5)<Speaker>АН-94</Speaker>||<SE1>AVG_BaseDoor_Close</SE1>:... +Got it.
 ()<Speaker></Speaker>||:...
 ()||<黑点1>:
 ()<Speaker></Speaker>||<黑点2><BIN>229</BIN>:AK-12's plan is absolutely insane. +Even with AK-15's exceptional strength on their side, the chances of success are still extremely minimal. +In other words... the challenge they're facing this time is incredibly difficult.
 RPK16(2)<Speaker>RPK-16</Speaker>||:What's on your mind, 94?
-AN94(5)<Speaker>AN-94</Speaker>;RPK16(2)||:Huh...?! +Oh... Nothing, I'm just familiarizing myself with the plan.
+AN94(5)<Speaker>АН-94</Speaker>;RPK16(2)||:Huh...?! +Oh... Nothing, I'm just familiarizing myself with the plan.
 AN94(5);RPK16(4)<Speaker>RPK-16</Speaker>||:Yeah, AK-12 is asking for the impossible, isn't she? +Even if we pull it off, we'll most probably still be wiped out.
-AN94(5)<Speaker>AN-94</Speaker>||:That would already be quite ideal. +I'm worried that we won't even succeed. Right now, we're about to face...
+AN94(5)<Speaker>АН-94</Speaker>||:That would already be quite ideal. +I'm worried that we won't even succeed. Right now, we're about to face...
 ()<Speaker></Speaker>||:...An enemy even more powerful than AK-15.
 ()<Speaker></Speaker>||<SE1>Rope</SE1>:AN-94 looks at AK-12, who is standing with her back towards her, and clenches her fists.
 RPK16(0)<Speaker>RPK-16</Speaker>||:...I've been snarking AK-12 the whole time, but I've got to admit that this is the only feasible solution. +Besides, the deciding factor of our success or failure isn't actually AK-15.
-AN94(5)<Speaker>AN-94</Speaker>;RPK16(0)||:What?
+AN94(5)<Speaker>АН-94</Speaker>;RPK16(0)||:What?
 AN94(5);RPK16(4)<Speaker>RPK-16</Speaker>||:15's job is just to pin the Sinner down. +It doesn't matter if she can last five seconds or ten, the result will still be the same. +The key to taking out the Sinner for good... is you.
-AN94(5)<Speaker>AN-94</Speaker>;RPK16(4)||:Me...?
+AN94(5)<Speaker>АН-94</Speaker>;RPK16(4)||:Me...?
 AN94(5);RPK16(4)<Speaker>RPK-16</Speaker>||:In AK-12's eyes, you're better than AK-15... More outstanding than AK-15, even. +Before the moment of truth, you must protect AK-12, our chief assaulter. +Whether she can deliver the killing blow... depends entirely on how much strength you can help her preserve.
-AN94(5)<Speaker>AN-94</Speaker>;RPK16(4)||:...
+AN94(5)<Speaker>АН-94</Speaker>;RPK16(4)||:...
 AN94(5);RPK16(6)<Speaker>RPK-16</Speaker>||:She trusts you a great deal, 94.
-AN94(5)<Speaker>AN-94</Speaker>;RPK16(6)||:12...
+AN94(5)<Speaker>АН-94</Speaker>;RPK16(6)||:12...
 AN94(5);RPK16(5)<Speaker>RPK-16</Speaker>||:Oh, by the way, before we set off, let me look upon your face one last time.
-AN94(5)<Speaker>AN-94</Speaker>;RPK16(5)||:...?
+AN94(5)<Speaker>АН-94</Speaker>;RPK16(5)||:...?
 RPK16(6)<Speaker>RPK-16</Speaker>||:Hm, now I'm brimming with motivation. +Let's do our best together.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:The target is within visual range.
-AN94(0)<Speaker>AN-94</Speaker>||:...Understood. +Ready for the assault.
+AN94(0)<Speaker>АН-94</Speaker>||:...Understood. +Ready for the assault.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Looking at AK-12's back, AN-94 exhales slowly and walks up to her side. +...RPK-16 was right. +She shouldn't get hung up... on how to be AK-15. For both AK-15 and AK-12, she should focus on being AN-94.
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:There are things that AK-15 can do, just as there are things that AN-94 can do. +She isn't anyone else... She is AN-94.
 ()<Speaker></Speaker>||:... +...
 ()||<黑屏1>:
-AN94MOD(0)<Speaker>AN-94</Speaker>||<SE1>AVG_tele_disconnect</SE1>:(Exhales)
+AN94MOD(0)<Speaker>АН-94</Speaker>||<SE1>AVG_tele_disconnect</SE1>:(Exhales)
 ()<Speaker></Speaker>||:AN-94 comes out of her meditation and raises her head. +...That's not enough.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:What's not enough?
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:15? ...What's that you're holding?
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:15? ...What's that you're holding?
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||<SE1>ClothingUp</SE1>:An explosive rivet—a part of a Stasi anti-armor weapon. +The launcher is a write-off, leaving only the ammo, but it can still be useful.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:...
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:...
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:What were you talking about that's not enough?
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:...Did I say that out loud?
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:...Did I say that out loud?
 AK15MOD(0)<Speaker>AK-15</Speaker>||:Yes.
 ()<Speaker></Speaker>||:AN-94 closes her eyes. In the darkness behind her eyelids, she can almost see the awe-inspiring back again. +AK-12 has dragged her out of the abyss and given her salvation. She told her, "You are needed." +AK-12 is undoubtedly a light that has shone upon her... And now it is her turn to repay her. +As AK-12 has been telling her all along—she is AN-94.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...It's not enough that I just walk out from your shadow, AK-15.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...It's not enough that I just walk out from your shadow, AK-15.
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:...
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:The challenge we're facing right now is even more trying than what we went through in the submarine base. +If we are to overcome it, we must each do our part to the best of our ability. +I will no longer ask myself, "What would AK-15 or AK-12 do?" +...Instead, I'll ask, "What can AN-94 do at a time like this?"
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:The challenge we're facing right now is even more trying than what we went through in the submarine base. +If we are to overcome it, we must each do our part to the best of our ability. +I will no longer ask myself, "What would AK-15 or AK-12 do?" +...Instead, I'll ask, "What can AN-94 do at a time like this?"
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:...The Commander is summoning us.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...Let's go.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...Let's go.
 ()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1><SE1>AVG_Button_Click</SE1>:AN-94 slowly rises and picks up her weapon. She turns and looks through the door. +...This time, she will be standing at the forefront, in the lead.
 ()||<黑点1>:

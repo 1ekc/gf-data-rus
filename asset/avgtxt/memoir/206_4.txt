@@ -103,7 +103,7 @@ NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:Very good, 15. Now you're getting some
 ()<Speaker></Speaker>||<CGDelay>0.5</CGDelay>:
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_doorknock_wood</SE1>:...Thud.
 ()<Speaker></Speaker>||:Just then, the door of the safe house suddenly opens. +They pause simultaneously and turn to look, only to see AN-94 standing at the doorway with the crate of vodka and a helpless half-smile on her face.
-AN94MOD(0)<Speaker>AN-94</Speaker>||<BGM>BGM_23S_Winter_Night</BGM>:...Are you planning to do this all day?
+AN94MOD(0)<Speaker>АН-94</Speaker>||<BGM>BGM_23S_Winter_Night</BGM>:...Are you planning to do this all day?
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-12 pokes AK-15's shoulder with her free hand.
 ()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><震屏3>:AK-15 looks at her, then she abruptly loosens her grip, all but dumping AK-12 to the floor.
@@ -111,7 +111,7 @@ NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:...
 NPC-AK12Mod(13)<Speaker>AK-12</Speaker><Shake>||:(Wheezes) I wasn't going easy on you. +One hit from you and I would've been a goner. +I knew I couldn't last long in such a high-intensity fight so I went all-in with that.
 AK15MOD(3)<Speaker>AK-15</Speaker>||:...
 AK15MOD(5)<Speaker>AK-15</Speaker>||:I wasn't asking.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:I have coffee liqueur, 12.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:I have coffee liqueur, 12.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:Thanks, I actually forgot—
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||<CGDelay>0.5</CGDelay>:
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:15, how do you want to drink this?
@@ -123,43 +123,43 @@ NPC-AK12Mod(13)<Speaker>AK-12</Speaker>||:Ew.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:Meanwhile, AN-94 adds the finishing touches on the drink she has mixed for AK-12. She puts an ice ball into the glass and hands it over.
 ()<Speaker></Speaker>||<SE1>AVG_va_addingredient</SE1>:She has also prepared a drink for herself in a pewter mug.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:...Yours looks kinda fancy?
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...This is a Salty Dog, a cocktail made with vodka.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...This is a Salty Dog, a cocktail made with vodka.
 AK15MOD(3)<Speaker>AK-15</Speaker>||:...Kitschy.
 ()<Speaker></Speaker>||:AK-15 remarks coldly and raises her bottle to her lips again.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||<SE1>ClothingUp</SE1>:Hold on.
 AK15MOD(0)<Speaker>AK-15</Speaker>;NPC-AK12Mod(11)||:...What is it?
 AK15MOD(0);NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:We should make a ritual out of this.
 AK15MOD(0)<Speaker>AK-15</Speaker>;NPC-AK12Mod(11)||:...
-AN94MOD(5)<Speaker>AN-94</Speaker>;NPC-AK12Mod(11)||:...You never cared for such things.
+AN94MOD(5)<Speaker>АН-94</Speaker>;NPC-AK12Mod(11)||:...You never cared for such things.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:Maybe this is how I've grown.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||<BGM>BGM_Empty</BGM>:Why don't we make this our "Vodka Day"?
 AK15MOD(5)<Speaker>AK-15</Speaker>||:...Fine by me.
-AN94MOD(5)<Speaker>AN-94</Speaker>||:...Once a month?
+AN94MOD(5)<Speaker>АН-94</Speaker>||:...Once a month?
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:Yeah, once a month.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-12 raises her glass to her two companions.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||<BGM>Campaion-58-2</BGM>:To Shaw, to Ange, and to our future.
 ()<Speaker></Speaker>||:AK-15 and AN-94 look at each other.
-AN94MOD(0)<Speaker>AN-94</Speaker>||<SE1>ClothingUp</SE1>:To Shaw, to Ange, and to our future.
+AN94MOD(0)<Speaker>АН-94</Speaker>||<SE1>ClothingUp</SE1>:To Shaw, to Ange, and to our future.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Cheers</SE1>:AN-94 is the first to answer AK-12. She clinks her mug against AK-12's glass.
 AK15MOD(5)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15 scratches her head.
 ()<Speaker></Speaker>||<SE1>AVG_va_addingredient</SE1>:Under the others' relentless gaze, she looks around and finally finds a chipped ceramic mug. She pours her vodka into the mug with a generous splatter of pepper.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:I'm starting to regret this. Can we not involve her? I don't want to smell that.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:C'mon, 15. Your turn.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:C'mon, 15. Your turn.
 AN94MOD(0);AK15MOD(5)<Speaker>AK-15</Speaker>||<CGDelay>0.5</CGDelay>:
 AN94MOD(0);AK15MOD(5)<Speaker>AK-15</Speaker>||<SE1>ClothingUp</SE1>:...To Shaw, to Ange.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(5)||:...
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(5)||:...
 AK15MOD(3)<Speaker>AK-15</Speaker>||:And to our... future.
 ()<Speaker></Speaker>||:Only then does AN-94 let out a satisfied smile. +She has almost never smiled like this since her neural upgrade... The way her old gentle self used to.
-AN94MOD(7)<Speaker>AN-94</Speaker>||<SE1>ClothingUp</SE1>:Also... to Nadia.
+AN94MOD(7)<Speaker>АН-94</Speaker>||<SE1>ClothingUp</SE1>:Also... to Nadia.
 ()<Speaker>AK-12&AK-15</Speaker>||:...
 ()<Speaker></Speaker>||:This time, nobody answers her. AK-12 and AK-15 both down their drinks in one gulp.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AN-94 scratches her face and also finishes her drink.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:I once played a video game in which they'd create and name a cocktail after a "legend" after they die.
 ()<Speaker></Speaker>||:AN-94 gives the matter some thought.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...The one you had would be Ange, and mine... would be Shaw.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...The one you had would be Ange, and mine... would be Shaw.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:What about 15's?
-AN94MOD(0)<Speaker>AN-94</Speaker>||:She just had herself.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:She just had herself.
 NPC-AK12Mod(11)<Speaker>AK-12</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-12 stares at the door, which AK-15 has taken off its hinges, and the car with the smashed windshield.
 ()<Speaker></Speaker>||:It is already dusk. The sun setting in the distance casts a long streak of blood red shadow on the ground... just like another cocktail.

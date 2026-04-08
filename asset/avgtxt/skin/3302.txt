@@ -3,18 +3,18 @@
 AK12(0)<Speaker>AK-12</Speaker>||:...Oh, it's you. Well? Do you have it? Is the source credible? Good. +Then as we previously agreed...you have a deal.
 ()||<SE1>AVG_tele_disconnect</SE1>:...Transmission terminated.
 AK12(0)<Speaker>AK-12</Speaker>||:...Now I just need to let Ange know about this. The rest will be a piece of cake after that.
-AN94(5)<Speaker>AN-94</Speaker>||:AK-12?
+AN94(5)<Speaker>АН-94</Speaker>||:AK-12?
 AK12(0)<Speaker>AK-12</Speaker>||:You're right on time, not even a second late.
-AK12(0);AN94(0)<Speaker>AN-94</Speaker>||:I did not want to make you wait. +Who were you talking to just now? I've been corresponding with Ange on my way here so I wasn't listening.
+AK12(0);AN94(0)<Speaker>АН-94</Speaker>||:I did not want to make you wait. +Who were you talking to just now? I've been corresponding with Ange on my way here so I wasn't listening.
 AK12(0)<Speaker>AK-12</Speaker>;AN94(0)||:It wasn't important. +I was just preparing a small surprise.
-AK12(0);AN94(0)<Speaker>AN-94</Speaker>||:Surprise...for whom?
+AK12(0);AN94(0)<Speaker>АН-94</Speaker>||:Surprise...for whom?
 AK12(0)<Speaker>AK-12</Speaker>;AN94(0)||:For you, for me, and possibly for more people.
-AK12(0);AN94(5)<Speaker>AN-94</Speaker>||:What do you mean...?
+AK12(0);AN94(5)<Speaker>АН-94</Speaker>||:What do you mean...?
 AK12(0)<Speaker>AK-12</Speaker>||:You'll find out soon enough. +But now isn't the time to worry about that. Weather conditions are deteriorating and the Collapse Fluid radiation concentration has started climbing again in the last two hours. +Until the sun comes up, you'll need to keep an eye on the direction of...
 ()||:Once AK-12 starts the briefing, AN-94 immediately straightens her posture and snaps into focus. As she listens, she syncs her tactical maps with AK-12's neural cloud and updates her data.
-AN94(0)<Speaker>AN-94</Speaker>||:...Roger that. +Then as per the original plan, I will be in charge of gathering data and guarding the outpost from 0200 to 0600.
+AN94(0)<Speaker>АН-94</Speaker>||:...Roger that. +Then as per the original plan, I will be in charge of gathering data and guarding the outpost from 0200 to 0600.
 AK12(0)<Speaker>AK-12</Speaker>||:Bear in mind that we're retreating from this area with Ange at 0615 sharp. Pack everything beforehand so we can move without delay.
-AN94(0)<Speaker>AN-94</Speaker>||:I will do my best to carry out my mission.
+AN94(0)<Speaker>АН-94</Speaker>||:I will do my best to carry out my mission.
 ()||:After taking over from AK-12, AN-94 directs her focus on the measuring device. +Meanwhile, AK-12 makes for the underground bunker. +Before she goes, she turns back and watches as AN-94 somberly goes about her work.
 AK12(0)<Speaker>AK-12</Speaker>||<SE2>AVG_door_elecport</SE2><黑屏1>:Apart from the surprise, perhaps I should also make her more...flexible.
 ()<Speaker></Speaker>||<BIN>97</BIN><Night><黑屏2><BGM>BGM_Moon</BGM>:Night has fallen for a while and the stars are embroidered into the tapestry of the inky sky. Usually, the party would have come to and end by now.
@@ -96,22 +96,22 @@ AK12(10)<Speaker>AK-12</Speaker>||<BGM>BGM_Empty</BGM>:But you and your T-Dolls 
 AK12(11)<Speaker>AK-12</Speaker>||:...Any second now.
 ()||:Perched on a suitcase, AK-12 checks the time and sees that AN-94 will soon show up. +She's right – AN-94 rushes into the parking lot in her high heels, pushing a large suitcase of her own, precisely five minutes after the end of the cocktail party.
 AK12(11)<Speaker>AK-12</Speaker>||:Hey.
-AK12(11);AN94(8)<Speaker>AN-94</Speaker>||:AK-12...what is going on? Didn't you tell me to come to the cocktail party alone? +When I saw you at the venue, I thought it wasn't a good idea to question you in public so I didn't say anything...
+AK12(11);AN94(8)<Speaker>АН-94</Speaker>||:AK-12...what is going on? Didn't you tell me to come to the cocktail party alone? +When I saw you at the venue, I thought it wasn't a good idea to question you in public so I didn't say anything...
 AK12(11)<Speaker>AK-12</Speaker>;AN94(8)||:I did say I had a "surprise" for you.
-AK12(11);AN94(8)<Speaker>AN-94</Speaker>||:Still, that kind of joke was a bit too...
+AK12(11);AN94(8)<Speaker>АН-94</Speaker>||:Still, that kind of joke was a bit too...
 AK12(11)<Speaker>AK-12</Speaker>||:You don't have to worry about anything. You didn't lose my body.
 ()||:AN-94 was going to press the matter, but what AK-12 just said has left her dumbfounded. She stands there like a statue, her jaws slack in shock.
-AN94(8)<Speaker>AN-94</Speaker><Shake>||:W...when did you find out?
+AN94(8)<Speaker>АН-94</Speaker><Shake>||:W...when did you find out?
 AK12(11)<Speaker>AK-12</Speaker>;AN94(8)||:Since the very beginning, duh. +Asking Ange to get you an invitation, sending you to the cocktail party – all my idea.
-AK12(11);AN94(8)<Speaker>AN-94</Speaker>||:I'm really sorry for touching your spare body...
+AK12(11);AN94(8)<Speaker>АН-94</Speaker>||:I'm really sorry for touching your spare body...
 AK12(11)<Speaker>AK-12</Speaker>;AN94(8)||:Don't worry about it. Despite being a stiff, inflexible block of wood, you still take me by surprise sometimes.
-AK12(11);AN94(8)<Speaker>AN-94</Speaker>||:...I don't understand.
+AK12(11);AN94(8)<Speaker>АН-94</Speaker>||:...I don't understand.
 AK12(11)<Speaker>AK-12</Speaker>;AN94(8)||:You don't have to. Do I look like I understand what you've been up to today?
-AK12(11);AN94(8)<Speaker>AN-94</Speaker>||:Even you have things you don't understand?
+AK12(11);AN94(8)<Speaker>АН-94</Speaker>||:Even you have things you don't understand?
 AK12(11)<Speaker>AK-12</Speaker>;AN94(8)||:Sure I do, like some things about Ange...and that Griffin Commander... +You may even join the list of unfathomable things in the future depending on how it goes.
-AK12(11);AN94(8)<Speaker>AN-94</Speaker>||:But as your backup unit, if there are things about me that perplex you, won't it create factors of uncertainty in battle?
+AK12(11);AN94(8)<Speaker>АН-94</Speaker>||:But as your backup unit, if there are things about me that perplex you, won't it create factors of uncertainty in battle?
 AK12(11)<Speaker>AK-12</Speaker>||:Having analyzed something completely doesn't guarantee correct understanding. The world doesn't consist of things that are all either 0 or 1. It's far more important to be able to navigate the hazy gray area in between than to have accurate computation capabilities. +Now your neural cloud is becoming more complex and harder for me to fathom. That's a good sign - it proves that you've grown. +So, did you have fun at the cocktail party? Have you learned how to relax?
 ()||:AN-94 stands there in a daze. She closes her eyes and seems to be replaying everything she's been through during the evening in her head. +AK-12 doesn't interrupt and patiently waits for her to gather her thoughts. +After a long time, AN-94 opens her eyes, a small smile creeping onto her emotionless face.
-AN94(10)<Speaker>AN-94</Speaker>||:I guess so, but I'm not entirely sure.
+AN94(10)<Speaker>АН-94</Speaker>||:I guess so, but I'm not entirely sure.
 ()||:AK-12 covers her mouth and chuckles at that answer.
 AK12(11)<Speaker>AK-12</Speaker>||<黑屏1>:Very good. I'm glad you're finally catching up to me. From now on, we can give Ange and the Commander double the headache.

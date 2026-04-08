@@ -4,13 +4,13 @@
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:...
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:Wanna bet?
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:20 minutes.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:What are you talking about?
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:What are you talking about?
 AK15(6)<Speaker>AK-15</Speaker>||:...They're guessing how long Ange will stay like this.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Huh... +I'm surprised you can tell what's going on.
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Huh... +I'm surprised you can tell what's going on.
 AK15(6)<Speaker>AK-15</Speaker>||:This kind of nonsense is not uncommon with RPK.
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:It's not like we have anything to do. +Miss Ange has been like that for almost two hours. +She looks just like one of those somber Buddha statues in an old temple.
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:It's understandable. +We're in quite a bit of a pickle right now, after all.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:A pickle?
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:A pickle?
 AK15(6)<Speaker>AK-15</Speaker>||:...
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Look at you, 15, quietly blending back into the background when the subject grows complex. +You need to be more of a team player, you know.
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:Thanks to our previous good deed of the day, the whole world now has their eyes on Griffin and Ange. +Everyone wants to know what happened in "that base" and the truth behind "that tech". +People of all kinds, nefarious or otherwise. +I'm sure we're being watched very closely.
@@ -22,7 +22,7 @@ AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:But let's come back
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:"Abandon all hope," +"Ye who enter here." +Or so they say.
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:Stop quoting poems out of context. +Come to think of it, how goes the "pest extermination"?
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:I removed twelve from the room and nine outside. +The signal transmission and audio pickup are top of the line—that's German engineering for you. +Maybe I should ask Mr. K to get me some more the next time I see him?
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:It's supposed to be a safe house... I did not expect to find so many bugs.
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:It's supposed to be a safe house... I did not expect to find so many bugs.
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:Which just goes to show that even those who look nice and friendly can be up to no good. +So have you disabled them all?
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:I've combed the whole place from floor to ceiling, but who knows?
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:It's not necessarily a bad thing even if you leave a bug or two. +If there's anything you want, just inform our eavesdropping friends. +They may have it delivered right away.
@@ -32,7 +32,7 @@ NPC-Ange(2)<Speaker>Angelia</Speaker>||:...You are exactly right.
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Oh, the Buddha is awake.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Besides, we've suffered great losses, and M4A1 is still MIA. +The Griffin Commander also needs time to recover. +We can't expect much help from them right now. +Or from the Stasi. +There is not a single person we can trust in this city.
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:I admire how effortlessly you just swanned your way into the conversation.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Not even Madam Ulrich?
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Not even Madam Ulrich?
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:She may actually be genuine in her desire to help us. +But her position makes it impossible for her act according to her own wishes.
 AK15(6)<Speaker>AK-15</Speaker>||:...
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:What is it?
@@ -50,7 +50,7 @@ NPC-Ange(2)<Speaker>Angelia</Speaker>||:What's with this institute?
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:The Commander has discovered some crates that might have originated from Germany. +Havier's people cross-referenced them with reports from other locations, and the contents are very likely to be Epiphylla filled with Collapse Fluid radiation particles. +As contamination sources, these crates have already wiped out several human settlements in the Yellow Zone. +I believe these coordinates that Havier just sent us are where the crates were dispatched from.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:...Epiphylla. +Looks like our first clue has just presented itself.
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:And I was just saying we didn't have one. +Break time's over, 94.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position>||:Understood.
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position>||:Understood.
 ()||:Knock knock.
 RPK16(7)<Speaker>RPK-16</Speaker><Position>0,-70</Position>||:Oh, my burger is here. +Well, this trip isn't looking so bad after all.
 NPC-Ange(2)<Speaker>Angelia</Speaker>||<黑屏1>:Stop fooling around. Disable the rest of the bugs and call Morridow. +Time to start our investigation.

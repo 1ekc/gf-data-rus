@@ -8,9 +8,9 @@ RPK16(0);AK15(0)<Speaker>AK-15</Speaker>||:You're talking less. +Than usual.
 RPK16(4)<Speaker>RPK-16</Speaker>;AK15(0)||:Oh my, does that bother you? +How unexpected. I thought you didn't like me.
 RPK16(4);AK15(0)<Speaker>AK-15</Speaker>||:It will jeopardize our mission if you are not in optimal condition. +Besides, you are the leader right now.
 RPK16(0)<Speaker>RPK-16</Speaker>;AK15(0)||:"Acting" leader... Jeez, 12 left me with the worst possible job at the worst possible time.
-RPK16(0);AN94(4)<Speaker>AN-94</Speaker>||:It means she trusts you.
+RPK16(0);AN94(4)<Speaker>АН-94</Speaker>||:It means she trusts you.
 RPK16(5)<Speaker>RPK-16</Speaker>;AN94(4)||:That is definitely the second largest mistake she has made in her life.
-AN94(4)<Speaker>AN-94</Speaker>||:Nonsense. I think you are a wonderful... Second largest?
+AN94(4)<Speaker>АН-94</Speaker>||:Nonsense. I think you are a wonderful... Second largest?
 NPC-Ange(0)<Speaker>Ange</Speaker>||:What's her largest mistake then?
 NPC-Ange(0);RPK16(0)<Speaker>RPK-16</Speaker>||:That is a little secret between 12 and me. +So, Ange, let me ask you one last time. +Are you really doing this?
 NPC-Ange(0)<Speaker>Ange</Speaker>;RPK16(0)||:If you don't want to come, you can stay here with 94.
@@ -20,9 +20,9 @@ NPC-Ange(0)<Speaker>Ange</Speaker>;NPC-Light(0)||:How many people do you have wi
 NPC-Ange(0);NPC-Light(0)<Speaker>Light</Speaker>||:Not many; they're all agents in my cohort. +All trustworthy. +Also...I haven't told them any specific details. +They only know that they'll be playing sentry.
 NPC-Ange(0)<Speaker>Ange</Speaker>;NPC-Light(0)||:Good... You'll just have to stay outside and keep a lookout for me. +I won't make things difficult for you. If your superior demands an explanation from you, just pile it all on me.
 NPC-Light(3)<Speaker>Light</Speaker>||:It's okay, we're all prepared to live with the consequences. +Will Miss AN-94 be working with us?
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(3)||:Yes, I will also be standing guard outside the mansion with everyone from the Stasi. +In case of an emergency.
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(3)||:Yes, I will also be standing guard outside the mansion with everyone from the Stasi. +In case of an emergency.
 AN94(0);NPC-Light(0)<Speaker>Light</Speaker>||:The grouping is different this time. +Last time you stayed behind, Miss Ange tossed me aside.
-AN94(0)<Speaker>AN-94</Speaker>;NPC-Light(3)||:That won't happen again. +RPK needs to go in because we can't be sure if there will be any secret mechanisms or electronic installations in the mansion. +Don't worry, I will do my best to keep you all safe.
+AN94(0)<Speaker>АН-94</Speaker>;NPC-Light(3)||:That won't happen again. +RPK needs to go in because we can't be sure if there will be any secret mechanisms or electronic installations in the mansion. +Don't worry, I will do my best to keep you all safe.
 NPC-Light(3)<Speaker>Light</Speaker>||:That's not what I mean... Besides, we can handle ourselves just fine. +We look forward to working alongside you, Miss AN-94.
 NPC-Ange(0)<Speaker>Ange</Speaker>||:We don't have much time. Light, have your men seal off the mansion. Don't let even a single fly in. +15, 16.
 ()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:Ka-chak.

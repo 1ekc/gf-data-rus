@@ -14,10 +14,10 @@
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN><SE1>AVG_whitenoise</SE1><common_effect>%%code=CJ_zidan%%</common_effect>:A pair of crimson eyes flash sharply in the dark. +A torrent of incoming data are being sorted and categorized rapidly. +She is no longer in the old mansion. This is another new beginning.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||:She is a wolf. A wolf's eyes are made for hunting.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:How do you feel, AK-15?
+AN94MOD(0)<Speaker>АН-94</Speaker>||:How do you feel, AK-15?
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...Very good.
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Her eyes shift onto her colleague and quickly take in her new body. +...Evidently, she has received an upgrade.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:How are your... eyes?
+AN94MOD(0)<Speaker>АН-94</Speaker>||:How are your... eyes?
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
 ()<Speaker></Speaker>||:The mechanical eyes scan the entire room steadily. +Everything appears as usual to her vision, where everything is tinged with red.
 ()||<黑屏1>:

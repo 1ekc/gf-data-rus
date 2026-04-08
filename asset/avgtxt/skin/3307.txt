@@ -44,7 +44,7 @@ G28(6)<Speaker>Gr G28</Speaker>||<黑屏1>:Hm? +Well, if you say so, Commander. 
 ()<Speaker>AK-12</Speaker>||<黑屏1><BGM>BGM_Brain</BGM>:What's the matter? It's your turn again. +I hope you don't disappoint me, considering you said you'd turn the tables next time.
 G28(6)<Speaker>Gr G28</Speaker>||<黑屏2><BIN>139</BIN>:(Whimpers) +I... I'll check.
 AK12(11)<Speaker>AK-12</Speaker>||:Don't mind if I do, then. +I raise 1000.
-AN94(10)<Speaker>AN-94</Speaker>||:I call.
+AN94(10)<Speaker>АН-94</Speaker>||:I call.
 G28(6)<Speaker>Gr G28</Speaker>||:1000?!+<color=#A9A9A9>(That's...more chips than I have on hand...)</color>+<color=#A9A9A9>(Is K2 our only hope for this round?)</color>
 K2(4)<Speaker>K2</Speaker>||:...I fold.
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#A9A9A9>(Huh?)</color>
@@ -53,7 +53,7 @@ G28(6)<Speaker>Gr G28</Speaker>||:Don't call me a green-haired little girl! I've
 ()<Speaker></Speaker>||:...
 G28(6)<Speaker>Gr G28</Speaker>||:I... I fold.
 AK12(11)<Speaker>AK-12</Speaker>||:Giving up so soon? How boring. +Show your hand, AN-94.
-AN94(10)<Speaker>AN-94</Speaker>||:A pair of 9s.
+AN94(10)<Speaker>АН-94</Speaker>||:A pair of 9s.
 AK12(11)<Speaker>AK-12</Speaker>||:I only have a pair of 5s. +You win this round, AN-94.
 G28(6)<Speaker>Gr G28</Speaker>;AK12(11)||:So the two of you...only had a pair each? +Then if I hadn't folded just now...
 G28(6);AK12(11)<Speaker>AK-12</Speaker>||:If you had been willing to bet everything you had, you would have won this round. +Nothing ventured, nothing gained. That's perfectly normal, isn't it?
@@ -68,7 +68,7 @@ K2(4);G28(6)<Speaker>Gr G28</Speaker>||:(Groans) The Commander must've thought u
 K2(4)<Speaker>K2</Speaker>;G28(6)||:If only we could find another person, we might have a chance... +But where are we going to find someone who's willing to stand up against those two...
 G28(6)<Speaker>Gr G28</Speaker>||:Watch me. We've got lots of people here tonight, so surely we'll be able to find someone. +You two don't mind, right?
 AK12(11)<Speaker>AK-12</Speaker>||:Not at all.
-AN94(10)<Speaker>AN-94</Speaker>||:The difference between us is such that it doesn't matter who Griffin adds.
+AN94(10)<Speaker>АН-94</Speaker>||:The difference between us is such that it doesn't matter who Griffin adds.
 G28(6)<Speaker>Gr G28</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:Hmph! Just you wait!
 G28(6)<Speaker>Gr G28</Speaker>||<BGM>BGM_Room</BGM><黑点2>:Urgh... +After ruling out the kids, the ones you can't communicate with, and the sarcastic ones...
 G28(6)<Speaker>Gr G28</Speaker>||<震屏><黑屏1>:There really isn't anyone left! +Why wasn't Springfield here for this... +...
@@ -112,7 +112,7 @@ HK416(4)<Speaker>???</Speaker>||<黑屏1>:...That's enough, AK-12. +I'm not inte
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2>:...At the card table.
 K2(4)<Speaker>K2</Speaker>||<BGM>BGM_Room</BGM>:...
 G28(6)<Speaker>Gr G28</Speaker>||:...
-AN94(10)<Speaker>AN-94</Speaker>||:I previously said that it did not matter which Griffin Doll came over. Allow me to take those words back.
+AN94(10)<Speaker>АН-94</Speaker>||:I previously said that it did not matter which Griffin Doll came over. Allow me to take those words back.
 HK416(4)<Speaker>???</Speaker>||:Cut the crap.
 AK12(11)<Speaker>AK-12</Speaker>||:So we're starting at 20000 chips? +Then let's continue. Deal.
 K2(4)<Speaker>K2</Speaker>||:<size=34>Gr G28...who's this?</size>
@@ -168,13 +168,13 @@ K2(4)<Speaker>K2</Speaker>||:We won't fall for that!
 AK12(11)<Speaker>AK-12</Speaker>||:Very good. I'm starting to look forward to the final result. +Then let's begin the final round.
 ()<Speaker></Speaker>||:...
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#00CCFF>Haha...the cards I drew at the end are...a 2 of Spades and an 8 of Spades...</color>+<color=#A9A9A9>(Why did it have to be these two numbers...)</color>+<color=#A9A9A9>(If these are my last two cards...then there's no chance of me turning the tables!)</color>
-AN94(10)<Speaker>AN-94</Speaker>||:Flop.
+AN94(10)<Speaker>АН-94</Speaker>||:Flop.
 ()<Speaker></Speaker>||:Three cards are revealed in order. +A 4 of Hearts. +A 4 of Hearts and a 9 of Spades. +A 4 of Hearts, a 9 of Spades and a Jack of Spades.
 K2(4)<Speaker>K2</Speaker>||:Hehe... I've got a pair of Jacks on hand, I'm bound to win the final set!
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#A9A9A9>(As I thought... there's no hope for me after all...)</color>
 AK12(11)<Speaker>AK-12</Speaker>||:I'll raise by 7000.
 K2(4)<Speaker>K2</Speaker>||:Eh? +Ehhhhhh—?
-AN94(10)<Speaker>AN-94</Speaker>||:I fold.
+AN94(10)<Speaker>АН-94</Speaker>||:I fold.
 HK416(4)<Speaker>Miss Edelweiss</Speaker>||:I call.
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#A9A9A9>(She doesn't even care about K2's Jacks...that must mean she has a hole card that can win...)</color>
 K2(4)<Speaker>K2</Speaker>||:I...fold.
@@ -184,7 +184,7 @@ G28(6)<Speaker>Gr G28</Speaker>||<CGDelay>0.3</CGDelay>:<color=#A9A9A9>(Even Mis
 G28(6)<Speaker>Gr G28</Speaker>||<CGDelay>0.3</CGDelay>:<color=#A9A9A9>("If AK-12 immediately raises the stakes in the first round, the odds that she's bluffing are—")</color>
 G28(6)<Speaker>Gr G28</Speaker>||:I call.
 AK12(11)<Speaker>AK-12</Speaker>||:Oh?
-AN94(10)<Speaker>AN-94</Speaker>||:Flop.
+AN94(10)<Speaker>АН-94</Speaker>||:Flop.
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:The 4th card is flipped up. +...It is a Queen of Spades. +This makes a 4 of Hearts, a 9 of Spades, a Jack of Spades and a Queen of Spades.
 G28(6)<Speaker>Gr G28</Speaker>||<BGM>BGM_Reverse</BGM><震屏>:<color=#A9A9A9>(Is this...a straight flush?)</color>
 AK12(11)<Speaker>AK-12</Speaker>||:...I'll raise by 8000.
@@ -194,7 +194,7 @@ HK416(4)<Speaker>Miss Edelweiss</Speaker>||:It's nothing.
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#A9A9A9>(I knew it!)</color> +I call.
 AK12(11)<Speaker>AK-12</Speaker>||:...
 G28(6)<Speaker>Gr G28</Speaker>||:<color=#A9A9A9>(This is the 4th card, if the last one is a 10 of Spades...)</color>
-AN94(10)<Speaker>AN-94</Speaker>||:We'll open the river, this is the last card.
+AN94(10)<Speaker>АН-94</Speaker>||:We'll open the river, this is the last card.
 ()<Speaker></Speaker>||:And the fifth card— +Is a 10 of Spades. +That makes a 4 of Hearts, a 9 of Spades, a 10 of Spades, a Jack of Spades and a Queen of Spades.
 G28(6)<Speaker>Gr G28</Speaker>||<震屏>:...ARGHHHH!
 G28(6);AK12(11)<Speaker>AK-12</Speaker>||:...Pffft. +Cards like these are very suitable for a showdown. +Let me guess, given that you've hung in there until the very end, that means you've got four to five cards of the same suit. +Or perhaps...a straight flush?

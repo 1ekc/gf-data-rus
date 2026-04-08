@@ -296,7 +296,7 @@ NPC-MrsGray(7)<Speaker>Gray</Speaker>||:...We won't see each other again.
 ()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><BIN>447</BIN><黑点2><BGM>BGM_Empty</BGM>:The elevator doors slowly slide open.
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||:...?!
 ()<Speaker></Speaker>||:Her smile freezes on her face when she sees what's inside the elevator.
-AN94MOD(0)<Speaker>AN-94</Speaker>||<SE1>Select</SE1>:...
+AN94MOD(0)<Speaker>АН-94</Speaker>||<SE1>Select</SE1>:...
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1><BIN>9</BIN>:Bang!
 ()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Body</SE1>:A bullet hits her squarely in the center of her forehead.
 NPC-MrsGray(7)<Speaker>Gray</Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:...
@@ -313,7 +313,7 @@ NPC-MrsGray(7)<Speaker>Gray</Speaker>||:...Grig!
 NPC-grig(0)<Speaker>Grig</Speaker>||:Gray!
 ()||<白屏1>:
 ()<Speaker></Speaker>||<白屏2><BIN>446</BIN><SE1>AVG_whitenoise</SE1>:But the next second, Grig's figure melts into a gray blur again.
-AN94MOD(0)<Speaker>AN-94</Speaker>||<SE1>ClothingUp</SE1>:...
+AN94MOD(0)<Speaker>АН-94</Speaker>||<SE1>ClothingUp</SE1>:...
 ()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:Bang!
 ()<Speaker>Grig</Speaker>||:<size=50>Gray?!</size>
 NPC-MrsGray(7)<Speaker>Gray</Speaker><Shake>0.1</Shake>||<SE1>AVG_Bullet_Hit_Body</SE1>:—!
@@ -535,29 +535,29 @@ RO635Mod(4)<Speaker>RO635</Speaker>||:<size=50>Promise me!!!</size> +<size=50>Yo
 ()<Speaker></Speaker>||:With all the strength she can muster... she runs... like a bat out of hell...
 ()||<黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<黑屏2><<BIN>446</BIN>:...Meanwhile.
-AN94MOD(0)<Speaker>AN-94</Speaker>||<BGM>GF_22W_BGM_3</BGM>:The one who just flew past was "Grig"?
+AN94MOD(0)<Speaker>АН-94</Speaker>||<BGM>GF_22W_BGM_3</BGM>:The one who just flew past was "Grig"?
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:...She got away.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:No point in chasing a cornered foe. Don't lose sight of the mission, 15.
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:No point in chasing a cornered foe. Don't lose sight of the mission, 15.
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:Right.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||<SE1>AVG_keyboardtype_sci</SE1>:Mission accomplished. +Target—Mrs. Gray. +Kill confirmed.
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||<SE1>AVG_keyboardtype_sci</SE1>:Mission accomplished. +Target—Mrs. Gray. +Kill confirmed.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:Should we give Umbrella a hand?
-AN94MOD(0)<Speaker>AN-94</Speaker>||:Let me contact them...
+AN94MOD(0)<Speaker>АН-94</Speaker>||:Let me contact them...
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:After a pause, AN-94 frowns slightly.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:What is it?
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:No signal.
+AN94MOD(0)<Speaker>АН-94</Speaker>;AK15MOD(0)||:No signal.
 AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:...What should we do?
-AN94MOD(0)<Speaker>AN-94</Speaker>||:We stick to the plan and enter the Eastern Tower. +Then...
+AN94MOD(0)<Speaker>АН-94</Speaker>||:We stick to the plan and enter the Eastern Tower. +Then...
 ()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1><BGM>BGM_Empty</BGM>:Tap.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:—!
-AN94MOD(0)<Speaker>AN-94</Speaker>||:—!
+AN94MOD(0)<Speaker>АН-94</Speaker>||:—!
 ()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Whoosh! +The sound is barely audible. +But it is conspicuous enough to the two T-Dolls, who are constantly on their guard.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...15.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...15.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:Nyto.
 ()<Speaker></Speaker>||:After a brief and concise exchange, they are both aware of the situation.
 ()<Speaker></Speaker>||:AK-15's crimson eyes gleam as she looks warily at the door that she demolished earlier.
 ()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake><BGM>10244</BGM>:A stranger makes a graceful descent from the upper floor, yet something about her seems oddly familiar.
 NPC-MorridowNew(2)<Speaker>???</Speaker><GradientShow>3</GradientShow>||:It's been a while, Frauen Erwin and Antje. +Have you missed me?
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...I don't believe we've met.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...I don't believe we've met.
 NPC-MorridowNew(2)<Speaker>???</Speaker>||:Oh my.
 ()<Speaker></Speaker>||<SE1>AVG_Gray_Hand_Mech</SE1>:The Nyto interjects with disappointment, then she takes off her mask. +She looks expectantly again at the two Dolls.
 NPC-MorridowNew(1)<Speaker>Morridow</Speaker>||:How about n—
@@ -565,10 +565,10 @@ NPC-MorridowNew(1)<Speaker>Morridow</Speaker>||:How about n—
 ()<Speaker></Speaker>||:Before she can finish her sentence, the Dolls pull their trigger almost simultaneously.
 ()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1>:The Nyto deflects the bullets effortlessly and smiles.
 AK15MOD(0)<Speaker>AK-15</Speaker>||:...
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...Morridow.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:...Morridow.
 ()<Speaker></Speaker>||:AN-94 spits out her name through gritted teeth. +That face... slowly overlaps with another in her neural cloud. The face of someone once close to them.
 NPC-MorridowNew(1)<Speaker>Morridow</Speaker>||:I have been waiting for this day for a very, very long time. +Frau Erwin, Frau Antje.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:Likewise... +Seeing you means I'm getting closer to my target.
+AN94MOD(0)<Speaker>АН-94</Speaker>||:Likewise... +Seeing you means I'm getting closer to my target.
 ()<Speaker></Speaker>||:Morridow smiles happily at AN-94's reply.
 NPC-MorridowNew(1)<Speaker>Morridow</Speaker>||:Fantastic. This is truly wonderful. +I hope... we are all satisfied with this reunion.
 AK15MOD(0)<Speaker>AK-15</Speaker>||<SE1>Select</SE1>:...

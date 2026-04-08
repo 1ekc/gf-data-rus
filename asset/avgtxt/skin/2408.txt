@@ -54,38 +54,38 @@ SPAS12(2)<Speaker>SPAS-12</Speaker>||:Me. I'm the last one.
 AK12(7)<Speaker>AK-12</Speaker>||:Ah... Miss SPAS-12, hmm? I've been looking forward to this.
 指挥官()<Speaker>Commander</Speaker>||:Did SPAS-12 run into Task Force DEFY before this? The look in her eyes is a little different from the usual. +She looks pretty serious, you don't see that often. Don't tell me—
 ()||<闪屏><duration>15</duration></闪屏>:...Bang!
-AN94(6)<Speaker>AN-94</Speaker>||:AK-12 scores.
+AN94(6)<Speaker>АН-94</Speaker>||:AK-12 scores.
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:B-but why?!
 AK12(7)<Speaker>AK-12</Speaker>||:SPAS-12, when this sort of thing happens, the point goes to the opposition.
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:R-really?
 ()||:SPAS-12 looks back to me, but all I can do is smile sadly and shrug. +As I thought... However motivated SPAS-12 is, she's going to lose out if she doesn't know the rules well enough. +Even so—
 ()||<闪屏><duration>15</duration></闪屏>:...Bang!
-AN94(6)<Speaker>AN-94</Speaker>||:SPAS-12 scores.
+AN94(6)<Speaker>АН-94</Speaker>||:SPAS-12 scores.
 AK12(7)<Speaker>AK-12</Speaker>||:Oh my...
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:Humph! I already know what to do!
 ()||<BGM>BGM_Room</BGM>:SPAS-12...is surprisingly strong. +Ah, no, it's not that surprising. +Now that I think about it, she really is suited for simple, rough physical labor. +It's not like she's stupid, but rather...
 ()||<闪屏><duration>15</duration></闪屏>:...Bang!
-AN94(6)<Speaker>AN-94</Speaker>||:AK-12 scores.
+AN94(6)<Speaker>АН-94</Speaker>||:AK-12 scores.
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:Dammit...
 ()||:SPAS-12...doesn't really want to give things too much thought. +She has a different approach to many things compared to most other T-Dolls.
 ()||<闪屏><duration>15</duration></闪屏>:...Bang!
 ()||:What does she care about? +A name? A surfboard? Or a match? +She's always smiling, but the truth is...I don't really understand her...
 ()||<闪屏><duration>15</duration></闪屏>:...Bang!
-AN94(6)<Speaker>AN-94</Speaker>||:SPAS-12 scores.
+AN94(6)<Speaker>АН-94</Speaker>||:SPAS-12 scores.
 AK12(7)<Speaker>AK-12</Speaker>||:You seem quite serious. That's somewhat different from my initial impression of you.
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:(Pants) And how much...do you know about me?
 AK12(7)<Speaker>AK-12</Speaker>||:You like eating.
 ()||<闪屏><duration>15</duration></闪屏>:...Bang!
-AN94(6)<Speaker>AN-94</Speaker>||:AK-12 scores.
+AN94(6)<Speaker>АН-94</Speaker>||:AK-12 scores.
 AK12(7)<Speaker>AK-12</Speaker>||:You're worried about your weight.
 ()||<闪屏><duration>15</duration></闪屏>:...Bang!
-AN94(6)<Speaker>AN-94</Speaker>||:AK-12 scores.
+AN94(6)<Speaker>АН-94</Speaker>||:AK-12 scores.
 AK12(7)<Speaker>AK-12</Speaker>||:So, am I right about those?
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:Haha... Well, you're not wrong...
 AK12(7)<Speaker>AK-12</Speaker>||:What are you laughing about?
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:Well...
 ()||<闪屏><duration>15</duration></闪屏>:...Bang!
-AN94(6)<Speaker>AN-94</Speaker>||:SPAS-12 scores.
+AN94(6)<Speaker>АН-94</Speaker>||:SPAS-12 scores.
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:...I'm glad that you know only so much about me.
 AK12(7)<Speaker>AK-12</Speaker>||:What else should I know, then?
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:What you should know is...I've already got this game figured out.
@@ -94,19 +94,19 @@ AK12(7)<Speaker>AK-12</Speaker>||:..Oh?
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:All you need...is brute force!
 ()||<闪屏><duration>15</duration></闪屏><BIN>9</BIN><BGM>BGM_Empty</BGM>:BANG!
 ()||:...
-AN94()<Speaker>AN-94</Speaker>||:...
+AN94()<Speaker>АН-94</Speaker>||:...
 SPAS12()<Speaker>SPAS-12</Speaker>||:Er...
 AK12()<Speaker>AK-12</Speaker>||:Oh dear... +What should we do? I didn't expect this at all...
 ()||<黑屏1><BGM>BGM_Hello</BGM>:Frankly speaking, it's not like I didn't see this coming...
 SPAS12(2)<Speaker>SPAS-12</Speaker>||<黑屏2><BIN>162</BIN>:Commander... +Who gets the point if you burst the ball?
-AN94(6)<Speaker>AN-94</Speaker>||:My neural cloud doesn't have anything about such a rule, but in theory... Where did it fall, anyway?
+AN94(6)<Speaker>АН-94</Speaker>||:My neural cloud doesn't have anything about such a rule, but in theory... Where did it fall, anyway?
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:But, but! If the ball hadn't burst, it would have fallen on your side, going by its path! +That was my super move, you'd never have been able to stop it!
 ()||:Why are you talking about super moves after just one game?!
 指挥官()<Speaker>Commander</Speaker>||:S-say, the ball isn't entirely on our side, is it? +See? It's more like it's fallen in the middle!
-AN94(6)<Speaker>AN-94</Speaker>||:But...it already touched the net...
+AN94(6)<Speaker>АН-94</Speaker>||:But...it already touched the net...
 SPAS12(2)<Speaker>SPAS-12</Speaker>||:That doesn't prove anything, the ball's corpse fell straight down!
 指挥官()<Speaker>Commander</Speaker>||:(Great work, Sabrina!)
-AN94(6)<Speaker>AN-94</Speaker>||:In that case, we ought to see how much of the ball's carcass is on each side.
+AN94(6)<Speaker>АН-94</Speaker>||:In that case, we ought to see how much of the ball's carcass is on each side.
 指挥官()<Speaker>Commander</Speaker>||:(Very good, that's the outcome we want!)
 ()||:I catch SPAS-12's eye and tap my foot. She immediately gets the message.
 指挥官()<Speaker>Commander</Speaker>||:Ah...Then why don't we take a break first before we calculate the area on both sides? +Oh, P38, you came too?

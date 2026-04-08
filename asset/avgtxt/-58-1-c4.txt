@@ -73,9 +73,9 @@ LAMG(0)<Speaker>Ange</Speaker><Position>0,100</Position><同时置暗>||<黑屏1
 ()||<SE1>ClothingUp</SE1>:Ange takes off her commander's uniform and vaults out of the window of the dormitory building. She avoids the surveillance cameras and slips into the woods. +If all goes according to plan, she will circle around the forested training ground and eventually make it out of the base.
 NPC-Ange(19)<Speaker>Ange</Speaker>||<BGM>10254</BGM>:... +12, are you out of combat?
 NPC-Ange(19);AK12(4)<Speaker>AK-12</Speaker><scan><通讯框>||:<color=#00CCFF>They had absolutely no desire to fight us.</color>
-NPC-Ange(19);AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>They left something behind and left in a hurry.</color>
+NPC-Ange(19);AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>They left something behind and left in a hurry.</color>
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Give me the coordinates and wait for me.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, ma'am.</color>
 ()||:Ange can feel the blood pumping through her veins. +She breathes deeply to keep herself from hyperventilating. +She has been waiting for this for far too long. +The ghost ship that she has been chasing after all these years has finally appeared before her, and she can finally row with its rusted oars...
 M4A1(0)<Speaker>M4A1</Speaker>||:...Commander?
 NPC-Ange(19)<Speaker>Ange</Speaker>||:...
@@ -167,13 +167,13 @@ NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 ()||<SE2>Gunfight</SE2>:But then... Bang-bang-bang! A spray of bullets interrupts her, forcing her to take cover behind a tree.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Such rapid and dramatic changes on the battlefield. One second, we were beating up Griffin Dolls, then we're rescuing the Commander the next.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Cut the crap.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Commander, this way. I'll cover you.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Commander, this way. I'll cover you.
 ()||<SE2>Gunfight</SE2>:Bang-bang-bang! Seizing an opening during the crossfire, Ange links up with the Wolf Pack and retreats toward the edge of the woods.
 M16(5)<Speaker>M16A1</Speaker>||:Capture the Commander! Try not to harm her!
 M16(5)<Speaker>Griffin Doll</Speaker><同时置暗>||:Understood!
 ()||<SE2>Gunfight</SE2>:Bang-bang-bang... As Griffin reinforcements enter the fray, their firepower increases in strength. +Under M16's leadership, the Dolls start breaking through the Wolf Pack's defenses and close in on Ange.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:We can't widen the distance between us and the Griffin squad. Should we take a shortcut and try to shake them off or...?
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:We can't widen the distance between us and the Griffin squad. Should we take a shortcut and try to shake them off or...?
 NPC-Ange(19)<Speaker>Ange</Speaker>||:You two split up. Use me as bait and take them out one by one.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Roger.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Roger.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:So heartless to your former subordinates.
 ()||<黑屏1><SE1>AVG_Team_Running</SE1>:AK-12's flippant voice fades into the distance. Ange can hear the Griffin Dolls' screams as she runs away. +But not once does she look back. She just keeps running, on and on, down this seemingly endless path.

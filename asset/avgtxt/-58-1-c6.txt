@@ -3,21 +3,21 @@ M16(7)<Speaker>M16A1</Speaker>||<黑屏2><BIN>1</BIN>:...
 ()||<BGM>BGM_Sneak</BGM>:M16 lets out a hoarse chuckle, then she slowly lowers her weapon.
 M16(5)<Speaker>M16A1</Speaker>||:I surrender.
 ()||<SE1>ClothingUp</SE1>:Clatter. Her gun falls on the ground, and she raises her arms in resignation. +The Griffin squad has been wiped out, leaving M16 all alone and out of ammo.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Ange, all threats eradicated.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Ange, all threats eradicated.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:What should we do with this one? Any thoughts? +I think we should disassemble her and scatter her parts far away just to be safe...
 M16(7)<Speaker>M16A1</Speaker>||:...
 NPC-Ange(19)<Speaker>Ange</Speaker>||:She's part of the AR Team. She may not survive being taken apart so savagely. +Just immobilize her and disable her comms module.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Roger.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Roger.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Eh, no fun...
 ()||<SE1>AVG_Grey_Hand_Mech</SE1>:AK-12 yawns as she holds M16 down for AN-94 to break her spinal cord. +M16's body slumps. Her face is pressed against the muddy ground, but her eyes remain fixed firmly on Ange.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Anything else you'd like to say?
 M16(5)<Speaker>M16A1</Speaker>||:Commander Angelia, everything could've returned to normal if you had just stayed at the base for a while. +Why must you—
 NPC-Ange(19)<Speaker>Ange</Speaker>||:I've changed my mind. Pull out her language module as well.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Roger.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Roger.
 ()||<SE1>AVG_Grey_Hand_Mech</SE1>:Clatter... +M16 opens her mouth, but no words come out. She can only accept her fate with a grim chuckle.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:We have hidden the other members of the AR Team and sent their coordinates to Persica's mailbox.
 NPC-Ange(19)<Speaker>Ange</Speaker>||<黑点1>:Good. Then let's go. +Take me to where you encountered the strangers.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||<黑点2><BGM>BGM_Empty</BGM>:...This is where we encountered the unidentified enemies.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||<黑点2><BGM>BGM_Empty</BGM>:...This is where we encountered the unidentified enemies.
 NPC-Ange(22)<Speaker>Ange</Speaker>||:... +I've seen these before...
 ()||<BGM>10230</BGM>:The ground is covered in traces of a battle as well as messy footprints, but Ange's eyes overlook them completely and are instead fixed on...
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Ah, I knew that would catch your attention too. +I still don't understand humans very well, but I'm guessing this is some sort of signpost?
@@ -25,12 +25,12 @@ NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 ()||:A grotesque corpse is hoisted up at a non-descript fork on the path. +It is clearly created by sewing parts from multiple human corpses together into a roughly humanoid shape. The monstrosity is pointing at the smaller path with its right hand. +But what has drawn Ange's eyes and kept her transfixed is the wooden sign hanging on the corpse's chest...
 ()||<narrator>:"Angelia, I know you're a murderer."
 AK12(4)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Oh dear, have 94 and I seen something that we shouldn't see? +If you want, we can delete this memory when we're back at the lab.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:... +Ange, do you know who would leave you such a message?
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:... +Ange, do you know who would leave you such a message?
 NPC-Ange(21)<Speaker>Ange</Speaker>||:There are too many possibilities. I can't think of anyone who'd be into such dumb nonsense.
 AK12(4)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Hahaha, looks like we'll end up finding an unexpected nemesis of yours.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:I don't care. +What really bothers me though...
 ()||:Ange recalls the photograph of Novikov's murdered body at the crime scene that the interrogator had shown her. +The familiar signs of torture... The familiar dagger-to-the-neck... +Only someone who knows her extremely well could possibly know about these things, but there is no such person in the world anymore.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Ange?
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Ange?
 NPC-Ange(19)<Speaker>Ange</Speaker>||<黑屏1>:Come. Let's see which debt this nemesis would like to settle with me.
 ()||<黑屏2><BIN>417</BIN>:...
 ()<Speaker>Test Subject</Speaker>||:Captain Ganglati, as you expected, the target has forced her way out of Griffin's encirclement and is heading this way.
@@ -43,33 +43,33 @@ NPC-Pamzan(10)<Speaker>???</Speaker><Position>0,-70</Position>||:That makes it a
 NPC-Pamzan(13)<Speaker>???</Speaker><Position>0,-70</Position>||<黑屏1>:We are finally going to meet, Commander Angelia. +I can hardly wait to grind you into bolognese...
 ()||<黑屏2><BIN>468</BIN><BGM>BGM_Empty</BGM>:Going in the direction pointed by the grotesque signpost, they have had a few encounters with the enemy. +After clearing the battlefield, the Wolf Pack pile several enemy corpses together.
 NPC-Ange(19)<Speaker>Ange</Speaker>||<BGM>10254</BGM>:They look like that signpost.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:They... are neither Doll nor human, but amalgamations of human flesh and machine. +Judging by the human parts, assembly occurred after the humans had died. I don't understand the purpose of creating them... +I also haven't been able to figure out how they are powered.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:They... are neither Doll nor human, but amalgamations of human flesh and machine. +Judging by the human parts, assembly occurred after the humans had died. I don't understand the purpose of creating them... +I also haven't been able to figure out how they are powered.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:So gross.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 ()||:Ange squats down by one of the corpses and studies the camouflage uniform and military insignia on the enemy intently.
 ()||<SE1>ClothingUp</SE1>:She tears its collar open...
 NPC-Ange(22)<Speaker>Ange</Speaker>||:A dog tag...
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:It doesn't seem to be a shoddy counterfeit.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:It doesn't seem to be a shoddy counterfeit.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Ange, you're looking a bit scary.
 ()||:Ange's fingers brush over the insignia etched onto the dog tag.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:It's my old squad.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:From what I know, the unit you were in was disbanded during the disarmament...
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:From what I know, the unit you were in was disbanded during the disarmament...
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Even before that, they were...
 ()||:Ange suddenly falls silent. Her face looks even more grim.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:So, these enemies of unknown origin are dressed and armed like soldiers from a human military unit that no longer exists?
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:But they are human and machine spliced together. +I don't understand the rationale. Neither the appearance of human soldiers nor the spliced parts improve their performance in combat significantly.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:But they are human and machine spliced together. +I don't understand the rationale. Neither the appearance of human soldiers nor the spliced parts improve their performance in combat significantly.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Only a lunatic could do such a thing. +I will not forgive whoever did this...
 ()||:AK-12 flips a corpse over and back again.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:These may just be discarded rejects.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Rejects...
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Rejects...
 NPC-Ange(19)<Speaker>Ange</Speaker>||:From what I can tell, they're all shoddy counterfeits.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Ange, a new signpost.
 ()||<BGM>BGM_Empty</BGM><SE1>AVG_flag</SE1>:Ange looks at where AK-12 is pointing and sees the humanoid signpost in the distant ruins, its decomposing clothing fluttering lightly in the wind.
 NPC-Ange(19)<Speaker>Ange</Speaker>||<BGM>10256</BGM>:Let's go.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Should we do anything with the dog tags?
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Should we do anything with the dog tags?
 NPC-Ange(19)<Speaker>Ange</Speaker>||:No, just let them rot here.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Okay.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Okay.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Ange, the abandoned city is just ahead. Radiation levels are high, and so is the risk of ambush. How do we proceed?
 NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 ()||:Ange scans the ruins coldly. Her lips slowly curl into a cruel smile.
@@ -77,44 +77,44 @@ NPC-Ange(20)<Speaker>Ange</Speaker>||:A perfect stage for vengeance, don't you t
 ()||:Ange takes the lead and slides down the slope. Under the Wolf Pack's cover, she makes for the signpost in the ruins. +Written on the wooden sign is...
 ()||<narrator>:"Angelia, you killed two."
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Two...
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:That must have narrowed it down significantly. Looks like the enemy is luring us in with such information.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:That must have narrowed it down significantly. Looks like the enemy is luring us in with such information.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Yeah, they must be getting pretty impatient.
 ()||:Ange looks in the direction pointed out by the necrotic signpost... +And finds an abandoned building tilted to one side.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Oh, they desperately want us dead.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Let's keep going.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Ange, I cannot detect the enemies' signals. We mustn't rule out the possibility of an ambush.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Ange, I cannot detect the enemies' signals. We mustn't rule out the possibility of an ambush.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:It's a no-brainer. Prepare for battle.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||<黑屏1>:...Roger.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||<黑屏1>:...Roger.
 ()||<黑屏2><BIN>469</BIN><BGM>BGM_Empty</BGM>:...In the center of the empty foyer stand two corpses. Their wooden signs read...
 ()||<narrator><BGM>GF_21summer_intro_DemonVariation</BGM>:"One who loved me as a brother." +"One whom I loved as a sister."
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:...Are they hinting at the fact that the two deceased had familial ties?
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:...Are they hinting at the fact that the two deceased had familial ties?
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:So our skulking nemesis is a family man.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 ()||<SE1>AVG_lifttable</SE1>:Whoosh! +A corpse falls from a great height and crashes heavily on the floor.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Stay alert!
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Roger!
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Roger!
 ()||<SE1>Select</SE1>:The Wolf Pack raise their weapons in unison. Under AN-94's cover, AK-12 slowly approaches the corpse. +Ange looks up at where it fell from, but there is nothing but empty darkness.
 AK12(0)<Position>0,50</Position><Speaker>AK-12</Speaker>||:The word written on the wooden sign on this corpse is "Sana". Looks like a name.
 NPC-Ange(19)<Speaker>Ange</Speaker>||<黑点1>:...Sana?
 NPC-Sana(1)<Speaker>Sana</Speaker><Position>0,210</Position>||<回忆><黑点2><BIN>534</BIN><黑点1>:Anna...
-AN94(2)<Position>0,50</Position><Speaker>AN-94</Speaker>||<黑点2><BIN>469</BIN><关闭蒙版>:Watch out!
+AN94(2)<Position>0,50</Position><Speaker>АН-94</Speaker>||<黑点2><BIN>469</BIN><关闭蒙版>:Watch out!
 ()||:AN-94 suddenly shoves Ange to one side.
 ()||<SE1>AVG_lifttable</SE1>:Bam! Another corpse falls from above. This time, Ange sees the word clearly for herself.
 ()||<narrator>:"Armin"
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Armin...
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Another name.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Are these the names of the deceased?
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Are these the names of the deceased?
 NPC-Ange(22)<Speaker>Ange</Speaker>||:Sana... Armin...?
 ()||:Ange can clearly feel her own arms trembling as AK-12 helps her to her feet.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:What's the matter with you?
 NPC-Ange(22)<Speaker>Ange</Speaker>||:It's her... It could only be her...
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:You know who is behind this?
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:You know who is behind this?
 NPC-Ange(22)<Speaker>Ange</Speaker>||:Laplace's Demon... You and I are the only ones left who still remember these names...
 ()||<Night><SE1>AVG_Geiger_Counter</SE1>:Click. The light disappears in an instant, as if the sky itself has collapsed.
-AN94(2)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Multiple enemies approaching.
+AN94(2)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Multiple enemies approaching.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Ange, don't stray too far.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:...Do not fire without my permission.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Understood.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Understood.
 ()||<SE1>AVG_footsteps_cave</SE1>:Tap, tap, tap...
 ()||<SE1>AVG_Sword_Scope</SE1>:The sound of echoing footsteps, followed by the ear-splitting groan of some metallic sharp objects scraping against the wall. +A flat voice speaks from above them.
 ()<Speaker>???</Speaker>||:Commander Angelia, we finally meet again.
@@ -125,11 +125,11 @@ NPC-Ange(22)<Speaker>???</Speaker><同时置暗>||:And I shall seek revenge on y
 ()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:Whoosh3 +Something slices through the air and hurtles towards Ange at an incomprehensible speed... +Boom! She feels the earth shake beneath her.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Get down!
 ()<Speaker>???</Speaker>||:Angelia, do you think you can face me the way you are now?
-AN94(2)<Position>0,50</Position><Speaker>AN-94</Speaker>||:The enemy is on the third floor. Ange, please give the order!
+AN94(2)<Position>0,50</Position><Speaker>АН-94</Speaker>||:The enemy is on the third floor. Ange, please give the order!
 NPC-Ange(22)<Speaker>Ange</Speaker>||:... +Get them.
 ()||<黑点1>:Ange spits out two words through gritted teeth.
 ()||<黑点2><BIN>565</BIN><Night><SE2>Gunfight</SE2>:Bang-bang-bang! +Continuous muzzle flashes pierce through the darkness, and Ange starts climbing the stairs under the Wolf Pack's protection. +Upon reaching every level, a horde of countless patchwork corpses swarm toward them from seemingly out of nowhere...
-AN94(2)<Position>0,50</Position><Speaker>AN-94</Speaker>||:We're surrounded!
+AN94(2)<Position>0,50</Position><Speaker>АН-94</Speaker>||:We're surrounded!
 NPC-Ange(22)<Speaker>Ange</Speaker>||:Where did the bastard go?
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:We can't detect the enemy's signal!
 ()<Speaker>???</Speaker>||:Looking for me?
@@ -139,19 +139,19 @@ NPC-Ange(22)<Speaker>???</Speaker><同时置暗>||:Commander Angelia, you disapp
 NPC-Ange(22)<Speaker>Ange</Speaker>||:...
 NPC-Ange(22)<Speaker>???</Speaker><同时置暗>||:This is between you and me. She has nothing to do with this. +If you dare refer to Teacher in such a disrespectful manner again, I will—
 ()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:Whoosh! A steel rebar flies towards AN-94 at breakneck speed.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker><Shake>||:Ugh...
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker><Shake>||:Ugh...
 NPC-Ange(19)<Speaker>Ange</Speaker>||:94?
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Don't worry. The damage is minimal. It won't affect my combat performance.
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Don't worry. The damage is minimal. It won't affect my combat performance.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Stay behind me. I'll cover you.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 ()||<SE1>AVG_footsteps_cave</SE1>:Tap, tap, tap... The footsteps of the person who spoke fade into the distance.
 NPC-Ange(22)<Speaker>Ange</Speaker>||:Пиздец! Stop right there!!!
 NPC-Ange(22)<Speaker>???</Speaker><同时置暗>||<SE1>Stop_AVG_loop</SE1>:Commander Angelia, if you want to learn the truth, come to the rooftop. +That is, if you can make it up there in one piece...
 NPC-Ange(22)<Speaker>Ange</Speaker>||:блядь!
-AN94(2)<Position>0,50</Position><Speaker>AN-94</Speaker>||:Ange, please don't go off on your own!
+AN94(2)<Position>0,50</Position><Speaker>АН-94</Speaker>||:Ange, please don't go off on your own!
 ()||<SE2>Gunfight</SE2>:The patchwork corpses' movements and attacks are not particularly fast, so they are not difficult for the Wolf Pack to dispatch, but they have the absolute advantage in numbers. +Whenever the Wolf Pack eliminates a row of corpses, new ones take their place.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:Slow them down here. I'll go after that one by myself.
-AN94(0)<Position>0,50</Position><Speaker>AN-94</Speaker>||:But...
+AN94(0)<Position>0,50</Position><Speaker>АН-94</Speaker>||:But...
 NPC-Ange(19)<Speaker>Ange</Speaker>||:That's an order. Trust your commander's judgment.
 AK12(2)<Position>0,50</Position><Speaker>AK-12</Speaker>||:Ange, do you have a firearm? +You're not planning to go charging in with just a small knife, are you?
 NPC-Ange(19)<Speaker>Ange</Speaker>||:No, give me one.

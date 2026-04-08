@@ -1,48 +1,48 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
 ()<Speaker></Speaker>||<BIN>356</BIN><黑屏2><BGM>BGM_Moon</BGM>:At their temporary hideout where everyone is preparing for departure, AN-94 is going through her gear.
 RPK16(5)<Speaker>RPK-16</Speaker>||:Do you carry extra 7.62mm rounds on every mission?
-AN94(5)<Speaker>AN-94</Speaker>;RPK16(5)||:16...?
+AN94(5)<Speaker>АН-94</Speaker>;RPK16(5)||:16...?
 AN94(5)<Speaker></Speaker>;RPK16(5)||:Her disconcerting teammate has snuck up on her without a sound. +AN-94 almost fired on her.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(5)||:...Not always. I only started doing it when you and 15 rejoined DEFY.
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(5)||:...Not always. I only started doing it when you and 15 rejoined DEFY.
 AN94(0);RPK16(0)<Speaker>RPK-16</Speaker>||:You're very good at doing seemingly trivial favors for your teammates.
 AN94(0);RPK16(0)<Speaker></Speaker>||:RPK-16 plops down cheerfully next to AN-94. It looks like she doesn't plan on leaving her alone any time soon.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:I don't mind the trouble. Just doing what I can.
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:I don't mind the trouble. Just doing what I can.
 AN94(0)<Speaker></Speaker>;RPK16(0)||:AN-94 cleans the barrel of her rifle with a brush and blows some dust off to the side.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:All the Dolls on Task Force DEFY except me are truly exceptional. This is what I can do to keep up and complete our missions more efficiently.
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:All the Dolls on Task Force DEFY except me are truly exceptional. This is what I can do to keep up and complete our missions more efficiently.
 AN94(0);RPK16(0)<Speaker>RPK-16</Speaker>||:You sound just like 15.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:...
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:...
 AN94(0)<Speaker></Speaker>;RPK16(0)||:AN-94 puts down the components of her rifle.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:I don't understand... What are you getting at?
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:I don't understand... What are you getting at?
 AN94(0);RPK16(0)<Speaker>RPK-16</Speaker>||:Is it that hard to tell? +I'm just expressing my concern for you.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:...It is indeed rather hard to tell. +Shouldn't you be discussing battle strategies with Ange?
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:...It is indeed rather hard to tell. +Shouldn't you be discussing battle strategies with Ange?
 AN94(0);RPK16(0)<Speaker>RPK-16</Speaker>||:Is that what AK-12 would usually do?
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:...Yes. +It is part of the team leader's duty.
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:...Yes. +It is part of the team leader's duty.
 AN94(0);RPK16(0)<Speaker>RPK-16</Speaker>||:You seem very influenced by AK-12.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:What's your point?
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:What's your point?
 AN94(0)<Speaker></Speaker>;RPK16(0)||:AN-94 stares at RPK-16.
 AN94(0);RPK16(0)<Speaker>RPK-16</Speaker>||:I think you'd make a more suitable acting leader than me.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:...What?
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:...What?
 AN94(0);RPK16(0)<Speaker>RPK-16</Speaker>||:You've been with AK-12 the longest. +You must've learned a great deal from her. +You also understand Ange the most... Besides, you make a lot of contributions that often go unnoticed. +I can't think of any reason why you wouldn't be up to the task.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(0)||:But 12 chose you.
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(0)||:But 12 chose you.
 AN94(0);RPK16(0)<Speaker>RPK-16</Speaker>||:Simply because I was the only one there.
 AN94(5)<Speaker></Speaker>;RPK16(0)||:AN-94 shakes her head.
-AN94(5)<Speaker>AN-94</Speaker>;RPK16(0)||:12 isn't someone who would make important decisions based on such flimsy reasons. +I'm sure she chose you because she knew you could do it.
+AN94(5)<Speaker>АН-94</Speaker>;RPK16(0)||:12 isn't someone who would make important decisions based on such flimsy reasons. +I'm sure she chose you because she knew you could do it.
 AN94(5);RPK16(3)<Speaker>RPK-16</Speaker>||:...
 AN94(5);RPK16(3)<Speaker></Speaker>||:RPK-16 is quite astonished.
 AN94(5);RPK16(3)<Speaker>RPK-16</Speaker>||:You really do trust her.
-AN94(5)<Speaker>AN-94</Speaker>;RPK16(3)||:Even if I had been present, she would definitely have chosen you as well.
+AN94(5)<Speaker>АН-94</Speaker>;RPK16(3)||:Even if I had been present, she would definitely have chosen you as well.
 AN94(5);RPK16(3)<Speaker>RPK-16</Speaker>||:What causes such sense of inferiority in you?
-AN94(4)<Speaker>AN-94</Speaker>;RPK16(3)||:It isn't inferiority, but practicality. +The way I operate is closer to AK-15's. I'm better at making decisions on the fly. +I am not suited for command.
+AN94(4)<Speaker>АН-94</Speaker>;RPK16(3)||:It isn't inferiority, but practicality. +The way I operate is closer to AK-15's. I'm better at making decisions on the fly. +I am not suited for command.
 AN94(4);RPK16(4)<Speaker>RPK-16</Speaker>||:But you did a pretty decent job when partnering with 15 last time.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(4)||:That's because 15 is a highly competent soldier. Besides, leading a two-man team and commanding a squad are completely different. +You are smart and have a good sense of the bigger picture. You also have no problem communicating with Ange. +If the choice had been mine, I would have picked you too.
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(4)||:That's because 15 is a highly competent soldier. Besides, leading a two-man team and commanding a squad are completely different. +You are smart and have a good sense of the bigger picture. You also have no problem communicating with Ange. +If the choice had been mine, I would have picked you too.
 AN94(0);RPK16(4)<Speaker>RPK-16</Speaker>||:I see...
 AN94(0);RPK16(4)<Speaker></Speaker>||:RPK-16 smiles.
 AN94(0);RPK16(4)<Speaker>RPK-16</Speaker>||:You've grown.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(4)||:That feels weird coming from you...
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(4)||:That feels weird coming from you...
 AN94(0);RPK16(2)<Speaker>RPK-16</Speaker>||:Because I was the last to leave the factory? +That's not important. A compliment is a compliment no matter who gives it.
 AN94(0);RPK16(2)<Speaker></Speaker>||:RPK-16 gets to her feet, still beaming at AN-94.
 AN94(0);RPK16(2)<Speaker>RPK-16</Speaker>||:Hurry up and finish your prep. We mustn't let 12 down.
-AN94(0)<Speaker>AN-94</Speaker>;RPK16(2)||:Right...
+AN94(0)<Speaker>АН-94</Speaker>;RPK16(2)||:Right...
 AN94(0)<Speaker></Speaker>;RPK16(2)||<SE1>Select</SE1>:AN-94 looks down at what she's doing. She picks up the components she has put down earlier and concentrates on reassembling them.
 RPK16(3)<Speaker>RPK-16</Speaker>||:...
 RPK16(3)<Speaker></Speaker>||:RPK-16's eyes flicker as she watches her.

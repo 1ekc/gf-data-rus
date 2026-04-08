@@ -226,7 +226,7 @@ NPC-Light(4)<Speaker>Light</Speaker>||:Ha...haha...
 ()<Speaker></Speaker>||:Light snickers at Gray's pity.
 NPC-Light(4)<Speaker>Light</Speaker>||<震屏3>:<Size=55>—Now, Miss 94!</Size>
 ()<Speaker></Speaker>||:With one final burst of strength, he bellows a resounding command.
-AN94(2)<Speaker>AN-94</Speaker>||<SE2>Gunfight</SE2>:—!
+AN94(2)<Speaker>АН-94</Speaker>||<SE2>Gunfight</SE2>:—!
 NPC-MrsGray(2)<Speaker>Gray</Speaker>||:—What?!
 ()<Speaker></Speaker>||:Another Doll suddenly appears, armed with her weapon and her rage, from the opposite direction.
 AK15(9)<Speaker>AK-15</Speaker>||:She has another claw!
@@ -241,12 +241,12 @@ NPC-MrsGray(5)<Speaker>Gray</Speaker><Shake>0.1</Shake>||:—!
 ()||<白屏1>:
 ()<Speaker></Speaker>||<白屏2><BIN>240</BIN>:A powerful explosion erupts right in front of Gray.
 ()<Speaker></Speaker>||<SE1>RunStep</SE1>:Before she can react, AN-94 has already closed the distance, ready to deal the final blow.
-AN94(2)<Speaker>AN-94</Speaker>||:Go to hell.
+AN94(2)<Speaker>АН-94</Speaker>||:Go to hell.
 NPC-MrsGray(2)<Speaker>Gray</Speaker>||:!
 ()<Speaker></Speaker>||:AN-94 has gotten so close there is no way Gray can defend herself. Having just withstood an explosion, she simply does not stand a chance against a well-armed elite Doll at full strength. +From the very beginning, the man's intention was just to distract her. +It was a sound strategy... They are on the brink of success.
-AN94(2)<Speaker>AN-94</Speaker>||<SE1>AVG_whitenoise</SE1>:Ugh!
+AN94(2)<Speaker>АН-94</Speaker>||<SE1>AVG_whitenoise</SE1>:Ugh!
 ()<Speaker></Speaker>||:A strong electric current flows through AN-94's body.
-AN94(4)<Speaker>AN-94</Speaker>||:An...ge...
+AN94(4)<Speaker>АН-94</Speaker>||:An...ge...
 ()<Speaker></Speaker>||:She just has to move another centimeter...
 ()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_rifle_finalshot_h</SE1>:AN-94 pulls the trigger, firing a round.
 ()<Speaker></Speaker>||<common_effect>%%code=CJ_zidan%%</common_effect>:Whoosh. +A deployable shrapnel shield unfurls in front of Gray. The bullet bounces off the metal surface, producing a dismaying clang. +AN-94 glares resentfully at her former partner and collapses to the floor. +She has crashed.

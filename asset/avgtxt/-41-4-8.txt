@@ -39,7 +39,7 @@ AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:Ange, take a look a
 NPC-Morridow(1)<Speaker>Morridow</Speaker>||:Police from the MEK? +So it wasn't the GIP? +Then why were they following us?
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:IDs can be falsified, but this insignia is the real deal. +Also, just because they're police doesn't mean they don't work for the GIP. +Looks like corruption runs a lot deeper in the local public service than we first imagined.
 NPC-Keven(0)<Speaker>J</Speaker>||:Save me your schadenfreude. This is exactly why we're needed for the job.
-AN94(11)<Speaker>AN-94</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Ange, enemy reinforcements are heading this way.</color>
+AN94(11)<Speaker>АН-94</Speaker><Position>0,-70</Position><scan><通讯框>||:<color=#00CCFF>Ange, enemy reinforcements are heading this way.</color>
 NPC-Ange(2)<Speaker>Angelia</Speaker>||:Got it. We're getting out of here.
 ()||:A group of people rush toward the alley. Ange pulls Morridow further down the passageway. +AK-12 turns into another alley and disappears. +Their new pursuers stop to examine the unconscious MEK officers and report their findings through the comms while cautiously keeping an eye on their surroundings. +In the end, probably intimidated by their enemies' strength, they decide to give up the chase and withdraw with their unconscious colleagues. 
 AK12(12)<Speaker>AK-12</Speaker><Position>0,-70</Position>||:The cops have left the alley.

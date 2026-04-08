@@ -28,7 +28,7 @@ AK15(1)<Speaker>AK-15</Speaker>||:...
 ()||:Yegor points the mech's missile launcher straight upwards. +Then, he fires all his high explosive fragmentation missiles at once.+The red-hot missiles hit the ceiling and explode, sending shrapnel flying everywhere.+They shower down like a rainstorm on the approaching Dolls.
 ()<Speaker>AK-15</Speaker>||:Take cover!
 ()<Speaker>RPK-16</Speaker>||:...Oh dear.
-()<Speaker>AN-94</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:Avoid his fire, look out — ugh!
+()<Speaker>АН-94</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:Avoid his fire, look out — ugh!
 ()||<BIN>229</BIN><BGM>BGM_Room</BGM><黑点2>:Yegor manages to carefully maintain the mech's balance amidst the tremendous shaking.+The detonation of his missiles at such close range is just as unpleasant for him as it is for his enemies, but the mech's armor is able to withstand the impact of the high explosive and the shrapnel.+Yegor pounds on his flickering display, which flashes a couple of times until the static on the screen finally resolves into usability.+Fortunately, the damage to these components isn't too severe.
 NPC-Yegor(4)<Speaker>Yegor</Speaker>||:Well, that was lucky.
 ()||:The smoke before him has dispersed and the flames are dying down.+The Dolls who attacked him are now sprawled on the ground, their bodies mangled and motionless.+The bad news is that although the lights are back on, the blast has made it impossible for him to identify his surroundings. He can't even find the path he took here. +It's as though it never existed.

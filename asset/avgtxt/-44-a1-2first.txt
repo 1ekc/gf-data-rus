@@ -4,7 +4,7 @@
 NPC-Ange(7)<Speaker>Ange</Speaker>||:Looks like people face the same problems no matter which country they live in.
 NPC-Ange(7);AK12(12)<Speaker>AK-12</Speaker>||:I've always thought Germans are stoic. +Turns out they are still very vocal about their dissatisfaction when they are pushed too far.
 NPC-Ange(7)<Speaker>Ange</Speaker>;AK12(12)||:That stereotype should've been deconstructed the moment you met J.
-NPC-Ange(7);AN94(11)<Speaker>AN-94</Speaker>||:Why are they protesting?
+NPC-Ange(7);AN94(11)<Speaker>АН-94</Speaker>||:Why are they protesting?
 NPC-Ange(7)<Speaker>Ange</Speaker>;AN94(11)||:Because of the economy, the environment, their livelihood... It's always the same reasons. +If society doesn't make any fundamental changes, these problems will never go away.
 NPC-Ange(7);RPK16(7)<Speaker>RPK-16</Speaker>||:I just picked up an interesting buzzword. +Have you heard about the anti-Collapse serum?
 NPC-Ange(7)<Speaker>Ange</Speaker>;RPK16(7)||:Anti-Collapse serum?

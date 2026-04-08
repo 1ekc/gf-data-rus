@@ -38,7 +38,7 @@ RPK16(0)<Speaker>RPK-16</Speaker><scan><通讯框>||:<color=#00CCFF>...Of course
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Ange hangs up and peers at AK-15 and AN-94 in the back through the rearview mirror.
 NPC-Ange(19)<Speaker>Angelia</Speaker>||:Send them the coordinates.
-AN94(0)<Speaker>AN-94</Speaker><Position>0,50</Position>||:Done.
+AN94(0)<Speaker>АН-94</Speaker><Position>0,50</Position>||:Done.
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Horn_Car</SE1>:Beep, beeeeeeep... +A car honks at them from behind. +Ange can't help but frown.
 NPC-Ange(22)<Speaker>Angelia</Speaker>||:What's his problem?
 NPC-maya(0)<Speaker>Agent Q</Speaker>||:Oh, we've passed the speed-restricted stretch.
@@ -129,7 +129,7 @@ AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:We are the best weapo
 ()<Speaker></Speaker>||<黑屏1>:...
 ()<Speaker></Speaker>||<黑屏2><BIN>239</BIN>:Neu-Tempelhof, Berlin. +William's former residence.
 AK12(2)<Speaker>AK-12</Speaker><Position>0,50</Position>||<BGM>10220</BGM>:The weeds on the lawn really remind me of Vietnam.
-AN94(5)<Speaker>AN-94</Speaker><Position>0,50</Position>||:You've been to Vietnam?
+AN94(5)<Speaker>АН-94</Speaker><Position>0,50</Position>||:You've been to Vietnam?
 AK15(0)<Speaker>AK-15</Speaker>||:It's a metaphor.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 ()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:Ange pushes open the slightly rusted metal gates and frowns as she spots the broken chains lying on the ground.
@@ -139,7 +139,7 @@ NPC-Ange(19)<Speaker>Ange</Speaker>||:...
 ()<Speaker></Speaker>||:Turning a deaf ear to RPK-16's advice, Ange steps into this unfamiliar courtyard.
 AK12(0)<Speaker>AK-12</Speaker><Position>0,50</Position>||:We're here already...
 ()<Speaker></Speaker>||:Ange looks up and studies the mansion. +This building has obviously been uninhabited since a long time ago. +The group walk through the front yard - it must have been many years since a gardener last tended to it. +Other than a few buzzing bees, there's no sign of any other living creatures.
-AN94(0)<Speaker>AN-94</Speaker><Position>0,50</Position>||:...It's so quiet.
+AN94(0)<Speaker>АН-94</Speaker><Position>0,50</Position>||:...It's so quiet.
 AK15(0)<Speaker>AK-15</Speaker><Position>0,50</Position>||:No heat sources detected inside the building.
 ()<Speaker></Speaker>||:...This eerie silence haunts Ange. +Her gut feeling tells her that she's in the right place. +She will definitely find what she's after here.
 NPC-Ange(19)<Speaker>Ange</Speaker>||:RPK, guard the door with 94.
