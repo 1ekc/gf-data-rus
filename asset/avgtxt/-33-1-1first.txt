@@ -1,28 +1,28 @@
 ()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
 ()||<黑屏2><BIN>9</BIN><SE1>AVG_whitenoise</SE1>:...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:...Who is this?
-()||:M4A1 fumbles through the impenetrable darkness, following the voice.
-()<Speaker>???</Speaker>||:...You came. I knew you would.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Who are you? Are you talking to me?
-()||<白屏1><SE1>AVG_footsteps_cave</SE1>:M4 stumbles forward as she follows along, and discovers a faint light coming from a point not too far away. It seems to be some kind of cave exit.
-()<Speaker>M4A1</Speaker>||<白屏2><BIN>200</BIN>:Ugh...
-()||:M4 leaves the darkness and arrives in a field of pure white flowers. The wave of fragrance that washes over her is so overpowering it stings the nose a little.+The intense brightness of suddenly arriving in the outside world is a little too much for M4, and she covers her eyes.
-()||:Squinting at the light, her blurred vision picks up someone standing in the middle of the sea of flowers.
-()<Speaker>M4A1</Speaker>||:You are...
-()<Speaker>???</Speaker>||:Father told us that we were connected.+But it is only now that I realize he was not referring to me and her, but to everyone.
-()<Speaker>M4A1</Speaker>||:What are you talking about?
-()<Speaker>???</Speaker>||:If you can speak to me now, that means you are my friend...+Come, come to where we are, with the will that you bear.
-()<Speaker>M4A1</Speaker>||:The will...that I bear?
-()<Speaker>???</Speaker>||:We all spring from the same source... She and I, you and it, we are all the same. +Therefore, we ought to return to the same place, shouldn't we?
-()<Speaker>Familiar Voice</Speaker>||:M... +M...4...
-()<Speaker>Familiar Voice</Speaker>||<震屏><BGM>BGM_Empty</BGM>:...M4A1!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:...Кто это?
+()||:M4A1 пробирается сквозь непроглядную тьму, следуя за голосом.
+()<Speaker>???</Speaker>||:...Ты пришла. Я знала, что ты придешь.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Кто ты? Ты со мной разговариваешь?
+()||<白屏1><SE1>AVG_footsteps_cave</SE1>:M4, спотыкаясь, продвигается вперед и замечает слабый свет, исходящий от места, расположенного недалеко от неё. Похоже, это какой-то выход из пещеры.
+()<Speaker>M4A1</Speaker>||<白屏2><BIN>200</BIN>:Угх...
+()||:M4 выходит из темноты и попадает на поле, усыпанное белоснежными цветами. Волна аромата, накрывающая её, настолько сильна, что даже слегка щиплет нос.+Яркий свет, который обрушился на неё при выходе на улицу, оказывается для M4 слишком резким, и она закрывает глаза.
+()||:Прищурившись от яркого света, она разглядела в море цветов чью-то фигуру.
+()<Speaker>M4A1</Speaker>||:Ты...
+()<Speaker>???</Speaker>||:Отец сказал нам, что мы связаны друг с другом.+Но только сейчас я поняла, что он имел в виду не меня и её, а всех.
+()<Speaker>M4A1</Speaker>||:О чём ты говоришь?
+()<Speaker>???</Speaker>||:Если ты можешь сейчас со мной говорить, значит, ты мой друг... +Иди, иди к нам, с той волей, что в тебе живет.
+()<Speaker>M4A1</Speaker>||:Воля... которую я несу?
+()<Speaker>???</Speaker>||:Мы все происходим из одного источника... Она и я, ты и оно — мы все одно и то же. +Поэтому нам следует вернуться в одно и то же место, не так ли?
+()<Speaker>Знакомый голос</Speaker>||:M... +M...4...
+()<Speaker>Знакомый голос</Speaker>||<震屏><BGM>BGM_Empty</BGM>:...M4A1!
 ()||<BIN>9</BIN><黑屏1><SE1>AVG_tele_disconnect</SE1>：
-AR15Mod(2)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Sneak</BGM><黑屏2><BIN>55</BIN>:Hey, M4? M4!
-AR15Mod(2);M4A1Mod(3)<Speaker>M4A1</Speaker>||:Ah... What's going on, AR-15?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||:You tell me. +Did something happen to your neural cloud again? You've been spacing out more and more often lately.
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'm fine, there's no need to worry.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I sure hope so. Things have only just gotten back to normal. It would be terribly ironic if something went wrong with you again.
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Mm, sorry to make you worry.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Sneak</BGM><黑屏2><BIN>55</BIN>:Эй, M4? M4!
+AR15Mod(2);M4A1Mod(3)<Speaker>M4A1</Speaker>||:Аъ... Что происходит, AR-15?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(3)||:Ты мне скажи. +С твоим нейронным облаком опять что-то случилось? В последнее время ты всё чаще и чаще абстрагируешься.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я в порядке, не стоит беспокоиться.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Я очень на это надеюсь. Только-только всё вернулось на круги своя. Было бы ужасно иронично, если бы с тобой снова что-то случилось.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Мм, извини, что заставила тебя волноваться.
 AR15Mod(3)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:I told you not to make contact with that thing too often.
 AR15Mod(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||:No...what happened just now wasn't because of that.
 AR15Mod(4)<Speaker>ST AR-15</Speaker>;M4A1Mod(0)||:Honestly... Arghhh, forget it. +What's our position?
@@ -98,28 +98,3 @@ SSG3000(0)<Speaker>SSG 3000</Speaker>||<SE1>Runstep</SE1>:Thank you. I'll make a
 M4A1Mod(0)<Speaker>M4A1</Speaker>||<白屏1>:The Commander's already confirmed that our mission is now to scout out Tallinn City Station. Let's move out.
 ()||<白屏2><BIN>207</BIN>:M4 looks toward their objective, where a few sets of railway tracks can be seen extending in a straight line across the sprawling plains, connecting to the distant horizon. +The dazzling sunshine blends with the scenery, making Tallinn's skyline appear like a mirage.
 ()<Speaker>M4A1</Speaker>||<黑屏1>:(So there's a signal which can resonate with OGAS... Once we get there, we'll find out exactly what it is.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
