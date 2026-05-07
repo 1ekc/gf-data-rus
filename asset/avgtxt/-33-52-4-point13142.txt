@@ -1,1 +1,1 @@
-()||<BIN>10</BIN>:"Rolling your eyeballs counter-clockwise helps with your thinking" is a myth. +<color=#FFFF00>Tip - Unlock the control panels in the right order to open the defense gate.</color>
+()||<BIN>10</BIN>:«Вращение глаз против часовой стрелки помогает думать» — это миф. +<color=#FFFF00>Совет — разблокируй панели управления в правильном порядке, чтобы открыть защитные ворота.</color>
