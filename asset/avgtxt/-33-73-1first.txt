@@ -1,20 +1,20 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Brain</BGM>:Commander, please come over here. We've received an anonymous message.
-Commander()||:What is it?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Information provided by WAVE Tech. It seems to be an audio recording this time?
-Commander()||:Is this WAVE reliable?
-NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Hmm, it is indeed a very mysterious company. They have been giving us information without demanding any payment. We correspond through emails but the sender's address is always randomized and untraceable. +However, all the intelligence they have supplied so far proved to be accurate. It's uncertain why they're aiding us, but I think they should be on our side.
-Commander()||:I hope it isn't another trap... Play the audio recording.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:Okay!
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:<color=#00CCFF>The audio recording starts playing.</color>
-()||:<color=#A9A9A9>Static. The rustling of movements. A button being pressed.</color>
-()||:【Congratulations, my esteemed comrade. You put on quite a spectacular show in Belgrade, Chief.】
-()||:【What have you heard now, you wily old fox?】
-()||:【Oh, nothing - nothing whatsoever. You simply appear to have made an incredible sacrifice. Now both the general public and the political circle of the Pan-European Union are moved by our government's great sincerity and competence.】+【Protecting their ambassador at the cost of our own senior official's life - how absolutely touching. It's so perfect it almost feels premediated.】
-()||:【Humph, the plan went terribly wrong though. "Vympel" was this close to storming the city.】
-()||:【"It's a bit of a shame, but there's no point in holding Belgrade. Besides, we already have the Pike Node. Thank goodness K was desperate enough to make such a risky move. The absence of Statesec forces actually made it easier to disassociate ourselves from this whole business." I bet that's what you're thinking, am I right?】
-()||:【You prattle too much, Havier.】
-()||:【Sorry. Then let me tell you something you'd like to know.】+【You'd better extend your gratitude to that Griffin Commander. The Pan-European Union is so appreciative of the protection Chairwoman Ulrich received under those circumstances that they've already convinced Milošević and the representatives of the other countries in Southern Europe. That's really good news.】+【Of course, that young lady is also a very gifted diplomat. Still, despite the many demands that she has successfully lobbied on the Union's behalf, the two Intercontinental Railway construction projects are still going to be undertaken on terms that are acceptable to us.】
-()||:【Humph, it's not as if they could afford to refuse the deal. The two railway projects are more in line with the Union's interests. That bastard caught wind and shoved that extremely green German young lady out as a scapegoat so that he wouldn't have to deal with this himself.】+【He was banking on the fact that if Ulrich had died, the Pan-European Union would have been in the position to make exorbitant demands. What a sleazy crook. But never mind that now. Tell your intermediary that the Central People's Committee is very happy with how the situation has turned out.】
-()||:【I bet the folks sitting in the first three rows are even happier about your success in crushing the activities of the Moscovite radicalists and the Military, isn't that right, comrade?】
-()||<黑屏1>:【As I said, you prattle too much. This conversation ends here.】
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Brain</BGM>:Командир, подойдите, пожалуйста. Мы получили анонимное сообщение.
+Commander()||:Что такое?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Информация предоставлена WAVE Tech. Похоже, на этот раз это аудиозапись?
+Commander()||:Эта WAVE надежна?
+NPC-Kalin(3)<Speaker>Калина</Speaker>||:Хм, это действительно очень загадочная компания. Они предоставляют нам информацию, не требуя за это никакой оплаты. Мы переписываемся по электронной почте, но адрес отправителя всегда меняется и его невозможно отследить. +Однако вся информация, которую они нам предоставили до сих пор, оказалась точной. Непонятно, почему они нам помогают, но я думаю, что они должны быть на нашей стороне.
+Commander()||:Надеюсь, это не очередная ловушка... Прослушай аудиозапись.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<黑屏1>:Окей!
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:<color=#00CCFF>Начинается воспроизведение аудиозаписи.</color>
+()||:<color=#A9A9A9>Тишина. Шелест движений. Нажатие кнопки.</color>
+()||:【Поздравляю, мой уважаемый товарищ. Ты устроил в Белграде просто потрясающее шоу, Шеф.】
+()||:【Что ты теперь услышал, старый хитрый лис?】
+()||:【О, ничего — абсолютно ничего. Просто создается впечатление, что ты пошёл на невероятную жертву. Теперь и широкая общественность, и политические круги Общеевропейского союза тронуты огромной искренностью и компетентностью нашего правительства.】+【Защитить своего посла ценой жизни нашего высокопоставленного чиновника — как это трогательно. Всё так идеально, что создаётся впечатление, будто это было заранее спланировано.】
+()||:【Хм, но план пошел совсем не так, как надо. «Вымпел» был вот-вот готов штурмовать город.】
+()||:【«Немного жаль, но нет смысла оставаться в Белграде. К тому же у нас уже есть узел системы «Щука». Слава богу, К. был настолько отчаян, что пошёл на такой рискованный шаг. Отсутствие сил Госбеза, на самом деле, облегчило нам отстранение от всего этого дела». Уверен, ты именно так и думаешь, верно?】
+()||:【Ты слишком много болтаешь, Хавьер.】
+()||:【Извини. Тогда позволь мне рассказать тебе кое-что, что тебе будет интересно.】+【Тебе лучше выразить благодарность тому Командиру Грифона. Общеевропейский союз настолько ценит защиту, которую председатель Ульрих получила в тех обстоятельствах, что они уже убедили Милошевича и представителей других стран Южной Европы. Это действительно хорошая новость.】+【Конечно, эта молодая леди — также очень талантливый дипломат. Тем не менее, несмотря на множество требований, которые она успешно продвинула от имени Союза, два проекта строительства Межконтинентальной железной дороги всё равно будут реализованы на условиях, приемлемых для нас.】
+()||:【Хм, ну не то чтобы у них был выбор — отказаться от сделки. Эти два железнодорожных проекта гораздо больше отвечают интересам Союза. Этот ублюдок пронюхал об этом и вытолкнул ту совершенно неопытную немецкую девушку в качестве козла отпущения, чтобы самому не пришлось с этим возиться.】+【Он рассчитывал на то, что если бы Ульрих погибла, то Панъевропейский Союз оказался бы в положении, позволяющем выдвигать завышенные требования. Какой гнусный мошенник. Но об этом сейчас неважно. Передай своему посреднику, что Центральный народный комитет очень доволен тем, как сложилась ситуация.】
+()||:【Готов поспорить, что люди, сидящие в первых трёх рядах, ещё больше рады твоему успеху в подавлении деятельности радикалов из Москвы и военных, верно, товарищ?】
+()||<黑屏1>:【Как я уже сказал, ты слишком много болтаешь. На этом разговор закончен.】
