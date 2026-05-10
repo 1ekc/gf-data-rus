@@ -1,31 +1,31 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2>:...
-()||:<color=#00CCFF>The audio recording starts playing.</color>
-()||:<color=#A9A9A9>Some low-frequency mechanical noise and the sound of water dripping drop by drop.</color>+<color=#A9A9A9>Metal doors are being opened one by one in the distance, until a door close by is also opened.</color>
-()||:【I honestly didn't expect we'd meet here.】
-()||:【...You took your sweet time.】
-()||:【I am neither your guardian nor your parole officer. Not to mention parole is out of the question considering what you've done.】
-()||:【Tsk. Are you here to jeer at me, or perhaps you even agree with their methods?】
-()||:【Leaving that aside, can you please tell me first what compelled you to do something as stupid as trying to seize the Pike Node?】
+()||:<color=#00CCFF>Начинается воспроизведение аудиозаписи.</color>
+()||:<color=#A9A9A9>Слышен негромкий механический шум и звук капель, падающих одна за другой.</color>+<color=#A9A9A9>Вдали одна за другой открываются металлические двери, пока не открывается и ближайшая дверь.</color>
+()||:【Честно говоря, я не думал, что мы встретимся здесь.】
+()||:【...Ты не торопился.】
+()||:【Я тебе ни опекун, ни инспектор по УДО. Да и об условно-досрочном освобождении не может быть и речи, учитывая то, что ты натворил.】
+()||:【Цк. Ты пришёл, чтобы надо мной посмеяться, или, может, ты сам согласен с их методами?】
+()||:【Но, оставим это в стороне, не могла бы ты сначала рассказать, что заставило тебя пойти на такую глупость, как захват узла системы «Щука»?】
 ()||:【...】
-()||:【Don't want to say? Then let me guess. Is it because of something that happened when you were little that made you hate everything about the Relics? It's a bit of a cliché, but it's not like I don't understand the effects of childhood trauma.】
+()||:【Не хочешь говорить? Тогда дай угадаю. Это из-за того, что в детстве с тобой что-то случилось, из-за чего ты теперь ненавидишь всё, что связано с Реликвиями? Это, конечно, банально, но я не то чтобы не понимал, как действуют детские травмы.】
 ()||:【...】
-()||:【Still, I suppose even you can tell that "Vympel" had been standing by outside of Belgrade the whole time. You can't seriously believe that Chief Zelinsky would only be counting on you and the PMC, right?】
-()||:【In the end, everyone was the same, so I had no choice but to take matters into my own hands.】
-()||:【Since when have you become so impulsive? I admit being a hero is a very tempting idea, but whether you're actually a hero is for others to decide, not you.】+【Of course, it's not like I don't understand how you feel, so here I am again, ready to wipe your ass for you.】
-()||:【Humph... You only came because you have your own agenda. Say it then. What's the current situation?】
-()||:【The Chief has already delegated different tasks to them. I have a feeling the net will soon be tightened. Naturally, the opposition's resistance will intensify, and the conflict may very well get out of hand.】
-()||:【So?】
-()||:【Don't let your past cloud your judgment. Seizing or even destroying that Pike won't change anything. If you want to do something about it, you'll have to get to the root of the problem.】+【There's a Relics storage facility that's supposed to be sealed permanently in the Paldiski Submarine Base. The Pike Node that Lyco obtained was taken from that very base. Come to think of it, you and this particular node have some common history.】
-()||:【Humph, so this was the node from the Butterfly Incident? What kind of support am I going to get?】
-()||:【I knew you would be interested. K, who you absolutely despise, will be waiting for you there.】
-()||:【Are you joking?】
-()||:【I actually think the two of you will find this partnership very enjoyable. He knows that area very well, which will be very helpful for you.】+【Also, that Griffin Commander will be there as well to aid you. However, they're already under heavy surveillance from the Military, so they'll probably run into a lot of obstacles during the operation. But even so, I don't believe that'll be a problem.】
-()||:【Humph... You'd better invest more on the Commander. If you lose Griffin, you won't be able to achieve your aim, will you? At the very least, your intermediary won't be too pleased about that.】
-()||:【Haha, you're quite well-informed. My intermediary is already trying to think of a way to get poor Kryuger out. After all, losing such an important business partner doesn't really sit well with us.】+【You probably didn't know, but I even went so far as to provide them with a comfortable base and intercontinental transport. You really won't find many investors as generous as me.】
-()||:【Alright, stop blowing your own horn. Just hurry up and get me out of this shoddy little house.】
-()||<黑屏1>:【Yes, yes, my lady. Glad to be of service.】
+()||:【Но, думаю, даже тебе понятно, что «Вымпел» всё это время находился в готовности недалеко от Белграда. Ты же не можешь всерьёз полагать, что шеф Зелинский рассчитывал только на тебя и ЧВК, правда?】
+()||:【В конце концов, мы все оказались в одинаковой ситуации, так что мне ничего не оставалось, как взять дело в свои руки.】
+()||:【С каких это пор ты стала такой импульсивной? Признаю, идея стать героем очень заманчива, но решать, герой ты на самом деле или нет, должны другие, а не ты.】+【Конечно, я тебя понимаю, поэтому я снова здесь, готов подставить свою задницу за тебя.】
+()||:【Хм... Ты пришёл только потому, что у тебя свои планы. Ну так говори. Как обстоят дела?】
+()||:【Начальник уже поручил им разные задачи. У меня такое чувство, что скоро петля затянется. Естественно, сопротивление оппозиции усилится, и конфликт вполне может выйти из-под контроля.】
+()||:【Итак?】
+()||:【Не позволяй прошлому затуманить твой разум. Захват или даже уничтожение этого узла ничего не изменит. Если хочешь что-то с этим сделать, тебе придётся добраться до корня проблемы.】+【На подводной базе в Палдиски есть хранилище реликвий, которое должно быть навсегда запечатано. Узел системы «Щука», который достался Лико, был похищен именно с этой базы. Если подумать, у тебя и этого конкретного узла есть общая история.】
+()||:【Хм, так это и был тот узел из «Инцидента Бабочки»? Какую поддержку я получу?】
+()||:【Я знал, что тебе это будет интересно. К., которого ты просто терпеть не можешь, будет ждать тебя там.】
+()||:【Ты шутишь?】
+()||:【Я вообще-то думаю, что вам обоим это сотрудничество очень понравится. Он отлично знает эту местность, что тебе очень пригодится.】+【К тому же, там будет и тот Командир Грифона, чтобы помочь тебе. Правда, за ними уже ведут пристальное наблюдение военные, так что во время операции у них, скорее всего, возникнет много препятствий. Но даже несмотря на это, я не думаю, что это станет проблемой.】
+()||:【Хм... Тебе лучше вложить больше средств в Командира. Если ты потеряешь Грифон, то не сможешь достичь своей цели, верно? По крайней мере, твой посредник будет не слишком доволен таким поворотом дел.】
+()||:【Ха-ха, ты неплохо осведомлена. Мой посредник уже ломает голову над тем, как вытащить бедного Крюгера из этой ситуации. В конце концов, потеря такого важного делового партнёра нам совсем не по душе.】+【Ты, наверное, не знала, но я даже пошёл на то, чтобы предоставить им удобную базу и межконтинентальный транспорт. Поверь, таких щедрых инвесторов, как я, не так-то и много найдёшь.】
+()||:【Ладно, хватит хвастаться. Просто поспеши и вытащи меня из этой убогой хибары.】
+()||<黑屏1>:【Да, да, моя госпожа. Рад быть полезным.】
 ()||<黑屏2><BGM>BGM_Brain</BGM><BIN>202</BIN>:...
-NPC-Kalin(3)<Speaker>Kalina</Speaker>||:Hmm... They sound like three separate conversations with different people. Can you make heads or tails out of them, Commander? 
-Commander()||:They are probably about something important that's related to us. +WAVE must have a reason for sending them. I'll think more carefully on it.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:The conversations...do seem highly relevant to the trip we're taking. That's all the recordings we have so far. I'll let you know if we receive anything new.
+NPC-Kalin(3)<Speaker>Калина</Speaker>||:Хм... Похоже, это три разных разговора с разными людьми. Сможешь в этом разобраться, Командир?
+Commander()||:Наверное, они касаются чего-то важного, что имеет к нам отношение. +У WAVE наверняка есть причина, по которой они их прислали. Я как следует над этим поразмыслю.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<黑屏1>:Эти разговоры... действительно кажутся очень актуальными для нашей поездки. Это все записи, которые у нас есть на данный момент. Я дам тебе знать, если появятся новые.
