@@ -1,17 +1,17 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2>:...
-()||:<color=#00CCFF>The audio recording starts playing.</color>
-()||:【The destination can now be observed with the naked eye. There are still things you haven't told me.】
-()||:【Why would I withhold information from you?】
-()||:【You clearly know something about the white faction that has been impeding our efforts, yet you never offered any explanation.】
-()||:【Well, you never asked.】
-()||:【I'm asking now, aren't I?】
-()||:【The first time I came across Paradeus was when I was working in Southern Europe. Back then, they were merely considered a cult. Nobody gave them a second thought - this was back in a time when cults were extremely common.】+【However, after several nasty incidents concerning this organization, people finally started noticing them.】+【An investigation revealed that both their rate of expansion and their armament were completely out of the ordinary. Rather than a cult, they are more like a terrorist organization with a political agenda.】
-()||:【Terrorists that harvest dead bodies... I'm surprised anyone would agree with and even join their cause.】
-()||:【Don't underestimate the desperation of refugees. There's a market for this kind of cheap salvation.】
-()||:【People who commit evil just to live a few days longer do not deserve sympathy. I'm more concerned about the rate at which the white faction's armament is growing. More advanced units show up every time we fight them.】
-()||:【"It's as if they're testing their weaponry on us." Is that what you're thinking?】
-()||:【What is driving them to expand their armament so quickly?】
-()||<黑屏1>:【That's what we're here to find out.】
+()||:<color=#00CCFF>Начинается воспроизведение аудиозаписи.</color>
+()||:【Теперь это место можно увидеть невооружённым глазом. Но ты всё ещё не всё мне рассказал.】
+()||:【Зачем мне что-то от тебя скрывать?】
+()||:【Ты явно знаешь что-то о той «белой» группировке, которая мешает нам, но так и не объяснил, в чём дело.】
+()||:【Ну, ты же не спрашивал.】
+()||:【Я ведь сейчас спрашиваю, разве не так?】
+()||:【Впервые я столкнулся с «Парадеус», когда работал в Южной Европе. Тогда их просто считали сектой. Никто не обращал на них внимания — это было в те времена, когда культы были чрезвычайно распространены.】+【Однако после нескольких неприятных инцидентов, связанных с этой организацией, люди наконец начали обращать на них внимание.】+【Расследование показало, что и темпы их расширения, и их вооружение были совершенно нетипичными. Скорее, это не культ, а террористическая организация с политической повесткой.】
+()||:【Террористы, которые собирают трупы... Удивительно, что кто-то вообще может с ними соглашаться и даже присоединяться к их делу.】
+()||:【Не стоит недооценивать отчаяние беженцев. На такое «дешёвое спасение» есть спрос.】
+()||:【Люди, которые совершают зло только для того, чтобы прожить ещё несколько дней, не заслуживают сочувствия. Меня больше беспокоит то, как быстро растёт вооружение белой фракции. Каждый раз, когда мы с ними сражаемся, появляются всё более совершенные единицы.】
+()||:【«Как будто они испытывают на нас своё оружие». Ты об этом думаешь?】
+()||:【Что заставляет их так быстро наращивать вооружение?】
+()||<黑屏1>:【Именно это мы и собираемся выяснить.】
 ()||<黑屏2><BGM>BGM_Brain</BGM><BIN>202</BIN>:...
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:That's all the recordings we received this time, Commander. +Hmm...these voices all sound quite familiar, and judging from the subjects they touched on, these conversations shouldn't have taken place too long ago. +Hopefully all this new intelligence will prove useful for our operation. 
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<黑屏1>:Вот и все записи, которые мы получили на этот раз, Командир. +Хм... эти голоса кажутся мне очень знакомыми, и, судя по тем темам, которые они затрагивали, эти разговоры, должно быть, состоялись не так давно. +Надеюсь, все эти новые разведданные пригодятся нам в операции.
