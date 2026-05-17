@@ -1,23 +1,23 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Brain</BGM>:Commander, I believe we've received some new recordings.
-Commander()||:Alright. As always, let's play through them.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:However, these new audio files weren't as carefully encrypted as the ones before. It felt a bit like a rushed job. I wonder if it's just my imagination...
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:<color=#00CCFF>The audio recording starts playing.</color>
-()||:【Is comms control restored? Where are you?】
-()||:【Somewhere quite far away. I've already done my best to remove the restrictions on you so you should now be able to contact the outside world using your previous secure channel.】
-()||:【That's great... I think I'd also like to give you whatever help I can.】
-()||:【Make sure you do. However, I need to operate on my own for now. I want to you get back in touch with the Griffin Commander. Griffin could really use your knowledge and expertise.】
-()||:【I understand. I'll get to it right away.】
-()||:【Also, I need more information about Lyco. It's about time...we completely uncovered the truth behind the Butterfly Incident.】
-()||:【I've told you part of it before, but I actually left something out.】+【After the rejection, Lyco and I were in fact still in touch. He once wrote to me, saying that he wanted to design a kind of neural module based on the human memory and neurological structure.】+【I must say, he came up with a really fascinating idea. A neural cloud like that would be more capable of empathy.】
-()||:【Was he trying to create Dolls that are more human-like?】
-()||:【That's right. Lyco was a gentle soul, so he wanted his Dolls to be gentle as well.】+【Based on the results of his scientific research, I developed the Dolls in the AR Team. I also shared my data with him. We kept the collaboration going, until...】
-()||:【Until?】
-()||:【Until one day, he told me that the neural cloud he designed was reacting to the Pike Node, and he started to realize how bad things were. He said he was going to remove certain frameworks in the neural cloud as its resonance with the Pike made him very uneasy.】
-()||:【Was this neural cloud...the Sangvis Mastermind? Did Lyco tamper with "Elisa"?】
-()||:【I'm not too sure about that... I haven't been able to contact him since then. Then the Butterfly Incident occured soon afterward...】
-()||:【I see... Thank you. This is very important information.】
-()||:【If that neural cloud showed reaction, then the same...will probably happen to M4. I'm worried that she'll...】
-()||:【Sometimes...I feel like she's even more human than me. Don't worry, we'll take good care of her. I'm sure she'll watch out for herself as well.】
-()||:【Yeah...I have a feeling that she'll lead us to the answer.】
-()||<黑屏1>:【Let's hope so.】
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Brain</BGM>:Командир, по-моему, мы получили новые записи.
+Commander()||:Ладно. Как всегда, давай их посмотрим.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<黑屏1>:Однако эти новые аудиофайлы были зашифрованы не так тщательно, как предыдущие. Создалось впечатление, что над ними работали в спешке. Интересно, может, это просто мое воображение...
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM>:<color=#00CCFF>Начинается воспроизведение аудиозаписи.</color>
+()||:【Связь восстановлена? Где ты?】
+()||:【Где-то очень далеко. Я уже сделал всё, что мог, чтобы снять с тебя ограничения, так что теперь ты можешь связаться с внешним миром через свой прежний защищённый канал.】
+()||:【Здорово... Думаю, я тоже была бы рада помочь тебе, чем смогу.】
+()||:【Обязательно так и сделай. Но пока мне придётся действовать самостоятельно. Я хочу, чтобы ты снова связался с Командиром Грифона. Грифону очень пригодятся твои знания и опыт.】
+()||:【Поняла. Сразу же этим займусь.】
+()||:【Кроме того, мне нужна дополнительная информация о Лико. Пора уже... полностью раскрыть правду о «Инциденте Бабочки».】
+()||:【Я тебе уже рассказывала об этом, но на самом деле кое-что упустила.】+【После отказа мы с Лико, по сути, оставались на связи. Однажды он написал мне, что хочет разработать некий нейронный модуль, основанный на человеческой памяти и нейрологической структуре.】+【Надо сказать, у него возникла действительно увлекательная идея. Такое нейронное облако было бы более способно к эмпатии.】
+()||:【Может быть, он пытался создать Куклы, более похожие на людей?】
+()||:【Да, верно. Лико был очень добрым человеком, поэтому он хотел, чтобы и его Куклы были такими же добрыми.】+【Основываясь на результатах его научных исследований, я разработала Куклы в Команде AR. Я также поделилась с ним своими данными. Мы продолжали сотрудничать, пока...】
+()||:【Пока?】
+()||:【Пока однажды он не сказал мне, что разработанное им нейронное облако реагирует на узел системы «Щука», и он начал понимать, насколько все плохо. Он сказал, что собирается удалить некоторые компоненты из нейронного облака, так как его резонанс с системой «Щука» вызывал у него сильное беспокойство.】
+()||:【Это нейронное облако... было ли оно Владыкой Сангвиса? Лико вмешался в работу «Элизы»?】
+()||:【Я в этом не совсем уверна... С тех пор мне не удалось с ним связаться. А вскоре после этого произошел «Инцидент Бабочки».】
+()||:【Понятно... Спасибо. Это очень важная информация.】
+()||:【Если это нейронное облако проявило реакцию, то то же самое... скорее всего, произойдет и с M4. Я боюсь, что она...】
+()||:【Иногда... мне кажется, что она даже более человечна, чем я. Не волнуйся, мы о ней позаботимся. Уверен, она и сама о себе позаботится.】
+()||:【Да... У меня такое предчувствие, что она приведет нас к ответу.】
+()||<黑屏1>:【Будем надеяться.】
