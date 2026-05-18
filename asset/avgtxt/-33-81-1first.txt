@@ -1,24 +1,24 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2>:...
-()||:<color=#00CCFF>The audio recording starts playing.</color>
-()||:【What is it? A call at this time? Suddenly feel like reminiscing about the past with me?】
-()||:【I'm not even half your age, so I don't think I have the right to do that.】
-()||:【Since when did a person's rights have anything to do with age? That isn't like you.】
-()||:【...How very direct of you. As you know, I've already retired. I haven't given a damn about that whole mess in ages.】
-()||:【Things really have changed. The people up there don't want to be locked in this stalemate any longer.】
-()||:【You Rossartrists...are way too naïve.】
-()||:【But this is an opportunity, and you're a patriot who will never do anything that betrays your country's interests.】
-()||:【Those brats went overboard. They have never experienced what it was like when the plague happened during the Cold War. They have to pay a very heavy price for opening a door that should never be opened.】
-()||:【If that's your stance...】
-()||:【Here's a warning. This country has seen too much bloodshed. Hatred and hostility won't be wiped away as easily as you'd think.】
-()||:【But "do not go gentle into that good night", isn't that right?】
+()||:<color=#00CCFF>Начинается воспроизведение аудиозаписи.</color>
+()||:【Что это? Звонок в такое время? Вдруг захотелось поностальгировать со мной?】
+()||:【Мне даже и половины твоего возраста нет, так что я не думаю, что у меня есть на это право.】
+()||:【С каких это пор права человека зависят от возраста? Это не в твоем духе.】
+()||:【...Как ты прямолинеен. Как ты знаешь, я уже на пенсии. Мне уже давно наплевать на всю эту заварушку.】
+()||:【Ситуация действительно изменилась. Люди наверху не хотят больше оставаться в этой тупиковой ситуации.】
+()||:【Вы, россартисты... слишком наивны.】
+()||:【Но это шанс, а ты — патриот, который никогда не пойдёт на что-то, что противоречит интересам твоей страны.】
+()||:【Эти сопляки переборщили. Они даже не представляют, что было, когда во время Холодной войны разразилась эпидемия. Им придётся заплатить очень высокую цену за то, что открыли дверь, которую никогда не следовало открывать.】
+()||:【Если такова твоя позиция...】
+()||:【Вот тебе предупреждение. Эта страна видела слишком много кровопролития. Ненависть и вражду не так легко стереть, как тебе может показаться.】
+()||:【Но «не уходи спокойно в ту добрую ночь», разве не так?】
 ()||:【...】
-()||:【Even if it's just a single step, someone still has to take it. I'd much rather it's a friend than a foe.】
-()||:【Humph...well said. Before you give yourselves away, I won't stop you. But others in the Committee won't be so benevolent.】
-()||<黑屏1>:【That's all I need to hear.】
-()||<黑屏2><BIN>202</BIN>:On the train.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<BGM>BGM_Brain</BGM>:Hmm... The recordings this time are rather hard to digest... +Miss Persica, can you make any sense of it?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Dammit...</color>
-NPC-Persica(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Miss Persica?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>I need to go for a bit! I have to check this room!</color>
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:Hmm? Why does she suddenly want to do that...? Eh, maybe scientists are just weirdos.
+()||:【Даже если это всего лишь один шаг, кто-то всё равно должен его сделать. И я бы предпочёл, чтобы это был друг, а не враг.】
+()||:【Хм... хорошо сказано. Пока ты не выдашь себя, я тебя не останавливаю. Но остальные члены Комитета не будут так снисходительны.】
+()||<黑屏1>:【Больше ничего и не нужно.】
+()||<黑屏2><BIN>202</BIN>:В поезде.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<BGM>BGM_Brain</BGM>:Хм... Эти записи на этот раз довольно сложно понять... +Мисс Персика, ты можешь в этом разобраться?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Проклятье...</color>
+NPC-Persica(0);NPC-Kalin(0)<Speaker>Калина</Speaker>||:Мисс Персика?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>Мне нужно ненадолго отлучиться! Мне надо проверить эту комнату!</color>
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<黑屏1>:Хм? Почему она вдруг захотела это сделать...? Эх, наверное, ученые просто странные люди.
