@@ -1,22 +1,22 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2>:...
-()||:<color=#00CCFF>The audio recording starts playing.</color>
-()||:【For heaven's sake. That cost me way too much.】
-()||:【What is this?】
-()||:【A report about the incident four years ago. Most of it has been erased. I don't know who tampered with it, but it was definitely a pro.】
-()||:【I found some similar incidents. "Young Girl Responsible for Assaults in Griffin Sectors", 16 cases. Witnesses had reported seeing girls that resembled the assailant in multiple areas.】
-()||:【"The assailant who survived could not be identified. After interrogation, she was sent to..." This part got struck out. "In the other cases, the remains of the shot assailants were processed..." This also got crossed out.】
-()||:【I'm guessing the other girls were all identical.】
-()||:【They were clones?】
-()||:【If he was behind everything, he would certainly have no qualms about that. Ethics and morals mean absolutely nothing to him.】
-()||:【Only 16 cases were documented in the report; there might actually be more clones than what we know of.】
-()||:【Is it possible to track down the other clones?】
-()||:【As long as one of them comes into contact with you. The others must've been destroyed upon retrieval. Besides, this was four years ago, and Griffin has jurisdiction in many sectors.】
-()||:【...Indeed. Even back then, I thought I ran into her by pure coincidence.】
-()||:【But you're correct in suspecting otherwise. That incident was anything but a coincidence. Those clones were actually transporting something.】
-()||:【...Could they be transporting their brain?】
-()||:【That's my guess as well. But is that even possible? Why would he know you were scanning their brains?】
-()||:【He knows me too well... Also, her brain waves are very peculiar, almost structured like a Doll's neural cloud...】
-()||:【But...isn't it quite a technical challenge to digitize the human consciousness?】
-()||:【That's true...which was precisely why he was sure I would do it.】
-()||<黑屏1>:【In the end, I still lost to myself... I've got to do something.】
+()||:<color=#00CCFF>Начинается воспроизведение аудиозаписи.</color>
+()||:【Боже мой. Это обошлось мне слишком дорого.】
+()||:【Что это?】
+()||:【Отчет об инциденте, произошедшем четыре года назад. Большая его часть была стерта. Не знаю, кто подделал его, но это точно был профессионал.】
+()||:【Я нашел несколько похожих случаев. «Девочка, причастная к нападениям в районах Грифона», 16 случаев. Свидетели сообщали, что видели девочек, похожих на нападавшую, в разных районах.】
+()||:【«Личность выжившей нападающей установить не удалось. После допроса её отправили в...» Эта часть была зачеркнута. «В остальных случаях останки застреленных нападающих были...» Это тоже было зачеркнуто.】
+()||:【Полагаю, остальные девушки были все одинаковые.】
+()||:【Они были клонами?】
+()||:【Если бы он стоял за всем этим, он бы, конечно, ничуть не задумывался. Этика и мораль для него абсолютно ничего не значат.】
+()||:【В отчёте упомянуто всего 16 случаев, на самом деле клонов может быть больше, чем мы знаем.】
+()||:【Можно ли найти остальных клонов?】
+()||:【Если только один из них не попал к тебе. Остальные, наверное, уничтожили при извлечении. К тому же это было четыре года назад, а у Грифона есть юрисдикция во многих секторах.】
+()||:【...Действительно. Даже тогда я думал, что встретил её совершенно случайно.】
+()||:【Но ты прав, что подозреваешь нечто иное. Тот инцидент был отнюдь не случайностью. Те клоны на самом деле что-то перевозили.】
+()||:【...Может быть, они переносят свой мозг?】
+()||:【Я тоже так думаю. Но разве это вообще возможно? Откуда ему было знать, что ты сканируешь их мозг?】
+()||:【Он слишком хорошо меня знает... К тому же её мозговые волны очень необычные, почти как нейронное облако Куклы...】
+()||:【Но... разве оцифровка человеческого сознания не представляет собой довольно сложную техническую задачу?】
+()||:【Это правда... Именно поэтому он и был уверен, что я это сделаю.】
+()||<黑屏1>:【В конце концов, я всё-таки проиграл самому себе... Надо что-то делать.】
