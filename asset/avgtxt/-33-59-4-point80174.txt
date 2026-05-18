@@ -1,1 +1,1 @@
-()||<BIN>10</BIN>:As long as someone gives up, a winner will emerge even from an endless stalemate. +<color=#FFFF00>Tip - Triggering certain random nodes will change the enemies' movements.</color>
+()||<BIN>10</BIN>:Пока кто-то не сдастся, победитель найдется даже в бесконечной патовой ситуации. +<color=#FFFF00>Совет — при активации определенных случайных узлов движения врагов изменятся.</color>
