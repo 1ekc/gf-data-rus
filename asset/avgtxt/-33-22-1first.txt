@@ -1,29 +1,29 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><BGM>m_avg_labyrinth</BGM>:At the same time, on the other side of Tallinn.
-()<Speaker></Speaker>||:Zzzraa—
-()<Speaker>UMP9</Speaker>||:<color=#00CCFF>Hey, 45! Can you hear me?</color>
-()<Speaker></Speaker>||:9's communication signal suddenly goes through, accompanied by the sound of an intermittent electrical current.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ja. +I didn't expect you could re-establish the connection. +While you're at it, 9, help me record these—
-UMP45Mod(0)<Speaker>UMP9</Speaker>||:<color=#00CCFF>Uh... 45, are you still...inside M4's Level II —zzzraa— layer?</color>+<color=#00CCFF>I can't...maintain neural cloud consciousness —zzraa— in there...</color>+<color=#00CCFF>I'm just barely able —zzzz— to speak with you...through basic audio...</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Looks like it's very hard to keep it stable even if we came in through a backdoor. It's alright, 9, just leave it be. It would be bad if M4 found us. +Just help me record these images.
-()<Speaker></Speaker>||<白屏1>:UMP45 cautiously and slowly moves through the white region of cyberspace. She sees M4A1's afterimages and the girl holding M4's hand. +These images soon vanish before UMP45's eyes like popped bubbles.
-()<Speaker></Speaker>||<BIN>195</BIN><白屏2>:UMP45 stops walking and looks around, then she strides in the direction where M4A1 has vanished. +UMP45 comes to a halt. At this moment, the signal that UMP9 is monitoring suddenly goes out of control.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:I can't believe the space inside M4A1's neural cloud is so massive... It's so big it defies common sense. +Can a single Doll really handle so much neural cloud space? Or is this space not installed in her? +What is this place? Why does everything here look upside down...?
-()<Speaker></Speaker>||:Sunlight cascades down through the gaps in the trees' shade. The inverted trees are weird, yet captivating. UMP45 can't help but admire them.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<白屏1>:M4A1's internal cognitive logic is a mess, but you can't tell at all from the outside. If an ordinary Doll's base layer is in such a state of disarray, they'd probably have thrown up errors and shut down long ago. +...Or could it be that this isn't inside her. It's an external neural cloud domain being processed internally... Is that possible?
-M4A1Mod(0)<Speaker></Speaker><Shake>||<BIN>201</BIN><白屏2><SE1>Runstep</SE1>:Suddenly, M4A1 runs past UMP45.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<白屏1>:M4?! Uh...wait!
-()<Speaker></Speaker>||<BIN>206</BIN><白屏2>:45 runs after the image, but the space suddenly changes, and a mansion appears in front of her.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Is this an illusion? Or is this a memory fragment?
-()<Speaker></Speaker>||:A stream of M4A1's phantoms run past 45 and into the bizarre mansion. +Different M4s hurriedly enter with different gaits and different looks on their faces. 45 isn't sure if she's imagining things, but she senses that the trees overhead are growing denser.
-()<Speaker>UMP9</Speaker>||:<color=#00CCFF>45?</color>+<color=#00CCFF>Oh no... The signal on my side is too much of a mess, and there's a lot of noise...</color>+<color=#00CCFF>What did you find?</color>
-()<Speaker></Speaker>||:45 stands where the M4s were passing through earlier and studies the mansion before her.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Nothing much... Just that there's a mansion in front of me... I feel the answer should be in there.
-()<Speaker>UMP9</Speaker>||:<color=#00CCFF>A mansion? I think there's something wrong about a mansion appearing in a neural cloud. 45—</color>
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><闪屏><duration>5</duration><rate>10</rate></闪屏><SE1>AVG_whitenoise</SE1>:Zzzraaa—
-()<Speaker></Speaker>||:The transmission gets cut off.
-()<Speaker></Speaker>||<黑屏1><BGM>m_avg_tension</BGM>:Somewhat dazzled by the light, UMP45 narrows her eyes and stares at the silhouette of the mansion, then walks up to its front door. +Just as she's about to raise her foot and step forward, she suddenly feels someone shove her hard from the front.
-()||<BIN>9</BIN><黑屏2>:The white light before 45's eyes instantly vanishes, and she experiences the feeling of an endless descent. +After falling in the darkness for a long time, 45 feels herself slamming onto the ground.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Dammit, why is her Level II so weird?
-()<Speaker></Speaker>||:Just as 45 starts muttering to herself, she subconsciously cuts herself off. +That's because 45 suddenly realizes exactly where she is.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:It didn't take long for me to be spotted. I'm no longer in M4's neural cloud, huh. +Well then, let me see what you're all about, "monster" living inside a Doll's neural cloud.
+()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><BGM>m_avg_labyrinth</BGM>:В то же время, на другом конце Таллинна.
+()<Speaker></Speaker>||:Зззрраа—
+()<Speaker>UMP9</Speaker>||:<color=#00CCFF>Эй, 45-я! Ты меня слышишь?</color>
+()<Speaker></Speaker>||:Сигнал связи с 9-я внезапно поступает, сопровождаемый звуком прерывистого электроимпульса.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Да. +Я не думала, что тебе удастся восстановить связь. +Пока ты этим занимаешься, 9-я, помоги мне записать это...
+UMP45Mod(0)<Speaker>UMP9</Speaker>||:<color=#00CCFF>Ух... 45-я, ты всё ещё... внутри Уровня II —зззрраа— слоя?</color>+<color=#00CCFF>Я не могу... поддерживать здесь нейронное облачное сознание —зззрраа—... </color>+<color=#00CCFF>Я едва могу —зззз— разговаривать с тобой... через базовый аудиоканал...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Похоже, даже если мы проникли через черный ход, удержать ситуацию под контролем будет очень сложно. Ничего страшного, 9-я, просто оставь всё как есть. Будет плохо, если M4 нас обнаружит. +Просто помоги мне записать эти кадры.
+()<Speaker></Speaker>||<白屏1>:UMP45 осторожно и медленно пробирается по белой области киберпространства. Она видит послеобразы M4A1 и девушку, держащую M4 за руку. +Эти образы вскоре исчезают у UMP45 на глазах, словно лопнувшие пузыри.
+()<Speaker></Speaker>||<BIN>195</BIN><白屏2>:UMP45 останавливается, оглядывается, а затем быстрым шагом направляется туда, куда исчезла M4A1. +UMP45 останавливается. В этот момент сигнал, который отслеживает UMP9, внезапно выходит из строя.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Не могу поверить, что пространство внутри нейронного облака M4A1 такое огромное... Оно настолько велико, что это выходит за рамки здравого смысла. +Неужели одна-единственная Кукла способна управлять таким огромным пространством нейронного облака? Или это пространство не установлено в ней? +Что это за место? Почему здесь всё выглядит как вверх ногами...?
+()<Speaker></Speaker>||:Солнечный свет пробивается сквозь просветы в кронах деревьев. Перевернутые деревья выглядят странно, но при этом завораживают. UMP45 не может не восхищаться ими.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<白屏1>:Внутренняя когнитивная логика M4A1 — полный хаос, но снаружи этого совершенно не заметно. Если бы базовый уровень обычной Куклы находился в таком беспорядке, она, наверное, уже давно выдала бы ошибки и отключилась. +...Или, может быть, это вообще не внутри неё? А это внешний нейронный облачный домен, который обрабатывается внутри... Это возможно?
+M4A1Mod(0)<Speaker></Speaker><Shake>||<BIN>201</BIN><白屏2><SE1>Runstep</SE1>:Внезапно M4A1 проносится мимо UMP45.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<白屏1>:M4?! Ух... погоди!
+()<Speaker></Speaker>||<BIN>206</BIN><白屏2>:45-я бежит за изображением, но пространство внезапно меняется, и перед ней появляется особняк.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Это иллюзия? Или это обрывок воспоминания?
+()<Speaker></Speaker>||:Поток призраков M4A1 проносится мимо 45-ой и устремляется в странный особняк. +Разные версии M4 спешат внутрь, двигаясь по-разному и с разными выражениями на лицах. 45-ф не уверена, не кажется ли ей это, но она чувствует, что деревья над головой становятся гуще.
+()<Speaker>UMP9</Speaker>||:<color=#00CCFF>45-я?</color>+<color=#00CCFF>Ох нет... Сигнал у меня очень плохой, и много помех...</color>+<color=#00CCFF>Что ты обнаружила?</color>
+()<Speaker></Speaker>||:45-я стоит там, где раньше проезжали M4, и разглядывает особняк перед собой.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ничего особенного... Просто передо мной стоит особняк... Мне кажется, ответ должен быть там.
+()<Speaker>UMP9</Speaker>||:<color=#00CCFF>Особняк? Мне кажется, что появление особняка в нейронном облаке — это как-то ненормально. 45-я—</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><闪屏><duration>5</duration><rate>10</rate></闪屏><SE1>AVG_whitenoise</SE1>:Зззрраа—
+()<Speaker></Speaker>||:Передача прерывается.
+()<Speaker></Speaker>||<黑屏1><BGM>m_avg_tension</BGM>:Слегка ослеплённая ярким светом, UMP45 прищурилась и уставилась на силуэт особняка, а затем подошла к его входной двери. +Как раз когда она собиралась сделать шаг вперёд, она вдруг почувствовала, как кто-то сильно толкнул её сзади.
+()||<BIN>9</BIN><黑屏2>:Белый свет перед глазами 45-я мгновенно исчезает, и она ощущает, будто падает без конца. +Пропав в темноте довольно долго, 45-я чувствует, как она с силой ударяется о землю.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Чёрт, почему у неё такой странный Уровень II?
+()<Speaker></Speaker>||:Как только 45-я начинает бормотать про себя, она сама того не замечая, замолкает. +Это потому, что 45-я вдруг точно осознает, где она находится.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Меня очень быстро обнаружили. Так я уже не в нейронном облаке M4, да? +Ну что ж, давай посмотрим, на что ты способен, «монстр», живущий в нейронном облаке Куклы.
