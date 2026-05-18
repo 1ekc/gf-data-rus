@@ -1,52 +1,52 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><Night><BGM>BGM_stage5</BGM>:UMP45 stands up. Her surroundings are pitch black, but she can still make out writhing figures from within the fog. +Like undersea monsters crawling out of a black tide, these figures slowly but surely begin moving towards 45's landing site.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Are these offensive firewalls? If that's all there is to you, you can't do anything to me.
-()<Speaker></Speaker>||<SE1>Gunfight</SE1>:UMP45 opens fire at these thoughtforms. The shattered thoughtforms scatter like ashes, but wave after wave of them flood out, nearly drowning her.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Tsk, as I thought, that couldn't possibly be all... I've got no choice but to escape, huh...
-()<Speaker></Speaker>||<SE1>Explode</SE1>:Bangbang! Boom—
-()<Speaker></Speaker>||:At that moment, UMP45 has a hard time telling if the explosions are really as loud as they sound to her. +Flames burn a path through the thoughtforms, while the black space seems to eliminate all sound, as though it were a silent, distant sky. +After the light and shadows shrink back, it looks like nothing had ever happened. +UMP45 hurriedly dashes through the scorched path and runs forward.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:Looks like 9 and the others are still thinking of ways to assist me. I need to obtain more data.
-()<Speaker></Speaker>||<黑点2>:After running through this unknown space for some time, the scenery around UMP45 begins to change.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Have I shaken off those offensive firewalls?
-AbandonedIsomer(0)<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Bell</SE1>:Why have you come here?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<白屏1>:Wha...
-()<Speaker></Speaker>||<BIN>183</BIN><白屏2><BGM>m_avg_labyrinth</BGM>:The black space seems to have a border to it, and when 45 walks in front of a half-hidden door and pulls it open, the blinding white light makes her squint out of reflex.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...Tsk!
-()<Speaker></Speaker>||<白屏1>:When she manages to make out what she's seeing before her, she freezes for a moment.
-AbandonedIsomer(0)<Speaker></Speaker>||<BIN>72</BIN><白屏2>:It is a virtual space like the one she saw on Level II, filled with countless girls who strongly resemble M4 in appearance. +Countless pairs of empty eyes stare right at 45.
-()<Speaker></Speaker>||:45 subconsciously takes a step back, but the door from earlier has vanished.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:At least I managed to find something that looks like her...
-AbandonedIsomer(0)<Speaker></Speaker>||:The M4 look-alikes swarm toward UMP45 like the thoughtforms from before, and the girl in the lead walks up to UMP45.
-AbandonedIsomer(0)<Speaker>???</Speaker>||:Why, why are you among us? +This, is not a place you can enter.
-()<Speaker></Speaker>||:UMP45 shrugs, but her fingers grip her gun tighter.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_tension</BGM>:You're not the judge of whether or not I can be here.
-AbandonedIsomer(0)<Speaker>???</Speaker>||:You, are not worthy, of being here. +Get out.
-()<Speaker></Speaker>||:As the girl finishes speaking, UMP45 is sent flying before she can raise her gun. +The horde of girls surrounding her also start attacking UMP45.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:You think I'd just leave because you tell me to...? +I haven't even figured out—
-()<Speaker></Speaker>||:The opposition's attacks show no sign of abating despite what UMP45 said. They simply surround her slowly, like machines carrying out an order. +They try to touch UMP45, and the places on UMP45 where they make contact begin to slowly disappear.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Bang bang!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:This is bad... They're much more troublesome than those thoughtforms... +Plus, they're directly rewriting my neural cloud operating instructions. Are they preparing to completely consume me here...?
-()<Speaker></Speaker>||<SE1>Explode</SE1>:Boom—!
-()<Speaker></Speaker>||:The sudden explosion causes the horde of mysterious girls to stop attacking for a brief second, and 45 takes the opportunity to duck aside.
-()<Speaker></Speaker>||:Zzzraaa—
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:At this moment, there is a response from 45's communicator. +The voices of Squad 404 are carried intermittently over the sound of electrical buzzing.
-()<Speaker>416</Speaker>||:<color=#00CCFF>You dummkopf, where the hell did you run off to by yourself?! Do you know how overheated your body is right now?!</color>+<color=#00CCFF>All of our neural clouds are being tied up in maintaining this bloody transmission with you and we even have to help you take down this damn firewall attack!</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...If you've got the time to scold me, then just help me get rid of this ridiculous defense system.
-UMP45Mod(0)<Speaker>416</Speaker>||:<color=#00CCFF>We can't! Do you know how hard M4 is trying to restrict our connection?!</color>+<color=#00CCFF>You need to get out right away... This is all we can do!</color>
-()<Speaker></Speaker>||:The audio transmission cuts off, and 45 doesn't have the time to wonder if it was because of the firewalls or if 416 hung up. +She has only a moment's respite, then the attacks from before resume in full force.
-()<Speaker>UMP9</Speaker>||:<color=#00CCFF>45! We should be able to block their attacks for a few seconds, try forcibly logging off!</color>
-()<Speaker></Speaker>||:9's voice is accompanied by the enemies lurching unnaturally at her.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:(But I haven't found what I want yet...!)
-UMP45Mod(0)<Speaker>UMP9</Speaker>||:<color=#00CCFF>45, can you hear me?</color>+<color=#00CCFF>Disconnect — zzraa — neural cloud!</color>+<color=#00CCFF>I'll try my best to disrupt their attacks—</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:(I can't just give up like this!)
-UMP45Mod(0)<Speaker>UMP9</Speaker>||:<color=#00CCFF>45! Can you hear me?!</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:9, hurry and contact the Commander. These are the memory fragments I managed to intercept just now...
-UMP45Mod(0)<Speaker>UMP9</Speaker>||:<color=#00CCFF>But what about you?!</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>0,5</黑屏1><SE1>AVG_tele_disconnect</SE1>:I can't — zzraa — leave yet — zzraa
-()<Speaker>UMP9</Speaker>||<BIN>157</BIN><黑屏2>0,5</黑屏2><BGM>BGM_Empty</BGM>:45!
-()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM>:Her voice is no longer interspersed with the sounds of static. The members of Squad 404 crowd around UMP45's body, each of them staring at her.+They are surrounded by dim light, the stench of corpses, and damaged, stained stone walls.
-G11(2)<Speaker>Gr G11</Speaker>||:What...what should we do...? She's not moving...
-HK416Mod(0)<Speaker>416</Speaker>||:Is this the end...for 45?
-UMP9Mod(6)<Speaker>UMP9</Speaker>||:You guys...
-G11(0)<Speaker>Gr G11</Speaker>||:Hm?
-UMP9Mod(4)<Speaker>UMP9</Speaker>||<黑屏1>:Shut up! 45's just trapped in there! Take care of her body! +This is the information that 45 tried so hard to send to us... We need to inform the Commander right away; I'm sure the Commander will have a way to bring her back!
+()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><Night><BGM>BGM_stage5</BGM>:UMP45 встает. Вокруг царит кромешная тьма, но она всё же различает извивающиеся фигуры в тумане. +Словно подводные чудовища, вылезающие из чёрной волны, эти фигуры медленно, но верно начинают продвигаться к месту приземления 45-й.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Это что, защитные брандмауэры? Если это всё, на что ты способен, то ты мне ничего не сможешь сделать.
+()<Speaker></Speaker>||<SE1>Gunfight</SE1>:UMP45 открывает огонь по этим мыслеформам. Разрушенные мыслеформы разлетаются, как пепел, но одна волна за другой накрывает ее, едва не заглушая.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Тц, как я и думала, это еще не все... Придется бежать, да...
+()<Speaker></Speaker>||<SE1>Explode</SE1>:Бах! Бум—
+()<Speaker></Speaker>||:В этот момент UMP45 трудно понять, на самом ли деле взрывы так громки, как ей кажется. +Пламя прожигает себе путь сквозь мыслеформы, а чёрная пустота словно поглощает все звуки, как будто это безмолвное, далекое небо. +Когда свет и тени отступают, создается впечатление, что ничего и не происходило. +UMP45 поспешно прорывается по выжженной тропе и мчится вперёд.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:Похоже, 9-я и остальные всё ещё думают, как мне помочь. Мне нужно собрать больше информации.
+()<Speaker></Speaker>||<黑点2>:Пробежав некоторое время по этому неизвестному пространству, пейзаж вокруг UMP45 начинает меняться.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Мне удалось обойти эти надоедливые брандмауэры?
+AbandonedIsomer(0)<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Bell</SE1>:Зачем ты сюда пришла?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<白屏1>:Какого...
+()<Speaker></Speaker>||<BIN>183</BIN><白屏2><BGM>m_avg_labyrinth</BGM>:Кажется, что у этого чёрного пространства есть граница, и когда 45-я подходит к полузакрытой двери и открывает её, ослепительный белый свет заставляет её рефлекторно прищуриться.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...Тц!
+()<Speaker></Speaker>||<白屏1>:Когда ей удалось разобрать, что же она видит перед собой, она на мгновение замерла.
+AbandonedIsomer(0)<Speaker></Speaker>||<BIN>72</BIN><白屏2>:Это виртуальное пространство, похожее на то, что она видела на Уровне II, заполненное бесчисленным множеством девушек, внешне очень напоминающих M4. +Бесчисленные пары пустых глаз пристально смотрят прямо на 45-ю.
+()<Speaker></Speaker>||:45-я подсознательно делает шаг назад, но дверь, которая была там раньше, исчезла.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:По крайней мере, мне удалось найти что-то, что на неё похоже...
+AbandonedIsomer(0)<Speaker></Speaker>||:Копии M4 устремляются к UMP45, как те мыслеформы, что были раньше, а девушка, идущая впереди, подходит к UMP45.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:Почему, почему ты здесь? +Сюда тебе нельзя входить.
+()<Speaker></Speaker>||:UMP45 пожимает плечами, но пальцы её крепче сжимают рукоятку оружия.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_tension</BGM>:Не тебе решать, могу я здесь находиться или нет.
+AbandonedIsomer(0)<Speaker>???</Speaker>||:Ты не достойна здесь находиться. +Убирайся.
+()<Speaker></Speaker>||:Едва девушка закончила говорить, как UMP45 отлетела в сторону, не успев даже поднять оружие. +Окружавшая её толпа девушек тоже начала атаковать.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ты думаешь, я просто уйду, потому что ты мне так сказала...? +Я даже ещё не решила—
+()<Speaker></Speaker>||:Нападения противников не ослабевают, несмотря на то, что сказала UMP45. Они просто медленно окружают её, словно машины, выполняющие приказ. +Они пытаются коснуться UMP45, и те места на ней, с которыми они соприкасаются, начинают постепенно исчезать.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Бум-бум!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Это плохо... Они гораздо опаснее тех мыслеформ... +К тому же, они прямо-таки переписывают инструкции по работе моего нейронного облака. Они что, собираются меня здесь полностью поглотить...?
+()<Speaker></Speaker>||<SE1>Explode</SE1>:Баам—!
+()<Speaker></Speaker>||:Внезапный взрыв заставляет толпу загадочных девушек на мгновение прекратить атаку, и 45-я пользуется моментом, чтобы отскочить в сторону.
+()<Speaker></Speaker>||:Зззрраа—
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:В этот момент поступает ответ с коммуникатора 45-ой. +Голоса отряда 404 слышны с перебоями на фоне электрических помех.
+()<Speaker>416</Speaker>||:<color=#00CCFF>Эй, дурак, куда ты, черт возьми, пропала? Ты хоть представляешь, как перегролсь твоё тело?!</color>+<color=#00CCFF>Все наши нейронные облака сейчас заняты поддержанием этой чёртовой связи с тобой, а нам ещё и приходится помогать тебе отражать эту проклятую атаку на брандмауэр!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...Если у тебя есть время меня ругать, так просто помоги мне избавиться от этой нелепой системы защиты.
+UMP45Mod(0)<Speaker>416</Speaker>||:<color=#00CCFF>Не получится! Ты хоть представляешь, как M4 пытается ограничить наш доступ?!</color>+<color=#00CCFF>Тебе нужно немедленно уходить... Это всё, что мы можем сделать!</color>
+()<Speaker></Speaker>||:Связь обрывается, и у 45-й нет времени гадать, это из-за брандмауэров или 416-я повесила трубку. +У неё есть всего мгновение передышки, а потом прежние атаки возобновляются с новой силой.
+()<Speaker>UMP9</Speaker>||:<color=#00CCFF>45-я! Мы сможем заблокировать их атаки на несколько секунд, попробуй принудительно выйти из системы!</color>
+()<Speaker></Speaker>||:Голос 9-й сопровождается неловкими движениями врагов, набрасывающихся на неё.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:(Но я пока не нашла то, что ищу...!)
+UMP45Mod(0)<Speaker>UMP9</Speaker>||:<color=#00CCFF>45-я, ты меня слышишь?</color>+<color=#00CCFF>Отключаюсь —ззраа — нейронное облако!</color>+<color=#00CCFF>Постараюсь как можно сильнее помешать их атакам—</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:(Я не могу просто так сдаться!)
+UMP45Mod(0)<Speaker>UMP9</Speaker>||:<color=#00CCFF>45-я! Ты меня слышишь?!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:9-я, поспеши связаться с Командиром. Вот фрагменты памяти, которые мне удалось перехватить только что...
+UMP45Mod(0)<Speaker>UMP9</Speaker>||:<color=#00CCFF>А как же ты?!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>0,5</黑屏1><SE1>AVG_tele_disconnect</SE1>:Я не могу — ззраа — пока уйти — ззраа
+()<Speaker>UMP9</Speaker>||<BIN>157</BIN><黑屏2>0,5</黑屏2><BGM>BGM_Empty</BGM>:45-я!
+()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM>:В её голосе больше не слышны помехи. Члены отряда 404 толпятся вокруг тела UMP45, и все они пристально смотрят на неё.+Их окружают тусклый свет, зловоние трупов и повреждённые, испачканные каменные стены.
+G11(2)<Speaker>Gr G11</Speaker>||:Что... что нам делать...? Она не шевелится...
+HK416Mod(0)<Speaker>416</Speaker>||:Это конец... 45-ой?
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:Девчата...
+G11(0)<Speaker>Gr G11</Speaker>||:Хм?
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<黑屏1>:Завалитесь! 45-я просто застряла там! Позаботься о её теле! +Вот та информация, которую 45-я так старалась нам передать... Нам нужно немедленно сообщить об этом Командиру, я уверена, у Командира найдётся способ вернуть её!
