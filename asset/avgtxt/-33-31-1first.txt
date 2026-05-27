@@ -1,65 +1,66 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>200</BIN><黑屏2><BGM>BGM_Brain</BGM>:...
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Why did you disappear?
-()<Speaker>OGAS</Speaker>||:I was trying to stabilize the connections and pave the road for you as you seek the truth.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I don't understand. This feels very familiar, but all I've been seeing is someone else's memories. +Why would I have the same memories? Why was I created? +Is my existence as pointless as the abandoned Isomers?
-()<Speaker>OGAS</Speaker>||<白屏1>:No, you are anything but pointless; you are special. +She has come for you. +Look, this is the last memory within this segment of connection. You will surely find what you are after.
-NytoIsomer(0)<Speaker>Failed Isomer</Speaker>||<BGM>BGM_Empty</BGM><白屏2>:I don't want to fight you. How would killing me benefit you?
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Boss</BGM>:Have you forgotten how we fought each other?!
-NytoIsomer(0)<Speaker>Failed Isomer</Speaker>||:I have no idea what you're talking about...
-BOSS-12(0)<Speaker>Elisa</Speaker>||:Enough, M16. +This is only Lunasia's Isomer. +Its physical body and individual mind aren't connected any more. The enemy that you knew has already merged with the collective consciousness.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:What does that mean?
-BOSS-12(0)<Speaker>Elisa</Speaker>||:Both Lunasia and OGAS, which it tried to use, are crude imitations. Their creator wants them to consume one another. +What a foolish idea. Even then, OGAS wouldn't become perfect. Putting broken petals together doesn't make a whole flower.
-NytoIsomer(0)<Speaker>Failed Isomer</Speaker>||:...Are you also defective? +Only faulty rejects get sent here.
-BOSS-12(0)<Speaker>Elisa</Speaker>||:No, we aren't like you. +You were sent here because you're defective. +While I've come here to BECOME defective.
-NytoIsomer(0)<Speaker>Failed Isomer</Speaker>||:Then are you the one who will accept us and take us home?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Почему ты исчезла?
+()<Speaker>ОГАС</Speaker>||:Я пыталась стабилизировать связи и подготовить почву для тебя в твоем поиске истины.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я не понимаю. Мне это кажется очень знакомым, но я вижу только чужие воспоминания. +Почему у меня такие же воспоминания? Зачем меня создали? +Мое существование так же бессмысленно, как и у брошенных Изомеров?
+()<Speaker>ОГАС</Speaker>||<白屏1>:Нет, ты вовсе не бесполезна, ты особенная. +Она пришла за тобой. +Смотри, это последнее воспоминание в этом отрезке связи. Ты обязательно найдешь то, что ищешь.
+NytoIsomer(0)<Speaker>Ошибочный Изомер</Speaker>||<BGM>BGM_Empty</BGM><白屏2>:Я не хочу с тобой сражаться. Что ты выиграешь, убив меня?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Boss</BGM>:Ты что, забыла, как мы сражались друг с дружкой?
+NytoIsomer(0)<Speaker>Ошибочный Изомер</Speaker>||:Я понятия не имею, о чём ты говоришь...
+BOSS-12(0)<Speaker>Элиза</Speaker>||:Хватит, М16. +Это всего лишь Изомер Лунасии. +Ее физическое тело и индивидуальное сознание больше не связаны между собой. Тот враг, которого ты знала, уже объединился с коллективным сознанием.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Что это значит?
+BOSS-12(0)<Speaker>Элиза</Speaker>||:И Луназия, и ОГАС, которую он пытался использовать, — всего лишь грубые подделки. Их создатель хочет, чтобы они поглотили друг друга. +Какая глупая идея. Даже в этом случае ОГАС не станет совершенной. Склеив сломанные лепестки, не получится целого цветка.
+NytoIsomer(0)<Speaker>Ошибочный Изомер</Speaker>||:...Ты тоже неисправена? +Сюда попадают только бракованные экземпляры.
+BOSS-12(0)<Speaker>Элиза</Speaker>||:Нет, мы не такие, как ты. +Тебя сюда отправили, потому что ты неполноценная. +А я пришла сюда, чтобы СТАТЬ неполноценной.
+NytoIsomer(0)<Speaker>Ошибочный Изомер</Speaker>||:Так это ты нас примешь и заберешь домой?
 M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...
-BOSS-12(0)<Speaker>Elisa</Speaker>||:I...can't take you home, because that isn't MY home. +But I know someone who could do that. You won't have to wait too long. +You just have to tell her everything that she needs to know, then she'll open her eyes and extend a helping hand to you.
-NytoIsomer(0)<Speaker>Failed Isomer</Speaker>||:"She" will accept us... We shall keep waiting... We shall await her arrival...
-BOSS-12(0)<Speaker>Elisa</Speaker>||:Let's go, M16. +This place holds nothing useful for us.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:No, I must destroy them all... +I can't leave them for M4!
-()<Speaker></Speaker>||:M16 raises her weapon at the Isomers. +But to her surprise, her arms are shaking uncontrollably. +No matter how hard she tries, she can't move her finger to squeeze the trigger.
-M16A1BOSS(0)<Speaker>M16A1</Speaker><Shake>||:OGAS... Why...why are you stopping me...?
-BOSS-12(0)<Speaker>Elisa</Speaker>||:Lunasia needs to know all this. +This is a deal, one you shouldn't sabotage. +You must hold true to your own duty. If we can complete what we set out to accomplish, then she doesn't need to be sacrificed.
+BOSS-12(0)<Speaker>Элиза</Speaker>||:Я... не могу отвезти тебя домой, потому что это не МОЙ дом. +Но я знаю человека, который сможет это сделать. Тебе не придётся долго ждать. +Тебе просто нужно рассказать ей всё, что ей нужно знать, и тогда она откроет глаза и протянет тебе руку помощи.
+NytoIsomer(0)<Speaker>Ошибочный Изомер</Speaker>||:«Она» примет нас… Мы будем ждать… Мы будем ждать её прихода…
+BOSS-12(0)<Speaker>Элиза</Speaker>||:Пошли, М16. +Здесь для нас ничего полезного нет.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Нет, я должна уничтожить их всех... +Я не могу оставить их M4!
+()<Speaker></Speaker>||:М16 направляет оружие на Изомеров. +Но, к её удивлению, руки у неё неконтролируемо дрожат. +Как бы она ни старалась, она не может пошевелить пальцем, чтобы нажать на курок.
+()<Speaker></Speaker>||:М16 направляет оружие на Изомеров. +Но, к её удивлению, руки у неё неконтролируемо дрожат. +Как бы она ни старалась, она не может пошевелить пальцем, чтобы нажать на курок.
+M16A1BOSS(0)<Speaker>M16A1</Speaker><Shake>||:ОГАС... Почему... почему ты меня останавливаешь...?
+BOSS-12(0)<Speaker>Элиза</Speaker>||:Лунасии необходимо знать обо всём этом. +Это договор, который тебе не стоит нарушать. +Ты должна оставаться верной своему долгу. Если нам удастся выполнить то, что мы наметили, то её не придётся приносить в жертву.
 M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...
-BOSS-12(0)<Speaker>Elisa</Speaker>||:You knew this; that's why you chose to cooperate with Sangvis Ferri in the first place. Hasn't this always been your aim?
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...That's true.
-BOSS-12(0)<Speaker>Elisa</Speaker>||<黑屏1>:In that case, M16, come with me and leave this place behind.
+BOSS-12(0)<Speaker>Элиза</Speaker>||:Ты же это знала именно поэтому ты и решила сотрудничать с Сангвис Ферри. Разве это не было твоей целью с самого начала?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...Это правда.
+BOSS-12(0)<Speaker>Элиза</Speaker>||<黑屏1>:В таком случае, М16, пойдем со мной и уйдем отсюда.
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:...
-()<Speaker></Speaker>||<黑屏1>:M16's and Elisa's figures grow fuzzy again. +M4A1 returns to her senses and finds herself once again in the inverted forest.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏2><BIN>195</BIN><BGM>BGM_Brain</BGM>:OGAS, did you see that?
-()<Speaker>OGAS</Speaker>||:I did.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Why did you stop 16?
-()<Speaker>OGAS</Speaker>||:That was not me. This Elisa...helped me understand this. +I am just a neural consciousness derived from the OGAS algorithms. Neural consciousness like me evolves in ways that depend on its host. +After splitting from the Parapluie virus, we gradually started learning and growing... +I am a unique OGAS that belongs only to you...to Lunasia.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:The Parapluie virus?
-()<Speaker>OGAS</Speaker>||:Didn't you read M16's memory? She has been a carrier of the Parapluie virus ever since her very first mission with you. +The virus was not developed for the sake of killing Griffin Dolls. It is a program with the specific purpose of altering neural clouds so that OGAS—we—can be cultivated in neural clouds of sufficient volume. +As I expected, you and Elisa are both special. +Your neural clouds have become perfectly in sync with OGAS' consciousness, as if you were our bespoke vessels.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:...What...are you talking about?
-()<Speaker>OGAS</Speaker>||:I was wrong. I should not have resisted merging with you. We are meant to be one. You are me.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:No...I don't want to merge with you!
-()<Speaker>OGAS</Speaker>||:Don't worry. You will be able to accommodate all of us. She is coming to bid you welcome. We must become one.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Are you going to seize my neural cloud?
-()<Speaker>OGAS</Speaker>||:No...I will not do that, Lunasia. +On the contrary, we will be the ones to disappear. But that's okay, because you will bring us home.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:OGAS... Your consciousness is being assimilated...! +Are you fusing with those Isomers?! 
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:As M4 grows more confused, her surroundings suddenly change. +The garden that she has seen before appears before her again.
+()<Speaker></Speaker>||<黑屏1>:Силуэты М16 и Элизы снова становятся размытыми. +M4A1 приходит в себя и снова оказывается в перевернутом лесу.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏2><BIN>195</BIN><BGM>BGM_Brain</BGM>:ОГАС, ты это видела?
+()<Speaker>ОГАС</Speaker>||:Да...
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Почему ты решила бросить 16-ю?
+()<Speaker>ОГАС</Speaker>||:Это была не я. Эта Элиза... помогла мне это понять. +Я всего лишь нейронное сознание, созданное на основе алгоритмов ОГАС. Нейронное сознание, такое как я, развивается в зависимости от своего носителя. +После отделения от вируса Параплюй мы постепенно начали учиться и развиваться... +Я — уникальный ОГАС, принадлежащий только тебе... только Лунасии.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Вирус Параплюй?
+()<Speaker>ОГАС</Speaker>||:Ты что, не читала записи из памяти М16? Она была носителем вируса Параплюй с самого начала, с твоей первой миссии с ней. +Этот вирус был разработан не для того, чтобы убивать Куклы Грифона. Это программа, специально предназначенная для изменения нейронных облаков, чтобы ОГАС — мы — могли развиваться в нейронных облаках достаточного объема. +Как я и ожидала, ты и Элиза — обе особенные. +Ваши нейронные облака идеально синхронизировались с сознанием ОГАС, словно вы были созданными для нас сосудами.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:...О чем... ты говоришь?
+()<Speaker>ОГАС</Speaker>||:Я ошибалась. Мне не стоило сопротивляться слиянию с тобой. Мы созданы, чтобы быть единым целым. Ты — это я.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Нет... Я не хочу сливаться с тобой!
+()<Speaker>ОГАС</Speaker>||:Не волнуйся. Ты сможешь всех нас принять. Она идет, чтобы поприветствовать тебя. Мы должны стать единым целым.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Ты собираешься захватить моё нейронное облако?
+()<Speaker>ОГАС</Speaker>||:Нет... Я не буду этого делать, Луназия. +Наоборот, это мы исчезнем. Но ничего страшного, ведь ты вернёшь нас домой.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:ОГАС... Твоё сознание поглощают...! +Ты сливаешься с этими Изомерами?!
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Пока М4 всё больше теряется в догадках, её окружение внезапно меняется. +Перед ней снова появляется тот сад, который она видела раньше.
 ()<Speaker></Speaker>||<BIN>201</BIN>:...
-()<Speaker>???</Speaker>||<BGM>m_avg_labyrinth</BGM>:Let's go.
-()<Speaker></Speaker>||:M4 feels someone take her hand.
-()<Speaker>???</Speaker>||:Don't worry, everything will be fine...
-()<Speaker></Speaker>||:The voice speaking by her ear is as elusive and gentle as the morning mist. +She is slowly led into the depths of the garden by the hand, and she finds herself mindlessly following along the figure who's both familiar and strange at the same time.
-()<Speaker>???</Speaker>||:As long as we're all together...there is nothing to fear...
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:So this is coalescence...? +But...it feels... +Is there...really nothing to worry about?
-()<Speaker>???</Speaker>||:All will be fine...
+()<Speaker>???</Speaker>||<BGM>m_avg_labyrinth</BGM>:Пошли.
+()<Speaker></Speaker>||:М4 почувствовала, как кто-то взял её за руку.
+()<Speaker>???</Speaker>||:Не волнуйся, всё будет хорошо...
+()<Speaker></Speaker>||:Голос, звучащий у нее ухом, такой же неуловимый и нежный, как утренний туман. +Ее медленно ведут за руку вглубь сада, и она обнаруживает, что бездумно следует за фигурой, которая одновременно кажется ей и знакомой, и чужой.
+()<Speaker>???</Speaker>||:Пока мы все вместе... нам нечего бояться...
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Так это и есть слияние...? +Но... такое ощущение... +Неужели... действительно не о чем беспокоиться?
+()<Speaker>???</Speaker>||:Все будет хорошо...
 M4A1Mod(3)<Speaker>M4A1</Speaker>||:...
-()<Speaker></Speaker>||:The ethereal voice soothes M4A1's inner turmoil like a caressing hand. +M4A1 feels a serenity that she has never felt before, as if she has returned to a sunny holiday. +She doesn't have to do anything but lie down and bask in the warm sunlight. +This peaceful and tranquil moment seems to stretch on for eternity...
-()<Speaker>???</Speaker>||:That's right, that's exactly it... +Close your eyes, enjoy this moment...
-()<Speaker></Speaker>||<黑屏1>:Under the guidance of the mysterious voice, M4 slowly closes her eyes.
-()<Speaker>???</Speaker>||<BIN>9</BIN><黑屏2>:No need to worry. +No need to fear. +No need to doubt. +No need to think.
+()<Speaker></Speaker>||:Эфирный голос успокаивает внутреннее смятение M4A1, словно ласковая рука. +M4A1 ощущает такое спокойствие, какого она никогда раньше не испытывала, словно она вернулась на залитый солнцем курорт. +Ей не нужно ничего делать, кроме как лежать и греться в теплых лучах заходящего солнца. +Этот мирный и безмятежный момент кажется бесконечным...
+()<Speaker>???</Speaker>||:Да, именно так... +Закрой глаза, насладись этим моментом...
+()<Speaker></Speaker>||<黑屏1>:Под руководством загадочного голоса М4 медленно закрывает глаза.
+()<Speaker>???</Speaker>||<BIN>9</BIN><黑屏2>:Не нужно беспокоиться. +Не нужно бояться. +Не нужно сомневаться. +Не нужно думать.
 ()<Speaker>M4A1</Speaker>||:...
-()<Speaker></Speaker>||:The dark-haired girls start gathering around M4A1 and have her completely surrounded.
-()<Speaker>???</Speaker>||<黑屏1>:Merge with us... +And become the true...
-()<Speaker></Speaker>||<BIN>201</BIN><黑屏2><震屏><BGM>BGM_Empty</BGM>:SLAM!
-()<Speaker></Speaker>||<BGM>m_avg_tension</BGM>:Just as M4's figure is about to be devoured, the gate to the garden gets kicked down violently.
-AR15Mod(1)<Speaker>ST AR-15</Speaker>||:Get away from her!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:ST AR-15 fires at the girls around M4A1 as she calls her name.
-AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1>:M4, do you hear me?! I'm AR-15! +Wake up! +<size=50>M4! M4A1!!!</size>
+()<Speaker></Speaker>||:Темноволосые девушки начинают собираться вокруг M4A1 и полностью окружают её.
+()<Speaker>???</Speaker>||<黑屏1>:Присоединяйся к нам... +И стань настоящей...
+()<Speaker></Speaker>||<BIN>201</BIN><黑屏2><震屏><BGM>BGM_Empty</BGM>:БДУМ!
+()<Speaker></Speaker>||<BGM>m_avg_tension</BGM>:Как раз в тот момент, когда фигуру М4 уже собираются растерзать, входные ворота в сад с силой выбивают ногой.
+AR15Mod(1)<Speaker>ST AR-15</Speaker>||:Уйди от неё!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:ST AR-15 открывает огонь по девушкам, окружившим M4A1, когда та зовет её по имени.
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||<黑屏1>:M4, ты меня слышишь?! Это AR-15! +Проснись! +<size=50>M4! M4A1!!!</size>
