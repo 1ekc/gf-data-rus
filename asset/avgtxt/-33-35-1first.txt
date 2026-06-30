@@ -1,94 +1,94 @@
 ()||<BGM>BGM_Empty</BGM><黑屏1>:
 ()||<黑屏2><BIN>72</BIN><BGM>BGM_Brain</BGM>:...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Is it over...? +The number of connections are going down, but I already have what I want. +The experiment has been going on in this city for at least five years... +The consciousness of these failed Isomers have been merging and joining together the whole time, which actually makes it a lot easier for me to gather information.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:OGAS... The original source code of this AI was compressed into a program called "Parapluie", which activates the moment it is implanted into a host, overwriting all operating systems into OGAS systems. +After the alteration, if the host cannot cope with the massive computational load...the Isomer will suffer brain damage, and in a T-Doll's case, the neural cloud will be fried. +Which is why at Griffin, other than M4, all the other Dolls are failures... I knew it - Persica has everything to do with this.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Looking at it this way, once a Doll has contracted the virus, there are only two possibilities - either she experiences a neural meltdown, or she becomes a host for OGAS. +Which means the fellow in my base layer is also a simulation derived from a feeble OGAS... +Should I be thankful for the fact that my neural cloud has very limited space, or that my OGAS isn't particularly "clever"?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Still...I think I finally understand what really happened during the Butterfly Incident. +Why they chose us... Why they chose M16... It all makes sense now. +Since that time, we've been pawns on the chessboard... And now I've finally figured out what exactly these chess pieces are for. +I am getting closer and closer to the truth.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:But M4A1 is clearly the key to this entire business, and she's so powerful, so why hasn't she done anything up till now?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_whitenoise</SE1>:Tsk. The connection is shifting again... An external connection.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:No...this doesn't feel right. Is it already time to wrap up this operation?
-HK416Mod(0)<Speaker>416</Speaker>||<BIN>46</BIN><黑屏2><BGM>m_avg_tension</BGM>:Can...can you move?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ja, I can! Did 45 win?
-G11(2)<Speaker>Gr G11</Speaker>||:But what happened to that weird, mumbly enemy?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:That body has been abandoned.
-()||<SE1>ClothingUp</SE1>:45 slowly gets to her feet. She gives the Isomer who's cupping M4's cheek a light shove, and the Isomer topples onto the ground like a corpse.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Oh, 45! Are you alright?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Thanks to them, I managed to escape from the connection maze.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:(Coughs)
-AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Is this the real world...?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Welcome back, AR Team. +I know you're still feeling groggy, but I'm guessing the worst is about to happen any second now, so I suggest you smack yourselves awake and get moving right away.
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:You're...the leader of Squad 404? Don't worry, I've sent away the Isomer who's been causing the interference. It's over.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:15, are you alright? I think we'll have to acquire access authorizations for the quarantine wall some other way, but since the interference has been neutralized, it shouldn't be too danger—
-()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏>:BOOM!
-()||<BGM>BGM_Danger</BGM>:The sound of a massive explosion comes from the distance, followed by a series of continuous blasts.
-AR15Mod(2)<Speaker>ST AR-15</Speaker>||:What's going on?!
-G11(3)<Speaker>Gr G11</Speaker><Shake>||:Huh?!
-HK416Mod(0)<Speaker>416</Speaker>||:Is it a bombardment?!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:"It's over"? No, no, I believe you're terribly mistaken. This is the exact moment the enemy has been waiting for. +Back when we broke free of the virtual space, I sensed a new connection between the Isomer and somewhere outside Tallinn. Do you know what that means? 
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:...A connection with somewhere outside Tallinn?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:That thing in your mind is likely the target that the culprit behind everything is after, and you gave it away just like that. +Now that they've achieved their objective, their next step would be to bury us all here. 
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:What...
-RO635(0)<Speaker>RO635</Speaker>||:M4, 15, you're okay! Hmm? When did you get here, Squad 404?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:All of us were under attack from the forced connections, so we came over to regroup.
-RO635(3)<Speaker>RO635</Speaker>||:Is that so...? But we have more important things to discuss.
-RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:Just now we received word from the Commander that Tallinn City Station came under artillery fire. Our forces have detected a military armored train heading straight for us, so we have to rush back and set up our defenses!
-()||<黑屏2><BIN>202</BIN><BGM>BGM_Empty</BGM>:A few minutes ago.
-()||<BGM>BGM_Room</BGM>:Outside of Tallinn. +In the command center on board the Intercontinental Railway.
-NPC-Kalin(1)<Speaker>Kalina</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Good news, Commander! The interference affecting our Dolls has been neutralized!</color>+<color=#00CCFF>We've been hearing from our echelons - everyone is safe, no casualties.</color>
-NPC-Kalin(1)<Speaker>Commander</Speaker><scan><通讯框>||:Understood. +I'm guessing the AR Team must've done something... +Keep an eye on enemy movements. +Have our echelons resume their original mission.
-NPC-Kalin(0)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Roger that!</color>
-()<Speaker>Commander</Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Now we just have to wait for their next report...
-()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Danger</BGM>:An incoming transmission.
-M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, this is Squad Desert Eagle!</color>+<color=#00CCFF>Our Leader told me to inform you that they'd spotted something moving at high speed towards you via another railway track which goes through Tallinn!</color>
-M1895MG(0)<Speaker>Commander</Speaker><scan><通讯框>||:...!!
-M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框><Shake>||:<color=#00CCFF>Oh, I can see it from here! Looks like a massive train— Holy—!</color>
-()||<SE1>Explode</SE1><SE2>AVG_tele_disconnect</SE2>:M1895 CB's report is interrupted by a deafening boom.
-()<Speaker>Commander</Speaker>||:M1895 CB?! Are you alright?!
-M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Cough... All our signals are still accounted for. We're fine...</color>+<color=#00CCFF>That train is mounted with multiple cannons... Watch out, Commander...</color>
-M1895MG(0)<Speaker>Commander</Speaker><scan><通讯框>||:Acknowledged. +M1895 CB, tell your team to follow the original plan and proceed to the next rallying point.
-M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>Understood! We'll be on our way!</color>
-()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏>:BOOM!!!
-()<Speaker>Commander</Speaker>||<:...Ack!
-()||<黑屏1>:As the blast goes off, the entire train shakes violently.
-()||<黑屏2><BIN>9</BIN>:The lights installed on the ceiling keep flickering and go out eventually.
-()||<BGM>10065</BGM><SE1>AVG_keyboardtype_sci</SE1>:I grab hold of the edge of the desk to keep my balance, then I snatch up my tablet from among the objects that have scattered all around in the tremors and activate the comms channel.
-()<Speaker>Commander</Speaker>||<SE1>AVG_tele_connect</SE1>:Kalina?!
-NPC-Kalin(9)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I'm okay!</color>+<color=#00CCFF>How is it on your end?</color>
-NPC-Kalin(9)<Speaker>Commander</Speaker><scan><通讯框>||:I'm alive, no injuries. +Take stock of our casualties... Never mind, leave it. +Order all echelons to stick to the original plan and execute Operation Golden Fleece at once.
-NPC-Kalin(9)<Speaker>Kalina</Speaker><scan><通讯框>||:<color=#00CCFF>Are we really carrying out such a risky plan?</color>
-NPC-Kalin(9)<Speaker>Commander</Speaker><scan><通讯框>||:The quarantine wall is still closed; even if they manage to open it, there's no guarantee that we can escape. +So let's give those disgusting stalkers a little surprise. Besides, to be completely honest, Havier is such a tightwad for giving us this rickety train. I want to switch to something bigger and comfier.
-NPC-Kalin(9)<Speaker>Kalina</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Commander... This is way too reckless... But who cares? Since when have you NOT been reckless?</color>+<color=#00CCFF>It's about time we showed those green bastards we aren't to be messed with!</color>
-()||<黑屏2><BIN>208</BIN><BGM>BGM_Empty</BGM><SE1>AVG_wind_grass</SE1>:Meanwhile, 416, who's currently scouting the area from a high vantage point in the city ruins, spots a giant mechanical beast making a beeline for Tallinn.
-()||<BGM>BGM_Boss</BGM>:The fading sunset does nothing to soften its harsh outline. Instead, it dyes the armor plates a horrific shade of blood.
-()<Speaker>416</Speaker>||:That looks like extremely bad news...
-()||:As the dual-rail train approaches, its cannons swivel around to point straight at Tallinn City Station.
-UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>What's the situation?</color>
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:It appears to be a military armored train. Whoever sent this seems dead set on blowing us to kingdom come.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>That's only to be expected. This entire city is worth absolutely nothing for them.</color>+<color=#00CCFF>Worst case, we'll have to give our friends the slip. Armored trains are far beyond what we can deal with.</color>
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:How will the Commander fare against this?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>The Military couldn't have sent a single train. The Commander might be able to handle one, but when the Military launches a saturation attack, even the Commander won't last long.</color>
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<黑点1>:Tsk...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点2><BIN>159</BIN>:So, dearest friends from the AR Team, now that we find ourselves in such a dire situation, how should we prepare for what's to come?
-RO635(0)<Speaker>RO635</Speaker>||:I just got in touch with the Commander. All Griffin echelons have already repositioned. For some reason, I have a feeling that the Commander anticipated this... +Right now Miss Kalina is dispatching supplies and Dummies to our forces. As for us, we've been told to head back and help set up a defense line.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Set up a defense line, eh...? Looks like you still have time, M4.
-UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:What do you mean?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(0)||:The Parapluie virus is irreversible. You don't really believe that OGAS has disappeared from your neural cloud for good, do you?
-UMP45Mod(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:...! +I don't understand what you're getting at.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(3)||:Oh? Then let me put it this way - don't you intend to retrieve the important thing that you've lost?
-UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:I...haven't lost anything important.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ah, so you insist on keeping that secret? +I see. You're planning to run away from the whole thing.
-()||<BGM>BGM_Empty</BGM><SE1>Rope</SE1>:45 walks up to M4 with a smile. She suddenly grabs M4 by the collar and jerks her right up to her own face.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Всё закончилось…? +Число подключений уменьшается, но я уже получила то, что хотела. +Этот эксперимент в городе длится уже как минимум пять лет… +Сознания этих неудачных Изомеров всё это время сливаются и объединяются, что, кстати, значительно облегчает мне сбор информации.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:ОГАС. Исходный код этого ИИ был сжат в программу под названием «Параплюй», которая активируется сразу после имплантации в носителя, перезаписывая все операционные системы на системы ОГАС. +После этой модификации, если носитель не справляется с огромной вычислительной нагрузкой... Изомер получит повреждение мозга, а в случае с Т-Куклой — нейронное облако просто сгорит. +Вот почему в Грифоне, кроме M4, все остальные Куклы — неудачные экземпляры... Я так и знала — Персика к этому причастна.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Если посмотреть на это с этой стороны, то как только Кукла заражается вирусом, есть только два варианта — либо у неё происходит нервный срыв, либо она становится носителем ОГАС. +А это значит, что существо в моём базовом слое — тоже симуляция, созданная на основе слабого ОГАС... +Мне стоит радоваться тому, что в моём нейронном облаке очень мало места, или тому, что мой ОГАС не особо «умный»?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Но всё же... Мне кажется, я наконец поняла, что на самом деле произошло во время Инцидента Бабочки. +Почему они выбрали нас... Почему они выбрали М16... Теперь всё становится понятно. +С тех пор мы были пешками на шахматной доске... И вот я наконец-то поняла, для чего именно нужны эти шахматные фигуры. +Я всё ближе и ближе подхожу к правде.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Но M4A1 — это, очевидно, ключ ко всему этому делу, и она такая сильная, так почему же она до сих пор ничего не предприняла?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_whitenoise</SE1>:Тц. Соединение опять пропадает... Внешнее соединение.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Нет... что-то тут не так. Может, уже пора завершать эту операцию?
+HK416Mod(0)<Speaker>416</Speaker>||<BIN>46</BIN><黑屏2><BGM>m_avg_tension</BGM>:Ты... ты можешь пошевелиться?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Да, я могу! 45-я победила?
+G11(2)<Speaker>Gr G11</Speaker>||:Но что же стало с тем странным, что-то бормочущим врагом?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Это тело бросили.
+()||<SE1>ClothingUp</SE1>:45-я медленно поднимается на ноги. Она слегка толкает Изомера, который держит М4 за щеку, и тот падает на землю, как труп.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ох, 45-я! С тобой всё в порядке?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Спасибо вам, мне удалось выбраться из лабиринта подключений.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:(Кашель)
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Это что, реальный мир...?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:С возвращением, Команда AR. +Я знаю, что вы ещё не пришли в себя, но, судя по всему, самое страшное может случиться буквально с минуты на минуту, так что советую вам встряхнуться и немедленно приступать к делу.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Ты... лидер отряда 404? Не волнуйся, я уже убрала того Изомера, который создавал помехи. Всё закончилось.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:15-я, ты в порядке? Похоже, нам придётся добыть разрешения на доступ к карантинной стене каким-то другим способом, но раз помехи устранены, то это не должно быть слишком опасно—
+()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏>:БУМ!
+()||<BGM>BGM_Danger</BGM>:Издалека доносится звук мощного взрыва, за которым следует серия непрерывных взрывов.
+AR15Mod(2)<Speaker>ST AR-15</Speaker>||:Что происходит?!
+G11(3)<Speaker>Gr G11</Speaker><Shake>||:Ууух?!
+HK416Mod(0)<Speaker>416</Speaker>||:Это что, обстрел?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:«Всё кончено»? Нет, нет, я думаю, ты ужасно ошибаешься. Это именно тот момент, которого ждал враг. +Ещё когда мы вырвались из виртуального пространства, я почувствовала новую связь между Изомером и каким-то местом за пределами Таллинна. Понимаешь, что это значит?
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:...Связь с каким-то местом за пределами Таллинна?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:То, что у тебя в голове, скорее всего, и есть та цель, за которой гонится виновник всего этого, и ты просто так её выдала. +Теперь, когда они достигли своей цели, их следующим шагом будет похоронить нас всех здесь.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Что...
+RO635(0)<Speaker>RO635</Speaker>||:M4, 15-я, с вами все в порядке! А? Когда вы сюда прибыл, отряд 404?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Нас всех атаковали из-за принудительных подключений, поэтому мы перебрались сюда, чтобы перегруппироваться.
+RO635(3)<Speaker>RO635</Speaker>||:Неужели...? Но у нас есть более важные вопросы, которые нужно обсудить.
+RO635(5)<Speaker>RO635</Speaker>||<黑屏1>:Только что мы получили сообщение от Командира, что станция «Таллинн-Сити» попала под артиллерийский обстрел. Наши войска засекли военный бронированный поезд, который мчится прямо на нас, так что нам нужно срочно возвращаться и организовывать оборону!
+()||<黑屏2><BIN>202</BIN><BGM>BGM_Empty</BGM>:Несколько минут назад.
+()||<BGM>BGM_Room</BGM>:За пределами Таллинна. +В командном центре на борту Межконтинентальной Железной Дороги.
+NPC-Kalin(1)<Speaker>Калина</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Отличные новости, Командир! Помехи, влиявшие на наших Кукол, нейтрализованы!</color>+<color=#00CCFF>Получили сообщения от наших подразделений — все в порядке, жертв нет.</color>
+NPC-Kalin(1)<Speaker>Командир</Speaker><scan><通讯框>||:Понял. +Думаю, Команда AR наверняка что-то предприняла... +Следи за передвижениями врага. +Пусть наши эшелоны вернутся к выполнению первоначальной задачи.
+NPC-Kalin(0)<Speaker>Калина</Speaker><scan><通讯框>||:<color=#00CCFF>Принято</color>
+()<Speaker>Командир</Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:Теперь остаётся только дождаться их следующего отчёта...
+()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Danger</BGM>:Входящий сигнал.
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, это отряд «Desert Eagle»!</color>+<color=#00CCFF>Наш лидер попросил меня сообщить тебе, что они заметили что-то, движущееся на большой скорости в твою сторону по другой железнодорожной ветке, которая проходит через Таллинн!</color>
+M1895MG(0)<Speaker>Командир</Speaker><scan><通讯框>||:...!!
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框><Shake>||:<color=#00CCFF>О, я его отсюда вижу! Похоже на огромный поезд… Боже мой…!</color>
+()||<SE1>Explode</SE1><SE2>AVG_tele_disconnect</SE2>:Доклад М1895 CB прервал оглушительный взрыв.
+()<Speaker>Командир</Speaker>||:M1895 CB?! С тобой всё в порядке?!
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Кашель... У нас все сигналы на месте. С нами всё в порядке...</color>+<color=#00CCFF>На этом поезде установлено несколько пушек... Будь осторожен, Командир...</color>
+M1895MG(0)<Speaker>Командир</Speaker><scan><通讯框>||:Понятно. +M1895 CB, скажи своей команде, чтобы они действовали по первоначальному плану и направлялись к следующему месту сбора.
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>Понятно! Мы уже выходим!</color>
+()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏>:БУМ!!!
+()<Speaker>Командир</Speaker>||<:...Ак!
+()||<黑屏1>:Как только раздаётся взрыв, весь поезд сильно трясёт.
+()||<黑屏2><BIN>9</BIN>:Лампочки, установленные на потолке, постоянно мигают и в конце концов гаснут.
+()||<BGM>10065</BGM><SE1>AVG_keyboardtype_sci</SE1>:Я хватаюсь за край стола, чтобы не потерять равновесие, потом выхватываю планшет из кучи вещей, разбросанных повсюду из-за толчков, и включаю канал связи.
+()<Speaker>Командир</Speaker>||<SE1>AVG_tele_connect</SE1>:Калина?!
+NPC-Kalin(9)<Speaker>Калина</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, я в порядке!</color>+<color=#00CCFF>Как у тебя дела?</color>
+NPC-Kalin(9)<Speaker>Командир</Speaker><scan><通讯框>||:Я жив, ранений нет. +Оцени наши потери… Ладно, забудь. +Прикажи всем эшелонам придерживаться первоначального плана и немедленно начать операцию «Золотое руно».
+NPC-Kalin(9)<Speaker>Калина</Speaker><scan><通讯框>||:<color=#00CCFF>Мы действительно собираемся осуществить такой рискованный план?</color>
+NPC-Kalin(9)<Speaker>Командир</Speaker><scan><通讯框>||:Карантинная стена по-прежнему закрыта, даже если им удастся её открыть, нет никакой гарантии, что нам удастся сбежать. +Так давай устроим этим гнусным преследователям небольшой сюрприз. К тому же, если честно, Хавьер — такой скряга, что дал нам этот разваливающийся поезд. Я хочу пересесть на что-нибудь побольше и поудобнее.
+NPC-Kalin(9)<Speaker>Калина</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>CКомандир... Это слишком рискованно... Но какая разница? С каких это пор ты перестал рисковать?</color>+<color=#00CCFF>Пора уже показать этим зелёным ублюдкам, что с нами не шутят!</color>
+()||<黑屏2><BIN>208</BIN><BGM>BGM_Empty</BGM><SE1>AVG_wind_grass</SE1>:Тем временем 416-я, которая сейчас осматривает местность с высокой точки в руинах города, замечает гигантского механического чудовища, мчащегося прямо на Таллинн.
+()||<BGM>BGM_Boss</BGM>:Угасающий закат ничуть не смягчает его резкие очертания. Наоборот, он окрашивает доспехи в ужасающий кровавый оттенок.
+()<Speaker>416</Speaker>||:Похоже, это крайне плохая новость...
+()||:Когда поезд на двух рельсах приближается, его пушки поворачиваются так, что направляются прямо на Таллиннский городской вокзал.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Как обстоят дела?</color>
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Похоже, это военный бронированный поезд. Кто бы его ни послал, он, похоже, твердо намерен разнести нас в щепки.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>Это и неудивительно. Весь этот город для них абсолютно ничего не стоит.</color>+<color=#00CCFF>В худшем случае придётся оставить наших друзей в покое. Бронированные поезда — это намного выше наших сил.</color>
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Как Командир справится с этой ситуацией?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>Военные не могли отправить ни одного поезда. Командир, может, и справился бы с одним, но когда военные начнут массированную атаку, даже он долго не продержится.</color>
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<黑点1>:Тц...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点2><BIN>159</BIN>:Итак, дорогие друзья из Команды AR, раз мы оказались в такой тяжелой ситуации, как нам подготовиться к тому, что нас ждёт?
+RO635(0)<Speaker>RO635</Speaker>||:Я только что связалась с Командиром. Все эшелоны Грифона уже передислоцировались. Почему-то у меня такое ощущение, что Командир это предвидел... +Прямо сейчас мисс Калина отправляет нашим войскам припасы и Болванки. А нам приказали возвращаться и помогать выстраивать линию обороны.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Выстроить линию обороны, да...? Похоже, у тебя ещё есть время, M4.
+UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Что ты имеешь в виду?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(0)||:Вирус Параплюй необратим. Ты же не думаешь, что ОГАС навсегда исчез из твоего нейронного облака, правда?
+UMP45Mod(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:...! +Я не понимаю, о чем ты.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(3)||:А, да? Тогда давай я скажу так: разве ты не собираешься вернуть то важное, что потеряла?
+UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я... ничего важного не теряла.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:А, так ты настаиваешь на том, чтобы сохранить это в секрете? +Понятно. Ты собираешься сбежать от всего этого.
+()||<BGM>BGM_Empty</BGM><SE1>Rope</SE1>:45-я с улыбкой подходит к M4. Она внезапно хватает M4 за воротник и резко притягивает её к своему лицу.
 M4A1Mod(4)<Speaker>M4A1</Speaker><Shake>||<BGM>BGM_Truth</BGM>:...!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Are you freaking kidding me?! Do you still think of yourself as a tragic heroine?
-AR15Mod(5)<Speaker>ST AR-15</Speaker>||:What are you doing? Let go of her!
-()||<SE1>ClothingUp</SE1>:45 releases her grip on M4 and shoves her back.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:I thought the AR Team was oh-so-amazing; your leader has such a mighty body and a neural cloud that can even contain OGAS. But it seems that's just a total waste of your brilliant specs.
-RO635(3)<Speaker>RO635</Speaker>||:What are you talking about?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Can't you sense it? Your leader is always doing things that defy Doll logic. Don't you think she's hiding something?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ты что, издеваешься?! Ты до сих пор считаешь себя героиней трагедии?
+AR15Mod(5)<Speaker>ST AR-15</Speaker>||:Что ты делаешь? Отпусти её!
+()||<SE1>ClothingUp</SE1>:45-я отпускает М4 и отталкивает её.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Я думала, что Команда AR просто потрясающая, у вашего лидера такое мощное тело и нейронное облако, которое может даже удержать ОГАС. Но, похоже, это просто пустая трата ваших блестящих характеристик.
+RO635(3)<Speaker>RO635</Speaker>||:О чём ты говоришь?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Разве ты этого не чувствуешь? Твоя лидерша постоянно делает вещи, которые противоречат логике Кукол. Тебе не кажется, что она что-то скрывает?
 RO635(4)<Speaker>RO635</Speaker>||:...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What are you not telling us, M4??
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:I...
-AR15Mod(3)<Speaker>ST AR-15</Speaker>||:M4... +I think it's time you let us in on your secret. I told you before - we're your backing. You no longer have to bear this on your own.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ja, you ARE special, but if you let this go on, you will end up getting yourself, your team, and the entirety of Griffin killed.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:This is the moment of truth, M4A1. +This decision may cost you your peaceful status quo, but running away will cost you your the entire future. +You think just because that voice disappeared, everything's over? No, this is merely the beginning!
-M4A1Mod(3)<Speaker>M4A1</Speaker>||<黑屏1>:I...understand.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Что ты от нас скрываешь, M4??
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Я...
+AR15Mod(3)<Speaker>ST AR-15</Speaker>||:M4... +Думаю, пора тебе раскрыть нам свой секрет. Я же тебе уже говорила — мы тебя поддержим. Тебе больше не придется справляться с этим в одиночку.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Да, ты ДЕЙСТВИТЕЛЬНО особенная, но если будешь так продолжать, в итоге погубишь себя, свою команду и всех в Грифоне.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Настал момент истины, M4A1. +Это решение может стоить тебе твоего мирного статус-кво, но если ты сбежишь — это будет стоить тебе всего будущего. +Думаешь, раз тот голос исчез, всё закончилось? Нет, это только начало!
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<黑屏1>:Я... понимаю.
