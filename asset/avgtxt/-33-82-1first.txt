@@ -1,18 +1,18 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2>:...
-()||:<color=#00CCFF>The audio recording starts playing.</color>
-()||:【Where are you now?】
-()||:【We've already slipped through the second defense ring.】
-()||:【Sorry for only sending the two of you this time.】
-()||:【We can handle it just fine.】
-()||:【Can you observe the situation inside the base?】
-()||:【We're only seeing autonomous weaponry.】
-()||:【The Military's?】
-()||:【Unable to identify. The further we go, the worse the interference.】
-()||:【So the real party is in the basement.】
-()||:【I've obtained more detailed information about the base.】
-()||:【Well done. Send it to me.】
-()||:【External Administrative Address - Submarine Repair Bay 825, Baltic Fleet】+【Secret Administrative Region Code - Paldiski】+【Base Security Code - OKB-167】
-()||:【Pike Unit - 13】+【OGAS Network Status - System hub】+【Direct connection to "Moscow" Switchboard/Direct connection to "Starfish" Switchboard】
-()||:【Wartime Mission - Monitor and deter the Scandinavian nations on behalf of the Baltic Fleet;】+【Stockpile weaponry needed by the Northern Forces for their plans in Germany and Finland;】+【Assist the Baltic Fleet in obtaining control of the Baltic Sea and if the situation arises, undertake the mission of securing a landing field on the shores of Helsinki for the Baltic Fleet and Soviet Naval Infantry.】
-()||<黑屏1>:【No wonder why it had to be locked up. A base like that was a thorn in literally everybody's side.】
+()||:<color=#00CCFF>Начинается воспроизведение аудиозаписи.</color>
+()||:【Где ты сейчас?】
+()||:【Мы уже прорвались через второе кольцо обороны.】
+()||:【Извини, что на этот раз отправил только вас двоих.】
+()||:【Мы с этим прекрасно справимся.】
+()||:【Можешь понаблюдать за тем, что происходит на базе?】
+()||:【Мы видим только автономное вооружение.】
+()||:【Военные?】
+()||:【Не удается определить. Чем дальше мы продвигаемся, тем сильнее помехи.】
+()||:【Так что настоящее веселье происходит в подвале.】
+()||:【Я получил более подробную информацию о базе.】
+()||:【Отлично. Пришли мне это.】
+()||:【Внешний административный адрес — док № 825 для ремонта подводных лодок, Балтийский флот】+【Секретный административный код региона — Палдиски】+【Код безопасности базы — ОКБ-167】
+()||:【Блок Щука — 13】+【Состояние сети ОГАС — системный хаб】+【Прямое подключение к коммутатору «Москва»/Прямое подключение к коммутатору «Морская звезда»】
+()||:【Военная миссия — вести наблюдение за скандинавскими странами и сдерживать их от действий от имени Балтийского флота】+【Создавать запасы вооружения, необходимого Северным силам для реализации их планов в Германии и Финляндии.】+【Помогать Балтийскому флоту установить контроль над Балтийским морем и, если возникнет такая необходимость, выполнить задачу по обеспечению посадочной площадки на побережье Хельсинки для Балтийского флота и Советской морской пехоты.】
+()||<黑屏1>:【Неудивительно, что её пришлось закрыть. Такая база была, буквально, занозой в глазу у всех без исключения.】
