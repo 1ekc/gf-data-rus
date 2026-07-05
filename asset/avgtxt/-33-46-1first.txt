@@ -1,23 +1,23 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Danger</BGM>:In the temporary Griffin command center.
-RO635(0)<Speaker>RO635</Speaker>||:Commander, the other armored train is hot on our heels!
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Persistent, aren't they... Can we shake them off?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:This is the fastest we can go! Since the trains are of the same model, we can't lose them with just speed.
-()||<SE1>Explode</SE1><震屏>:With another artillery blast, the train rocks violently again. +Everyone has to grab hold of something in the carriage in order to stay on their feet.
-UMP9Mod(3)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>45, the shields are buckling!</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Return fire with our own cannons!
-HK416Mod(0)<Speaker>416</Speaker>||:Easier said than done! +Their shields are fully intact while we're missing several of our cannons. Fighting them head-on isn't going to end well for us.
-()<Speaker>Commander</Speaker>||:UMP45, can you locate the shield generators on a train of this model?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Sure. +Commander, you've got any brilliant ideas?
-()<Speaker>Commander</Speaker>||<黑屏1>:I do have a possible solution...
-()||<黑屏2><BGM>BGM_Empty</BGM><BIN>208</BIN><Night>:On the roof of the armored train.
-()||<BGM>BGM_Reverse</BGM>:The armored train under Griffin's control gradually decelerates. +The AR Team stay behind cover on the roof and wait for the Military's train to close in.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I didn't expect the Commander to do this. It totally took me by surprise.
-RO635(0)<Speaker>RO635</Speaker>||:We always manage to survive against impossible odds because the Commander is willing to give such orders... It'll be no different this time.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I agree with the Commander's judgment. +Our objective is very straightforward - take out the shield generators in the middle section of the train and leave the rest to the cannons.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>My squad is ready over here. We will give you cover as you move out.</color> +<color=#00CCFF>I look forward to your spectacular performance.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:No problem. +Oh, by the way, RO, AR-15, we should get this done quickly 'cause we still need to pick M4 up!
-RO635(2)<Speaker>RO635</Speaker>||:Of course. We can't let M4 miss the train.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:The enemy train is in attack position. Let's go!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:Alright, off we go!
+()<Speaker></Speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Danger</BGM>:Во временном командном центре Грифона.
+RO635(0)<Speaker>RO635</Speaker>||:Командир, второй бронированный поезд идет по пятам!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Они такие настойчивые... Может, нам удастся от них отделаться?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Это максимальная скорость, на которую мы способны! Поскольку поезда одной модели, одной только скоростью их не обогнать.
+()||<SE1>Explode</SE1><震屏>:Вслед за очередным артиллерийским выстрелом поезд снова резко качается. +Всем приходится ухватиться за что-нибудь в вагоне, чтобы не упасть.
+UMP9Mod(3)<Speaker>UMP9</Speaker><scan><通讯框>||:<color=#00CCFF>45-я, щиты начинают прогибаться!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Ответь огнём из наших пушек!
+HK416Mod(0)<Speaker>416</Speaker>||:Легче сказать, чем сделать! +У них щиты в полном порядке, а у нас не хватает нескольких пушек. Вступать с ними в лобовую схватку — для нас плохо кончится.
+()<Speaker>Командир</Speaker>||:UMP45, а ты можешь показать, где на поезде этой модели находятся генераторы защитного поля?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Конечно. +Командир, у вас есть какие-нибудь гениальные идеи?
+()<Speaker>Командир</Speaker>||<黑屏1>:У меня есть одно возможное решение...
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>208</BIN><Night>:На крыше бронированного поезда.
+()||<BGM>BGM_Reverse</BGM>:Бронированный поезд под управлением Грифона постепенно замедляет ход. +Команда AR остаётся в укрытии на крыше и ждёт, пока военный поезд не приблизится.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Я не ожидала, что Командир так поступит. Это стало для меня полной неожиданностью.
+RO635(0)<Speaker>RO635</Speaker>||:Нам всегда удаётся выжить даже в самых безнадёжных ситуациях, потому что Командир готов отдавать такие приказы... И на этот раз всё будет точно так же.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Я согласна с решением Командира. +Наша задача очень проста — вывести из строя генераторы щитов в средней части поезда, а остальное пусть берут на себя пушки.
+DesertEagle(0)<Speaker>Десерт Игл</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Моя команда уже готова. Мы будем прикрывать вас, когда вы начнёте продвигаться.</color> +<color=#00CCFF>С нетерпением жду вашего впечатляющего выступления.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Без проблем. +О, кстати, RO, AR-15, давай побыстрее с этим разберемся, потому что нам ещё нужно забрать M4!
+RO635(2)<Speaker>RO635</Speaker>||:Конечно. Мы не можем допустить, чтобы М4 опоздала на поезд.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Вражеский поезд находится в позиции для атаки. Вперед!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:Ну что ж, в путь!
 ()||<黑点2>:
