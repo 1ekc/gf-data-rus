@@ -1,1 +1,1 @@
-()||<BIN>10</BIN>:<color=#FF4646>Attention! Different enemy HOC fire support units have different coverage areas. Make sure you attack them in the correct order and avoid standing in overlapping areas of coverage.</color>
+()||<BIN>10</BIN>:<color=#FF4646>Внимание! Различные подразделения огневой поддержки противника - ГОгПы, имеют разные зоны покрытия. Убедись, что атакуешь их в правильном порядке и не попадаешь в зоны, где зоны покрытия пересекаются.</color>
