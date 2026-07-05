@@ -1,18 +1,18 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>202</BIN><BGM>BGM_Pervaded</BGM>:In Griffin's temporary command center.
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Many people have their eyes on us...
-Commander()||:That's why we also need more information.
-()||<SE1>AVG_tele_connect</SE1>:Click.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:New intel?
-NPC-Havel(0)<Speaker>Havier</Speaker><scan><通讯框>||:<color=#00CCFF>Oh, it actually got through.</color>
-NPC-Havel(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Whoa! How come the comms just activated itself?!
-NPC-Havel(0)<Speaker>Havier</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>What's the matter? Have you been up to something no good?</color>
-NPC-Havel(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:We were just startled by your sudden forced transmission, Mr Havier!
-NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>Sorry about that. Allow me to first congratulate you on making it out of Tallinn in one piece.</color>+<color=#00CCFF>We'd expected as much, but everyone is still very pleased with the outcome.</color>
-Commander()||:I doubt you called just to thank us for our work.
-NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>I know this is a bit abrupt, but don't worry, it just shows that he does like you.</color>+<color=#00CCFF>Since we're already speaking, I might as well offer a little piece of advice.</color>
-Commander()||:Please do.
-NPC-Havel(0)<Speaker>Havier</Speaker>||:<color=#00CCFF>I know you went ahead and agreed to Persica's request, so I'll save you the boredom of listening to more platitude.</color>+<color=#00CCFF>However, I strongly suggest you don't let Statesec know about what Persica's AR Team brought back.</color>+<color=#00CCFF>That thing...could save your life at a desperate moment, but it could also cost you your life just when you think you're safe.</color>
+()||<黑屏2><BIN>202</BIN><BGM>BGM_Pervaded</BGM>:Во временном командном центре Грифона.
+NPC-Kalin(4)<Speaker>Калина</Speaker>||:Многие люди следят за нами...
+Commander()||:Именно поэтому нам также нужна дополнительная информация.
+()||<SE1>AVG_tele_connect</SE1>:Клик.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Есть новые сведения?
+NPC-Havel(0)<Speaker>Хавьер</Speaker><scan><通讯框>||:<color=#00CCFF>О, оказывается, сообщение всё-таки дошло.</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>Калина</Speaker>||:Ого! Как так вышло, что система связи сама включилась?!
+NPC-Havel(0)<Speaker>Хавьер</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>В чём дело? Ты что-то натворил?</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>Калина</Speaker>||:Мы только что испугались твоей внезапной принудительной передачи, мистер Хавьер!
+NPC-Havel(0)<Speaker>Хавьер</Speaker>||:<color=#00CCFF>Извини за это. Позволь сначала поздравить тебя с тем, что ты выбрался из Таллинна целым и невредимым.</color>+<color=#00CCFF>Мы и так этого ожидали, но все равно все очень довольны результатом.</color>
+Commander()||:Сомневаюсь, что вы позвонили только для того, чтобы поблагодарить нас за нашу работу.
+NPC-Havel(0)<Speaker>Хавьер</Speaker>||:<color=#00CCFF>Я знаю, это звучит немного резко, но не волнуйся — это только доказывает, что ты ему действительно нравишься.</color>+<color=#00CCFF>Раз уж мы заговорили, могу дать тебе небольшой совет.</color>
+Commander()||:Конечно, давай.
+NPC-Havel(0)<Speaker>Хавьер</Speaker>||:<color=#00CCFF>Я знаю, что ты всё-таки согласился на просьбу Персики, так что не буду утомлять тебя дальнейшими банальностями.</color>+<color=#00CCFF>Однако я настоятельно рекомендую тебе не давать Госбезу узнать о том, что привезла Команда AR .</color>+<color=#00CCFF>Эта штука... может спасти тебе жизнь в отчаянный момент, но может и стоить тебе жизни именно тогда, когда ты будешь думать, что в безопасности.</color>
 Commander()||:...
-NPC-Havel(0)<Speaker>Havier</Speaker>||<黑屏1>:<color=#00CCFF>That's it. I won't intrude upon you any longer. I hope your usual luck will persist through the rest of your journey, and I look forward to meeting you in person...</color>+<color=#00CCFF>...If you can make it back alive, that is.</color>
-()||<黑屏2><黑屏1><BIN>9</BIN>:【Shattered Connexion - END】
+NPC-Havel(0)<Speaker>Хавьер</Speaker>||<黑屏1>:<color=#00CCFF>Ну, всё. Больше не буду тебя беспокоить. Надеюсь, твоя привычная удача не покинет тебя до самого конца путешествия, и с нетерпением жду встречи с тобой лично...</color>+<color=#00CCFF>...Если, конечно, ты сможешь вернуться живым.</color>
+()||<黑屏2><黑屏1><BIN>9</BIN>:【Разрушенная связь — КОНЕЦ】
