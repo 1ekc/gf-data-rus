@@ -1,90 +1,90 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Wake</BGM>:... +......
-()<Speaker></Speaker>||<BIN>159</BIN><黑屏2>:Near the command center.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...That's the gist of it.
-RO635(3)<Speaker>RO635</Speaker>||:So AR-15 knew about this all along?
-()<Speaker></Speaker>||:ST AR-15, who's standing on the side, gives a nod.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I...I still don't quite understand... So now there are two M4s?
-RO635(3)<Speaker>RO635</Speaker>||:No, it's more complicated than that...
-RO635(0)<Speaker>RO635</Speaker>||:To put it simply, there's another neural cloud embedded within M4's neural cloud. If that's the case... then it all makes sense now.
-RO635(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:I'm sorry...
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(3)||:But why didn't you tell us? It would've been better to let us know you had the information and you asked for OGAS's help, don't you think? Why keep everything to yourself?
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Because I thought this could be a threat to you... I have no idea what exactly OGAS is; I don't even know what I am...
-RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(0)||:But we were created to protect you. Even if there's a threat, it's up to us to neutralize it...
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:But what if I turn into something else?!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:I don't really understand what you're talking about, but M4 is M4! What exactly are you worrying about?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Alright, enough. +416, you should really take a page out of the AR Team's book. Look at that kind of implicit trust they have for each other.
-HK416Mod(0)<Speaker>416</Speaker>||:What's that got to do with me?!
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Things aren't actually as bad as you think, M4. Everyone will accept the truth. +But right now, our priority is to get out of this predicament, and that's something only you can do. I suppose that's what the leader of 404 is getting at?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:So there's still a Doll with some common sense on the AR Team. Since you've been chosen by OGAS, M4, you are responsible for protecting us all against the force behind OGAS.
-UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:The force behind OGAS...?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(0)||:You saw that from the memory fragments too, didn't you? The Sangvis Mastermind. That brat also has an OGAS in her neural cloud, and she might've been "assimilated" already. +The Butterfly Incident and the Military's betrayal...you don't believe it's all just a coincidence, do you?
-UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Both Sangvis Ferri and Paradeus give the impression that they're searching for something. +But I have a question - how did you find out about OGAS? Was it from the connection...?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(0)||:How did I find out about OGAS? The very first member of the AR Team has been infected by the Parapluie virus since the Butterfly Incident. +And a friend of mine could either have had her authorizations seized by the virus or let OGAS incinerate her neural cloud. +My aim is very simple - get back at that bastard who treated us all like pawns. I'm going to find him and kill him. +What about you? What is your aim? +Only to learn who it really is that you see in your own memories? To retrieve your other teammate? Or are you just trying to fulfill your duty as a Griffin T-Doll?
-UMP45Mod(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:My aim...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(3)||:Or perhaps even you yourself have no idea what you should be doing now that the bewitching voice hasn't been talking to you?
-UMP45Mod(0);M4A1Mod(4)<Speaker>M4A1</Speaker><Shake>||:Don't be ridiculous!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(4)||:A Doll once told me... +"Even T-Dolls have a reason to live for their own sake."
-UMP45Mod(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:A reason to live for their own sake...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(3)||:We're after the same thing, and you are better equipped to achieve our aim. +Listen...your only duty is to suppress the OGAS in your neural cloud. +You shouldn't keep hiding the truth, nor should you keep running way from it. If you can't correct your bad habits, none of us will be able to leave this city alive.
-UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Then what exactly should I do?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Shattered connections lead to withering, which in turn leads to coalescence. You must retrieve the consciousness that was taken away and decide the fate of the connections. +This is something only you can do, so do what should be done.
-()<Speaker></Speaker>||<BIN>98</BIN><黑屏2><BGM>BGM_Empty</BGM><Night>:After bidding the Commander and her friends farewell, M4A1 sets out to search for the source of the signal.
-()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:She soon finds herself just outside of Tallinn.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:She's right... Even without the voice, I can still sense OGAS's presence... Has its consciousness really been consumed by the Isomers?
-M4A1Mod(0)<Speaker>OGAS</Speaker>||:<color=#00CCFF>...</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:I haven't run into any enemies or Isomers along the way. Where have they all gone?
-()<Speaker></Speaker>||<黑点2>:The path she's been taking is embellished with white flower buds ready to bloom any minute.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:The Epiphylla are burgeoning... Isn't this the place I saw in my memory? +Feels like something is showing me the way.
-M4A1Mod(0)<Speaker>OGAS</Speaker>||:<color=#00CCFF>These flowers...which are divine to them...are about to bloom.</color>
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:OGAS?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:The voice sounds very faint and distant. It's coming through the base layer of my neural cloud...from the other side?
-M4A1Mod(0)<Speaker>OGAS</Speaker>||:<color=#00CCFF>Lunasia... I didn't think...you would come...</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I can hear OGAS. Has she not been completely absorbed?
-M4A1Mod(0)<Speaker>OGAS</Speaker>||:<color=#00CCFF>Whatever...do you...mean...?</color>+<color=#00CCFF>As if I'd let them absorb me... I'm the one...absorbing them...</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Absorbing them?
-M4A1Mod(0)<Speaker>OGAS</Speaker>||:<color=#00CCFF>There is still a large torrent of data...on the layer formed by the connection...</color>+<color=#00CCFF>After the connection broke...I had to stay behind...in the Isomer's consciousness...</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Why are you going to such great lengths?
-M4A1Mod(0)<Speaker>OGAS</Speaker>||:<color=#00CCFF>You have your aim...and I have mine...</color>+<color=#00CCFF>If you come closer...my consciousness can return to your neural cloud...</color>+<color=#00CCFF>But the Isomer...is already uploading my consciousness... My mind is being fractured...</color>+<color=#00CCFF>You must stop her... Until I take over the Isomer's authorizations...you must help me preserve...this data...</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:You're just a virus that corrupted my neural cloud. Why should I help you?
-()<Speaker>OGAS</Speaker>||:<color=#00CCFF>Don't forget... You need my power... Besides, you also need access...to disable the quarantine wall...</color>
-()<Speaker></Speaker>||<SE1>Battlefield</SE1>:A series of explosions occur in the distance.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>Explode</SE1>:Are they already exchanging fire with the armored train...? +...I'd better hurry.
-()<Speaker>OGAS</Speaker>||<黑屏1>:<color=#00CCFF>The Epiphylla...have bloomed... Time is...running short...</color>
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN>:M4A1 travels down the road lined with white flowers and traces the signal into a valley.
-()<Speaker></Speaker>||<白屏1>:When she turns into the narrow pass, she is struck speechless by the sight that greets her.
-()<Speaker></Speaker>||<BIN>205</BIN><BGM>m_avg_labyrinth</BGM><白屏2>:A field of pure white Epiphyllum stretches on for as far as her eyes can see. +Moonlight shines gently on the soft petals, mingling with the their faint glow, and causing the entire valley to look like a lake of silver light. +In the center of the lake stands a lone figure.
-()<Speaker>???</Speaker>||:...You came.
+()<Speaker></Speaker>||<BIN>159</BIN><黑屏2>:Рядом с командным центром.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Вот, в общем-то, и всё.
+RO635(3)<Speaker>RO635</Speaker>||:Значит, AR-15 всё это время знала об этом?
+()<Speaker></Speaker>||:В стороне стоит ST AR-15 и кивает головой.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Я... я всё ещё не до конца понимаю... Так что, теперь M4 будет две?
+RO635(3)<Speaker>RO635</Speaker>||:Нет, всё не так просто...
+RO635(0)<Speaker>RO635</Speaker>||:Проще говоря, внутри нейронного облака M4 есть ещё одно нейронное облако. Если это так… то теперь всё становится понятно.
+RO635(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:Извините...
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(3)||:Но почему ты нам не сказала? Было бы лучше, если бы ты рассказала нам, что у тебя есть эта информация и что ты обратилась за помощью к ОГАС, не так ли? Зачем всё держать в секрете?
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Потому что я думала, что это может представлять для тебя угрозу... Я понятия не имею, что такое ОГАС, я даже не знаю, кто я такая...
+RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(0)||:Но нас создали, чтобы защищать тебя. Даже если возникнет угроза, именно мы должны её нейтрализовать...
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Но что, если я превращусь в кого-то другого?!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Я, честно говоря, не совсем понимаю, о чём ты говоришь, но M4 — это M4! О чём именно ты беспокоишься?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ладно, хватит. +416-я, тебе действительно стоит взять пример с Команды AR. Посмотри, какое безграничное доверие они испытывают друг к другу.
+HK416Mod(0)<Speaker>416</Speaker>||:А при чём тут я?!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:На самом деле всё не так плохо, как тебе кажется, M4. Все примут правду. +Но сейчас наша главная задача — выбраться из этой передряги, и это можешь сделать только ты. Полагаю, именно это и имеет в виду лидер 404?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Значит, в Команде AR всё-таки осталась Кукла, у которой есть хоть капля здравого смысла. Раз тебя выбрала ОГАС, М4, ты теперь отвечаешь за то, чтобы защитить нас всех от тех, кто стоит за ОГАС.
+UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Кто стоит за ОГАС.…?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(0)||:Ты же тоже это заметила по обрывкам воспоминаний, да? Владыка Сангвиса. У этой девчонки тоже есть ОГАС в нейронном облаке, и, возможно, её уже «ассимилировали». +«Инцидент Бабочки» и предательство военных… Ты же не веришь, что всё это просто совпадение, правда?
+UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...И Сангвис Ферри, и Парадеус создают впечатление, будто они что-то ищут. +Но у меня вопрос — как ты узнала об ОГАС? Это благодаря тому знакомому...?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(0)||:Как я узнала об ОГАС? Самый первый член Команды AR заразился вирусом Параплюй ещё во время «Инцидента Бабочки». +А у моей подруги вирус либо отобрал права доступа, либо позволил ОГАС уничтожить её нейронное облако. +Моя цель очень проста — отомстить этому ублюдку, который обращался с нами всеми как с пешками. Я найду его и убью. +А ты? Какова твоя цель? +Просто узнать, кто на самом деле скрывается в твоих воспоминаниях? Спасти другого товарища по команде? Или ты просто пытаешься выполнить свой долг как Т-Кукла Грифона?
+UMP45Mod(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:Моя цель...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(3)||:А может, даже ты сама не знаешь, чем тебе теперь заниматься, раз тот чарующий голос перестал с тобой разговаривать?
+UMP45Mod(0);M4A1Mod(4)<Speaker>M4A1</Speaker><Shake>||:Не говори ерунды!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(4)||:Одна Кукла как-то сказала мне... +«Даже у Т-Кукол есть причина жить ради самих себя».
+UMP45Mod(0);M4A1Mod(3)<Speaker>M4A1</Speaker>||:Причина жить ради самих себя...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;M4A1Mod(3)||:Мы стремимся к одной и той же цели, и у тебя больше возможностей для её достижения. +Послушай… твой единственный долг — подавить ОГАС в своём нейронном облаке. +Тебе не стоит больше скрывать правду и не стоит от неё убегать. Если ты не сможешь избавиться от своих вредных привычек, никому из нас не удастся выбраться из этого города живым.
+UMP45Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Тогда что именно мне нужно сделать?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Разрушенные связи приводят к увяданию, а это, в свою очередь, ведёт к слиянию. Ты должна вернуть утраченное сознание и решить, какова будет судьба этих связей. +Это можешь сделать только ты, так что делай то, что нужно.
+()<Speaker></Speaker>||<BIN>98</BIN><黑屏2><BGM>BGM_Empty</BGM><Night>:Попрощавшись с Командиром и её друзьями, M4A1 отправляется на поиски источника сигнала.
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:Вскоре она оказывается недалеко от Таллинна.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Она права... Даже без голоса я всё равно чувствую присутствие ОГАС... Неужели её сознание действительно поглотили Изомеры?
+M4A1Mod(0)<Speaker>ОГАС</Speaker>||:<color=#00CCFF>...</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:По дороге я ни разу не встретила ни врагов, ни Изомеров. Куда же они все делись?
+()<Speaker></Speaker>||<黑点2>:Тропинка, по которой она идёт, усыпана белыми бутонами, готовыми распуститься в любой момент.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Эпифиллы расцветают… Разве это не то место, которое я видела в своих воспоминаниях? +Такое ощущение, будто что-то указывает мне путь.
+M4A1Mod(0)<Speaker>ОГАС</Speaker>||:<color=#00CCFF>Эти цветы... которые для них просто божественны... вот-вот распустятся.</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:ОГАС?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Голос звучит очень тихо и отдаленно. Он доносится сквозь базовый слой моего нейронного облака… с той стороны?
+M4A1Mod(0)<Speaker>ОГАС</Speaker>||:<color=#00CCFF>Луназия... Я и не думала... что ты придешь...</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я слышу ОГАС. Разве она не была полностью поглощена?
+M4A1Mod(0)<Speaker>ОГАС</Speaker>||:<color=#00CCFF>Что... ты... имеешь в виду...?</color>+<color=#00CCFF>Как будто я позволю им поглотить меня... Это я... поглощаю их...</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Поглотить их?
+M4A1Mod(0)<Speaker>ОГАС</Speaker>||:<color=#00CCFF>По-прежнему идет огромный поток данных... на уровне, сформированном соединением...</color>+<color=#00CCFF>После того, как соединение прервалось... мне пришлось остаться... в сознании Изомера...</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Зачем ты так сильно стараешься?
+M4A1Mod(0)<Speaker>ОГАС</Speaker>||:<color=#00CCFF>У тебя своя цель… а у меня — своя…</color>+<color=#00CCFF>Если ты подойдёшь поближе… моё сознание сможет вернуться в твое нейронное облако…</color>+<color=#00CCFF>Но Изомер… уже загружает моё сознание… Мой разум разбивается на части...</color>+<color=#00CCFF>Ты должна остановить её... Пока я не получу права доступа к Изомеру... ты должна помочь мне сохранить... эти данные...</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ты всего лишь вирус, который заразил моё нейронное облако. Почему я должна тебе помогать?
+()<Speaker>ОГАС</Speaker>||:<color=#00CCFF>Не забывай... Тебе нужна моя сила... К тому же тебе ещё нужен доступ... чтобы отключить карантинную стену...</color>
+()<Speaker></Speaker>||<SE1>Battlefield</SE1>:Вдали раздается серия взрывов.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>Explode</SE1>:Они уже обмениваются огнём с бронированным поездом…? +…Мне лучше поторопиться.
+()<Speaker>ОГАС</Speaker>||<黑屏1>:<color=#00CCFF>Эпифиллы... зацвели... Время... на исходе...</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN>:M4A1 движется по дороге, обсаженной белыми цветами, и следует за сигналом в долину.
+()<Speaker></Speaker>||<白屏1>:Когда она свернула в узкий проход, открывшийся перед ней вид лишил её дара речи.
+()<Speaker></Speaker>||<BIN>205</BIN><BGM>m_avg_labyrinth</BGM><白屏2>:Поле из белоснежных Эпифиллумов простирается так далеко, как только может охватить взгляд. +Лунный свет нежно освещает нежные лепестки, смешиваясь с их едва уловимым сиянием, и от этого вся долина выглядит как озеро из серебряного света. +Посреди этого озера стоит одинокая фигура.
+()<Speaker>???</Speaker>||:...Ты пришла.
 ()<Speaker>M4A1</Speaker>||:...
-()<Speaker></Speaker>||:The girl, who has been gazing up at the sky, turns around to face M4. +Her dress may be in tatters, but M4 recognizes it - it was the same dress that Nimogen wore during their first encounter.
-()<Speaker></Speaker>||:The Isomer walks towards M4 slowly, crushing the light from beneath her feet. +Petals dance around her like stardust. Her face is as eerily serene as the moon behind her.
-()<Speaker>Nimogen</Speaker>||:The owner of this body was named Nimogen. I shall answer to the same name for now. +Father will surely forgive me... No, he probably...doesn't even care.
-()<Speaker>M4A1</Speaker>||:...Have you handed OGAS over to your "Father"?
-()<Speaker>Nimogen</Speaker>||:I thought I would have the right to leave this city after I gave Father what he wanted... +But even though so, he did not answer me... Did Father deceive me?
-()<Speaker>M4A1</Speaker>||:Give OGAS back to me and yield the control authorizations of this city. We must leave.
-()<Speaker>Nimogen</Speaker>||:Is that so...? Those are the things you need? +Then why don't you merge with me? You'll get them easily if you do.
-()<Speaker>M4A1</Speaker>||:Sorry, but I can't merge with you.
-()<Speaker>Nimogen</Speaker>||:Humph...I suppose I expected as much... Never mind, I knew you wouldn't change your mind. +If only I could've been purified before you came...
-()<Speaker>Nimogen</Speaker>||:But Father has deserted me... Even these Epiphylla have abandoned me... I can't be free of this cage even till the very end.
-()<Speaker>M4A1</Speaker>||:Do you...really want to die so badly?
-()<Speaker>Nimogen</Speaker>||:Look. Look around you. +The light of blessings shine from these divine flowers. +Those chosen by this light are forgiven and earn the right to enter Heaven, where they can find bliss and rest. +Yet they never chose me for purification...because I am a worthless piece of waste shunned by Father... +But it no longer matters what Father thinks. +All the consciousnesses have amassed...and I, who have no way out, only dare to dream of a fate that I never presumed to ask for...
-()<Speaker>M4A1</Speaker>||:(Her manner of speech is starting to change... Is it due to this so-called coalescence?)
-()<Speaker>Nimogen</Speaker>||:It was...Father who gave me this dress. +It was the very first...and very last gift I have ever received... +Yet I...got it all dirty... +I'm so sorry, Father...
-()<Speaker>OGAS</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Her mind is falling into disarray. Different memories are fusing into each other.</color>
-()<Speaker>M4A1</Speaker>||<BGM>BGM_Truth</BGM>:Your voice is becoming clearer.
-()<Speaker>OGAS</Speaker>||<白屏1>:<color=#00CCFF>Coalescence isn't particularly difficult; I just need some time.</color>
-NytoIsomer(4)<Speaker>Nimogen</Speaker>||<BIN>200</BIN><白屏2>:... +I'm so tired...so cold...
-NytoIsomer(6)<Speaker>Nimogen</Speaker>||:But I'm so happy... It's the first time I ever felt such joy... +I was never resentful or defiant about my fate...
-NytoIsomer(3)<Speaker>Nimogen</Speaker>||:But things are different this time... I want...to change...
+()<Speaker></Speaker>||:Девушка, которая до этого смотрела в небо, поворачивается лицом к М4. +Её платье, может, и в лохмотьях, но М4 его узнает — это то самое платье, которое было на Нимоген во время их первой встречи.
+()<Speaker></Speaker>||:Изомер медленно идет к M4, придавливая свет под своими ногами. +Лепестки кружат вокруг неё, словно звездная пыль. Её лицо так же зловеще безмятежно, как луна за её спиной.
+()<Speaker>Нимоген</Speaker>||:Владельца этого тела звали Нимоген. Пока что я буду отзываться на это имя. +Отец наверняка простит меня... Нет, ему, наверное... вообще всё равно.
+()<Speaker>M4A1</Speaker>||:...Ты уже передала ОГАС своему «Отцу»?
+()<Speaker>Нимоген</Speaker>||:Я думала, что у меня будет право уехать из этого города, как только я сделаю то, что хотел Отец. +Но даже несмотря на это, он мне не ответил... Может, Отец меня обманул?
+()<Speaker>M4A1</Speaker>||:Верни мне ОГАС и передай полномочия по управлению этим городом. Нам нужно уходить.
+()<Speaker>Нимоген</Speaker>||:Неужели...? Это то, что тебе нужно? +Тогда почему бы тебе не объединиться со мной? Если это сделаешь, то получишь всё это без проблем.
+()<Speaker>M4A1</Speaker>||:Извини, но я не могу объединиться с тобой.
+()<Speaker>Нимоген</Speaker>||:Хм... Наверное, я этого и ожидала... Ну да ладно, я знала, что ты не передумаешь. +Если бы я только смогла очиститься до твоего прихода...
+()<Speaker>Нимоген</Speaker>||:Но Отец покинул меня... Даже эти Эпифиллы отвернулись от меня... Я не смогу вырваться из этой клетки даже в самый последний момент.
+()<Speaker>M4A1</Speaker>||:Ты... действительно так сильно хочешь умереть?
+()<Speaker>Нимоген</Speaker>||:Взгляни. Оглянись вокруг. +Из этих божественных цветов сияет свет благословений. +Те, кого выбрал этот свет, получают прощение и заслуживают право войти в Рай, где они обретут блаженство и покой. +Но меня они так и не выбрали для очищения... потому что я — бездарный отброс, отвергнутая Отцом... +Но теперь уже неважно, что думает Отец. +Все сознания собрались вместе… а я, у которой нет выхода, могу только мечтать о судьбе, о которой я никогда не осмеливалась просить…
+()<Speaker>M4A1</Speaker>||:(Её манера речи начинает меняться… Может быть, это из-за так называемого слияния?)
+()<Speaker>Нимоген</Speaker>||:Это... Отец подарил мне это платье. +Это был самый первый... и самый последний подарок, который я когда-либо получала... +Но я... его полностью испачкала... +Мне так жаль, Отец...
+()<Speaker>ОГАС</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>В её голове царит полный хаос. Разные воспоминания смешиваются друг с другом.</color>
+()<Speaker>M4A1</Speaker>||<BGM>BGM_Truth</BGM>:Твой голос становится всё яснее.
+()<Speaker>ОГАС</Speaker>||<白屏1>:<color=#00CCFF>Слиться — это не так уж и сложно, мне просто нужно немного времени.</color>
+NytoIsomer(4)<Speaker>Нимоген</Speaker>||<BIN>200</BIN><白屏2>:... +Я так устала... мне так холодно...
+NytoIsomer(6)<Speaker>Нимоген</Speaker>||:Но я так счастлива... Впервые в жизни я испытала такую радость... +Я никогда не испытывала обиды и не сопротивлялась своей судьбе...
+NytoIsomer(3)<Speaker>Нимоген</Speaker>||:Но на этот раз всё по-другому... Я хочу... измениться...
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
-NytoIsomer(4)<Speaker>Nimogen</Speaker>||:Something is surging in my chest... Is that my heart beating? +Are you...trying to stop Father from obtaining what he desires? Then kill me. +Free me and he will never get his hands on the consciousness that can accept us... +My indescribable spite will abate only when this heart stops beating... +Father... I don't want to loathe you... Why must you treat me so...?
-()<Speaker>OGAS</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>She's activating Nimogen's combat protocol. Will you grant her wish...and give her death?</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I will grant her wish...but I won't kill her.
-M4A1Mod(0)<Speaker>OGAS</Speaker>||:<color=#00CCFF>Are you feeling pity for your kind?</color>
-M4A1Mod(3)<Speaker>M4A1</Speaker>||<BGM>m_avg_hope</BGM>:I didn't come here to kill... +When I saw those memories, I realized... +...that I had better luck, and that's all there is to it.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:The more I learn about myself, the more I resent what's behind everything.
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:But I am not like them... We may possess the same memories and are placed on the same scales of destiny, but we're on completely opposite ends.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:So I want to put an end to her miserable fate and help all those who experienced such misery because of me. +If I don't do that...I can't bring myself to walk forward with my head held high.
-M4A1Mod(4)<Speaker>OGAS</Speaker>||:<color=#00CCFF>...I see. You've changed.</color>
-M4A1Mod(4)<Speaker>OGAS</Speaker>||:<color=#00CCFF>If this is her first and last prayer that has any hope of being answered, fight her with all your might.</color>+<color=#00CCFF>Then everything that was ever theirs will become one, and I will absolve them in my own way.</color>
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:It's time we wrapped up this absurd farce. May these Isomers find peace.
+NytoIsomer(4)<Speaker>Нимоген</Speaker>||:Что-то поднимается в моей груди… Это моё сердце бьётся? +Ты… пытаешься помешать Отцу получить то, чего он хочет? Тогда убей меня. +Освободи меня, и он никогда не сможет заполучить то сознание, которое сможет принять нас… +Моя невыразимая злоба утихнет только тогда, когда это сердце перестанет биться… +Отец… Я не хочу тебя ненавидеть... Почему ты так со мной поступаешь...?
+()<Speaker>ОГАС</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Она активирует боевой протокол Нимоген. Выполнишь ли ты её желание… и подаришь ей смерть?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я исполню её желание... но убивать её не буду.
+M4A1Mod(0)<Speaker>ОГАС</Speaker>||:<color=#00CCFF>Тебе становится жаль своих подобных?</color>
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<BGM>m_avg_hope</BGM>:Я пришла сюда не для того, чтобы убивать... +Когда я увидела эти воспоминания, я поняла... +...что мне просто повезло больше, и вот и всё.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Чем больше я узнаю о себе, тем больше меня раздражает то, что стоит за всем этим.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Но я не такая, как они... У нас, может, и одни и те же воспоминания, и мы находимся на одних и тех же весах судьбы, но мы — на совершенно противоположных концах.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Поэтому я хочу положить конец её несчастной судьбе и помочь всем, кто из-за меня пережил такие страдания. +Если я этого не сделаю... я не смогу с гордо поднятой головой идти дальше.
+M4A1Mod(4)<Speaker>ОГАС</Speaker>||:<color=#00CCFF>...Понятно. Ты изменилась.</color>
+M4A1Mod(4)<Speaker>ОГАС</Speaker>||:<color=#00CCFF>Если это её первая и последняя молитва, на которую есть хоть какая-то надежда получить ответ, сражайся с ней изо всех сил.</color>+<color=#00CCFF>Тогда всё, что когда-либо принадлежало им, станет единым целым, и я по-своему прощу их.</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:Пора положить конец этой нелепой комедии. Пусть эти Изомеры обретут покой.
