@@ -1,20 +1,20 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2>:...
-()||:<color=#00CCFF>The audio recording starts playing.</color>
-()||:<color=#A9A9A9>The voices are muffled by the strong wind. We can just barely make out the words.</color>
-()||:Click.
-()||:【Sheesh, what a drag. We've been spending so much time looking for that node thingy, and we have to keep producing upgraded autonomous weaponry. That's asking for too much.】
-()||:【Haven't you just been hanging around in the air and watching us work ourselves to death?!】
-()||:【Nonsense. I've been carefully carrying Agent's order and watching over our Lady Elisa, you know.】
-()||:【You were certainly watching, but that's hardly "watching over".】
-()||:【Even if we want to draw closer, a certain Doll isn't giving us the chance.】
-()||:【Argh...this is so BORING... What even is the point of our existence...?】
-()||:【Perhaps you'd be happier fighting Griffin as a mechanical dog?】
-()||:【Don't bring that up!】
-()||:【Heheh, you've never been killed like Agent was, so count yourself lucky. Who knows? It might be your turn next time.】
-()||:【Don't...don't be ridiculous. All our bodies have been recovered. This time Mastermind will certainly defeat all the bad guys who want to bully us!】
-()||:【Such as?】
-()||:【Such as...Griffin? And those green-skinned bastards...?】
-()||:【You're totally clueless... Heheh, but that's precisely why I like you so much.】
-()||:【What the hell...? That doesn't make me feel happy at all...】
-()||<黑屏1>:【Then be a good girl and finish your job. I believe we'll get to meet our old friends very soon.】
+()||:<color=#00CCFF>Начинается воспроизведение аудиозаписи.</color>
+()||:<color=#A9A9A9>Голоса заглушает сильный ветер. Мы едва разборчиво слышим слова.</color>
+()||:Клик.
+()||:【Черт, какая заноза. Мы уже столько времени тратим на поиски этой штуки-узла, а тут ещё и приходится постоянно выпускать усовершенствованное автономное оружие. Это уже перебор.】
+()||:【Разве ты не просто висела там в воздухе и не наблюдала, как мы работаем до изнеможения?!】
+()||:【Чушь. Я же тщательно выполняла приказ Агента и присматривала за нашей леди Элизой, ты же знаешь.】
+()||:【Ты, конечно, наблюдала, но это вряд ли можно назвать «присматривать».】
+()||:【Даже если мы и хотим сблизиться, одна Кукла нам этого не позволяет.】
+()||:【Ааа... как же это СКУЧНО... В чём вообще смысл нашего существования...?】
+()||:【Может, тебе было бы веселее сражаться с Грифоном в образе механической собаки?】
+()||:【Не заводи об этом разговор!】
+()||:【Хе-хе, тебя ещё ни разу не убивали так, как Агента, так что считай, что тебе повезло. Кто знает? Может, в следующий раз очередь дойдёт до тебя.】
+()||:【Не... не говори ерунду. Все наши тела уже найдены. На этот раз Владыка обязательно разгромит всех злодеев, которые хотят нас запугать!】
+()||:【Например?】
+()||:【Например... Грифон? И эти зеленокожие ублюдки...?】
+()||:【Ты вообще ничего не понимаешь... Хе-хе, но именно за это ты мне и нравишься.】
+()||:【Что за херня...? Мне от этого совсем не радостно...】
+()||<黑屏1>:【Тогда будь хорошей девочкой и доделай свою работу. Думаю, мы очень скоро встретимся с нашими старыми друзьями.】
