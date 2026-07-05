@@ -1,130 +1,130 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:At Tallinn Station.
-()<Speaker></Speaker>||:Kalina ends her transmission and turns to address the Commander.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Commander, our train's pulled into Tallinn Station.
-()<Speaker></Speaker>||:The Commander says nothing, only nods.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:What should we do next, Commander?
-()<Speaker></Speaker>||:The Commander slams a fist onto the command console.
-指挥官()<Speaker>Commander</Speaker>||:God dammit...
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||:Apart from Desert Eagle's team, the other recon echelons have also reported finding refugee bodies. That's a total of at least a few thousand corpses...
-指挥官()<Speaker>Commander</Speaker>||:This was a planned massacre!
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:What on earth happened here...? Oh, there's a transmission from Miss Persica. Should I patch her in?
-()<Speaker>Commander</Speaker>||:Put her through.
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Sorry to disturb you, Commander.</color>
-NPC-Persica(0);NPC-Kalin(0)<Speaker>Commander</Speaker>||:Miss Persica... If you called to ask about the AR Team's condition, I'm sorry, but I'm not in the mood for it.
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>It's not about that...thanks to the access you gave me just now, I managed to see the footage and the signal records that the AR Team sent back. In order to facilitate your upcoming decisions, I feel that I need to tell you a few things.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:Why are you choosing to tell us all this now?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>I apologize... In truth, I had mixed feelings about doing so. Telling you more might end up placing you in greater danger, Commander.</color> +<color=#00CCFF>However, things being what they are now, I feel that you have the right to know what you're going up against. I also believe that you will be able to handle the danger.</color> +<color=#00CCFF>Besides...what I'm going to tell you is related to this massacre. I hope you will be able to control your emotions and hear me out to the end.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:The dangers we're facing, huh... Is this about Paradeus?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>It's about what happened before Paradeus.</color> +<color=#00CCFF>Have you heard of an organization called "90wish"? </color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:90wish? If I'm not wrong, they were a group who once shared their research on the internet...but they soon vanished, and our databases don't have any information regarding them...
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>It's only natural that you wouldn't have any clear details. All the information about 90wish has been wiped or corrupted.</color> +<color=#00CCFF>As you may have guessed, Commander, I was once a member of 90wish.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||<BGM>BGM_Pervaded</BGM>:Was 90wish the predecessor of Paradeus?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>No. I believe they are two different organizations, and 90wish should still be active now.</color>+<color=#00CCFF>When I first joined 90wish, I thought it was just a simple research organization, but then I discovered that a massive amount of funds were constantly being funneled into the group, and it became apparent that its nature was not as simple as I had originally thought.</color>
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>As I delved deeper into the organization, I realized that 90wish was involved in all kinds of illegal research. I left because I couldn't accept that...</color>
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, please listen to me. I've already analyzed the signal trying to forcibly connect with M4 - the samples of the chaotic transmissions which disrupted the Doll echelons and the sources of the interference.</color>+<color=#00CCFF>This data connection style...is a frequency algorithm that 90wish once used.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:So you're saying that it isn't Paradeus, but an organization called 90wish that's doing all this?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>No, that's not what I meant. 90wish is ultimately a research group. However, the fruits of their research ended up in more unscrupulous hands.</color> +<color=#00CCFF>My analysis merely points toward the fact that many creations of 90wish are present in this city, but they also show certain distinct characteristics that match the Paradeus samples I've previously acquired.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:Your point being?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I heard that you were once taken captive by Paradeus, so you might have had contact with this man.</color> +<color=#00CCFF>If we're talking about someone who is linked to both 90wish and Paradeus, then I feel that this time, we are very likely to be dealing with...William.</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:William?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Yes... Professor William. Like me, he was a member of 90wish at the time, but this man was weirder than all the other weirdos I've met put together.</color> +<color=#00CCFF>Nobody's seen his face before, nobody's heard his real voice before, and the field of research that he chose was...unnerving.</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Was it dangerous research?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Take for instance the corpses of those refugees. Did you find strange flower petals near them?</color>
-NPC-Persica(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Yes...they showed up in a lot of the images that were sent back.
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Those are a species of "Epiphyllum"...</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:Epiphyllum?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Yes. They're a kind of plant that can absorb Collapse Fluid.</color>+<color=#00CCFF>90wish once studied the use of plants in cleaning up Collapse radiation, but unsurprisingly, the research failed. These plants can absorb free-floating radioactive particles, but once they blossom, they expel everything they have absorbed all at once.</color>+<color=#00CCFF>Clearly, they are unusable for the purpose of decontamination, but Williams liked those "Epiphyllum" very much, and before I left he was constantly working on cultivating improved versions of the species. </color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:So... Oh! That's it!
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Yes. There's no better tool for mass murder than "Epiphyllum".</color>+<color=#00CCFF>Paradeus needed ELID infectees, but refugees aren't stupid enough to run into contaminated zones to get themselves killed. Meanwhile, the "Epiphyllum" could create a perfect, seemingly uncontaminated trap...</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:...Absolutely disgusting.
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>That's not the worst part. From the images that your Dolls sent back, in addition to the dead refugees and the mutated ELIDs, you should have also discovered a sample that was forcibly put together.</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:You mean that half-mechanical girl?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>;NPC-Kalin(2)||:<color=#00CCFF>Yes... Judging by her appearance, she looks slightly similar to the Nytos. I think she was probably an affinity test subject who was modified, but still failed in the end.</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:An affinity test subject?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>;NPC-Kalin(2)||:<color=#00CCFF>90wish once conducted an investigation on the degree to which the structure of the human body was compatible with the Relics' ionized-state adjustable-volume devices.</color> +<color=#00CCFF>They believed that the Relic civilization's facilities used genetic information to determine access privileges. However, the human body structurally siliconizes when exposed to large doses of Collapse radiation, while the process is slightly slowed in bodies that have an affinity to them.</color> +<color=#00CCFF>It was the hope of 90wish that beings with such an affinity could activate the outermost devices within the Relics before they underwent complete mutation. </color>
-NPC-Persica(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:But why...
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>90wish simulated experiments like these with supercomputers, but had always been forbidden from actually conducting them in real life, because it was a gross violation of human ethics and morality.</color> +<color=#00CCFF>The simulations failed, to nobody's surprise. The results of three million simulated experiments were all flawed...and no wonder. The Relics could not possibly respond to such crude methods.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:But I'm guessing there were people who didn't agree with that outcome.
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, especially that "William." He believed that the failures were caused by unfulfilled conditions. If the simulations failed, then he would try it in real life. I wouldn't be surprised if he was capable of such cruelty...</color>
-NPC-Persica(0);NPC-Kalin(4)<Speaker>Kalina</Speaker>||:So you're saying that this girl was an incomplete "Nyto" made for such an experiment?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Elisa, who was left to roam free beforehand, was the "key" to awakening Relic facilities. And the Nytos were a form of "medium" to make contact with Relic facilities... In the past, Ange told me that there was a faction trying to reactivate the Relics. This would explain all their objectives.</color> +<color=#00CCFF>However...I still have no idea how he's planning to achieve his aim...</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:So the "Nytos" were not meant for combat?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>To William, they were nothing but failures. So...he would have no qualms about using them as cannon fodder.</color> +<color=#00CCFF>Still, this shows that William's research hasn't been successful yet. He's still trying something.</color> +<color=#00CCFF>After the Beilan Island Incident, an "immune individual" who was completely unaffected by Collapse radiation once showed up. I wonder if he's trying to create a new "immune individual"...</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:So you're saying that Tallinn is just a lab to him, and we're all his rats.
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I have a bad feeling about this.</color> +<color=#00CCFF>From the Military's betrayal a while ago, to Belgrade afterwards, and now your presence in Tallinn, I have a feeling that all this was carefully planned in order to bait us into doing something that we shouldn't.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:What do you suggest, then?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>...I can't give you any suggestions without sufficient analysis.</color> +<color=#00CCFF>But there might be some value in analyzing those failed Nytos. And then there's the signal trying to force a connection with M4... It seems the opposition is trying to relay some sort of message to her...</color> +<color=#00CCFF>There is a massive Level II layer in this city, with countless connections formed into a dense network. But from the outside, it appears to be nothing but a dead city... If she doesn't enter this network...</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>Kalina</Speaker>||:So you want M4 to connect to the other party? Wouldn't that be very dangerous?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>M4 is my creation. Given her specs, she can't be so easily hacked. If she can't do it, then there's no way any other Doll could.</color>+<color=#00CCFF>She must be very confused and lost now. She tried to respond to the connection earlier, and while I'm not sure what she's looking for, at the very least, I don't think we should stop her.</color>+<color=#00CCFF>As humans, we need to guide her onto the right path. It's up to you and me, Commander.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:I was hoping you could tell her yourself. +Are you prepared to face them?
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||:<color=#00CCFF>...It is my responsibility.</color>
-NPC-Persica(0)<Speaker>Commander</Speaker>||:That's all I need to hear. I'll go make the appropriate preparations. Meanwhile, I'll end the transmission here. +Once I contact M4, I'll bring you into the call.
-NPC-Persica(0)<Speaker>Persica</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Alright. I'll be leaving the rest to you, Commander.</color>
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||<BGM>BGM_Empty</BGM><BIN>202</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:Good heavens...
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||:I've never heard Miss Persica say so much before...
-NPC-Kalin(2)<Speaker>Commander</Speaker>||<BGM>BGM_Truth</BGM>:I could sense how worked up she was through the screen. She must have been through a lot too.
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||:And here I thought she was just an ordinary researcher... I didn't think she knew so much.
-()<Speaker>Commander</Speaker>||:(Sighs) It's nothing but bad news. I thought that the matter was settled after listening to Havier's explanation, but now it feels like we're back to square one.+Kalin, how are the individual teams doing?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:The AR Team is reporting that they're trying to find a way to activate the quarantine wall. The other teams have returned to the train station to resupply.+Also, we just received an anonymous satellite photo. It indicates that a military armored train has reached a position not far from our location, but they've stopped for some reason. Maybe to replenish their provisions.
-NPC-Kalin(0)<Speaker>Commander</Speaker>||:Then we still have time.+I'm sure the AR Team will find a way to activate the wall, and once the other teams are ready, we'll have them do another recon run and focus on investigating those "failed Nytos".+I agree with Persica; the disruption and forced connections from before must surely be related to this.
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||:I don't know why...but for some reason, I feel like the entirety of Tallinn might be nothing more than a gigantic tomb.+Will we really be able to find anything?
-NPC-Kalin(7)<Speaker>Commander</Speaker>||:We need to find out what this "William" is up to.+If we can't figure out his goals, we'll always be one step behind him and he'll always be leading us by the nose.+I hate that feeling, especially now. Have the recon teams find whatever clues they can about the Nytos, and after everything's arranged...we'll contact the AR Team.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑点1>:Understood. I'll go sort that out now.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<黑点2><BIN>197</BIN>:We'll be setting off, then.
-DesertEagle(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:I'm so sorry to have to send you out on a new recon mission right after you came back...
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>;NPC-Kalin(0)||:It's fine. We've all finished resupplying and we're ready to fight anytime. Plus, we feel the same way as the Commander; we can't let the truth vanish into the dust and smoke.
-DesertEagle(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Yeah, so do your best. Just now, the drones pinpointed the location of several other refugee gathering sites. We'll conduct a recon sweep on all of them.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>;NPC-Kalin(0)||:And what will our role be in this?
-DesertEagle(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Since you know the terrain to some extent, the Commander would like you to take the vanguard position. The other echelons will spread out their formation as far as they can to increase the area they can cover.+This mission requires you to gather as much information about the refugees as possible. Avoid combat and take care not to miss out on any clues.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Understood. We'll be heading out.
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Desert Eagle nods and leads her team off the train.
-()<Speaker></Speaker>||<黑屏2><BIN>159</BIN>:Half an hour later.
-ACR(0)<Speaker>ACR</Speaker>||:Why do we have to take point even though we're obviously newbies...? Griffin should have no shortage of Doll echelons.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>;ACR(0)||:Quit complaining. Isn't it good that the Commander is acknowledging your abilities?
-DesertEagle(0);ACR(0)<Speaker>ACR</Speaker>||:That's true, but... Wait, there's movement up ahead.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>;ACR(0)||<BGM>BGM_Sneak</BGM>:Are they white enemies?
-ACR(0)<Speaker>ACR</Speaker>||:They look a lot like Paradeus forces...+But they're not quite the same as the ones who appeared before... Why do they look all battered? Are they autonomous units or something?
-ACR(0)<Speaker>ACR</Speaker>||:Ah! They're chasing something! Isn't that one of those "Nytos" that Kalina wanted us to look out for? Oh no, they're attacking!
-AbandonedIsomer(0)<Speaker>??</Speaker>||:(Groans)
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:The white enemies...are hunting the "test subjects"? But according to the information that was just synced to us, I thought they were on the same side...
-SSG3000(0)<Speaker>SSG 3000</Speaker>||:Should we step in to help?
-ACR(0)<Speaker>ACR</Speaker>||:We still don't know if they're friend or foe! And Kalina wanted us to avoid fighting...
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:The sound of gunshots suddenly rings out from the other side. A concentrated burst of gunfire strikes the white enemies and swiftly destroys them.
-ACR(0)<Speaker>ACR</Speaker>||:Who fired?! Who was that?!
-SSG3000(0)<Speaker>SSG 3000</Speaker>||:Uh, not me?
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:I'm picking up a Griffin signal; is it one of us? This is Desert Eagle, please respond.
-M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>This is 1895, so you're all nearby?</color>
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>;M1895MG(0)||:Oh, it's 1895... What are you doing here? What happened to your team?
-M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>The stuff I brought along was too heavy, so I wanted to take a breather... But when I looked up again, all my teammates were gone.</color>
-ACR(0)<Speaker>ACR</Speaker>||:Griffin Dolls get stranded way too easily, don't you think...?
-SSG3000(0)<Speaker>SSG 3000</Speaker>||:That's just how it is with autonomous operation mode. It ends up like this if the Commander doesn't personally direct them. Besides, the Commander always recovers the lost Dolls in the end.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Enough chatting. How's the "test subject"?
-ACR(0)<Speaker>ACR</Speaker>||:Let me take a closer look... Seems she stopped moving after being hit... Is she dead?
-M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>So I couldn't save her, huh... I thought there would still be living refugees...</color>
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<BGM>BGM_Empty</BGM>:No...wait... Is that a voice in our comms?
-ACR(0)<Speaker>ACR</Speaker>||<SE1>AVG_whitenoise</SE1>:I hear it too...but it doesn't seem to be coming from our comms...
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:This feeling... It's like how when the fog first sprang up. There was a sensation of someone peeking into my mind... The voice is getting clearer.
-()<Speaker>??</Speaker>||<SE1>AVG_Bell</SE1>:<color=#00CCFF>Save...</color>
-ACR(0)<Speaker>ACR</Speaker>||:What?
-()<Speaker>??</Speaker>||<BGM>m_avg_labyrinth</BGM>:<color=#00CCFF>Save us. Save us.</color>
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Is this an electronic attack? I'm no EW Doll, but this should be a message sent through a forced connection, right?
-()<Speaker>??</Speaker>||:<color=#00CCFF>Save us. Save us. Save us. Save us. Save us.</color>
-ACR(0)<Speaker>ACR</Speaker>||:But this voice seems to be begging for help...and it's not attacking our neural clouds...
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Indeed... So it's just a cry for help, and I don't sense any hostility either, but how are we going to save them?
-SSG3000(0)<Speaker>SSG 3000</Speaker>||:Leader...is the fog coming back again?
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Why...can't I move...all of a sudden...?
-ACR(0)<Speaker>ACR</Speaker>||:Me...me neither... I can't hear your voice, Leader...
-()<Speaker></Speaker>||:In the Dolls' eyes, the sky grows dark. +A strangely-dressed girl walks out of the fog, blankly surveying the immobilized Dolls. She bends down to scoop up the motionless corpse.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker><Shake>||:Is...that...the enemy...ringleader...?
-NytoIsomer(0)<Speaker>Melodious Voice</Speaker>||:No, I am simply one who was unworthy. We were not accepted when the field of flowers bloomed. At the very least, please save the ones who remain.
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:What...are...you...saying...? +Are these...coordinates?
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:The strange girl doesn't say anything else. All she does is walk slowly back into the fog, still cradling the corpse.+As she leaves, the fog fades away, and the Dolls are able to move again.
-ACR(0)<Speaker>ACR</Speaker>||<BGM>BGM_Sneak</BGM>:What...what happened...? Was that fog her doing as well? I've never seen an enemy with such vague motives...
-ACR(0);DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:If you ask me...I don't think she's an enemy... Those coordinates she gave, and the people she wanted us to rescue... +What could it all mean?
-ACR(0)<Speaker>ACR</Speaker>;DesertEagle(0)||:She sent you coordinates just now?
-ACR(0);DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:Yes...
-ACR(0)<Speaker>ACR</Speaker>;DesertEagle(0)||:You're not afraid it could be a trap?
-ACR(0);DesertEagle(0)<Speaker>Desert Eagle</Speaker>||:For some reason, she sounded very sad to me... +I think we should go check out those coordinates. +I have a hunch that there'll be something the Commander wants us to investigate over there.
-ACR(0)<Speaker>ACR</Speaker>||:Order received. I hope your hunches are reliable, Leader...
-DesertEagle(0)<Speaker>Desert Eagle</Speaker>||<黑屏1>:I'll sync the coordinates to you. We'll send all the information we've collected so far to the Commander before heading out. For some reason, I'm getting the feeling that the situation's become more complicated. Hopefully this information will help the Commander...
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:На вокзале Таллинна.
+()<Speaker></Speaker>||:Калина заканчивает трансляцию и поворачивается к Командиру.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Командир, наш поезд прибыл на вокзал Таллинна.
+()<Speaker></Speaker>||:Командир ничего не говоря, только кивает.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Что нам делать дальше, Командир?
+()<Speaker></Speaker>||:Командир с силой ударил кулаком по пульту управления.
+指挥官()<Speaker>Командир</Speaker>||:Херня какая...
+NPC-Kalin(7)<Speaker>Калина</Speaker>||:Помимо отряда «Десерт Игл», другие разведывательные эшелоны тоже сообщили, что нашли тела беженцев. Всего их, по крайней мере, несколько тысяч...
+指挥官()<Speaker>Командир</Speaker>||:Это была заранее спланированная резня!
+NPC-Kalin(4)<Speaker>Калина</Speaker>||:Что тут, черт возьми, произошло...? О, пришло сообщение от мисс Персики. Мне её подключить?
+()<Speaker>Командир</Speaker>||:Соедини меня с ней.
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Извини, что беспокою, Командир.</color>
+NPC-Persica(0);NPC-Kalin(0)<Speaker>Командир</Speaker>||:Мисс Персика... Если ты позвонила, чтобы узнать, как дела у Команды AR, то, извини, но у меня сейчас нет на это настроения.
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Речь не об этом... Благодаря доступу, который ты мне только что предоставил, мне удалось посмотреть видеозаписи и записи сигналов, которые прислала Команда AR. Чтобы тебе было проще принять дальнейшие решения, я считаю, что должна рассказать тебе кое-что.</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:Почему ты решила рассказать нам обо всём этом именно сейчас?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Прости... Честно говоря, я не до конца была уверена, стоит ли это делать. Если я расскажу тебе больше, это может подвергнуть тебя ещё большей опасности, Командир.</color> +<color=#00CCFF>Однако, учитывая, как обстоят дела сейчас, я считаю, что ты имеешь право знать, с чем тебе предстоит столкнуться. Я также верю, что ты сможешь справиться с этой опасностью.</color> +<color=#00CCFF>К тому же... то, что я собираюсь тебе рассказать, связано с этой резней. Надеюсь, ты сможешь сдержать свои эмоции и выслушать меня до конца.</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:Опасности, с которыми мы сталкиваемся, да... Это про Парадеус?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Речь идет о том, что было до Парадеуса.</color> +<color=#00CCFF>Ты слышал об организации под названием «90wish»? </color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Калина</Speaker>||:90wish? Если я не ошибаюсь, это была группа, которая когда-то делилась результатами своих исследований в интернете... но вскоре она исчезла, и в наших базах данных нет никакой информации о ней...
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Совершенно естественно, что у тебя нет никаких точных сведений. Вся информация о 90wish была удалена или повреждена.</color> +<color=#00CCFF>Как ты, наверное, догадался, Командир, я когда-то был членом 90wish.</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||<BGM>BGM_Pervaded</BGM>:А 90wish — это предшественник Парадеус?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Нет. Я думаю, что это две разные организации, и 90wish, наверное, до сих пор работает.</color>+<color=#00CCFF>Когда я впервые присоединилась к 90wish, я думала, что это просто исследовательская организация, но потом обнаружила, что в группу постоянно вливаются огромные средства, и стало ясно, что всё не так просто, как мне казалось сначала.</color>
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Чем глубже я вникала в дела этой организации, тем больше понимала, что 90wish занимается всевозможными незаконными исследованиями. Я ушла, потому что не могла с этим смириться...</color>
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, пожалуйста, выслушай меня. Я уже проанализировала сигнал, который пытался насильно соединиться с M4 — образцы хаотичных передач, которые нарушили работу эшелонов Кукол, и источники помех.</color>+<color=#00CCFF>Этот способ передачи данных… — это частотный алгоритм, который когда-то использовал 90wish.</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:То есть ты хочешь сказать, что за всем этим стоит не Парадеус, а какая-то организация под названием «90wish»?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Нет, я не это имела в виду. 90wish — это, в конечном счёте, исследовательская группа. Однако результаты их исследований оказались в руках людей с нечистыми намерениями.</color> +<color=#00CCFF>Мой анализ лишь указывает на то, что в этом городе есть много творений 90wish, но они также обладают определёнными отличительными чертами, которые совпадают с образцами Парадеус, которые я ранее получала.</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:И к чему ты клонишь?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, я слышала, что тебя когда-то взял в плен Парадеус, так что, возможно, ты с этой личностью знаком.</color> +<color=#00CCFF>Если речь идет о ком-то, кто связан и с 90wish, и с Парадеусом, то мне кажется, что на этот раз мы, скорее всего, имеем дело с… Уильямом.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Калина</Speaker>||:Уильям?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Да... Профессор Уильям. Как и я, он тогда был членом «90wish», но этот человек был еще страннее, чем все остальные чудаки, которых я встречалаа, вместе взятые.</color> +<color=#00CCFF>Никто раньше не видел его лица, никто не слышал его настоящего голоса, а область исследований, которую он выбрал, была… пугающей.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Калина</Speaker>||:Это были опасные исследования?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Возьми, к примеру, трупы тех беженцев. Ты не заметил рядом с ними какие-то странные лепестки цветов?</color>
+NPC-Persica(0);NPC-Kalin(4)<Speaker>Калина</Speaker>||:Да... они были видны на многих из присланных снимков.
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Это виды растения под названием «Эпифиллум»...</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:Эпифиллум?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Да. Это такие растения, которые могут поглощать Жидкость «Коллапс».</color>+<color=#00CCFF>90wish когда-то изучал возможность использования растений для очистки от радиации Коллапса, но, как и следовало ожидать, исследования провалились. Эти растения могут поглощать свободно парящие радиоактивные частицы, но как только зацветают, они сразу выбрасывают всё, что поглотили.</color>+<color=#00CCFF>Очевидно, что для дезактивации их использовать нельзя, но Уильямсу эти «Эпифиллумы» очень нравились, и перед моим отъездом он постоянно работал над выведением улучшенных разновидностей этого вида. </color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Калина</Speaker>||:Ну... Ой! Вот оно!
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Да. Лучшего инструмента для массового убийства, чем «Эпифиллум», просто нет.</color>+<color=#00CCFF>Парадеусу нужны были заражённые ЭЛИДом люди, но беженцы не настолько глупы, чтобы бежать в заражённые зоны и пойти на верную гибель. А «Эпифиллум» мог бы стать идеальной ловушкой, которая с виду выглядела бы совершенно безопасной...</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:...Просто омерзительно.
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Но это ещё не самое страшное. Судя по снимкам, которые прислали твои Куклы, помимо мёртвых беженцев и мутировавших ЭЛИД, ты должен был обнаружить ещё и образец, который был собран насильно.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Калина</Speaker>||:Ты имеешь в виду ту полумеханическую девушку?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>;NPC-Kalin(2)||:<color=#00CCFF>Да... Судя по внешнему виду, она немного похожа на Нито. Думаю, она, скорее всего, была испытуемой в рамках теста на совместимость, которую модифицировали, но в итоге эксперимент всё равно провалился.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Калина</Speaker>||:Участник теста на совместимость?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>;NPC-Kalin(2)||:<color=#00CCFF>90wish когда-то проводил исследование, насколько структура человеческого тела совместима с устройствами Реликвии, работающими в ионизированном состоянии и с регулируемым объемом.</color> +<color=#00CCFF>Они полагали, что в сооружениях цивилизации Реликвии для определения прав доступа использовалась генетическая информация. Однако человеческое тело при воздействии больших доз радиации Коллапса структурно кристаллизуется, хотя этот процесс немного замедляется в организмах, имеющих к ним сродство.</color> +<color=#00CCFF>90wish надеялся, что существа с таким сродством смогут активировать самые внешние устройства внутри Реликвий, прежде чем они подвергнутся полной мутации. </color>
+NPC-Persica(0);NPC-Kalin(4)<Speaker>Калина</Speaker>||:Но почему...
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>90wish проводил подобные моделируемые эксперименты на суперкомпьютерах, но ему всегда запрещали проводить их в реальной жизни, потому что это было грубым нарушением человеческой этики и морали.</color> +<color=#00CCFF>Моделирование провалилось, что никого не удивило. Результаты трёх миллионов моделируемых экспериментов оказались все неверными… и неудивительно. Реликвии просто не могли отреагировать на такие примитивные методы.</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:Но, полагаю, были и те, кто не согласился с таким исходом.
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Да, особенно этот «Уильям». Он считал, что неудачи были вызваны невыполненными условиями. Если симуляции заканчивались провалом, он пробовал это в реальной жизни. Я бы не удивилась, если бы он был способен на такую жестокость...</color>
+NPC-Persica(0);NPC-Kalin(4)<Speaker>Калина</Speaker>||:То есть ты хочешь сказать, что эта девчонка была незавершённой «Нито», созданным специально для такого эксперимента?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Элиза, которую раньше оставили на свободе, была «ключом» к пробуждению объектов Реликвий. А Нито были своего рода «посредниками» для установления контакта с этими объектами... Раньше Анже рассказывала мне, что есть фракция, которая пытается реактивировать Реликвии. Это объясняло бы все их цели.</color> +<color=#00CCFF>Однако... я до сих пор не понимаю, как он собирается достичь своей цели...</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:Значит, «Нито» не предназначались для боя?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Для Уильяма они были ничем иным, как провальными экспериментами. Так что... он без зазрения совести использовал бы их в качестве пушечного мяса.</color> +<color=#00CCFF>Тем не менее это показывает, что исследования Уильяма пока не увенчались успехом. Он всё ещё продолжает свои эксперименты.</color> +<color=#00CCFF>После инцидента на острове Бейлан однажды появился «Иммунный индивид», на которого радиация Коллапса»не оказала абсолютно никакого воздействия. Интересно, не пытается ли он создать нового «Иммунного индивида»...</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:То есть ты хочешь сказать, что Таллинн для него — всего лишь лаборатория, а мы все — его подопытные крысы.
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, у меня по этому поводу плохое предчувствие.</color> +<color=#00CCFF>Начиная с недавнего предательства Военных, затем Белград, а теперь и твоё появление в Таллинне — у меня такое ощущение, что всё это было тщательно спланировано, чтобы подтолкнуть нас к тому, чего делать не стоит.</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:Что же ты тогда предлагаешь?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>...Я не могу дать тебе никаких советов без тщательного анализа.</color> +<color=#00CCFF>Но, возможно, стоит проанализировать эти неудавшиеся Нито. А ещё есть сигнал, который пытается установить связь с M4... Похоже, противник пытается передать ей какое-то сообщение...</color> +<color=#00CCFF>В этом городе огромный слой Уровня II, где бесчисленные соединения образуют плотную сеть. Но со стороны он выглядит как мёртвый город... Если она не войдёт в эту сеть...</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>Калина</Speaker>||:Так ты хочешь, чтобы M4 связалась с другой стороной? Разве это не очень опасно?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>M4 — это моё творение. Учитывая её характеристики, её не так-то просто взломать. Если даже она не сможет этого сделать, то ни одна другая Кукла точно не сможет.</color>+<color=#00CCFF>Наверное, она сейчас очень растеряна и не знает, что делать. Раньше она пыталась ответить на связь, и хотя я не уверенаа, что именно она ищет, по крайней мере, я не думаю, что нам стоит ей мешать.</color>+<color=#00CCFF>Как люди, мы должны направить её на правильный путь. Это зависит от нас с тобой, Командир.</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:Я надеялся, что ты сама ей это скажешь. +Ты готова встретиться с ней?
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||:<color=#00CCFF>...Это моя обязанность.</color>
+NPC-Persica(0)<Speaker>Командир</Speaker>||:Больше ничего не нужно. Пойду займусь необходимыми приготовлениями. А пока на этом заканчиваю связь. +Как только свяжусь с M4, подключу тебя к разговору.
+NPC-Persica(0)<Speaker>Персика</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Хорошо. Остальное я оставляю на ваше усмотрение, Командир.</color>
+NPC-Kalin(2)<Speaker>Калина</Speaker>||<BGM>BGM_Empty</BGM><BIN>202</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:Боже мой...
+NPC-Kalin(2)<Speaker>Калина</Speaker>||:Я ещё никогда не слышала, чтобы мисс Персика так много говорила...
+NPC-Kalin(2)<Speaker>Командир</Speaker>||<BGM>BGM_Truth</BGM>:Я даже через экран чувствовал, как она нервничает. Наверное, ей тоже пришлось нелегко.
+NPC-Kalin(2)<Speaker>Калина</Speaker>||:А я-то думал, что она просто обычная сотрудница научно-исследовательского института... Не думала, что она так много знает.
+()<Speaker>Командир</Speaker>||:(Вздыхает) Одни плохие новости. Я думал, что после объяснений Хавьера вопрос решён, но теперь кажется, что мы вернулись к исходной точке.+Калин, как дела у отдельных команд?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Команда AR сообщает, что они пытаются найти способ активировать карантинную стену. Остальные команды вернулись на вокзал, чтобы пополнить запасы.+Кроме того, мы только что получили анонимный снимок со спутника. На нём видно, что военный бронированный поезд добрался до места недалеко от нас, но по какой-то причине остановился. Возможно, чтобы пополнить запасы.
+NPC-Kalin(0)<Speaker>Командир</Speaker>||:Тогда у нас ещё есть время.+Я уверен, что Команда AR найдёт способ активировать стену, а как только остальные команды будут готовы, мы попросим их провести ещё одну разведывательную операцию и сосредоточиться на исследовании тех «неудачных Нито».+Я согласен с Персикой, сбои и принудительные соединения, которые были раньше, наверняка как-то связаны с этим.
+NPC-Kalin(7)<Speaker>Калина</Speaker>||:Не знаю, почему... но почему-то мне кажется, что весь Таллинн — это, наверное, не что иное, как гигантская гробница.+А мы действительно сможем что-нибудь найти?
+NPC-Kalin(7)<Speaker>Командир</Speaker>||:Нам нужно выяснить, что затеял этот «Уильям».+Если мы не разберемся в его целях, то всегда будем на шаг отставать от него, а он будет вести нас за нос.+Ненавижу это чувство, особенно сейчас. Пусть разведывательные группы найдут все возможные зацепки по «Нито», а когда всё будет готово… свяжемся с Командой AR.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<黑点1>:Поняла. Сейчас же займусь этим.
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||<黑点2><BIN>197</BIN>:Ну, тогда мы отправляемся.
+DesertEagle(0);NPC-Kalin(0)<Speaker>Калина</Speaker>||:Мне очень жаль, что приходится отправлять тебя на новую разведывательную миссию сразу же после твоего возвращения...
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>;NPC-Kalin(0)||:Всё в порядке. Мы все закончили пополнение запасов и готовы к бою в любой момент. К тому же мы думаем так же, как Командир: мы не можем позволить правде исчезнуть в пыли и дыму.
+DesertEagle(0);NPC-Kalin(0)<Speaker>Калина</Speaker>||:Ясно, тогда постарайся как можно лучше. Только что дроны определили местонахождение ещё нескольких точек сбора беженцев. Мы проведём разведывательную операцию по всем этим местам.
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>;NPC-Kalin(0)||:А какова будет наша роль в этом?
+DesertEagle(0);NPC-Kalin(0)<Speaker>Калина</Speaker>||:Поскольку ты в какой-то степени знакома с местностью, Командир хочет, чтобы ты заняла передовую позицию. Остальные эшелоны растянут свои ряды на максимально возможную дистанцию, чтобы охватить как можно большую территорию.+В рамках этой миссии тебе нужно собрать как можно больше информации о беженцах. Старайся избегать боев и не упустить ни одной зацепки.
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Понял. Мы уже выходим.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Десерт Игл кивает и уводит свою команду с поезда.
+()<Speaker></Speaker>||<黑屏2><BIN>159</BIN>:Полчаса спустя.
+ACR(0)<Speaker>ACR</Speaker>||:Почему мы должны идти впереди, хотя мы же явно новички...? У Грифона должно быть достаточно эшелонов Кукол.
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>;ACR(0)||:Хватит жаловаться. Разве не здорово, что Командир ценит твои способности?
+DesertEagle(0);ACR(0)<Speaker>ACR</Speaker>||:Это правда, но... Подожди, впереди что-то шевелится.
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>;ACR(0)||<BGM>BGM_Sneak</BGM>:Это белые враги?
+ACR(0)<Speaker>ACR</Speaker>||:Они очень похожи на войска Парадеуса...+Но они не совсем такие, как те, что появлялись раньше... Почему они все такие побитые? Это что, автономные подразделения или что-то в этом роде?
+ACR(0)<Speaker>ACR</Speaker>||:Ах! Они что-то преследуют! Разве это не один из тех «Нито», на которых Калина просила нас обратить внимание? О нет, они атакуют!
+AbandonedIsomer(0)<Speaker>??</Speaker>||:(Стоны)
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Белые враги… охотятся на «подопытных»? Но судя по информации, которую нам только что синхронизировали, я думала, что они на одной стороне…
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:Может, нам стоит вмешаться и помочь?
+ACR(0)<Speaker>ACR</Speaker>||:Мы до сих пор не знаем, друзья они или враги! А Калина хотела, чтобы мы не ввязывались в драку...
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:С другой стороны внезапно раздаются выстрелы. Целенаправленная очередь обрушивается на белых врагов и мгновенно уничтожает их.
+ACR(0)<Speaker>ACR</Speaker>||:Кто стрелял?! Кто это был?!
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:Э-э, это не я?
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Я ловлю сигнал Грифона, это кто-то из нас? Это Десерт Игл, прошу ответить.
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Сейчас 1895 , значит, вы все где-то поблизости?</color>
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>;M1895MG(0)||:О, это же 1895... Что ты здесь делаешь? А что случилось с твоей командой?
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>Все, что я взяла с собой, оказалось слишком тяжелым, так что я решила отдохнуть... Но когда я снова подняла глаза, всех моих товарищей по команде уже не было.</color>
+ACR(0)<Speaker>ACR</Speaker>||:Куклы Грифона слишком легко оказываются в затруднительном положении, не находишь...?
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:Так уж устроен режим автономной работы. Если Командир не руководит ими лично, всё и заканчивается именно так. К тому же Командир в итоге всегда находит пропавших Кукол.
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Хватит болтать. Как там «испытуемый»?
+ACR(0)<Speaker>ACR</Speaker>||:Давай посмотрим поближе... Похоже, она перестала двигаться после удара... Она мертва?
+M1895MG(0)<Speaker>M1895 CB</Speaker><scan><通讯框>||:<color=#00CCFF>Значит, я не смогла её спасти, да... А я-то думала, что там ещё остались живые беженцы...</color>
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||<BGM>BGM_Empty</BGM>:Нет... подождите... Это что, голос в нашей системе связи?
+ACR(0)<Speaker>ACR</Speaker>||<SE1>AVG_whitenoise</SE1>:Я тоже это слышу... но, похоже, это не исходит от наших средств связи...
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Это ощущение… Оно похоже на то, что было, когда туман только-только поднялся. Было такое ощущение, будто кто-то заглядывает в мои мысли… Голос становится всё отчётливее.
+()<Speaker>??</Speaker>||<SE1>AVG_Bell</SE1>:<color=#00CCFF>Спаси...</color>
+ACR(0)<Speaker>ACR</Speaker>||:Что?
+()<Speaker>??</Speaker>||<BGM>m_avg_labyrinth</BGM>:<color=#00CCFF>Спаси нас. Спаси нас.</color>
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Это что, электронная атака? Я, конечно, не эксперт по РЭБ, но это же должно быть сообщение, отправленное через принудительное соединение, да?
+()<Speaker>??</Speaker>||:<color=#00CCFF>Спаси нас. Спаси нас. Спаси нас. Спаси нас. Спаси нас.</color>
+ACR(0)<Speaker>ACR</Speaker>||:Но этот голос, похоже, взывает о помощи… и он не атакует наши нейронные облака…
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Да... Так это просто просьба о помощи, и я тоже не чувствую никакой враждебности, но как мы их спасём?
+SSG3000(0)<Speaker>SSG 3000</Speaker>||:Лидер... туман снова возвращается?
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Почему... я не могу пошевелиться... так внезапно...?
+ACR(0)<Speaker>ACR</Speaker>||:Я... я тоже... Я не слышу твой голос, лидер...
+()<Speaker></Speaker>||:В глазах Кукол темнеет небо. +Из тумана выходит странно одетая девушка и безразлично оглядывает застывших Кукол. Она наклоняется, чтобы поднять неподвижное тело.
+DesertEagle(0)<Speaker>Десерт Игл</Speaker><Shake>||:Это... что... главарь врага...?
+NytoIsomer(0)<Speaker>Мелодичный голос</Speaker>||:Нет, я просто та, кто оказался недостойным. Нас не приняли, когда поле расцвело цветами. По крайней мере, пожалуйста, спаси тех, кто остался.
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Что... ты... имеешь... в виду...? +Это... координаты?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Странная девушка больше ничего не говорит. Она просто медленно уходит обратно в туман, по-прежнему держа труп на руках.+Когда она уходит, туман рассеивается, и Куклы снова могут двигаться.
+ACR(0)<Speaker>ACR</Speaker>||<BGM>BGM_Sneak</BGM>:Что... что произошло...? Это туман тоже она устроила? Я ещё ни разу не встречала врага с такими неясными мотивами...
+ACR(0);DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Если ты меня спросишь… Я не думаю, что она враг… Те координаты, которые она дала, и люди, которых она хотела, чтобы мы спасли… +Что всё это может означать?
+ACR(0)<Speaker>ACR</Speaker>;DesertEagle(0)||:Она только что прислала тебе координаты?
+ACR(0);DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Ага...
+ACR(0)<Speaker>ACR</Speaker>;DesertEagle(0)||:Ты не боишься, что это может быть ловушка?
+ACR(0);DesertEagle(0)<Speaker>Десерт Игл</Speaker>||:Почему-то мне показалось, что в её голосе слышалась грусть... +Думаю, нам стоит проверить эти координаты. +У меня предчувствие, что там будет что-то, что Командир хочет, чтобы мы расследовали.
+ACR(0)<Speaker>ACR</Speaker>||: Принято. Надеюсь, твои предчувствия не подведут, лидер...
+DesertEagle(0)<Speaker>Десерт Игл</Speaker>||<黑屏1>:Я перешлю тебе координаты. Перед отправкой мы передадим все данные, которые собрали до сих пор, Командиру. Почему-то у меня такое ощущение, что ситуация усложнилась. Надеюсь, эта информация поможет Командиру...
