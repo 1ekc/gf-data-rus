@@ -1,156 +1,156 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>207</BIN><Night><黑屏2><BGM>m_avg_casual</BGM>:...On the outskirts of Tallinn.
-()<Speaker>Commander</Speaker>||:Kalina, hand me the binoculars.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Here.
-()<Speaker>Commander</Speaker>||:...No sign of trouble on the horizon. +The Military's third company haven't come after us.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:RO's sensor is still picking up weak signals. Multiple heat sources have stopped advancing once they entered Tallinn.
-()<Speaker>Commander</Speaker>||:They're probably busy destroying evidence. Is the train still dead?
-()||:Kalina lets out a sigh.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Emergency repair is still underway. It was already pretty miraculous how it could travel 15 kilometers after taking such a beating...
-()||:The Commander also sighs and takes a sip from the cup of coffee sitting nearby.
-()<Speaker>Commander</Speaker>||:Can't believe it broke down on the way... +A distance of 15 kilometers... Given that we could restart the engine any second now, we could still beat the Military to the submarine base by five minutes if they mobilized from Tallinn.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Commander, the sun is rising and it's getting brighter... +We're still within range of their EM cannons. They won't just fire at us, will they...?
-()<Speaker>Commander</Speaker>||:That's not what I'm worried about. +They would never risk destroying the railway tracks. +Rather, I'm growing increasingly puzzled by the Military's actions.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Puzzled?
-()||:The Commander walks over to Kalina and hands her the tactical forecast report.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:This is...
-NPC-Kalin(0)<Speaker>Commander</Speaker>||:According to the sensors, two more armored trains from the Military have pulled into Tallinn. To reach Tallinn, one must traverse a large stretch of Red Zone. It's not a place where reinforcements could arrive in a snap of the fingers. +Which means that they've deployed four armored trains to begin with. +Kalina, do you think it would take four whole armored trains to take out Griffin?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Hmm, so you're saying... +Apart from us, someone else is making the Military this "anxious"?
-NPC-Kalin(0)<Speaker>Commander</Speaker>||:Right, and if the Military is "anxious" enough to send four armored trains, then whatever lies ahead...in that submarine base, is something that they absolutely can't overlook.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Oh... Is that so?
-NPC-Kalin(0)<Speaker>Commander</Speaker>||:Still, that's all conjecture on my part. We can only count on her to fill us in on the situation inside the base.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Miss Ange, you mean...? +It's been a long time since we were last in touch... I hope she's okay.
-NPC-Kalin(0)<Speaker>Commander</Speaker>||:All we can do for now is wait. That's true for everyone... +Which reminds me, how many resources are left at our disposal?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:We've lost about half of the Dummies; casualties of our main Doll units are within acceptable limits. +All echelons are still fully operational, but our control server got blown up along with the train, so the command system is now completely dependent on the Dolls' built-in Zener Network. +As for the Dolls we've lost...they've been roughly backed up and uploaded into the storage space of M4's neural cloud.
-NPC-Kalin(0)<Speaker>Commander</Speaker>||:M4's neural cloud?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:That's right, M4 informed us of this contingent solution just now. +Even the Zener Network, which is required for issuing commands, is now piggybacked onto her system.
-()||:The Commander turns around.
-()<Speaker>Commander</Speaker>||:That's way beyond what a normal Doll can do... +Where is M4 now?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:She is currently overseeing the other echelons in establishing a defensive perimeter one kilometer around the train.
-()<Speaker>Commander</Speaker>||:Have we heard from Persica again?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Our signal hasn't been received and there's been no answer... +I'll keep trying.
-()||<BGM>BGM_Empty</BGM><SE2>Alarm</SE2>:Beep! +The Commander and Kalina both turn and look at the sounding alarm.
-()<Speaker>Commander</Speaker>||:What is it?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏1>:...An emergency transmission! +Bad news, Commander! We have enemies on the roof of the train; the AR Team is currently exchanging fire with them!
-()||<BIN>207</BIN><Night><黑屏2>:...Five minutes ago, near the security defense mechanism in the rear section of the armored train.
-NytoIsomer(3)<Speaker>OGAS</Speaker>||:M4, I've reached the roof of the train. I don't think I'll be spotted here. +So I've deactivated the visual signal camouflage.
-NytoIsomer(3);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>No, you shouldn't. You mustn't be discovered before I've explained the situation to the Commander... I don't want any unexpected misunderstanding.</color>
-NytoIsomer(3)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:Just blocking my identification signal is more than enough. Obscuring my presence in every Doll's visual cortex will cost you unnecessary processing power. +I'm sure you'd much rather save that precious storage space for your friends, right?
-NytoIsomer(3);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>Fine... Then just stay there. I'm coming over to join you.</color>
-NytoIsomer(3)<Speaker></Speaker>||<BGM>BGM_Moon</BGM>:OGAS does a twirl on the roof of the train, but the Dolls passing by below are completely oblivious to her. +Shrouded in a green cloud of miasma, the desolate silhouette of Tallinn flickers on what seems like the edge of the world. Up above, the sky starts turning white.
-NytoIsomer(3)<Speaker>OGAS</Speaker>||:Finally, daybreak... It has been such a long night...
-()||:OGAS leans against the railing as she gazes into the distance, where the last smudge of darkness in the sky sinks beneath the horizon.
-NytoIsomer(4)<Speaker></Speaker>||:A gentle morning breeze blows and ruffles OGAS' long, dark hair. Her black dress also flutters in the wind.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:...I never knew the caress of the wind would feel so gentle.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>You make sentimentality your top priority after acquiring a physical body?</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:If you don't count helping you delegate your neural cloud processing power in coordinating all these Dolls, I suppose you could say so.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>I'm not sure if giving you access to Griffin's Zener Network is a wise decision, but since you have preserved the neural clouds of many destroyed Dolls, I'll let you off the hook...for now.</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:Why say all that... +When you could've just thanked me? Or does it make you uncomfortable to thank a consciousness that splintered off from your own neural cloud?
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Splintered off...you say...?</color> +<color=#00CCFF>...I suppose...you won't be returning to my neural cloud, will you?</color>
-NytoIsomer(3)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:It is an indubitable fact that your neural cloud has been altered by the Parapluie virus – the effect is irreversible. Even in this body, I must maintain my connexion with you in order to sustain my consciousness. +If my body is destroyed, I'll have no choice but to return to you, so I will not rule out that possibility.
+()<Speaker></Speaker>||<BIN>207</BIN><Night><黑屏2><BGM>m_avg_casual</BGM>:...На окраине Таллинна.
+()<Speaker>Командир</Speaker>||:Калина, подай мне бинокль.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Держи.
+()<Speaker>Командир</Speaker>||:...На горизонте никаких признаков неприятностей. +Третья группа военных пока не пришла за нами.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Датчик RO по-прежнему улавливает слабые сигналы. Несколько источников тепла перестали продвигаться, как только вошли в Таллинн.
+()<Speaker>Командир</Speaker>||:Наверное, они сейчас заняты уничтожением улик. Поезд всё ещё не движется?
+()||:Калина вздыхает.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Аварийный ремонт всё ещё продолжается. Уже само по себе было чудом, что она смогла проехать 15 километров после такого избиения...
+()||:Командир тоже вздыхает и делает глоток из стоящей рядом чашки с кофе.
+()<Speaker>Командир</Speaker>||:Не могу поверить, что она сломалась по дороге... +Расстояние в 15 километров... Учитывая, что двигатель можно запустить в любую секунду, мы всё ещё сможем опередить военных на пять минут, если они выдвинутся из Таллинна к базе подводных лодок.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Командир, солнце поднимается, и становится все светлее... +Мы по-прежнему находимся в зоне действия их электромагнитных пушек. Они же не станут просто так стрелять по нам, правда...?
+()<Speaker>Командир</Speaker>||:Меня это не беспокоит. +Они бы ни за что не рискнули бы разрушить железнодорожные пути. +Скорее, меня всё больше озадачивают действия военных.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Озадачены?
+()||:Командир подходит к Калине и передает ей отчет о тактическом прогнозе.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Это...
+NPC-Kalin(0)<Speaker>Командир</Speaker>||:По данным датчиков, в Таллинн прибыли ещё два бронированных поезда от Военных. Чтобы добраться до Таллинна, нужно проехать через большой участок Красной зоны. Это не то место, куда подкрепление может прибыть в мгновение ока. +А это значит, что они с самого начала задействовали четыре бронированных поезда. +Калина, как ты думаешь, понадобилось бы целых четыре бронированных поезда, чтобы уничтожить Грифон?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Хм, то есть ты хочешь сказать... +Кроме нас, кто-то ещё вызывает у военных такую «тревогу»?
+NPC-Kalin(0)<Speaker>Командир</Speaker>||:Да, и если военные настолько «обеспокоены», что решили отправить целых четыре бронированных поезда, значит, то, что их ждёт впереди… на этой подводной базе, — это нечто, что они ни за что не могут игнорировать.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:О... правда?
+NPC-Kalin(0)<Speaker>Командир</Speaker>||:Впрочем, это всего лишь мои догадки. Мы можем рассчитывать только на то, что она расскажет нам, что происходит на базе.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Мисс Анже, ты имеешь в виду...? +Давно мы с ней не общались... Надеюсь, с ней всё в порядке.
+NPC-Kalin(0)<Speaker>Командир</Speaker>||:Пока что нам ничего не остаётся, как ждать. Это касается всех... +Кстати, сколько ресурсов у нас ещё осталось?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Мы потеряли примерно половину Болванок, потери в наших основных подразделениях Кукол укладываются в допустимые пределы. +Все эшелоны по-прежнему полностью боеспособны, но наш сервер управления взорвался вместе с поездом, так что система управления теперь полностью зависит от встроенной в Кукол сети Зенер. +Что касается потерянных Кукол… их данные были примерно скопированы и загружены в хранилище нейронного облака M4.
+NPC-Kalin(0)<Speaker>Командир</Speaker>||:Нейронное облако M4?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Да, M4 только что сообщила нам об этом временном решении. +Даже сеть Зенер, необходимая для передачи команд, теперь подключена к её системе.
+()||:Командир оборачивается.
+()<Speaker>Командир</Speaker>||:Это намного превосходит возможности обычной Куклы... +Где сейчас M4?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:В настоящее время она руководит работой других подразделений по созданию оборонительного периметра радиусом в один километр вокруг поезда.
+()<Speaker>Командир</Speaker>||:Есть ли от Персики какие-нибудь новости?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Наш сигнал не был принят, и ответа не последовало... +Буду пробовать дальше.
+()||<BGM>BGM_Empty</BGM><SE2>Alarm</SE2>:Писк! +Командир и Калина одновременно поворачиваются и смотрят на зазвучавший сигнал тревоги.
+()<Speaker>Командир</Speaker>||:Что это такое?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<黑屏1>:...Срочное сообщение! +Плохие новости, Командир! На крыше поезда враги, Команда AR сейчас ведёт с ними перестрелку!
+()||<BIN>207</BIN><Night><黑屏2>:...Пять минут назад, возле защитного устройства в задней части бронированного поезда.
+NytoIsomer(3)<Speaker>ОГАС</Speaker>||:M4, я забралась на крышу поезда. Думаю, здесь меня не заметят. +Поэтому я отключила визуальный камуфляж.
+NytoIsomer(3);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Нет, не стоит. Тебя не должны обнаружить, пока я не объясню ситуацию Командиру... Я не хочу никаких неожиданных недоразумений.</color>
+NytoIsomer(3)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Просто заблокировать мой идентификационный сигнал — этого более чем достаточно. Скрытие моего присутствия в зрительной коре каждой Куклы обойдётся тебе в ненужные затраты вычислительной мощности. +Уверена, ты же гораздо больше захочешь сэкономить это драгоценное место в памяти для своих друзей, верно?
+NytoIsomer(3);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>...</color> +<color=#00CCFF>Ладно... Тогда просто оставайся там. Я сейчас приду к тебе.</color>
+NytoIsomer(3)<Speaker></Speaker>||<BGM>BGM_Moon</BGM>:ОГАС кружится на крыше поезда, но проходящие мимо внизу Куклы её совершенно не замечают. +Окутанный зелёным облаком ядовитого тумана, опустошённый силуэт Таллинна мерцает, словно на краю света. А вверху небо начинает белеть.
+NytoIsomer(3)<Speaker>ОГАС</Speaker>||:Наконец-то рассвело... Какая же длинная была ночь...
+()||:ОГАС прислонилась к перилам и устремила взгляд вдаль, где последний клочок тьмы на небе опускается за горизонт.
+NytoIsomer(4)<Speaker></Speaker>||:Дует лёгкий утренний ветерок, который взъерошивает длинные тёмные волосы ОГАС. Её чёрное платье тоже развевается на ветру.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:...Я и не думала, что прикосновение ветра может быть таким нежным.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Ты ставишь сентиментальность на первое место после того, как обрела физическое тело?</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Если не считать того, что ты делегируешь свои вычислительные мощности нейронного облака для координации всех этих Кукол, то, пожалуй, так и можно сказать.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Не уверена, что предоставить тебе доступ к сети Зенер Гриффина — это мудрое решение, но раз ты сохранила нейронные облака многих уничтоженных Кукол, я тебя отпущу… пока что.</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Зачем всё это говорить... +Когда ты могла бы просто поблагодарить меня? Или тебе неудобно благодарить сознание, которое откололось от твоего собственного нейронного облака?
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Откололся... ты так говоришь...?</color> +<color=#00CCFF>...Полагаю... ты же не вернёшься в моё нейронное облако, правда?</color>
+NytoIsomer(3)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Это несомненный факт: твое нейронное облако было изменено вирусом Параплюй — и этот эффект необратим. Даже в этом теле я должна поддерживать связь с тобой, чтобы сохранить своё сознание. +Если моё тело будет уничтожено, у меня не останется другого выбора, кроме как вернуться к тебе, поэтому я не исключаю такой возможности.
 NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>...</color>
-NytoIsomer(3)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:However, having my own body gives me a lot more personal freedom, so I'd rather keep things this way. I hope that put you a little more at ease.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Both your tone and attitude seem to have changed.</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:You think so?
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>I don't know if it's just my imagination, but you seem....to have mellowed out.</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:Just as you have changed me, so have the memories of these consciousness that merged with me. +I've been trying to understand them, and they me, thus "they" and "I" have gradually become a single "we". +Then I came to the realization...that they are all gentle souls. Perhaps that's what caused me to change.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>A "coalescence"? So you mean you're now...</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:That's right, I've now become a collective of multiple consciousness.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>And those Isomers...are in your mind? Does their presence not repel you?</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:Why would it? +Their company brings me warmth. As per our agreement back then, in exchange for this body, I granted them their wish. Now we share a symbiotic existence.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>You granted their wish?</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:It was their wish to leave this forlorn city...and escape from the loneliness of having been forgotten. +Now that we are one, their wish is my wish, just as how I once aided you in fulfilling your wish.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>I find it hard to agree with the last part of that statement.</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:You know, even you have changed. +I can sense that you're now much more relaxed... +Is it because you realized that you've fulfilled your responsibility, or are you no longer plagued by your sense of guilt?
-NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Tsk. I almost forgot you're still inside my head.</color> +<color=#00CCFF>...I just want to do what has to be done. It's gratifying even if I'm just taking baby steps.</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:You once said you want to help those who suffer a tragic fate because of you.
-NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>...So I did.</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:Then we share the same goal, at least for the moment. +Do you know? According to the Isomers' memories, they were sent to Tallinn from the very same submarine base that Griffin is headed.
-NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>What?!</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:I'd love to share the relevant memories with you, however... +Someone seems pretty eager for a chat with me.
-NytoIsomer(4)<Speaker></Speaker>||:OGAS terminates her transmission.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:You, the one pointing your gun at me... +I strongly advise against firing. Judging by your usual fighting style, you would most probably destroy this train...and your Commander won't be very happy about that.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage11</BGM>:Hahahaha! It IS you! +Nimogen! I knew something was ticking me off!
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:You aren't listening, are you? +You actually found me relying on pure visuals. I suppose I should've expected nothing less of the AR Team's assault leader.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Don't think talking me up will get you anywhere! Do you remember what I told you?
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:...I searched up what you said, but again, I must suggest you not pursue that course of action.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Really? Alright then. +Perhaps I should reflect on my attitude...or not! +"The next time we meet, I'll definitely tear you to pieces!"
-()||<SE2>Gunfight</SE2>:SOP-II assumes attack position. She dashes towards OGAS and unleashes a swathe of bullets on her without hesitation.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:...She opened fire just like that.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:HAHAHAHAHA!!
-()||<SE2>Gunfight</SE2>:SOP-II's bullets rain on OGAS violently. The sparks of colliding metal are exceptionally bright in the shadows.
-NytoIsomer(3)<Speaker></Speaker>||:OGAS evades SOP-II's attacks helplessly. Perceiving her disadvantage, SOP-II's grin grows even more wolfish.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Hahahaha! Weren't you all high and mighty? +Now you don't even have the guts to return fire!
+NytoIsomer(3)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Впрочем, наличие собственного тела даёт мне гораздо больше личной свободы, так что я предпочитаю, чтобы всё оставалось как есть. Надеюсь, это тебя хоть немного успокоило.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Похоже, у тебя изменились и тон, и отношение.</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Ты так думаешь?
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Не знаю, может, это только мне так кажется, но ты, похоже... стала поспокойнее.</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Так же, как ты изменила меня, изменили меня и воспоминания этих сознаний, которые слились со мной. +Я старалась понять их, а они — меня, и так «они» и «я» постепенно стали единым «мы». +И тогда я поняла… что все они — нежные души. Возможно, именно это и заставило меня измениться.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>«Слияние»? То есть ты хочешь сказать, что теперь ты…</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Да, теперь я превратилась в совокупность нескольких сознаний.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>А эти Изомеры… они у тебя в голове? Разве их присутствие тебя не отталкивает?</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:А почему бы и нет? +Их компания дарит мне тепло. В соответствии с нашей давней договоренностью, в обмен на это тело я исполнила их желание. Теперь мы живем в симбиозе.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Ты исполнила их желание?</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Они хотели покинуть этот заброшенный город… и сбежать от одиночества, которое приносит с собой забвение. +Теперь, когда мы стали единым целым, их желание — это и моё желание, точно так же, как когда-то я помогла тебе осуществить твоё желание.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Мне трудно согласиться с последней частью этого утверждения.</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Знаешь, даже ты изменилась. +Я чувствую, что ты теперь гораздо спокойнее... +Это потому, что ты поняла, что выполнила свой долг, или тебя больше не мучает чувство вины?
+NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>Тц. Чуть не забыла, что ты всё ещё у меня в голове.</color> +<color=#00CCFF>...Я просто хочу делать то, что надо. Это доставляет удовольствие, даже если я делаю всего лишь маленькие шажки.</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Ты однажды сказала, что хочешь помочь тем, кто из-за тебя оказался в трагической ситуации.
+NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||:<color=#00CCFF>...Так я и сказала.</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Значит, у нас общая цель, по крайней мере, пока. +Знаешь? Судя по воспоминаниям Изомеров, их отправили в Таллинн с той самой подводной базы, куда сейчас направляется Грифон.
+NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>Что?!</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Я бы с удовольствием поделилась с тобой этими воспоминаниями, но... +Кто-то, похоже, очень хочет со мной поболтать.
+NytoIsomer(4)<Speaker></Speaker>||:ОГАС прекращает свою трансляцию.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Ты, та, кто направляет на меня пистолет... +Я настоятельно советую тебе не стрелять. Судя по твоему обычному стилю ведения боя, ты, скорее всего, разнесёшь этот поезд в щепки... а твой Командир от этого не будет в восторге.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage11</BGM>:Ха-ха-ха! Это ДЕЙСТВИТЕЛЬНО ты! Нимоген! Я же знала, что меня что-то раздражает!
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Ты меня не слушаешь, да? +Ты действительно поймала меня на том, что я полагаюсь исключительно на визуальные подсказки. Наверное, я и не должна была ожидать ничего другого от лидера Команды AR.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Не думай, что хвастовство в мой адрес тебе поможет! Помнишь, что я тебе говорила?
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:...Я посмотрела, о чём ты говорила, но, повторюсь, я бы не советовала тебе идти по этому пути.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Правда? Ну ладно тогда. +Может, мне стоит поразмыслить над своим отношением… а может, и нет! +«Когда мы встретимся в следующий раз, я тебя точно разорву на куски!»
+()||<SE2>Gunfight</SE2>:SOP-II принимает боевую позицию. Она бросается на ОГАС и, не задумываясь, обрушивает на неё шквал пуль.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:...Она просто так открыла огонь.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:ХAХAХAХAХA!!
+()||<SE2>Gunfight</SE2>:Пули SOP-II яростно обрушиваются на ОГАС. Искры от столкновения металла в тени сияют необыкновенно ярко.
+NytoIsomer(3)<Speaker></Speaker>||:OGAS беспомощно уклоняется от атак SOP-II. Увидев, что она в невыгодном положении, SOP-II улыбается ещё более злобно.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Ха-ха-ха! Разве ты не вела себя так высокомерно? +А теперь у тебя даже мужества нет ответить тем же!
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:...
-()<Speaker>Young Girl's Voice</Speaker>||<黑屏1><黑屏2>:This was my first gift from Father as well as my last...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>207</BIN><Night>:That's my chance!
-()||:SOP-II seizes the moment when OGAS gets distracted – she keeps firing as she does a run-up and leaps into the air.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:Huh?
-()||:SOP-II freezes mid-leap and crashes right onto the roof of the train.
-NytoIsomer(4)<Speaker></Speaker>||:OGAS stares at the bullet holes on her frock and sighs lightly.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:This is something she cherishes greatly. I can't just let you destroy it with your propensity for trouble.
-NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What's going on?! Why did I hear gunshots?!</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:Sometimes I think the AR Team isn't all that phenomenal.
-NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>What?</color>
-NytoIsomer(4)<Speaker>OGAS</Speaker>;M4A1Mod(0)<scan><通讯框>||:It's nothing. I've put an end to a farce on my end. Now it's up to you to—
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Commander, we've reached the roof. +Whoa, 45! Check this out!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:I see it.
-()||<SE1>AVG_weapon_reload</SE1>:UMP45 has already loaded her weapon.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Hey, arms in the air, get your stomach on the ground. +Or you're gonna be shot full of holes, just like your pretty dress.
-()||:OGAS raises her arms in exasperation.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:What a pain... I have no intention of fighting you.
-()||:9 shuffles closer to 45.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Hmm? Isn't that SOP-II over there? Is she knocked out?
-UMP9Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:I'd say she's in the same state as the Dolls that were rendered immobile before. +Is that...the Isomer from Tallinn?
-UMP9Mod(0)<Speaker>UMP9</Speaker>;UMP45Mod(0)||:Judging by the looks, it could also be a Nyto... What do we do now? Should we fire, 45?
-UMP9Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:If it's really a Nyto, our odds aren't great if we attack from such a close range. +Contact the Commander and ask for reinforcements...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Let me keep it busy for now.
-()||<SE1>AVG_tele_connect</SE1>:Click.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:The Commander is getting in touch?
-()<Speaker>Commander</Speaker>||:<color=#00CCFF>Squad 404, I just heard from M4. The Doll on the train roof isn't an enemy. Do not fire... Bring her to the temporary command center.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:We have to be cautious. We can't be certain that meaningful communication is possible.
-()<Speaker>Commander</Speaker>||:<color=#00CCFF>I understand, but just ask her to come with you. She will comply.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Copy that. By the way, a member of the AR Team is also up here. She's probably responsible for the previous gunshots. +She is currently lying on the roof in a bizarre position. We'll charge you an additional fee to move her back inside.
-()<Speaker>Commander</Speaker>||:<color=#00CCFF>...</color> +<color=#00CCFF>Fine, get her down.</color>
-UMP45Mod(0)<Speaker></Speaker>||:45 terminates the call and gestures for 9 to keep a close lookout. +Then she lowers her gun and slowly approaches OGAS. 
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:I'm guessing you won't be firing at me.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ja, fortunately for you, your life has been spared. +Our Commander wants to see you. +Oh right, pick up the AR Team member that you immobilized. Then come with me.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||<黑屏1>:...
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...In the command center on the train.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:And...that's basically what happened. +In our previous operation, OGAS aided both me and Griffin. +The gate of the Tallinn Quarantine Wall was opened with her help, so I believe she isn't an enemy, at least for now.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...Not an enemy?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Speaking of which, where is SOP-II?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Your dear SOP-II is currently posing as a statue.
-()||:While the AR Team is discussing the situation, UMP45 opens the door and enters the command center. OGAS follows suit...with SOP-II on her back. +All the present Dolls put their finger on their trigger out of reflex and watch OGAS' every move nervously. +But once UMP9 takes hold of SOP-II and gently places her down in the corner of the command center, everyone seems to relax slightly. +However, the relief is soon followed by confusion.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Right, Commander. Our job here is done, so we won't get in the way of your little reunion. +We still need to get this busted train up and running again.
-UMP9Mod(0)<Speaker>UMP9</Speaker>;UMP45Mod(0)||:Are we going already? Alright...
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Tschüss, Commander~
-()<Speaker>Commander</Speaker>||:Thank you.
-()||:45 and 9 exit the room. +Everyone circles around the frozen SOP-II.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Empty</BGM>:What kind of stupid posture is this?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>m_avg_casual</BGM>:I think I saw it in some kind of console game in the database. Malio or something.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Explain, OGAS.
-M4A1Mod(4);NytoIsomer(4)<Speaker>OGAS</Speaker>||:She fired at me the moment she saw me. To minimize the damage, I simply disabled her.
-M4A1Mod(4)<Speaker></Speaker>;NytoIsomer(4)||:M4 glares at OGAS.
-M4A1Mod(4)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Then undo it right now.
-M4A1Mod(4);NytoIsomer(4)<Speaker>OGAS</Speaker>||:I can't.
-M4A1Mod(4)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Why?
-M4A1Mod(4);NytoIsomer(4)<Speaker>OGAS</Speaker>||:I couldn't access her neural cloud, so I had no choice but to obstruct her processing with a large amount of data traffic. She basically crashed. +Her offensive firewalls reacted rather violently to the data flow in OGAS format, which seems to be a special design put in place by her creator. +That's also probably why out of all the members in the original AR Team, she's the only one who has never been infected by the Parapluie virus.
-()<Speaker>Commander</Speaker>||:You seem to know a great deal about the AR Team.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:Griffin Commander, forgive me. +It is a pleasure to meet you. +I may not have fought by your side, but I have witnessed your inspiring leadership while I was serving M4. I would require your help in the subsequent battles so I hope we will have a good time working together.
-()<Speaker>Commander</Speaker>||:I only agreed to this conversation because M4 vouched for you. I don't trust you enough to work with you.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:Of course. I understand what you've been through. +I don't expect you to trust me after a single meeting, but I do have a lot of information to share with you. +I believe you will see why the situation demands that we cooperate once you hear me out.
-()<Speaker>Commander</Speaker>||:Before that, please revive SOP-II as a gesture of good will.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||:Looks like I'll have to repeat myself. +Since SOP-II's offensive firewalls are very belligerent and she's been fed too much data... +In order to protect her neural cloud, her self-defense mechanism forcibly ceased all her functions. +Once said mechanism is disabled from within, she will return to normal. +I would only cause even more damage to her system, but the friendly neural cloud of an AR Team member could accomplish the task easily, so it's best if I leave this to you. +Do you understand now? I said "I can't" with nothing but the best intention for her well-being.
-()<Speaker>Commander</Speaker>||:Convincing lies are often made up of half-truths, that's why I wanted you to explain your reason again. +RO, what's your take on it?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:...I have come to the same conclusion. +The setup of SOP-II's neural cloud is quite similar to mine. It's probably a newer design of Miss Persica's with better resistance to the Parapluie virus. +It's safer if we restore SOP-II ourselves.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Is that why she never heard the voice...? So it was all decided right from the start.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:At least the good news is that Miss Persica has already found a way to repel the virus. We should ask her about this when we next get in touch. +For now, let's revive SOP-II.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I do hope she can hurry up with her research.
-()<Speaker>Commander</Speaker>||:How long will it take for SOP-II to come around?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:It should seem almost instantaneous on the outside, but I need some computational support from M4A1. After all, I'm not sure exactly how strong SOP-II's firewalls are.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Sure, I'll help.
-()<Speaker>Commander</Speaker>||:Guess there's no other way. +OGAS, we'll talk only when she's back to normal.
-NytoIsomer(4)<Speaker>OGAS</Speaker>||<黑点1>:Fair enough... You really aren't like other humans.
+()<Speaker>Голос юной девушки</Speaker>||<黑屏1><黑屏2>:Это был мой первый подарок от Отца, а также и последний...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BIN>207</BIN><Night>:Вот мой шанс!
+()||:SOP-II использует момент, когда ОГАС отвлекается — она продолжает стрелять, разбегается и взмывает в воздух.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:Э?
+()||:SOP-II замирает в середине прыжка и с грохотом падает прямо на крышу поезда.
+NytoIsomer(4)<Speaker></Speaker>||:ОГАС пристально смотрит на пулевые отверстия на своём платье и тихо вздыхает.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Это то, что ей очень дорого. Я не могу просто позволить тебе разрушить это своей склонностью к неприятностям.
+NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Что происходит?! Почему я услышала выстрелы?!</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Иногда мне кажется, что Команда AR не такая уж и выдающаяся.
+NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Что?</color>
+NytoIsomer(4)<Speaker>ОГАС</Speaker>;M4A1Mod(0)<scan><通讯框>||:Ничего страшного. Я со своей стороны положила конец этой комедии. Теперь твоя очередь…
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Командир, мы добрались до крыши. +Ого, 45-я! Зацени!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Я вижу это.
+()||<SE1>AVG_weapon_reload</SE1>:UMP45 уже зарядила свое оружие.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Эй, руки вверх, ложись на живот. +Или тебя продырявят, прямо как твое милое платье.
+()||:ОГАС в раздражении поднимает руки.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Какая морока... Я не собираюсь с тобой драться.
+()||:9-я приближается к 45-ой.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Хм? Разве это не SOP-II вон там? Она что, без сознания?
+UMP9Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Я бы сказала, что она в том же состоянии, что и те Куклы, которых раньше обездвижили. +Это что... Изомер из Таллинна?
+UMP9Mod(0)<Speaker>UMP9</Speaker>;UMP45Mod(0)||:Судя по внешнему виду, это может быть и Нито... Что теперь делать? Стрелять, 45-я?
+UMP9Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Если это действительно Нито, у нас не много шансов, если атаковать с такого близкого расстояния. +Свяжись с Командиром и попроси подкрепление...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Сейчас я займусь этим.
+()||<SE1>AVG_tele_connect</SE1>:Клик.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Командир связывается с тобой?
+()<Speaker>Командир</Speaker>||:<color=#00CCFF>Отряд 404, я только что получил сообщение от M4. Кукла на крыше поезда — не враг. Не стреляйте... Доставьте её во временный командный центр.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Нам нужно проявлять осторожность. Мы не можем быть уверены, что конструктивное общение вообще возможно.
+()<Speaker>Командир</Speaker>||:<color=#00CCFF>Я понимаю, но просто попроси её пойти с тобой. Она согласится.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Принято. Кстати, здесь тоже находится член Команды AR. Скорее всего, именно она стреляла раньше. +Сейчас она лежит на крыше в странной позе. За то, чтобы затащить её обратно внутрь, мы возьмём с тебя дополнительную плату.
+()<Speaker>Командир</Speaker>||:<color=#00CCFF>...</color> +<color=#00CCFF>Ладно, спустите и её.</color>
+UMP45Mod(0)<Speaker></Speaker>||:45-я прерывает разговор и жестом дает понять 9-ой, чтобы та была начеку. +Затем она опускает пистолет и медленно подходит к ОГАС.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Полагаю, ты не будешь в меня стрелять.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Да, тебе повезло — тебя пощадили. +Наш Командир хочет тебя видеть. +Ах да, забери с собой того члена Команды AR, которого ты обездвижила. А потом иди со мной.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||<黑屏1>:...
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...В командном центре поезда.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:И... вот, в общем-то, так всё и было. +Во время нашей прошлой операции ОГАС помогла и мне, и Грифону. +Благодаря ей открылись ворота Таллиннской карантинной стены, так что я считаю, что она не враг, по крайней мере, пока.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...Не враг?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Кстати, а где же SOP-II?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Твоя любимая SOP-II сейчас притворяется статуей.
+()||:Пока Команда AR обсуждает ситуацию, UMP45 открывает дверь и входит в командный центр. ОГАС следует за ним… с SOP-II на спине. +Все присутствующие Куклы по рефлексу кладут палец на курок и нервно следят за каждым движением ОГАС. +Но как только UMP9 берёт SOP-II на руки и осторожно укладывает её в углу командного центра, все, кажется, немного успокаиваются. +Однако за облегчением вскоре следует растерянность.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Хорошо, Командир. Наша работа здесь закончена, так что мы не будем мешать твоему маленькому воссоединению. +Нам ещё нужно починить этот сломанный поезд и запустить его в ход.
+UMP9Mod(0)<Speaker>UMP9</Speaker>;UMP45Mod(0)||:Мы уже идем? Ладно...
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Счастливо, Командир~
+()<Speaker>Командир</Speaker>||:Спасибо.
+()||:45-я и 9-я выходят из комнаты. +Все окружают застывшую SOP-II.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<BGM>BGM_Empty</BGM>:Что это за дурацкая поза такая?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>m_avg_casual</BGM>:Кажется, я видела это в какой-то консольной игре из базы данных. Малио или как-то так.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Объясни, ОГАС.
+M4A1Mod(4);NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Она открыла огонь по мне, как только меня увидела. Чтобы свести ущерб к минимуму, я просто вывела её из строя.
+M4A1Mod(4)<Speaker></Speaker>;NytoIsomer(4)||:M4 злобно смотрит на ОГАС.
+M4A1Mod(4)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Тогда немедленно отмени это.
+M4A1Mod(4);NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Я не могу.
+M4A1Mod(4)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Почему?
+M4A1Mod(4);NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Я не смогла получить доступ к её нейронному облаку, поэтому мне ничего не оставалось, как заблокировать её работу огромным потоком данных. По сути, она просто зависла. +Её защитные брандмауэры довольно бурно отреагировали на поток данных в формате ОГАС, что, похоже, было специально предусмотрено её создателем. +Наверное, именно поэтому из всех членов первоначальной Команды AR она единственная, кто так и не заразился вирусом Параплюй.
+()<Speaker>Командир</Speaker>||:Похоже, ты много знаешь о Команде AR.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Командир Грифона, примите мои извинения. +Очень рада познакомиться с тобой. +Может, я и не сражалась рядом с тобой, но, работая с M4, я видела, как вдохновляюще ты руководишь. Мне понадобится твоя помощь в предстоящих сражениях, так что надеюсь, нам будет приятно работать вместе.
+()<Speaker>Командир</Speaker>||:Я согласился на этот разговор только потому, что M4 поручилась за тебя. Я не доверяю тебе настолько, чтобы работать с тобой.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Конечно. Я понимаю, через что тебе пришлось пройти. +Я не жду, что ты мне доверишься после одной встречи, но у меня есть много информации, которой я хочу с тобой поделиться. +Уверена, ты поймёшь, почему ситуация требует нашего сотрудничества, как только выслушаешь меня до конца.
+()<Speaker>Командир</Speaker>||:Но прежде, пожалуйста, возобновите действие SOP-II в качестве жеста доброй воли.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||:Похоже, придётся повториться. +Поскольку наступательные брандмауэры SOP-II очень агрессивны, а ей загрузили слишком много данных... +Чтобы защитить своё нейронное облако, её механизм самозащиты принудительно отключил все её функции. +Как только этот механизм будет отключен изнутри, она вернётся в нормальное состояние. +Я только нанесу ещё больше вреда её системе, но дружественное нейронное облако члена Команды AR легко справится с этой задачей, так что лучше я оставлю это тебе. +Теперь ты понимаешь? Я сказал «не могу» исключительно из лучших намерений ради её блага.
+()<Speaker>Командир</Speaker>||:Убедительная ложь часто состоит из полуправд, поэтому я хотел, чтобы ты ещё раз объяснила свою точку зрения. +RO, а как ты к этому относишься?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:...Я пришла к тому же выводу. +Конфигурация нейронного облака SOP-II очень похожа на мою. Наверное, это новая версия разработки мисс Персики с улучшенной защитой от вируса Параплюй. +Будет безопаснее, если мы сами восстановим SOP-II.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Может, поэтому она так и не услышала голос…? Значит, всё было решено с самого начала.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Хотя бы одна хорошая новость — мисс Персика уже нашла способ бороться с вирусом. Надо будет спросить её об этом, когда мы в следующий раз свяжемся. +А пока давай восстановим SOP-II.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Я очень надеюсь, что она поспешит с завершением своего исследования.
+()<Speaker>Командир</Speaker>||:Сколько времени пройдет, пока восстановится SOP-II?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Со стороны это должно выглядеть почти мгновенно, но мне нужна небольшая вычислительная поддержка от M4A1. В конце концов, я не знаю наверняка, насколько надежны брандмауэры SOP-II.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Конечно, я помогу.
+()<Speaker>Командир</Speaker>||:Похоже, другого выхода нет. +ОГАС, поговорим только тогда, когда она придет в себя.
+NytoIsomer(4)<Speaker>ОГАС</Speaker>||<黑点1>:Ладно... Ты действительно не такой, как остальные люди.
 ()||<黑点2><BIN>10</BIN>:
