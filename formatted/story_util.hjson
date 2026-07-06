@@ -4424,436 +4424,436 @@
   {
     id: 381
     mission_id: "10294"
-    description: '''"Once we get there, the answer will be made clear."'''
+    description: '''"Как только мы туда доберемся, ответ станет ясным."'''
     scripts: -33-1-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Quiet Presence
+    title: Тихое присутствие
     is_util: 1
     start: -33-1-1First
   }
   {
     id: 382
     mission_id: "10295,10343"
-    description: Quiet Presence - Combat
+    description: Quiet Presence - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Quiet Presence - Combat
+    title: Quiet Presence - Бой
     is_util: 1
   }
   {
     id: 383
     mission_id: "10296"
-    description: '''"Getting closer to the truth of what happened that day is enough."'''
+    description: '''"Достаточно просто приблизиться к истине о том, что произошло в тот день."'''
     scripts: -33-3-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Two Jobs
+    title: Двойная работа
     is_util: 1
     start: -33-3-1First
   }
   {
     id: 384
     mission_id: "10297"
-    description: '''"The more we learn about the truth, the closer we are to the dangerous pit of flames."'''
+    description: '''"Чем больше мы узнаём об истине, тем ближе мы подходим к опасной яме с пламенем."'''
     scripts: -33-4-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Tracing the Source
+    title: В поисках источника
     is_util: 1
     start: -33-4-1First
   }
   {
     id: 385
     mission_id: "10298"
-    description: '''"We're the safety fuse - there's no point in pulling ourselves taut so soon. "'''
+    description: '''"Мы являемся предохранителем — нет смысла так рано напрягаться."'''
     scripts: -33-5-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Reunion with Old Friends
+    title: Встреча со Старыми друзьями
     is_util: 1
     start: -33-5-1First
   }
   {
     id: 386
     mission_id: "10299,10344"
-    description: Reunion with Old Friends - Combat
+    description: Встреча со Старыми друзьями - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Reunion with Old Friends - Combat
+    title: Встреча со Старыми друзьями - Бой
     is_util: 1
     point: 13117:-33-51-4-Point13117
   }
   {
     id: 387
     mission_id: "10300"
-    description: '''"The city has returned to life."'''
+    description: '''"Город снова ожил."'''
     scripts: -33-7-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Shackled Spirit I
+    title: Скованый Дух I
     is_util: 1
     start: -33-7-1First
   }
   {
     id: 388
     mission_id: "10301,10345"
-    description: Bound Spirit I - Combat
+    description: Скованый Дух I - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Bound Spirit I - Combat
+    title: Скованый Дух I - Бой
     is_util: 1
     point: 13142:-33-52-4-Point13142
   }
   {
     id: 389
     mission_id: "10366"
-    description: Confidential Information I
+    description: Конфиденциальная информация I
     scripts: -33-73-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information I
+    title: Конфиденциальная информация I
     is_util: 1
     start: -33-73-1First
   }
   {
     id: 390
     mission_id: "10367"
-    description: Confidential Information II
+    description: Конфиденциальная информация II
     scripts: -33-74-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information II
+    title: Конфиденциальная информация II
     is_util: 1
     start: -33-74-1First
   }
   {
     id: 391
     mission_id: "10368"
-    description: Confidential Information III
+    description: Конфиденциальная информация III
     scripts: -33-75-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information III
+    title: Конфиденциальная информация III
     is_util: 1
     start: -33-75-1First
   }
   {
     id: 392
     mission_id: "10302"
-    description: '''"We must find the source of the connexions soon."'''
+    description: '''"Нам нужно как можно скорее найти источник этих связей."'''
     scripts: -33-9-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Bound Spirit II
+    title: Связанный Дух II
     is_util: 1
     start: -33-9-1First
   }
   {
     id: 393
     mission_id: "10303,10346"
-    description: Bound Spirit II - Combat
+    description: Связанный Дух II - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Bound Spirit II - Combat
+    title: Связанный Дух II - Бой
     is_util: 1
   }
   {
     id: 394
     mission_id: "10304"
-    description: '''"We're approaching the source of the interference."'''
+    description: '''"Мы приближаемся к источнику помех."'''
     scripts: -33-11-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Intangible Sigh I
+    title: Неуловимый Вздох I
     is_util: 1
     start: -33-11-1First
   }
   {
     id: 395
     mission_id: "10305,10347"
-    description: Intangible Sigh I - Combat
+    description: Неуловимый Вздох I - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Intangible Sigh I - Combat
+    title: Неуловимый Вздох I - Бой
     is_util: 1
   }
   {
     id: 396
     mission_id: "10306"
-    description: '''"Out of the frying pan and into the fire."'''
+    description: '''"Из огня да в полымя."'''
     scripts: -33-13-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Nameless Exiles I
+    title: Безымянные Изгнанники I
     is_util: 1
     start: -33-13-1First
   }
   {
     id: 397
     mission_id: "10307,10348"
-    description: Nameless Exiles I - Combat
+    description: Безымянные Изгнанники I - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Nameless Exiles I - Combat
+    title: Безымянные Изгнанники I - Бой
     is_util: 1
   }
   {
     id: 398
     mission_id: "10308"
-    description: '''"What are dreams? What is reality?"'''
+    description: '''"Что такое сны? Что такое реальность?"'''
     scripts: -33-15-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Nameless Exiles II
+    title: Безымянные Изгнанники II
     is_util: 1
     start: -33-15-1First
   }
   {
     id: 399
     mission_id: "10309,10349"
-    description: Nameless Exiles II - Combat
+    description: Безымянные Изгнанники II - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Nameless Exiles II - Combat
+    title: Безымянные Изгнанники II - Бой
     is_util: 1
   }
   {
     id: 400
     mission_id: "10310"
-    description: '''"Does the fifth stand before me?"'''
+    description: '''"Пятый стоит передо мной?"'''
     scripts: -33-17-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Intangible Sigh II
+    title: Неуловимый Вздох II
     is_util: 1
     start: -33-17-1First
   }
   {
     id: 401
     mission_id: "10369"
-    description: Confidential Information IV
+    description: Конфиденциальная информация IV
     scripts: -33-76-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information IV
+    title: Конфиденциальная информация IV
     is_util: 1
     start: -33-76-1First
   }
   {
     id: 402
     mission_id: "10370"
-    description: Confidential Information V
+    description: Конфиденциальная информация V
     scripts: -33-77-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information V
+    title: Конфиденциальная информация V
     is_util: 1
     start: -33-77-1First
   }
   {
     id: 403
     mission_id: "10371"
-    description: Confidential Information VI
+    description: Конфиденциальная информация VI
     scripts: -33-78-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information VI
+    title: Конфиденциальная информация VI
     is_util: 1
     start: -33-78-1First
   }
   {
     id: 404
     mission_id: "10311"
-    description: '''"If I get stuck in there, will you drag me back out?"'''
+    description: '''"Если я там застряну, ты меня оттуда вытащишь?"'''
     scripts: -33-43-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Fractured Cognition II
+    title: Нарушенное Восприятие II
     is_util: 1
     start: -33-43-1First
   }
   {
     id: 405
     mission_id: "10312,10350"
-    description: Fractured Cognition II - Combat
+    description: Нарушенное Восприятие II - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Fractured Cognition II - Combat
+    title: Нарушенное Восприятие II - Бой
     is_util: 1
   }
   {
     id: 406
     mission_id: "10313"
-    description: '''"If you want to find the exit from this maze, you must venture deeper into it."'''
+    description: '''"Если хочешь найти выход из этого лабиринта, тебе придётся проникнуть в него ещё глубже."'''
     scripts: -33-20-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Subsurface Homecoming I
+    title: Возвращение под землю I
     is_util: 1
     start: -33-20-1First
   }
   {
     id: 407
     mission_id: "10314,10351"
-    description: Fractured Cognition I - Combat
+    description: Нарушенное Восприятие I - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Fractured Cognition I - Combat
+    title: Нарушенное Восприятие I - Бой
     is_util: 1
   }
   {
     id: 408
     mission_id: "10315"
-    description: '''"The 'monster' living inside a Doll's neural cloud."'''
+    description: '''"«Монстр», обитающий в нейронном облаке Куклы."'''
     scripts: -33-22-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: The Unwelcome
+    title: Нежеланные Гости
     is_util: 1
     start: -33-22-1First
   }
   {
     id: 409
     mission_id: "10316"
-    description: '''"I can't leave before I learn the truth-"'''
+    description: '''"Я не могу уйти, пока не узнаю правду..."'''
     scripts: -33-23-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Fractured Cognition III
+    title: Нарушенное Восприятие III
     is_util: 1
     start: -33-23-1First
   }
   {
     id: 410
     mission_id: "10317,10352"
-    description: '''"If her neural cloud breaks down, we won't be able to get out of this in one piece."'''
+    description: '''"Если её нейронное облако выйдет из строя, нам не удастся выбраться отсюда целыми и невредимыми."'''
     campaign: -33
     bgm: BGM_Frontline
-    title: Fractured Cognition IV- Combat
+    title: Нарушенное Восприятие IV- Бой
     is_util: 1
     point: 13290:-33-59-4-Point13290
   }
   {
     id: 411
     mission_id: "10318"
-    description: '''"I want to know everything I want to know."'''
+    description: '''"Я хочу узнать всё, что мне интересно."'''
     scripts: -33-25-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Fractured Cognition IV
+    title: Нарушенное Восприятие IV
     is_util: 1
     start: -33-25-1First
   }
   {
     id: 412
     mission_id: "10372"
-    description: Confidential Information VII
+    description: Конфиденциальная информация VII
     scripts: -33-79-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information VII
+    title: Конфиденциальная информация VII
     is_util: 1
     start: -33-79-1First
   }
   {
     id: 413
     mission_id: "10373"
-    description: Confidential Information VIII
+    description: Конфиденциальная информация VIII
     scripts: -33-80-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information VIII
+    title: Конфиденциальная информация VIII
     is_util: 1
     start: -33-80-1First
   }
   {
     id: 414
     mission_id: "10374"
-    description: Confidential Information IX
+    description: Конфиденциальная информация IX
     scripts: -33-81-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information IX
+    title: Конфиденциальная информация IX
     is_util: 1
     start: -33-81-1First
   }
   {
     id: 415
     mission_id: "10319"
-    description: '''"Let's venture deeper into her neural cloud."'''
+    description: '''"Давайте проникнем ещё глубже в её нейронное облако."'''
     scripts: -33-26-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Infinite Connections
+    title: Бесконечные Соединения
     is_util: 1
     start: -33-26-1First
   }
   {
     id: 416
     mission_id: "10320"
-    description: '''"Everyone must be connected..."'''
+    description: '''"Все должны быть на связи..."'''
     scripts: -33-27-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Subsurface Homecoming II
+    title: Возвращение под землю II
     is_util: 1
     start: -33-27-1First
   }
   {
     id: 417
     mission_id: "10321,10353"
-    description: Subsurface Homecoming II - Combat
+    description: Возвращение под землю II - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Subsurface Homecoming II - Combat
+    title: Возвращение под землю II - Бой
     is_util: 1
   }
   {
     id: 418
     mission_id: "10322"
-    description: '''"The flowers of despair are about to bloom. There is little time left."'''
+    description: '''"Цветы отчаяния вот-вот распустятся. Осталось совсем немного времени."'''
     scripts: -33-29-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Isomer I
+    title: Изомер I
     is_util: 1
     start: -33-29-1First
   }
   {
     id: 419
     mission_id: "10323,10354"
-    description: Isomer I - Combat
+    description: Изомер I - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Isomer I - Combat
+    title: Изомер I - Бой
     is_util: 1
   }
   {
     id: 420
     mission_id: "10324"
-    description: '''"If we can finish this, she won't need to die."'''
+    description: '''"Если нам удастся это завершить, ей не придется умирать."'''
     scripts: -33-31-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Subsurface Homecoming III
+    title: Возвращение под землю III
     is_util: 1
     start: -33-31-1First
   }
   {
     id: 421
     mission_id: "10325,10355"
-    description: Subsurface Homecoming III - Combat
+    description: Возвращение под землю III - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Subsurface Homecoming III - Combat
+    title: Возвращение под землю III - Бой
     is_util: 1
     point: 13467:-33-62-4-Point13467
   }
   {
     id: 422
     mission_id: "10326"
-    description: '''"Before you go, at least free us from this eternal purgatory..."'''
+    description: '''"Прежде чем уйти, хотя бы избавь нас от этого вечного чистилища..."'''
     scripts: -33-33-1First
     campaign: -33
     bgm: BGM_Frontline
@@ -4864,231 +4864,231 @@
   {
     id: 423
     mission_id: "10327,10356"
-    description: Isomer II - Combat
+    description: Isomer II - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Isomer II - Combat
+    title: Isomer II - Бой
     is_util: 1
   }
   {
     id: 424
     mission_id: "10375"
-    description: Confidential Information X
+    description: Конфиденциальная информация X
     scripts: -33-82-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information X
+    title: Конфиденциальная информация X
     is_util: 1
     start: -33-82-1First
   }
   {
     id: 425
     mission_id: "10376"
-    description: Confidential Information XI
+    description: Конфиденциальная информация XI
     scripts: -33-83-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information XI
+    title: Конфиденциальная информация XI
     is_util: 1
     start: -33-83-1First
   }
   {
     id: 426
     mission_id: "10377"
-    description: Confidential Information XII
+    description: Конфиденциальная информация XII
     scripts: -33-84-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information XII
+    title: Конфиденциальная информация XII
     is_util: 1
     start: -33-84-1First
   }
   {
     id: 427
     mission_id: "10328"
-    description: '''"Running away will cost you the entire future."'''
+    description: '''"Бегство обойдется тебе всем будущим."'''
     scripts: -33-35-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: A Rock and a Hard Place
+    title: Между Молотом и Наковальней
     is_util: 1
     start: -33-35-1First
   }
   {
     id: 428
     mission_id: "10329,10357"
-    description: A Rock and a Hard Place - Combat
+    description: Между Молотом и Наковальней - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: A Rock and a Hard Place - Combat
+    title: Между Молотом и Наковальней - Бой
     is_util: 1
     point: 13505:-33-X1-4-Point,80304:-33-X1-4-Point
   }
   {
     id: 429
     mission_id: "10330"
-    description: '''"Please guard the control room for Squad 404!"'''
+    description: '''"Пожалуйста, охраняйте комнату управления для отряда 404!"'''
     scripts: -33-37-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Operation Defang I
+    title: Операция Обезвреживание I
     is_util: 1
     start: -33-37-1First
   }
   {
     id: 430
     mission_id: "10331,10358"
-    description: Operation Defang I - Combat I
+    description: Операция Обезвреживание I - Бой I
     campaign: -33
     bgm: BGM_Frontline
-    title: Operation Defang I - Combat I
+    title: Операция Обезвреживание I - Бой I
     is_util: 1
     point: 13536:-33-X2-4-Point,80338:-33-X2-4-Point
   }
   {
     id: 431
     mission_id: "10332,10359"
-    description: Operation Defang I - Combat II
+    description: Операция Обезвреживание I - Бой II
     campaign: -33
     bgm: BGM_Frontline
-    title: Operation Defang I - Combat II
+    title: Операция Обезвреживание I - Бой II
     is_util: 1
     point: 13555:-33-X3-4-Point,80360:-33-X3-4-Point,13559:-33-X4-4-Point,80380:-33-X4-4-Point
   }
   {
     id: 432
     mission_id: "10333"
-    description: '''"I will do whatever I can to defend the place where you belong."'''
+    description: '''"Я сделаю всё, что в моих силах, чтобы защитить то место, где тебе и положено быть."'''
     scripts: -33-40-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Operation Defang II
+    title: Операция Обезвреживание II
     is_util: 1
     start: -33-40-1First
   }
   {
     id: 433
     mission_id: "10334,10360"
-    description: Operation Defang II - Combat
+    description: Операция Обезвреживание II - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: Operation Defang II - Combat
+    title: Операция Обезвреживание II - Бой
     is_util: 1
   }
   {
     id: 434
     mission_id: "10335"
-    description: '''"These divine flowers will soon blossom, and this ridiculous farce will end."'''
+    description: '''"Эти божественные цветы скоро распустятся, и эта нелепая комедия подойдет к концу."'''
     scripts: -33-42-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: All-Devouring Sea of Flowers
+    title: Всепоглощающее Море Цветов
     is_util: 1
     start: -33-42-1First
   }
   {
     id: 435
     mission_id: "10336"
-    description: '''"As humans, we need to guide her onto the right path."'''
+    description: '''"Как люди, мы должны направить её на правильный путь."'''
     scripts: -33-18-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Fractured Cognition I
+    title: Нарушенное Восприятие I
     is_util: 1
     start: -33-18-1First
   }
   {
     id: 436
     mission_id: "10337,10362"
-    description: All-Devouring Sea of Flowers - Combat
+    description: Всепоглощающее Море Цветов - Бой
     campaign: -33
     bgm: BGM_Frontline
-    title: All-Devouring Sea of Flowers - Combat
+    title: Всепоглощающее Море Цветов - Бой
     is_util: 1
   }
   {
     id: 437
     mission_id: "10338"
-    description: '''"This is the final battle. I'm sure you will be able to lead us to victory."'''
+    description: '''"Это решающая битва. Я уверен, что ты сможешь привести нас к победе."'''
     scripts: -33-45-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Farewell, Tallinn I
+    title: Прощай, Таллинн I
     is_util: 1
     start: -33-45-1First
   }
   {
     id: 438
     mission_id: "10339,10363"
-    description: Farewell, Tallinn I - Combat I
+    description: Прощай, Таллинн I - Бой I
     scripts: -33-46-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Farewell, Tallinn I - Combat I
+    title: Прощай, Таллинн I - Бой I
     is_util: 1
     start: -33-46-1First
   }
   {
     id: 439
     mission_id: "10340,10364"
-    description: Farewell, Tallinn I - Combat II
+    description: Прощай, Таллинн I - Бой II
     campaign: -33
     bgm: BGM_Frontline
-    title: Farewell, Tallinn I - Combat II
+    title: Прощай, Таллинн I - Бой II
     is_util: 1
   }
   {
     id: 440
     mission_id: "10341"
-    description: '''"This is merely the beginning."'''
+    description: '''"Это лишь начало."'''
     scripts: -33-48-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Farewell, Tallinn II
+    title: Прощай, Таллинн II
     is_util: 1
     start: -33-48-1First
   }
   {
     id: 441
     mission_id: "10378"
-    description: Confidential Information XIII
+    description: Конфиденциальная информация XIII
     scripts: -33-85-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information XIII
+    title: Конфиденциальная информация XIII
     is_util: 1
     start: -33-85-1First
   }
   {
     id: 442
     mission_id: "10379"
-    description: Confidential Information XIV
+    description: Конфиденциальная информация XIV
     scripts: -33-86-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information XIV
+    title: Конфиденциальная информация XIV
     is_util: 1
     start: -33-86-1First
   }
   {
     id: 443
     mission_id: "10380"
-    description: Confidential Information XV
+    description: Конфиденциальная информация XV
     scripts: -33-87-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Confidential Information XV
+    title: Конфиденциальная информация XV
     is_util: 1
     start: -33-87-1First
   }
   {
     id: 444
     mission_id: "10342,10365"
-    description: Flowers of the End
+    description: Цветы Конца
     scripts: -33-49-1First
     campaign: -33
     bgm: BGM_Frontline
-    title: Flowers of the End
+    title: Цветы Конца
     is_util: 1
     start: -33-49-1First
     point: 13325:-33-72-4-Point13325,83325:-33-72-4-Point83325
@@ -5250,7 +5250,7 @@
     scripts: 12-1-1,12-1-2
     campaign: 12
     bgm: BGM_Frontline
-    title: Rein Buckle
+    title: Пряжка Hемня
     is_util: 1
     start: 12-1-1
     point: 90005:12-1-4-Point90005,90009:12-1-4-Point90009
@@ -5264,7 +5264,7 @@
     scripts: 12-2-1,12-2-2
     campaign: 12
     bgm: BGM_Frontline
-    title: Chasing Phantoms
+    title: В погоне за призраками
     is_util: 1
     start: 12-2-1
     point: 90087:12-2-4-Point90087
@@ -5278,7 +5278,7 @@
     scripts: 12-3-1,12-3-2
     campaign: 12
     bgm: BGM_Frontline
-    title: The Philosophy of Killing
+    title: Философия убийства
     is_util: 1
     start: 12-3-1
     first: 12-3-2
@@ -5291,7 +5291,7 @@
     scripts: 12-4-1,12-4-2
     campaign: 12
     bgm: BGM_Frontline
-    title: Smoke Signal
+    title: Дымовой сигнал
     is_util: 1
     start: 12-4-1
     first: 12-4-2
@@ -5304,7 +5304,7 @@
     scripts: 12-5-1,12-5-2
     campaign: 12
     bgm: BGM_Frontline
-    title: Ephemeral Memories
+    title: Мимолетные воспоминания
     is_util: 1
     start: 12-5-1
     first: 12-5-2
@@ -5317,7 +5317,7 @@
     scripts: 12-6-1,12-6-2
     campaign: 12
     bgm: BGM_Frontline
-    title: Goodbye, Daybreak
+    title: Прощай, Рассвет
     is_util: 1
     start: 12-6-1
     first: 12-6-2
@@ -5330,7 +5330,7 @@
     scripts: 12-1-1E,12-1-2E
     campaign: 12
     bgm: BGM_Frontline
-    title: Morning Conference I
+    title: Утренняя конференция I
     is_util: 1
     start: 12-1-1E
     point: 90271:12-1-1E-Point90271,90278:12-1-1E-Point90278
@@ -5344,7 +5344,7 @@
     scripts: 12-2-1E,12-2-2E
     campaign: 12
     bgm: BGM_Frontline
-    title: Morning Conference II
+    title: Утренняя конференция II
     is_util: 1
     start: 12-2-1E
     first: 12-2-2E
@@ -5357,7 +5357,7 @@
     scripts: 12-3-1E,12-3-2E
     campaign: 12
     bgm: BGM_Frontline
-    title: Morning Conference III
+    title: Утренняя конференция III
     is_util: 1
     start: 12-3-1E
     first: 12-3-2E
@@ -5370,7 +5370,7 @@
     scripts: 12-4-1E,12-4-2E
     campaign: 12
     bgm: BGM_Frontline
-    title: Morning Conference IV
+    title: Утренняя конференция IV
     is_util: 1
     start: 12-4-1E
     first: 12-4-2E
