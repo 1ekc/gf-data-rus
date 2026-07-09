@@ -1,32 +1,32 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||<BGM>BGM_Room</BGM><BIN>202</BIN><黑屏2>:Data transfer initiated.
-NytoIsomer(4)<Speaker></Speaker>||:Banana, who has been resting peacefully in SOP-II's arms, suddenly starts kicking its stubby legs violently... +As if to escape from something terrifying.
-RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:Banana doesn't seem too stable... Is it because of the massive file size?
-RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:It is, after all, just an external device – its processing speed simply can't compare with that of a Doll. +Its core is probably overheating due to its low decoding efficiency. +At this rate, its circuitry might just burn up.
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What?! +NOOOO! Banana... +Auuu....
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Stop crying... Even if it's kaput, we can just catch another one for you.
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:It won't be the same! +Not only has Banana carried your neural cloud, it was also modified by Persica. +I even gave it a paint job that matches you! +Banana is irreplaceable to me!
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Thanks to that, I'm forced to relive all those bad memories every time I see it... +If you don't shut up already, I might end up destroying the Dinergate myself...
-Commander()||:Dandelion, what do you propose?
-RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Have a Doll take over some of the decoding work from the Dinergate. +Decoding all the data is the most demanding part of the process. Once that's done, all that's left is accessing the information. +The Dinergate is more than enough to handle that.
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Understood. Leave that to me.
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:No, let me do it. I do specialize in this kind of stuff. +Besides, your neural cloud is required for issuing commands and storing other neural clouds, right?
-RO635(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:RO has a point. You should preserve your valuable processing capacity while we're still on standby.
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:So you're volunteering to save Banana, RO?
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:... (Looks away silently).
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Well? Why aren't you saying anything?
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Also, Commander, I might be a little presumptuous here... +But there's something I believe should be done.
-Commander()||:What is it?
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Lunasia is storing all the backup copies of the Griffin Dolls within her own neural cloud storage. +Since I have an active connexion with her, I've been supporting her computation. +However, the amount of data really is tremendous. +So to make more space, I would like to transfer all memory fragments regarding Lunasia onto the Dinergate.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Memories about me?
-M4A1Mod(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Lunasia has been forced to make countless difficult decisions in the past, which has put her under immense pressure. +I hope you can understand her better and help ease her guilt and distress. +So I would like you to go through these memories using an external device.
-Commander()||:These are M4's memories. I will not pry into them without her consent.
-M4A1Mod(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:This is what she desires. I am simply expressing it for her.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:I don't... +...
-()||:M4 looks down as if to steel herself.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:No... Actually, she's right, Commander... +Dandelion just spoke my mind for me. +I once made everyone suffer for my weakness and naivety. These memories hold nothing but indescribable pain for me. +But...even so, I still want you to know me better, Commander. +In order to avoid making the same mistakes again, I want to understand myself better too.
-M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4, is this really okay? +After all, what happened also made you...
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:It's fine, 15. Avoiding the problem will only deepen the shadow it casts. Besides, there's nothing to hide from the Commander. +RO, please go ahead and extract the relevant data. I want to express myself to the Commander and all of you.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||<BGM>BGM_Room</BGM><BIN>202</BIN><黑屏2>:Data transfer initiated.
+NytoIsomer(4)<Speaker></Speaker>||:Банана, который мирно отдыхал на руках у SOP-II, вдруг начинает яростно лягаться своими короткими ножками... +Как будто пытается сбежать от чего-то ужасного.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:Банана не выглядит слишком стабильным... Может, это из-за огромного размера файла?
+RO635(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:В конце концов, это всего лишь внешнее устройство — его скорость обработки просто не идет ни в какое сравнение со скоростью Куклы. +Вероятно, его ядро перегревается из-за низкой эффективности декодирования. +Если так пойдет дальше, его схема может просто сгореть.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Что?! +НЕЕЕЕЕТ! Банана... +Аууу...
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Хватит плакать... Даже если он сломался, мы просто поймаем для тебя другого.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Это уже не то же самое! +Банана не только несла твое нейронное облако, но и была модифицирована Персикой. +Я даже покрасила её в цвет, который тебе подходит! +Банана для меня незаменима!
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Из-за этого мне приходится каждый раз переживать все эти неприятные воспоминания, когда я это вижу... +Если ты уже не заткнешься, я, может, сама в конце концов разнесу этот Динергейт.
+Commander()||:Данделион, что ты предлагаешь?
+RO635(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:Пусть Кукла возьмет на себя часть работы по декодированию данных из Динергейта. +Декодирование всех данных — самая сложная часть процесса. Как только это будет сделано, останется только получить доступ к информации. +Динергейта для этого более чем достаточно.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Понятно. Оставьте это мне.
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:Нет, позволь мне это сделать. Я как раз специализируюсь на таких вещах. +К тому же, твое нейронное облако нужно для отдачи команд и хранения других нейронных облаков, верно?
+RO635(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:RO права. Тебе стоит сэкономить ценные вычислительные ресурсы, пока мы ещё находимся в режиме ожидания.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Так ты добровольно взялась спасти Банана, RO?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:... (Молча отводит взгляд).
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Ну? Почему ты ничего не говоришь?
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Кстати, Командир, может, я и перегибаю палку... +Но есть кое-что, что, как мне кажется, нужно сделать.
+Commander()||:Что же?
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Луназия хранит все резервные копии Кукол Грифона в своём собственном нейронном облачном хранилище. +Поскольку у меня с ней есть активная связь, я помогаю ей с вычислениями. +Однако объём данных действительно огромный. +Поэтому, чтобы освободить место, я хотела бы перенести все фрагменты памяти, касающиеся Луназии, на Динергейт.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Воспоминания обо мне?
+M4A1Mod(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:В прошлом Лунасии приходилось принимать бесчисленное количество сложных решений, что подвергало её огромному давлению. +Надеюсь, ты сможешь лучше её понять и помочь ей избавиться от чувства вины и душевного страдания. +Поэтому я хочу, чтобы ты просмотрел эти воспоминания с помощью внешнего устройства.
+Commander()||:Это воспоминания М4. Я не буду в них совать нос без её согласия.
+M4A1Mod(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:Это то, чего она хочет. Я просто выражаю это от её имени.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Я не... +...
+()||:M4 опустила взгляд, словно собираясь набраться сил.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:Нет... Вообще-то, она права, Командир... +Данделион просто выразила то, что я хотела сказать. +Когда-то я заставила всех страдать из-за своей слабости и наивности. Эти воспоминания вызывают у меня только невыразимую боль. +Но... даже несмотря на это, я всё равно хочу, чтобы ты узнал меня получше, Командир. +Чтобы не повторять тех же ошибок, я тоже хочу лучше понять саму себя.
+M4A1Mod(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:M4, это действительно нормально? +В конце концов, то, что произошло, заставило и тебя...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:Всё нормально, 15-я. Если избегать проблемы, она только станет ещё мрачнее. Да и от Командира тут нечего скрывать. +RO, давай, извлекай нужные данные. Я хочу высказаться перед Командиром и перед вами всеми.
 RO635(0)<Speaker>RO635</Speaker>;AR15Mod(0)||:M4...
-RO635(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:She said as much. It's her decision.
-RO635(0)<Speaker>RO635</Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM><黑屏1>:15... +Understood, I'll take care of it then.
+RO635(0);AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Она так и сказала. Это её решение.
+RO635(0)<Speaker>RO635</Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM><黑屏1>:15-я... +Понятно, тогда я этим займусь.
