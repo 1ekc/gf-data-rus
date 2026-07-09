@@ -1,1 +1,1 @@
-()||<BIN>10</BIN>:The location of the storage facility looks a bit uneven. I'm sure it isn't an illusion. +<color=#FFFF00>【TIP】 Station your echelon on this node for a turn to summon the control panel and gain access to the storage facility.</color>
+()||<BIN>10</BIN>:Место, где находится хранилище, выглядит немного неоднородным. Уверен, это не какая-то иллюзия. +<color=#FFFF00>【СОВЕТ】 Расположи свой эшелон на этом узле на один ход, чтобы вызвать панель управления и получить доступ к хранилищу.</color>
