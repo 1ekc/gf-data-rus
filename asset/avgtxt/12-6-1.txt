@@ -1,37 +1,37 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:In the command center on the armored train.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:What...what happened next?!
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4 SOPMOD IIMod(0)||:Stop yanking at my sleeve with so much anticipation on your face.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:What's going on, RO? +Why did it just stop?
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:The remaining fragments are still being processed, and your Banana is already burning up.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Banana, keep it together!
-()<Speaker>Commander</Speaker>||:So we weren't the only ones going after Ange.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Were you also looking for Ange back then, Commander? +But Griffin should've already withdrawn from the theater, right?
-RO635(0)<Speaker>RO635</Speaker>||:We didn't. The majority of our forces did withdraw, but we and the Commander stayed behind to help Ange get out.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:That's when you got captured by the Nytos. Thank goodness you managed to escape from them in the end.
-()<Speaker>Commander</Speaker>||:I suddenly understand how RO feels... I really don't want to relive that experience...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:It took us a great deal of effort to rescue the Commander! +Then those white trash kept getting in our way, it was infuriating!
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:The Nytos have been growing stronger too.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:I hope you won't be prejudiced against me just because of the physical appearance of this body.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Alright, enough chit-chat. +Are the remaining fragments ready yet?
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Still processing... But the comms among the Doll echelons outside are buzzing. There seems to be a situation.
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Commander, the enemies are moving! I just sent you the sitrep submitted by our echelons!
-()<Speaker>Commander</Speaker>||:Got it. Contact each echelon and order all combat personnel to log onto our battle channel. Distribute three basic loads of ammo to each unit. +M4.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Understood. I have linked my neural processing to the Zener Protocol.
-()<Speaker>Commander</Speaker>||:Kalin, go into red alert and have all logistics personnel withdraw from the crossfire zone. +Prioritize establishing visuals for the HOC. All echelons are to withhold fire until ordered otherwise.
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Roger that! +Receiving an incoming transmission from UMP45. I just patched it through to you!
-()<Speaker>Commander</Speaker>||:Go ahead.
-UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Commander, I do apologize for interrupting your little reunion, but I'm sure you're also aware that the Military forces are closing in on us fast.</color> +<color=#00CCFF>All other combat echelons are already in position awaiting your orders.</color>
-UMP45Mod(0)<Speaker>Commander</Speaker><scan><通讯框>||:Squad 404, stand by on the train and wait for the AR Team to join you.
-UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Copy that.</color>
-()<Speaker>Commander</Speaker>||:RO, has the Military reactivated their armored trains?
-RO635(0)<Speaker>RO635</Speaker>||:I don't think so. According to the sensors, all large heat sources are still stationary within Tallinn.
-()<Speaker>Commander</Speaker>||:Their scouts may be probing us with an attack to figure out why we've stopped here. +If that's the case, we must be prepared.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:You're right, they don't know that we aren't moving because our train has broken down.
-()<Speaker>Commander</Speaker>||:M4, RO, and Dandelion stay here and finish up the data processing. +SOP-II and AR-15 go and support our defenses. Meet up with 404 and join their reserve team. +Try to destroy the Military forces with as little ammo as possible.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Understood. SOP-II, come with me.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:All preparations are complete.
-()<Speaker>Commander</Speaker>||<黑点1>:Great. Then we'll move all communications to the command system.
+()||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:В командном центре бронированного поезда.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:Что... что же было дальше?!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4 SOPMOD IIMod(0)||:Хватит дергать мой рукав с таким ожиданием на лице.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Что происходит, RO? +Почему всё вдруг остановилось?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Остальные фрагменты пока обрабатываются, а твой Банана уже нагревается.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Банана, держись!
+()<Speaker>Командир</Speaker>||:Так что мы были не единственными, кто выслеживал Анже.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Вы тогда тоже искали Анже, Командир? +Но Грифон уже должен был покинуть театр военных действий, верно?
+RO635(0)<Speaker>RO635</Speaker>||:Нет, мы этого не сделали. Большая часть наших сил действительно отступила, но мы с Командиром остались, чтобы помочь Анже выбраться.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Именно тогда тебя захватили Нито. Слава богу, в конце концов тебе удалось сбежать от них.
+()<Speaker>Командир</Speaker>||:Я вдруг понял, что чувствует RO... Мне действительно не хочется снова переживать это...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Нам пришлось приложить немало усилий, чтобы спасти Командира! +А эти белые отбросы всё время мешали нам, это было просто невыносимо!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Нито тоже становятся всё сильнее.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Надеюсь, вы не будете относиться ко мне предвзято только из-за внешнего вида этого тела.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Ладно, хватит болтать. +Остальные фрагменты уже готовы?
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Обработка продолжается... Но в каналах связи между эшелонами Кукол снаружи царит оживление. Похоже, произошло какое-то происшествие.
+NPC-Kalin(4)<Speaker>Калина</Speaker>||:Командир, враг движется! Я только что отправила вам оперативный отчет, поступивший от наших эшелонов!
+()<Speaker>Командир</Speaker>||:Понял. Свяжись с каждым эшелоном и прикажи всему боевому составу подключиться к нашему боевому каналу. Выдай каждому подразделению по три базовых комплекта боеприпасов. +M4.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Понятно. Я подключила свою нейронную систему к протоколу Зенера.
+()<Speaker>Командир</Speaker>||:Калин, объяви красную тревогу и обеспечь вывод всего личного состава тылового обеспечения из зоны перекрёстного огня. +В первую очередь обеспечь визуальный контакт с ГОгПом. Всем эшелонам приостановить огонь до получения новых приказов.
+NPC-Kalin(4)<Speaker>Калина</Speaker>||:Принято! +Получена входящая передача от UMP45. Я только что перенаправила ее вам!
+()<Speaker>Командир</Speaker>||:Давай.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Командир, прошу прощения за то, что прерываю вашу небольшую встречу, но я уверена, что ты тоже знаешь: Военные быстро приближаются к нам.</color> +<color=#00CCFF>Все остальные боевые эшелоны уже заняли позиции и ожидают твоих приказов.</color>
+UMP45Mod(0)<Speaker>Командир</Speaker><scan><通讯框>||:Отряд 404, ожидайте в поезде, пока к вам не присоединится Команда AR.
+UMP45Mod(0)<Speaker>UMP45</Speaker><scan><通讯框>||:<color=#00CCFF>Принято</color>
+()<Speaker>Командир</Speaker>||:RO, Военные возобновили использование своих бронированных поездов?
+RO635(0)<Speaker>RO635</Speaker>||:Не думаю. Судя по датчикам, все крупные источники тепла в Таллинне по-прежнему находятся в неподвижном состоянии.
+()<Speaker>Командир</Speaker>||:Возможно, их разведчики пытаются выяснить, почему мы остановились здесь, устроив на нас нападение. +Если это так, мы должны быть готовы.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ты прав, они не знают, что мы не движемся, потому что у нас сломался поезд.
+()<Speaker>Командир</Speaker>||:M4, RO и Данделион остаются здесь и заканчивают обработку данных. +SOP-II и AR-15 отправляются на поддержку наших оборонительных позиций. Объединитесь с 404 и присоединитесь к их группе. +Постарайтесь уничтожить Военные силы, потратив как можно меньше боеприпасов.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Поняла. SOP-II, иди со мной.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:All preparations are complete.
+()<Speaker>Командир</Speaker>||<黑点1>:Great. Then we'll move all communications to the command system.
 ()<Speaker></Speaker>||<BIN>207</BIN><Night><黑点2><BGM>BGM_Empty</BGM>:Outside.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_casual</BGM>:There you are. +Just the two of you?
 AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:M4 and RO are busy sorting out other stuff. The Commander asked us to form a reserve team together and make sure we don't get too trigger-happy.
