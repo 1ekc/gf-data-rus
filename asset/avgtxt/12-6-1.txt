@@ -30,35 +30,35 @@ RO635(0)<Speaker>RO635</Speaker>||:Не думаю. Судя по датчика
 M4A1Mod(0)<Speaker>M4A1</Speaker>||:Ты прав, они не знают, что мы не движемся, потому что у нас сломался поезд.
 ()<Speaker>Командир</Speaker>||:M4, RO и Данделион остаются здесь и заканчивают обработку данных. +SOP-II и AR-15 отправляются на поддержку наших оборонительных позиций. Объединитесь с 404 и присоединитесь к их группе. +Постарайтесь уничтожить Военные силы, потратив как можно меньше боеприпасов.
 AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Поняла. SOP-II, иди со мной.
-NPC-Kalin(0)<Speaker>Калина</Speaker>||:All preparations are complete.
-()<Speaker>Командир</Speaker>||<黑点1>:Great. Then we'll move all communications to the command system.
-()<Speaker></Speaker>||<BIN>207</BIN><Night><黑点2><BGM>BGM_Empty</BGM>:Outside.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_casual</BGM>:There you are. +Just the two of you?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:M4 and RO are busy sorting out other stuff. The Commander asked us to form a reserve team together and make sure we don't get too trigger-happy.
-AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Save that concern for the other echelons. We 404 always bear our own operational expenses so we never waste a single shot.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:That's good. Then let's do a final check on our gear and ammo.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:So this is Squad 404! +We finally get to fight together with the squad of mystery! I'm so excited!
-G11(0)<Speaker>Gr G11</Speaker>||:Uh... +Haven't we worked together a long time ago...? +Back in the snowy mountains...
-HK416Mod(0)<Speaker>416</Speaker>||:Shut up. +She has no memory of that operation.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:It feels like we kept brushing each other by, but I remember 416 very well – from when we withdrew with Griffin! +We had a great time working together. Let's beat up the Military and show them who's boss just like we did last time!
-HK416Mod(0)<Speaker>416</Speaker>||:Last time, huh...
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Oh, so you've had some fun in Griffin.
-HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:While you got blown up so badly you almost ended up in a waste recycling plant. +You only had time to withdraw because I led the other Griffin Dolls in fighting off the enemies.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Really? No wonder I have no recollection of that~
-HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:Tsk, I knew I shouldn't have returned to 404.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:It's a bit too late to regret your decision now~
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:Is this really the time to reminisce about the past? Can we get on to business?
-AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:You're welcome to discuss "business" anytime~
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:Tsk... What's the current situation on the frontlines?
-AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:All information have been synced to the network. The enemies are autonomous troops, probably dispatched to probe our defenses and firing positions. The first wave is coming from bearing 080 about 3,000 meters away and approaching fast. They will encounter our foremost forces in approximately ten minutes.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:We have nothing to fear against those enemies. +Our only concern is if the Military realizes we've broken down, we'll only have five minutes to get away. If they set off from Tallinn right now, then we're pretty much done for.
-G11(0)<Speaker>Gr G11</Speaker>||:Then why haven't they set off yet?
-HK416Mod(0)<Speaker>416</Speaker>||:Probably because they're now more wary of Griffin due to the losses they've suffered before. +They won't attack until they're absolutely certain about our situation.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:That's exactly right. +The armored train is still being repaired, so we must destroy the autonomous troops before they can get close. +9, estimated time for the repairs to be completed?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:About another 30 minutes.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:You all heard that. +We must hold on for at least another half an hour.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:Got it. The Commander will direct the echelons to handle the main defenses. Our job is to guard the flanks as a guerrilla detachment and take out whatever slips through. +Any objections?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Nope. 9 and Gr G11, you two stay on the train to help with the repairs. 416, we're joining the guerrilla group.
-HK416Mod(0)<Speaker>416</Speaker>||:Roger that. I can't wait to teach them a lesson.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:Then let's go!
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Все приготовления завершены.
+()<Speaker>Командир</Speaker>||<黑点1>:Отлично. Тогда переведем всю связь на систему управления.
+()<Speaker></Speaker>||<BIN>207</BIN><Night><黑点2><BGM>BGM_Empty</BGM>:Снаружи.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_casual</BGM>:А вот и вы. +Только вдвоем?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:M4 и RO заняты решением других вопросов. Командир попросил нас создать резервную команду и следить за тем, чтобы мы не были чересчур опрометчивы.
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Тем не менее, это не касается нас. Мы, 404, всегда сами отвечаем за свои операции, поэтому никогда не тратим ни одного выстрела зря.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Отлично. Тогда давайте проведем последнюю проверку нашего снаряжения и боеприпасов.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Так вот он, отряд 404! +Наконец-то мы сможем сражаться бок о бок с этим загадочным отрядом! Я так взволнована!
+G11(0)<Speaker>Gr G11</Speaker>||:Э-э... +Разве мы не работали вместе давным-давно...? +Ещё в тех заснеженных горах...
+HK416Mod(0)<Speaker>416</Speaker>||:Заткнись. +Она ничего не помнит об этой операции.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Кажется, мы то и дело мимолетно пересекались, но я очень хорошо помню 416-ю — с тех пор, как мы отступили с Грифоном! +Нам было очень приятно работать вместе. Давайте разгромим Военных и покажем им, кто здесь главный, как и в прошлый раз!
+HK416Mod(0)<Speaker>416</Speaker>||:В прошлый раз, да...
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:А, так ты хорошо провела время в Грифоне.
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:А тебя так сильно подорвали, что ты чуть не закончила на мусороперерабатывающем заводе. +Ты успела отступить только потому, что я отвлекла внимание врагов, сражаясь вместе с остальными Куклами Грифона.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Правда? Неудивительно, что я этого совсем не помню~
+HK416Mod(0)<Speaker>416</Speaker>;UMP45Mod(0)||:Тц, я же знала, что не стоило возвращаться в 404.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Сейчас уже немного поздно сожалеть о своём решении~
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:Неужели сейчас самое время вспоминать о прошлом? Может, перейдем к делу?
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Мы всегда рады обсудить «деловые вопросы» в любое время~
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:Тц... Какова текущая обстановка на передовой?
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:Вся информация синхронизирована с сетью. Противники — автономные подразделения, вероятно, направленные для разведки нашей обороны и огневых позиций. Первая волна приближается со стороны 080 на расстоянии около 3 000 метров и быстро набирает скорость. Примерно через десять минут она столкнётся с нашими передовыми силами.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Нам незачем бояться этих врагов. +Единственное, что нас беспокоит, — если Военные поймут, что у нас произошла неполадка, у нас будет всего пять минут, чтобы убраться отсюда. Если они выйдут из Таллинна прямо сейчас, то нам практически конец.
+G11(0)<Speaker>Gr G11</Speaker>||:Тогда почему они до сих пор не выехали?
+HK416Mod(0)<Speaker>416</Speaker>||:Вероятно, потому что теперь они с большей осторожностью относятся к Грифону из-за потерь, которые понесли ранее. +Они не начнут атаку, пока не будут абсолютно уверены в нашей ситуации.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Совершенно верно. +Бронированный поезд пока ремонтируется, поэтому мы должны уничтожить автономные отряды, прежде чем они смогут приблизиться. +9-я, сколько примерно времени займет ремонт?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Еще примерно 30 минут.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Вы все это слышали. +Нам нужно продержаться ещё как минимум полчаса.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;UMP45Mod(0)||:Поняла. Командир направит эшелоны на укрепление основной линии обороны. Наша задача — прикрывать фланги в качестве партизанского отряда и уничтожать всё, что прорвется. +Есть возражения?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Нет. 9-я и Gr G11, вы вдвоем оставайтесь в поезде, чтобы помочь с ремонтом. 416-я, мы присоединяемся к партизанской группе.
+HK416Mod(0)<Speaker>416</Speaker>||:Принято. Не терпится преподать им урок.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:Тогда вперед!
 ()||<黑点2><BIN>10</BIN>:
