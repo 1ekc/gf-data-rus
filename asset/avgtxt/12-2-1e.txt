@@ -1,45 +1,45 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>202</BIN><黑屏2>:In the command center.
-()<Speaker>Commander</Speaker>||<BGM>BGM_Room</BGM>:Anything else we need to watch out for inside the base?
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:On top of the coastal defense artillery, also beware levels B2 and B3.
-RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:You mean the underground levels?
-RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:That's right. Paradeus has most definitely converted them into a research facility for creating Isomers. +If multiple Nytos are within the lab, they will severely hinder your ability to gain control over that area.
-RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:Multiple Nytos...? Regular echelons suffer very heavy casualties against them...
-RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Also, this location on level B3 can only be accessed through this passage, and the only way to reach this passage from ground level is by taking this elevator. +This area is where the Relic artifact is stored. It should be sealed permanently, and from what I can see in my memories, the seal is still intact. +However, now that Sangvis Ferri is in the picture, we can't be sure of that anymore.
-()<Speaker>Commander</Speaker>||:Why is S.F. interested in this place?
-RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:This base contains a facility known as "Starfish", which used to be the vessel of the Pike System. +I believe the Pike Node that was the subject of contention in Belgrade originated from here.
-()<Speaker>Commander</Speaker>||:The origin of the Pike Node? That explains the Sangvis Mastermind's interest in this place.
-RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:This facility was also involved in the Butterfly Incident and a series of other important events, which is why a certain T-Doll decided to participate in this operation. +Isn't that right, leader of the special squad?
-()<Speaker>Commander</Speaker>||:You mean UMP45? +But she isn't here at the moment, is she?
-RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Don't worry, she'll get it.
-RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:Pike Node... I've added S.F.'s possible interest on the contents of level B3 into the algorithm. +Any other information worth noting?
-RO635(0);NytoIsomer(4)<Speaker>Dandelion</Speaker>||:I just finished syncing the topography with the visual data. Pay attention to this elevation here, as well as these junctions in between buildings. They all make prime locations for an ambush. +Other than that, I have no more information to share.
-()<Speaker>Commander</Speaker>||:Hmm, it helps a great deal that we can visualize the terrain and internal structure of the base. +Kalin, make sure you emphasize these features when rendering the map so that our forces won't miss them.
-RO635(0);NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Right, I've made the relevant annotations.
-RO635(0)<Speaker>RO635</Speaker>||:If that's all the information, I'll go ahead and compute an operation plan based on what we have.
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Make it five operation plans. There are too many variables and uncertainties this time, we have no idea what kind of danger we're walking into.
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:No problem, I'll increase the weighting of our casualties in high-risk locations. However, I won't have enough time to simulate plans of retreat should we fail the mission.
-()<Speaker>Commander</Speaker>||:Don't worry about that. We won't have to consider retreat at all as long as we have control over the base.
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:I hope you're right... +M4, could you please give me a hand with these simulations? +I want them to be as detailed as possible.
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Sure. Should I enter Level II?
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:No, you just have to lend me some computational support. I'll handle the rest myself.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>;M4A1Mod(0)||:Anything I can do to help?
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:No, you must stick to me on this operation. +I don't know what kind of funny business you'd get up to if I let you out of my sight.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>;M4A1Mod(0)||:I'll follow you anyway. We'll be as close as we've always been.
+()||<BIN>202</BIN><黑屏2>:В командном центре.
+()<Speaker>Командир</Speaker>||<BGM>BGM_Room</BGM>:Есть ли ещё что-нибудь, на что нужно обратить внимание на территории базы?
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Помимо артиллерии береговой обороны, следует также обратить внимание на уровни B2 и B3.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:Ты имеешь в виду подземные уровни?
+RO635(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:Верно. Парадеус, без сомнения, превратил их в исследовательский центр по созданию Изомеров. +Если в лаборатории находится несколько Нито, они значительно затруднят вам установление контроля над этой зоной.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:Несколько Нито...? Обычные эшелоны несут очень тяжелые потери в бою с ними...
+RO635(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:Кроме того, попасть в это помещение на уровне B3 можно только через этот проход, а добраться до него с первого этажа можно лишь на этом лифте. +Именно в этой зоне хранится Реликвия. Она должна быть навсегда запечатана, и, насколько я могу судить по своим воспоминаниям, печать до сих пор не нарушена. +Однако теперь, когда в дело вмешался Сангвис Ферри, мы уже не можем быть в этом уверены.
+()<Speaker>Командир</Speaker>||:Почему С.Ф. интересуется этим местом?
+RO635(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:На этой базе находится объект под названием «Морская звезда», который ранее являлся центром системы Щука. +Полагаю, что узел системы, ставший предметом спора в Белграде, возник именно здесь.
+()<Speaker>Командир</Speaker>||:Возникновение узла системы «Щука»? Это объясняет интерес Владыки Сангвис к этому месту.
+RO635(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:Этот объект также был вовлечён в «Инцидент Бабочки» и ряд других важных событий, именно поэтому одна из Т-Кукол решила принять участие в этой операции. +Правда же, лидер спецотряда?
+()<Speaker>Командир</Speaker>||:Ты имеешь в виду UMP45? +Но её сейчас здесь нет, верно?
+RO635(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:Не волнуйся, она всё поймёт.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:Узел системы Щука... Я добавила в алгоритм информацию о возможном интересе С.Ф. к содержимому уровня B3. +Есть ли ещё какая-нибудь информация, заслуживающая внимания?
+RO635(0);NytoIsomer(4)<Speaker>Данделион</Speaker>||:Я только что завершила синхронизацию топографических данных с визуальными. Обратите внимание на эту точку рельефа, а также на эти пересечения между зданиями. Все они являются идеальными местами для засады. +Помимо этого, у меня больше нет информации, которой я могла бы поделиться.
+()<Speaker>Командир</Speaker>||:Хм, то, что мы можем визуализировать рельеф местности и внутреннюю структуру базы, очень помогает. +Калин, не забудь подчеркнуть эти особенности при визуализации карты, чтобы наши войска их не пропустили.
+RO635(0);NPC-Kalin(0)<Speaker>Калина</Speaker>||:Хорошо, я внесла соответствующие пометки.
+RO635(0)<Speaker>RO635</Speaker>||:Если это вся информация, я приступлю к составлению плана операций на основе того, что у нас есть.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Приготовим пять вариантов плана действий. На этот раз слишком много переменных и неопределённостей — мы даже не представляем, какая опасность нас поджидает.
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:Без проблем, я увеличу значение наших потерь в зонах повышенного риска. Однако у меня не хватит времени на моделирование планов отступления на случай, если миссия закончится неудачей.
+()<Speaker>Командир</Speaker>||:Не беспокойся об этом. Пока мы контролируем базу, нам вообще не придется думать об отступлении.
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:Надеюсь, ты прав... +M4, не могла бы ты помочь мне с этими симуляциями? +Я хочу, чтобы они были как можно более подробными.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Конечно. Мне зайти на Уровень II?
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:Нет, тебе просто нужно помочь мне с вычислениями. Остальное я сделаю сама.
+NytoIsomer(4)<Speaker>Данделион</Speaker>;M4A1Mod(0)||:Чем я могу помочь?
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Нет, в ходе этой операции ты должна держаться рядом со мной. +Не знаю, что за выкрутасы ты выкинешь, если я упущу тебя из виду.
+NytoIsomer(4)<Speaker>Данделион</Speaker>;M4A1Mod(0)||:Я всё равно пойду за тобой. Мы будем так же близки, как и раньше.
 NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:I suppose that's enough chatter. +So, while we're waiting for the map to be completed, why don't we finish watching the final part of Lunasia's memories?
-()<Speaker>Commander</Speaker>||:Do we have time for that?
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Didn't Lunasia say she wanted everyone to know her better? +Since this is her wish, we must go out of our way to honor it, don't you think?
-()<Speaker>Commander</Speaker>||:But RO is still running the simulations, and the others haven't returned yet.
-RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:That's okay, the simulations can be run automatically. +Besides, I'm also quite curious about how M4 and AR-15 made it out in the end.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;NytoIsomer(4)||:Commander, we're back.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Looks like we have our entire audience.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Did I just hear we're about to watch the final episode of M4 and 15's Great Adventure?
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:What "Great Adventure"...? +Here, your Banana. I'm done with it.
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I knew Banana would complete its mission!
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:For a moment I was really tempted to overload it...
-()<Speaker>Commander</Speaker>||:Sorry for putting you through that. Where's Squad 404?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4 SOPMOD IIMod(0)||:They need some quick maintenance. They'll be here soon.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Then we have time to watch the last part of your Great Adventure! +Right? Right, M4?!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:...F-fine... Have it your way... +Let's wrap up the story then.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Пожалуй, хватит болтать. +Так что, пока мы ждём, пока карта будет готова, давайте досмотрим последнюю часть воспоминаний Лунасии?
+()<Speaker>Командир</Speaker>||:У нас есть на это время?
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Разве Луназия не говорила, что хочет, чтобы все лучше её узнали? +Раз это её желание, мы должны сделать всё возможное, чтобы его исполнить, не так ли?
+()<Speaker>Командир</Speaker>||:Но RO всё ещё проводит симуляции, а остальные ещё не вернулись.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:Ничего страшного, симуляции можно запустить в автоматическом режиме. +К тому же мне тоже очень интересно, как в итоге сложилась судьба M4 и AR-15.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;NytoIsomer(4)||:Командир, мы вернулись.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Похоже, у нас собралась вся аудитория.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Я что, правильно услышала, что мы сейчас будем смотреть финальную серию «Великого приключения M4 и 15-ой»?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:Что за «великое приключение»...? +Вот, держи своего Банана. Я с ним закончила.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Я знала, что Банана выполнит свою миссию!
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:На мгновение у меня действительно возникло сильное желание перегрузить его...
+()<Speaker>Командир</Speaker>||:Извини, что заставил тебя пройти через это. Где отряд 404?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>;M4 SOPMOD IIMod(0)||:Им нужно провести небольшое техническое обслуживание. Они скоро будут здесь.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Тогда у нас будет время посмотреть последнюю часть твоего «Великого приключения»! +Правда? Правда, M4?!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:...Н-ну ладно... Как хочешь... +Тогда давай завершим эту историю.
 ()||<黑点2><BIN>10</BIN>:
