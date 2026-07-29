@@ -1,18 +1,18 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>207</BIN><Night><黑屏2><BGM>BGM_Danger</BGM>:...Outside the armored train.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:We've cleaned up all the enemies ahead!
-HK416Mod(0)<Speaker>416</Speaker>||:Don't let down your guard! Scanners show that the ninth and tenth waves will be here any second!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:How much longer do we have to stay in this rain of artillery fire?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Hold on, let me contact... +A direct transmission! It's the Commander!
-HK416Mod(0)<Speaker>416</Speaker>||:Are we finally ready to leave?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...Understood, Commander. +Everyone listen! The train is almost ready to depart! We'll be setting off for the submarine base in approximately ten minutes! +All regular echelons are to fall back to the train as we stay behind to keep the approaching enemies at bay! Once the train starts up, we have exactly one minute to get back onboard!
-HK416Mod(0)<Speaker>416</Speaker>||:Humph, what a generous amount of time the Commander is giving us.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Count your blessings. If it were a certain woman, she'd only have given us 30 seconds.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Hurry up and wipe out this wave of enemies! I can't wait to continue watching M4 and 15's adventures!
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:—! +Shut up, it's embarrassing!
-HK416Mod(0)<Speaker>416</Speaker>||:Could you please save your pointless prattling for later? +The enemies are trying to get close again!
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:I'm not the one who started it! +45, lead the other echelons in falling back while taking turns covering each other! SOP-II and 416, full fire support! +Once all our echelons finish retreating, we'll move to 500 meters from the train and set up the final blockade there! We mustn't let the enemies get any farther than that!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Okie-dokie, I'll be off then. I'll leave you to get all lovey-dovey with the elites on the AR Team, 416~ ♪
-HK416Mod(0)<Speaker>416</Speaker>||:Shut it or I'll throw you my last grenade as a farewell gift.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1>:...I honestly can't tell if you two get along or not. +Anyway, let's move! Just another ten minutes and we'll be able to leave this damn place!
+()<Speaker></Speaker>||<BIN>207</BIN><Night><黑屏2><BGM>BGM_Danger</BGM>:...Вне бронированного поезда.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Мы расправились со всеми врагами, которые стояли на нашем пути!
+HK416Mod(0)<Speaker>416</Speaker>||:Не теряй бдительность! Данные сканеров показывают, что девятая и десятая волны начнутся с минуты на минуту!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Сколько ещё нам придётся находиться под этим градом артиллерийского обстрела?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Подожди, я свяжусь с... +Прямая трансляция! Это Командир!
+HK416Mod(0)<Speaker>416</Speaker>||:Мы, наконец, готовы уходить?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:...Поняла, Командир. +Внимание, всем! Поезд почти готов к отправлению! Примерно через десять минут мы отправляемся к базе подводных лодок! +Все основные отряды должны отступить к поезду, а мы останемся здесь, чтобы сдерживать приближающихся врагов! Как только поезд тронется, у нас будет ровно одна минута, чтобы вернуться на борт!
+HK416Mod(0)<Speaker>416</Speaker>||:Хм, Командир уделяет нам просто огромное количество времени.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Давайте будем благодарны за то, что имеем. Если бы это была одна известная женщина, она бы уделила нам всего 30 секунд.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Поторопись и уничтожь эту волну врагов! Не терпится продолжить наблюдать за приключениями M4 и 15-ой!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:—! +Заткнись, это неловко!
+HK416Mod(0)<Speaker>416</Speaker>||:Не могла бы ты отложить свою бессмысленную болтовню на потом? +Враги снова приближаются!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Это не я начала! +45-я, возглавь отход остальных эшелонов, при этом поочередно прикрывайте друг друга! SOP-II и 416-я, полная огневая поддержка! +Как только все наши эшелоны завершат отход, мы продвинемся на расстояние 500 метров от поезда и устроим там последнюю линию обороны! Мы не должны позволить врагам продвинуться дальше!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Оки-доки, я тогда пойду. Оставлю тебя поваляться в объятиях элиты из Команды AR, 416-я~ ♪
+HK416Mod(0)<Speaker>416</Speaker>||:Заткнись, а то я брошу в тебя свою последнюю гранату в качестве прощального подарка.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1>:...Честно говоря, я не могу понять, ладите вы двое или нет. +В любом случае, пошли! Ещё десять минут — и мы сможем убраться из этого проклятого места!
 ()||<黑点2><BIN>10</BIN>:
