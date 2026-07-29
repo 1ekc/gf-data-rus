@@ -1,26 +1,26 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...On the armored train.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:The HOC should've taken out all the autonomous units in pursuit. +Is everyone onboard?
-HK416Mod(0)<Speaker>416</Speaker>||:That was too close for comfort. I almost didn't make the jump in time.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Huh? It wasn't so bad though – it's just a ten-meter jump.
-HK416Mod(0)<Speaker>416</Speaker>||:I doubt any Doll other than you could jump ten meters on a single bound.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...Hmm, I think we've got everyone. +Let's head to the equipment room to get some ammo refilled.
-()<Speaker></Speaker>||<黑屏2><BGM>m_avg_casual</BGM>:After they replenish their ammunition...
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:You're back! Thanks for the hard work.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:It was hard work, alright. 404 hasn't been asked to fight enemies head-on since god knows when.
-HK416Mod(0)<Speaker>416</Speaker>||:Stop complaining. At least we're getting paid.
-G11(0)<Speaker>Gr G11</Speaker>||:This stupid train is finally running... The explosions were getting closer and closer... +I almost thought this train would be my final resting place.
-HK416Mod(0)<Speaker>416</Speaker>||:Haven't you been staying on the train the whole time? +You make it sound as if you were fighting for your life out there with us!
-G11(3)<Speaker>Gr G11</Speaker><Shake>||:Ow, ow, ow, ow... 416, stop pinching my cheeks! I worked very hard to cheer on our maintenance crew!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Thank goodness you managed to get the train patched up, or we'd have to travel the remaining distance on foot. +9, you did a pretty great job.
-UMP9Mod(0)<Speaker></Speaker>||:UMP9 scratches the back of her neck sheepishly.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Haha, it was all thanks to Fräulein Kalina and the Dolls that helped.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:I see. But if you ever drag a task past the deadline again, I'll have you and Gr G11 switch neural cores during your next maintenance.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ack...!
-HK416Mod(0)<Speaker>416</Speaker>||:That would be very interesting. I'll look forward to it.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Incoming transmission from the Commander. +Copy that. +The Commander wants us to assemble in the command center.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:By "us", you mean ALL of us?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Of course. The Commander wants everyone on Squad 404 to be present as well. It's about the upcoming operation. +Mission briefing is in ten minutes.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:We'll be there once we finish repairing our damaged Dummies.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Then the rest of you come with me first.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Okay! See ya later!
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...В бронированном поезде.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:ГОгП должен был уничтожить все автономные подразделения, которые их преследовали. +Все на борту?
+HK416Mod(0)<Speaker>416</Speaker>||:Это было слишком близко, чтобы быть спокойной. Я чуть не опоздала с прыжком.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Что? Впрочем, это было не так уж и страшно — всего лишь прыжок с десятиметровой вышки.
+HK416Mod(0)<Speaker>416</Speaker>||:Сомневаюсь, что какая-либо другая Кукла, кроме тебя, смогла бы прыгнуть на десять метров одним прыжком.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...Хм, по-моему, все на месте. +Пойдем в комнату с оборудованием, чтобы пополнить запас патронов.
+()<Speaker></Speaker>||<黑屏2><BGM>m_avg_casual</BGM>:После того как они пополнят запасы боеприпасов...
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ты вернулась! Спасибо за усердную работу.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Это была действительно тяжелая работа. 404-ым уже бог знает сколько времени не приходилось сражаться с врагами в лоб.
+HK416Mod(0)<Speaker>416</Speaker>||:Хватит жаловаться. По крайней мере, нам платят.
+G11(0)<Speaker>Gr G11</Speaker>||:Этот дурацкий поезд наконец-то тронулся… Взрывы становились всё ближе и ближе… +Я уже почти решила, что этот поезд станет моим последним пристанищем.
+HK416Mod(0)<Speaker>416</Speaker>||:Разве ты не просидела всё это время в поезде? +Ты так рассказываешь, будто там, вместе с нами, тебе пришлось сражаться за свою жизнь!
+G11(3)<Speaker>Gr G11</Speaker><Shake>||:Оу, оу, оу, оу... 416-я, перестань щипать меня за щеки! Я очень старалась подбодрить нашу бригаду технического обслуживания!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Слава богу, тебе удалось починить поезд, иначе нам пришлось бы преодолевать оставшийся путь пешком. +9-я, ты отлично сработала.
+UMP9Mod(0)<Speaker></Speaker>||:UMP9 смущённо почесала затылок.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ха-ха, это всё благодаря фройляйн Калине и Куклам, которые мне помогли.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Понятно. Но если ты ещё раз затянешь выполнение задачи после установленного срока, я заставлю тебя и Gr G11 поменяться нейронными ядрами во время следующего технического обслуживания.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Э...!
+HK416Mod(0)<Speaker>416</Speaker>||:Это было бы очень интересно. Буду с нетерпением ждать.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Поступило сообщение от Командира. +Поняла. +Командир просит нас собраться в командном центре.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Под словом «мы» ты имеешь в виду ВСЕХ нас?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Конечно. Командир хочет, чтобы все члены отряда 404 тоже были на месте. Речь идет о предстоящей операции. +Брифинг по миссии начнется через десять минут.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Мы прибудем туда, как только закончим ремонт наших поврежденных болванок.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Тогда остальные сначала пойдут со мной.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:Ладно! Увидимся позже!
