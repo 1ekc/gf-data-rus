@@ -1,1 +1,2 @@
-()||<BIN>10</BIN>:<color=#FFFF00>Tip - Goliaths can be placed on the Large Water Valves and they will detonate on the next turn, flooding the surrounding area.</color>+<color=#FFFF00>Fighting in flooded areas will affect both friendly and hostile echelons to a certain extent, but some high-speed enemies will have a particularly significant disadvantage. </color>
+()||<BIN>10</BIN>:<color=#FFFF00>Совет — Голиафы можно разместить на больших водозапорных клапанах, и они взорвутся в следующий ход, затопив окружающую территорию.</color>+<color=#FFFF00>Ведение боя в затопленных районах в той или иной степени скажется как на дружественных, так и на вражеских эшелонах, однако некоторые высокоскоростные противники окажутся в особенно невыгодном положении.
+ </color>
