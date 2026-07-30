@@ -1,1 +1,1 @@
-()||<BIN>10</BIN>:<color=#FFFF00>Tip - Using Goliaths to destroy Thoroughfares not only turns them into roadblocks, but doing so when enemy units are on them will also deplete their fighting strength, so take care to spring your trap at an opportune time.</color>
+()||<BIN>10</BIN>:<color=#FFFF00>Совет — Использование Голиафов для уничтожения магистралей не только превращает их в заграждения, но и, если на них находятся вражеские отряды, снижает их боевую мощь, поэтому постарайтесь запустить ловушку в подходящий момент.</color>
