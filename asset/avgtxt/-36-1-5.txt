@@ -1,105 +1,105 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>6</BIN><黑屏2><BGM>10051</BGM>:...At the Griffin defense line.
-M1928A1(0)<Speaker>Thompson</Speaker>||:Doesn't look like cover's an issue anymore. How's the ammo at our fallback position?
-M9(0)<Speaker>M9</Speaker>||:The drone just dropped it off!+Will Military units really be coming our way?
-MAC10(0)<Speaker>Ingram</Speaker>||:Hehe...wouldn't THAT be nice? Chances to have fun like this don't come by often.+Besides, I still haven't settled the score with them from last time!
-M3(0)<Speaker>M3</Speaker>||:But we can't possibly bring down Military armored units with just our firepower, right?+Even their regular infantry models are hard to destroy once they're some distance away from us.
-M1928A1(0)<Speaker>Thompson</Speaker>||:The Boss has a plan. +Squad B3, do you read me?
-MP5(0)<Speaker>Gr MP5</Speaker>||:Ehh?! Is the enemy here already?
-MP5(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Relax, Gr MP5. Just asking for a routine report about the situation on your end.
-MP5(0)<Speaker>Gr MP5</Speaker>;M1928A1(0)||:You scared me to death... +We've planted the explosives behind the defense line, but is it really okay to booby trap our route of retreat?
-MP5(0);M1928A1(0)<Speaker>Thompson</Speaker>||:The Boss has a plan.
-M1928A1(0)<Speaker>Thompson</Speaker>||<黑点1>:Squads B4 and B5, what about you?
-P7(0)<Speaker>P7</Speaker>||<黑点2>:We're fine too!
-92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Nothing out of the ordinary with B5.</color>+<color=#00CCFF>Aren't these regular check-ins too frequent?</color>
-P7(0)<Speaker>P7</Speaker>||:B4's prepped and ready to go!+Heehee, come, you enemies, come and die!
-PM(0)<Speaker>Makarov</Speaker>||:Thompson's worried about whether the enemy has secretly wiped out our forward listening posts. Besides, it's not like you're the one in charge of comms.
-PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>True, but you heard P7 just now, right? Don't tell me she's got her pranks ready to go?</color>
-PM(0)<Speaker>Makarov</Speaker>;92type(0)<scan><通讯框>||:Trust her this once. P7 doesn't mess around too much when it comes to actual combat.
-PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>I hope so, given the circumstances.</color>+<color=#00CCFF>Wait a minute... Did you say "too much"?</color>
-PM(0)<Speaker>Makarov</Speaker>;92type(0)<scan><通讯框>||:Does it matter? At most we'll just wake up in an unfamiliar repair tank.
-PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>Are you sure we'll have a chance to wake up at all?</color>
-PM(0)<Speaker>Makarov</Speaker>;92type(0)<scan><通讯框>||:We will. I believe in the Commander. +Oh yes, where did STEN and that tomato go?
-PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>There are still a few houses to the northwest that haven't been cleared yet. They've gone up there to scout and lay a few traps while they're there.</color>
-PM(0)<Speaker>Makarov</Speaker>;92type(0)<scan><通讯框>||:I hope they don't blow themselves up before the fighting starts... +As the new Team Palette, we can't bring shame to our former leader.
-PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>Should we verify their positions?</color>
-PM(0)<Speaker>Makarov</Speaker>;92type(0)<scan><通讯框>||<黑点1>:Right, contact them.
-92type(0)<Speaker>Type 92</Speaker>||<BIN>7</BIN><黑点2>:B5-1 hailing B5-2.+What's your situation? Why are you taking so long?
-92type(0);StenMK2(0)<Speaker>STEN MkII</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Oh, it's 92.</color>+<color=#00CCFF>We've finished planting mines at the designated location.</color>
-92type(0)<Speaker>Type 92</Speaker>;StenMK2(0)<scan><通讯框>||:So why haven't you come back yet?
-92type(0);StenMK2(0)<Speaker>STEN MkII</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>That's because...</color>+<color=#00CCFF>Miss Negev asked us to help her out.</color>
-NEGEV(0)<Speaker>Negev</Speaker>||<BIN>6</BIN><黑点2>:C3 hailing B5. +This is Negev, sorry for borrowing some of your people.
-NEGEV(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>So it was Squad Negev. Don't sweat it, boss them around as much as you want.</color>
-NEGEV(0)<Speaker>Negev</Speaker>;92type(0)<scan><通讯框>||:Thank you very much. We'll send them back once we've finished digging in here.
-NEGEV(0)<Speaker>Negev</Speaker>||:How's the moving going?
-AAT52(0)<Speaker>AAT-52</Speaker>||:It's...so...heavy...
-NEGEV(0)<Speaker>Negev</Speaker>||:Don't you usually use a machine gun? Why are you so weak?
-AAT52(0)<Speaker>AAT-52</Speaker>||:Why don't...you try...carrying several dozen sandbags at once... (Pants)
-MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Quit whining. If our position gets overrun, your flanks will be completely exposed. So please help us out. Miss Tomato.
-AAT52(0)<Speaker>AAT-52</Speaker>||:Don't call me Tomato!
-TAR21(0)<Speaker>TAR-21</Speaker>||:I'm terribly sorry about this, but the Commander wants the machine gun nests to be as secure as possible.
-StenMK2(0)<Speaker>STEN MkII</Speaker>||:It's alright; after all, we ought to be helping each other out at times like these, am I right, Miss Tomato?
-AAT52(0)<Speaker>AAT-52</Speaker>||:At least call me Mademoiselle Tomate... Argh, my arms are falling off...
-NEGEV(0)<Speaker>Negev</Speaker>||:A few more sandbags and it'll be over. Come on, hang in there.+This is the first line of defense, so we need to hold the enemy at bay and keep them from passing through.
-StenMK2(0)<Speaker>STEN MkII</Speaker>||:So we're on the outermost edge of the defensive line? I saw a bunch of Dolls run outside just now.
-NEGEV(0)<Speaker>Negev</Speaker>||<黑点1>:They're probably recon teams. The Military's drawing closer, and the Commander needs to know the enemy's movements.+Still, they've been out for a while. I wonder how they're doing.
-Welrod(0)<Speaker>Welrod MkII</Speaker>||<BIN>7</BIN><黑点2>:G1 hailing G5, can you see our position?
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>G5 copies, we see you clearly from here.</color>
-Welrod(0)<Speaker>Welrod MkII</Speaker>;98k(0)<scan><通讯框>||:Please cover our reconnaissance... The enemy seems to have dispatched scout units as well, and they're headed our way.
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||:<color=#00CCFF>Received. I recommend you pull your team back a little; your current position is very dangerous.</color>
-Welrod(0)<Speaker>Welrod MkII</Speaker>;98k(0)<scan><通讯框>||:Understood, but we'll be able to spot the hostile armored trains from here more quickly. +If we can take the initiative, we'll lose much fewer Dolls in the upcoming battle.
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||:<color=#00CCFF>...Roger.</color>+<color=#00CCFF>We'll do our best to cover you.</color>
-Welrod(0)<Speaker>Welrod MkII</Speaker>;98k(0)<scan><通讯框>||:Wait...
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||:<color=#00CCFF>What's the matter?</color>
-Welrod(0)<Speaker>Welrod MkII</Speaker>;98k(0)<scan><通讯框>||:I did a scan and found a faint signal approaching this location. I think it's an autonomous force conducting armed recon. +We can't let them get close to our defense line, so let's wipe them out here.+I've synced the data to you.
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Received. These numbers shouldn't pose a problem.</color>+<color=#00CCFF>StG, have the rest of our teammates cover them as well.</color>
-STG44Mod(0)<Speaker>StG44</Speaker>||<黑点2>:Got it, I'm contacting them now.+G43, are you still at the resupply point?
-STG44Mod(0);g43(0)<Speaker>G43</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I'm on my way back.</color>
-STG44Mod(0)<Speaker>StG44</Speaker>||:Change of plan. Proceed directly to firing point 3, we're moving the crossfire plan up.
-STG44Mod(0);g43(0)<Speaker>G43</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Got it, I'm coming over now!</color>
-g43(0)<Speaker>G43</Speaker>||<黑点2>:There's been a change of plan, MP41.
-MP41(0)<Speaker>MP41</Speaker>||:Oh, was that from Fräulein Kar?
-g43(0)<Speaker>G43</Speaker>||:She's at the shooting point, and she wants us to head over right away.
-MP41(0)<Speaker>MP41</Speaker>||:Er...does it have to be right now?+I wanted to write a report on the surrounding situation and send it to the Commander...
-g43(0)<Speaker>G43</Speaker>||:Forget the report, just remember to be a good spotter for me afterwards. We don't often get the chance to fight alongside Fräulein Kar!
-MP41(0)<Speaker>MP41</Speaker>||:Fine, fine, I got it... Plus, if you bite it, I can take over and help Fräulein Kar. Sounds good, right?
-g43(0)<Speaker>G43</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:You shut that mouth of yours!
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...Inside the command room on the train.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Looks like everyone's just about ready.
-()<Speaker>Commander</Speaker>||:Yup, and I guess our opposition ought to be ready too. +Dandelion, have our Dolls been backed up?
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:All back-ups are complete. However, I will not be able to perform real-time neural backups for destroyed Dolls once the fighting starts. The data load is too great.
-()<Speaker>Commander</Speaker>||:I'm grateful enough for pre-battle backups.+...That way, even if we get blown to bits, these girls will all survive as long as you or M4 make it.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:That is true, in theory.+However, saying that sort of thing will only needlessly increase the stress on all of you. For instance, I can already sense that Miss Kalina is very much on edge.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Er...
-()<Speaker>Commander</Speaker>||:Kalina... I'm sorry.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:It's fine, Commander, ahahaha... You've always been one for saying scary things, haven't you?
-()<Speaker>Commander</Speaker>||:I hope they're just empty words, but I have a really bad feeling about this. Maybe the good luck we've had all this while is about to be used up.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:I've collated the data from all the Dolls and analyzed the battle situation, which I've projected on the main monitor in the command room. It shows the current disposition of our forces and predictions of enemy movements. I hope this information will help ease the stress on you.
-()<Speaker>Commander</Speaker>||:How did you do that...? +Usually we only get this kind of computational support at the base.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:You can think of me as a top-of-the-line supercomputer system. Since you are the only commander in Griffin to enjoy such luxurious treatment, your existence can be considered to be on the 'cutting edge'.
-()<Speaker>Commander</Speaker>||:...
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Is it not funny? +I thought humorous utterances would help relieve stress. It would seem I will need to avoid such forms of humor in the future.
-()<Speaker>Commander</Speaker>||:I appreciate your good intentions... But let's focus on the battle.
-()||<SE1>AVG_tele_connect</SE1>:Bzzzz — a buzzer goes off.
-()<Speaker>Commander</Speaker>||:What's happening?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Message from the recon team. The enemy armored trains have stopped moving and they have dispatched autonomous scouting forces, which are currently engaging the recon team.+The trains are now deploying ground forces, and both our left and right flanks each have two companies' worth of troops headed their way.
-()<Speaker>Commander</Speaker>||:They're going to catch us in a pincer attack. Looks like the opposition isn't interested in fancy tactics; they're going to hit us with everything they have. +Are there any other movements?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Hang on... I've lost contact with them... +The HOCs have sent a report... The recon team is being bombarded.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:The firefight just now exposed our listening post, and the enemy brought their train-based artillery to bear. Team G1, G3 and G7 have been destroyed.+Two teams from Group K were subjected to mortar bombardment while planting explosives along the railway, and they had no choice but to fall back to cover.+The echelons on the main line of defense are still in cover. Group B is requesting support from Group C. 
-()<Speaker>Commander</Speaker>||:Dammit...they're showing us no mercy at all...+Have everyone from Group G fall back. Keep the defense echelons in cover and don't let them expose themselves.+They'll bombard the defense line if they reveal themselves too soon. +Stick with Plan A for now.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:The defense line on the Lahepere Bay front is being hit too! +The Doll echelons are taking cover on the other side of the slope!
-()<Speaker>Commander</Speaker>||<黑屏1>:Are they planning on a breakthrough there...
-()||<BIN>9</BIN><黑屏2>:Meanwhile... +On the Military armored train.
-NPC-Yegor(4)<Speaker>Yegor</Speaker>||:Sitrep?
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Adjutant</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Our autonomous forces have encountered a Griffin listening post. It has been obliterated via fire support. The 52nd and 54th armored companies are deployed and the 14th infantry reconnaissance company is in position.</color>+<color=#00CCFF>Autonomous companies C and D are performing final adjustments and will be ready in five minutes.</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Follow the plan and deploy our forces with mixed human and automaton composition. Also, beware of enemy hacking.+Griffin has prepared this choke point to block us. They have very few positions from which they can mount a defense, so sweep all those locations with cannonfire beforehand.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Adjutant</Speaker><scan><通讯框>||:<color=#00CCFF>Understood. </color>+<color=#00CCFF>Will our forces still be attacking in waves?</color>+<color=#00CCFF>It's just a PMC. Can't we just crush them in one blow?</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<scan><通讯框>||:That PMC is just the velvet glove over a mailed fist. There's no telling where our true enemy is hiding. We must not fail this mission - we have to act cautiously.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Adjutant</Speaker><scan><通讯框>||:<color=#00CCFF>Understood, sir.</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Position all our armored forces on the north flank. I'm more worried about the Paldiski Base's coastal defense batteries than Griffin. +However, the fact that those cannons haven't started firing on us implies Griffin hasn't taken control of them yet.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Adjutant</Speaker><scan><通讯框>||:<color=#00CCFF>Wasn't that base originally ours?</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<scan><通讯框>||:It used to be, but some bastard wrecked it.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Adjutant</Speaker><scan><通讯框>||:<color=#00CCFF>Is that why we have no choice but to take it back?</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Yes, we need to reclaim the base, as well as our soldier's honor, which has been trampled upon.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Adjutant</Speaker><scan><通讯框>||:<color=#00CCFF>Yes, sir!</color>+<color=#00CCFF>The PMC is still building up their defenses. When will we attack?</color>+<color=#00CCFF>The troops are in high spirits and everyone is eager to make our enemies pay.</color>+<color=#00CCFF>We will carry out any mission you give us, Captain.</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<scan><通讯框>||<黑屏1>:I know, I feel the same as everyone else.+But we are soldiers, and so we must obey our orders.+It isn't time yet. Give them a taste of our wrath in the form of cannonfire.
+()<Speaker></Speaker>||<BIN>6</BIN><黑屏2><BGM>10051</BGM>:...На линии обороны Грифонов.
+M1928A1(0)<Speaker>Thompson</Speaker>||:Похоже, с укрытием больше проблем нет. Как обстоят дела с боеприпасами на нашей резервной позиции?
+M9(0)<Speaker>M9</Speaker>||:Дрон только что доставил это! + Неужели к нам действительно направляются боевые единицы?
+MAC10(0)<Speaker>Ingram</Speaker>||:Хе-хе... разве ЭТО не было бы здорово? Такие возможности повеселиться выпадают нечасто.+К тому же я до сих пор еще не с ними не свела счёты за прошлый раз!
+M3(0)<Speaker>M3</Speaker>||:Но мы же не сможем уничтожить бронетехнику Военных, опираясь только на нашу огневую мощь, верно?+Даже их обычные пехотные модели трудно уничтожить, если они находятся на некотором расстоянии от нас.
+M1928A1(0)<Speaker>Thompson</Speaker>||:У Босса есть план. +Отряд B3, слышите меня?
+MP5(0)<Speaker>Gr MP5</Speaker>||:Э-э-э?! Враг уже здесь?
+MP5(0);M1928A1(0)<Speaker>Thompson</Speaker>||:Не волнуйся, Gr MP5. Просто прошу предоставить обычный отчет о ситуации у тебя.
+MP5(0)<Speaker>Gr MP5</Speaker>;M1928A1(0)||:Ты меня до смерти напугала... +Мы заложили взрывчатку за линией обороны, но неужели можно устанавливать мины на нашем пути отступления?
+MP5(0);M1928A1(0)<Speaker>Thompson</Speaker>||:У Босса есть план.
+M1928A1(0)<Speaker>Thompson</Speaker>||<黑点1>:Отряды B4 и B5, а как у вас?
+P7(0)<Speaker>P7</Speaker>||<黑点2>:У нас тоже всё в порядке!
+92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>У B5 всё в норме.</color>+<color=#00CCFF>Разве такие регулярные проверки не слишком частые?</color>
+P7(0)<Speaker>P7</Speaker>||:B4 готов к бою! + Хи-хи, давайте, враги, приходите и умрите!
+PM(0)<Speaker>Макаров</Speaker>||:Thompson беспокоится, не уничтожил ли враг тайно наши передовые пункты прослушивания. К тому же, ты ведь не отвечаешь за связь.
+PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>Да, но ты же только что слышала P7, верно? Неужели она уже приготовила свои шутки?</color>
+PM(0)<Speaker>Макаров</Speaker>;92type(0)<scan><通讯框>||:Поверь ей хоть на этот раз. P7 не церемонится, когда дело доходит до реального боя.
+PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>Надеюсь, что так и будет, учитывая обстоятельства.</color>+<color=#00CCFF>Подожди-ка... Ты что, сказала «слишком много»?</color>
+PM(0)<Speaker>Макаров</Speaker>;92type(0)<scan><通讯框>||:А какая разница? В худшем случае мы просто проснёмся в незнакомом ремонтно-восстановительном резервуаре.
+PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>Ты уверена, что у нас вообще будет шанс проснуться?</color>
+PM(0)<Speaker>Макаров</Speaker>;92type(0)<scan><通讯框>||:Мы это сделаем. Я верю в Командира. +Ах да, а куда делись STEN и тот помидор?
+PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>На северо-западе ещё осталось несколько домов, которые пока не проверены. Они отправились туда, чтобы осмотреть местность и, пока будут там, расставить несколько ловушек.</color>
+PM(0)<Speaker>Макаров</Speaker>;92type(0)<scan><通讯框>||:Надеюсь, они не взорвут себя до того, как начнутся бои... +Как новая «Команда Палеты», мы не можем опозорить нашего бывшего лидера.
+PM(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>Стоит ли нам проверить их позиции?</color>
+PM(0)<Speaker>Макаров</Speaker>;92type(0)<scan><通讯框>||<黑点1>:Хорошо, свяжитесь с ними.
+92type(0)<Speaker>Type 92</Speaker>||<BIN>7</BIN><黑点2>:B5-1 вызывает B5-2. + Какова обстановка? Почему вы так долго не отвечаете?
+92type(0);StenMK2(0)<Speaker>STEN MkII</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>О, это 92-я.</color>+<color=#00CCFF>Мы завершили установку мин в назначенном месте.</color>
+92type(0)<Speaker>Type 92</Speaker>;StenMK2(0)<scan><通讯框>||:Так почему же ты до сих пор не вернулась?
+92type(0);StenMK2(0)<Speaker>STEN MkII</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Это потому, что...</color>+<color=#00CCFF>Мисс Negev попросила нас помочь ей.</color>
+NEGEV(0)<Speaker>Negev</Speaker>||<BIN>6</BIN><黑点2>:C3 вызывает B5. +Это Negev, извините, что взяла у вас нескольких подчиненных.
+NEGEV(0);92type(0)<Speaker>Type 92</Speaker><scan><通讯框>||:<color=#00CCFF>Так что это был отряд Negev. Не переживай, командуй ими сколько хочешь.</color>
+NEGEV(0)<Speaker>Negev</Speaker>;92type(0)<scan><通讯框>||:Большое спасибо. Мы отправим их обратно, как только закончим здесь раскопки.
+NEGEV(0)<Speaker>Negev</Speaker>||:Как проходит перемещение?
+AAT52(0)<Speaker>AAT-52</Speaker>||:Это... так... тяжело...
+NEGEV(0)<Speaker>Negev</Speaker>||:Разве ты обычно не пользуешься пулемётом? Почему ты такая слабая?
+AAT52(0)<Speaker>AAT-52</Speaker>||:Почему бы тебе... не попробовать... поднять сразу несколько десятков мешков с песком... (Задыхается)
+MicroUZI(0)<Speaker>Micro Uzi</Speaker>||:Хватит ныть. Если нашу позицию захватят, то фланги окажутся полностью незащищенными. Так что, пожалуйста, помогите нам. Мисс Томат.
+AAT52(0)<Speaker>AAT-52</Speaker>||:Не называй меня Томатом!
+TAR21(0)<Speaker>TAR-21</Speaker>||:Мне очень жаль, но Командир хочет, чтобы пулеметные гнезда были максимально защищены.
+StenMK2(0)<Speaker>STEN MkII</Speaker>||:Ничего страшного; в конце концов, в такие моменты мы должны помогать друг другу, верно, мисс Томат?
+AAT52(0)<Speaker>AAT-52</Speaker>||:Хотя бы называй меня мадемуазель Томат… Ааа, руки просто отваливаются…
+NEGEV(0)<Speaker>Negev</Speaker>||:Еще несколько мешков с песком — и всё будет позади. Давай, держись.+Это первая линия обороны, поэтому нам нужно сдержать врага и не дать ему прорваться.
+StenMK2(0)<Speaker>STEN MkII</Speaker>||:Значит, мы находимся на самом краю оборонительной линии? Я только что видела, как несколько Кукол выбежали на фланг.
+NEGEV(0)<Speaker>Negev</Speaker>||<黑点1>:Наверное, это разведывательные отряды. Войска приближаются, и Командиру нужно знать о передвижениях противника.+Всё же они уже довольно долго находятся в поле. Интересно, как у них дела.
+Welrod(0)<Speaker>Welrod MkII</Speaker>||<BIN>7</BIN><黑点2>:G1 вызывает G5, видите наше местоположение?
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>G5, мы вас отсюда отлично видим.</color>
+Welrod(0)<Speaker>Welrod MkII</Speaker>;98k(0)<scan><通讯框>||:Защитите нашу разведку... Похоже, противник тоже выслал разведывательные отряды, и они движутся в нашу сторону.
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||:<color=#00CCFF>Поняла. Рекомендую вам немного отвести свою команду назад; ваша текущая позиция очень опасна.</color>
+Welrod(0)<Speaker>Welrod MkII</Speaker>;98k(0)<scan><通讯框>||:Понятно, но отсюда мы сможем быстрее обнаружить боевые бронированные поезда противника. +Если нам удастся перехватить инициативу, мы потеряем гораздо меньше Кукол в предстоящем сражении.
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||:<color=#00CCFF>...Поняла.</color>+<color=#00CCFF>Мы сделаем всё возможное, чтобы прикрыть вас.</color>
+Welrod(0)<Speaker>Welrod MkII</Speaker>;98k(0)<scan><通讯框>||:Подожди...
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||:<color=#00CCFF>В чём дело?</color>
+Welrod(0)<Speaker>Welrod MkII</Speaker>;98k(0)<scan><通讯框>||:Я провела сканирование и нашла слабый сигнал, приближающийся к этой точке. Думаю, это автономный отряд, проводящий вооружённую разведку. +Нельзя позволить им приблизиться к нашей линии обороны, так что давайте уничтожим их прямо здесь.+Я синхронизировала данные с вами.
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Поняла. Эти цифры не должны вызвать проблем.</color>+<color=#00CCFF>StG, пусть остальные наши товарищи по команде тоже их прикроют.</color>
+STG44Mod(0)<Speaker>StG44</Speaker>||<黑点2>:Поняла, сейчас с ними свяжусь. +G43, ты всё ещё на пункте пополнения запасов?
+STG44Mod(0);g43(0)<Speaker>G43</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Я уже возвращаюсь.</color>
+STG44Mod(0)<Speaker>StG44</Speaker>||:Изменение плана. Направляйся прямо к огневой точке № 3, мы ускоряем реализацию плана перекрёстного огня.
+STG44Mod(0);g43(0)<Speaker>G43</Speaker><scan><通讯框>||<黑点1>:<color=#00CCFF>Поняла, я уже иду туда!</color>
+g43(0)<Speaker>G43</Speaker>||<黑点2>:Планы изменились, MP41.
+MP41(0)<Speaker>MP41</Speaker>||:О, это от фройляйн Кар?
+g43(0)<Speaker>G43</Speaker>||:Она находится на точке передовой обороны и просит нас немедленно туда отправиться.
+MP41(0)<Speaker>MP41</Speaker>||:А... это обязательно прямо сейчас? + Я хотела составить отчёт о ситуации в окрестностях и отправить его Командиру...
+g43(0)<Speaker>G43</Speaker>||:Забудь про отчёт, просто не подведи меня потом — будь хорошим наводчиком. У нас не так часто выпадает шанс сражаться бок о бок с фройляйн Kar!
+MP41(0)<Speaker>MP41</Speaker>||:Ладно, ладно, поняла... К тому же, если ты не справишься, я смогу тебя подстраховать и помочь фройляйн Kar. Звучит неплохо, правда?
+g43(0)<Speaker>G43</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Заткнись!
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...Внутри командного отсека поезда.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Похоже, все уже почти готовы.
+()<Speaker>Командир</Speaker>||:Ага, и, по-моему, наши противники тоже должны быть готовы. +Данделион, а наши Куклы уже подготовились?
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Все резервные копии созданы. Однако после начала боевых действий я не смогу выполнять нейронное резервное копирование уничтоженных Кукол в режиме реального времени. Нагрузка на систему слишком велика.
+()<Speaker>Командир</Speaker>||:Я уже достаточно благодарен за резервные копии, созданные перед боем.+...Так что даже если нас разнесет на куски, эти девчонки все выживут, главное, чтобы ты или M4 остались в живых.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Теоретически это верно.+Однако подобные высказывания только зря усугубят стресс у всех вас. Например, я уже чувствую, что мисс Калина находится на грани нервного срыва.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Ээээ...
+()<Speaker>Командир</Speaker>||:Калина... Прости.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Ничего страшного, Командир, ахахаха... Вы всегда любили говорить страшные вещи, не так ли?
+()<Speaker>Командир</Speaker>||:Надеюсь, это всего лишь пустые слова, но у меня по этому поводу очень плохое предчувствие. Возможно, удача, которая сопутствовала нам все это время, вот-вот иссякнет.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Я обобщила данные, полученные от всех Кукол, и проанализировала обстановку на поле боя, результаты чего отобразила на главном мониторе в командном пункте. +На экране показано текущее расположение наших сил и прогнозы передвижений противника. Надеюсь, эта информация поможет вам немного успокоиться.
+()<Speaker>Командир</Speaker>||:Как тебе это удалось...? +Обычно такую вычислительную поддержку мы получаем только на базе.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Можно считать меня суперкомпьютерной системой высшего класса. Поскольку ты — единственный Командир в Грифоне, которому достаётся такое роскошное обращение, твое существование можно назвать «передовым».
+()<Speaker>Командир</Speaker>||:...
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Разве это не забавно? +Я думала, что шутливые высказывания помогут снять стресс. Похоже, в будущем мне придётся избегать подобных форм юмора.
+()<Speaker>Командир</Speaker>||:Я ценю твои благие намерения... Но давай сосредоточимся на сражении.
+()||<SE1>AVG_tele_connect</SE1>:Бзззз — раздаётся звуковой сигнал.
+()<Speaker>Командир</Speaker>||:Что происходит?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Сообщение от разведывательной группы. Бронированные поезда противника остановились и выслали автономные разведывательные отряды, которые в данный момент вступают в бой с нашей разведывательной группой.+Поезда сейчас выводят на поле боя наземные войска, и к нашему левому и правому флангам движутся по две роты противника.
+()<Speaker>Командир</Speaker>||:Они собираются зажать нас в клещи. Похоже, противник не заинтересован в сложных тактических маневрах; они собираются нанести по нам удар всеми имеющимися силами. +Есть ли какие-нибудь другие передвижения?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Подождите... Я потеряла с ними связь... +ГОгПы прислали отчёт... Разведывательная группа подвергается обстрелу.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Только что произошедшая перестрелка раскрыла наш пункт наблюдения, и противник привёл в действие свою железнодорожную артиллерию. Отряды G1, G3 и G7 уничтожены.+Два отряда из группы K подверглись миномётным обстрелам во время установки взрывчатки вдоль железной дороги, и им не оставалось ничего другого, как отступить в укрытие.+Эшелоны на главной линии обороны по-прежнему находятся в укрытии. Группа B запрашивает поддержку у группы C.
+()<Speaker>Командир</Speaker>||:Чёрт... они совершенно безжалостны... +Пусть все из Группы G отступают. Держите оборонительные эшелоны в укрытии и не давайте им выходить из укрытия.+Если они рано покажутся, противник обрушит огонь на линию обороны. +Пока что придерживайтесь плана А.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Линия обороны на участке залива Ляхепере тоже подвергается обстрелу! +Эшелоны Кукол укрываются по другую сторону склона!
+()<Speaker>Командир</Speaker>||<黑屏1>:Они планируют добиться там прорыва...
+()||<BIN>9</BIN><黑屏2>:Тем временем... +В Военном бронированном поезде.
+NPC-Yegor(4)<Speaker>Егор</Speaker>||:Отчет о ситуации?
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Адъютант</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Наши автономные подразделения обнаружили разведывательный пост Грифона. Он был уничтожен с помощью огневой поддержки. 52-я и 54-я бронетанковые роты развернуты, а 14-я пехотно-разведывательная рота заняла позиции.</color>+<color=#00CCFF>Автономные роты C и D проводят последние настройки и будут готовы через пять минут.</color>
+NPC-Yegor(4)<Speaker>Егор</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Действуйте в соответствии с планом и разверните наши силы, состоящие как из людей, так и из автоматонов. Кроме того, будьте начеку — не допускайте хакерских атак со стороны противника.+Грифон подготовил это узкое место, чтобы перекрыть нам путь. У них очень мало позиций, с которых они могут организовать оборону, поэтому заранее обстреляйте все эти точки из пушек.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Адъютант</Speaker><scan><通讯框>||:<color=#00CCFF>Принято. </color>+<color=#00CCFF>Наши войска по-прежнему будут наступать волнами?</color>+<color=#00CCFF>Это всего лишь ЧВК. Разве мы не можем просто разгромить их одним ударом?</color>
+NPC-Yegor(4)<Speaker>Егор</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Эта ЧВК — всего лишь бархатная перчатка на железном кулаке. Неизвестно, где скрывается наш истинный враг. Мы не должны провалить эту миссию — нужно действовать осторожно.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Адъютант</Speaker><scan><通讯框>||:<color=#00CCFF>Понятно, сэр.</color>
+NPC-Yegor(4)<Speaker>Егор</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Расположите все наши бронетанковые силы на северном фланге. Меня больше беспокоят береговые оборонительные батареи базы Палдиски, чем Грифон. +Однако тот факт, что эти орудия ещё не открыли по нам огонь, говорит о том, что Грифон пока не взял их под свой контроль.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Адъютант</Speaker><scan><通讯框>||:<color=#00CCFF>Разве эта база изначально не принадлежала нам?</color>
+NPC-Yegor(4)<Speaker>Егор</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Раньше так и было, но какой-то ублюдок всё испортил.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Адъютант</Speaker><scan><通讯框>||:<color=#00CCFF>Может быть, именно поэтому у нас нет другого выбора, кроме как забрать его обратно?</color>
+NPC-Yegor(4)<Speaker>Егор</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Да, нам нужно отбить базу, а также восстановить честь нашего солдата, которая была попрана.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Адъютант</Speaker><scan><通讯框>||:<color=#00CCFF>Да, сэр!</color>+<color=#00CCFF>ЧВК все еще укрепляет свои оборонительные позиции. Когда мы начнем атаку?</color>+<color=#00CCFF>Бойцы в отличном настроении, и все жаждут отомстить врагам.</color>+<color=#00CCFF>Мы выполним любую задачу, которую вы нам поручите, Капитан.</color>
+NPC-Yegor(4)<Speaker>Егор</Speaker>;NPC-Soldier(0)<scan><通讯框>||<黑屏1>:Я знаю, я чувствую то же самое, что и все остальные.+Но мы — солдаты, и поэтому должны подчиняться приказам.+Еще не время. Дайте им почувствовать наш гнев в виде пушечного огня.
