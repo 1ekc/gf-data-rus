@@ -1,21 +1,21 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...In Squad 404's prep room.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Gear check, ladies. Load up on ammo and prepare to move out.
-HK416Mod(0)<Speaker>416</Speaker>||:What's wrong? Something seems to be eating at you; you're not your usual confident self.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:I'm sure even 45 would get nervous knowing that the fate of so many Dolls rests in our hands...
-HK416Mod(0)<Speaker>416</Speaker>||:Do Dolls get nervous?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Look at Gr G11, she's so nervous she can barely stand, right?
-G11(0)<Speaker>Gr G11</Speaker>||:Can-can-can I not go...?+It totally sounds like...a suicide mission.
-HK416Mod(0)<Speaker>416</Speaker>||:You're going even if it's suicide. Besides, it's not like you can live by yourself without me.
-G11(0)<Speaker>Gr G11</Speaker>||:Well, if I can't live by myself, I'll just join Griffin. All I need is a corner for me to sleep in...
-HK416Mod(0)<Speaker>416</Speaker>||:Oh, you wish! Now get up!
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Still, are you really okay, 45? Something does feel different about you.
-HK416Mod(0)<Speaker>416</Speaker>||:She must have seen something she shouldn't have seen in M4 or Dandelion's neural cloud.+Hey, 45, I just told you.+It doesn't matter what your goal is, look around at your friends first before doing it. Surely your neural cloud isn't as low on memory as Gr G11's.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Humph, I don't need you to lecture me. +Before spouting all that nonsense, have you finished syncing the operational route and the map?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:All OK, 45! +We'll drive straight to an air vent under the quarantine wall, then enter the air ducts and follow it along the inside of the wall to the DEFY members' last known position.+If there really are friendlies there, we'll enter the control room of the barrier gate after contacting them, then use the activation access they were talking about to open the gate and let the Commander in.
-HK416Mod(0)<Speaker>416</Speaker>||:You make it sound so easy.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:That's assuming we don't run into any enemies.+If the signal is a trap, there's a very high chance we'll get shot full of holes.+It's not so bad if it's our old friends from S.F., but if we end up getting jumped by Paradeus, you can just start working on your last words at that point.
-G11(0)<Speaker>Gr G11</Speaker>||:(Groans) Can't we discuss this? Could I just wait on the train and go over after you make sure it's safe?
-HK416Mod(0)<Speaker>416</Speaker>||:Any more nonsense out of you and I'll tie you to my gun and use you as a shield!+Right, there's no point worrying about that. We need to deal with the gate ASAP before the Commander and the others end up drowning in shellfire.+After that, we'll just have to hope the AR Team is as reliable as we are.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:The fighting for the shore guns is going to be really intense...  Can they really handle it?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:In any case, it's not something we should be worrying about. If everyone's ready, we're heading out!
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...В комнате для подготовки 404-го отряда.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Проверь снаряжение, девчонки. Запаситесь патронами и готовьтесь к выходу.
+HK416Mod(0)<Speaker>416</Speaker>||:Что такое? Похоже, тебя что-то беспокоит; ты не такая уверенная в себе, как обычно.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Уверена, даже 45-я нервничала бы, зная, что судьба стольких Кукол зависит от нас...
+HK416Mod(0)<Speaker>416</Speaker>||:Куклы тоже нервничают?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Посмотри на Gr G11, она так нервничает, что едва стоит на ногах, правда?
+G11(0)<Speaker>Gr G11</Speaker>||:Можно-можно-можно мне не идти...? + Это же прямо как... самоубийственная миссия.
+HK416Mod(0)<Speaker>416</Speaker>||:Ты пойдёшь, даже если это самоубийство. Да и вообще, ты же не сможешь выжить одна без меня.
+G11(0)<Speaker>Gr G11</Speaker>||:Ну, раз я не могу жить одна, то просто перееду к Грифону. Мне всего лишь нужен уголок, где я смогу спать...
+HK416Mod(0)<Speaker>416</Speaker>||:Ах, как бы тебе хотелось! А теперь вставай!
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Но всё-таки, ты действительно в порядке, 45-я? Кажется, с тобой что-то не так.
+HK416Mod(0)<Speaker>416</Speaker>||:Наверное, она увидела что-то, чего не следовало видеть, в M4 или в нейронном облаке Данделион.+Эй, 45-я, я же тебе только что сказала.+Неважно, какая у тебя цель, сначала оглянись на своих друзей, прежде чем что-то делать. Уверена, у тебя в нейронном облаке памяти не так мало, как у Gr G11.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Хм, мне не нужны твои нотации. +Прежде чем нести всю эту чепуху, ты уже синхронизировала маршрут и карту?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Всё ОК, 45-я! +Выезжаем прямо к вентиляционному отверстию под карантинной стеной, потом пробираемся в вентиляционные каналы и идём по ним вдоль внутренней стороны стены до последнего известного местонахождения членов DEFY. +Если там действительно будут наши, то после связи с ними зайдём в диспетчерскую барьерных ворот, а потом воспользуемся тем доступом для активации, о котором они говорили, чтобы открыть ворота и впустить Командира.
+HK416Mod(0)<Speaker>416</Speaker>||:У тебя это звучит так просто.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Это если, конечно, мы не наткнемся на врагов.+Если сигнал окажется ловушкой, то шансы, что нас продырявят, очень высоки.+Если это будут наши старые друзья из С.Ф., то ничего страшного, но если на нас набросится Парадеус, то в таком случае можешь уже начинать придумывать свои последние слова.
+G11(0)<Speaker>Gr G11</Speaker>||:(Вздыхает) Может, обсудим это? Может, я просто подожду в поезде и пойду туда, когда ты убедишься, что там безопасно?
+HK416Mod(0)<Speaker>416</Speaker>||:Ещё одна глупость из твоих уст — и я привяжу тебя к своему оружию и использую в качестве живого щита!+Ладно, нет смысла об этом беспокоиться. Нам нужно как можно скорее разобраться с воротами, пока Командир и остальные не утонули под обстрелом.+А после этого останется только надеяться, что Команда AR окажется такой же надёжной, как и мы.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Бои за береговые орудия обещают быть по-настоящему ожесточёнными...  А они действительно справятся?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:В любом случае, об этом не стоит беспокоиться. Если все готовы, то в путь!
