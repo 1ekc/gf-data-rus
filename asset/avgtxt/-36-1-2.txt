@@ -1,59 +1,59 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...After the conversation with Havier is over, the Commander returns to the train's command room.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:What did Mr. Havier say?
-()<Speaker>Commander</Speaker>||:You won't want to know, but he managed to convince me. +Let's begin the operation.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Will we be heading into the base now?
-()<Speaker>Commander</Speaker>||:No... we don't know what's going on inside the base, and we'll be finished if we barge in thoughtlessly and end up caught in a pincer attack. We'll verify our next destination before moving on.+Are 404 and the AR Team ready to move out?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:They've finished resupplying.
-()<Speaker>Commander</Speaker>||:Good. Put me through to them.
-()||:Kalina establishes the connection and gives the Commander a thumbs up.
-()<Speaker>Commander</Speaker>||<黑点1>:AR Team, Squad 404, can you hear me?
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑点2>:Loud and clear, Commander.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:I read you.
-()<Speaker>Commander</Speaker>||:Our train has arrived. I've already sent you the battle plan, three different backup plans, and the holographic map which Dandelion provided. +Our ultimate objective is to seize the base, and in order to take control of the base, we will need to enter from the outskirts. Right now, I'm not sure what the situation is inside the base, and we can't let our main force enter the range of its defense systems. +First, we need to link up with the members of DEFY and find a way to open the barrier gate. Then we'll need to ensure we have control over the gate and that it is safe.+At the same time, we will be scouting out the current status of the coastal defense artillery.+Our main goal there is to take control of the shore guns so they can provide fire support for our forces. +If we cannot take them, then the backup plan is to destroy them and ensure the coastal artillery cannot fire on our forces.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:How will we deal with the pursuing Military?
-()<Speaker>Commander</Speaker>||:All of Griffin's forces except you will be forming a defense line here. According to our previous simulation, we should be able to hold out for half an hour if the Military launches an all-out attack. +In other words, that's your operational time limit.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Half an hour... That's really cutting it close.
-()<Speaker>Commander</Speaker>||:The barrier gate leading to the sub base is behind us. Since we can't conduct mobile warfare, all we can do now is hold the line. And believe me, half an hour is a pretty optimistic estimate.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Then how will you divide our forces?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:I recommend that the AR Team take the coastal artillery. +If there are enemy forces in the base, then the guns will be defended.+Even if nobody is manning them, the Military will surely have the same idea as us and will be seeking to secure their heavy firepower.+With that in mind, the AR Team's superior ability in cracking strongpoints will be more useful there.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:I think so too. The members of Squad 404 are all skilled in infiltration and electronic warfare. If there are any enemies at the quarantine wall, I think we won't want to raise the alarm too soon.
-()<Speaker>Commander</Speaker>||:What do you think, UMP45?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:I'm more than happy to take on the easier mission, but I hope the members of the AR Team don't mess up on their end, in particular "Miss Dandelion" over there.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Thank you for the reminder, Miss UMP45. +Also, you listened to M4's story with such obvious relish, but might I remind you that the story isn't exactly irrelevant to you.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:What are you getting at?
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:What once happened to Lunasia might happen to you at the origin of the Pike core.+Take care that you don't drown in the memories of your base layer. You don't have someone in your neural cloud who can save you the way I saved Lunasia.+After all, your little friend is just too weak, unlike myself.
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...По окончании разговора с Хавьером Командир возвращается в командный пункт поезда.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Что сказал господин Хавьер?
+()<Speaker>Командир</Speaker>||:Тебе лучше этого не знать, но ему всё-таки удалось меня убедить. +Приступим к операции.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:WИтак, мы сейчас направляемся к базе?
+()<Speaker>Командир</Speaker>||:Нет... мы не знаем, что происходит внутри базы, и нам придет конец, если мы бездумно ворвемся туда и попадем в западню. Прежде чем двигаться дальше, мы должны проверить наш следующий план действий.+404 и Команда AR готовы к выходу?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Они завершили пополнение запасов.
+()<Speaker>Командир</Speaker>||:Хорошо. Соедини меня с ними.
+()||:Калина устанавливает связь и показывает Командиру большой палец вверх.
+()<Speaker>Командир</Speaker>||<黑点1>:Команда AR, отряд 404, вы меня слышите?
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑点2>:Чётко и ясно, Командир.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Я слышу тебя.
+()<Speaker>Командир</Speaker>||:Наш поезд прибыл на место. Я уже отправил вам план боевых действий, три различных запасных плана и голографическую карту, предоставленную Данделион. +Наша конечная цель — захватить базу, и для того, чтобы взять её под контроль, нам нужно проникнуть на территорию с окраины. Пока что я не знаю, какова обстановка внутри базы, и мы не можем позволить нашим основным силам попасть в зону действия её систем обороны. +Сначала нам нужно соединиться с членами DEFY и найти способ открыть входные ворота. Затем нам нужно будет обеспечить контроль над воротами и убедиться в их безопасности. +Одновременно мы будем вести разведку текущего состояния береговой артиллерии. +Наша главная цель там — захватить контроль над береговыми орудиями, чтобы они могли обеспечить огневую поддержку нашим войскам. +Если нам не удастся их захватить, то запасной план заключается в их уничтожении, чтобы береговая артиллерия не смогла обстреливать наши войска.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Как нам поступить с преследующими нас Военными?
+()<Speaker>Командир</Speaker>||:Все силы Грифона, кроме вас, будут формировать здесь линию обороны. Согласно результатам нашего предыдущего моделирования, мы сможем удержаться в течение получаса, если Военные начнут полномасштабное наступление. +Другими словами, это ваш оперативный срок.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Полчаса… Это уже на грани.
+()<Speaker>Командир</Speaker>||:Ворота, ведущие к подземной базе, остались позади нас. Поскольку мы не можем вести мобильные боевые действия, сейчас нам остается только удерживать позиции. И поверьте, полчаса — это довольно оптимистичная оценка.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Тогда как ты разделишь наши силы?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Я предлагаю, чтобы Команда AR занялась прибрежной артиллерией. +Если на базе находятся вражеские силы, то эти орудия должны быть защищены.+Даже если они не укомплектованы личным составом, Военные наверняка придут к тому же выводу, что и мы, и будут стремиться обеспечить себе эту мощную огневую поддержку.+Учитывая это, превосходные навыки Команды AR в захвате укреплённых позиций окажутся там более полезными.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Я тоже так думаю. Все члены отряда 404 — мастера проникновения и радиоэлектронной борьбы. Если у карантинной стены есть враги, думаю, нам не стоит слишком рано поднимать тревогу.
+()<Speaker>Командир</Speaker>||:Что думаешь, UMP45?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Я с удовольствием возьму на себя более простую миссию, но надеюсь, что члены Команды AR не напортачат со своей стороны, в частности, та «Мисс Данделион», что вон там.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Спасибо за напоминание, мисс UMP45. +Кстати, вы с таким явным удовольствием слушали рассказ M4, но позвольте напомнить, что эта история имеет к вам не совсем прямое отношение.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:К чему ты клонишь?
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:То, что когда-то случилось с Лунасией, может произойти и с тобой у истоков узла системы Щука.+Будь осторожна, чтобы не утонуть в воспоминаниях своего базового слоя. В твоём нейронном облаке нет никого, кто мог бы спасти тебя так, как я спасла Лунасию.+В конце концов, твоя маленькая подруга просто слишком слаба, в отличие от меня.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:...!
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:The networked consciousness in that base is much stronger than the one in Tallinn. I hope you're prepared to leave the labyrinth by yourself.
-NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker>||:That's enough, Dandelion.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:I'm sorry, 45. I'll keep her on a tight leash. +Please don't take it to heart.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Сетевое сознание на этой базе гораздо сильнее, чем в Таллинне. Надеюсь, ты готова самостоятельно выйти из лабиринта.
+NytoIsomer(4);M4A1Mod(4)<Speaker>M4A1</Speaker>||:Хватит, Данделион.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Извини, 45-я. Я буду держать её на коротком поводке. +Пожалуйста, не принимай это близко к сердцу.
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:...
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Also, I recommend that you disallow me from taking part in the coastal defense artillery capture operation.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Why?
-()<Speaker>Commander</Speaker>||:I thought you wanted to plaster yourself to M4.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Please do not phrase it in such...undignified terms.+If your train is taken by the Military, there will be no way to continue this operation.+In addition, the Military will surely assault our defense line with ferocious firepower and mechanized units.+Even if we only have to defend a front that is 2.5 km long, it will still be a tremendously difficult task, given Griffin's present strength.
-()<Speaker>Commander</Speaker>||:What do you suggest?
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:I will stay here to provide support for the Zener Network and strengthen the Dolls' combat processing abilities, as well as accepting the neural clouds of the fallen Dolls.+I can also attempt to hack any Military autonomous units that come our way. If we can turn them to our side, it will greatly reduce the pressure on the frontlines.
-()<Speaker>Commander</Speaker>||:M4, what do you think?
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:I believe I have no reason to refuse.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:While you are carrying out the operation, I will still be linked to your neural cloud, and I will share all my thoughts with you, M4. +As for you, Miss 45, I can provide support to your neural cloud's base layer as well, if you are willing to grant me access to it.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Thanks for your concern, but it won't be necessary.
-()<Speaker>Commander</Speaker>||:It's decided, then. Dandelion will stay on the armored train to support the defense line against the Military, while the other teams carry out their respective missions.+One thing I should add; after you complete your missions, the rest of the Dolls and this train will pass through the quarantine wall and enter the base.+On the one hand, it will allow us to occupy a better defensive position. On the other hand, we need to lure the Military into the base.+The sooner you finish your mission, the sooner we can get out of this kill zone.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Received.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Roger.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Without further ado, the AR Team will be heading out. End transmission.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Humph. Squad 404 is moving off too. UMP45 out.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||<黑屏2>:Commander, both teams are getting ready to move out.+Since both objectives are quite a distance away from us, I've assigned them the still-functional vehicles aboard the armored train. +If they don't run into any resistance, they should reach their destinations in about 10 minutes' time.
-()<Speaker>Commander</Speaker>||:IF they don't meet resistance... We've got better odds of winning the grand prize in the state lottery. How's our force disposition?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:All echelons are in position. They're building fortifications and distributing ammunition. That ought to take another five minutes or so.+However, the enemy armored trains have pulled out of Tallinn during our journey here.
-()<Speaker>Commander</Speaker>||:Which means...a time difference of exactly five minutes. 
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Yes... Our forces can only build simple defenses, and we can take cover behind some hillocks near the bay, but all we have by the lake are a bunch of old houses. One round of bombardment and they'll be useless as cover.
-()<Speaker>Commander</Speaker>||:I understand. Have our Dolls dig in as deeply as possible... The Military's going to take advantage of their superior firepower, but we need to buy as much time for those two teams as possible.+Have our minelayer drones carpet the main approach to our defensive line, so we can station fewer echelons there. After that, rig the railway line with explosives. That ought to keep their trains stopped outside for a little longer. +The enemy is going to try to break through our flanks, and we don't have enough Dolls to mount a defense in depth. If they can hit the train from behind, it's check and mate for us.+Keep our most potent echelons on the flanks, and make sure they have fall-back points and decoy positions.+How many backup echelons do we have?
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:We have five more, but they don't have their full complement of Dummies... Our repair bays can't fix that many damaged Dolls so soon.
-()<Speaker>Commander</Speaker>||:About 100 Dolls or so... Have them prepare to plug any breaches.+Issue a top priority order to each echelon - they are NOT to let the Military through until the other two teams complete their mission.+However...make sure they're ready to retreat at any time. They are to withdraw to the train the moment when we give the word.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:Commander... I still think we should withdraw to the quarantine walls to mount our defense. We'll take heavy losses if we set up in open terrain.
-()<Speaker>Commander</Speaker>||:What if there's an ambush at the walls? We have five minutes of reaction time; if there are enemies at the walls, are you confident that we can take control of the walls in that time?+K and Ange haven't replied ever since they snuck into the base, and I'm very worried about their situation.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:...
-()<Speaker>Commander</Speaker>||:It's not my intent to have us set up in the open to get beaten up for nothing. Right now, we need to wait and endure. +I know this is a gamble, but it's the only option we have.+After that, we pray those two teams will give us good news.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:I understand, Commander... I'm issuing each echelon their respective tasks now.
-()<Speaker>Commander</Speaker>||<黑屏1>:Yeah... +I'm sorry, everyone. I hope you can forgive me... +Right now, we've got no way out. We need to win, no matter how great the cost.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Кроме того, я рекомендую не допускать меня к участию в операции по захвату артиллерийских позиций береговой обороны.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Почему?
+()<Speaker>Командир</Speaker>||:Я думал, ты хочешь приклеиться к M4.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Пожалуйста, не пользуйтесь такими… недостойными выражениями.+Если ваш поезд захватят Военные, продолжить эту операцию будет невозможно.+Кроме того, Военные наверняка нанесут удар по нашей линии обороны, задействовав мощный огневой удар и механизированные подразделения.+Даже если нам придется оборонять фронт длиной всего 2,5 км, это все равно будет чрезвычайно сложной задачей, учитывая нынешнюю мощь Грифона.
+()<Speaker>Командир</Speaker>||:Что ты предлагаешь?
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Я останусь здесь, чтобы поддерживать сеть Зенер и укреплять боевые возможности Кукол, а также принимать нейронные облака погибших Кукол.+Кроме того, я могу попытаться взломать любые автономные боевые единицы, которые появятся на нашем пути. Если нам удастся переманить их на нашу сторону, это значительно снизит нагрузку на передовую.
+()<Speaker>Командир</Speaker>||:M4, а ты что думаешь?
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Полагаю, у меня нет причин для отказа.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Пока ты будешь выполнять операцию, я по-прежнему буду подключна к твоему нейронному облаку и буду делиться с тобой всеми своими мыслями, M4. +Что касается тебя, мисс 45-я, я также могу обеспечить поддержку базового уровня твоего нейронного облака, если ты готова предоставить мне к нему доступ.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Спасибо за беспокойство, но в этом нет необходимости.
+()<Speaker>Командир</Speaker>||:Значит, решено. Данделион останется в бронированном поезде, чтобы поддерживать линию обороны против Военных, пока остальные команды будут выполнять свои задания.+Хочу добавить ещё одно: после того как вы выполните свои задания, остальные Куклы и этот поезд пройдут через карантинную стену и войдут на базу.+С одной стороны, это позволит нам занять более выгодную оборонительную позицию. С другой стороны, нам нужно заманить Военных на базу.+Чем быстрее вы завершите свою миссию, тем быстрее мы сможем выбраться из этой зоны боевых действий.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Принято.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ясненько.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Не откладывая на потом, Команда AR отправляется. Конец связи.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Хм. Отряд 404 тоже выдвигается. UMP45, конец связи.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||<黑屏2>:Командир, обе команды готовятся к выходу. +Поскольку обе цели находятся на значительном расстоянии от нас, я выделила им исправные средства передвижения, находящиеся на борту бронированного поезда. +Если они не встретят сопротивления, то должны добраться до места назначения примерно через 10 минут.
+()<Speaker>Командир</Speaker>||:ЕСЛИ они не встретят сопротивления... У нас больше шансов выиграть главный приз в государственной лотерее. Как обстоят дела с расстановкой наших сил?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Все эшелоны заняли свои позиции. Они возводят укрепления и распределяют боеприпасы. На это уйдет ещё примерно пять минут.+Однако пока мы сюда добирались, бронепоезда противника покинули Таллинн.
+()<Speaker>Командир</Speaker>||:То есть… разница во времени составляет ровно пять минут. 
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Да... Наши войска могут соорудить лишь простые укрепления, и мы можем укрыться за несколькими холмами возле залива, но у самого озера у нас есть лишь несколько старых домов. Один залп артиллерии — и они перестанут служить укрытием.
+()<Speaker>Командир</Speaker>||:Понял. Пусть наши Куклы закрепляются как можно глубже… Военные, конечно, воспользуются своей превосходящей огневой мощью, но нам нужно выиграть как можно больше времени для этих двух команд.+Пусть наши ударные беспилотники заложат мины по всему главному подходу к нашей оборонительной линии, чтобы нам пришлось выставлять там меньше эшелонов. После этого заминируем железнодорожную линию. Это должно задержать их поезда снаружи ещё на некоторое время. +Враг будет пытаться прорвать наши фланги, а у нас не хватает Кукол, чтобы организовать глубокую оборону. Если им удастся атаковать поезд с тыла, нам конец.+Держи наши самые сильные эшелоны на флангах и убедись, что у них есть точки отступления и ложные позиции.+Сколько у нас резервных эшелонов?
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:У нас ещё есть пять, но у них не полный комплект Болванок… Наши ремонтные цеха не смогут так быстро починить столько повреждённых Кукол.
+()<Speaker>Командир</Speaker>||:Где-то около 100 Кукол... Пусть готовятся затыкать любые прорывы. + Отдай приказ с высшим приоритетом каждому эшелону — они НЕ должны пропускать Военных, пока две другие команды не выполнят свою миссию. + Однако... убедись, что они готовы к отступлению в любой момент. Они должны отступить к поезду, как только мы дадим команду.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Командир... Я по-прежнему считаю, что нам стоит отступить к карантинным стенам, чтобы организовать оборону. Если мы будем держаться на открытой местности, то понесем серьёзные потери.
+()<Speaker>Командир</Speaker>||:А что, если у стен нас поджидает засада? У нас есть пять минут на реакцию, если устены враги, уверена, что мы сможем взять их под контроль за это время? +Kо и Анже не отвечают с тех пор, как пробрались на базу, и я очень переживаю за них.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:...
+()<Speaker>Командир</Speaker>||:Я не хочу, чтобы мы выставляли себя на всеобщее обозрение и получали по морде просто так. Сейчас нам нужно просто ждать и терпеть. +Я знаю, что это риск, но у нас нет другого выбора.+ А потом будем молиться, чтобы эти две команды принесли нам хорошие новости.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:Понял, Командир... Сейчас распределю задания по каждому эшелону.
+()<Speaker>Командир</Speaker>||<黑屏1>:Да... +Простите меня, девчата. Надеюсь, вы меня простите... +Сейчас у нас нет выхода. Нам нужно победить, чего бы это ни стоило.
