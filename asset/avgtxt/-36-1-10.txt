@@ -1,44 +1,44 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Danger</BGM>:Inside the command room.
-NPC-Kalin(4)<Speaker>Kalina</Speaker>||:Commander, the Military armored units have begun their assault on the northern defense line! +It's a saturation attack, our HOCs can't stop them!+Losses to our frontline Doll echelons are over 85%!
-NPC-Kalin(4)<Speaker>Commander</Speaker>||:We're just too weak, huh...+Dandelion, can you have the northern echelons fall back to our train?+If their armored units flank this train, then we're done for.
-NPC-Kalin(4);NytoIsomer(3)<Speaker>Dandelion</Speaker>||:I'm relaying orders now and reorganizing our remaining forces in the most optimal manner.+Also, the backup Dolls have pinpointed the location of the armored units. They are not trying to approach the train's position. +Their objective is probably the coastal gun platforms. Once they break through our lines, they'll probably head for it at full speed. 
-NPC-Kalin(4);NytoIsomer(3)<Speaker>Commander</Speaker>||:That's worse than if they were headed right for us...+Send this news to the AR Team. Make sure they know they have to reach the shore guns before the Military!
-NPC-Kalin(4);NytoIsomer(3)<Speaker>Dandelion</Speaker>||:Attempting to contact them.
-NPC-Kalin(4);NytoIsomer(3)<Speaker>Commander</Speaker>||:How's Squad 404? Have they still not found a way open the main gate?
-NPC-Kalin(4)<Speaker>Kalina</Speaker>;NytoIsomer(3)||:They're still running silent...
-NPC-Kalin(4)<Speaker>Commander</Speaker>;NytoIsomer(3)||:Continue to monitor their transmissions. We'll move once we get word from them.+(Sighs) I told them we could hold out for 30 minutes, but it's only been 10 minutes...+We're sitting ducks here until that gate opens!
-NPC-Kalin(7)<Speaker>Kalina</Speaker>;NytoIsomer(3)||:Commander...
-NPC-Kalin(7);NytoIsomer(3)<Speaker>Dandelion</Speaker>||:Commander, the ECCM is effective; our comms have been partially restored.
-NPC-Kalin(7);NytoIsomer(3)<Speaker>Commander</Speaker>||:Have the northern echelons begun withdrawing?
-NPC-Kalin(7);NytoIsomer(3)<Speaker>Dandelion</Speaker>||:They're trying to regroup, but there's a sustained barrage targeted at them.+Also, the southern defense line is taking a second round of attacks. The enemy's human infantry are moving up and there are no autonomous units to hack.+Losses on the southern line are up to 70%. Should we order them to continue fighting?
-NPC-Kalin(7);NytoIsomer(3)<Speaker>Commander</Speaker>||:... +...Have them pull back to the train as well. Instruct the backup teams to prepare for combat.
-NPC-Kalin(7);NytoIsomer(3)<Speaker>Dandelion</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:Yes, Commander.
-()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>BGM_Battle</BGM>:... +In a corner of the battlefield.+The Dolls here are carrying on perfectly normally, as though the gunfire and chaos outside have nothing to do with this place.
-06TypeSMG(0)<Speaker>CF-05</Speaker>||:Girls! Orders from the Commander!
-SL8(2)<Speaker>Gr SL8</Speaker>;06TypeSMG(0)||:Patch them in. +Yes... Understood.
-SL8(2);06TypeSMG(0)<Speaker>CF-05</Speaker>||:Why are you making that face?
-SL8(0)<Speaker>Gr SL8</Speaker>;06TypeSMG(0)||:When the Commander gives orders, you've got to listen solemnly! +Don't worry, everything's still going as planned.+Everyone, prepare to withdraw! Guard your mainframes well, and if need be, use your Dummies as meat shields
-SL8(0);06TypeSMG(0)<Speaker>CF-05</Speaker>||:Right. Everyone, step lively!
-SL8(0);06TypeSMG(0)<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:A gunshot rings out.
-SL8(2)<Speaker>Gr SL8</Speaker>||:...Well, that was fast. Everyone, get ready for battle!
-NPC-Yegor(3)<Speaker>Commando</Speaker>||<黑点1>:I've spotted some remaining Dolls... Everyone, on me!
-M1928A1(0)<Speaker>Thompson</Speaker>||<黑点2>:All forces, retreat!
-M1928A1(0);MAC10(0)<Speaker>Ingram</Speaker>||:We can't! We can't go yet! +Our other echelons are still in their positions!
-MP5(0)<Speaker>Gr MP5</Speaker>;MAC10(0)||:Ingram, now's not the time for heroics. The Commander's given orders!
-MP5(0);MAC10(0)<Speaker>Ingram</Speaker>||:Huh? You want me to go when P7's still in danger?
-MP5(0)<Speaker>Gr MP5</Speaker>;MAC10(0)||:Ingram...you...
-MP5(0);MAC10(0)<Speaker>Ingram</Speaker>||:Give me your Dummies! I'll hold the enemy off!
-M1928A1(0)<Speaker>Thompson</Speaker>;MAC10(0)||:You stay behind, Ingram. Everyone else, give your Dummies to her, then fall back with me.
-MP5(0)<Speaker>Gr MP5</Speaker>;MAC10(0)||:But...
-MP5(0);MAC10(1)<Speaker>Ingram</Speaker>||:That's more like it. Thanks, boss.
-MP5(0)<Speaker>Gr MP5</Speaker>||:Are we going to abandon Ingram? +Are we...going to abandon everyone else?
-M1928A1(0)<Speaker>Thompson</Speaker>||:Don't let Ingram's sacrifice go to waste. +All we can do is repay her in the end by winning.
-()<Speaker></Speaker>||:Ingram doesn't look back at her teammates as they retreat.+She rubs her tired eyes and leads the remaining Dummies towards the Military commandos—
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM><SE1>Gunfight</SE1>:More gunshots.
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2>:Inside the train's command room.
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||:Commander...there are fewer and fewer echelons capable of responding to us at the forward defense line... +And the Military units are now within two kilometers of us.
-NPC-Kalin(7)<Speaker>Commander</Speaker>||:Activate the train's defensive weapons. Let the enemy vanguard past, then interdict the battlefield. Do your best to cover the retreating echelons. +Commit all of our reserves, have them block the enemy forces along with the retreating echelons.
-NPC-Kalin(7);NytoIsomer(5)<Speaker>Dandelion</Speaker>||:Our train is almost out of ammunition.
-NPC-Kalin(7);NytoIsomer(5)<Speaker>Commander</Speaker>||:...I know. +Still no word from 404?
-NPC-Kalin(7)<Speaker>Kalina</Speaker>;NytoIsomer(5)||<黑屏1><BGM>BGM_Empty</BGM>:Not yet... Come on, Miss 45... Please, hurry up!
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Danger</BGM>:В командном пункте.
+NPC-Kalin(4)<Speaker>Калина</Speaker>||:Командир, Военные бронетанковые боевые единицы начали штурм северной линии обороны! +Это атака по принципу перегрузки, наши ГОгПы не могут их остановить!+ Потери в наших передовых эшелонах Кукол превышают 85%!
+NPC-Kalin(4)<Speaker>Командир</Speaker>||:Мы просто слишком слабы, да... +Данделион, можешь ли ты отвести северные эшелоны к нашему поезду? +Если их бронетанковые подразделения обойдут этот поезд с фланга, нам конец.
+NPC-Kalin(4);NytoIsomer(3)<Speaker>Данделион</Speaker>||:Сейчас я доношу приказы и перегруппировываю оставшиеся силы наиболее оптимальным образом. +Кроме того, Куклы поддержки точно определили местонахождение бронетехники. Они не пытаются приблизиться к позиции поезда. +Вероятно, их цель — прибрежные артиллерийские установки. Как только они прорвут наши линии, скорее всего, направятся туда на полной скорости.
+NPC-Kalin(4);NytoIsomer(3)<Speaker>Командир</Speaker>||:Это хуже, чем если бы они направлялись прямо на нас... +Отправьте эту новость Команде AR. Убедитесь, что они знают: им нужно добраться до береговых орудий раньше Военных!
+NPC-Kalin(4);NytoIsomer(3)<Speaker>Данделион</Speaker>||:Пытаюсь с ними связаться.
+NPC-Kalin(4);NytoIsomer(3)<Speaker>Командир</Speaker>||:Как дела у отряда 404? Они до сих пор не нашли способ открыть главные ворота?
+NPC-Kalin(4)<Speaker>Калина</Speaker>;NytoIsomer(3)||:Они по-прежнему действуют незаметно...
+NPC-Kalin(4)<Speaker>Командир</Speaker>;NytoIsomer(3)||:Продолжайте отслеживать их передачи. Мы начнём действовать, как только получим от них сигнал.+(Вздыхает) Я говорил им, что мы сможем продержаться 30 минут, но прошло всего лишь 10...+Пока эти ворота не откроются, мы здесь — легкая мишень!
+NPC-Kalin(7)<Speaker>Калина</Speaker>;NytoIsomer(3)||:Командир...
+NPC-Kalin(7);NytoIsomer(3)<Speaker>Данделион</Speaker>||:Командир, система ECCM работает; связь частично восстановлена.
+NPC-Kalin(7);NytoIsomer(3)<Speaker>Командир</Speaker>||:Начался ли отход северных эшелонов?
+NPC-Kalin(7);NytoIsomer(3)<Speaker>Данделион</Speaker>||:Они пытаются перегруппироваться, но на них обрушивается непрерывный обстрел.+Кроме того, южная линия обороны подвергается второй волне атак. Пехота противника продвигается вперёд, а автономных юнитов, которые можно взломать, нет.+Потери на южной линии достигают 70 %. Стоит ли отдать приказ продолжать бой?
+NPC-Kalin(7);NytoIsomer(3)<Speaker>Командир</Speaker>||:... +...Пусть они тоже отступят к поезду. Дайте указание резервным подразделениям приготовиться к бою.
+NPC-Kalin(7);NytoIsomer(3)<Speaker>Данделион</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:Да, Командир.
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>BGM_Battle</BGM>:... +В углу поля битвы.+Здешние Куклы ведут себя совершенно обычно, словно стрельба и хаос снаружи не имеют к этому месту никакого отношения.
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:Девочки! Приказ от Командира!
+SL8(2)<Speaker>Gr SL8</Speaker>;06TypeSMG(0)||:Подключите их. +Да... Поняла.
+SL8(2);06TypeSMG(0)<Speaker>CF-05</Speaker>||:Почему ты так корчишь рожицу?
+SL8(0)<Speaker>Gr SL8</Speaker>;06TypeSMG(0)||:Когда Командир отдает приказ, нужно внимательно слушать! +Не волнуйтесь, всё идёт по плану.+Все, готовьтесь к отступлению! Тщательно охраняйте свои мэйнфреймы, а в случае необходимости используйте свох Болванки в качестве живого щита
+SL8(0);06TypeSMG(0)<Speaker>CF-05</Speaker>||:Ладно. Все, быстрее!
+SL8(0);06TypeSMG(0)<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:Раздаётся выстрел.
+SL8(2)<Speaker>Gr SL8</Speaker>||:...Ну, это было быстро. Все, готовьтесь к бою!
+NPC-Yegor(3)<Speaker>Commando</Speaker>||<黑点1>:Я заметила несколько оставшихся Кукол… Все, за мной!
+M1928A1(0)<Speaker>Thompson</Speaker>||<黑点2>:Всем подразделениям — отступать!
+M1928A1(0);MAC10(0)<Speaker>Ingram</Speaker>||:Нельзя! Мы пока не можем уходить! +Наши остальные эшелоны всё ещё находятся на своих позициях!
+MP5(0)<Speaker>Gr MP5</Speaker>;MAC10(0)||:Ingram, сейчас не время для героизма. Командир отдал приказ!
+MP5(0);MAC10(0)<Speaker>Ingram</Speaker>||:Что? Ты хочешь, чтобы я уходила, когда P7 всё ещё в опасности?
+MP5(0)<Speaker>Gr MP5</Speaker>;MAC10(0)||:Ingram...ты...
+MP5(0);MAC10(0)<Speaker>Ingram</Speaker>||:Отдайте мне свои Болванки! Я сдержу врага!
+M1928A1(0)<Speaker>Thompson</Speaker>;MAC10(0)||:Ты остаешься, Ingram. Все остальные — отдайте ей свои Болванки, а потом отходите со мной.
+MP5(0)<Speaker>Gr MP5</Speaker>;MAC10(0)||:Но...
+MP5(0);MAC10(1)<Speaker>Ingram</Speaker>||:Вот это уже лучше. Спасибо, шеф.
+MP5(0)<Speaker>Gr MP5</Speaker>||:Мы что, бросим Ingram? +А... всех остальных тоже бросим?
+M1928A1(0)<Speaker>Thompson</Speaker>||:Не дайте жертве Ingram пропасть даром. +Всё, что мы можем сделать, — это в конце концов отплатить ей победой.
+()<Speaker></Speaker>||:Ingram не оглядывается на своих товарищей по команде, которые отступают.+Она потирает уставшие глаза и ведёт оставшихся Болванки к Военным коммандос —
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM><SE1>Gunfight</SE1>:Еще несколько выстрелов.
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2>:Внутри диспетчерской кабины поезда.
+NPC-Kalin(7)<Speaker>Калина</Speaker>||:Командир... на передовой линии обороны остаётся всё меньше и меньше эшелонов, способных отреагировать на наши действия... +А боевые единицы сейчас находятся в пределах двух километров от нас.
+NPC-Kalin(7)<Speaker>Командир</Speaker>||:Активируйте оборонительные системы поезда. Пропустите авангард противника, а затем перекройте путь к полю боя. Сделайте всё возможное, чтобы прикрыть отступающие колонны. +Задействуйте все наши резервы, пусть они вместе с отступающими колоннами блокируют продвижение вражеских сил.
+NPC-Kalin(7);NytoIsomer(5)<Speaker>Данделион</Speaker>||:У нашего поезда почти закончились боеприпасы.
+NPC-Kalin(7);NytoIsomer(5)<Speaker>Командир</Speaker>||:...Я знаю. +От 404 до сих пор никаких новостей?
+NPC-Kalin(7)<Speaker>Калина</Speaker>;NytoIsomer(5)||<黑屏1><BGM>BGM_Empty</BGM>:Пока нет... Давай же, мисс 45-я... Пожалуйста, поторопись!
