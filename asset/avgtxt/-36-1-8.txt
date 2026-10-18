@@ -1,28 +1,28 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<speaker></speaker>||<黑屏2><BIN>9</BIN><BGM>10056</BGM>:The choke point eight kilometers away from Paldiski Base is filled with clouds of gun smoke and the flames of cannonfire.+The earth rumbles...+The Dolls frantically scramble into their trenches to avoid the blasts and shrapnel as shells rain down on them...+And as for the Dolls who have already fallen, the repeated explosions blast their parts in all directions.+The blizzard whipping through the Estonian sky is a sign of the Military's victory.
-()<Speaker>Military Trooper</Speaker>||:Sir, we've finished a round of effective fire from the train guns.
-()<speaker></speaker>||:After the soldier delivers his report to his squad leader, the latter takes up his binoculars and observes the point of impact.+Griffin's recon teams were spotted moving around there several minutes ago, but after a few rounds of fire, they no longer blacken his line of sight.
-()<Speaker>Military Officer</Speaker>||:Carry on. The enemy is hunkering down in the choke point. Give them another full volley.
-()<Speaker>Military Trooper</Speaker>||:Understood.
-()<Speaker>Military Officer</Speaker>||:Quartz, this is Hematite. The attack order has been given. Enemy coordinates are PE-454-321-12. Begin a creeping barrage in 20 seconds and bombard those coordinates for 15 minutes.
-()<Speaker>Commando</Speaker>||<黑屏1>:<color=#00CCFF>Quartz receives, preparing to execute. Over. </color>
-()<speaker></speaker>||<黑屏2><BIN>99</BIN><BGM>BGM_Empty</BGM>:At the Griffin lines.
-AAT52(0)<Speaker>AAT-52</Speaker>||<BGM>10065</BGM>:Aren't they done firing yet?!
-MK2(0)<Speaker>STEN MkII</Speaker>||:Don't raise your head! That's why I told you to dig the trenches deeper!
-AAT52(0)<Speaker>AAT-52</Speaker>||<黑点1>:You worked me so hard I thought I would run out of power before the enemy even showed up!
-()<speaker></speaker>||<黑点2><BIN>99</BIN>:Meanwhile, Thompson, who has been separated from the others, is desperately trying to find her teammates.
-M1928A1(0)<Speaker>Thompson</Speaker>||:Group B to all Squad B members, recon team reports enemy forces approaching, get to battle stations ASAP and carry out the defense plan.
-M1928A1(0)<Speaker>Thompson</Speaker>||<黑点1>:I repeat, enemy forces approaching,  get to battle stations ASAP and carry out the defense plan.+God dammit, why did comms have to cut out now of all times...
-()<speaker></speaker>||<黑点2>:AAT-52 and STEN MkII are lost on the other end of the battlefield.
-AAT52(0)<Speaker>AAT-52</Speaker>||:The shells are still flying!+Where's our team leader?
-MK2(0)<Speaker>STEN MkII</Speaker>;AAT52(0)||:There's no response from the comms...
-MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||:Are we the only ones left...? Quick, look for Dummies that have lost their mainframes; we can't let the defense line crumble on our watch!
-MK2(0)<Speaker>STEN MkII</Speaker>;AAT52(0)||:Yeah...I'm coming!
-MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||:Hurry! Hurry! Jump in!+The enemy really is closing in... We need to stick to the plan and let them pass over our heads...
-MK2(0)<Speaker>STEN MkII</Speaker>;AAT52(0)||:We're pretty well concealed here, but...+But if they find us...we won't even have the chance to return fire...
-MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||<黑屏1>:This is the Commander's plan... It's sure to succeed!+Once those bastards show us their backs...I'm going to make them pay for what they did to Leader!
-()<Speaker>Mobile Team 3 Member</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:<color=#00CCFF>Quartz to Hematite, we're at the designated location. No enemies in sight and scans are being disrupted. Should we proceed? Over.</color>
-()<Speaker>Military Officer</Speaker>||<BGM>10254</BGM>:This is Hematite, the enemy might have set up an ambush; proceed with caution. Over.
-()<Speaker>Commando</Speaker>||:<color=#00CCFF>Quartz copies, unit positions have been adjusted. Autonomous units are conducting reconnaissance, feel free to request fire support as needed. Over.</color>
-()<Speaker>Military Officer</Speaker>||:Hematite copies, please await fire support request. Over.
-()<Speaker>Commando</Speaker>||<黑屏1>:<color=#00CCFF>Copy that, commencing operation.</color>
+()<speaker></speaker>||<黑屏2><BIN>9</BIN><BGM>10056</BGM>:Узкое место в восьми километрах от базы Палдиски заполнено облаками порохового дыма и пламенем пушечных выстрелов.+Земля гудит...+Куклы в панике бросаются в окопы, спасаясь от взрывов и осколков, пока на них сыпется град снарядов... +А те из Кукол, кто уже пал, разрываются на части под действием повторяющихся взрывов, разбрасывая их во все стороны.+Метель, бушующая в эстонском небе, — знак победы Военных.
+()<Speaker>Военный артиллерист</Speaker>||:Сэр, мы завершили серию точечных выстрелов из пушек поезда.
+()<speaker></speaker>||:После того как солдат доложил командиру взвода, тот взял бинокль и стал наблюдать за местом попадания.+Несколько минут назад в этом районе были замечены разведывательные группы Грифона, но после нескольких залпов они больше не были видны в поле зрения.
+()<Speaker>Военный офицер</Speaker>||:Продолжайте. Враг укрепился в узком месте. Нанесите по нему ещё один залп.
+()<Speaker>Военный артиллерист</Speaker>||:Принято.
+()<Speaker>Военный офицер</Speaker>||:Кварц, это Гематит. Приказ на атаку отдан. Координаты противника: PE-454-321-12. Через 20 секунд начните заградительный огонь и ведите обстрел по указанным координатам в течение 15 минут.
+()<Speaker>Спецназ</Speaker>||<黑屏1>:<color=#00CCFF>Кварц принял, готовлюсь к выполнению. Конец связи. </color>
+()<speaker></speaker>||<黑屏2><BIN>99</BIN><BGM>BGM_Empty</BGM>:На позициях Грифона.
+AAT52(0)<Speaker>AAT-52</Speaker>||<BGM>10065</BGM>:Они что, до сих пор не закончили стрелять?!
+MK2(0)<Speaker>STEN MkII</Speaker>||:Не поднимай голову! Вот почему я тебе и говорила, чтобы ты копала окопы поглубже!
+AAT52(0)<Speaker>AAT-52</Speaker>||<黑点1>:Ты заставила меня так усердно работать, что я думала, что у меня кончатся силы ещё до того, как враг вообще появится!
+()<speaker></speaker>||<黑点2><BIN>99</BIN>:Тем временем Thompson, оказавшаяся в отрыве от остальных, отчаянно пытается найти своих товарищей по команде.
+M1928A1(0)<Speaker>Thompson</Speaker>||:Группа B всем членам отряда B: разведывательная группа сообщает о приближении вражеских сил. Немедленно занять боевые позиции и приступить к выполнению плана обороны.
+M1928A1(0)<Speaker>Thompson</Speaker>||<黑点1>:Повторяю, вражеские силы приближаются,  немедленно занять боевые посты и приступить к выполнению плана обороны. +Чёрт возьми, почему связь прервалась именно сейчас...
+()<speaker></speaker>||<黑点2>:AAT-52 и STEN MkII пропали на другом конце поля боя.
+AAT52(0)<Speaker>AAT-52</Speaker>||:Снаряды всё ещё летят! + Где наш лидер?
+MK2(0)<Speaker>STEN MkII</Speaker>;AAT52(0)||:Связь не восстанавливается...
+MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||:Мы что, остались одни...? Быстрее, ищите Болванки, которые потеряли свои мэйнфреймы, мы не можем допустить, чтобы линия обороны рухнула на нашей смене!
+MK2(0)<Speaker>STEN MkII</Speaker>;AAT52(0)||:Да... Я уже иду!
+MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||:Скорее! Скорее! Запрыгивайте!+Враг уже совсем близко... Нам нужно придерживаться плана и дать им пройти над нашими головами...
+MK2(0)<Speaker>STEN MkII</Speaker>;AAT52(0)||:Здесь мы довольно хорошо замаскированы, но...+Но если они нас обнаружат... у нас даже не будет возможности открыть ответный огонь...
+MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||<黑屏1>:Вот план Командира… Он обязательно увенчается успехом!+Как только эти ублюдки повернутся к нам спиной… я заставлю их поплатиться за то, что они сделали с Лидером!
+()<Speaker>Член мобильной группы № 3</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:<color=#00CCFF>Кварц - Гематиту: мы находимся в указанном месте. В поле зрения нет врагов, а сканирование заглушается. Продолжаем? Конец связи.</color>
+()<Speaker>Военный офицер</Speaker>||<BGM>10254</BGM>:Это Гематит. Возможно, противник устроил засаду; действуйте с осторожностью. Конец связи.
+()<Speaker>Спецназ</Speaker>||:<color=#00CCFF>Получены данные разведки, координаты подразделений скорректированы. Автономные подразделения ведут разведку; при необходимости не стесняйтесь запрашивать огневую поддержку. Конец связи.</color>
+()<Speaker>Военный офицер</Speaker>||:Гематит принял, ждите запроса на огневую поддержку. Конец связи.
+()<Speaker>Спецназ</Speaker>||<黑屏1>:<color=#00CCFF>Понял, приступаю к выполнению задания.</color>
