@@ -1,36 +1,36 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>10051</BGM>:...At the Military staging area.
-NPC-Soldier(0)<Speaker>Mobile Team Leader</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Quartz to Terra, we've succeeded in breaching the quarantine wall. Proceeding with the mission. Over.</color>
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Terra copies. Don't be careless. Over.
-NPC-Soldier(0)<Speaker>Mobile Team Leader</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Copy that. Quartz out.</color>
-()||:Yegor ends the transmission.
-NPC-Yegor(4)<Speaker>Yegor</Speaker>||:How goes the extermination of Griffin?
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker>||:Sir, Griffin is still putting up a fight. +We are attempting to eliminate them without damaging the railway.
-NPC-Yegor(4)<Speaker>Yegor</Speaker>;NPC-Soldier(0)||:It's nothing but pointless resistance. Hammer them, do not let up on the offensive.+Griffin won't be able to hold on for long.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker>||<黑点1>:Sir.
-()<Speaker></Speaker>||<BIN>202</BIN><黑点2><BGM>BGM_Empty</BGM>:...In the train command room.
-()<Speaker>Commander</Speaker>||:How many rounds do we have left for our cannons?
-NPC-Kalin(8)<Speaker>Kalina</Speaker>||:We don't even have enough to fire half a volley!
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:All Dolls have boarded. We can start the train up.
-()<Speaker>Commander</Speaker>||<黑点1><BGM>m_avg_tension</BGM>:Now! +Target the Military units...and give them everything we've got!
-NPC-Yegor(4)<Speaker>Yegor</Speaker>||<SE1>Battlefield</SE1><黑点2><BIN>99</BIN>:Tsk...play your petty tricks while you can.+Main force, fall back to the flanks. That train has not been resupplied and it'll run out of ammo soon.+Also, don't forget our objective... That base is the most important thing here.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>Military Officer</Speaker>||<黑点1>:Understood.
-()<Speaker>Commander</Speaker>||<BIN>202</BIN><黑点2>:Kalina, can we reload for another round?
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||:Commander, we've expended all our ammo.
-()<Speaker>Commander</Speaker>||:Looks like it's time to squeeze the last bit of value out of this train...
-NPC-Kalin(2)<Speaker>Kalina</Speaker>||:Commander...?
-()<Speaker>Commander</Speaker>||:Dandelion, order all Dolls to load all the ammunition they can carry into their personal gear, dump all the ammo they can't outside the train, then have them brace for impact.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:...Commander, there may be no going back if you do this.
-()<Speaker>Commander</Speaker>||:Well, there's a 100% chance we won't be going back if we DON'T do it. Hurry and give the order.
-NPC-Kalin(7)<Speaker>Kalina</Speaker>||:...Commander, don't tell me you're going to...?
-()<Speaker>Commander</Speaker>||:That's right... Sorry, Kalina. I'm going to be selfish once again.
-()||:Kalina gazes at the Commander and sighs. She buckles up her safety belt, then gives a determined nod.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:All Dolls are braced for impact.
-()<Speaker>Commander</Speaker>||:Dandelion, you know what I have in mind.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:For a long time, I couldn't fathom why people had so much faith in you... Now, I think I understand.
-()<Speaker>Commander</Speaker>||<黑屏1>:You flatter me.
-()||<BIN>9</BIN><黑屏2>:Held in place by its brakes, the train shudders from the vibration of its engine. Under Dandelion's control, the train's engine begins to overheat — steam spews from its head, and the entire carriage starts shaking violently.
-()||<黑点1><SE1>AVG_engine_speedup</SE1>:Then, with the sound of tearing metal as the brakes give out, sparks spray from the wheels, and the train roars as it lunges forward at the base. +The train, which should have been decelerating, picks up speed as it nears the quarantine wall. At this rate, it's going to derail at the mouth of the barrier gate, but...
-()||<黑点2><BIN>224</BIN>:Amidst the vigorous shaking, the Commander barely manages to hang on to the railings, muttering as the train rocks harder and harder.
-()<Speaker>Commander</Speaker>||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_brake</SE1>:Come, I'll show you just how hard crushing an insect can be. +As Sun Tzu once said, "On desperate ground, fight!"
-()||<黑屏2><BIN>225</BIN><黑屏1><BGM>BGM_stage7</BGM><SE1>Explode</SE1>:The speeding train jumps its tracks, skidding across the frozen soil before it hits the barrier gate.+The train is well and truly stuck in the gate now...+It is a wordless display of the Commander's will and determination.
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>10051</BGM>:...Военная зона сборного пункта.
+NPC-Soldier(0)<Speaker>Лидер мобильной группы</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Кварц - Терре: нам удалось прорвать карантинную стену. Продолжаем выполнение миссии. Приём.</color>
+NPC-Yegor(4)<Speaker>Егор</Speaker>;NPC-Soldier(0)<scan><通讯框>||:Терра приём. Будьте осторожны. Приём.
+NPC-Soldier(0)<Speaker>Лидер мобильной группы</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Принято. Кварц - конец связи.</color>
+()||:Егор заканчивает трансляцию.
+NPC-Yegor(4)<Speaker>Егор</Speaker>||:Как продвигается уничтожение Грифона?
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Военный офицер</Speaker>||:Сэр, Грифон по-прежнему оказывает сопротивление. +Мы пытаемся уничтожить их, не повредив железную дорогу.
+NPC-Yegor(4)<Speaker>Егор</Speaker>;NPC-Soldier(0)||:Это всего лишь бессмысленное сопротивление. Наносите по ним удары, не сбавляйте натиск.+Грифон не сможет продержаться долго.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Военный офицер</Speaker>||<黑点1>:Сэр.
+()<Speaker></Speaker>||<BIN>202</BIN><黑点2><BGM>BGM_Empty</BGM>:...В диспетчерской поезда.
+()<Speaker>Командир</Speaker>||:Сколько снарядов осталось у нас для пушек?
+NPC-Kalin(8)<Speaker>Калина</Speaker>||:У нас даже не хватает снарядов, чтобы выпустить половину залпа!
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Все Куклы сели в поезд. Можно запускать двигатель.
+()<Speaker>Командир</Speaker>||<黑点1><BGM>m_avg_tension</BGM>:Сейчас! +Нацельтесь на боевые единицы… и обрушьте на них всё, что у нас есть!
+NPC-Yegor(4)<Speaker>Егор</Speaker>||<SE1>Battlefield</SE1><黑点2><BIN>99</BIN>:Тц... Пока можете, продолжайте свои детские выходки. +Основные силы, отходите на фланги. Тот поезд не пополнялся, и у него скоро закончится боеприпасы. +Кроме того, не забывайте о нашей цели... Эта база — самое главное здесь.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>Военный офицер</Speaker>||<黑点1>:Понятно.
+()<Speaker>Командир</Speaker>||<BIN>202</BIN><黑点2>:Калина, можем перезарядить для еще одного выстрела?
+NPC-Kalin(7)<Speaker>Калина</Speaker>||:Командир, у нас закончились боеприпасы.
+()<Speaker>Командир</Speaker>||:Похоже, пришло время выжать из этого поезда последние капли пользы...
+NPC-Kalin(2)<Speaker>Калина</Speaker>||:Командир...?
+()<Speaker>Командир</Speaker>||:Данделион, прикажи всем Куклам загрузить в личное снаряжение столько боеприпасов, сколько они смогут унести, выбросить за пределы поезда всё, что не поместится, а затем прикажи им приготовиться к удару.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:...Командир, если вы это сделаете, пути назад, возможно, уже не будет.
+()<Speaker>Командир</Speaker>||:Ну, если мы этого НЕ сделаем, то вероятность того, что мы туда не вернёмся, равна 100%. Поторопись и отдай приказ.
+NPC-Kalin(7)<Speaker>Калина</Speaker>||:...Командир, только не говорите, что вы собираетесь...?
+()<Speaker>Командир</Speaker>||:Да, верно... Прости, Калина. Я снова поступлю эгоистично.
+()||:Калина смотрит на Командира и вздыхает. Она пристегивает ремень безопасности, а затем решительно кивает головой.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Все Куклы готовы к столкновению.
+()<Speaker>Командир</Speaker>||:Данделион, ты же знаешь, о чём я.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Долгое время я не могла понять, почему люди так в тебя верят… Теперь, кажется, я это поняла.
+()<Speaker>Командир</Speaker>||<黑屏1>:Ты льстишь мне.
+()||<BIN>9</BIN><黑屏2>:Поезд, сдерживаемый тормозами, дрожит от вибрации локомотива. Под управлением Данделиона локомотив начинает перегреваться — из его передней части валит пар, и весь вагон начинает сильно трястись.
+()||<黑点1><SE1>AVG_engine_speedup</SE1>:Затем, под звук рвущегося металла, когда тормоза отказывают, из-под колес брызгают искры, и поезд с ревом устремляется вперед к подножию. +Поезд, который должен был замедляться, набирает скорость по мере приближения к карантинной стене. При таком темпе он сойдет с рельсов у входа в шлагбаум, но...
+()||<黑点2><BIN>224</BIN>:На фоне сильной тряски Командир с трудом удерживается за поручни, бормоча что-то, пока поезд раскачивается всё сильнее и сильнее.
+()<Speaker>Командир</Speaker>||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_brake</SE1>:Пойдем, я покажу тебе, насколько сложно бывает раздавить насекомое. +Как однажды сказал Сунь Цзы: «В безнадежной ситуации сражайся!»
+()||<黑屏2><BIN>225</BIN><黑屏1><BGM>BGM_stage7</BGM><SE1>Explode</SE1>:Мчащийся поезд соскочил с рельсов и, проскользнув по замерзшей земле, врезался в шлагбаум.+Теперь поезд окончательно застрял в шлагбауме...+Это безмолвное проявление воли и решимости Командира.
