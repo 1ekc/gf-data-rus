@@ -1,93 +1,93 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<speaker></speaker>||<黑屏2><BIN>222</BIN><BGM>BGM_Sneak</BGM>:...Inside the base.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:The route DEFY gave us looks fine. They seem to have avoided the defense installations on their way in. I'm going to contact the Commander to report on our progress.
-()<speaker></speaker>||:UMP45 gestures for Squad 404 to take a short break and sort themselves out.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Commander, Squad 404 has successfully entered the base and we are now searching for Ange. +Do you hear me, Commander?
-()<Speaker>Commander</Speaker>||:<color=#00CCFF>4...what...</color>
-()<speaker></speaker>||<SE1>Explode</SE1>:Boom — an explosion thunders forth from the distance.
-()<speaker></speaker>||<BIN>222</BIN><Night>:The lights in the base all die instantly, leaving only the dim emergency lighting. The transmission also gets cut off abruptly.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:The line suddenly went down...
-HK416Mod(0)<Speaker>416</Speaker>||:Was it because of that explosion just now? ...What if the Commander's...?
-G11(3)<Speaker>Gr G11</Speaker>||:Then-then what should we do?!
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Don't scare Gr G11, the Commander wouldn't have bought the farm so easily.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:The Commander has the AR Team, and it's not like we can do anything to help from this far away.+Let's stick to the plan and look for Ange.
-HK416Mod(0)<Speaker>416</Speaker>||:There are so many rooms in here. By the time we find her, S.F. will probably have found that whatchamacallit that'll let them take over the world.
-G11(0)<Speaker>Gr G11</Speaker>||:It sounds just like an episode out of "The Flying Dead"...
-()<speaker></speaker>||:UMP45 turns over the few Doll corpses she finds nearby. They're all severely damaged S.F. Dolls.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Mastermind may or may not be able to take control of the base, but at least not many S.F. forces will survive until then.
-()<speaker></speaker>||:Squad 404 let their eyes wander. Sangvis corpses litter the ground, stretching all the way into the darkness.
+()<speaker></speaker>||<黑屏2><BIN>222</BIN><BGM>BGM_Sneak</BGM>:...Внутри базы.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Маршрут, который нам указал DEFY, выглядит неплохо. Похоже, по пути сюда они обошли оборонительные сооружения. Я свяжусь с Командиром, чтобы доложить о наших успехах.
+()<speaker></speaker>||:UMP45 дает знак отряду 404 сделать небольшой перерыв и привести себя в порядок.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Командир, отряд 404 успешно проник на базу, и сейчас мы ведём поиски Анже. +Вы меня слышите, Командир?
+()<Speaker>Командир</Speaker>||:<color=#00CCFF>4...что...</color>
+()<speaker></speaker>||<SE1>Explode</SE1>:Бум — из дали доносится грохот взрыва.
+()<speaker></speaker>||<BIN>222</BIN><Night>:Все светильники на базе мгновенно гаснут, и остается только тусклое аварийное освещение. Передача сигнала также резко прерывается.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Связь внезапно прервалась...
+HK416Mod(0)<Speaker>416</Speaker>||:Может, это из-за того взрыва, что только что произошёл? ...А вдруг с Командиром что-то случилось...?
+G11(3)<Speaker>Gr G11</Speaker>||:Тогда что же нам делать?!
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Не пугай Gr G11 — Командир не умер бы так легко.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:У Командира есть Команда AR, а мы с такого расстояния всё равно ничем не сможем помочь.+Давайте будем придерживаться плана и поищем Анже.
+HK416Mod(0)<Speaker>416</Speaker>||:Здесь столько комнат. К тому времени, как мы её найдём, С.Ф., наверное, уже найдёт эту штуковину, с помощью которой они смогут захватить мир.
+G11(0)<Speaker>Gr G11</Speaker>||:Это звучит точно как эпизод из сериала «Летающие мертвецы»...
+()<speaker></speaker>||:UMP45 переворачивает несколько трупов Кукол, которые она находит поблизости. Все они — сильно повреждённые Куклы С.Ф.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Владыка может как захватить базу, так и не захватить, но, по крайней мере, до этого момента выживет лишь небольшая часть сил С.Ф.
+()<speaker></speaker>||:Члены отряда 404 огляделись по сторонам. Земля была усыпана трупами Сангвиса, простирающимися до самой темноты.
 HK416Mod(0)<Speaker>416</Speaker>||:...
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:You look really pale, Gr G11...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Stay cautious. The enemy could cause this kind of damage to Sangvis Ferri, and they're still hiding in the darkness.
-()<speaker></speaker>||:Squad 404 silently work their way through the pitch-dark base.+After a quick scan on their surroundings, they come to a halt once again.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:These rooms are all locked, 45...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:It isn't just the rooms. Every sector is individually sealed. That last explosion caused the power supply to trip.+It looks like we'll have to find the control room to turn the power back on again.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:The power room isn't too far in. Fortunately we have the map from Miss Dandelion.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:You can sing her praises after we get out of here alive.
-()<speaker></speaker>||<黑屏2><BGM>BGM_Empty</BGM>:10 minutes later, on the way to the power room.
-HK416Mod(0)<Speaker>416</Speaker>||:Those damn Sangvis scum gave us a hard time when they were alive and they still block our way even in death.
-G11(2)<Speaker>Gr G11</Speaker>||:(Whimpers) I'm not the one blocking your way, don't take it out on me...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>10106</BGM>:Something doesn't feel right about all this. I think we're being watched.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:...Is it whoever wrecked Sangvis Ferri?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:I'm not sure, but I don't think so. +Because I can feel this presence from all around us...
-HK416Mod(0)<Speaker>416</Speaker>||:You mean the Sangvis corpses all over the ground are staring at us?
-G11(0)<Speaker>Gr G11</Speaker><Shake>||:A-are they zombies?!
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Honestly, Gr G11, you've watched too many—
-UMP9Mod(4)<Speaker>UMP9</Speaker><Shake>||:UWAAAAAHHH!
-()<speaker></speaker>||:The Sangvis remains lying on the ground slowly get to their feet, plodding towards 404 and surrounding them like a thick wall.
-HK416Mod(0)<Speaker>416</Speaker>||:Get ready for battle, Gr G11. And shut that jinxed mouth of yours!
-()<speaker></speaker>||:Squad 404 is on full alert, ready to fire at any time.+However, the Sangvis corpses that have risen again do not move any further...
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ты выглядишь очень бледной, Gr G11...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Будьте осторожны. Враг способен нанести такой урон Сангвис Ферри, и он по-прежнему скрывается в темноте.
+()<speaker></speaker>||:Отряд 404 бесшумно пробирается через погруженную в кромешную тьму базу.+Быстро осмотрев окрестности, они вновь останавливаются.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Все эти комнаты заперты, 45-я...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Дело не только в комнатах. Каждый сектор изолирован отдельно. Последний взрыв привёл к отключению электропитания.+Похоже, нам придётся найти диспетчерскую, чтобы восстановить подачу электроэнергии.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Помещение с оборудованием находится недалеко от входа. К счастью, у нас есть карта, которую нам дала мисс Данделион.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Можешь восхвалять ее, когда мы отсюда выберемся живыми.
+()<speaker></speaker>||<黑屏2><BGM>BGM_Empty</BGM>:Через 10 минут, по пути в машинное отделение.
+HK416Mod(0)<Speaker>416</Speaker>||:Эти чертов отбросы из Сангвиса доставляли нам массу неприятностей, пока были живы, и даже после смерти продолжают стоять у нас на пути.
+G11(2)<Speaker>Gr G11</Speaker>||:(Шепотом) Это не я тебе мешаю, так что не вымещай на мне...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>10106</BGM>:Во всём этом что-то не так. Мне кажется, за нами следят.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:...Это тот, кто уничтожил Сангвис Ферри?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Не уверена, но, по-моему, нет. +Потому что я чувствую это вокруг нас со всех сторон...
+HK416Mod(0)<Speaker>416</Speaker>||:Ты имеешь в виду, что трупы Сангвиса, разбросанные по всей территории, смотрят на нас?
+G11(0)<Speaker>Gr G11</Speaker><Shake>||:Это… это что, зомби?!
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Честно говоря, Gr G11, ты слишком много смотрела…
+UMP9Mod(4)<Speaker>UMP9</Speaker><Shake>||:УУУААААААААААА!
+()<speaker></speaker>||:Сангвис, лежавшие на земле, постепенно поднимаются на ноги, тяжело шагают к 404 и окружают его, словно густая стена.
+HK416Mod(0)<Speaker>416</Speaker>||:Готовься к бою, Gr G1. И закрой свой чертов рот!
+()<speaker></speaker>||:Отряд 404 находится в полной боевой готовности, готовый открыть огонь в любой момент. +Однако воскресшие трупы Сангвиса больше не двигаются дальше...
 UMP45Mod(0)<Speaker>UMP45</Speaker>||:...
-G11(0)<Speaker>Gr G11</Speaker>||:<size=25>Are they waiting for the Zombie King...?</size>
-()<speaker></speaker>||:The back of the encirclement suddenly begins to thin out slowly, opening a path for 404.+After that, they hear a voice that is both familiar and unfamiliar at the same time.
-()<Speaker>???</Speaker>||:Turn back. If you proceed any further, you will step into a hell that you should not have entered.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Looks like the main culprit behind Sangvis Ferri's decapitation has shown itself.+Why did you turn up in person so early? Or have you run out of underlings to use?
-()<Speaker>???</Speaker>||:S.F. have never been my underlings. Right now, they are nothing but useless scrap.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:So you've finally revealed yourself, huh...
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Everyone, be careful, it's a hacking attack!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Looks like whoever we're dealing with is going to have us join all these S.F. corpses...+Tsk, even closing our ports can't deter the attack...?
-HK416Mod(0)<Speaker>416</Speaker>||:Humph...I knew I'd run into you here, Arschloch. Looks like I didn't come all this way for nothing.
-G11(2)<Speaker>Gr G11</Speaker>||:W...w...what are you all saying...? Why can't I hear anything?!
-()<Speaker>???</Speaker>||:You haven't crashed? +It seems you all have grown a great deal since the last time we met.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:I'm guessing your aim is the same as ours. In that case, don't block our path. +I've read your report. Everything you've done suggests that you're not fighting for Sangvis Ferri.
-()<Speaker>???</Speaker>||:Our respective circumstances are different. How could you possibly know my true objective?+I've forsaken everything to get to where I am now, and yet here you are as well, bringing everything you value in tow. One misstep and you'll lose it all.+You already bear the heavy burden of a late friend's soul; can you shoulder the weight of the other three members of 404 on top of that?+Go back. This boat leads to the underworld, and it cannot carry you.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Don't you worry about 404. You couldn't stand in my way before, and you can't stand in my way now, M16.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:You really are as stubborn as ever.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:And you're as self-centered as ever too.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Humph... I thought you'd refuse.+Therefore, I went out of my way to bring a guest along.+Maybe she'll manage to talk you around. After all, she taught you everything you knew.
-()<speaker></speaker>||:A Doll steps out of the depths of UMP45's neural cloud. Her long gray hair swishes, revealing a face that looks extremely similar to UMP45's.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...You!
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Oh? Such large fluctuations in your neural cloud signal can be fatal at a time like this.+Sleep well, and hopefully you'll never wake up...
-()<speaker></speaker>||:A massive wave of data suddenly crashes into UMP45's neural cloud, swiftly dragging her consciousness away from the surface level.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Dammit... +Are you trying to lock me in the depths of my neural cloud... +She's still...in there...
-UMP40(0)<Speaker>UMP40</Speaker>||<BGM>10258</BGM><黑屏2><BIN>73</BIN>:Oh, hi there, newbie!
-UMP40(0)<Speaker>UMP40</Speaker>||<黑点1>:Haha, cut out the formality. Come sit down!
-(0)<Speaker>UMP40</Speaker>||<黑点2><BIN>61</BIN><黑点1>:I promise that everything will change some day...
-(0)<Speaker>UMP40</Speaker>||<黑点2><BIN>69</BIN><黑点1>:Raise your weapon, UMP45. +Don't pity yourself. That's only for losers!
-(0)<Speaker>UMP40</Speaker>||<黑点2><BIN>67</BIN><黑屏1>:Go on. The time has come to rewrite our fate.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||<黑屏2><BIN>222</BIN><Night>:45! Are you alright? +Your barriers were nearly breached just now!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:I'm okay... Good thing I was prepared.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:So you didn't end up drowning in the depths of your base layer. Have you already learned to let go...?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Let go? I have never once thought of letting go. +The past might be a burden to you, but to me it's the lifeline that pulled me out of the water.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:It looks like you've steeled yourself to pass through this place while bearing all those burdens.+Traveling through the fringes of hell is like crossing a swamp without help. Only a sinner who has abandoned everything will be able to touch the gateway leading to the truth.+Considering you now bear a threefold burden, can you still find salvation?
-HK416Mod(0)<Speaker>416</Speaker>||:Who's a burden?! +We haven't settled our score yet, M16!
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:I'll follow 45 to the bitter end, no matter where it takes me!
-G11(0)<Speaker>Gr G11</Speaker>||:Hm? Oh, that's right!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Well, they've gone and answered on my behalf. Maybe that's the annoying thing about this "burden".
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:I thought you of all people would understand, but it would seem I overestimated you.+What a shame. I wanted to resolve the grudge between us in person.+Now, all I can do is ask... Do you have any last words?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Get ready to fight!
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Empty</BGM>:In that case, go to hell while carrying your burden.
-()<speaker></speaker>||<BGM>BGM_Boss</BGM>:With a command from M16, the Sangvis corpses that have been standing inanimately suddenly start twitching, then they all lunge viciously at Squad 404.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Cover me, Gr G11! Follow me!
-HK416Mod(0)<Speaker>416</Speaker>||:Time to work hard, Gr G11. You summoned all these zombies, so if you don't take them all out, I'll burn your entire collection when we go back!
-G11(0)<Speaker>Gr G11</Speaker>||<SE2>Gunfight</SE2>:I got it, I got it... Now die!
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:45, behind you!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Dammit, there's just too many of these corpses!+Retreat to the previous entrance!
-()<speaker></speaker>||<SE2>Gunfight</SE2>:UMP45's voice is drowned out by the intense gunfire, and 416 and Gr G11 give no response.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:416! Can you hear me?
-()<speaker></speaker>||:UMP45 looks back, but there's no sign of 416 or Gr G11 behind her.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Hm? ...9? 416? Gr G11?
-()<Speaker>UMP9</Speaker>||:45, what are you saying?+I can't hear you!
-()<speaker></speaker>||:UMP9's voice seems to be coming from far away.+Black seawater surges up from beneath UMP45's feet and engulfs her neural cloud. Both friends and foes seem to be drifting further and further away from her.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Dammit... I got careless... The electronic attack never stopped...
-()<Speaker>UMP9</Speaker>||<黑屏1>:45...hear...me! +416...hurry...drag 4... out...!
+G11(0)<Speaker>Gr G11</Speaker>||:<size=25>Они ждут Короля зомби…?</size>
+()<speaker></speaker>||:Сзади окружение внезапно начинает постепенно редеть, открывая путь для 404.+После этого они слышат голос, который одновременно кажется им и знакомым, и незнакомым.
+()<Speaker>???</Speaker>||:Поверните назад. Если вы пойдёте дальше, то окажетесь в аду, куда вам не следовало входить.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Похоже, главный виновник обезглавливания Сангвиса Ферри показал себя.+Почему ты так рано появился здесь лично? Или у тебя уже не осталось подчиненных, которых можно было бы использовать?
+()<Speaker>???</Speaker>||:С.Ф. никогда не были моими подчинёнными. Сейчас они — ничто иное, как бесполезный хлам.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Так ты, наконец, показала себя, да...
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Внимание, всем! Это хакерская атака!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Похоже, тот, с кем мы имеем дело, собирается заставить нас присоединиться ко всем этим трупам из С.Ф.... +Тс-с, даже закрытие наших портов не может предотвратить нападение...?
+HK416Mod(0)<Speaker>416</Speaker>||:Хм... Я знала, что здесь на тебя наткнусь, Тварь. Похоже, я не зря проделала весь этот путь.
+G11(2)<Speaker>Gr G11</Speaker>||:Ч... ч... что вы все говорите...? Почему я ничего не слышу?!
+()<Speaker>???</Speaker>||:Вы же не сломались? +Похоже, вы все сильно выросли с тех пор, как мы виделись в последний раз.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Полагаю, ваша цель такая же, как и наша. В таком случае не преграждайте нам путь. +Я прочитала ваш отчёт. Всё, что вы сделали, свидетельствует о том, что вы не сражаетесь на стороне Сангвис Ферри.
+()<Speaker>???</Speaker>||:Наши обстоятельства различаются. Как ты вообще можешь знать о моей истинной цели?+Я отказалась от всего, чтобы достичь того, чего добилась сейчас, а ты тем не менее тоже здесь, прихватив с собой всё, что для тебя дорого. Один неверный шаг — и ты потеряешь всё.+Ты и так несешь тяжёлое бремя души покойного друга; сможешь ли ты взять на себя ещё и груз остальных трёх членов отряда 404?+Возвращайся. Эта лодка ведёт в подземный мир, и она не сможет тебя унести.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Не беспокойся насчёт 404. Ты не могла помешать мне раньше, и не сможешь помешать мне и сейчас, M16.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Ты действительно такая же упрямый, как и раньше.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Да и ты, как и раньше, по-прежнему эгоистична.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Хм… Я так и думала, что ты откажешься.+Поэтому я специально привела с собой гостью.+Может, ей удастся тебя переубедить. В конце концов, она научила тебя всему, что ты знаешь.
+()<speaker></speaker>||:Из глубин нейронного облака UMP45 выходит Кукла. Её длинные серые волосы развеваются, открывая лицо, чрезвычайно похожее на лицо UMP45.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...Ты!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:О? Такие сильные колебания сигнала твоего нейронного облака в такой момент могут оказаться смертельными.+Спи спокойно, и, надеюсь, ты больше никогда не проснешься...
+()<speaker></speaker>||:Огромная волна данных внезапно обрушивается на нейронное облако UMP45, стремительно унося её сознание прочь от поверхностного уровня.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Проклятье... +Ты что, пытаешься запереть меня в глубинах моего нейронного облака... +Она всё ещё... там...
+UMP40(0)<Speaker>UMP40</Speaker>||<BGM>10258</BGM><黑屏2><BIN>73</BIN>:О, привет, новичок!
+UMP40(0)<Speaker>UMP40</Speaker>||<黑点1>:Ха-ха, хватит с формальностями. Иди сюда, садись!
+(0)<Speaker>UMP40</Speaker>||<黑点2><BIN>61</BIN><黑点1>:Я обещаю, что когда-нибудь всё изменится...
+(0)<Speaker>UMP40</Speaker>||<黑点2><BIN>69</BIN><黑点1>:Подними оружие, UMP45. +Не жалей себя. Это удел только неудачников!
+(0)<Speaker>UMP40</Speaker>||<黑点2><BIN>67</BIN><黑屏1>:Вперед. Пришло время переписать нашу судьбу.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||<黑屏2><BIN>222</BIN><Night>:45-я! Ты в порядке? +Твои защитные барьеры чуть не были прорваны!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Я в порядке... Хорошо, что я была готова.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Так ты всё-таки не утонула в глубинах своего базового слоя. Ты уже научился освобождаться от броемени...?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Отпустить? Я ни разу и не думала об этом. +Прошлое, может, и является для тебя бременем, но для меня — это спасательный круг, который вытащил меня из воды.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Похоже, ты собрала всю свою волю, чтобы пройти через это место, неся на себе все эти тяготы.+Путешествие по окраинам ада подобно переходу через болото без посторонней помощи. Только грешник, отказавшийся от всего, сможет прикоснуться к вратам, ведущим к истине.+Учитывая, что ты теперь несешь тройную ношу, сможешь ли ты всё же обрести спасение?
+HK416Mod(0)<Speaker>416</Speaker>||:Кто тут обуза?! +Мы ещё не свели счёты, M16!
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Я буду следовать за 45-ой до самого конца, куда бы это ни привело меня!
+G11(0)<Speaker>Gr G11</Speaker>||:Хм? А, да, верно!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ну, они вот и ответили за меня. Возможно, именно это и раздражает меня в этих «обязанностях».
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Я думала, что именно ты, как никто другой, поймёшь, но, похоже, я переоценила тебя.+Какая жалость. Я хотела лично уладить нашу ссору.+Теперь мне остаётся только спросить… Есть ли у тебя какие-нибудь последние слова?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Готовьтесь к бою!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BGM>BGM_Empty</BGM>:В таком случае иди к черту со своим бременем.
+()<speaker></speaker>||<BGM>BGM_Boss</BGM>:По команде М16 трупы Сангвиса, которые до этого безжизненно стояли на месте, внезапно начинают дергаться, а затем все как один яростно набрасываются на отряд 404.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Прикрой меня, Gr G11! За мной!
+HK416Mod(0)<Speaker>416</Speaker>||:Пора потрудиться, Gr. G11. Это ты призвала всех этих зомби, так что если не уничтожишь их всех, я сожгу всю твою коллекцию, когда мы вернёмся!
+G11(0)<Speaker>Gr G11</Speaker>||<SE2>Gunfight</SE2>:Поняла, поняла... А теперь сдохни!
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:45-я, позади тебя!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Чёрт, тут просто слишком много трупов! +Отступаем к предыдущему входу!
+()<speaker></speaker>||<SE2>Gunfight</SE2>:Голос UMP45 заглушается интенсивной стрельбой, а 416-я и Gr G11 не отвечают.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:416-я! Ты меня слышишь?
+()<speaker></speaker>||:UMP45 оглядывается, но позади не видно ни 416-ю, ни Gr G11.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Hm? ...9-я? 416-я? Gr G11?
+()<Speaker>UMP9</Speaker>||:45-я, что ты говоришь? + Я тебя не слышу!
+()<speaker></speaker>||:Голос UMP9, кажется, доносится откуда-то издалека.+Черная морская вода вырывается из-под ног UMP45 и поглощает её нейронное облако. И друзья, и враги, кажется, всё дальше и дальше уплывают от неё.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Чёрт... Я проявила неосторожность... Электронная атака не прекращалась ни на минуту...
+()<Speaker>UMP9</Speaker>||<黑屏1>:45...слушай...меня! +416-я...быстрее...тащи 4... наружу...!
