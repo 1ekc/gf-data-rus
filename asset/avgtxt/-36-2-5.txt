@@ -1,41 +1,41 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<Speaker></Speaker>||<BIN>225</BIN><黑屏2><BGM>10051</BGM>:...
-()<Speaker>Yegor</Speaker>||:What?! +...Alright, you got me good, Griffin Commander.
-()<Speaker>Signaller</Speaker>||:What should we do now, Captain?
-()||<SE1>AVG_tele_connect</SE1>:Beep beep — an encrypted message comes through. +The corner of Yegor's mouth faintly turns up.
-()<Speaker>Yegor</Speaker>||<黑屏1>:I have to admit, you have your tricks. But in cards, the winner takes all, and I'll be the one drawing the joker in the end. +Pull our frontal troops back to a safe distance. +Quartz, I have news for you.
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...In the train command room.
-NPC-Kalin(0)<Speaker>Kalina</Speaker>||:(Coughs)... Commander, are you alright...
-()<Speaker>Commander</Speaker>||:I think all my limbs are still attached and intact... What about Dandelion?
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:I'm fine.
-()<Speaker>Commander</Speaker>||:Looks like luck was on our side...+Dandelion, have the Dolls move into the quarantine wall.+After that, plant explosives in the train's chassis. I'm going to make this train a complete roadblock.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:It seems you are fully determined to not leave this place.
-()<Speaker>Commander</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:If we complete our mission, we'll have all the time to leave...+Looks like those guys outside are still eyeing us. +If the AR Team can take the shore guns, we'll have a chance to crush the Military's forces.+After that, we can take care of the problems within the base.
-()||<BIN>99</BIN><黑屏2><BGM>BGM_Danger</BGM>:Elsewhere... Five minutes ago.
-()||:The AR Team is currently headed toward the coastline.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:How much further till we're there?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:At our current speed, it should take about two more minutes!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:Careful! The Typhon's shooting at us again!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:My grenades aren't getting through at all! How the hell are they so accurate from so far away?!
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Fire off all your grenades at the very least! +Who knows, if we lighten the load, we might go faster!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Hey, is it really alright to take this path?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>:This is a big flat plain with no cover at all! These wind turbines are all we have to protect us from enemy fire!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:There's no time, they've got a vehicle on our tail!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Careful, careful! Those fan blades nearly took my head off!
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Get down from the roof! +It's too dangerous up there!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Floor it! +Once we get to the bunkers, their anti-armor guns won't be able to get us!
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_engine_speedup</SE1>:Got it!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Look, to the right! +It's another Typhon.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:They must really want the coastal defense artillery. RO, we have to speed up!
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_engine_speedup</SE1>:Arghhhhhhh I don't care anymore! Hang on tight! +If you get thrown off, it's your problem!
-()||:The AR Team's Jeep rushes at top speed toward the bunker complex at the base of the shore guns.+It evades shot after shot from the Typhons, while SOP launches one grenade after another at the fast-approaching Military vehicles, forcing them to slow down.+The Jeep finally reaches the bunkers ahead of the Military and screeches to a halt, and several Dolls quickly jump off it.+The Military vehicles, which have been swerving to avoid SOP-II's grenades also stop at the other entrance. The soldiers who disembark exchange glances with the Dolls in the distance. Both sides pause for a moment before dashing into the bunkers without any hesitation.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:Dammit! We need to get there ahead of them!+Once you're in, keep the other troops from entering. I'll go seize the control center.+Dandelion! Plot me a course! Find the soldiers who are already inside!
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Position verified.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:The opposition isn't too numerous, and now that they've split up, Dolls have the advantage in confined spaces! +SOP-II, RO, hold the entrance. AR-15, clear the lower levels. +You must not let more Military personnel in!
-()||:With that, M4 charges into the bunker as well.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Alright! I've been wanting to thump them for a long time!
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:I've always envied that inexhaustible confidence of yours...
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:We only stand a chance because of that confidence.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:I know that. No matter what, we can't let our team leader down, right?
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Of course. I'm going in. Hold the fort.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:Understood.
+()<Speaker>Егор</Speaker>||:Что?! +...Ладно, ты меня хорошо подловил, Командир Грифона.
+()<Speaker>Оператор</Speaker>||:Что нам теперь делать, Капитан?
+()||<SE1>AVG_tele_connect</SE1>:Бип-бип — пришло зашифрованное сообщение. +Уголки губ Егора слегка приподнялись.
+()<Speaker>Егор</Speaker>||<黑屏1>:Должен признать, у тебя есть свои уловки. Но в карточной игре победитель забирает всё, и в конце концов именно я вытащу джокера. +Переведи наши передовые отряды на безопасное расстояние. Кварц, у меня для тебя новости.
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...В диспетчерской поезда.
+NPC-Kalin(0)<Speaker>Калина</Speaker>||:(Кашель)... Командир, с вами всё в порядке...
+()<Speaker>Командир</Speaker>||:По-моему, все мои руки и ноги на месте и целы... А что насчет Данделион?
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Я в порядке.
+()<Speaker>Командир</Speaker>||:Похоже, нам повезло... +Данделион, пусть Куклы встанут у карантинной стены. +После этого заложи взрывчатку в ходовую часть поезда. Я сделаю этот поезд полноценной помехой.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Похоже, ты твёрдо намерен ни за что не уходить отсюда.
+()<Speaker>Командир</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:Если мы выполним нашу миссию, у нас будет достаточно времени, чтобы уйти... +Похоже, те парни снаружи всё ещё пристально за нами наблюдают. +Если Команда AR сможет вывести из строя береговые орудия, у нас появится шанс разгромить Военных. +После этого мы сможем разобраться с проблемами внутри базы.
+()||<BIN>99</BIN><黑屏2><BGM>BGM_Danger</BGM>:А в другом месте… Пять минут назад.
+()||:В настоящее время Команда AR движется в сторону побережья.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Сколько ещё добираться до места?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:При нынешней скорости это займет ещё примерно две минуты!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE2>Gunfight</SE2>:Осторожно! Тифон снова стреляет по нам!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Мои гранаты вообще не долетают! Как, черт возьми, они могут быть такими точными с такого расстояния?!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Как минимум, используйте все свои гранаты! +Кто знает, может, если облегчить груз, мы поедем быстрее!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Эй, а действительно можно идти по этой дороге?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>:Это огромная равнина, на которой нет ни единого укрытия! Эти ветряные турбины — единственное, что у нас есть для защиты от вражеского огня!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Времени нет, за нами гонится машина!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Осторожно, осторожно! Эти лопасти вентилятора чуть не оторвали мне голову!
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Слезай с крыши! +Там наверху слишком опасно!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Давай, полный газ! +Как только мы доберёмся до бункеров, их противотанковые орудия не смогут нас достать!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_engine_speedup</SE1>:Поняла!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Смотри, справа! +Это ещё один Тифон.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Они, должно быть, очень хотят получить береговую артиллерию. RO, нам нужно ускориться!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_engine_speedup</SE1>:Аааааааааа, мне уже всё равно! Держись крепче! +Если тебя сбросит, это твоя проблема!
+()||:Джип Команды AR мчится на полной скорости к комплексу бункеров у подножия береговых орудий.+Он уклоняется от выстрела за выстрелом из Тифонов, в то время как SOP запускает одну гранату за другой по быстро приближающимся машинам Военных, вынуждая тех сбавить скорость.+Джип наконец добирается до бункеров раньше Военных, с визгом тормозит, и несколько Кукол быстро выпрыгивают из него. +Машины Военных, которые уклонялись от гранат SOP-II, также останавливаются у другого входа. Высадившиеся солдаты обмениваются взглядами с Куклами вдали. Обе стороны на мгновение замирают, а затем без колебаний устремляются в бункер.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Чёрт! Нам нужно добраться туда раньше них!+Как только прорвётесь внутрь, не дайте остальным солдатам проникнуть туда. Я пойду захватывать центр управления.+Данделион! Проложи мне маршрут! Найди солдат, которые уже находятся внутри!
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:Положение подтверждено.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Противников не так уж много, и теперь, когда они разделились, Куклы имеют преимущество в замкнутых пространствах! +SOP-II, RO, удерживайте вход. AR-15, зачищай нижние уровни. +Не допускайте проникновения новых Военных!
+()||:С этими словами М4 тоже ворвалась в бункер.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Отлично! Я уже давно хотела дать им по морде!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Я всегда завидовала твоей этой неиссякаемой уверенности...
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:У нас есть шанс только благодаря этой уверенности.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:Я знаю. Что бы ни случилось, мы не можем подвести нашего лидера, верно?
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Конечно. Я иду туда. Держи оборону.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:Принято.
