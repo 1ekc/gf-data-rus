@@ -1,35 +1,35 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>99</BIN><BGM>10258</BGM>:...During the evacuation of the Griffin echelons.
-()<Speaker>Commander</Speaker>||:Hurry, everyone! +Don't get too absorbed in fighting! We can make a counterattack once we get into the base!
-()<speaker></speaker>||:The Commander and the remaining Dolls make a mad dash across the open ground, and the new members of Task Force DEFY bring the comatose K with them as they join the withdrawing Dolls.+Not too far away, Military soldiers and autonomous units pour through the barrier gate. The soldiers who have already reached cover immediately begin raining fire on them.
-()<speaker></speaker>||<SE1>Explode</SE1><火花>:A blast from the shore gun descends from the sky, accurately striking the leading edge of the Military's vanguard. The massive explosion flips several IFVs over and the cloud of smoke obscures the Military's field of vision.+Griffin has gained valuable time to retreat.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框><SE1>AVG_tele_connect</SE1>||:<color=#00CCFF>Commander, do you read me?</color>+<color=#00CCFF>Lunasia can't hold out any longer. That shot was the final bit of help she could give you.</color>
-()<Speaker>Commander</Speaker>||:Understood! Thanks for the support!
-NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>However, that will not be enough to stop the Military. You must destroy the base entrance to delay their advance. After that, I will lead the AR Team in entering the base via another entrance to link up with you.</color>
-()<Speaker>Commander</Speaker>||:Got it! We'll think of a way to bring down the entrance!
-NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>That said, you are on a tight schedule here, and it will take you a while to plant the explosives. The Military's vanguard will not let you catch your breath. You will need a covering party to buy you time.</color>
-()<Speaker>Commander</Speaker>||:What...
-NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>I know this is a difficult choice, but you can't afford to hesitate given the present situation.</color>+<color=#00CCFF>I have selected several Dolls who have volunteered to serve as the rear guard. The final decision is yours.</color>
-()<Speaker>Commander</Speaker>||:Dammit!
-()<speaker></speaker>||:I know this is a necessary decision, but when the time comes to choose who will secure our rear...+Even though I've been told not to hesitate, guilt and regret still threaten to overwhelm me.
-m82(0)<Speaker>M82</Speaker>||:Commander, my injuries are relatively light, so please allow me to join the rear guard team!
-06TypeSMG(0)<Speaker>CF-05</Speaker>||:Commander, I can still fight!
-INSAS(0)<Speaker>INSAS</Speaker>||:Commander, I'm perfectly fine!
-Webley(0)<Speaker>Webley</Speaker>||:Commander, please let me lead them.
-()<speaker></speaker>||:I stop and look at these Dolls, who are volunteering to hold the line.
-()<Speaker>Commander</Speaker>||:Do you know what kind of order this is? +Do you really understand what being the rear guard under these circumstances entails?
-m82(0)<Speaker>M82</Speaker>||:I do... Miss Dandelion has already synced the details of the mission to us.
-06TypeSMG(0)<Speaker>CF-05</Speaker>||:If we can delay the enemy, you will have a chance to win...
-Webley(0)<Speaker>Webley</Speaker>||:And it means Griffin can continue to fight on...
-()<Speaker>Commander</Speaker>||:...
-Webley(0)<Speaker>Webley</Speaker>||:Commander, please give the order.
-()<speaker></speaker>||:But no matter how hard I try, I simply cannot bring myself to utter the words. In the end, all I can manage is a silent nod.
-()<Speaker>Commander</Speaker>||:It has been an honor to fight by your side.
-Webley(0)<Speaker>Webley</Speaker>||:Same here, Commander! I swear we will complete the mission.
-()<speaker></speaker>||:The petite Doll holds herself high and salutes me decorously, as though the mighty foes behind her were hardly worth mentioning.
-m82(0)<Speaker>M82</Speaker>||:Goodbye, Commander.
-INSAS(0)<Speaker>INSAS</Speaker>||:I know you'll think of me until you want to cry, but still, I must cruelly bid you farewell.
-06TypeSMG(0)<Speaker>CF-05</Speaker>||:Bye bye, Commander.
-()<speaker></speaker>||:The rear guard team and their Dummies run toward the Military without any hesitation, using what little cover there is as they return fire to the Military units.
-()<Speaker>Commander</Speaker>||:It has been an honor to fight by your side!
-()<speaker></speaker>||<黑屏1>:I shout those words at their receding backs one last time... Then I turn, force myself to stride forward, and break into a run.+I dare not look back again.+For their sake, I have to live on.+...And I have to win.
+()<Speaker></Speaker>||<黑屏2><BIN>99</BIN><BGM>10258</BGM>:...Во время эвакуации отрядов Грифона.
+()<Speaker>Командир</Speaker>||:Всем, поторопитесь! +Не увлекайтесь слишком боем! Мы сможем перейти в контратаку, как только прорвёмся на базу!
+()<speaker></speaker>||:Командир и оставшиеся Куклы бросаются бежать через открытую местность, а новые члены оперативной группы DEFY, унося с собой находящегося в коме К, присоединяются к отступающим Куклам.+Недалеко оттуда через шлагбаум хлынут Военные и автономные единицы. Солдаты, уже укрывшиеся за укрытиями, немедленно открывают по ним шквальный огонь.
+()<speaker></speaker>||<SE1>Explode</SE1><火花>:Из берегового орудия по небу пролетел снаряд, точно поразив передовой отряд Военных. Мощный взрыв перевернул несколько БМП, а облако дыма заслонило Военным обзор.+Грифон выиграл драгоценное время для отступления.
+NytoIsomer(3)<Speaker>Данделион</Speaker><scan><通讯框><SE1>AVG_tele_connect</SE1>||:<color=#00CCFF>Командир, слышите меня?</color>+<color=#00CCFF>Луназия больше не может держаться. Этот выстрел был последней помощью, которую она могла вам оказать.</color>
+()<Speaker>Командир</Speaker>||:Понятно! Спасибо за поддержку!
+NytoIsomer(3)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>Однако этого будет недостаточно, чтобы остановить Военных. Вы должны уничтожить вход на базу, чтобы задержать их продвижение. После этого я возглавлю Команду AR и войду на базу через другой вход, чтобы соединиться с вами.</color>
+()<Speaker>Командир</Speaker>||:Понял! Мы придумаем, как разнести вход!
+NytoIsomer(3)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>Тем не менее, у тебя здесь очень сжатые сроки, и на установку взрывчатки у тебя уйдет некоторое время. Авангард Военных не даст тебе даже передохнуть. Тебе понадобится группа прикрытия, чтобы выиграть время.</color>
+()<Speaker>Командир</Speaker>||:Что...
+NytoIsomer(3)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>I Понимаю, что это сложный выбор, но в сложившейся ситуации нельзя позволить себе колебаться.</color>+<color=#00CCFF>Я отобрала нескольких Кукол, которые вызвались служить в арьергарде. Окончательное решение за вами.</color>
+()<Speaker>Командир</Speaker>||:Чёрт возьми!
+()<speaker></speaker>||:Я знаю, что это необходимое решение, но когда приходит время выбирать, кто будет прикрывать наш тыл...+Хотя мне и сказали не колебаться, чувство вины и сожаления всё равно грозят захлестнуть меня.
+m82(0)<Speaker>M82</Speaker>||:Командир, мои ранения относительно несерьёзны, поэтому прошу разрешить мне присоединиться к отряду арьергарда!
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:Командир, я ещё могу сражаться!
+INSAS(0)<Speaker>INSAS</Speaker>||:Командир, я в полном порядке!
+Webley(0)<Speaker>Webley</Speaker>||:Командир, позвольте мне возглавить их.
+()<speaker></speaker>||:Я останавливаюсь и смотрю на этих Кукол, которые добровольно взялись удерживать оборону.
+()<Speaker>Командир</Speaker>||:Вы знаете, что это за приказ? +Вы действительно понимаете, что означает быть арьергардом в таких условиях?
+m82(0)<Speaker>M82</Speaker>||:Да... Мисс Данделион уже передала нам все детали миссии.
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:Если нам удастся задержать врага, у вас появится шанс на победу...
+Webley(0)<Speaker>Webley</Speaker>||:А это значит, что Грифон сможет продолжать сражаться...
+()<Speaker>Командир</Speaker>||:...
+Webley(0)<Speaker>Webley</Speaker>||:Командир, пожалуйста, отдайте приказ.
+()<speaker></speaker>||:Но как бы я ни старался, я просто не могу заставить себя произнести эти слова. В конце концов, всё, на что я способен, — это молчаливое кивание головой.
+()<Speaker>Командир</Speaker>||:Для меня было честью сражаться бок о бок с вами.
+Webley(0)<Speaker>Webley</Speaker>||:Я тоже, Командир! Клянусь, мы выполним задание.
+()<speaker></speaker>||:Миниатюрная Кукла держится с достоинством и приветствует меня с почтением, словно могучие враги, стоящие за её спиной, едва ли заслуживают упоминания.
+m82(0)<Speaker>M82</Speaker>||:Прощайте, Командир.
+INSAS(0)<Speaker>INSAS</Speaker>||:Я знаю, что ты будешь думать обо мне до тех пор, пока тебе не захочется плакать, но, тем не менее, я вынуждена жестоко попрощаться с тобой.
+06TypeSMG(0)<Speaker>CF-05</Speaker>||:Пока пока, Командир.
+()<speaker></speaker>||:Команда арьергарда и их Болванки без колебаний устремляются навстречу Военным, используя скудное укрытие и открывая ответный огонь по боевым единицам.
+()<Speaker>Командир</Speaker>||:Для меня было честью сражаться бок о бок с вами!
+()<speaker></speaker>||<黑屏1>:Я в последний раз кричу эти слова вслед их удаляющимся спинам… Затем я поворачиваюсь, заставляя себя шагнуть вперёд и бросаюсь бежать.+Я не смею снова оглянуться.+Ради них я должен жить дальше.+...И я должен победить.
