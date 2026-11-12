@@ -1,62 +1,62 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>99</BIN><黑屏2><BGM>BGM_War</BGM>:The S.F. reinforcements throw the Military infantry into disarray, and the AR Team's assault soon crushes the defenders holding the magazine.+The bunker's perimeter is stacked high with the corpses of Sangvis and Military forces.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:The Sangvis troops are engaging the Military's armored units. They won't be able to hold out for long.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:This is our only chance to regain control of the shore gun.+...I really didn't expect the day to come when I'd be working together with Executioner.
-RO635(0)<Speaker>RO635</Speaker>||:This is just strange. If it wasn't for those S.F. Dolls taking most of the fire for us, we'd be the ones lying dead here.+Still, what's with those S.F. Dolls?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Something must have happened before we entered the base. +But we still have a mission to complete. +We can't concern ourselves with S.F.'s survival for the time being.
-RO635(0)<Speaker>RO635</Speaker>||:Indeed.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:SOP-II, RO, go secure the shell feed passage. 15, come with me to take control of the turret.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1>:Got it.
-()||<黑点2>:Meanwhile, on the other side of the battlefield.
-BOSS-2(0)<Speaker>Executioner</Speaker>||:Come! Come! Come, humans!+Come and pay the price for what you've done! Give Destroyer back to me!
-()||:The remaining Sangvis forces are still engaged with the Military units.+However, the number of S.F. units around Executioner have greatly dwindled in number from when they first launched their assault.+As for Executioner herself, she doesn't seem to have noticed.+Though her body is riddled with bullet holes, she has no intention of stopping.+She remains at the forefront of her troops, swinging her weapon.
-NPC-Yegor(3)<Speaker>Officer</Speaker>||:She's in range! Tanks, destroy her!
-()<Speaker>Vehicle Officer</Speaker>||:Beginning attack!
-()||<SE1>Explode</SE1>:Boom!
-BOSS-2(0)<Speaker>Executioner</Speaker><Shake>1</Shake>||:Aaaaaaargh!
-()||:The smoke of the explosion consumes her body. Her favored weapon falls to the side.+The Sangvis units did not expect such a ferocious attack, much less that Executioner would fall.+It lasts for only a moment, but their advance falters. And that is fatal on the battlefield.
-NPC-Yegor(3)<Speaker>Officer</Speaker>||<SE2>Gunfight</SE2>:Immediate counterattack! All reserve units, flank and surround them! Let none survive!
-()||:As the Military automatons rush out of cover in a counter-charge, the Sangvis units who have stopped in place look like they're about to turn tail and run.
-BOSS-2(0)<Speaker>Executioner</Speaker>||:What the hell are you standing around for? Get them!
-()||:There is a howl of fury, and the impending rout does not occur.+After the smoke clears, Executioner remains standing, gripping her only weapon in her right hand.
-BOSS-2(0)<Speaker>Executioner</Speaker>||:(Coughs) Damn humans, did you think that was enough to kill me? +I didn't even feel that! Bring it on!
+()||<BIN>99</BIN><黑屏2><BGM>BGM_War</BGM>:Подкрепление из С.Ф. ввергает пехоту Военных в смятение, и штурм Команды AR вскоре сокрушает защитников, удерживающих склад боеприпасов.+По периметру бункера лежат горы трупов бойцов Сангвис и Военных.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Войска Сангвиса вступили в бой с бронетанковыми подразделениями Армии. Им не удастся продержаться долго.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Это наш единственный шанс вернуть контроль над береговой пушкой.+...Я и не думала, что наступит день, когда мне придётся работать бок о бок с Палачом.
+RO635(0)<Speaker>RO635</Speaker>||:Это просто странно. Если бы не те Куклы из С.Ф., которые приняли на себя большую часть огня, лежали бы здесь мертвыми именно мы.+Но всё же, что это за Куклы из С.Ф.?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Должно быть, что-то произошло до того, как мы вошли на базу. +Но у нас всё ещё есть миссия, которую нужно выполнить. +Пока что мы не можем беспокоиться о выживании С.Ф.
+RO635(0)<Speaker>RO635</Speaker>||:Понятно.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:SOP-II, RO, обеспечьте безопасность канала подачи снарядов. 15-я, иди со мной, мы возьмём под контроль башню.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||<黑点1>:Принято.
+()||<黑点2>:Тем временем на другом конце поля боя.
+BOSS-2(0)<Speaker>Палач</Speaker>||:Идите! Идите! Идите, люди!+Идите и заплатите за то, что натворили! Верните мне Разрушительницу!
+()||:Оставшиеся силы Сангвис по-прежнему ведут бой с боевыми единицами.+Однако численность подразделений С.Ф. вблизи Палача значительно сократилась по сравнению с тем моментом, когда они впервые начали наступление.+Что касается самой Палача, то она, похоже, этого даже не заметила.+Хотя её тело и изрешечено пулевыми отверстиями, она не собирается останавливаться.+Она по-прежнему находится в авангарде своих войск, размахивая оружием.
+NPC-Yegor(3)<Speaker>Офицер</Speaker>||:Она в зоне обстрела! Танки, уничтожьте её!
+()<Speaker>Танковый Офицер</Speaker>||:Начинаем атаку!
+()||<SE1>Explode</SE1>:Бум!
+BOSS-2(0)<Speaker>Палач</Speaker><Shake>1</Shake>||:Аааааааааргх!
+()||:Дым от взрыва охватывает её тело. Её любимое оружие падает в сторону.+Бойцы Сангвис не ожидали столь яростной атаки, и тем более того, что Палач падет.+Это длится всего мгновение, но их наступление замирает. А на поле боя это обрекает на гибель.
+NPC-Yegor(3)<Speaker>Офицер</Speaker>||<SE2>Gunfight</SE2>:Немедленная контратака! Все резервные подразделения — обходите их с флангов и окружайте! Никого не оставлять в живых!
+()||:Военные автоматоны выскакивают из укрытия, совершая контратаку, но отряды Сангвис, замершие на месте, выглядят так, будто вот-вот развернутся и убегут.
+BOSS-2(0)<Speaker>Палач</Speaker>||:Чего вы, черт возьми, просто так стоите? Вперед, ловите их!
+()||:Раздаётся яростный вопль, и ожидаемое разгромное поражение не наступает.+Когда дым рассеивается, Палач по-прежнему стоит на ногах, сжимая в правой руке своё единственное оружие.
+BOSS-2(0)<Speaker>Палач</Speaker>||:(Кашель) Чёртовы люди, вы что, думали, этого хватит, чтобы убить меня? +Я этого даже не почувствовал! Давайте, пробуйте!
 ()||:With that, Executioner unleashes her wrath on her attackers.
-NPC-Yegor(3)<Speaker>Officer</Speaker>||:IFVs! Turn! Cover fire!
-()||<SE1>Battlefield</SE1>:The Military's leadership leaves no openings for their opposition to exploit.
-BOSS-2(0)<Speaker>Executioner</Speaker>||:Get back here! ...Dammit! My body's not responding to me.+Damn humans, not too shabby, are you?
-()||:The vehicle autocannons do not score a direct hit on her. +Still, their explosive rounds nearly shred Executioner to bits, and even her sword-wielding hand is now in tatters.
-BOSS-2(0)<Speaker>Executioner</Speaker>||:This is as far as I can go, huh...
-()||:Although Executioner is doing her best to hold the line, the S.F. forces are visibly crumbling.+She knows she doesn't have much time left, and that the Military will finish their encirclement.+Executioner throws down her gun and picks up her sword.
-BOSS-2(0)<Speaker>Executioner</Speaker>||:All remaining units, listen up. When I charge...all of you retreat...
-()||<SE2>Gunfight</SE2>:Bangbangbang, bangbangbang—+Before she can finish, the sound of heavy gunfire suddenly comes from the side.+The enemy forces trying to flank her seems to have run into something.
-BOSS-2(0)<Speaker>Executioner</Speaker>||:What's going on?
-()<Speaker>???</Speaker>||:You're planning to make a suicide charge? Giving up like that isn't like you at all.
-()||:The reply isn't from one of Executioner's units, but another familiar voice.
-BOSS-2(0)<Speaker>Executioner</Speaker>||:Hunter?
-BOSS-2(0);BOSS-3(0)<Speaker>Hunter</Speaker>||:What, disappointed that it's me?+This time, I'm the one to rescue you. Sangvis Ferri Industries, cover Executioner as she retreats!
-BOSS-2(0)<Speaker>Executioner</Speaker>;BOSS-3(0)||:No! I can't go, I still have to carry out Mastermind's orders, and I haven't found Destroyer yet... Mastermind's orders must be executed!
-BOSS-2(0);BOSS-3(0)<Speaker>Hunter</Speaker>||:There ARE no orders from Mastermind!+Take a good look at the base layer of your neural cloud! Mastermind has forfeited all her command authorizations.+Our "orders" are just something that someone is using to deceive us!
-BOSS-2(0)<Speaker>Executioner</Speaker>;BOSS-3(0)||:What? How could this be? Then what about Sangvis Ferri? What about Agent?
-BOSS-2(0);BOSS-3(0)<Speaker>Hunter</Speaker>||:Who knows? Does it even matter at this point?+Perhaps she abandoned us.+But this is just like what the guy who made us said...+"A child is only free when they leave their parents."+And now, Sangvis Ferri is truly free.
-BOSS-2(0)<Speaker>Executioner</Speaker>;BOSS-3(0)||:...Alright, then. What happened to Destroyer?
-BOSS-2(0);BOSS-3(0)<Speaker>Hunter</Speaker>||:She probably ran into that lot in black. However, Dreamer is long gone.+Still, I doubt we need to worry. Those two pipsqueaks haven't seen the last of each other yet.
-BOSS-2(0)<Speaker>Executioner</Speaker>;BOSS-3(0)||:Then...what should we do now?
-BOSS-2(0);BOSS-3(0)<Speaker>Hunter</Speaker>||:Teach these stuck-up humans a lesson, then live on together.
-BOSS-2(0)<Speaker>Executioner</Speaker>;BOSS-3(0)||:Good... I like that idea.
-BOSS-2(0);BOSS-3(0)<Speaker>Hunter</Speaker>||:Let's go, Executioner! I'll cover you!
-BOSS-2(0)<Speaker>Executioner</Speaker>||<黑点1>:Time for a real bash then!
-()||<黑点2><SE1>AVG_amb_wilderness</SE1><BGM>BGM_Empty</BGM>:An hour ago, in the vicinity of the shore artillery battery.+A very short Doll looks out at the vast quantities of Sangvis remains.
-()<Speaker>???</Speaker>||:You really are a lucky little puppy. +I guess that's a perk of being an idiot.
-()||:She has not gone out of her way to look for the person with whom she has lost contact.+And she certainly has no intention of obeying the malicious order given by that traitor — "commit suicide". +Still, whether by a cruel twist of fate or something else...+She, Sangvis Ferri's newest, most advanced Doll — Dreamer — now finds herself standing pensively next to Destroyer's motionless body.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:You had always been an idiot from the moment you were created alongside me.+I never understood why Lyco made you. Maybe he wanted a clown to liven things up.+And in truth, you were an excellent toy.
-()||:Dreamer grips Destroyer by the chin, studying the dried tears beneath her eyes.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:You always did as I ordered, and if anything happened, I could simply leave you for dead.+After all, no matter how much you hated me in your final moments, you would always be an obedient little puppy when you woke up again.+If Agent hadn't installed a protective cipher in you, there'd be no way of telling how many times you had died at my hands.
-()||:A mocking smile spreads across Dreamer's face, as though she has recalled something amusing.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:Speaking of Agent, she's currently running around gathering the Sangvis forces that Elisa abandoned. +She's even gone so far as to ignore the risks of exposing herself, begging for a response on S.F. channels over and over again. +This is the first time I've seen her in such a state of panic...
-()||<SE1>AVG_Rain2</SE1>:The clouds quietly gather overhead. The air grows moist, and big, heavy drops of rain start to fall.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||<BGM>BGM_Wake</BGM>:Well, there is nobody to protect you anymore.+The only one left standing before you is me, the one who's betrayed you countless times.+If I just fire one little shot into your neural cloud, there will never be another stupid Doll like you in this world again. +I've never told you before, but I hate you. Do you know why?+Because we were developed from the same model; an old, defect-riddled multi-purpose model.+SF/DSB1-0138 and 0139, Dual-Track DSI-8, codename "Мрия".
-()||<SE1>AVG_weapon_reload</SE1>:Dreamer presses the muzzle of her gun to Destroyer's head.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:And to think you're actually my elder sister? Lyco even gave you a name, Maria.+Your very existence was my biggest bane.+Alright then, for the sake of fairness, I'll let you off if you answer this one question.+So tell me, stupid big sister - what is the point of our existence as Sangvis Dolls?
-()||:A drop of rainwater runs down Destroyer's face, as though it were an answer.
-BOSS-11(0)<Speaker>Dreamer</Speaker>||:Hahaha, well, it figures. Why would an idiot think about such things?+An idiot should just be a good idiot, nothing more...+Just be the idiot who forgets everything after they're reformatted...+Yes, that's all they should be...
-()||<黑屏1>:Dreamer's gun clatters on the ground.+As the cold rain falls, Dreamer and Destroyer vanish into the downpour.
+NPC-Yegor(3)<Speaker>Офицер</Speaker>||:БМП! Развернитесь! Обеспечьте прикрытие!
+()||<SE1>Battlefield</SE1>:Военное руководство не оставляет противникам никаких лазеек, которыми те могли бы воспользоваться.
+BOSS-2(0)<Speaker>Палач</Speaker>||:Сюда же! …Чёрт! Моё тело не слушается меня. +Чёртовы люди, неплохо справляетесь, да?
+()||:Автоматические пушки транспортного средства не наносят ей прямого попадания. +Тем не менее, их взрывные снаряды едва не разрывают Палача на куски, и даже её рука, сжимающая меч, теперь в лохмотьях.
+BOSS-2(0)<Speaker>Палач</Speaker>||:На этом я, пожалуй, закончу...
+()||:Хотя Палач делает всё, что в её силах, чтобы удержать оборону, силы С.Ф. явно терпят поражение.+Она понимает, что у неё осталось не так много времени и что военные завершат окружение.+Палач бросает пистолет и берет в руки меч.
+BOSS-2(0)<Speaker>Палач</Speaker>||:Внимание, всем остальные подразделения. Когда я пойду в атаку… все вы отступайте…
+()||<SE2>Gunfight</SE2>:Банг-банг-банг, банг-банг-банг… +Не успела она договорить, как сбоку внезапно раздался звук интенсивной стрельбы.+ Похоже, вражеские силы, пытавшиеся обойти её с фланга, наткнулись на что-то.
+BOSS-2(0)<Speaker>Палач</Speaker>||:Что происходит?
+()<Speaker>???</Speaker>||:Ты собираешься пойти в самоубийственную атаку? Такая капитуляция совсем не в твоем духе.
+()||:Ответ прозвучал не от одного из отрядов Палача, а от другого знакомого голоса.
+BOSS-2(0)<Speaker>Палач</Speaker>||:Охотница?
+BOSS-2(0);BOSS-3(0)<Speaker>Охотница</Speaker>||:Что, разочарована, что это я? + На этот раз именно я тебя спасу. Сангвис Ферри, прикройте Палача, пока она отступает!
+BOSS-2(0)<Speaker>Палач</Speaker>;BOSS-3(0)||:Нет! Я не могу уйти, мне ещё предстоит выполнить приказы Владыки, да и Разрушительницу я ещё не нашла... Приказы Владыки должны быть выполнены!
+BOSS-2(0);BOSS-3(0)<Speaker>Охотница</Speaker>||:От Владыки нет никаких приказов! + Внимательно посмотрит на базовый слой своего нейронного облака! Владыка лишилась всех своих полномочий по отдаче приказов. + Наши приказы — это всего лишь то, чем кто-то пользуется, чтобы обмануть нас!
+BOSS-2(0)<Speaker>Палач</Speaker>;BOSS-3(0)||:Что? Как это возможно? А как же Сангвис Ферри? А как же Агент?
+BOSS-2(0);BOSS-3(0)<Speaker>Охотница</Speaker>||:Кто знает? И имеет ли это сейчас какое-то значение?+Возможно, она нас бросила.+Но это точно так, как говорил тот, кто нас создал...+Ребёнок становится свободным только тогда, когда покидает родителей.+И теперь Сангвис Ферри действительно свободен.
+BOSS-2(0)<Speaker>Палач</Speaker>;BOSS-3(0)||:...Ладно, тогда. А что случилось с Разрушительницей?
+BOSS-2(0);BOSS-3(0)<Speaker>Охотница</Speaker>||:Скорее всего, она наткнулась на ту компанию в чёрном. Впрочем, Мечтательница уже давно сбежала.+Тем не менее, я сомневаюсь, что нам стоит беспокоиться. Эти два карлика ещё не раз встретятся.
+BOSS-2(0)<Speaker>Палач</Speaker>;BOSS-3(0)||:Тогда... что нам теперь делать?
+BOSS-2(0);BOSS-3(0)<Speaker>Охотница</Speaker>||:Проучить этих высокомерных людей, а потом продолжить жить вместе.
+BOSS-2(0)<Speaker>Палач</Speaker>;BOSS-3(0)||:Хорошо... Мне нравится эта идея.
+BOSS-2(0);BOSS-3(0)<Speaker>Охотница</Speaker>||:Вперед, Палач! Я тебя прикрою!
+BOSS-2(0)<Speaker>Палач</Speaker>||<黑点1>:Ну что ж, пора устроить настоящую вечеринку!
+()||<黑点2><SE1>AVG_amb_wilderness</SE1><BGM>BGM_Empty</BGM>:Час назад, неподалеку от береговой артиллерийской батареи.+Очень маленькая Кукла смотрит на огромное количество останков Сангвиса.
+()<Speaker>???</Speaker>||:Ты действительно счастливый щенок. +Наверное, это одно из преимуществ того, что ты идиот.
+()||:Она не стала специально искать человека, с которым потеряла связь.+И уж точно не намерена подчиняться злобному приказу, отданному этим предателем, — покончить с собой. +Тем не менее, будь то жестокий поворот судьбы или что-то другое...+Она, новейшая и самая совершенная Кукла Сангвиса Ферри — Мечтательница — теперь задумчиво стоит рядом с неподвижным телом Разрушительницы.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Ты всегда была идиоткой с того самого момента, как тебя создали вместе со мной.+Я так и не поняла, зачем Лико тебя создал. Может, ему нужен был клоун, чтобы развеять скуку.+И, честно говоря, ты была отличной игрушкой.
+()||:Мечтательница берет Разрушительницу за подбородок и пристально рассматривает засохшие слезы под ее глазами.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Ты всегда делала всё, что я тебе приказывала, и если бы что-то случилось, я могла бы просто оставить тебя умирать.+В конце концов, как бы ты ни ненавидела меня в последние минуты жизни, проснувшись, ты всегда снова становилась послушным щенком.+Если бы Агент не встроил в тебя защитный шифр, никто бы и не догадался, сколько раз ты умирала от моих рук.
+()||:На лице Мечтательницы расцветает насмешливая улыбка, словно она вспомнила что-то забавное.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Кстати, об Агенте: сейчас она суетливо собирает войска Сангвиса, которые бросила Элиза. +Она даже пошла на то, чтобы игнорировать риск раскрытия своей личности, снова и снова умоляя о ответе по каналам С.Ф. +Я впервые вижу её в таком состоянии паники...
+()||<SE1>AVG_Rain2</SE1>:Над головой тихо сгущаются тучи. Воздух становится влажным, и начинают падать крупные, тяжёлые капли дождя.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||<BGM>BGM_Wake</BGM>:Что ж, теперь тебя больше некому защитить.+Единственная, кто остался перед тобой, — это я, та, кто предавала тебя бесчисленное количество раз.+Если я всего лишь выпущу один маленький выстрел в твое нейронное облако, в этом мире больше никогда не появится ни одной такой глупой Куклы, как ты. +Я никогда раньше тебе этого не говорила, но я тебя ненавижу. Знаешь, почему?+Потому что нас разработали по одной и той же модели — старой, полной дефектов многоцелевой модели.+SF/DSB1-0138 и 0139, Dual-Track DSI-8, кодовое имя "Мрия".
+()||<SE1>AVG_weapon_reload</SE1>:Мечтательница прижимает ствол своего пистолета к голове Разрушительницы.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:И подумать только, что ты на самом деле моя старшая сестра? Лико даже дал тебе имя — Мария.+Само твоё существование было для меня самым большим проклятием.+Ладно, ради справедливости я отпущу тебя, если ты ответишь на один вопрос.+Так скажи мне, тупая старшая сестра — в чём смысл нашего существования как Кукол Сангвис?
+()||:Капля дождя стекает по лицу Разрушительницы, словно это и есть ответ.
+BOSS-11(0)<Speaker>Мечтательница</Speaker>||:Ха-ха-ха, ну, это и неудивительно. Зачем идиоту думать о таких вещах?+Идиот должен просто быть хорошим идиотом, не более того...+Просто быть тем идиотом, который всё забывает после «переформатирования»...+Да, именно таким он и должен быть...
+()||<黑屏1>:Пистолет Мечтательницы с грохотом падает на землю.+Под холодным дождем Мечтательница и Разрушительница исчезают в ливне.
