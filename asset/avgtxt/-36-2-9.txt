@@ -1,48 +1,48 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE2>Alarm</SE2>:...At the makeshift defensive position in front of the shore gun turret.
-RO635()<Speaker>RO635</Speaker>||<BGM>BGM_Battle</BGM><黑屏1>:M4! M4! +Wake up!
-M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>99</BIN><睁眼><火花>:...I... What happened?
-RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(3)||:Your body overheated and crashed. +Now get up, the enemy's preparing for another charge.
-RO635(4);M4A1Mod(4)<Speaker>M4A1</Speaker>||:Ugh... I messed up, I can't believe I actually let them get a shot off.+Dandelion, what's the current situation?+Dandelion?
-RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(4)||:That shot just now was probably targeted at the armored train, where the Commander was...
-RO635(4);M4A1Mod(4)<Speaker>M4A1</Speaker>||:The Commander...the Commander will be fine!+Let's take the control room! We'll still be in time to provide fire support!
-M4A1Mod(4)<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:M4 shoves the soldier's corpse off the control panel and raises her gun again.
-M4A1Mod(4)<Speaker>System</Speaker>||:<color=#00CCFF>Firing order received. Adjusting coordinates... Adjustment failed... Commencing diagnosis.</color>+<color=#00CCFF>Warning, control interface has been locked down. Ammunition loading process has been interrupted.</color>
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:What the hell?!
-AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>They're breaking through the lower levels, M4! I can't hold them back anymore! Are you still in there?!</color>
-RO635(5)<Speaker>RO635</Speaker>;M4A1Mod(4)||:The ammunition feed system has been shut down. The Military probably took over the magazine. +Leader, how should we proceed?
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:Proceed... Proceed...
-M4A1Mod(3)<Speaker></Speaker>||:M4's neural cloud goes blank.
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>The probability of taking back the magazine with the Dolls on hand...is practically zero. But we have to do it...</color>+<color=#A9A9A9>But the Commander isn't here... I shouldn't fight this battle that I'm almost certain to lose... I need to do it...</color>+We proceed by...
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>;M4A1Mod(3)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>There is still something you can do.</color>
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>||:Dandelion!+What were the casualties from that last shot? How about the Commander?
-NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>;M4A1Mod(0)||:<color=#00CCFF>The armored train was hit. The Commander and the echelons made it into the quarantine wall, but they didn't get out of the blast radius in time. Current casualty status is unknown.</color>
-NytoIsomer(3);M4A1Mod(2)<Speaker>M4A1</Speaker>||:Thank goodness it wasn't a direct hit...
-NytoIsomer(3)<Speaker>Dandelion</Speaker>;M4A1Mod(2)||:<color=#00CCFF>Why thank you, I'm doing quite fine myself.</color>+<color=#00CCFF>Your mission is not completely doomed yet. If you take control of the coastal defense artillery and destroy the Military trains, we have a shot at turning this around.</color>
-NytoIsomer(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||:We're being pinned down by Military infantry, and they hold the magazine.
-NytoIsomer(3)<Speaker>Dandelion</Speaker>;M4A1Mod(0)||:<color=#00CCFF>There are Sangvis Ferri units scattered around the coastal gun. I am attempting to hack them to provide support.</color>
-NytoIsomer(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:Sangvis Ferri? What are they doing there?
-NytoIsomer(3)<Speaker>Dandelion</Speaker>;M4A1Mod(4)||:<color=#00CCFF>Unclear. However, I can direct them to attack the Military. That might give you a chance.</color>
-NytoIsomer(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:How confident are you about this?
-NytoIsomer(3)<Speaker>Dandelion</Speaker>;M4A1Mod(4)||:<color=#00CCFF>Our chances are about 50/50. For some reason, these S.F. are not under the control of their superiors, so I know for sure that I can hack them.</color>+<color=#00CCFF>However, I lack the processing power to directly control their movements. All I can do is set them loose to attack autonomously.</color> +<color=#00CCFF>I cannot guarantee how helpful they will be to you.</color>
-NytoIsomer(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:That's good enough.+Dandelion, help me plot another route out of this room. +I'm going to let the Military seize this position, then corner them with the Sangvis forces. That's how we'll counterattack and take this place back...
-NytoIsomer(3)<Speaker>Dandelion</Speaker>;M4A1Mod(4)||:<color=#00CCFF>A moment, please.</color>
-RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(4)||<SE1>AVG_tele_disconnect</SE1>:Are you sure about this? If S.F. attacks us, I'm not sure if I can get you out of here in your current state.
-RO635(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:At times like this, we have no choice but to place our hopes on a gamble. We NEED to take the coastal defense cannon.+If the Commander is still around, this cannon will buy time for Griffin, and we'll have the chance to rally and regroup.+If something has happened to the Commander...+...+...Then taking the cannon and destroying as many Military units as we can is the last thing we can do for the Commander.
-RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(4)||:I'm with you.
-NytoIsomer(3)<Speaker>Dandelion</Speaker><scan><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>I've finished hacking the S.F. units. They're approaching you now.</color>+<color=#00CCFF>Best of luck for what comes next.</color>
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Acknowledged. +Get ready!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:As they see the Dolls approach, the Military troops immediately lay down a ferocious barrage of suppressive fire.+The Dolls instantly become the targets of a hail of bullets and shells.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:Now! 15, SOP-II, follow the plan I just synced to you!
-AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>;M4A1Mod(4)||:<color=#00CCFF>Got it!</color>+<color=#00CCFF>But enemy fire is too heavy, you go first!</color>
-RO635(5)<Speaker>RO635</Speaker>;M4A1Mod(4)||:SOP-II, cover us!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>;M4A1Mod(4)||:<color=#00CCFF>Ahaha, alright! Watch as I scrap them all!</color>
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Don't get too caught up in fighting, SOP-II! Stay with us! SOP-II!
-M4A1Mod(4)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:As he watches the Dolls attempt their escape, a desperate soldier charges out of his cover.
-NPC-Yegor(3)<Speaker>Soldier</Speaker>||:Go to hell, you tin cans!
-NPC-Yegor(3)<Speaker></Speaker>||<BGM>BGM_Boss</BGM><关闭火花>:His words are cut off abruptly.
-()<Speaker></Speaker>||<闪屏><duration>2</duration></闪屏>:A flash of red streaks past him, and the severed halves of the soldier's body fall into the mud before he can fully emerge from the bunker.+A familiar figure towers above the corpse, throwing off the blood that stains her long blade with a flick of the wrist.
-BOSS-2(0)<Speaker>Executioner</Speaker>||:The destruction of my comrades will be paid for in human lives! +Sangvis Ferri Industries! CHARGE!
-BOSS-2(0)<Speaker></Speaker>||:The S.F. units charge into the Military's fire, seemingly oblivious to the presence of the AR Team.
-RO635(0)<Speaker>RO635</Speaker>||:It's really as Dandelion said...
-RO635(0);M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:No time to be surprised! We'll circle around these infantry and take the magazine back!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE2>Alarm</SE2>:...На импровизированной оборонительной позиции перед береговой орудийной башней.
+RO635()<Speaker>RO635</Speaker>||<BGM>BGM_Battle</BGM><黑屏1>:M4! M4! +Очнись!
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<BIN>99</BIN><睁眼><火花>:...Я... Что случилось?
+RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(3)||:Твое тело перегрелось, и ты потеряла сознание. +А теперь вставай, враг готовится к очередной атаке.
+RO635(4);M4A1Mod(4)<Speaker>M4A1</Speaker>||:Эх... Я напортачила, не могу поверить, что я действительно позволила им выстрелить.+Данделион, какова ситуация сейчас?+Данделион?
+RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(4)||:Этот выстрел, который прозвучал только что, скорее всего, был нацелен на бронированный поезд, в котором находился Командир...
+RO635(4);M4A1Mod(4)<Speaker>M4A1</Speaker>||:Командир… с Командиром всё будет в порядке! + Давайте захватим диспетчерскую! Мы ещё успеем оказать огневую поддержку!
+M4A1Mod(4)<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:M4 сбрасывает труп солдата с пульта управления и снова поднимает оружие.
+M4A1Mod(4)<Speaker>System</Speaker>||:<color=#00CCFF>Получен приказ на открытие огня. Настройка координат... Настройка не удалась... Начинается диагностика.</color>+<color=#00CCFF>Внимание, интерфейс управления заблокирован. Процесс заряжания боеприпасов прерван.</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:Какого хрена?!
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Они прорываются через нижние уровни, М4! Я больше не могу их сдерживать! Ты всё ещё там?!</color>
+RO635(5)<Speaker>RO635</Speaker>;M4A1Mod(4)||:Система подачи боеприпасов отключена. Скорее всего, военные захватили склад. +Лидер, как нам действовать дальше?
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:Продолжай... Продолжай...
+M4A1Mod(3)<Speaker></Speaker>||:Нейронное облако M4 перестает отображать информацию.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:<color=#A9A9A9>Вероятность того, что нам удастся вернуть журнал, учитывая наличие Кукол... практически равна нулю. Но мы должны это сделать...</color>+<color=#A9A9A9>Но Командира здесь нет... Мне не стоит вступать в этот бой, который я почти наверняка проиграю... Но я должна это сделать...</color>+Мы действуем следующим образом....
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>;M4A1Mod(3)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Еще есть кое-что, что вы можете сделать.</color>
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker><Shake>||:Данделион!+Каковы потери от последнего выстрела? А как там Командир?
+NytoIsomer(3)<Speaker>Данделион</Speaker><scan><通讯框>;M4A1Mod(0)||:<color=#00CCFF>Бронированный поезд был подбит. Командир и отряды успели добраться до карантинной стены, но не успели вовремя выйти из зоны взрыва. В настоящее время количество жертв неизвестно.</color>
+NytoIsomer(3);M4A1Mod(2)<Speaker>M4A1</Speaker>||:Слава богу, это не было прямым попаданием...
+NytoIsomer(3)<Speaker>Данделион</Speaker>;M4A1Mod(2)||:<color=#00CCFF>Спасибо, у меня тоже всё в порядке.</color>+<color=#00CCFF>Ваша миссия ещё не полностью обречена. Если вы возьмёте под контроль береговую оборонительную артиллерию и уничтожите военные поезда, у нас появится шанс переломить ход событий.</color>
+NytoIsomer(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||:Нас прижали Военные, и они контролируют оружейный склад.
+NytoIsomer(3)<Speaker>Данделион</Speaker>;M4A1Mod(0)||:<color=#00CCFF>Здесь, вокруг прибрежной батареи, разбросаны подразделения Сангвис Ферри. Я пытаюсь их взломать, чтобы они оказали поддержку.</color>
+NytoIsomer(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:Сангвис Ферри? Что они там делают?
+NytoIsomer(3)<Speaker>Данделион</Speaker>;M4A1Mod(4)||:<color=#00CCFF>Неясно. Однако я могу приказать им атаковать Военных. Это, возможно, даст вам шанс.</color>
+NytoIsomer(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:Насколько ты в этом уверена?
+NytoIsomer(3)<Speaker>Данделион</Speaker>;M4A1Mod(4)||:<color=#00CCFF>Наши шансы примерно 50 на 50. По какой-то причине эти С.Ф. не находятся под контролем своих руководителей, поэтому я точно знаю, что смогу взломать их.</color>+<color=#00CCFF>Однако у меня недостаточно вычислительной мощности, чтобы напрямую управлять их движениями. Все, что я могу сделать, — это отпустить их, чтобы они атаковали самостоятельно.</color> +<color=#00CCFF>Я не могу гарантировать, насколько они вам помогут.</color>
+NytoIsomer(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:Этого достаточно. +Данделион, помоги мне разработать другой план выхода из этой комнаты. +Я позволю Военным захватить эту позицию, а затем загнать их в угол силами Сангвис. Так мы перейдём в контратаку и отвоюем это место...
+NytoIsomer(3)<Speaker>Данделион</Speaker>;M4A1Mod(4)||:<color=#00CCFF>Минутку, пожалуйста.</color>
+RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(4)||<SE1>AVG_tele_disconnect</SE1>:Ты уверена в этом? Если С.Ф. нападет на нас, я не уверена, что смогу вытащить тебя отсюда в твоём нынешнем состоянии.
+RO635(3);M4A1Mod(4)<Speaker>M4A1</Speaker>||:В такие моменты у нас нет иного выбора, кроме как поставить на риск. Нам НУЖНО захватить береговую оборонительную артиллерию.+Если Командир ещё жив, эта артиллерия выиграет время для Грифона, и у нас появится шанс собраться и перегруппироваться.+Если с Командиром что-то случилось...+...+...Тогда захват артиллерии и уничтожение как можно большего числа боевых единиц — это последнее, что мы можем сделать для Командира.
+RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(4)||:Я с тобой.
+NytoIsomer(3)<Speaker>Данделион</Speaker><scan><通讯框>;M4A1Mod(4)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Я закончила взлом устройств С.Ф. Сейчас они приближаются к тебе.</color>+<color=#00CCFF>Удачи в том, что будет дальше.</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Принято к сведению. +Готовьтесь!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:Увидев приближающихся Кукол, Военные немедленно открыли яростный заградительный огонь.+Куклы мгновенно оказались под градом пуль и снарядов.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:Сейчас! 15-я, SOP-II, действуйте в соответствии с планом, который я только что синхронизировала с вами!
+AR15Mod(5)<Speaker>ST AR-15</Speaker><scan><通讯框>;M4A1Mod(4)||:<color=#00CCFF>Got it!</color>+<color=#00CCFF>Но огонь противника слишком интенсивный, иди ты первой!</color>
+RO635(5)<Speaker>RO635</Speaker>;M4A1Mod(4)||:SOP-II, прикрой нас!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>;M4A1Mod(4)||:<color=#00CCFF>Ахаха, ладно! Смотрите, как я их всех уничтожу!</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_disconnect</SE1>:Не увлекайся боем, SOP-II! Не отставай от нас! SOP-II!
+M4A1Mod(4)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:Наблюдая за тем, как Куколы пытаются спастись, один отчаянный солдат выбегает из укрытия.
+NPC-Yegor(3)<Speaker>Солдат</Speaker>||:Идите к черту, вы, жестяные банки!
+NPC-Yegor(3)<Speaker></Speaker>||<BGM>BGM_Boss</BGM><关闭火花>:Его слова внезапно оборвались.
+()<Speaker></Speaker>||<闪屏><duration>2</duration></闪屏>:Мимо него промелькнула красная вспышка, и отрезанные половины тела солдата упали в грязь, не дав ему полностью выбраться из укрытия.+Над трупом возвышалась знакомая фигура, которая одним движением запястья стряхнула кровь с своего длинного клинка.
+BOSS-2(0)<Speaker>Палач</Speaker>||:За гибель моих товарищей придется заплатить человеческими жизнями! +Сангвис Ферри! В АТАКУ!
+BOSS-2(0)<Speaker></Speaker>||:Подразделения С.Ф. устремляются прямо под огонь Военных, по-видимому, не обращая внимания на присутствие Команды AR.
+RO635(0)<Speaker>RO635</Speaker>||:Действительно, всё именно так, как сказала Данделион...
+RO635(0);M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑屏1>:Не время удивляться! Мы обойдем эту пехоту с флангов и отвоюем магазин!
