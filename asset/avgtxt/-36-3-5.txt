@@ -1,46 +1,46 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>219</BIN><黑屏2><BGM>10051</BGM>:...On the other side of the battlefield.
-()||:The shore gun's mechanisms are running at full speed, and the clamor of the machinery even manages to drown out the sound of gunfire outside.
-()||:M4 frantically fiddles with the cannon's fire control systems, trying to figure out how to aim the cannon as quickly as possible.+Once the hacking is successful, she immediately attempts to establish communications with the Commander, but her only response from the channel is static.
-()<Speaker>M4A1</Speaker>||:Dandelion, do you copy?! What's the situation now?
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Lunasia, the Commander is still alive, but we can no longer use the quarantine wall as a line of defense. </color>+<color=#00CCFF>Griffin's situation is critical. Are you ready to fire?</color>
-()<Speaker>M4A1</Speaker>||:Ready to fire anytime! How's the loading going?
-AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>15 seconds until it's done!</color>
-()<Speaker>M4A1</Speaker>||:Does the Commander have a plan?
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Griffin has taken grievous losses. They are now withdrawing to the sectors within the base which 404 have already explored. </color>+<color=#00CCFF>They desperately need fire support from you.</color>
-())<Speaker>M4A1</Speaker>||:Got it! We'll cover them as best as we can!
-AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>M4, loading complete!</color>
-()<Speaker>M4A1</Speaker>||:Ready to fire! What are the coordinates?
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>I've already sent you the location of the train that DEFY found.</color>
-()<Speaker>M4A1</Speaker>||:Received! +Commencing firing sequence!
-()||:The gigantic coastal defense artillery gun slowly adjusts its angle...
-()||<SE1>Battlefield</SE1><黑屏1>:A thunderous cannon blast drowns out all other sound, and the mighty shockwave from the cannon's muzzle even knocks over some of the attacking soldiers.
-()||<BIN>9</BIN><黑屏2><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:The soldiers take advantage of the massive clouds of dust that have been thrown up to make a charge, but they are repelled by the defending AR Team again and again.
-()<Speaker>Radio</Speaker>||<SE2>AVG_whitenoise</SE2>:<color=#00CCFF>Quartz to Terra! </color>+<color=#00CCFF>The enemy is firing the shore gun! Please withdraw immediately!</color>+<color=#00CCFF>I repeat, please withdraw immediately!</color>
-()<Speaker>Yegor</Speaker>||:What?!
-()<Speaker>Adjutant</Speaker>||:The enemy's taken control of the coastal defense gun and they're firing at—
-()||<SE1>Explode</SE1><BGM>10106</BGM><黑屏1>:Before the officer can finish speaking, the shell fired by the coastal artillery impacts near the armored train.+The titanic impact of the shell rocks the armored train violently.+The shockwave throws Yegor against a wall, and the ammunition and documents on the table are scattered all over the floor.
-NPC-Yegor(4)<Speaker>Yegor</Speaker>||<BIN>202</BIN><黑屏2>:Dammit! +Start the train up immediately! Our shields can't stop rounds of that size!
-NPC-Soldier(0)<Speaker>Officer</Speaker>||<黑点1>:Right away, sir!
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||<黑点2><BIN>219</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>The first shot was off target. The Military trains are starting to move.</color>
-()<Speaker>M4A1</Speaker>||<黑屏1>:Correcting trajectory... You won't get away this time!
-()||<BIN>9</BIN><黑屏2><SE1>Explode</SE1>:As the Military trains sluggishly heave themselves into motion, the second shell from the shore gun whistles past and scores a direct hit on the rearmost train.+The train continues forward on momentum, but soon a massive explosion erupts from within it. The main cannon is blasted high into the air and excavates a huge crater when it finally lands.+The train itself blazes ferociously, and burning soldiers struggle to free themselves in a frenzy.
-()<Speaker>Adjutant</Speaker>||:Train 4 has been destroyed!
-()<Speaker>Yegor</Speaker>||<黑屏1>:Tsk! Proceed at full speed toward the quarantine wall and smash that pile of Griffin trash aside! All units, hit them hard!+ Destroy Griffin at all costs!
-()<Speaker>M4A1</Speaker>||<BIN>219</BIN><黑屏2>:What's the situation now?
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>The second shot hit the armored train. </color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>I saw it from here!</color>+<color=#00CCFF>It's just like fireworks! Boom — to kingdom come!</color>
-AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>We have enough rounds; we can keep shooting!</color>
-()<Speaker>M4A1</Speaker>||:Alright, we'll continue supporting the Commander! +RO, are the enemy still trying to attack?
-RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>That's strange, the infantry attacks have tapered off...</color>+<color=#00CCFF>I have a bad feeling about this...</color>
-()||<SE1>Explode</SE1>:Before long, the Dolls feel an explosion and shockwave above them.
-RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Looks like they're thinking of destroying the cannon directly since they can't take it! </color>+<color=#00CCFF>I suggest we get out of here ASAP; if the cannon comes crashing down, it might bring the whole place down along with it!</color>
-()<Speaker>M4A1</Speaker>||:Hold on just a little longer!+Every shell we fire will ease the pressure on the Commander!
-AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>I agree, this shore gun seems very solid. I'm sure it'll last a while longer!</color>
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>The Military is launching an all-out attack.</color>+<color=#00CCFF>Their vanguard has made it past the quarantine wall and they are drawing closer to the remnants of Griffin's forces.</color>
-()<Speaker>M4A1</Speaker>||:Adjust the cannon's firing angle, we need to buy the Commander more time to withdraw!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Ahhhh, what a pain! It's like a piece of chewing gum in your hair; you just can't pull it off!</color>
-()<Speaker>M4A1</Speaker>||:RO, take SOP-II and secure our route into the base!
-RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Got it! SOP-II, follow me!</color>
-()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:15, hang in there just a little longer!+We need to fire one more round!
-()<Speaker>ST AR-15</Speaker>||<黑屏1>:<color=#00CCFF>No problem!</color>
+()<Speaker></Speaker>||<BIN>219</BIN><黑屏2><BGM>10051</BGM>:...На другой стороне поля боя.
+()||:Механизмы береговой пушки работают на полную мощность, и грохот механизмов даже заглушает звуки выстрелов снаружи.
+()||:M4 лихорадочно возится с системами управления огнем пушки, пытаясь понять, как навести пушку в кратчайшие сроки.+Как только взлом удался, она сразу же пытается установить связь с Командиром, но в ответ с канала слышны лишь помехи.
+()<Speaker>M4A1</Speaker>||:Данделион, слышишь меня?! Какова ситуация на данный момент?
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Луназия, Командир всё ещё жив, но мы больше не можем использовать карантинную стену в качестве линии обороны. </COLOR>+<COLOR=#00CCFF>Положение Грифона критическое. Готова открыть огонь?</color>
+()<Speaker>M4A1</Speaker>||:Готова стрелять в любой момент! Как идёт заряжание?
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Еще 15 секунд — и готово!</color>
+()<Speaker>M4A1</Speaker>||:Есть ли у Командира план?
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>Грифон понес тяжелые потери. Сейчас они отступают в те секторы базы, которые 404-я уже разведала. </color>+<color=#00CCFF>Им крайне необходима ваша огневая поддержка.</color>
+())<Speaker>M4A1</Speaker>||:Понятно! Мы постараемся их осветить как можно лучше!
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>M4, перезарядка завершена!</color>
+()<Speaker>M4A1</Speaker>||:Готов к стрельбе! Каковы координаты?
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>Я уже прислала тебе координаты поезда, который обнаружил DEFY.</color>
+()<Speaker>M4A1</Speaker>||:Принято! +Начинаем процесс запуска!
+()||:Гигантская артиллерийская установка береговой обороны медленно изменяет угол наведения...
+()||<SE1>Battlefield</SE1><黑屏1>:Громоподобный выстрел из пушки заглушает все остальные звуки, а мощная ударная волна, исходящая из дула пушки, даже сбивает с ног некоторых из атакующих солдат.
+()||<BIN>9</BIN><黑屏2><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:Солдаты используют поднявшиеся огромные облака пыли, чтобы совершить атаку, но их снова и снова отбивает обороняющаяся Команда AR.
+()<Speaker>Радио</Speaker>||<SE2>AVG_whitenoise</SE2>:<color=#00CCFF>Кварц — Терра! </color>+<color=#00CCFF>Враг открыл огонь из береговой артиллерии! Немедленно отступайте!</color>+<color=#00CCFF>Повторяю, немедленно отступайте!</color>
+()<Speaker>Егор</Speaker>||:Что?!
+()<Speaker>Adjutant</Speaker>||:Враг захватил орудие береговой обороны и ведёт огонь по…
+()||<SE1>Explode</SE1><BGM>10106</BGM><黑屏1>:Не успел офицер договорить, как снаряд, выпущенный береговой артиллерией, разорвался рядом с бронированным поездом.+Мощный взрыв снаряда сильно сотряс бронированный поезд.+Ударная волна отбросила Егора к стене, а боеприпасы и документы, лежавшие на столе, разлетелись по всему полу.
+NPC-Yegor(4)<Speaker>Егор</Speaker>||<BIN>202</BIN><黑屏2>:Чёрт возьми! +Немедленно запустите поезд! Наши щиты не способны остановить снаряды такого калибра!
+NPC-Soldier(0)<Speaker>Officer</Speaker>||<黑点1>:Сейчас же, сэр!
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||<黑点2><BIN>219</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Первый выстрел прошел мимо цели. Военные поезда начинают движение.</color>
+()<Speaker>M4A1</Speaker>||<黑屏1>:Корректирую траекторию... На этот раз тебе не уйти!
+()||<BIN>9</BIN><黑屏2><SE1>Explode</SE1>:Пока военные поезда с трудом начинают движение, второй снаряд из береговой пушки свистят мимо и попадает прямо в самый задний вагон.+Поезд продолжает движение по инерции, но вскоре изнутри раздаётся мощный взрыв. Главная пушка взлетает высоко в воздух и, упав на землю, вырывает огромную воронку.+Сам поезд бушует в пламени, а горящие солдаты в панике пытаются выбраться из него.
+()<Speaker>Adjutant</Speaker>||:Поезд № 4 уничтожен!
+()<Speaker>Егор</Speaker>||<黑屏1>:Тс-с! Двигайтесь на полной скорости к карантинной стене и разбейте эту кучу отбросов Грифона в щепки! Всем подразделениям — нанести им сокрушительный удар!+ Уничтожить Грифона любой ценой!
+()<Speaker>M4A1</Speaker>||<BIN>219</BIN><黑屏2>:Как обстоят дела сейчас?
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>Второй выстрел попал в бронированный поезд. </color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Я видела это отсюда!</color>+<color=#00CCFF>Прямо как фейерверк! Бум — и все полетело к черту!</color>
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>У нас достаточно патронов; мы можем продолжать стрелять!</color>
+()<Speaker>M4A1</Speaker>||:Ладно, будем и дальше поддерживать Командира! +RO, враг всё ещё пытается атаковать?
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Странно, атаки пехоты постепенно стихли...</color>+<color=#00CCFF>У меня по этому поводу плохое предчувствие...</color>
+()||<SE1>Explode</SE1>:Вскоре Куклы чувствуют над собой взрыв и ударную волну.
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||:<color=#00CCFF>Похоже, они собираются просто уничтожить пушку, раз не могут её забрать! </color>+<color=#00CCFF>Предлагаю нам убираться отсюда как можно скорее; если пушка рухнет, она может обрушить на нас всё здание!</color>
+()<Speaker>M4A1</Speaker>||:Потерпите ещё чуть-чуть!+Каждый выпущенный нами снаряд облегчит давление на Командира!
+AR15Mod(0)<Speaker>ST AR-15</Speaker><scan><通讯框>||:<color=#00CCFF>Согласна, эта береговая пушка выглядит очень прочной. Уверена, что она прослужит ещё не один год!</color>
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>Военные начинают полномасштабное наступление.</color>+<color=#00CCFF>Их авангард прорвался через карантинную стену и приближается к остаткам войск Грифона.</color>
+()<Speaker>M4A1</Speaker>||:Отрегулируйте угол стрельбы пушки — нам нужно выиграть время, чтобы Командир успел отступить!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><scan><通讯框>||:<color=#00CCFF>Аааа, какая неприятность! Это как кусочек жевательной резинки, застрявший в волосах: его просто невозможно вытащить!</color>
+()<Speaker>M4A1</Speaker>||:RO, займи позицию SOP-II и обеспечь безопасность нашего маршрута к базе!
+RO635(0)<Speaker>RO635</Speaker><scan><通讯框>||<黑屏1>:<color=#00CCFF>Поняла! SOP-II, за мной!</color>
+()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:15-я, потерпи еще чуть-чуть! + Нам нужно выстрелить ещё один раз!
+()<Speaker>ST AR-15</Speaker>||<黑屏1>:<color=#00CCFF>Без проблем!</color>
