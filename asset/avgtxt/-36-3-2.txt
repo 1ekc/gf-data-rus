@@ -1,77 +1,77 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>229</BIN><Night><黑屏2><BGM>BGM_Room</BGM>:Several minutes later.
-HK416Mod(0)<Speaker>416</Speaker>||:Enough dawdling back there, Gr G11!
-G11(2)<Speaker>Gr G11</Speaker>||:I was just thinking...the symbols on the walls looked really familiar, why are you snapping at me...+They just showed up, but they're getting denser the further ahead we go... Could they be a warning sign or something?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:You mean these overlapping triangles with a little dot in the center? +I have no idea what these symbols mean...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Well, whatever they mean, at the very least they're a sign that we're getting closer to something important.+9, can you still follow Intruder's position?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:I can, but most of the surrounding sectors are blocked off by gates. We won't be able to get to her position while the base's power supply is offline.
-HK416Mod(0)<Speaker>416</Speaker>||:So do we need to turn back and find the power room?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:Nope... I think we're actually heading to the power room through a different entrance...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:What a coincidence. It's as though Intruder was deliberately guiding us there.
-()||:UMP45 looks at the darkened end of the corridor. The map indicates that the electrical control room is waiting for them just ahead.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:45, I can detect several S.F. signals inside the power room, as well as...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:As well as what?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:As well as two Nyto-like signals...+But they're not moving at all. They're like the Sangvis corpses we saw in the passage just now.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Hmm... Maybe they killed each other.+Stay alert. Spread out.+416, check the entrance with me.
-HK416Mod(0)<Speaker>416</Speaker>||:No problem. The door seems to have been broken down.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Well, whoever did it has done us a huge favor.
-()||<BIN>228</BIN><黑屏2>:UMP45 and 416 gently push open the half-broken door and cautiously enter the room. They are followed by UMP9 and Gr G11, who jog in without making a sound.+Squad 404 sweeps the room from left to right. As expected, they find two black-clad Nytos standing in the power room, in the middle of a circle made out of Sangvis units.+The Nytos and S.F. Dolls are all inanimate, their heads drooping, like puppets on strings.
-()<Speaker>UMP9</Speaker>||:This is really creepy...
-()<Speaker>416</Speaker>||:Would you mind giving me some space, Gr G11?! I can't aim properly!
-()<Speaker>Gr G11</Speaker>||:But...but...they look so scary... +What if they all move at once...!
-()<Speaker>UMP9</Speaker>||:Shhh... Quiet... Don't jinx it!
-()<Speaker>UMP45</Speaker>||:Did they hack each other mid-battle? +I've never seen a situation where both sides crashed at the same time. +Dandelion was right - there are Nytos, but they aren't armed like the ones in previous records.
-()<Speaker>UMP9</Speaker>||:I don't see any other Paradeus autonomous units either. So it was just the Nytos fighting S.F.?
-()<Speaker>UMP45</Speaker>||:Looks like it. +The Nytos aren't very well-equipped either. What the hell was this base used for...?
-()<Speaker>416</Speaker>||:What if the Nytos shut these S.F. forces down, then M16 shut them down in turn?
-()<Speaker>Gr G11</Speaker>||:What's with this matryoshka doll situation...? I don't get it...
-()<Speaker>UMP9</Speaker>||:45, the backup power supply is still functional. Maybe we could try looking for DEFY through the closed-circuit system.
-()<Speaker>UMP45</Speaker>||:Is that our only option?
-()<Speaker>UMP9</Speaker>||:Yes. It seems the interior of this base has been signal-proofed. We can't communicate with the Commander and the others from our present position. +That's also the reason why we won't be able to find DEFY if they're too far away, to say nothing of getting in touch with them. +However, the closed circuit system uses the base's internal landlines, which shouldn't be affected by the signal blocking. +Perhaps we could give it a try?
-()<Speaker>UMP45</Speaker>||<黑屏1>:By all means, then.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||<黑屏2><BIN>229</BIN><Night>:One sec... This might take a while.
-HK416Mod(0)<Speaker>416</Speaker>||:DEFY aside, are you sure you want to reactivate the power while we're in the middle of a pile of enemies?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:If there's no power, would you mind raising each gate by hand?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:But what if the enemy suddenly appears and surrounds us if we restart the power?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:From what I know, you were never this paranoid before.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:I just think this base is weird. +At first, I thought that this place would be heavily guarded...but everything seems to be different from what I anticipated.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Reality often ends up going against our expectations.
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ah, 45! I found them! +I can see them through the closed circuit cameras, they appear to be alright!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:Can we talk to them?
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:We can with this!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:The mic?
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:That's right. It looks like an internal communications system for the base. It's not too secure, but we can't really be bothered about that now!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Can't be helped then. Hello, can you hear me?
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Aha, yes, we hear you.</color>+<color=#00CCFF>Hello, this is the Military, please identify yourselves for follow-up contact.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:This is UMP45. +If you're in the mood to crack jokes like this, you must be feeling pretty relaxed, unlike those two new teammates of yours.
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>So it's UMP45.</color>+<color=#00CCFF>Looks like you've already met, which saves me the trouble of introducing them.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:I didn't think I'd have to wipe DEFY's butts twice. What a medal of honor for my career as a T-Doll.
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Well, your usual work is hardly more honorable than this. One rarely gets the chance to carry out such enjoyable missions.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Are you disappointed? I thought you'd be dying to hear a friendly voice.
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Well, I'm kind of disappointed that you aren't the Commander, but given the urgency of the situation, I guess you'll do.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Humph. Alright, enough nonsense. +What's the situation inside the base? Be as brief as possible.
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>We snuck into the second underground level, found Paradeus' research labs, then S.F. rushed in and all hell broke loose.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Yeah, we noticed.
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>After that, someone cut the power. Now we're stuck in a quarantine compartment on the second floor.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Where's Ange?
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>She's trapped in another area, and she's in a pretty tricky situation.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Is she surrounded by the enemy?
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>If only it were that simple. It's hard to explain.</color>+<color=#00CCFF>In any case, we need you to get us out ASAP.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:We'll restart the power, then sync you a set of coordinates where we'll meet up.
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>The signal isolation on level 2 is incredibly strong and we can't really pinpoint locations.</color>+<color=#00CCFF>Come on down to level 2 and find a way to join us. It's not too big down here.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:I'll think of something.
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Oh yes, just a reminder, if you encounter any crashed S.F. or Paradeus, stay well clear of them.</color>+<color=#00CCFF>I don't know why they've shut down, but these statue impostors are easily reactivated by external stimuli.</color>
+()||<BIN>229</BIN><Night><黑屏2><BGM>BGM_Room</BGM>:Через несколько минут.
+HK416Mod(0)<Speaker>416</Speaker>||:Хватит там прохлаждаться, Gr G11!
+G11(2)<Speaker>Gr G11</Speaker>||:Я тут подумала... символы на стенах показались мне очень знакомыми, почему ты на меня так набрасываешься... +Они появились совсем недавно, но чем дальше мы идём, тем гуще их становится... Может, это какое-то предупреждение или что-то в этом роде?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ты имеешь в виду эти пересекающиеся треугольники с маленькой точкой посередине? +Я понятия не имею, что означают эти символы...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ну, что бы они ни означали, по крайней мере, это признак того, что мы приближаемся к чему-то важному. +9-я, ты всё ещё можешь отслеживать положение Нарушительницы?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Могу, но большинство соседних секторов перекрыты воротами. Пока на базе отключено электроснабжение, мы не сможем добраться до места, где она находится.
+HK416Mod(0)<Speaker>416</Speaker>||:Значит, нам нужно вернуться и найти электрощиток?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:Нет... По-моему, мы на самом деле идем в электрощитовую через другой вход...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Какое совпадение. Словно Нарушительница специально направляла нас туда.
+()||:UMP45 смотрит в темный конец коридора. По карте видно, что прямо впереди их ждёт электротехническая комната.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:45-я, я улавливаю несколько сигналов С.Ф. внутри электрощитовой, а также...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:А что ещё?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:А также два сигнала, похожих на сигналы Нито... + Но они совершенно не двигаются. Они похожи на трупы Сангвис, которые мы только что видели в проходе.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Хм... Может, они убили друг друга.+Будьте начеку. Распределитесь.+416-я, проверишь вход вместе со мной.
+HK416Mod(0)<Speaker>416</Speaker>||:Ничего страшного. Похоже, дверь выломали.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Что ж, кто бы это ни сделал, он оказал нам огромную услугу.
+()||<BIN>228</BIN><黑屏2>:UMP45 и 416-я осторожно приоткрывают полуразрушенную дверь и осторожно входят в комнату. За ними следуют UMP9 и Gr G11, которые вбегают, не издавая ни звука.+Отряд 404 прочесывает комнату слева направо. Как и ожидалось, в машинном отделении они обнаруживают двух одетых в чёрное Нито, стоящих в центре круга, образованного бойцами Сангвис.+Нито и S.Ф. Куклы безжизненно висят, опустив головы, словно марионетки на ниточках.
+()<Speaker>UMP9</Speaker>||:Это действительно жутко...
+()<Speaker>416</Speaker>||:Не могла бы ты дать мне немного места, Gr G11?! Я не могу нормально прицелиться!
+()<Speaker>Gr G11</Speaker>||:Но... но... они выглядят так страшно... +А вдруг они все внезапно двинутся...!
+()<Speaker>UMP9</Speaker>||:Тсс... Тише... Не сглазь!
+()<Speaker>UMP45</Speaker>||:Они что, взломали друг друга прямо во время сражения? +Я никогда не видела, чтобы обе стороны вылетели из игры одновременно. +Данделион была прав — Нито есть, но они вооружены не так, как те, что фигурировали в предыдущих записях.
+()<Speaker>UMP9</Speaker>||:Я тоже не вижу никаких других автономных подразделений Парадеус. Так что против С.Ф. сражались только Нито?
+()<Speaker>UMP45</Speaker>||:Похоже на то. +У Нито тоже не особо хорошее вооружение. Для чего, черт возьми, использовалась эта база…?
+()<Speaker>416</Speaker>||:А что, если Нито выведет из строя эти силы С.Ф., а затем М16 в свою очередь выведет из строя Нито?
+()<Speaker>Gr G11</Speaker>||:Что это за ситуация с матрешками...? Я ничего не понимаю...
+()<Speaker>UMP9</Speaker>||:45-я, резервный источник питания по-прежнему исправен. Может быть, стоит попробовать найти DEFY через систему видеонаблюдения?
+()<Speaker>UMP45</Speaker>||:Это наш единственный вариант?
+()<Speaker>UMP9</Speaker>||:Да. Похоже, внутренние помещения этой базы защищены от проникновения сигналов. С нашего нынешнего местоположения мы не можем связаться с Командиром и остальными. +По этой же причине мы не сможем обнаружить DEFY, если они будут находиться слишком далеко, не говоря уже о том, чтобы связаться с ними. +Однако система замкнутого контура использует внутренние стационарные линии базы, на которые блокировка сигнала не должна влиять. +Может быть, стоит попробовать?
+()<Speaker>UMP45</Speaker>||<黑屏1>:Ну что ж, тогда.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||<黑屏2><BIN>229</BIN><Night>:Секундочку... Это может занять некоторое время.
+HK416Mod(0)<Speaker>416</Speaker>||:Не говоря уже о DEFY, ты уверена, что хочешь включить питание, пока мы окружены кучей врагов?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Если отключат электричество, можно ли будет поднять каждую дверь вручную?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Но что, если при включении питания внезапно появится враг и окружит нас?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Насколько я знаю, раньше ты никогда не была таким параноиком.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Мне просто кажется, что эта база какая-то странная. +Сначала я думала, что это место будет тщательно охраняться... но, похоже, всё обстоит не так, как я предполагала.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Реальность зачастую оказывается не такой, как мы ожидали.
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Ах, 45-я! Я их нашла! +Я вижу их через камеры видеонаблюдения, похоже, с ними всё в порядке!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:Можно с ними поговорить?
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Мы справимся с этим!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:Микрофон?
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Верно. Похоже, это система внутренней связи базы. Она не слишком безопасна, но сейчас нам не до этого!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ну, что ж, ничего не поделаешь. Привет, ты меня слышишь?
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Ага, да, мы вас слышим.</color>+<color=#00CCFF>Здравствуйте, это Военные. Пожалуйста, назовите свои данные для дальнейшего контакта.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Это UMP45. +Если у тебя есть настроение отпускать такие шутки, значит, ты, должно быть, чувствуешь себя довольно расслабленно, в отличие от твоих двух новых товарищей по команде.
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Итак, это UMP45.</color>+<color=#00CCFF>Похоже, вы уже познакомились, так что мне не придется их представлять.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Не думала, что мне придётся дважды подтирать задницу DEFY. Вот это да, настоящая медаль за заслуги в моей карьере Т-Куклы.
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Ну, твоя обычная работа вряд ли более почетна, чем это. Редко выпадает шанс выполнять такие увлекательные задания.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Ты разочарована? Я думала, тебе не терпится услышать дружеский голос.
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Ну, я, конечно, немного разочарована тем, что ты не Командир, но, учитывая срочность ситуации, пожалуй, и так сойдешт.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Хм. Ладно, хватит болтать ерунду. +Какова обстановка внутри базы? Ответь как можно кратко.
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Мы пробрались на второй подземный уровень, нашли исследовательские лаборатории Парадеуса, а потом ворвался С.Ф., и начался настоящий ад.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Да, мы заметили.
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>После этого кто-то отключил электричество. Теперь мы застряли в карантинном отсеке на втором этаже.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Где Анже?
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Она оказалась в ловушке в другом месте и попала в довольно затруднительное положение.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Она окружена врагами?
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Если бы всё было так просто. Это сложно объяснить.</color>+<color=#00CCFF>В любом случае, нам нужно, чтобы вы нас оттуда вытащили как можно скорее.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Мы восстановим питание, а затем пришлем координаты места нашей встречи.
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Изоляция сигнала на втором уровне настолько сильная, что мы не можем точно определить местоположение.</color>+<color=#00CCFF>Спускайтесь на второй уровень и найдите способ присоединиться к нам. Здесь не так уж и просторно.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:Я что-нибудь придумаю.
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Ах да, напомню: если вы встретите выведенные из строя модели С.Ф. или Парадеус, держитесь от них подальше.</color>+<color=#00CCFF>Не знаю, почему они вышли из строя, но эти «поддельные статуи» легко реактивируются под воздействием внешних раздражителей.</color>
 UMP45Mod(0)<Speaker>UMP45</Speaker>;AK12(0)||:...
-UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>Then again, you've always been a squad that excels at infiltration, so it shouldn't be a problem for you.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:Stay put once the power comes back up. We'll be right over.
-()||<SE1>AVG_tele_disconnect</SE1>:The communication ends.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||<BGM>BGM_Danger</BGM>:Er...
-G11(2)<Speaker>Gr G11</Speaker>||:So...can I step outside the room before you restart the power?
-HK416Mod(0)<Speaker>416</Speaker>||:Don't even think about it. Take care of the three targets on the right.
-G11(3)<Speaker>Gr G11</Speaker>||:So many?!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Stop wasting time. Find a good defensive position. Once the power goes back up, we'll think of a way to avoid fighting these statues. Let them continue killing each other.
-()||:UMP45 makes a hand gesture, indicating the position of the control panel.+The members of Squad 404 pick a spot close to the exit and wait for 45 to restart the power.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:(Inhales) You ready?
-()||<SE2>Alarm</SE2><白屏1>:UMP45 studies the control panel, then resolutely throws the master power switch. +In an instant, the entire world lights up.+The shrill sound of alarms and pipe friction scrape assault 404's auditory modules, and the Nytos and Sangvis forces resume their maniacal attack on each other, like an unpaused movie.
-G11(3)<Speaker>Gr G11</Speaker>||<白屏2><BIN>229</BIN>:Uwah—! +They really came back to life!
-HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:Cut the crap! Let's get out of here before they spot us!
+UMP45Mod(0);AK12(0)<Speaker>AK-12</Speaker>||:<color=#00CCFF>С другой стороны, вы всегда были отрядом, который отлично справляется с проникновением, так что для вас это не должно стать проблемой.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:Как только восстановится электроснабжение, никуда не уходите. Мы сразу же к вам подойдем.
+()||<SE1>AVG_tele_disconnect</SE1>:На этом связь прерывается.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||<BGM>BGM_Danger</BGM>:Э...
+G11(2)<Speaker>Gr G11</Speaker>||:Так... можно мне выйти из комнаты, прежде чем вы включите питание?
+HK416Mod(0)<Speaker>416</Speaker>||:Даже не думай об этом. Разберись с тремя целями справа.
+G11(3)<Speaker>Gr G11</Speaker>||:Так много?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Хватит тратить время. Найди хорошую оборонительную позицию. Как только восстановится электроснабжение, мы придумаем, как избежать сражения с этими статуями. Пусть они и дальше убивают друг друга.
+()||:UMP45 показывает рукой, где находится панель управления.+Члены отряда 404 занимают позицию рядом с выходом и ждут, пока 45-я восстановит питание.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:(Вдыхает) Готовы?
+()||<SE2>Alarm</SE2><白屏1>:UMP45 изучает панель управления, а затем решительно переключает главный выключатель питания. +В мгновение ока весь мир озаряется светом.+Пронзительный звук сирен и скрежет труб режут слуховые модули отряда 404, а войска Нито и Сангвис возобновляют свою безумную атаку друг на друга, словно в фильме, который не был поставлен на паузу.
+G11(3)<Speaker>Gr G11</Speaker>||<白屏2><BIN>229</BIN>:Ух ты—! +Они действительно ожили!
+HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:Хватит нести чушь! Давай убираться отсюда, пока нас не заметили!
