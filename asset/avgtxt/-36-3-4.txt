@@ -1,60 +1,60 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BGM>BGM_Truth</BGM>:This isn't the first time it has happened, but I awaken as the pain courses through me like an electrical current and drags my mind out of the darkness.
-()<Speaker>Commander</Speaker>||<SE1>AVG_tinnitus</SE1>:Where...am I?
-()||:I open my eyes, but I can't see anything. The thick, acrid smoke stabs through my nostrils and into my head. +The air I inhale seems to sear my lungs, and all I can feel is the rolling waves of heat around me.
-()<Speaker>Commander</Speaker>||:Is this some kind of stress-induced blindness? ...Dammit. At least I can still hear.
-()<Speaker>???</Speaker>||:Commander, please stay still. Regulate your breathing. +Come, there isn't much time.
-()||:A cool towel covers my nose, making the choking stench a lot more bearable.
-()<Speaker>Commander</Speaker>||:Who are you?
-()<Speaker>???</Speaker>||:One of your Dolls. Please conserve your strength.
-()||:I scramble for my thoughts in the darkness that can't be dispersed.
-()<Speaker>Commander</Speaker>||:Oh—!
-()<Speaker></Speaker>||<闪屏><duration>10</duration><rate>20</rate><delay>30</delay></Pic><CG>226,9</CG></闪屏><SE1>Explode</SE1>:A jolt of stabbing pain helps me swiftly piece together my memories.
-()<Speaker>Commander</Speaker>||:That noise... Was it the coastal defense artillery?
-()<Speaker>???</Speaker>||:It was a Military high explosive shell. Can you move?+I'm going to help you up now. Please follow me.
-()||:My mind begins to clear. My visions still hasn't returned, but it seems my body hasn't taken critical damage...
-()<Speaker>Commander</Speaker>||:Alright... Where are the others?
-()<Speaker>???</Speaker>||:I'm going to exert force now. One, two, hup!
-()<Speaker>Commander</Speaker>||:Ugh...
-()||:She doesn't answer. Instead, she focuses all her strength and energy on supporting my weight. Her scrawny shoulders are so hot they're practically on fire.+Every step forward is swift, but very careful.
-()<Speaker>???</Speaker>||:Please walk this way. Yes, over here.+I'm sorry, but the fire in the carriage is too great and I couldn't get to you sooner.+Here, hold on to this. Now jump out. Someone will catch you.
-()<Speaker>Commander</Speaker>||:Is there a fire? What about yourself?
-()<Speaker>???</Speaker>||:I am fine. I will go see if anyone else can be saved.
-()<Speaker>Commander</Speaker>||:Who are you? Tell me your name!
-()<Speaker>???</Speaker>||:I am simply a Doll of yours. +The Commander's here! Catch!
-()||:The Doll behind me gives me a light shove. I fall downwards, and the sensation of weightlessness makes me uneasy.+A fraction of a second later, this agitation is soothed by countless hands taking firm hold of me.+My body moves quickly as I'm being lifted away.
-()||<SE1>Explode</SE1>:Boom— +A series of terrifying explosions erupt in the direction which I just came from.
-()<Speaker>???</Speaker>||:Move aside! Where's Kalina? The Commander has been found and requires medical treatment!
-()<Speaker>???</Speaker>||:Commander!
-()<Speaker>Commander</Speaker>||:That voice... Is that you, Kalina? Are you alright?
-()<Speaker>Kalina</Speaker>||:Yes, yes... I'm okay. You can't see me?
-()<Speaker>Commander</Speaker>||:I'm sorry, but something seems to have happened to my eyes. I can't see anything for the time being.
-()<Speaker>Kalina</Speaker>||:I'll give you first aid right away.
-()<Speaker>Commander</Speaker>||:Hm... How are our echelons? Who was the Doll that just rescued me?
-()<Speaker>Kalina</Speaker>||:...
-()||:Kalina doesn't answer. She merely tends to my wounds. I can feel her hands tremble through the gauze she's applying. +I can faintly make out the sounds of suppressed sobbing.
-()<Speaker>Commander</Speaker>||:Kalina? Tell me.
-()<Speaker>Kalina</Speaker>||:The train was hit by a HEAP round... It's completely destroyed now...+The section of the quarantine wall around us was also caught in the blast. The entire room was set on fire and I was pulled out by the Dolls who rushed inside...+You were pinned under heavy debris. Our Dolls charged into the burning room to rescue you, but several of them didn't make it back out...
-()<Speaker>Commander</Speaker>||:...
-()<Speaker>Kalina</Speaker>||:Commander, have we lost?
-()<Speaker>Commander</Speaker>||:...
-()||:For a moment, I do not know how to answer this girl, who has always been so optimistic.
-()<Speaker>Kalina</Speaker>||:...It's done. +Commander, try opening your eyes.
-()||<黑屏1><BGM>BGM_Empty</BGM>:At Kalina's suggestion, I open my eyes again...
-()||<BGM>BGM_Sad</BGM><睁眼><BIN>41</BIN><火花>:I am sitting on a patch of empty ground, surrounded by a group of surviving Dolls.+Many of them are scarred by shrapnel and bear severe scorch marks.+They look at me with lost and despondent eyes, as though they already know how this is all going to end, but they say nothing.+I look down and see that Kalina has the same look in her eyes.
-()<Speaker>Commander</Speaker>||:Kalina, who was the one who rescued me just now?
-NPC-Kalin(9)<Speaker>Kalina</Speaker>||:I don't know either. Too many Dolls rushed in to put out the fire.
-()<Speaker>Commander</Speaker>||:Alright... I understand.+Where's Dandelion?
-NPC-Kalin(9)<Speaker>Kalina</Speaker>||:She was trapped on the other side by the explosion.+We can still contact her, though the connection is intermittent.
-()<Speaker>Commander</Speaker>||:Hand me the communicator.+Dandelion, can you hear me...? Give me a quick rundown of the situation.
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Less than 5% of our Dolls remain.</color>+<color=#00CCFF>Are we still going to fight?</color>
-()<Speaker>Commander</Speaker>||:...Yes, we'll continue to fight. All our previous plans are now unusable. Can you help me come up with a new one?
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Griffin still has a chance of victory, even if the probability of success is less than 1%.</color>
-()<Speaker>Commander</Speaker>||:Tell me now.
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Although the coastal defense artillery opened fire on our train, the AR Team has regained control of the cannon. </color>+<color=#00CCFF>Although the Military will counterattack, we have a chance to fire one shot.</color>+<color=#00CCFF>I need the coordinates of the enemy armored train so we can give them a taste of their own medicine.</color>
-()<Speaker>Commander</Speaker>||:Kalina, have DEFY go scout out the Military's position!
-NPC-Kalin(9)<Speaker>Kalina</Speaker>||:Yes, Commander, right away!
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>We can no longer hold this location. Squad 404 has entered the base following DEFY's withdrawal route. I recommend we do the same.</color>+<color=#00CCFF>After entering the base, we should destroy the entrance. Perhaps that will buy us some time.</color>
-()<Speaker>Commander</Speaker>||:Understood. I hope these delaying tactics will still be useful.
-NytoIsomer(4)<Speaker>Dandelion</Speaker><scan><通讯框>||:<color=#00CCFF>Also, there aren't many Dolls left here. I've already done a final neural cloud backup, so I believe my presence is no longer needed here.</color>+<color=#00CCFF>From now on, I will be assisting Lunasia. Please take care, Commander.</color>
-()<Speaker>Commander</Speaker>||<黑屏1>:Go, then. Make sure they come back alive. +As long as you survive...
+()||<BGM>BGM_Truth</BGM>:Это не первый раз, когда такое происходит, но я просыпаюсь, когда боль пронзает меня, словно электрический ток, и вырывает мой разум из тьмы.
+()<Speaker>Командир</Speaker>||<SE1>AVG_tinnitus</SE1>:Где... я?
+()||:Я открываю глаза, но ничего не вижу. Густой, едкий дым проникает в ноздри и пронзает голову. +Вдыхаемый воздух словно обжигает легкие, и я чувствую только наваливающиеся на меня волны жара.
+()<Speaker>Командир</Speaker>||:Это что, какая-то слепота от стресса? ...Чёрт. По крайней мере, я ещё слышу.
+()<Speaker>???</Speaker>||:Командир, пожалуйста, не шевелитесь. Успокойте дыхание. +Пошлите, времени осталось мало.
+()||:Прохладное полотенце прижато к моему носу, благодаря чему удушающий запах становится гораздо терпимее.
+()<Speaker>Командир</Speaker>||:Кто ты?
+()<Speaker>???</Speaker>||:Одна из твоих Кукол. Пожалуйста, береги силы.
+()||:Я пытаюсь собраться с мыслями в этой непроглядной тьме.
+()<Speaker>Командир</Speaker>||:Ох—!
+()<Speaker></Speaker>||<闪屏><duration>10</duration><rate>20</rate><delay>30</delay></Pic><CG>226,9</CG></闪屏><SE1>Explode</SE1>:Резкая, пронзительная боль помогает мне быстро собрать воедино обрывки воспоминаний.
+()<Speaker>Командир</Speaker>||:Этот шум… Это была береговая артиллерия?
+()<Speaker>???</Speaker>||:Это был военный фугасный снаряд. Вы можете двигаться? + Я сейчас помогу вам встать. Пожалуйста, идите за мной.
+()||:Мой разум начинает проясняться. Мои видения пока не вернулись, но, похоже, мое тело не получило серьезных повреждений...
+()<Speaker>Командир</Speaker>||:Ладно... А где остальные?
+()<Speaker>???</Speaker>||:Сейчас я приложу усилие. Раз, два, вперед!
+()<Speaker>Командир</Speaker>||:Ух...
+()||:Она не отвечает. Вместо этого она направляет всю свою силу и энергию на то, чтобы выдержать мой вес. Ее тощие плечи так раскалены, что, кажется, вот-вот загорятся.+Каждый шаг вперед — быстрый, но очень осторожный.
+()<Speaker>???</Speaker>||:Пожалуйста, идите сюда. Да, вот сюда.+Простите, но огонь в вагоне слишком сильный, и я не смогла подойти к вам раньше.+Вот, держитесь за это. А теперь выпрыгивайте. Кто-нибудь вас подхватит.
+()<Speaker>Командир</Speaker>||:Пожар? А ты как?
+()<Speaker>???</Speaker>||:Я в порядке. Пойду посмотрю, можно ли спасти ещё кого-нибудь.
+()<Speaker>Командир</Speaker>||:Кто ты? Скажи мне, как тебя зовут!
+()<Speaker>???</Speaker>||:Я просто твоя кукла. +Командир здесь! Лови!
+()||:Кукла, стоящая позади меня, слегка толкает меня. Я падаю вниз, и ощущение невесомости вызывает у меня беспокойство.+Через долю секунды это беспокойство утихает, когда бесчисленные руки крепко обхватывают меня.+Моё тело быстро движется, пока меня поднимают вверх.
+()||<SE1>Explode</SE1>:Бум! — +В том направлении, откуда я только что появился, раздалась серия ужасающих взрывов.
+()<Speaker>???</Speaker>||:Отойдите в сторону! Где Калина? Командир найден, ему требуется медицинская помощь!
+()<Speaker>???</Speaker>||:Командир!
+()<Speaker>Командир</Speaker>||:Этот голос… Это ты, Калина? С тобой всё в порядке?
+()<Speaker>Калина</Speaker>||:Да, да... Со мной всё в порядке. Ты меня не видишь?
+()<Speaker>Командир</Speaker>||:Извини, но, похоже, с моими глазами что-то случилось. Пока что я ничего не вижу.
+()<Speaker>Калина</Speaker>||:Я сейчас же окажу вам первую помощь.
+()<Speaker>Командир</Speaker>||:Хм... Как там у нас дела с отрядами? Кто эта Кукла, которая только что меня спасла?
+()<Speaker>Калина</Speaker>||:...
+()||:Калина не отвечает. Она просто перевязывает мои раны. Я чувствую, как дрожат её руки сквозь марлю, которую она накладывает. +Я смутно слышу звуки сдерживаемого рыдания.
+()<Speaker>Командир</Speaker>||:Калина? Расскажи мне.
+()<Speaker>Калина</Speaker>||:Поезд попал под удар снарядом высокоэффективного действия... Сейчас он полностью разрушен...+Взрывная волна также повредила участок карантинной стены вокруг нас. Вся комната загорелась, и меня вытащили Куклы, которые ворвались внутрь...+Ты оказался заблокирован под тяжелыми обломками. Наши Куклы ворвались в горящую комнату, чтобы спасти тебя, но некоторые из них так и не смогли выбраться обратно...
+()<Speaker>Командир</Speaker>||:...
+()<Speaker>Калина</Speaker>||:Командир, мы проиграли?
+()<Speaker>Командир</Speaker>||:...
+()||:На мгновение я не знаю, что ответить этой девушке, которая всегда была такой оптимистичной.
+()<Speaker>Калина</Speaker>||:...Готово. +Командир, попробуйте открыть глаза.
+()||<黑屏1><BGM>BGM_Empty</BGM>:По предложению Калины я снова открываю глаза...
+()||<BGM>BGM_Sad</BGM><睁眼><BIN>41</BIN><火花>:Я сижу на пустыре, в окружении группы выживших Кукол.+Многие из них изранены осколками и покрыты сильными ожогами.+Они смотрят на меня потерянными и унылыми глазами, словно уже знают, чем всё это закончится, но ничего не говорят.+Я опускаю взгляд и вижу, что у Калины в глазах тот же взгляд.
+()<Speaker>Командир</Speaker>||:Калина, а кто меня только что спас?
+NPC-Kalin(9)<Speaker>Калина</Speaker>||:Я тоже не знаю. Слишком много Кукол бросились тушить пожар.
+()<Speaker>Командир</Speaker>||:Ладно... Я понял.+Где Данделион?
+NPC-Kalin(9)<Speaker>Калина</Speaker>||:Взрыв заблокировал ей выход на другую сторону.+Мы по-прежнему можем связаться с ней, хотя связь прерывается.
+()<Speaker>Командир</Speaker>||:Передай мне коммуникатор. +Данделион, ты меня слышишь…? Кратко изложи мне ситуацию.
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Осталось менее 5 % наших Кукол.</COLOR>+<COLOR=#00CCFF>Мы всё ещё собираемся сражаться?</color>
+()<Speaker>Командир</Speaker>||:...YДа, мы будем продолжать бороться. Все наши прежние планы теперь непригодны. Можешь ли ты помочь мне придумать новый?
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>У Грифона всё ещё есть шанс на победу, даже если вероятность успеха составляет менее 1 %.</color>
+()<Speaker>Командир</Speaker>||:Скажи мне сейчас.
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>Несмотря на то, что береговая оборонительная артиллерия открыла огонь по нашему поезду, Команда AR восстановила контроль над пушкой. </color>+<color=#00CCFF>Хотя Военные нанесут ответный удар, у нас есть шанс сделать один выстрел.</color>+<color=#00CCFF>Мне нужны координаты вражеского бронированного поезда, чтобы мы могли ответить им той же монетой.</color>
+()<Speaker>Командир</Speaker>||:Калина, пусть DEFY разведает позиции Военных!
+NPC-Kalin(9)<Speaker>Калина</Speaker>||:Да, Командир, сейчас!
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>Мы больше не можем удерживать эту позицию. Отряд 404 проник на базу, следуя маршруту отступления DEFY. Предлагаю поступить так же.</color>+<color=#00CCFF>После проникновения на базу нам следует уничтожить вход. Возможно, это даст нам немного времени.</color>
+()<Speaker>Командир</Speaker>||:Понятно. Надеюсь, эти уловки, направленные на затягивание времени, всё же пригодятся.
+NytoIsomer(4)<Speaker>Данделион</Speaker><scan><通讯框>||:<color=#00CCFF>Кроме того, здесь осталось не так много Кукол. Я уже выполнила окончательную резервную копию нейронного облака, поэтому считаю, что моё присутствие здесь больше не требуется.</color>+<color=#00CCFF>Отныне я буду помогать Лунасии. Берегите себя, Командир.</color>
+()<Speaker>Командир</Speaker>||<黑屏1>:Ну, тогда иди. Постарайся, чтобы они вернулись живыми. +Главное, чтобы ты осталась в живых...
