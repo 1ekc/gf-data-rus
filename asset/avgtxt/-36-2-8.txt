@@ -1,78 +1,78 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()<speaker></speaker>||<黑屏2><BIN>72</BIN><BGM>m_avg_labyrinth</BGM>:-
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:... +I didn't notice that I was dragged into my neural cloud base layer. Kinda makes me a failure as an electronic warfare Doll, doesn't it?
-()<speaker></speaker>||:UMP45 looks around in search for any clues as to where this place is. +When the false light of cyberspace turns on, all she sees before her is a familiar electronic hatch.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Talk about uncreative... +So I'll have to walk out of a maze, the same way M4A1 did? +How...clichéd.
-()<speaker></speaker>||<SE1>AVG_door_elecport</SE1><白屏1><BGM>BGM_Empty</BGM>:Without any hesitation, UMP45 walks towards the electronic hatch.
-()<speaker></speaker>||<白屏2><BIN>71</BIN><BGM>10258</BGM>:Her senses are assaulted by the roar of steam, the grinding of gears, the smell of gun smoke, and an ache in her index finger. +UMP45 knows that this is the interior of the main factory of Sangvis Ferri Industries on the day of Operation Butterfly.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:What a bad memory... I know what you're trying to do, M16. +But these tricks won't hold me. Even if you put me through this ten thousand times, I can still walk out of it.
-()<speaker></speaker>||:The events before her begin to flow in reverse, and as her memories wind back, the feeling of familiarity gradually vanishes.
-()<Speaker>???</Speaker>||:Therefore, you must live, no matter what.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:It's only me from back then... It's only me from back then...
-()<Speaker>???</Speaker>||:Even T-Dolls have a reason to live for their own sake.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Don't be afraid... You can do it... +You've already changed! UMP45!
-()<speaker></speaker>||:As the rewind comes to an end and the last ray of light grows dim, darkness swallows UMP45's consciousness, and her memories begin unfolding again.
-()<Speaker>???</Speaker>||<黑屏1>:Not for anyone. YOUR own sake.
-()<speaker></speaker>||<黑屏2><BIN>71</BIN><BGM>BGM_Empty</BGM>:On the day of Operation Butterfly, within the Sangvis Ferri factory.
-()<Speaker>Human Officer</Speaker>||<BGM>BGM_Battle</BGM>:Squad 3 has the main hall under control. Squad 7, circle around through the back door and prepare to break into the target room!
-()<speaker></speaker>||:Griffin's well-trained elite T-Dolls burst into the room from the side with practiced ease, and the battle was over in an instant.+UMP45 observed everything happening inside the objective room through the security cameras. She had seen many exercises before, but she was still awed by the speed of the elite Dolls' reflexes.
-()<Speaker>Griffin Doll A</Speaker>||:Squad 3 and Squad 7 have reached the target room!
-()<Speaker>Griffin Doll B</Speaker>||:Target spotted! Target spotted! Hands in the air!
-()<speaker></speaker>||:Wobbling circles of torchlight overlapped on the body of a scrawny man.
-NPC-Lyco(0)<Speaker>Lyco</Speaker>||:...
-()<Speaker>Human Officer</Speaker>||:Mr. Lyco, please take your hands off the keyboard. I don't want to be rough.
-NPC-Lyco(0)<Speaker>Lyco</Speaker>||:Breaking into a private research lab without permission and sabotaging valuable instruments is plenty rude enough.+At least tell me who sent you.
-()<Speaker>Human Officer</Speaker>||:I am Second Lieutenant Sergei of the Soviet Ministry of Internal Affairs. I am arresting you by order of the Central People's Committee.
-NPC-Lyco(0)<Speaker>Lyco</Speaker>||:... +I understand. Please make sure you take care of my research material appropriately after this.
-()<Speaker>Human Officer</Speaker>||:We will. That will not be a problem, as long as you cooperate. You might even be allowed to continue your research.
-NPC-Lyco(0)<Speaker>Lyco</Speaker>||:I hope so.
-()<Speaker>???</Speaker>||:<color=#FFFF00>Execute Order 61.</color>
-UMP45_Young(1)<Speaker>UMP45</Speaker>||:What's that noise? This isn't our frequency...
-UMP40(0)<Speaker>UMP40</Speaker>||:45, I told you, keep quiet.
-()<speaker></speaker>||:UMP45 eyed UMP40 suspiciously as she activated an unfamiliar module.
-UMP45_Young(2)<Speaker>UMP45</Speaker>||:This module is... Hey, what are you doing, 40?!
-()<speaker></speaker>||:UMP40 did not answer. She simply fixed her gaze on the progress bar.
-()<Speaker>Human Officer</Speaker>||:Squads 7 and 14, you will be accompanying Mr. Lyco.+Squad 3, stay behind and help me collect the material. This way please, Mr. Lyco. These Dolls will escort you out.
-()<Speaker>Griffin Doll A</Speaker>||:Support team, prepare to evacuate. We're extracting the target. +Start moving to the evac point. Watch your corners.
-()<speaker></speaker>||:UMP45 and UMP40 left the room. Lyco followed the Griffin teams out of the room, his hands on the back of his head.
-()<speaker></speaker>||<SE2>Alarm</SE2>:However, an alarm went off the moment they started going down the stairs.
-()<Speaker>Griffin Doll B</Speaker>||:What the hell? The machines started up by themselves! An alarm? Was the operation exposed?
-()<Speaker>Griffin Doll A</Speaker>||<SE1>Runstep</SE1>:The target has escaped our restraint! Damn it, after him!
-()<speaker></speaker>||:UMP45 could hear Dolls shouting from behind her. She wanted to turn around and look, but UMP40 pinned her to the ground underneath her.
-()<speaker></speaker>||<SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:A second later, the sound of heavy gunfire erupted from all around them.
-()<Speaker>Griffin Doll C</Speaker>||<BGM>BGM_Danger</BGM>:Unable to pursue, we got ambushed! Two Dolls are hit! We're being suppressed!
-()<Speaker>Griffin Doll C</Speaker>||:Entrances 13D, 15D, and 28A are sealed off! Support team, what the hell are you doing?! Squad 8 reporting Sangvis T-Dolls sighted on our flank! They're opening fire on us!
-()<speaker></speaker>||:Chaotic gunshots and the screams of Dolls resounded in the air.+All this happened too fast for UMP45 to react, and all she could do was tremble in UMP40's arms.
-()<Speaker>Griffin Doll B</Speaker>||:Wait! Our own Dolls are shooting at us! What the hell?!  +Stay away! Stop! Ahhhhhhhh!
-()<Speaker>Griffin Doll A</Speaker>||:We've lost contact with Squad 6! No good, we've lost contact with Squad 3 as well! What the hell's going on? HQ, do we have permission to return fire?
-()<Speaker>Griffin Doll A</Speaker>||:No good, communications are completely cut off! Damn it to hell, was this a trap?! Attention to all teams, eliminate all threats and commence evacuation! The operation has failed!
-UMP45_Young(3)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>What's going on? What just happened?!</color>+<color=#A9A9A9>The monitor's filled with red dots and the data stream is reversing!</color>+<color=#A9A9A9>I can't track our allies' signals anymore! I can't remain in the network any longer!</color>+<color=#A9A9A9>40! Can you hear me? Outside...it's already...!</color>
-UMP40(0)<Speaker>UMP40</Speaker>||:<color=#A9A9A9>45, stay still and listen to me.</color>+<color=#A9A9A9>Listen to me if you want to live.</color>
-()<speaker></speaker>||<BGM>BGM_Empty</BGM>:After who knows how long, the sound of gunfire finally ceased, and the remaining red dot on the security monitor had traveled far away.+UMP40 stood up as though nothing had happened and extended a hand to 45.
-UMP40(0)<Speaker>UMP40</Speaker>||<BGM>10203</BGM>:If we go down this duct, we'll end up very close to the exit. I've already hacked all the S.F. automated defenses.+There's three more gates before the evacuation point. We might be able to open them if we force a connection.
-UMP45_Young(1)<Speaker>UMP45</Speaker>||:40... What on earth...
-()<speaker></speaker>||:UMP45 looked around. +The bloody, frantic footprints vanished at the end of the corridor. The remains of Griffin Dolls were everywhere, as well as shell casings and debris...+A battle had just taken place here.
-UMP40(0)<Speaker>UMP40</Speaker>||:Now's not the time for chitchat. We need to get out of here quickly. Once the factory begins automated production...
-UMP45_Young(1)<Speaker>UMP45</Speaker>||:...Huh?!+Footsteps? Are they Dolls retreating in our direction?
-UMP40(5)<Speaker>UMP40</Speaker>||:Get down!!
-()<speaker></speaker>||:Several Griffin Dolls with unidentifiable signals came into view.
-()<speaker></speaker>||<SE2>Gunfight</SE2>:....Bangbangbang!
-UMP40(5)<Speaker>UMP40</Speaker>||:Move! Hurry! Don't let them pin you down!
-UMP45_Young(1)<Speaker>UMP45</Speaker>||:What happened? Aren't they our people?!
-UMP40(0)<Speaker>UMP40</Speaker>||:Not anymore!+And they...will never be again...+We have no choice but to shoot back!
-UMP45_Young(3)<Speaker>UMP45</Speaker>||:Dammit!
-()<speaker></speaker>||:The flow of time began to lose importance. Her initial shock and helplessness, the uneasiness as she came to realize the truth, the anger when she learned that she had been betrayed... All these feelings blended together and finally erupted from the flames.+UMP45 can't even remember what she said back then, or what 40's reply was.+Nor can she remember who those Dolls were - their faces were riddled with holes and their bodies shot to bits.+The only things that struck her clearly were the way her index finger ached from squeezing her trigger so tightly...and the choking stench of gun smoke.+This surreal detachment persisted until every last Doll had fallen before her.
-UMP40(0)<Speaker>UMP40</Speaker>||<BGM>BGM_Empty</BGM>:(Pants heavily) +We don't have much time left. I'm sure... +"She" must be awake by now.
-()<speaker></speaker>||:UMP40's words roused UMP45 from her confusion.
-()<speaker></speaker>||:She couldn't tell where the repetitive sound of colliding metal was coming from.+Right after that, there was a thunk  — the gate had been sealed shut.
-UMP45_Young(3)<Speaker>UMP45</Speaker>||:The main gate's been locked? Who's taken control of the systems in here?
-UMP40(0)<Speaker>UMP40</Speaker>||<黑屏1><BGM>10258</BGM>:In the end, we didn't make in time, huh...+The song is playing. Now then, 45. Time to choose.
-()<Speaker>UMP45</Speaker>||<黑屏2><BIN>68</BIN>:Choose? ...Choose what?
-()<Speaker>UMP40</Speaker>||:UMP45, do you want to die here?+Die like the Dolls we just killed?+Or do you want to leave here alive and escape your fate of being a puppet?
-()<Speaker>UMP45</Speaker>||:I...
-()<speaker></speaker>||<黑屏1>:UMP45 looked helplessly at UMP40, and at the reflected image of herself in her eyes.
-()<Speaker>UMP40</Speaker>||<黑屏2><BIN>61</BIN>:Everything will get better! Believe in me!+This is the first step to taking action. Do this!
-()<Speaker>UMP45</Speaker>||:Huh? What's this?
-()<Speaker>UMP40</Speaker>||<黑屏1>:Give my fist a bump. There, that's a promise. +Trust me, and I promise... +I promise that everything will change some day...
-()<Speaker>UMP40</Speaker>||<黑屏2><BIN>69</BIN>:UMP45, Don't pity yourself. That's only for losers!
-()<speaker></speaker>||<黑屏1>:UMP45 slowly relaxed her clenched fists, then she raised the muzzle of her gun.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:... +Я даже не заметила, что меня затянуло в базовый слой моего нейронного облака. Получается, я — полная неудачница в качестве Куклы радиоэлектронной борьбы, да?
+()<speaker></speaker>||:UMP45 оглядывается в поисках каких-либо подсказок, где же находится это место. +Когда зажигается ложный свет киберпространства, перед ней появляется лишь знакомый электронный отсек.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Вот это да, какая некреативность... +Значит, мне придётся выбираться из лабиринта, так же как это делала M4A1? +Как же... банально.
+()<speaker></speaker>||<SE1>AVG_door_elecport</SE1><白屏1><BGM>BGM_Empty</BGM>:Не задумываясь ни на секунду, UMP45 направляется к отсеку.
+()<speaker></speaker>||<白屏2><BIN>71</BIN><BGM>10258</BGM>:Её чувства ошеломлены грохотом пара, скрежетом шестерен, запахом порохового дыма и болью в указательном пальце. +UMP45 понимает, что это внутреннее пространство главного завода Сангвис Ферри в день проведения операции «Бабочка».
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Что за ужасная память... Я знаю, что ты пытаешься сделать, M16. +Но эти уловки меня не остановят. Даже если ты заставишь меня пройти через это десять тысяч раз, я всё равно смогу выбраться отсюда.
+()<speaker></speaker>||:События, произошедшие до этой минуты, начинают прокручиваться в обратном порядке, и по мере того, как её воспоминания уходят в прошлое, ощущение привычности постепенно исчезает.
+()<Speaker>???</Speaker>||:Поэтому ты должна жить, что бы ни случилось.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Это всего лишь я в те времена... Это всего лишь я в те времена...
+()<Speaker>???</Speaker>||:Даже у Т-Кукол есть причина жить ради самих себя.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Не бойся... У тебя получится... +Ты уже изменилась! UMP45!
+()<speaker></speaker>||:Когда перемотка подходит к концу и последний луч света угасает, тьма поглощает сознание UMP45, и её воспоминания снова начинают возвращаться.
+()<Speaker>???</Speaker>||<黑屏1>:Не ради кого-то другого. Ради СЕБЯ.
+()<speaker></speaker>||<黑屏2><BIN>71</BIN><BGM>BGM_Empty</BGM>:В день проведения операции «Бабочка» на территории завода Сангвис Ферри.
+()<Speaker>Человеческий офицер</Speaker>||<BGM>BGM_Battle</BGM>:3-й отряд взял главный зал под контроль. 7-й отряд, обойдите здание с тыла и приготовьтесь ворваться в целевую комнату!
+()<speaker></speaker>||:Хорошо обученные элитные Т-Куклы Грифона с отточенной легкостью ворвались в комнату сбоку, и сражение закончилось в мгновение ока. +UMP45 наблюдала за всем, что происходило в комнате-цели, через камеры видеонаблюдения. Она видела уже много учений, но скорость реакции элитных Т-Кукол по-прежнему вызывала у неё восхищение.
+()<Speaker>Кукла Грифона A</Speaker>||:3-я и 7-я группы вошли в целевое помещение!
+()<Speaker>Кукла Грифона B</Speaker>||:Цель обнаружена! Цель обнаружена! Руки вверх!
+()<speaker></speaker>||:Колеблющиеся круги света от факела пересекались на теле худощавого мужчины.
+NPC-Lyco(0)<Speaker>Лико</Speaker>||:...
+()<Speaker>Человеческий офицер</Speaker>||:Господин Лико, пожалуйста, уберите руки с клавиатуры. Я не хочу прибегать к грубости.
+NPC-Lyco(0)<Speaker>Лико</Speaker>||:Взломать частную исследовательскую лабораторию без разрешения и вывести из строя ценное оборудование — это уже достаточно грубо.+Хотя бы скажи, кто тебя послал.
+()<Speaker>Человеческий офицер</Speaker>||:Я — младший лейтенант Сергей из Министерства внутренних дел СССР. Я арестовываю вас по приказу Центрального Народного Комитета.
+NPC-Lyco(0)<Speaker>Лико</Speaker>||:... +Понятно. Прошу вас позаботиться о том, чтобы после этого с моими исследовательскими материалами обращались должным образом.
+()<Speaker>Человеческий офицер</Speaker>||:Мы это сделаем. Это не будет проблемой, если вы будете сотрудничать. Возможно, вам даже разрешат продолжить свои исследования.
+NPC-Lyco(0)<Speaker>Лико</Speaker>||:Надеюсь, что так и будет.
+()<Speaker>???</Speaker>||:<color=#FFFF00>Выполнить приказ № 61.</color>
+UMP45_Young(1)<Speaker>UMP45</Speaker>||:Что это за шум? Это не наша частота...
+UMP40(0)<Speaker>UMP40</Speaker>||:45-я, я же тебе говорила, молчи.
+()<speaker></speaker>||:UMP45 с подозрением посмотрела на UMP40, когда та активировала незнакомый модуль.
+UMP45_Young(2)<Speaker>UMP45</Speaker>||:Этот модуль… Эй, что ты делаешь, 40-я?!
+()<speaker></speaker>||:UMP40 не ответила. Она просто устремила взгляд на индикатор выполнения.
+()<Speaker>Человеческий офицер</Speaker>||:Отряды № 7 и № 14, вы будете сопровождать мистера Лико. + Отряд № 3, останьтесь здесь и помогите мне собрать материалы. Проходите сюда, мистер Лико. Эти Куклы сопроводят вас.
+()<Speaker>Кукла Грифона A</Speaker>||:Группа поддержки, приготовьтесь к эвакуации. Мы вывозим цель. +Начинайте движение к месту эвакуации. Будьте внимательны.
+()<speaker></speaker>||:UMP45 и UMP40 вышли из комнаты. Лико последовал за отрядами Грифона из комнаты, сложив руки за головой.
+()<speaker></speaker>||<SE2>Alarm</SE2>:Однако, как только они начали спускаться по лестнице, сработала сигнализация.
+()<Speaker>Кукла Грифона B</Speaker>||:Что за черт? Машины запустились сами по себе! Сигнал тревоги? Операция раскрыта?
+()<Speaker>Кукла Грифона A</Speaker>||<SE1>Runstep</SE1>:Цель вырвалась из-под нашего контроля! Чёрт возьми, за ним!
+()<speaker></speaker>||:UMP45 слышала, как Куклы кричали сзади. Ей хотелось обернуться и посмотреть, но UMP40 прижимала её к земле сверху. 
+()<speaker></speaker>||<SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:Через секунду со всех сторон раздался звук интенсивной стрельбы.
+()<Speaker>Кукла Грифона C</Speaker>||<BGM>BGM_Danger</BGM>:Не успев продолжить преследование, мы попали в засаду! Две Куклы ранены! Нас заставили отступить!
+()<Speaker>Кукла Грифона C</Speaker>||:Входы 13D, 15D и 28A перекрыты! Команда поддержки, что вы, черт возьми, делаете?! 8-й отряд сообщает: на нашем фланге замечены Т-Куклы Сангвиса! Они открыли по нам огонь!
+()<speaker></speaker>||:В воздухе раздавались хаотичные выстрелы и крики Кукол.+Всё произошло слишком быстро, чтобы UMP45 успела среагировать, и ей оставалось только дрожать в объятиях UMP40.
+()<Speaker>Кукла Грифона B</Speaker>||:Подождите! Наши же Куклы стреляют в нас! Что за черт?!  +Не подходите! Стойте! Ааааааааа!
+()<Speaker>Кукла Грифона A</Speaker>||:Мы потеряли связь с 6-м отрядом! Плохо дело, мы потеряли связь и с 3-м отрядом! Что, черт возьми, происходит? Штаб, у нас есть разрешение открыть ответный огонь?
+()<Speaker>Кукла Грифона A</Speaker>||:Плохо дело, связь полностью прервана! Чёрт возьми, это что, была ловушка?! Внимание всем отрядам: нейтрализуйте все угрозы и начните эвакуацию! Операция провалилась!
+UMP45_Young(3)<Speaker>UMP45</Speaker>||:<color=#A9A9A9>Что происходит? Что только что случилось?!</color>+<color=#A9A9A9>Монитор заполнен красными точками, а поток данных идет в обратном направлении!</color>+<color=#A9A9A9>Я больше не могу отслеживать сигналы наших союзников! Я не могу дольше оставаться в сети!</color>+<color=#A9A9A9>40-я! Ты меня слышишь? Снаружи… уже…!</color>
+UMP40(0)<Speaker>UMP40</Speaker>||:<color=#A9A9A9>45-я, не шевелись и слушай меня.</color>+<color=#A9A9A9>Слушай меня, если хочешь остаться в живых.</color>
+()<speaker></speaker>||<BGM>BGM_Empty</BGM>:Спустя неизвестно сколько времени звуки выстрелов наконец стихли, а оставшаяся красная точка на мониторе системы безопасности уже далеко удалилась. +UMP40 встала, словно ничего и не произошло, и протянула руку 45-ой.
+UMP40(0)<Speaker>UMP40</Speaker>||<BGM>10203</BGM>:Если мы пройдем по этому воздуховоду, то окажемся совсем рядом с выходом. Я уже взломала всю автоматическую систему защиты С.Ф.+До пункта эвакуации осталось ещё три шлюза. Возможно, нам удастся их открыть, если мы установим принудительное соединение.
+UMP45_Young(1)<Speaker>UMP45</Speaker>||:40-я... Что за черт...
+()<speaker></speaker>||:UMP45 огляделась. +Окровавленные, беспорядочные следы исчезали в конце коридора. Повсюду валялись останки Кукол Грифона, а также гильзы и обломки...+Здесь только что произошло сражение.
+UMP40(0)<Speaker>UMP40</Speaker>||:Сейчас не время для пустой болтовни. Нам нужно побыстрее убираться отсюда. Как только на заводе начнётся автоматизированное производство...
+UMP45_Young(1)<Speaker>UMP45</Speaker>||:...Что?! + Шаги? Это Куклы отступают в нашу сторону?
+UMP40(5)<Speaker>UMP40</Speaker>||:Ложись!!
+()<speaker></speaker>||:В поле зрения появилось несколько кукол Грифона с неопознанными сигналами.
+()<speaker></speaker>||<SE2>Gunfight</SE2>:....Бах-бах-бах!
+UMP40(5)<Speaker>UMP40</Speaker>||:Шевелись! Поторопись! Не дай им тебя зажать!
+UMP45_Young(1)<Speaker>UMP45</Speaker>||:Что случилось? Разве это не наши?!
+UMP40(0)<Speaker>UMP40</Speaker>||:Теперь уже нет!+И они… больше никогда не будут…+У нас нет другого выбора, кроме как ответить огнем!
+UMP45_Young(3)<Speaker>UMP45</Speaker>||:Проклятье!
+()<speaker></speaker>||:Течение времени перестало иметь значение. Её первоначальный шок и беспомощность, беспокойство, когда она начала осознавать правду, гнев, когда она узнала, что её предали... Все эти чувства смешались воедино и, наконец, вырвались наружу из пламени.+UMP45 даже не может вспомнить, что она тогда сказала, или как ответила 40-я.+Она также не может вспомнить, кем были те Куклы — их лица были изрешечены, а тела разорваны на куски.+Единственное, что отчётливо запечатлелось в её памяти, — это боль в указательном пальце от того, как крепко она сжимала спусковой крючок... и душащий запах порохового дыма.+Это сюрреалистическое отстраненное состояние сохранялось до тех пор, пока перед ней не пала последняя Кукла.
+UMP40(0)<Speaker>UMP40</Speaker>||<BGM>BGM_Empty</BGM>:(Тяжело дышит) +У нас осталось не так много времени. Я уверена... +Она, наверное, уже проснулась.
+()<speaker></speaker>||:Слова UMP40 вывели UMP45 из растерянности.
+()<speaker></speaker>||:Она не могла понять, откуда доносился повторяющийся звук ударов металла.+Сразу после этого раздался глухой стук — ворота плотно захлопнулись.
+UMP45_Young(3)<Speaker>UMP45</Speaker>||:Главные ворота заперты? Кто взял под свой контроль текущие системы?
+UMP40(0)<Speaker>UMP40</Speaker>||<黑屏1><BGM>10258</BGM>:В итоге мы не успели, да... +Играет песня. Ну что ж, 45-я. Пора выбирать.
+()<Speaker>UMP45</Speaker>||<黑屏2><BIN>68</BIN>:Выбирать? ...Выбирать что?
+()<Speaker>UMP40</Speaker>||:UMP45, ты хочешь умереть здесь? + Умереть, как те Куклы, которых мы только что убили? + Или ты хочешь уйти отсюда живой и избежать своей судьбы — став марионеткой?
+()<Speaker>UMP45</Speaker>||:Я...
+()<speaker></speaker>||<黑屏1>:UMP45 беспомощно посмотрела на UMP40 и на своё отражение в её глазах.
+()<Speaker>UMP40</Speaker>||<黑屏2><BIN>61</BIN>:Всё будет хорошо! Поверь мне! + Это первый шаг к тому, чтобы начать действовать. Сделай это!
+()<Speaker>UMP45</Speaker>||:Э? Что сделать?
+()<Speaker>UMP40</Speaker>||<黑屏1>:Давай пожмем друг другу руки. Вот, это и есть обещание. +Поверь мне, и я обещаю... +Я обещаю, что однажды всё изменится...
+()<Speaker>UMP40</Speaker>||<黑屏2><BIN>69</BIN>:UMP45, не жалей себя. Это удел только неудачников!
+()<speaker></speaker>||<黑屏1>:UMP45 медленно разжала сжатые кулаки, а затем подняла ствол пистолета.
