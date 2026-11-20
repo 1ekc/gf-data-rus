@@ -1,28 +1,28 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BIN>222</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:The link is broken...
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Room</BGM>:Looks like we can finally breathe easy.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Did you steal the data from the enemy's neural cloud?
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Yeah, I did what you told me. +But...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:But what?
-UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:According to their most recent sensor logs, their location contains ten-odd Paradeus-like signals... +No, I should say they're Nyto-like signals.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(6)||:If there are enemies there, it means we've got the right place. In all likelihood, they're the ones trapping Ange in there.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Wait a minute. Ten or more Nytos? +From past experience, a single Nyto controls several dozen Paradeus units at the bare minimum.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:The neural cloud data we stole indicates that no other units are present. An optimistic way of interpreting this is that the Paradeus forces have been wiped out, leaving only the Nytos behind.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Even if only the Nytos are left, a single Nyto is hard enough to fight as it is, let alone ten or more of them.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:You are exactly right, which is why we need to find a route that takes us to Ange as soon as possible.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Are you sure? +It's extremely likely that Paradeus has forces in reserve. We should wait for people that are suitable for head-on attacks to come by. +For instance, the AR Team.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Our comms are jammed now. Would you be so kind as to run over and tell them?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Did that hacking attempt just now fry your logic processors?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:You don't need to worry about my neural cloud. Now do as you're told.
-HK416Mod(0)<Speaker></Speaker>||:416 looks over to UMP9, who shakes her head helplessly.
-HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:...Understood.
-()||<黑屏2><BIN>46</BIN>:Several minutes later. +Squad 404 looks around, but their scouting attempts are fruitless. Currently, they are stuck in front of a locked quarantine door.
-HK416Mod(0)<Speaker>416</Speaker>||:All the passages around us lead to dead ends. They're all cut off by quarantine doors. +The map Dandelion gave us doesn't show any routes we can take to get to the location of the signal jamming.
-UMP9Mod(4)<Speaker>UMP9</Speaker>||:It's no good, 45. I still can't contact DEFY... Or rather, there are no signals here at all. +The area where DEFY is also swimming in EM interference.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(4)||:Did our previous attack scare someone? The only clue we have is a bust; what a headache.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:If we don't interrupt the hacking, you'll need to replace your neural cloud, assuming you get the chance to do that.
-UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:What now, 45? +I guess there must be some kind of specialized jamming equipment in this facility, which means we can't do scans or send transmissions.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(6)||:I expected as much... If the Isomers were shipped out from here, then this must be the lab of that bastard whom Ange was talking about. That means we won't be getting in that easily. +Things ought to get better If we can find the jamming equipment...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BIN>222</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:Соединение перестало работать...
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Room</BGM>:Похоже, мы наконец-то можем вздохнуть с облегчением.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Ты украла данные из нейронного облака противника?
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Да, я сделала так, как ты мне и сказала. +Но...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:Но что?
+UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:Судя по последним записям сенсоров, в районе их нахождения зарегистрировано около десяти сигналов, похожих на сигналы Парадеуса... +Нет, вернее сказать, это сигналы, похожие на сигналы Нито.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(6)||:Если там есть враги, значит, мы попали в нужное место. Скорее всего, именно они удерживают Анже в западне.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Подожди-ка. Десять или больше Нито? +Судя по предыдущему опыту, одна Нито управляет как минимум несколькими десятками единиц Парадеус.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Похищенные нами данные из нейронного облака указывают на то, что других подразделений в этом районе нет. Оптимистичная интерпретация этого факта заключается в том, что силы Парадеуса были полностью уничтожены, и остались только Нито.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Даже если останутся только Нито, с одной Нито и так достаточно сложно справиться, не говоря уже о десяти или более.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Ты совершенно права, и именно поэтому нам нужно найти маршрут, который позволит нам как можно скорее добраться до Анже.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Ты уверена? Скорее всего, у Парадеуса есть силы в резерве. Нам следует дождаться, пока подойдут люди, подходящие для лобовых атак. Например, Команда AR.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:У нас сейчас перегружены каналы связи. Не могла бы ты сбегать и передать им это?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Эта попытка взлома, только что произошедшая, вывела из строя твой обработчик логики?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Не беспокойся насчёт моего нейронного облака. А теперь делай, как тебе велено.
+HK416Mod(0)<Speaker></Speaker>||:416-я посмотреля на UMP9, которая беспомощно покачала головой.
+HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:...Понятно.
+()||<黑屏2><BIN>46</BIN>:Через несколько минут. +Отряд 404 обследует окрестности, но их попытки разведать обстановку не приносят результата. В данный момент они застряли перед запертой дверью карантинной зоны.
+HK416Mod(0)<Speaker>416</Speaker>||:Все проходы вокруг нас заканчиваются тупиками. Все они перекрыты изоляционными дверями. +На карте, которую нам дала Данделион, не указано ни одного маршрута, по которому мы могли бы добраться до места, откуда исходит сигнал помех.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:Ничего не поделать, 45-я. Я по-прежнему не могу связаться с DEFY... Вернее, здесь вообще нет сигнала. +К тому же в районе, где находится DEFY, сильные электромагнитные помехи.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(4)||:Может, наша предыдущая атака кого-то напугала? Единственная зацепка, которая у нас есть, — это портрет. Слишком сложно.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Если мы не остановим взлом, тебе придется заменить своё нейронное облако — если, конечно, у тебя появится такая возможность.
+UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:Что теперь, 45-я? +Полагаю, на этом объекте должно быть какое-то специальное оборудование для подавления сигналов, а это значит, что мы не сможем проводить сканирование или отправлять сигналы. 
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(6)||:Я так и думала... Если Изомероов отправляли отсюда, значит, это, должно быть, лаборатория того ублюдка, о котором говорила Анже. А это значит, что проникнуть туда будет не так-то просто. +Дела пойдут лучше, если удастся найти оборудование для создания помех...
 UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Directional jamming, huh... Looks like DEFY got trapped because they were on the mark.
 UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Well, I hope they haven't ended up as target practice. +If it's a directional jammer, then the jamming device ought to be outside the jammed region, otherwise Ange would have wrecked it herself.
 UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:But where's the jammer?
