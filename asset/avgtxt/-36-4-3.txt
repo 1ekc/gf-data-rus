@@ -1,18 +1,18 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>9</BIN>:This duct is way too cramped... I'll be dead for sure if there's really an ambush in there. +Who'd have thought that I'd be doing this again? I thought I'd never have to crawl through an air vent again for the rest of my life... +Hm? Is that a light up ahead?
-UMP45Mod(0)<Speaker></Speaker>||<BGM>BGM_Sneak</BGM>:45 climbs out of the duct and lands lightly on the ground.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:It's the directional jamming, I can't sense anything after all. +What the hell is this place?
-UMP45Mod(0)<Speaker></Speaker>||<黑屏2><BIN>229</BIN>:45 finds herself in a spotless room. It is spacious and filled with suspension tanks.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Is this a lab...? As I thought, this must be where the Isomers came from.+It's surprisingly clean... I doubt there'll be other Paradeus units around.+Now then, where has Gr G11 been taken to?+Speaking of which, why did they capture an outsider?+It would have been child's play to wipe us out back then.
-UMP45Mod(0)<Speaker></Speaker>||:The lab is empty, and even the Nytos that 45 was expecting are nowhere to be seen.+The only sound in the room is that of oxygen bubbling through the tanks. While she can't pick up any enemy signals on her scans, 45 can clearly feel a watchful gaze.+She spots a small shadow standing by a big door and promptly points her gun in its direction.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:Who's there? Come out right now!
-()||<SE1>RunStep</SE1>:The shadow seems to be frightened of 45, because it immediately runs off into the distance. The "tap tap tap" of its footsteps echoes with unnatural clarity in the silence of the lab. 45 does not hesitate and gives chase right away. After she passes through the door, she finally spots her target.+Several "Nytos" that are roughly the size of Gr G11 are dragging the latter further into the room.+Two of them catch sight of 45 and are so startled, they just drop Gr G11 and take to their heels. But the lead "Nyto" plants herself in front of 45 with her tiny arms stretched out and glares angrily at 45.
-Nytochild01(2)<Speaker>Nyto?</Speaker>||:Uhh!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;Nytochild01(2)||:Brave, aren't we?
-UMP45Mod(0)<Speaker></Speaker>;Nytochild01(2)||<BGM>m_avg_tension</BGM>:Although she looks younger than most, the girl before her is most definitely a "Nyto", both in looks and attire. 45 doesn't hesitate and prepares to pull the trigger.
-UMP45Mod(0)<Speaker>???</Speaker>;Nytochild01(2)||:Don't shoot!
-UMP45Mod(0)<Speaker></Speaker>;Nytochild01(2)||:A familiar voice comes from behind the Nyto. +45 freezes when she hears the voice. This is an opportunity, and the miniature Nyto takes it.
-Nytochild01(2)<Speaker>???</Speaker>||:Ugh, stop!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;Nytochild01(2)||:Not again...
-UMP45Mod(0)<Speaker></Speaker><Shake>;Nytochild01(2)||:The moment 45 pauses, she immediately realizes that she has once again lost control of her own body. But what is more unsettling is how the hacking attempts are returning with renewed vigor.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Dammit, why now?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>9</BIN>:В этом воздуховоде слишком тесно… Если там действительно засада, мне точно конец. +Кто бы мог подумать, что я снова буду этим заниматься? Я думала, что до конца жизни мне больше не придётся ползти по вентиляции… +Хм? Это что, свет впереди?
+UMP45Mod(0)<Speaker></Speaker>||<BGM>BGM_Sneak</BGM>:45-я выбирается из воздуховода и легко приземляется на землю.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Это из-за направленного подавления сигнала, я всё-таки ничего не улавливаю. +Что это за место, черт возьми?
+UMP45Mod(0)<Speaker></Speaker>||<黑屏2><BIN>229</BIN>:45-я оказывается в безупречно чистой комнате. Она просторна и заполнена резервуарами для суспензии.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Это лаборатория…? Как я и думала, наверное, именно здесь появились Изомеры.+Тут удивительно чисто… Сомневаюсь, что поблизости есть другие единицы «Парадеус».+Итак, куда утащили Gr G11?+Кстати, зачем они захватили чужака?+Тогда уничтожить нас было бы проще простого.  
+UMP45Mod(0)<Speaker></Speaker>||:Лаборатория пуста, и даже Нито, которых ожидала 45-я, нигде не видно.+Единственный звук в помещении — это бульканье кислорода в баллонах. Хотя на сканерах она не улавливает никаких сигналов врага, 45-я отчётливо чувствует на себе пристальный взгляд.+Она замечает небольшую тень, стоящую у большой двери, и тут же направляет на неё оружие.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Empty</BGM>:Кто там? Выходи немедленно!
+()||<SE1>RunStep</SE1>:Тень, похоже, испугалась 45-ю, потому что тут же умчалась вдаль. «Тан-тан-тан» — звук её шагов с неестественной отчётливостью раздаётся в тишине лаборатории. 45-я не колеблется и сразу же бросается в погоню. Пройдя через дверь, она наконец замечает свою цель.+Несколько Нито, размером примерно с Gr G11, тащат последнюю дальше вглубь комнаты.+Двое из них замечают 45-ю и настолько пугаются, что просто бросают Gr G11 и бегут прочь. Но ведущая Нито встаёт перед 45-ой, вытянув свои крошечные ручки, и злобно пристально смотрит на неё.
+Nytochild01(2)<Speaker>Nyto?</Speaker>||:Ухх!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;Nytochild01(2)||:Мы же такие смелые, правда?
+UMP45Mod(0)<Speaker></Speaker>;Nytochild01(2)||<BGM>m_avg_tension</BGM>:Хотя она выглядит моложе большинства, стоящая перед ней девушка — это, без всякого сомнения, Нито, как по внешнему виду, так и по одежде. 45 -я не колеблется и готовится нажать на курок.
+UMP45Mod(0)<Speaker>???</Speaker>;Nytochild01(2)||:Не стреляйте!
+UMP45Mod(0)<Speaker></Speaker>;Nytochild01(2)||:Из-за спины Нито доносится знакомый голос. +45-я замирает, услышав его. Это шанс, и миниатюрная Нито им пользуется.
+Nytochild01(2)<Speaker>???</Speaker>||:Уу, хватит!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;Nytochild01(2)||:Только не снова...
+UMP45Mod(0)<Speaker></Speaker><Shake>;Nytochild01(2)||:Как только 45-я останавливается, она сразу же осознает, что в очередной раз утратила контроль над собственным телом. Но ещё больше беспокоит то, что попытки взлома возобновляются с новой силой.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:Чёрт, почему именно сейчас?!
