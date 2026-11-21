@@ -23,90 +23,90 @@ UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(4)||:Может, наша преды
 UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Если мы не остановим взлом, тебе придется заменить своё нейронное облако — если, конечно, у тебя появится такая возможность.
 UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:Что теперь, 45-я? +Полагаю, на этом объекте должно быть какое-то специальное оборудование для подавления сигналов, а это значит, что мы не сможем проводить сканирование или отправлять сигналы. 
 UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(6)||:Я так и думала... Если Изомероов отправляли отсюда, значит, это, должно быть, лаборатория того ублюдка, о котором говорила Анже. А это значит, что проникнуть туда будет не так-то просто. +Дела пойдут лучше, если удастся найти оборудование для создания помех...
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Directional jamming, huh... Looks like DEFY got trapped because they were on the mark.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Well, I hope they haven't ended up as target practice. +If it's a directional jammer, then the jamming device ought to be outside the jammed region, otherwise Ange would have wrecked it herself.
-UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:But where's the jammer?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(6)||:You got me there. +We'll split up into two teams. One team will try and enter the lab area, while the other looks for the jamming device.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Leaving aside the fact that none of us knows what the jammer we're searching for looks like, how do you intend to enter the lab area? +Or are you going to turn into a ghost and pass through this quarantine door in front of us?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Can we blast this door open if we use all our explosives?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:If this was a normal wall, sure, but this is...
-UMP45Mod(0);HK416Mod(0)<Speaker></Speaker>||:416 walks up and raps her knuckles against the door. It produces a dull thunk.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:This is clearly a specialized blast door made from homogeneous steel. It's at least 500mm thick, so we might not be able to bring it down even if we had two or three times the amount of explosives we currently possess.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Направленное подавление сигнала, да... Похоже, DEFY попали в ловушку, потому что оказались прямо в центре.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Ну, надеюсь, они не стали мишенями для стрельбы. +Если это направленный блокиратор, то само устройство должно находиться за пределами зоны блокировки, иначе Анже сама бы его уничтожила.
+UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:Но где же этот блокиратор?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(6)||:Ты угадала. +Разделимся на две команды. Одна команда попробует проникнуть в лабораторию, а другая будет искать устройство, создающее помехи.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Не говоря уже о том, что никто из нас не знает, как выглядит искомый нами блокиратор, как ты собираешься проникнуть на территорию лаборатории? +Или ты собираешься превратиться в призрака и пройти сквозь эту дверь прямо перед нами?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Сможем ли мы взорвать эту дверь, если задействуем всю взрывчатку?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Если бы это была обычная стена, то да, конечно, но это же...
+UMP45Mod(0);HK416Mod(0)<Speaker></Speaker>||:416-я подошла и постучала костяшками пальцев по двери. Раздался глухой стук.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Очевидно, что это специальная взрывозащитная дверь, изготовленная из однородной стали. Ее толщина составляет не менее 500 мм, поэтому, даже если бы у нас было в два или три раза больше взрывчатки, чем сейчас, мы, возможно, не смогли бы её взорвать.
 UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:...
-UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:Maybe...there's another route?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:This isn't a very big place. We've already checked all the routes which might lead inside.
-UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:So...there's nothing we can do?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:We should go back and help the Commander. Judging from that huge explosion just now, things are probably going very badly out there.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:We have a mission of our own. We can't give up on it so easily.+Since the area is marked on the map, that means there must be a passage which leads inside. +9 and I will try to find the passage. You and Gr G11 should find and destroy the jammer. We'll perform both tasks at the same time.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:Humph...
-UMP45Mod(0);HK416Mod(0)<Speaker></Speaker>||:416 puts her gun down by her feet. She leans against the unopenable door and just looks at UMP45 with her arms folded in front of her chest.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||<BGM>BGM_Brain</BGM>:You have your orders. Didn't you hear me?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:If such a foolhardy plan can be considered an order, then no, I didn't hear it.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:I've already told you the best solution to the problem.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:The best solution?+It was one thing when we had to take on risky but well-paying missions to survive in the past. As long as you remain in the safety of the shadow, you were always able to think of a way to take out the enemy.+I never liked your methods, but I had to admit that I admired your ability to deal with all kinds of situations.+But look at you now. What are you asking us to do?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:I'm asking you to finish the mission, just like before.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:No. You're asking us to jump into the fire, to face an enemy that we can't possibly handle head-on. +Don't forget, we're not like the AR Team, who can fight on through all kinds of punishment. We're meant to lurk in the darkness and quietly eliminate our enemy. +And now, when we might end up facing ten or more Nytos in a confined area, you want us to split into two teams? +How is this like any of our previous missions? Does this sound like a decision you would make?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Oh, what's this? Is our elite Doll feeling skittish now?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:It feels wrong to me BECAUSE I'm an elite Doll.+I can fight my way out of even the most intense battles with my high specs.+But you're not like that. UMP9 isn't like that. Gr G11 isn't like that.+You're all modified civilian Dolls. Or did hanging out with the AR Team make you think you were invincible?
+UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:Может быть... есть другой путь?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Здесь не так уж и просторно. Мы уже проверили все пути, которые могли бы вести внутрь.
+UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:Значит... мы ничего не сможем сделать?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Нам нужно вернуться и помочь Командиру. Судя по тому огромному взрыву, который только что произошёл, там, наверное, дела обстоят очень плохо.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:У нас своя миссия. Мы не можем так просто от нее отказаться.+Раз этот участок отмечен на карте, значит, там должен быть проход, ведущий внутрь. +9-я и я попробуем найти этот проход. Ты и Gr G11 должны найти и уничтожить глушилку. Мы будем выполнять обе задачи одновременно.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:Хм...
+UMP45Mod(0);HK416Mod(0)<Speaker></Speaker>||:416-я опускает оружие к ногам. Она прислоняется к двери, которую невозможно открыть, и просто смотрит на UMP45, скрестив руки на груди.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||<BGM>BGM_Brain</BGM>:Ты получил приказ. Разве ты меня не слышала?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Если такой безрассудный план можно считать приказом, то нет, я его не слышала.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Я уже рассказала тебе о лучшем решении этой проблемы.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Лучшее решение?+Раньше дело было иначе — тогда нам приходилось браться за рискованные, но хорошо оплачиваемые задания, чтобы выжить. Пока ты оставалась в безопасности, скрываясь в тени, ты всегда могла придумать, как устранить врага.+Мне никогда не нравились твои методы, но я должна была признать, что восхищалась твоей способностью справляться с самыми разными ситуациями.+Но посмотри на себя сейчас. Что ты просишь нас сделать?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Я прошу тебя выполнить задание, как и раньше.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Нет. Ты просишь нас броситься в огонь, столкнуться с врагом, с которым мы ни за что не сможем справиться в лобовом столкновении. +Не забывай, мы не такие, как Команда AR, которая способна сражаться, несмотря ни на что. Наше предназначение — скрываться в темноте и незаметно устранять врага. +А теперь, когда нам, возможно, придётся столкнуться с десятью или более Нито в замкнутом пространстве, ты хочешь, чтобы мы разделились на две команды? +Чем это похоже на наши предыдущие миссии? Разве это похоже на решение, которое ты бы приняла?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Ой, что это? Наша «Элитная Кукла» вдруг стала нервничать?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Мне это кажется неправильным, ПОТОМУ ЧТО я — элитная Кукла.+Благодаря своим высоким характеристикам я могу выйти победительницей даже из самых ожесточённых сражений.+Но вы не такие. UMP9 не такая. Gr G11 не такая.+Вы все — модифицированные гражданские Куклы. Или общение с Командой AR заставило вас поверить, что вы непобедимы?
 UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:...
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:I only just started wanting to stay with this team, so I don't want to see you guys end up as piles of scrap just a few minutes later.
-UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:...416.
-UMP45Mod(0);G11(2)<Speaker>Gr G11</Speaker>||:Why...why are you fighting at a time like this?
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Don't be scared, it'll be fine.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||<BGM>BGM_Danger</BGM>:Humph...so you ARE scared.+If you're afraid, then you can go ahead and leave right now. Go join the AR Team or help the Commander.+You and I both know you've paid your debt, and you don't need to stay.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Danger</BGM>:So you're going in, no matter what?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Ange's still in there, and I need to rescue her. +That's my mission.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:No...you're not doing this to save Ange at all.+If I'm not mistaken...you're doing this for the Doll who went on that op with you.+We all saw your neural cloud fragments earlier. The reason why you're helping Ange and Griffin is because of the Doll from your past...+The one who's truly a sister unit to you, not like 9.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:This isn't a good time to start reminiscing about the past, don't you think?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Don't try to change the subject.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:I'm not going to answer you because what you're saying is utterly ridiculous.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Then you'd better listen up.+In the past, I didn't want to recall that incident, because the only thing it held for me was shame.+I was kicked out of my team because of you, and I had to endure the disgrace of joining a half-assed team like this one because of you. +I didn't want to be reminded of my shame in the least. All I wanted was an explanation from the Doll who brought all this humiliation upon me, and to make the bitch who cast me down pay the price.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Я только недавно захотела остаться в этой команде, поэтому не хочу, чтобы вы, девчат, через несколько минут превратились в кучу металлолома.
+UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:...416-я.
+UMP45Mod(0);G11(2)<Speaker>Gr G11</Speaker>||:Почему... почему вы ссоритесь в такой момент?
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:Не бойся, всё будет хорошо.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||<BGM>BGM_Danger</BGM>:Хм… так ты всё-таки боишься.+Если боишься, то можешь уходить прямо сейчас. Иди в Команду AR или помоги Командиру.+Мы с тобой обе знаем, что ты расплатилась со своим долгом, и тебе не нужно здесь оставаться.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Danger</BGM>:Значит, ты пойдёшь туда, что бы ни случилось?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Анже всё ещё там, и я должна её спасти. +Вот в чём заключается моя миссия.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Нет… ты делаешь это вовсе не для того, чтобы спасти Анже.+Если я не ошибаюсь… ты делаешь это ради Куклы, которая отправилась с тобой на ту операцию.+Мы все видели твои фрагменты нейронного облака ранее. Причина, по которой ты помогаешь Анже и Грифону, — это Кукла из твоего прошлого…+Та, которая действительно является для тебя родственной единицей, в отличие от 9-ой.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Сейчас не самое подходящее время, чтобы начинать вспоминать о прошлом, не так ли?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Не пытайся сменить тему.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Я не собираюсь тебе отвечать, потому что то, что ты говоришь, совершенно нелепо.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Тогда тебе лучше прислушаться.+Раньше я не хотела вспоминать тот случай, потому что он вызывал у меня только стыд.+Меня выгнали из команды из-за тебя, и мне пришлось терпеть позор, вступив в такую полупрофессиональную команду, как эта, — и всё из-за тебя. +Я ни за что не хотела, чтобы мне напоминали о моём позоре. Всё, чего я хотела, — это получить объяснение от Куклы, которая навлекла на меня всё это унижение, и заставить эту суку, которая меня унизила, поплатиться за это.
 UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:So what are you trying to say, Miss Elite Doll?
 UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:But after going through all sorts of things, I realized that her reason wasn't important anymore.+Everything has changed, and what difference would it make if I knew why she did it?+The past means nothing to me now. The only things that matter are the present and the future.+No matter how hard you chase it, what's gone is gone. If you still cherish the members of the team you're in now, then you'd better think carefully before you act, the way you usually do.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:You're you, and I'm me.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:What difference does it make?! +We're both Dolls who can't go back to the past anymore! +We're Dolls who don't exist! Isn't that why we're called Squad 404?!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:That's where you're wrong... We're not Dolls who don't exist. We're Dolls whose very existence has been erased.+You were lucky enough to have avoided it... Lucky enough that you didn't have to go through it... +But all the other Dolls are dead, those humans are dead, everyone's dead! +And only I survived... +And all this...it's as though it never happened...as though those Dolls had never existed in the first place...
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:So what? Once you die, you don't come back, whether you're a human or a Doll! +But the people who are still alive need to keep living, isn't that right?! +Why do living people have to go blindly to their deaths for the sake of the dead?!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Shut up! What the hell do you know? +You never took part in that operation, you'll never know how it feels! +My teammate, my friend, everyone who used to be by my side is dead! +You're right, I'm not an elite Doll, I was nothing more than an expendable item with shitty performance! +Back then, she told me that even a Doll had a reason to live on! +So YOU listen up!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Ты — это ты, а я — это я.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Какая разница?! +Мы же обе — Куклы, которые уже не могут вернуться в прошлое! +Мы — Куклы, которых не существует! Разве не поэтому нас называют «Отряд 404»?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Вот в чём ты ошибаешься… Мы не Куклы, которых не существует. Мы — Куклы, чьё само существование было стёрто.+Тебе повезло, что тебе удалось этого избежать… Тебе повезло, что тебе не пришлось через это пройти... +Но все остальные Куклы мертвы, те люди мертвы, все мертвы! +И только я выжила... +И всё это... словно этого никогда и не было... словно тех Кукол и не существовало с самого начала...
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:И что с того? Умерший не вернётся, будь то человек или Кукла! +Но те, кто ещё жив, должны продолжать жить, разве не так?! +Почему живые люди должны слепо идти на смерть ради мёртвых?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Заткнись! Да что ты вообще знаешь? +Ты никогда не участвовала в той операции, так что никогда не поймешь, каково это! +Моя напарница, моя подруга, все, кто когда-то были рядом со мной, мертвы! +Ты права, я не элитная Кукла, я была не более чем расходным материалом с дерьмовыми показателями! +Тогда она сказала мне, что даже у Куклы есть причина жить! +Так что слушай ВНИМАТЕЛЬНО!
 UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Reason? +I don't give a damn about why it happened. There was no reason for them to have died there to begin with! +What I'm doing is to make the one responsible for all of this pay! +From the moment I escaped alive, to recruiting all of you for this team and helping Ange and Griffin, my objective has never changed, not in the slightest!
-UMP45Mod(0)<Speaker></Speaker>;HK416Mod(0)||<震屏>:UMP45 pounds forcefully on the quarantine door next to 416's head. A dull sound echoes down the silent passageway. +416 just keeps staring at UMP45, seemingly oblivious to the sound.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:So I don't CARE if there are ten or a hundred Nytos waiting for me. I'm still going in there, even if I have to do it alone and without my Dummies. +I admit that I don't know anything about what's in there, so I can't come up with a complete plan before making my move, like I always do. +All I know is that if I don't keep moving forward, then everything I've done up till now might have been for nothing. +I cannot tolerate the idea that the bastard behind all this might end up having the last laugh.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:... +Now I see why you're so eager to die.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:So what's your answer?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Since you're in such a hurry to throw your life away, I have no reason to stop you.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Glad you understand.
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:The threat in there is much greater than the outside. Have 9 go with Gr G11 to find the jammer. I'll search for the way in with you.
-UMP45Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker>||:Eh? But...
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:You're an electronic warfare Doll. If you run into a Nyto, you won't be able to put up a fight, so you might as well do what you're good at outside.
-UMP45Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker>||:But what if 45 gets hacked again...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:It'll be fine, 9. I knew she'd say that. +It seems this so-called elite Doll is as crazy as I am. In that case, wouldn't it be better for a pair of lunatics to stick together?
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Let's make haste.
-UMP45Mod(0);G11(2)<Speaker>Gr G11</Speaker>||:Er, I don't want to interrupt you, but I think I heard something above us...
-()<Speaker></Speaker>||:Squad 404 falls silent. Nothing can be heard besides the rustling of the Dolls' clothing and the distant hum of the power generator.
-HK416Mod(0)<Speaker>416</Speaker>||:I don't hear anything. Is this long-neglected base haunted?
-G11(2)<Speaker>Gr G11</Speaker>||:D-d-don't scare me...
-()||<BGM>BGM_Boss</BGM><黑屏1>0,10</黑屏1>:A knocking sound comes from the ceiling and grows louder and louder, then the lights suddenly go out. 404 immediately grows tense.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>9</BIN>:Enemy attack incoming. Switch to night-vision mode, mind the corners.
-()||<SE1>Explode</SE1>:Squad 404 warily scrutinizes their surroundings with weapons raised, but then the knocking stops. Just as everyone is about to relax, the sound of an explosion comes from overhead.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Get down!
-()||:A hole is blasted out of the ceiling, which is not too high, and just as Gr G11 covers her head to protect herself from fragments, a black shape swiftly darts out and drags her through the opening.
-G11(3)<Speaker>Gr G11</Speaker>||:Uwah! Something's got me! 416, help!!!！
-UMP9Mod(4)<Speaker>UMP9</Speaker>||:Oh no, Gr G11's been dragged into the ceiling!
-HK416Mod(0)<Speaker>416</Speaker>||:...What the hell, I can't shoot!
-()<Speaker></Speaker>||:As the Dolls try to rescue Gr G11, they suddenly find themselves completely paralyzed.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:This again... +Is it an Isomer? Or is it M16 again?
-()||<黑屏1><BGM>BGM_Empty</BGM>:Their paralysis does not last for long. The Dolls regain control of their bodies a few seconds later.
-UMP9Mod(4)<Speaker>UMP9</Speaker>||<BIN>46</BIN><黑屏2>:I... I can move...
-HK416Mod(0)<Speaker>416</Speaker><Shake>||:9, quickly! Lift me up!
-UMP9Mod(4)<Speaker>UMP9</Speaker>||:Ah...okay! Hup!!!
-HK416Mod(0)<Speaker>416</Speaker>||<SE1>ClothingUp</SE1>:There's a ventilation duct up here... Not good... I'm stuck! This gap is too small!
-UMP9Mod(6)<Speaker>UMP9</Speaker>||<SE1>Rope</SE1>:Let me try... It's not working, I'm stuck too.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(6)||:Let me give it a go... Looks like I can fit in there.+No wonder they decided to take Gr G11. Still, that means they probably aren't very big either.
-UMP45Mod(0)<Speaker></Speaker>||:UMP45 turns on her tactical flashlight and inspects the wire-filled duct. Gr G11's wailing can be heard from some distance away.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:Gr G11 hasn't been taken too far away, since her signal hasn't vanished yet. +Also...judging by the direction she's been dragged off to, this duct might take us into the jammed area. +I'll pursue them through the duct; the two of you should split up and look for the jammer and a way in.
-UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:You're going to look for Gr G11 yourself, 45? What if there's an ambush in there...
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:I'll widen the hole. Come down first.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Save the explosives for what they're meant to do. If there really is an ambush, we'll be dead even if we all go in there.+If anything happens, I should be able to figure a way out as long as I have no one else to worry about.
-UMP45Mod(0);UMP9Mod(5)<Speaker>UMP9</Speaker>||:Well, if you say so...
-UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:I'll lift you up. +...And remember, come back with her.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Причина? +Мне плевать, почему это произошло. У них и не должно было быть никакой причины погибнуть там! +Я делаю это, чтобы заставить виновного во всём этом поплатиться! +С того момента, как я выбралась живой, до того, как собрала вас всех в эту команду и помогла Анже и Грифону, моя цель ни разу не изменилась, ни на йоту!
+UMP45Mod(0)<Speaker></Speaker>;HK416Mod(0)||<震屏>:UMP45 с силой стучит по карантинной двери рядом с головой 416-ой. По тихому коридору раздаётся глухой звук. +416-я продолжает пристально смотреть на UMP45, словно не обращая внимания на этот звук.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Так что мне ПЛЕВАТЬ, ждут ли меня там десять или сто Нито. Я всё равно пойду туда, даже если придётся действовать в одиночку и без моих Болванок. +Признаю, что ничего не знаю о том, что там внутри, поэтому не могу разработать полный план перед тем, как действовать, как я всегда делаю. +Я знаю только одно: если я не буду двигаться вперёд, то всё, что я сделал до сих пор, может оказаться напрасным. +Я не могу смириться с мыслью, что этот ублюдок, стоящий за всем этим, в конце концов может посмеяться последним.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<BGM>BGM_Empty</BGM>:... +Теперь я понимаю, почему ты так стремишься умереть.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Так какой твой ответ?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Раз ты так спешишь погубить свою жизнь, у меня нет причин тебя останавливать.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Рада, что ты понимаешь.
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Там внутри опасность гораздо больше, чем снаружи. Пусть 9-я пойдёт вместе с Gr G11, чтобы найти устройство, создающее помехи. Я вместе с тобой попробую найти путь внутрь.
+UMP45Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker>||:Э? Но...
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Ты — Кукла радиоэлектронной борьбы. Если тебе доведется столкнуться с Нито, ты не сможешь оказать сопротивление, так что лучше займись тем, что у тебя хорошо получается, на улице.
+UMP45Mod(0);UMP9Mod(4)<Speaker>UMP9</Speaker>||:Но что, если 45-ю снова взломают...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(0)||:Всё будет хорошо, 9-я. Я знала, что она так скажет. +Похоже, эта так называемая элитная Кукла такая же сумасшедшая, как и я. В таком случае, разве не лучше двум сумасшедшим держаться вместе?
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Давайте поспешим.
+UMP45Mod(0);G11(2)<Speaker>Gr G11</Speaker>||:Э-э, не хочу тебя перебивать, но мне кажется, я что-то услышала над нами...
+()<Speaker></Speaker>||:В отряде 404 воцарилась тишина. Не слышно ничего, кроме шелеста одежды Кукол и отдаленного гудения генератора.
+HK416Mod(0)<Speaker>416</Speaker>||:Я ничего не слышу. Может, на этой давно заброшенной базе привидения?
+G11(2)<Speaker>Gr G11</Speaker>||:Н-н-не пугай меня...
+()||<BGM>BGM_Boss</BGM><黑屏1>0,10</黑屏1>:С потолка доносится стук, который становится всё громче и громче, а затем внезапно гаснет свет. 404 сразу же напрягается.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏2><BIN>9</BIN>:Предстоит атака противника. Переключитесь в режим ночного видения, будьте внимательны на поворотах.
+()||<SE1>Explode</SE1>:Отряд 404 настороженно осматривает окрестности с поднятым оружием, но тут стук прекращается. Как раз когда все собираются расслабиться, сверху раздаётся звук взрыва.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Ложись!
+()||:В потолке, который оказался не слишком высоким, взрывом пробивается дыра, и как только Gr G11 прикрывает голову, чтобы защититься от осколков, из него стремительно выскакивает чёрная фигура и тащит её через пролом.
+G11(3)<Speaker>Gr G11</Speaker>||:Уаа! Меня что-то схватило! 416-я, на помощь!!!！
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:Ой, нет, Gr G11 затянуло под потолок!
+HK416Mod(0)<Speaker>416</Speaker>||:...Чёрт возьми, я не могу стрелять!
+()<Speaker></Speaker>||:Когда Куклы пытаются спасти Gr G11,они внезапно обнаруживают, что они полностью парализованы.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Опять это... +Это Изомер? Или опять М16?
+()||<黑屏1><BGM>BGM_Empty</BGM>:Их паралич длится недолго. Через несколько секунд «Куклы» вновь обретают контроль над своими телами.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<BIN>46</BIN><黑屏2>:Я... я могу двигаться...
+HK416Mod(0)<Speaker>416</Speaker><Shake>||:9-я, быстрее! Подними меня!
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:Ах... ладно! Вперёд!!!
+HK416Mod(0)<Speaker>416</Speaker>||<SE1>ClothingUp</SE1>:Здесь, наверху, проходит канал вентиляции... Плохо дело... Я застряла! Эта щель слишком узкая!
+UMP9Mod(6)<Speaker>UMP9</Speaker>||<SE1>Rope</SE1>:Давай попробую... Не получается, я тоже застряла.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;UMP9Mod(6)||:Попробую... Похоже, я туда помещусь.+Неудивительно, что они решили взять Gr G11. Впрочем, это значит, что они, наверное, тоже не очень большие.
+UMP45Mod(0)<Speaker></Speaker>||:UMP45 включает свой тактический фонарик и осматривает заваленный проводами воздуховод. С некоторого расстояния слышен вопль Gr G11.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:Gr G11 унесли не слишком далеко, так как её сигнал ещё не исчез. +К тому же… судя по направлению, в котором её утащили, этот воздуховод может привести нас в зону, где работает глушитель. +Я пойду за ними по воздуховоду; вам двоим следует разделиться и поискать глушитель и путь внутрь.
+UMP45Mod(0);UMP9Mod(6)<Speaker>UMP9</Speaker>||:Ты сама собираешься искать Gr G11, 45-я? А вдруг там засада...
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||:Я расширю отверстие. Сначала спустись вниз.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:Прибереги взрывчатку для того, для чего она предназначена. Если там действительно засада, мы все погибнем, даже если пойдём туда все вместе.+Если что-то случится, я смогу найти выход из ситуации, пока мне не нужно беспокоиться ни о ком, кроме себя.
+UMP45Mod(0);UMP9Mod(5)<Speaker>UMP9</Speaker>||:Ну, раз ты так говоришь...
+UMP45Mod(0);HK416Mod(0)<Speaker>416</Speaker>||<黑屏1>:Я тебя подниму. +...И не забудь, вернись вместе с ней.
