@@ -1,74 +1,74 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>222</BIN><黑屏2><BGM>BGM_Battle</BGM>:On the first floor of the submarine base.+The skirmish inside the base is still going on. The Military mechs are forced down the elevator shaft by M16's attacks, and M16 jumps down after them.+The actinic blue light shining in the shaft of the destroyed main elevator grows brighter, and the tremors from the explosions cause the Dolls to stagger.
-NytoIsomer(4)<Speaker>Dandelion</Speaker>||:Ladies, a new transmission from the Commander. In five minutes, the Commander will detonate the sea valves, so we cannot remain here.+Also, 404 has sent a distress signal. The Commander is trapped near the sea valves and needs help in getting clear.
-RO635(0)<Speaker>RO635</Speaker>||:So it's time for the last resort, huh.+What now, leader?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Everyone, withdraw to the upper levels and find a way to rescue the Commander.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:But...but...16 is still down there!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'll find her. The rest of you, take the Commander to a safe place and wait for me.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Are you sure?+But you'll be down there by yourself...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:None of you can withstand 16's OGAS attacks. And besides... You know that it's not firepower we need when dealing with her.
-RO635(0)<Speaker>RO635</Speaker>||:The elevator won't last much longer. If you go down, you'll have a hard time getting back up.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I'm not going there to die. Have faith, I'll bring 16 back.
-AR15Mod(0)<Speaker>ST AR-15</Speaker>||:... +Since you've already set your mind to it, we won't waste any more of your time. +Hurry down there and bring that asshole back.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:I'm sure M4 can do it!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:Yeah. RO, take care of everyone.
-RO635(0)<Speaker>RO635</Speaker>||:Got it, leader. We'll be waiting for you to return.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:Yup. I'll be right back.
-()||<BIN>220</BIN><黑屏2>:After receiving their orders, the AR Team rushes to the Commander's position. +Meanwhile, M4 peers down the elevator shaft when she suddenly feels Dandelion's consciousness return to her neural cloud.
-()<Speaker>M4A1</Speaker>||:Dandelion...
-()<Speaker>Dandelion</Speaker>||:I think I should be with you at a time like this.
-()<Speaker>M4A1</Speaker>||:Tell me what you can perceive.
-()<Speaker>Dandelion</Speaker>||:Connection density is spiking. +Vast quantities of data are flooding in. I believe that Starfish isn't just showing signs of being activated — it has already been activated.
-()<Speaker>M4A1</Speaker>||:So is our mission a failure?
-()<Speaker>Dandelion</Speaker>||:Elisa isn't able to truly enter the network which is linked to the Source yet. She's missing something.+So strictly speaking, we haven't failed yet, and the outside world shouldn't be able to determine that Starfish has been activated. +Also, the Starfish activation has increased the connection density of OGAS, which allows me to see more things. +If we get closer, I'll be able to find my way into M16's, or even Elisa's neural cloud.
-()<Speaker>M4A1</Speaker>||:Can we stop them remotely?+Tell them to get to safety, at least.
-()<Speaker>Dandelion</Speaker>||:I can't make any promises, but at least we'll know what they're up to.
-()<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:Understood. Do your best.
-()||<BIN>221</BIN><BGM>BGM_War</BGM><黑点2>:In front of the elevator.+Under the cover of the Sangvis Dolls, M16 nimbly slips into the blind spot of a mech and stuffs a grenade into its joint.+She evades the mechanical foot that seeks to crush her and leaps out from behind the mech.
-()||<SE1>Explode</SE1>:Boom— +There is an explosion. The mech shudders, then lists to one side.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...Still not enough?
-()<Speaker>Pilot</Speaker>||:Amber-3's movements are impeded.
-()<Speaker>Adjutant</Speaker>||:Hang in there. Suppress the enemy ahead. I'll cover you.
-()<Speaker>Pilot</Speaker>||:Yes, sir!
-()||:The plasma cannon blasts the place where M16 was standing a second ago.+However, she is far more agile than the mech and avoids the shot.+The adjutant's mech uses this opportunity to position itself in front of its fallen comrade.
-()<Speaker>Pilot</Speaker>||:Emergency repairs on Amber-3 are complete!
-()<Speaker>Adjutant</Speaker>||:Hold off the enemies behind us! I'll handle things here!
-()<Speaker>Pilot</Speaker>||:Sir!
-()||:M16 takes out another grenade and charges at the mech before her.
-()<Speaker>Adjutant</Speaker>||:Did you think the same trick would work twice?!
-()||:The adjutant's mech backs away from M16, its two secondary guns pre-charged and ready.+The crosshair rests on M16.
-()||<SE1>Explode</SE1>:Boom! Boom!
-()||:Just then, the earth starts shaking.+A massive tremor and the sound of rupturing metal come from the distance. +It is as though a sea monster were tearing up this base of reinforced concrete.+The sudden change freezes everyone in their tracks.
+()||<BIN>222</BIN><黑屏2><BGM>BGM_Battle</BGM>:На первом этаже подводной базы.+Внутри базы по-прежнему идут перестрелки. Военные мехи под натиском атак M16 оттеснены в шахту лифта, и M16 прыгает вслед за ними.+Синеватый свет, проникающий в шахту разрушенного главного лифта, становится ярче, а от толчков, вызванных взрывами, Куклы шатаются.
+NytoIsomer(4)<Speaker>Данделион</Speaker>||:Девушки, новое сообщение от Командира. Через пять минут Командир взорвёт морские клапаны, поэтому мы не можем оставаться здесь.+Кроме того, 404 послал сигнал бедствия. Командир оказался в ловушке возле морских клапанов и нуждается в помощи, чтобы выбраться оттуда.
+RO635(0)<Speaker>RO635</Speaker>||:Значит, пришло время прибегнуть к крайней мере, да?+Что теперь, лидер?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Все, отступайте на верхние уровни и найдите способ спасти Командира.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Но... но... 16-я всё ещё там, внизу!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я найду её. А вы отведите Командира в безопасное место и подождите меня.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:Ты уверена? + Но ты же будешь там в одиночку...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Никто из вас не выдержит атак ОГАС 16-ой. Да и к тому же… Вы же знаете, что в борьбе с ней нам нужна не огневая мощь.
+RO635(0)<Speaker>RO635</Speaker>||:Лифт, похоже, скоро выйдет из строя. Если спустишься вниз, тебе будет трудно подняться обратно.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я не собираюсь умирать. Не сомневайся, я верну 16-ю обратно.
+AR15Mod(0)<Speaker>ST AR-15</Speaker>||:... +Раз ты уже приняла решение, мы не будем больше отнимать у тебя время. +Скорее беги туда и приведи эту дуру обратно.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:Я уверена, что M4 справится!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Да. RO, позаботься обо всех.
+RO635(0)<Speaker>RO635</Speaker>||:Поняла, лидер. Будем ждать твоего возвращения.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:Ага. Я скоро вернусь.
+()||<BIN>220</BIN><黑屏2>:Получив приказ, Команда AR мчится к месту нахождения Командира. +Тем временем М4 заглядывает в шахту лифта, когда вдруг чувствует, как сознание Данделиона возвращается в её нейронное облако.
+()<Speaker>M4A1</Speaker>||:Данделион...
+()<Speaker>Данделион</Speaker>||:Думаю, в такой момент я должна быть рядом с тобой.
+()<Speaker>M4A1</Speaker>||:Расскажи мне, что ты можешь уловить.
+()<Speaker>Данделион</Speaker>||:Плотность подключений резко возрастает. +На нас обрушивается огромный поток данных. Я полагаю, что Морская звезда не просто демонстрирует признаки активации — она уже активирована.
+()<Speaker>M4A1</Speaker>||:Значит ли это, что наша миссия провалилась?
+()<Speaker>Данделион</Speaker>||:Элиза пока не может по-настоящему войти в сеть, связанную с Источником. Ей чего-то не хватает.+Так что, строго говоря, мы пока не потерпели неудачу, и внешний мир не должен быть в состоянии определить, что Морская звезда была активирована. +Кроме того, активация Морской звезды увеличила плотность соединений ОГАС, что позволяет мне видеть больше. +Если мы подойдём ближе, я смогу проникнуть в нейронное облако М16 или даже в нейронное облако Элизы.
+()<Speaker>M4A1</Speaker>||:Можно ли заблокировать их удаленно? + По крайней мере, сообщить им, чтобы они укрылись в безопасном месте.
+()<Speaker>Данделион</Speaker>||:Я ничего не могу обещать, но, по крайней мере, мы будем знать, чем они занимаются.
+()<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:Понятно. Сделайте все, что в твоих силах.
+()||<BIN>221</BIN><BGM>BGM_War</BGM><黑点2>:Перед лифтом.+Под прикрытием Кукол Сангвис M16 ловко проскальзывает в слепую зону меха и запихивает гранату в его шарнир.+Она уклоняется от механической ноги, которая пытается раздавить её, и выпрыгивает из-за спины меха.
+()||<SE1>Explode</SE1>:Буум— +Раздаётся взрыв. Мех содрогается, а затем наклоняется в одну сторону.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...Все еще недостаточно?
+()<Speaker>Пилот</Speaker>||:Движения Янтарь-3 затруднены.
+()<Speaker>Адъютант</Speaker>||:Держись. Сдерживай врага впереди. Я прикрою тебя.
+()<Speaker>Пилот</Speaker>||:Да, сэр!
+()||:Плазменная пушка выстреливает в то место, где секунду назад стояла M16.+Однако она гораздо более подвижна, чем мех, и уклоняется от выстрела.+Мех адъютанта использует этот момент, чтобы встать перед своим павшим товарищем.
+()<Speaker>Пилот</Speaker>||:Аварийный ремонт Янтарь-3 завершен!
+()<Speaker>Адъютант</Speaker>||:Сдерживайте врагов сзади! Я здесь сам разберусь!
+()<Speaker>Пилот</Speaker>||:Сэр!
+()||:M16 достает ещё одну гранату и бросается на меха, стоящего перед ней.
+()<Speaker>Адъютант</Speaker>||:Ты что, думала, что один и тот же трюк сработает дважды?!
+()||:Мех адъютанта отступает от M16, его две вспомогательные пушки заряжены и готовы к стрельбе.+Перекрестье прицела наведено на M16.
+()||<SE1>Explode</SE1>:Буум! Буум!
+()||:В этот самый момент земля начинает дрожать.+Из далека доносится сильный толчок и звук ломающегося металла. +Словно морское чудовище разрывает эту железобетонную базу на части.+Эта внезапная перемена заставляет всех застыть на месте.
 M16A1BOSS(0)<Speaker>M16A1</Speaker>||:...
-()||:Before the soldiers realize what has happened, M16 leaps away.+From what she can tell, there is no point in fighting here any longer.+She quickly makes for the gate in front of the elevator and tries to close the final passage.
-()<Speaker>Adjutant</Speaker>||:Trying to run?!
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:The clock strikes 12 and the ball is over.
-()||:The massive gate in front of the elevator creaks and begins to close.
-()<Speaker>Adjutant</Speaker>||:Damn you! Get out of my way!
-()||:Amber-1 rushes toward the elevator, but the gate is already half-shut.+The opening is not big enough for even a Jeep to pass through.
-()||:Thunk!
-()||:The heavy collision makes the elevator gate ring.+The mech can't get in.+Then there is an ear-piercing shriek of twisting metal.+The mech has worked its arms into the gap and is using all its horsepower to force the gate open.+The overload of its throttles makes the mech shudder as it slowly pries the gate open, foot by foot.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Humans just don't know when to quit, do they?
-()||:M16 makes no move to attack. She simply watches from in front of the mech.
-()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:Thank you.
-()||:A figure slides into the elevator from below the mech.
-()<Speaker>Adjutant</Speaker>||<BGM>BGM_Battle</BGM>:What?
-()||:After that, a cannon shell strikes the mech squarely on the cockpit.+The mech falls silent for an instant, then its massive reactor explodes.+The green iron colossus falls backwards.
-()||<SE1>AVG_door_storehouse</SE1>:Kachak.
-()||:The gate slowly closes.+The elevator, which has lost most of its floor, whirs to life beneath the blue glow and begins its descent.+A disconcerting silence hangs thickly in the air.
-()<Speaker>???</Speaker>||:I have to say, this is very handy.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:I'm glad you like it.
-()||:M16 looks calmly at the dearly familiar Doll, who currently has her weapon — the weapon given to her by M16 — trained steadily on herself.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:I finally caught up to you.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:I wish you hadn't. In the end, you've come to a place where you shouldn't be, just as you trusted someone you shouldn't have.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:It's not too late to stop now. By my authority as the leader of the AR Team, I order you to return to us right now!
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:It has always been too late, ever since before Operation Butterfly.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:But why?! What exactly are you trying to achieve?+Why do you want to activate Starfish? Why do you want to help Elisa get into Starfish?!
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:I have no obligation to answer you.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:When did you become like this, M16?+Do you know what kind of consequences this will lead to?!
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:That's fine. I'm willing to take full responsibility. It all started because of me, and it's oddly heartening to know that it will also end with me. +You want me to stop?+Then defeat me, here and now. Prove your strength with iron and fire. Use that strength to prove that you're right.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Don't think I can't do it, M16.
-()<Speaker>Dandelion (Neural Cloud)</Speaker>||:<color=#00CCFF>M4, the firewalls in her neural cloud are as powerful as ever. Her OGAS is probably protecting her. If you can attack her now, you can force her to split up her computational power. That way, I might get a chance to take control of her body.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>I'll try...</color>
-()||:M4's finger slowly tightens around the trigger of the weapon on her shoulder, the trigger of the weapon which M16 gave her.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||:No, I know you can do it.+After all, this isn't the first time we've fired at each other.+C'mon then. Try and stop me.
+()||:Не успевают солдаты осознать, что произошло, как М16 уже убегает.+Насколько она может судить, продолжать сражаться здесь больше нет смысла.+Она быстро направляется к воротам перед лифтом и пытается перекрыть последний проход.
+()<Speaker>Адъютант</Speaker>||:Пытаешься сбежать?!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Часы пробили 12, и бал закончился.
+()||:Массивные ворота перед лифтом скрипят и начинают закрываться.
+()<Speaker>Адъютант</Speaker>||:Чёрт тебя подери! Уйди с дороги!
+()||:Янтарь-1 мчится к лифту, но ворота уже наполовину закрыты.+Проем настолько узкий, что через него не пройдет даже джип.
+()||:Удар!
+()||:От сильного удара зазвенели ворота лифта.+Мех не может проникнуть внутрь.+Затем раздается пронзительный визг скручивающегося металла.+Мех просунул руки в щель и использует всю свою мощность, чтобы вырвать ворота.+Перегрузка двигателей заставляет меха содрогаться, пока он медленно, фут за футом, распахивает ворота.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Люди просто не знают, когда нужно остановиться, правда?
+()||:M16 не делает никаких попыток атаковать. Она просто наблюдает, стоя перед мехом.
+()<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:Спасибо.
+()||:Из-под робота в лифт скользит какая-то фигура.
+()<Speaker>Адъютант</Speaker>||<BGM>BGM_Battle</BGM>:Что?
+()||:После этого артиллерийский снаряд попадает прямо в кабину меха.+Мех на мгновение замирает, а затем взрывается его огромный реактор.+Зелёный железный колосс падает назад.
+()||<SE1>AVG_door_storehouse</SE1>:Качча.
+()||:Ворота медленно закрываются.+Лифт, у которого отвалилась большая часть пола, с жужжанием запускается под сиянием голубого света и начинает спуск.+В воздухе витает гнетущая тишина.
+()<Speaker>???</Speaker>||:Должна сказать, это очень удобно.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Рада, что тебе понравилось.
+()||:M16 спокойно смотрит на хорошо знакомую ей Куклу, которая в данный момент уверенно держит оружие — то самое, которое ей подарила M16 — нацеленное прямо на себя.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Я наконец-то догнала тебя.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Лучше бы ты этого не делала. В итоге ты оказался там, где тебе не следовало бы быть, точно так же, как доверилась тому, кому не стоило доверять.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Еще не поздно остановиться. Полагаясь на свои полномочия как лидера Команды AR, я приказываю тебе немедленно вернуться к нам!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Всегда было уже слишком поздно — ещё до начала операции Бабочка.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Но почему?! Чего именно ты пытаешься добиться?+Почему ты хочешь активировать Морскую звезду? Почему ты хочешь помочь Элизе получить доступ к Морской звезде?!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Я не обязана тебе отвечать.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:Когда ты стала такой, M16?+Ты хоть представляешь, к каким последствиям это приведет?!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Ничего страшного. Я готова взять на себя всю ответственность. Всё началось из-за меня, и как ни странно, мне отрадно осознавать, что всё закончится именно со мной. +Ты хочешь, чтобы я остановилась?+ Тогда победи меня — здесь и сейчас. Докажи свою силу железом и огнём. Используй эту силу, чтобы доказать, что ты права.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...Не думай, что я не смогу этого сделать, М16.
+()<Speaker>Данделион (Нейронное облако)</Speaker>||:<color=#00CCFF>M4, брандмауэры в её нейронном облаке по-прежнему мощны. Скорее всего, её защищает система ОГАС. Если удастся атаковать её сейчас, можно заставить её распределить вычислительную мощность. В этом случае у меня может появиться шанс взять под контроль её тело.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>Я попробую...</color>
+()||:Палец М4 медленно сжимает спусковой крючок оружия, висящего у неё на плече — того самого оружия, которое ей дала М16.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:Нет, я знаю, что ты сможешь.+В конце концов, мы не впервые стреляем друг в друга.+Ну же, давай. Попробуй меня остановить.
