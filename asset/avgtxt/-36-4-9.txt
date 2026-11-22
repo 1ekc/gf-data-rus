@@ -1,49 +1,49 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:...
-()<Speaker>Commander</Speaker>||<黑屏2><BIN>221</BIN><BGM>BGM_Sneak</BGM>:Kalina, what's the situation?
-NPC-Kalin(9)<Speaker>Kalina</Speaker>||:After breaking through, the mechs are heading straight for...the base elevator. Looks like they're planning to descend into the lower levels of the base.
-()<Speaker>Commander</Speaker>||:Where the Starfish is, huh... +Let Ange handle it. We can't split our forces any further. +How are things at the base entrance?
-NPC-Kalin(9)<Speaker>Kalina</Speaker>||:The Military's follow-up units are trying to cross the roadblocks that we blasted into place. It probably won't stop them for long. +Should we counterattack?
-()<Speaker>Commander</Speaker>||:These are the last few echelons we have. We can't afford to lose any more. +Dammit, will we have to mount a fighting retreat into the base's interior?
-NPC-Jason(1)<Speaker>K</Speaker>||:You must not fall back. We should still be able to deal with them as long as they're exposed.
-()<Speaker>Commander</Speaker>||:I'm listening.
-NPC-Jason(1)<Speaker>K</Speaker>||:Do you have comms equipment?
-()<Speaker>Commander</Speaker>||:All our long-range comms equipment was destroyed.
-NPC-Jason(1)<Speaker>K</Speaker>||:Short-range will do. You know that there's a Vympel unit not far away from the base, right?
-()<Speaker>Commander</Speaker>||:I know, but will they help us?
-NPC-Jason(1)<Speaker>K</Speaker>||:That'll depend on how negotiations go. +Give me the radio and tune it to UHF 73.975, frequency hopping at 111 times per second. Use encryption mode 12.
-()<Speaker>Commander</Speaker>||:Give it to him.
-NPC-Kalin(9)<Speaker>Kalina</Speaker>||:Alright, the adjustments are complete. +...Are they really going to respond?
-NPC-Jason(1)<Speaker>K</Speaker>||:Let's just hope we can get through at all. +This is "Waterfall", do you copy?
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:... +The only sound that comes through the radio is white noise.
-NPC-Jason(1)<Speaker>K</Speaker>||:I repeat, this is "Waterfall", Please respond if you read me.
+()<Speaker>Командир</Speaker>||<黑屏2><BIN>221</BIN><BGM>BGM_Sneak</BGM>:Калина, как обстоят дела?
+NPC-Kalin(9)<Speaker>Калина</Speaker>||:Прорвав оборону, мехи направляются прямо к… лифту базы. Похоже, они собираются спуститься на нижние уровни базы.
+()<Speaker>Командир</Speaker>||:Где же эта Морская звезда, а... +Пусть Анже этим займётся. Мы не можем больше распылять силы. +Как обстоят дела у входа на базу?
+NPC-Kalin(9)<Speaker>Калина</Speaker>||:Подкрепление боевых единиц пытается прорвать блокпосты, которые мы взорвали. Скорее всего, это не задержит их надолго. +Стоит ли нам перейти в контратаку?
+()<Speaker>Командир</Speaker>||:Это последние отряды, которые у нас остались. Мы не можем позволить себе потерять ни одного из них. +Чёрт, неужели нам придётся организовать боевое отступление вглубь базы?
+NPC-Jason(1)<Speaker>K</Speaker>||:Нельзя отступать. Пока они находятся на открытом месте, мы по-прежнему должны быть в состоянии справиться с ними.
+()<Speaker>Командир</Speaker>||:Я слушаю.
+NPC-Jason(1)<Speaker>K</Speaker>||:У тебя есть средства связи?
+()<Speaker>Командир</Speaker>||:Всё наше оборудование для связи на большие расстояния было уничтожено.
+NPC-Jason(1)<Speaker>K</Speaker>||:Достаточно ближнего радиуса действия. Ты же знаешь, что недалеко от базы находится подразделение Вымпел, да?
+()<Speaker>Командир</Speaker>||:Я знаю, но помогут ли они нам?
+NPC-Jason(1)<Speaker>K</Speaker>||:Это будет зависеть от того, как пойдут переговоры. +Дай мне радио и настрой его на UHF 73,975, с переключением частоты 111 раз в секунду. Используй режим шифрования № 12.
+()<Speaker>Командир</Speaker>||:Отдай это ему.
+NPC-Kalin(9)<Speaker>Калина</Speaker>||:Ладно, настройки завершены. +...Неужели они действительно ответят?
+NPC-Jason(1)<Speaker>K</Speaker>||:Будем надеяться, что нам вообще удастся пробиться. +Это Водопад, слышите?
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:... +Из радио доносится только белый шум.
+NPC-Jason(1)<Speaker>K</Speaker>||:Повторяю, это Водопад. Пожалуйста, ответьте, если вы меня слышите.
 ()<Speaker></Speaker>||:...
-NPC-Kalin(9)<Speaker>Kalina</Speaker>||:No response, huh...
-()<Speaker></Speaker>||:K glances at Kalina, who looks extremely anxious, and his grip tightens on the radio handset.
-NPC-Jason(1)<Speaker>K</Speaker>||:I repeat, this is "Waterfall", requesting assistance from Squad Cobalt-13 of Vympel 4th Detachment, do you copy? Over. +My ID code is DINV-RTSA-1239. This is an emergency transmission, please respond immediately if you copy. Over.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:The white noise is cut short by an electronic sound, then a male voice speaks.
-()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Cobalt-13 copies. Message received. Over.</color>
-NPC-Jason(1)<Speaker>K</Speaker>||:Cobalt-13, Waterfall is requesting support. Enemy units are about to break through the defense zone and enter the restricted area. This is a severe threat to the success of our mission. +Requesting fire support. Over.
-()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Negative. We do not have permission to fire. Over.</color>
-NPC-Jason(1)<Speaker>K</Speaker>||:Cobalt-13, verify the urgency of the situation. The enemy's main armored unit is currently stalled in the built-up area. This is your last chance to provide fire support. +If the enemy succeeds in breaking through, they will constitute a severe threat to our mission.+Please notify your superiors. Over.
-()<Speaker></Speaker>||:The radio goes silent for a brief moment.
-()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Negative. I understand and sympathize with your situation, but you were already informed before the operation began that you would not receive fire support. Over.</color>
-NPC-Jason(1)<Speaker>K</Speaker>||:Our team has obtained the "star". Our mission is to ensure the safety of the "star" at all costs.+The enemy armored units are severely impeding the progress of our mission. This is an emergency situation, please provide us with fire support immediately!
-()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Cobalt-13 copies, but we are not authorized to open fire. Over.</color>
-NPC-Jason(1)<Speaker>K</Speaker><Shake>||:God dammit! Then call your fucking superiors and ASK them, damned Ivan!+I am Major Kain Schwaben of the German Democratic Republic's Ministry for State Security; on behalf of the German Stasi, I request that the Soviets provide fire support for this operation!+Notify your superiors immediately! Over!
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:... +The despair-inducing white noise continues over the radio. +It only lasts a few seconds, but it feels like an eternity.
-()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Cobalt-13 copies, we will relay this message to our superiors. Over.</color>
-NPC-Jason(1)<Speaker>K</Speaker>||:Waterfall copies. Thank you.
-()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Your request has been submitted. Please delay the enemy units for as long as possible. We are waiting for further instructions from Moscow.</color>+<color=#00CCFF>We will contact you once we obtain permission to fire. Cobalt-13 out.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:K puts down the radio handset. His eyes betray his genuine uncertainty of whether the fire support will come.
-()<Speaker>Commander</Speaker>||:Stasi?
-NPC-Jason(1)<Speaker>K</Speaker>||:I know what you want to ask. I'll explain after it's all over.
-()<Speaker>Commander</Speaker>||:I hope we'll live long enough to hear your explanation.+So we have to hold off the Military until we get a reply?
-NPC-Jason(1)<Speaker>K</Speaker>||:Correct. You must buy time for the bombardment.+That's your job, Commander.
-()<Speaker>Commander</Speaker>||:Tsk... Kalina, how many combat-capable personnel do we have?
-NPC-Kalin(9)<Speaker>Kalina</Speaker>||:If we push it, we can put a few echelons together, but...
-()<Speaker>Commander</Speaker>||:Understood. Put me through to everyone.
-NPC-Kalin(9)<Speaker>Kalina</Speaker>||<BGM>BGM_Empty</BGM>:Okay...
-()<Speaker></Speaker>||<BGM>10258</BGM>:The command display shows the surviving Dolls. Their fine features are now blackened by the soot and dust of the battlefield.+The only sound that interrupts the silence is the distant booming of the enemy's cannon fire.+The Commander doesn't have to say anything. They understand what is being asked of them, yet they still return the Commander's gaze with the same old smile.+The Commander closes their eyes and takes a deep breath. Then they open their eyes again and start assigning new missions and plotting new routes on the command tablet.+The Dolls immediately run to their designated locations. Everything is silent, save for the distant sounds of cannon fire and the howling frigid wind.+Finally, the Commander puts down the tablet. Only then do they realize that their fists are clenched so tightly that the knuckles have gone white.
+NPC-Kalin(9)<Speaker>Калина</Speaker>||:Никакого ответа, да...
+()<Speaker></Speaker>||:К бросает взгляд на Калину, которая выглядит крайне встревоженной, и крепче сжимает в руке трубку рации.
+NPC-Jason(1)<Speaker>K</Speaker>||:Повторяю, это Водопад, запрашиваю помощь у отряда Кобальт-13 4-го отделения Вымпел, принято?. +Мой идентификационный код — DINV-RTSA-1239. Это экстренное сообщение, пожалуйста, ответьте немедленно, если приняли. Конец.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:Белый шум прерывается электронным звуком, после чего раздаётся мужской голос.
+()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Кобальт-13, принято. Сообщение получено. Конец связи.</color>
+NPC-Jason(1)<Speaker>K</Speaker>||:Кобальт-13, Водопад запрашивает поддержку. Подразделения противника вот-вот прорвут оборону и войдут в запретную зону. Это представляет серьезную угрозу для успеха нашей миссии. +Запрашиваю огневую поддержку. Конец связи.
+()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Отрицательно. У нас нет разрешения на открытие огня. Конец связи.</color>
+NPC-Jason(1)<Speaker>K</Speaker>||:Кобальт-13, подтвердите степень срочности ситуации. Основная бронетанковая группа противника в настоящее время застряла в городской застройке. Это ваш последний шанс оказать огневую поддержку. +Если противнику удастся прорваться, это создаст серьезную угрозу для нашей миссии.+ Просьба доложить начальству. Конец связи.
+()<Speaker></Speaker>||:На мгновение в эфире воцарилась тишина.
+()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Отказ. Я понимаю вашу ситуацию и сочувствую вам, но вас уже проинформировали до начала операции о том, что огневая поддержка вам не будет предоставлена. Конец связи.</color>
+NPC-Jason(1)<Speaker>K</Speaker>||:Наша команда захватила звезду. Наша задача — любой ценой обеспечить безопасность звезды.+Бронетехника противника серьезно затрудняет выполнение нашей задачи. Это чрезвычайная ситуация, пожалуйста, немедленно окажите нам огневую поддержку!
+()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Кобальт-13 принято, но у нас нет разрешения открывать огонь. Конец связи.</color>
+NPC-Jason(1)<Speaker>K</Speaker><Shake>||:Дьявол! Тогда позвони своим чертовым начальникам и СПРОСИ у них, чертов Иван!+Я — майор Каин Швабен из Министерства государственной безопасности Германской Демократической Республики; от имени немецкой Штази я требую, чтобы Советская сторона обеспечила огневую поддержку этой операции!+Немедленно сообщи об этом своим начальникам! Конец связи!
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:... +По радио по-прежнему звучит этот вызывающий отчаяние белый шум. +Он длится всего несколько секунд, но кажется вечностью.
+()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Кобальт-13, мы передадим это сообщение нашему руководству. Конец связи.</color>
+NPC-Jason(1)<Speaker>K</Speaker>||:Водопад принято. Спасибо.
+()<Speaker>Cobalt-13</Speaker>||:<color=#00CCFF>Ваш запрос отправлен. Пожалуйста, задержите вражеские подразделения как можно дольше. Мы ждем дальнейших указаний из Москвы.</color>+<color=#00CCFF>Мы свяжемся с вами, как только получим разрешение на открытие огня. Кобальт-13, конец связи.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:К. опускает трубку рации. Его взгляд выдаёт искреннюю неуверенность в том, прибудет ли огневая поддержка.
+()<Speaker>Командир</Speaker>||:Штази?
+NPC-Jason(1)<Speaker>K</Speaker>||:Я знаю, о чём ты хочешь спросить. Я объясню, когда всё закончится.
+()<Speaker>Командир</Speaker>||:Надеюсь, мы проживем достаточно долго, чтобы услышать твоё объяснение.+Значит, нам придется сдерживать Военных, пока не получим ответ?
+NPC-Jason(1)<Speaker>K</Speaker>||:Верно. Вам нужно выиграть время для обстрела.+Это ваша задача, Командир.
+()<Speaker>Командир</Speaker>||:Тц... Калина, сколько у нас боеспособного личного состава?
+NPC-Kalin(9)<Speaker>Калина</Speaker>||:Если постараться, то можно собрать несколько отрядов, но...
+()<Speaker>Командир</Speaker>||:Понятно. Соедини меня со всеми.
+NPC-Kalin(9)<Speaker>Калина</Speaker>||<BGM>BGM_Empty</BGM>:Окей...
+()<Speaker></Speaker>||<BGM>10258</BGM>:На дисплее командования отображаются уцелевшие Куклы. Их тонкие черты лица теперь почернели от сажи и пыли с поля боя.+Единственный звук, нарушающий тишину, — это отдаленный гул вражеских пушечных выстрелов.+Командиру не нужно ничего говорить. Они понимают, чего от них требуют, но всё равно отвечают на его взгляд той же старой улыбкой.+Командир закрывает глаза и делает глубокий вдох. Затем он снова открывает глаза и начинает назначать новые задания и прокладывать новые маршруты на командном планшете.+Куклы немедленно бегут к назначенным им местам. Вокруг царит тишина, за исключением отдаленных звуков пушечных выстрелов и воя ледяного ветра.+Наконец, Командир откладывает планшет. Только тогда он осознаёт, что его кулаки сжаты так крепко, что суставы побелели.
 NPC-Jason(1)<Speaker>K</Speaker>||:...
-()<Speaker>Commander</Speaker>||:They're buying you the time you want, K. +Don't let them down.
-NPC-Jason(1)<Speaker>K</Speaker>||<黑屏1>:...I won't.
+()<Speaker>Командир</Speaker>||:Они выигрывают для тебя время, которое тебе нужно, К. +Не подведи их.
+NPC-Jason(1)<Speaker>K</Speaker>||<黑屏1>:...Не подведу.
